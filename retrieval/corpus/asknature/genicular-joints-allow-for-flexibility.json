@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-genicular-joints-allow-for-flexibility",
+  "organism_common": "Coralline algae",
+  "organism_scientific": "",
+  "strategy_summary": "Genicular joints in the fronds of coralline macroalgae provide flexibility and minimize tension due to segmentation. Morphology of Calliarthron Thalli  The tissue of the alga Calliarthron cheilosporioides comprises flexible genicular joints connecting calcified intergeniculum regions.",
+  "mechanism": "Genicular joints in the fronds of coralline macroalgae provide flexibility and minimize tension due to segmentation.\n\nMorphology of Calliarthron Thalli\n\nThe tissue of the alga Calliarthron cheilosporioides comprises flexible genicular joints connecting calcified intergeniculum regions. Each geniculum contains a single tier of elongated cells that lie parallel to the axis of growth. Denny et al.1 show that this cellular structure helps the alga to withstand the repeated tensile loading of waves — the lack of transverse connections between the geniculum cells means that when one cell breaks, strain energy is not passed to the next cell. Furthermore, stress does not concentrate at the crack tip, so the crack path will 'meander' through the tissue and not propagate readily. b, The tissues of other algae more closely resemble a homogeneous material of interconnected isodiametric cells. Once a crack path forms in this material, strain energy can flow more easily towards the tip of the crack, allowing stress to concentrate so that the crack propagates in a more directed way, perpendicular to the axis of loading.\n\n“Previous studies have demonstrated that fleshy seaweeds resist wave-induced drag forces in part by being flexible. Flexibility allows fronds to ‘go with the flow’, reconfiguring into streamlined shapes and reducing frond area projected into flow. This paradigm extends even to articulated coralline algae, which produce calcified fronds that are flexible only because they have distinct joints (genicula). The evolution of flexibility through genicula was a major event that allowed articulated coralline algae to grow elaborate erect fronds in wave-exposed habitats. Here we describe the mechanics of genicula in the articulated coralline Calliarthron and demonstrate how segmentation affects bending performance and amplifies bending stresses within genicula. A numerical model successfully predicted deflections of articulated fronds by assuming genicula to be assemblages of cables connecting adjacent calcified segments (intergenicula). By varying the dimensions of genicula in the model, we predicted the optimal genicular morphology that maximizes flexibility while minimizing stress amplification. Morphological dimensions of genicula most prone to bending stresses (i.e. genicula near the base of fronds) match model predictions.”(Martone and Denny 2010: 3421)",
+  "function_addressed": [
+    "manage tension",
+    "manage shear",
+    "manage turbulence"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/genicular-joints-allow-for-flexibility/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "genicular",
+    "joints",
+    "allow",
+    "flexibility"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

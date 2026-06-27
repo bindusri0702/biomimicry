@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-dermal-bone-buffers-co2-induced-acidosis",
+  "organism_common": "Protect From Gases",
+  "organism_scientific": "",
+  "strategy_summary": "Dermal bone in turtles reduces acidity resulting from carbon dioxide build up by releasing calcium and magnesium carbonates into the bloodstream. “Drawing from physiological studies of extant tetrapods, where dermal bone or other calcified tissues aid in regulating acid–base balance relating to hypercapnia (excess…",
+  "mechanism": "Dermal bone in turtles reduces acidity resulting from carbon dioxide build up by releasing calcium and magnesium carbonates into the bloodstream.\n\n“Drawing from physiological studies of extant tetrapods, where dermal bone or other calcified tissues aid in regulating acid–base balance relating to hypercapnia (excess blood carbon dioxide) and/or lactate acidosis, we propose a similar function for these sculptured dermal bones in early tetrapods. Unlike the condition in modern reptiles, which experience hypercapnia when submerged in water, these animals would have experienced hypercapnia on land, owing to likely inefficient means of eliminating carbon dioxide. The different patterns of dermal bone sculpture in these tetrapods largely correlates with levels of terrestriality: sculpture is reduced or lost in stem amniotes that likely had the more efficient lung ventilation mode of costal aspiration, and in small-sized stem amphibians that would have been able to use the skin for gas exchange.” (Janis et al. 2012: 3035)",
+  "function_addressed": [
+    "protect from gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/dermal-bone-buffers-co2-induced-acidosis/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "dermal",
+    "bone",
+    "buffers",
+    "induced",
+    "acidosis"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

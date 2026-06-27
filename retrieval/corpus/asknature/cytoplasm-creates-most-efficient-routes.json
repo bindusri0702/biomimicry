@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-cytoplasm-creates-most-efficient-routes",
+  "organism_common": "Physarum polycephalum slime mold",
+  "organism_scientific": "",
+  "strategy_summary": "Though it looks like little more than a splash of paint and consists of but a single cell, slime mold has a remarkable life story. When times are good, it exists in its “plasmodium” form––a single cell with countless nuclei, spreading across damp surfaces near the forest floor as it grazes on microbes it finds there.",
+  "mechanism": "In its plasmodium stage, Physarum polycephalum (also known as “the blob”), looks like an expanding viscous fluid extending tiny fingers in various directions. As it grows, it pushes its fluid innards into these pulsating protuberances, creating a network of nutrient-carrying tubes. Tubes that encounter nourishment grow more robust. Those that fail to find food shrink back, leaving a trail that tells the organism not to bother heading that way again.\n\nA slime mold’s approach to optimizing networks through exploration and reinforcement can be applied to enhancing efficiency in a wide range of human activities. Self-driving cars could use its algorithms to identify the best path to take to a destination in the context of real-time updates on road capacity, traffic volume, and intermittent obstacles. Infrastructure designers could apply it to designing efficient systems for rail transit, delivery routes, water pipes, power grids, and more. A slime mold itself can even be used to define optimal routes by creating a model of the routing puzzle for it to solve in real time.\n\nThe slime mold’s strategy might also be applied in search efforts, whether for lost hikers in a forest or for desired information online. It already has been used to develop an algorithm for modeling the positioning of galaxies relative to each other and to optimize material design.\n\nAny time the choices are many and efficiency is a goal, we might do well to turn to this seemingly simple organism to guide our path to success.",
+  "function_addressed": [
+    "respond to signals",
+    "navigate over land",
+    "compute",
+    "optimize shape/materials",
+    "modify position"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/cytoplasm-creates-most-efficient-routes/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "brainless",
+    "slime",
+    "mold",
+    "creates",
+    "smart",
+    "networks"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

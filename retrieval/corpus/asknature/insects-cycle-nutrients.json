@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-insects-cycle-nutrients",
+  "organism_common": "Insects",
+  "organism_scientific": "",
+  "strategy_summary": "“Forest trees in the eastern USA grow quicker in years after large numbers of cicadas have emerged. Cicadas spend most of their lives underground, where they consume tree root juices, depriving leaves of valuable nutrients.",
+  "mechanism": "“Yang applied various densities of dead cicadas to 1-metre-square forest plots. After a month, plots laden with a typical 240 cicadas contained more microbes, three times the concentration of available ammonium and 2.5 times the concentration of nitrates compared with untreated plots.” (Courtesy of the Biomimicry Guild)\n\n“Resource pulses are occasional events of ephemeral resource superabundance that occur in many ecosystems. Aboveground consumers in diverse communities often respond strongly to resource pulses, but few studies have investigated the belowground consequences of resource pulses in natural ecosystems. This study shows that resource pulses of 17-year periodical cicadas ( Magicicada spp.) directly increase microbial biomass and nitrogen availability in forest soils, with indirect effects on growth and reproduction in forest plants. These findings suggest that pulses of periodical cicadas create ‘bottomup cascades,’ resulting in strong and reciprocal links between the aboveground and belowground components of a North American forest ecosystem.” (Yang 2004:1565)",
+  "function_addressed": [
+    "cycle nutrients",
+    "generate soil/renew fertility"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/insects-cycle-nutrients/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "insects",
+    "cycle",
+    "nutrients"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

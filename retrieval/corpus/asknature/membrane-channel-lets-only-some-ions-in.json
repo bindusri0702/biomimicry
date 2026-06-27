@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-membrane-channel-lets-only-some-ions-in",
+  "organism_common": "Streptomyces",
+  "organism_scientific": "",
+  "strategy_summary": "The membrane of Streptomyces lividans cells lets potassium ions in but not sodium via a potassium-specific channel. “The researchers cracked the structure of the protein through a technique called X-ray crystallography, and it then became clear how the channel would admit potassium ions only, even though…",
+  "mechanism": "The membrane of Streptomyces lividans cells lets potassium ions in but not sodium via a potassium-specific channel.\n\n“The researchers cracked the structure of the protein through a technique called X-ray crystallography, and it then became clear how the channel would admit potassium ions only, even though closely-related sodium ions were even smaller. The structural analysis showed the channel is lined by oxygen atoms that mimic the water cluster normally surrounding a potassium ion in aqueous solution. Sodium has a slightly different water shell, and so cannot fit through the channel. The analysis also revealed parts of the protein that receive ‘on’ and ‘off’ chemical signals.” (Coghlan 2003)",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/membrane-channel-lets-only-some-ions-in/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "membrane",
+    "channel",
+    "lets",
+    "only",
+    "some",
+    "ions"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

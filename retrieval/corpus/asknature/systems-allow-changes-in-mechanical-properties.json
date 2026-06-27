@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-systems-allow-changes-in-mechanical-properties",
+  "organism_common": "Sea stars",
+  "organism_scientific": "",
+  "strategy_summary": "Systems in nature allow organisms to change shape or their mechanical properties without changing the properties of given materials thanks to articulated struts. “Articulated strut (fig.",
+  "mechanism": "Systems in nature allow organisms to change shape or their mechanical properties without changing the properties of given materials thanks to articulated struts.\n\n“Articulated strut (fig. 21.7). These share the common lattice of compression-resisting elements, but their joints (articulations) permit motion. We use them infrequently, but we do deliberately build joints into many bridges, for example, so the resulting mechanisms can distort safely under changing wind loads, varied ‘live’ or functional loads, or thermal size changes. Nature often uses the arrangement–major portions of vertebrate skeletons can be best viewed as mechanisms of articulated struts. The hard elements (ossicles) and their connections in echinoderms such as starfish provide another example.\n\nSystems build around articulated struts combine nicely with muscles; sometimes, as in insect skeletons, the muscles are on the inside, but the principle is the same. Among the best features of these systems is their ability to alter shape or overall mechanical properties rapidly without having to change the properties of specific materials … But even tensile tissues other than muscle may sometimes change properties fairly quickly in response to some chemical signal. These alterations have been studied most extensively in the so-called catch connective tissue of echinoderms (Motokawa 1984; Wilkie 2002). A starfish undergoes an impressive mechanical transformation as it shifts from being limp enough to crawl with its tube feet on an irregular substratum to being stiff enough so the same tube feet have adequate anchorage when pulling open the shell of a clam.” (Vogel 2003:438)",
+  "function_addressed": [
+    "manage compression"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/systems-allow-changes-in-mechanical-properties/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "systems",
+    "allow",
+    "changes",
+    "mechanical",
+    "properties"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

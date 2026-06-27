@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-skin-incorporates-chloroplasts",
+  "organism_common": "Sap-sucking sea slugs",
+  "organism_scientific": "",
+  "strategy_summary": "As you walk through a field on a clear, blue-sky day, the grasses, shrubs, and trees around you are busy soaking up the sunshine and using it to make the food they need to thrive. Did you ever wish you could do the same?",
+  "mechanism": "E. chlorotica slugs live in saltwater marshes along the East Coast of North America. After hatching from an egg, one will float around in the brackish water for three weeks or so. Then, when it encounters a patch of the alga Vaucheria litorea , it stops floating and starts feeding instead. But this isn’t any old meal.\n\nRather than chomp down on the entire alga, the slug punctures the cell with its radular tooth, and sucks out the juicy insides. In the process, it extracts the algae’s sunlight-trapping organelles, known as chloroplasts. The cells of the slug’s digestive tract then engulf the chloroplasts, carrying them into their insides. Even though they are no longer associated with their native organism, the chloroplasts continue to capture the energy of the sun. The slug then uses the resulting fixed carbon and energy to power its own cellular processes.\n\nThe ability to redirect the output of plants’ photosynthetic machinery could be applied to developing new approaches to capturing solar energy for human use. It raises the question of whether humans and/or livestock might be able to one day incorporate such organelles in their own cells, reducing the need for food and the adverse environmental impacts of agriculture.",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "capture, absorb, or filter energy",
+    "regulate cellular processes",
+    "maintain homeostasis",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/skin-incorporates-chloroplasts/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "sea",
+    "slugs",
+    "turn",
+    "sunlight",
+    "food"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-gut-microbes-break-down-wood-cellulose",
+  "organism_common": "Hydrothermal vent squat lobster",
+  "organism_scientific": "",
+  "strategy_summary": "Microbes in the gut of the galatheid crab produce enzymes that digest wood cellulose, allowing the crab to subsist almost exclusively on a wood-based diet. “Wood falls in the deep sea have recently become the focus of studies showing their importance as nutrients on the deep-sea floor.",
+  "mechanism": "Microbes in the gut of the galatheid crab produce enzymes that digest wood cellulose, allowing the crab to subsist almost exclusively on a wood-based diet.\n\n“Wood falls in the deep sea have recently become the focus of studies showing their importance as nutrients on the deep-sea floor. In such environments, Crustaceans constitute numerically the second-largest group after Mollusks. Many questions have arisen regarding their trophic role therein. A careful examination of the feeding appendages, gut contents, and gut lining of Munidopsis andamanica caught with wood falls revealed this species as a truly original detritivorous species using wood and the biofilm covering it as two main food sources. Comparing individuals from other geographic areas from substrates not reported highlights the galatheid crab as specialist of refractory substrates, especially vegetal remains. M. andamanica also exhibits a resident gut microflora consisting of bacteria and fungi possibly involved in the digestion of wood fragments. The results suggest that Crustaceans could be full-fledged actors in the food chains of sunken-wood ecosystems and that feeding habits of some squat lobsters could be different than scavenging.” (Hoyoux et al. 2009:2421)\n\nA,B) Rod-shaped bacteria widely distributed over the hindgut lining. C) Higher density of bacteria in the grooves between the villous plates. D) Bacteria attached to the cuticular spines and glued in mucous secretions. E) TEM view of a bacterium showing its Gram-negative cell envelope.\n\nA) Diagram of the digestive tract. B) Dorsal view of squat lobster",
+  "function_addressed": [
+    "physically break down non-living materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/gut-microbes-break-down-wood-cellulose/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "gut",
+    "microbes",
+    "break",
+    "down",
+    "wood",
+    "cellulose"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

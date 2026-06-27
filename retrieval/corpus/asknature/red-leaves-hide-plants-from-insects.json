@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-red-leaves-hide-plants-from-insects",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Anthocyanins in leaves camouflage the plant from insects and make insects more vulnerable to predators by inhibiting the reflecting of green wavelengths. “Hence, leaf anthocyanins by closing the green reflectance window left by chlorophyll make the leaf less discernible to insect consumers (plant camouflage…",
+  "mechanism": "Anthocyanins in leaves camouflage the plant from insects and make insects more vulnerable to predators by inhibiting the reflecting of green wavelengths.\n\n“Hence, leaf anthocyanins by closing the green reflectance window left by chlorophyll make the leaf less discernible to insect consumers (plant camouflage hypothesis). Alternatively (or in addition), the usually green folivorous insects, if found on a red leaf, are more easily recognized by their predators (undermining of insect camouflage by the plant)…The neglected hypothesis of plant camouflage against herbivory and the recent opinion that leaf redness may undermine the green folivorous insect camouflage are theoretically more sound since they are compatible with folivorous insect vision physiology and also afford a reasonable explanation for the almost exclusive selection of red anthocyanins in leaves.” (Manetas 2006:172)",
+  "function_addressed": [
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/red-leaves-hide-plants-from-insects/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "red",
+    "leaves",
+    "hide",
+    "plants",
+    "insects"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-pigment-granules-assist-hiding",
+  "organism_common": "Ray-finned fishes",
+  "organism_scientific": "",
+  "strategy_summary": "Skin of ray-finned fish changes color in response to light levels and patterns via movement of granules in pigment cells. “Many fish in the teleost group, such as the minnow, change colour in response to the overall reflectivity of their background.",
+  "mechanism": "Skin of ray-finned fish changes color in response to light levels and patterns via movement of granules in pigment cells.\n\n“Many fish in the teleost group, such as the minnow, change colour in response to the overall reflectivity of their background. Light reaching their retina from above is compared in the brain to that reflected from the background below. The interpretation is transmitted to the skin pigment cells via adrenergic nerves, which control pigment movement. Teleost skin contains pigment cells of different colours: melanophores (black), erythrophores (red), xanthophores (yellow) and iridiophores (iridescent). Pigment granules disperse through the cell from the centre. The area covered by the pigment at any time determines that cell’s contribution to the skin tone. Many flatfish, including flounder, go further than overall reflectivity and develop skin patterns according to the light and dark divisions of their background. This seems to involve a more discriminating visual interpretation and produces distinct areas of skin with predominantly, but not exclusively, one type of pigment cell. For example, black patches contain mainly melanophores and light patches mainly iridiophores, which can produce the chequerboard appearance seen in the picture.” (Collis 2002:101)",
+  "function_addressed": [
+    "protect from animals",
+    "modify light/color"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pigment-granules-assist-hiding/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pigment",
+    "granules",
+    "assist",
+    "hiding"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

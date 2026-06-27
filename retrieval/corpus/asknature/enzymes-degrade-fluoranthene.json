@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-enzymes-degrade-fluoranthene",
+  "organism_common": "Oyster mushroom",
+  "organism_scientific": "",
+  "strategy_summary": "Extracellular enzymes and mycelial growth in Pleurotus ostreatus fungi remove fluoranthene from their environment through biodegradation. Pleurotus ostreatus is a type of fungus known to aid in the degradation of wood.",
+  "mechanism": "Extracellular enzymes and mycelial growth in Pleurotus ostreatus fungi remove fluoranthene from their environment through biodegradation.\n\nPleurotus ostreatus is a type of fungus known to aid in the degradation of wood. A study was done that found that this particular fungus was able to grow in the presence of fluoranthene, “a high molecular weight polycyclic aromatic hydrocarbon (PAH)” (Patel et al. 2008: 367). This is of great concern because PAHs have been shown to be potentially “genotoxic and carcinogenic” (368). PAH contamination occurs due to many human activities, primarily fossil fuel combustion and industrial processing but can also occur naturally (e.g., forest fires) (368). The mechanism by which this fungi breaks down these compounds is not completely understood, however, scientists link most of the degradation to the processing of chemicals done by extracellular enzymes (particularly the MnP and laccase enzymes). Further research could prove revolutionary by aiding in the bioremediation of areas greatly affected by PAH contamination.",
+  "function_addressed": [
+    "chemically break down organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/enzymes-degrade-fluoranthene/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "enzymes",
+    "degrade",
+    "fluoranthene"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-body-temperature-regulated-in-hot-environment",
+  "organism_common": "Dromedary camel",
+  "organism_scientific": "",
+  "strategy_summary": "Thermoregulation in African camels appears to be related to water availability. “When African camels ( Camelus dromedarius ) do not get enough water, their body temperature’s amplitude (the difference between its highest and lowest values) increases from 3.6°F (2°C) to as much as 10.8°F (6°C).” (Shuker 2001:91)",
+  "mechanism": "Thermoregulation in African camels appears to be related to water availability.\n\n“When African camels ( Camelus dromedarius ) do not get enough water, their body temperature’s amplitude (the difference between its highest and lowest values) increases from 3.6°F (2°C) to as much as 10.8°F (6°C).” (Shuker 2001:91)",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/body-temperature-regulated-in-hot-environment/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "body",
+    "temperature",
+    "regulated",
+    "hot",
+    "environment"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

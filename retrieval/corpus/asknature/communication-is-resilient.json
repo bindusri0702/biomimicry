@@ -1,0 +1,22 @@
+{
+  "doc_id": "asn-communication-is-resilient",
+  "organism_common": "Ants",
+  "organism_scientific": "",
+  "strategy_summary": "Communication behaviors in Temnothorax ants are resilient because they have evolved as anytime algorithms. “Tandem runs are a form of recruitment in ants.",
+  "mechanism": "Communication behaviors in Temnothorax ants are resilient because they have evolved as anytime algorithms.\n\n“Tandem runs are a form of recruitment in ants. During a tandem run, a single leader teaches one follower the route to important resources such as sources of food or better nest sites. In the present study, we investigate what tandem leaders and followers do, in the context of nest emigration, if their partner goes missing. Our experiments involved removing either leaders or followers at set points during tandem runs. Former leaders first stand still and wait for their missing follower but then most often proceed alone to the new nest site. By contrast, former followers often first engage in a Brownian search, for almost exactly the time that their former leader should have waited for them, and then former followers switch to a superdiffusive search. In this way, former followers first search their immediate neighbourhood for their lost leader before becoming ever more wide ranging so that in the absence of their former leader they can often find the new nest, re-encounter the old one or meet a new leader. We also show that followers gain useful information even from incomplete tandem runs. These observations point to the important principle that sophisticated communication behaviours may have evolved as anytime algorithms, i.e. procedures that are beneficial even if they do not run to completion.” (Franks et al. 2010:1697)",
+  "function_addressed": [
+    "adapt behaviors"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/communication-is-resilient/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "communication",
+    "resilient"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

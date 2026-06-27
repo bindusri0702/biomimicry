@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-mucus-reduces-turbulence",
+  "organism_common": "Barracuda",
+  "organism_scientific": "",
+  "strategy_summary": "Mucus on barracuda reduces turbulence by increasing the viscosity of the boundary layer on the skin. “We keep discovering refinements of fluid mechanics in the animal kingdom.",
+  "mechanism": "Mucus on barracuda reduces turbulence by increasing the viscosity of the boundary layer on the skin.\n\n“We keep discovering refinements of fluid mechanics in the animal kingdom. Recently Rosen and Cornford investigated the effect of the mucous secretions of fish on turbulent friction drag in seawater and found that 5 percent of barracuda slime reduced the turbulent friction of seawater by 66 percent. The slime of halibut was found to have a similar effect. These results indicated that slime in the flow boundary layer of rapid swimmers can effectively subdue turbulence and thus prevent energy loss…Assuming that mucous secretions (such as castor oil) are about a thousand times more viscous than water, it is simple to estimate that a few percent of the stuff in the boundary layer can easily lower the Reynolds number to a tenth or less. In this way the danger of turbulence can be considerably diminished.” (Tributsch 1984: 48-49)",
+  "function_addressed": [
+    "move in/on liquids",
+    "manage turbulence"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mucus-reduces-turbulence/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mucus",
+    "reduces",
+    "turbulence"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

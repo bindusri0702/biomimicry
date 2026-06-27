@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-sweating-aids-thermoregulation",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "The sweat glands of many mammals aid thermoregulation through evaporative cooling. “Sweat gland s play an extremely important part in temperature control.",
+  "mechanism": "The sweat glands of many mammals aid thermoregulation through evaporative cooling.\n\n“Sweat gland s play an extremely important part in temperature control. Shaped like a tube, knotted at the bottom and opening out of the epidermis at a ‘pore’, sweat glands secrete a colourless liquid which evaporates on the surface of the skin removing excess heat…There are two kinds of sweat glands: apocrine, associated with hairy skin, and eccrine, associated with smooth. Apocrine glands seem to be concerned mainly with producing scented secretions, and are progressively replaced in the more advanced mammals – gorillas, chimpanzees, and especially man – with eccrine glands, whose secretion dilutes and spreads that of the apocrine glands.” (Foy and Oxford Scientific Films 1982:79)\n\n“From the evidence of comparative mammalian physiology, we suggest that the very common apocrine sweat gland is not primitive but is both specialized and efficient as a cooling organ in an animal with a heavy fur coat and relatively slow movement. The remarkable thermal eccrine sweating system of humans probably evolved in concert with bipedalism, a smooth hairless skin, and adaptation to open country by the ancestors of H. sapiens .” (Folk and Semken 1991:185)\n\nCornell University\n\nRobot from Cornell University has pressurized reservoirs that release water and prevent the robot from overheating.",
+  "function_addressed": [
+    "maintain homeostasis",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/sweating-aids-thermoregulation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "sweating",
+    "aids",
+    "thermoregulation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

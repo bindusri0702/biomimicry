@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-long-range-hearing-without-an-eardrum",
+  "organism_common": "Mosquitoes",
+  "organism_scientific": "",
+  "strategy_summary": "Mosquitoes use fine hairs to hear sounds up to 10 meters (32 feet) away  Insect antennae are important non-visual sensory organs. Mosquitoes use their antennae as movement receivers that respond to oscillations of air particles within the insects’ surroundings.",
+  "mechanism": "Mosquitoes use fine hairs to hear sounds up to 10 meters (32 feet) away\n\nInsect antennae are important non-visual sensory organs. Mosquitoes use their antennae as movement receivers that respond to oscillations of air particles within the insects’ surroundings. This is auditory sensing, also known as hearing. Male mosquito antennae are particularly well-adapted to detect sound as a means of finding mates. They can specifically recognize the frequency of female mosquitoes’ wing beats while flying.\n\nStructurally, mosquitoes have two antennae beneath their eyes, each with two segments. The primary segment in males is composed of a ‘plumose’ shaft, meaning it is coated in long, feather-like fibrils or hairs. These hairs are shorter at the tip of the shaft and increase in length toward the rear. The primary segment is connected directly to the secondary segment, which holds the Johnston organ. The Johnston organ is a spherical base, densely packed with neurons. This bundle of sensory receptors is extra sensitive to the forces acting on the shaft hairs. When the hairs are moved, the forces are immediately transmitted and recognized by the sensitive neurons in the Johnston organ.\n\nIt was previously believed that organisms required ear drums for long-range hearing (up to several meters away). Ear drums work by picking up pressure from sound waves and relaying that information to the brain as sound. Because mosquitos such as the Aedes aegypti have antennae instead of ear drums, it was thought that mosquitoes could only hear sounds at close distances (a few inches or several centimeters away).\n\nIt is now known that mosquitoes can hear sounds as far away as 10 meters (32 feet). They hear best in the frequency range between 150 to 500 hertz, which overlaps well with the frequencies of female mosquitoes in flight.\n\nThe mosquitoes’ frequency range for hearing also overlapps with human speech. The most energetic frequencies of an average human vowel are in the range of 150 to 900 hertz, so they technically should be able to hear people speaking. However, there is currently no evidence that they use this to locate and hone in on people. It is well known that mosquitos pick up sensory cues such as carbon dioxide, odors and warmth to locate people.\n\nThis research offers the opportunity to develop highly sensitive directional microphones and hearing aids. All microphones and sound detection equipment are based on capturing sounds by detecting pressure differences, similar to ear drums. A microphone designed based on how a mosquito hears would detect fluctuations in air velocity, and could be designed as a fine hair or fiber for detecting sound.\n\nStory source: Cornell University\n\nThe antennae of male mosquitoes sense vibrations via fine, hair-like structures that respond to oscillations of air particles.\n\nV0022549 A mosquito (Aedes aegypti). Coloured drawing by A Credit: Wellcome Library, London. Wellcome Images [email protected] http://wellcomeimages.org An mosquito (Aedes aegypti). Coloured drawing by A.J.E. Terzi. By: Amedeo John Engel TerziPublished: - Copyrighted work available under Creative Commons Attribution only licence CC BY 4.0 http://creativecommons.org/licenses/by/4.0/",
+  "function_addressed": [
+    "sense sound and other vibrations from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/long-range-hearing-without-an-eardrum/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "long-range",
+    "hearing",
+    "without",
+    "eardrum"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-mounds-shed-water",
+  "organism_common": "Termites",
+  "organism_scientific": "",
+  "strategy_summary": "Mounds of West African termites are built to shed water via mushroom-like shape. “In West Africa and other areas where there is heavy rain, the colonies build nests like mushrooms with flat roofs which shed the water.” (Attenborough 1979:100)",
+  "mechanism": "Mounds of West African termites are built to shed water via mushroom-like shape.\n\n“In West Africa and other areas where there is heavy rain, the colonies build nests like mushrooms with flat roofs which shed the water.” (Attenborough 1979:100)",
+  "function_addressed": [
+    "protect from excess liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mounds-shed-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mounds",
+    "shed",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

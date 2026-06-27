@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-underwater-roots-get-oxygen",
+  "organism_common": "Water lily",
+  "organism_scientific": "",
+  "strategy_summary": "The leaves of Amazon water lilies transport oxygen to the plants' roots in swampy bottoms using long tubes that run down their stems. “The Amazon water-lily is able to produce such large and strong structures because it can collect an abundance of food through its roots from the mud at the bottom of the lake.",
+  "mechanism": "The leaves of Amazon water lilies transport oxygen to the plants' roots in swampy bottoms using long tubes that run down their stems.\n\n“The Amazon water-lily is able to produce such large and strong structures because it can collect an abundance of food through its roots from the mud at the bottom of the lake. But roots need to breathe and the mud at the bottom of Amazonian swamps and pools contains little or no oxygen. The lily, however, pipes air down to them through tubes running down the long stems of the leaves, which may be as much as 35 feet long.” (Attenborough 1995:290-291)",
+  "function_addressed": [
+    "move in/through gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/underwater-roots-get-oxygen/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "underwater",
+    "roots",
+    "get",
+    "oxygen"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

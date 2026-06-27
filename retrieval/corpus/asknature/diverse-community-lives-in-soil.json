@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-diverse-community-lives-in-soil",
+  "organism_common": "Soil ecosystem",
+  "organism_scientific": "",
+  "strategy_summary": "A shovelful of soil from a forest contains far more different types of living things at the micro scale than the Serengeti Plain in Africa at the macro scale with all its roaming hordes of animals. The top 2 to 4 inches (5 to 10 centimeters) of soil contains billions of organisms that are always interacting.",
+  "mechanism": "A cubic meter of soil may contain thousands of different species of bacteria and fungi; single-celled protists and microscopic nematodes (roundworms); and larger animals such as mites, springtails, earthworms, ants, termites, lice, and beetles. Each species takes part in breaking down leaves, twigs, fruit, animal carcasses, and feces and recycling them into smaller organic materials that plants use to live and grow. And each species has specific abilities that take advantage of different niches in the environment.The largest decomposers are earthworms, ants, termites, millipedes, woodlice, and beetles. They play a crucial role, creating tunnels through which air and water seep into the soil.\n\nSlightly smaller animals such as mites and springtails occupy air-filled pores within soil. They, too, are arthropods––closely related to, but distinct from, insects. They also help decompose organic material and graze on bacteria.\n\nWoven into and around plant roots are fungi, in a relationship that benefits both. The fungi grow out in long narrow tendrils that extend the plants’ root systems deep into and across the soil and give plants more access to minerals they need to grow. The fungi also provide a sheath that protects plants from pathogens and toxic metals. In exchange, the fungi receive sugars that the plants make via photosynthesis .\n\nNematodes and protists living in water in the soil eat organic material and excrete it in particles that are smaller and/or more easily absorbed by roots. Nematodes also eat bacteria, keeping their populations in balance.\n\nThose bacteria have diverse roles to play as well. Some species convert gaseous nitrogen into solid nitrates that plants take up for essential chemical functions. Others specialize in decomposing tough, slow-rotting molecules like cellulose that plants produce to keep stiff and strong.\n\nPeople have learned the hard way that radically changing the landscape above ground can have dire impacts on the underground ecosystem, turning vital soil into infertile dust. Herbicides and insecticides take out segments of the interconnected community that recycle and replenish the soil. Farming and clearcutting forests cut the supplies to underground species. Heavy equipment compacts soil too much for air and water to penetrate. Understanding, maintaining, and working in harmony with the diverse community in the soil holds great potential for helping us to manage our activities on the land more sustainably.\n\nIn addition, learning the intricacies of how different organisms break down waste can lead to more effective and eco-friendly waste treatment systems.",
+  "function_addressed": [
+    "generate soil/renew fertility",
+    "coordinate by self-organization"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/diverse-community-lives-in-soil/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "world",
+    "most",
+    "diverse",
+    "community",
+    "lives",
+    "soil"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,17 @@
+{
+  "doc_id": "asn-termite-mound-ventilation",
+  "organism_common": "Macrotermes termite",
+  "organism_scientific": "Macrotermes michaelseni",
+  "strategy_summary": "Termite colonies build tall mounds whose architecture maintains a stable internal temperature and gas balance despite large swings in outside air temperature, keeping the underground nest within a narrow comfortable range without any active machinery.",
+  "mechanism": "The mound acts as a passive lung: solar heating of the thin outer surface conduits drives buoyancy, and the day-night pressure gradient pushes stale warm air out through a porous network of channels while drawing cooler air in through the base. Convection and the stack effect continuously exchange air and dissipate metabolic heat by radiation and conduction through the earthen walls.",
+  "function_addressed": ["regulate temperature", "maintain temperature", "ventilate", "exchange gases"],
+  "environment": "hot arid savanna with large day-night temperature swings",
+  "taxon": "Animalia/Arthropoda/Insecta",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mounds-maintain-homeostasis/",
+  "source_tier": "science_journalism",
+  "keywords": ["passive cooling", "convection", "stack effect", "ventilation", "buoyancy", "thermoregulation"],
+  "is_usual_suspect": false,
+  "popularity": 0.45,
+  "provenance": "synthetic"
+}

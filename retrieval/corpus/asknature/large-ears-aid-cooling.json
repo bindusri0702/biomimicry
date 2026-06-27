@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-large-ears-aid-cooling",
+  "organism_common": "Elephants",
+  "organism_scientific": "",
+  "strategy_summary": "The large ears of elephants aid cooling by radiating heat from blood vessels, and flapping to generate cooling air currents. “Elephants, too, have huge ears relative to body size, and they are also used for temperature regulation.",
+  "mechanism": "The large ears of elephants aid cooling by radiating heat from blood vessels, and flapping to generate cooling air currents.\n\n“Elephants, too, have huge ears relative to body size, and they are also used for temperature regulation. It has been shown that blood passing through the ears of an African elephant may lose as much as 9?C of heat, a valuable cooling device in the hot African summer. To increase the effect, elephants spray their ears with water, and flap them to create cooling air currents.” (Foy and Oxford Scientific Films 1982:170)",
+  "function_addressed": [
+    "maintain homeostasis",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/large-ears-aid-cooling/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "large",
+    "ears",
+    "aid",
+    "cooling"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

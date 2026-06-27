@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-pili-direct-electron-transfer",
+  "organism_common": "Geobacteraceae",
+  "organism_scientific": "",
+  "strategy_summary": "Surface of living bacteria aids in direct electron transfer through use of network of nanofilaments (pili) that conduct electricity. It was previously accepted that the surface of cells used a protein (cytochromes) to aid in communication and electron transfer between cells.",
+  "mechanism": "Surface of living bacteria aids in direct electron transfer through use of network of nanofilaments (pili) that conduct electricity.\n\nIt was previously accepted that the surface of cells used a protein (cytochromes) to aid in communication and electron transfer between cells. This recent study suggests, however, that cell communication can extend beyond just the surface with nanofilaments known as pili. These pili aid in cell diversity but also in the breakdown of important compounds such as Iron (III) oxide (Fe(III)). They provide a type of “bridge” across which electrons can travel between cells. As the electrons move, a current is produced and a type of conductor is created. This electrical charge provides the energy and electricity needed to break down such strong compounds.\n\nThis summary was contributed by Ashley Meyers",
+  "function_addressed": [
+    "adapt genotype",
+    "optimize shape/materials",
+    "transduce/convert signals",
+    "respond to signals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pili-direct-electron-transfer/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pili",
+    "direct",
+    "electron",
+    "transfer"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

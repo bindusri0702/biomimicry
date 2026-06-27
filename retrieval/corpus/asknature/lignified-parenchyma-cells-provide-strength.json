@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-lignified-parenchyma-cells-provide-strength",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Parenchyma cells in plants provide mechanical support when they become lignified and thick-walled. Plants  Cellulose fibers in plant stems increase toughness by winding around tubes at an angle  “Sometimes axially elongated cells of the ‘packing’ tissue, parenchyma, become thick-walled and lignified.",
+  "mechanism": "Parenchyma cells in plants provide mechanical support when they become lignified and thick-walled.\n\nPlants\n\nCellulose fibers in plant stems increase toughness by winding around tubes at an angle\n\n“Sometimes axially elongated cells of the ‘packing’ tissue, parenchyma, become thick-walled and lignified. These have similar functions to fibres, but their ends tend not to be pointed. Often no distinction is made between this cell type and true fibres. Cells of this type make up the bulk of the strengthening tissue in bamboos. They are arranged towards the periphery of the stem, the centre of which is often hollow, with transverse septa at intervals.” (Cutler 2005:103)",
+  "function_addressed": [
+    "manage compression"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/lignified-parenchyma-cells-provide-strength/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "lignified",
+    "parenchyma",
+    "cells",
+    "provide",
+    "strength"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

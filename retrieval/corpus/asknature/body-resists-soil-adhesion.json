@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-body-resists-soil-adhesion",
+  "organism_common": "Beetles",
+  "organism_scientific": "",
+  "strategy_summary": "There are many creatures that make their homes in the soil––moles and gophers, earthworms and ants––but none of them is quite like the dung beetle. These insects famously roll up and bury vast quantities of the feces of herbivores, and feed upon it.",
+  "mechanism": "The dung beetle’s body is covered in a multitude of small bumps and indentations. These irregularities help to break up the surface area of the beetle’s body, reducing the amount of contact it makes with the soil.\n\nThe combined effect is to reduce the amount of adhesion between the dung beetle and the soil. This allows the beetle to move through the soil with ease, and helps to prevent the soil from sticking to the beetle’s body.\n\nThe dung beetle’s ability to reduce the amount of adhesion between its body and the soil could be used to improve the performance of a variety of machines and vehicles that operate in soil, such as bulldozers, excavators, and earthmovers. By reducing the amount of friction between the machine and the soil, the dung beetle’s strategy could help to increase the power output of these machines, and improve their efficiency.",
+  "function_addressed": [
+    "protect from dirt/solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/body-resists-soil-adhesion/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "body",
+    "resists",
+    "soil",
+    "adhesion"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

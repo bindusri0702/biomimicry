@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-skin-acts-as-membrane",
+  "organism_common": "Sea snakes",
+  "organism_scientific": "",
+  "strategy_summary": "The skin of a diving sea snake acts as a membrane to filter out CO2 from its body. “Sea snakes, air-breathers like us, dive deep and stay under for prolonged periods while swimming for considerable distances.",
+  "mechanism": "The skin of a diving sea snake acts as a membrane to filter out CO2 from its body.\n\n“Sea snakes, air-breathers like us, dive deep and stay under for prolonged periods while swimming for considerable distances. They deal with this problem of variable buoyancy in what must be the simplest possible way. One such snake, Pelamis platurus , typically descends about 30 meters with enough air in its lung (it has only one) to be neutrally buoyant at that depth. But it loses gas, mainly carbon dioxide and nitrogen, from its skin, whose permeability lets it act as a kind of gill and supplement its lungs. So as it swims along it gradually ascends, thus maintaining its neutral buoyancy as part of its requisite return to the surface (Graham et al. 1987.)” (Vogel 2003: 98)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003.",
+  "function_addressed": [
+    "modify buoyancy",
+    "capture, absorb, or filter gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/skin-acts-as-membrane/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "skin",
+    "acts",
+    "membrane"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

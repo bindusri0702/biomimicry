@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-shell-resists-cracking",
+  "organism_common": "Scallops",
+  "organism_scientific": "",
+  "strategy_summary": "The shell of a scallop resists cracking via composite structure. “But there’s yet another and perhaps even better way to keep cracks from propagating disastrously.",
+  "mechanism": "The shell of a scallop resists cracking via composite structure.\n\n“But there’s yet another and perhaps even better way to keep cracks from propagating disastrously. It consists of making a material of at least two components, one stiffer than the other. If a crack runs through a little fiber of stiff material and then reaches an unstiff (compliant) component, the latter will give a little, accommodate the crack, and reduce the force concentration at the tip of the crack (fig. 16.10). Result–the crack stops…Organisms don’t use pure metals, and they use composites for all their rigid and most of their pliant materials…They inevitably divide their stiff stuff into small pieces that form components of composites…You can drill a hole in a scallop shell with little worry that it might shatter…it’s not as brittle as you might think.” (Vogel 2003:339-340)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
+  "function_addressed": [
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shell-resists-cracking/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shell",
+    "resists",
+    "cracking"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

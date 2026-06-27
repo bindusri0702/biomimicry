@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-waves-of-shortening-used-to-move",
+  "organism_common": "Boa constrictor",
+  "organism_scientific": "",
+  "strategy_summary": "Bodies of boas and pythons can move in a worm-like extended fashion by passing waves of shortening down their bodies. “A few snakes, such as boas and pythons, can move forward when extended lengthwise in a wormlike fashion rather than with their bodies bent into curves.",
+  "mechanism": "Bodies of boas and pythons can move in a worm-like extended fashion by passing waves of shortening down their bodies.\n\n“A few snakes, such as boas and pythons, can move forward when extended lengthwise in a wormlike fashion rather than with their bodies bent into curves. They’re not fast, and the behavior seems to be used for a stealthy approach to prey. With backbones fixing their lengths, they can’t work exactly like earthworms–they instead use waves of shortening that pass rearward along a powerful lengthwise band of ventral muscle. So the top of the snake moves steadily. Meanwhile, its bottom has a stop and start motion as successive segments are fixed to the ground while the ones behind the fixed ones are shortened and those in front of the fixed ones are lengthened. Moving segments are raised slightly above the fixed ones–it looks as if the snake is walking on its ribs, although it is not. Gray (1968) and Gans (1974) give good descriptions.” (Vogel 2003:488-489)",
+  "function_addressed": [
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/waves-of-shortening-used-to-move/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "waves",
+    "shortening",
+    "used",
+    "move"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

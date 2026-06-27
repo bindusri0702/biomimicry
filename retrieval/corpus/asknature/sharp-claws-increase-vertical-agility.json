@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-sharp-claws-increase-vertical-agility",
+  "organism_common": "Squirrels",
+  "organism_scientific": "",
+  "strategy_summary": "Sharp claws on squirrel feet increase vertical agility by giving strategic points of attachment while other body structures shift direction. Squirrels can easily navigate their arboreal homes by coordinating two structures in their feet.",
+  "mechanism": "Sharp claws on squirrel feet increase vertical agility by giving strategic points of attachment while other body structures shift direction.\n\nSquirrels can easily navigate their arboreal homes by coordinating two structures in their feet. They can quickly change direction and even run headfirst down trees by swiveling their back ankle joints. At the same time, well-developed claws in both the front and hind feet dig into the substrate as anchor points.\n\nFriction-based grip suffices on small tree branches. This is because the squirrel is light, and forces applied by the pads of its paws are at a wide enough angle that friction overcomes the competing downward force of gravity. As a tree branch or trunk gets thicker, however, the squirrel cannot reach around to get this same grip, and friction is not enough to keep from falling. At this point, the squirrel’s claws contribute to its ability to cling to structures that have a wide diameter.\n\nWhile it seems intuitive that a squirrel’s small size contributes to its agility, its claws also play a critical role as the animal traverses all the possible angles of a tree. As a squirrel moves in various directions on different surfaces, gravity interacts with its actual mass. To prevent falling, the squirrel must keep its mass oriented in a way to counter this downward force: a process known as finding its center of gravity. All forces associated with the squirrel’s weight and its position must be balanced. The squirrel’s sharp claws help by evenly distributing mass across the various diameters of the climbing surface.\n\nUpon digging into a surface, the force of gravity shifts from the squirrel’s paw pads to the underside of its claws. If the surface is porous enough to embed its claws at an angle of 90 degrees or greater, the squirrel can ensure a successful grip and evenly distribute its mass across its claws. This is true at any orientation–whether the squirrel is moving up, down, sideways, or at an angle across the surface. This, in turn, keeps the squirrel’s center of gravity close to the tree, preventing the squirrel from falling.\n\nSquirrels can quickly respond to the challenges they encounter as they move through wooded areas by instantly changing direction. This is a function of their claws’ ability to shift their weight to find the center of gravity, and a wide range of motion offered by their uniquely rotating back ankles. With these adaptations, squirrels are secure with only two points of attachment, whereas humans need no less than three as they climb. Because of this, squirrels can swing from their swiveling back feet while grabbing onto new surfaces at angles that would be impossible for most animals.\n\nIn essence, squirrels can deftly hug porous surfaces close enough to keep from sliding down or falling due to gravity. Compare the agility of a squirrel with a human utility pole climber. Even when fully outfitted with gaff hooks, a human cannot achieve the acrobatic agility of a well-adapted squirrel.\n\nThis summary was contributed by Sue White.\n\nDouglas Squirrel , Dars Garden, Port Moody, British Columbia\n\nHarriss Antelope Ground Squirrel , The Pond At Elephant Head, Amado, Arizona",
+  "function_addressed": [
+    "modify position",
+    "attach temporarily",
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/sharp-claws-increase-vertical-agility/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "sharp",
+    "claws",
+    "increase",
+    "vertical",
+    "agility"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

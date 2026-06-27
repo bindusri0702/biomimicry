@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-proton-pump-acts-as-mechanism-of-hyperacidification",
+  "organism_common": "Lemon",
+  "organism_scientific": "",
+  "strategy_summary": "The inner space of lemon fruit sacs are hyperacidified by the action of proton-pumping enzymes associated with the otherwise semipermeable outer cell membrane. The internal sacs of the lemon fruit hold a very acidic liquid, considerably more acidic than the cells in other plants.",
+  "mechanism": "The inner space of lemon fruit sacs are hyperacidified by the action of proton-pumping enzymes associated with the otherwise semipermeable outer cell membrane.\n\nThe internal sacs of the lemon fruit hold a very acidic liquid, considerably more acidic than the cells in other plants. In order to create and maintain the high concentration of hydrogen ions inside these internal sacs, lemons employ enzymes (V-ATPases) associated with the outer membrane of the cells, that use the plants energy to pump hydrogen ions through the otherwise semi-impermeable membrane and into the cell.",
+  "function_addressed": [
+    "modify ph"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/proton-pump-acts-as-mechanism-of-hyperacidification/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "proton",
+    "pump",
+    "acts",
+    "mechanism",
+    "hyperacidification"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

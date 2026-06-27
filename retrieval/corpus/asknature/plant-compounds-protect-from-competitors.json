@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-plant-compounds-protect-from-competitors",
+  "organism_common": "Asian rice",
+  "organism_scientific": "",
+  "strategy_summary": "Compounds in rice plants protect the plant from competitors by suppressing growth in competing plants  Many plants naturally produce chemicals to defend against microbial and insect attack, and to compete with other plants that grow nearby. “Allelopathy” is the production and release of a chemical by one organism that…",
+  "mechanism": "Compounds in rice plants protect the plant from competitors by suppressing growth in competing plants\n\nMany plants naturally produce chemicals to defend against microbial and insect attack, and to compete with other plants that grow nearby. “Allelopathy” is the production and release of a chemical by one organism that is either detrimental or beneficial to another organism.\n\nAllelopathic varieties of rice ( Oryza sativa ) produce a compound known as momilactone B when growing near an agricultural weed called barnyard grass. Enzymes in allelopathic rice synthesize momilactones, which support the rice crop’s success by suppressing the growth of barnyard grass and other weeds. The exact mechanism by which momilactone B suppresses competing plants is still being uncovered. Current research indicates that the allelopathic compound negatively affects metabolic processes and reactions needed for the synthesis of cellular components in the competing plants.\n\nGrowing allelopathic varieties of rice and other crop plants could reduce the use of agricultural chemicals. Conventional pesticides frequently harm non-target organisms and lose effectiveness when resistant pest populations arise. Plant compounds, however, are less likely to promote resistance and can even feed soil microorganisms, thereby potentially enhancing populations of beneficial microbes in soil. This is analogous to the effects that taking probiotics or eating yogurt have on the human gut microbiome. Using plant compounds to mimic this natural process of stimulating soil microbial growth could make crop systems less vulnerable to weed competition and pathogens.\n\nImage: Charlesy / Public Domain - No restrictions toggle icon Image: Ivan Vranic / CC BY - Creative Commons Attribution alone toggle icon right arrow right arrow",
+  "function_addressed": [
+    "protect from animals",
+    "protect from plants",
+    "protect from fungi",
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/plant-compounds-protect-from-competitors/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "plant",
+    "compounds",
+    "protect",
+    "competitors"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

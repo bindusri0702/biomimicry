@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-ants-may-increase-carbon-dioxide-drawdown",
+  "organism_common": "Red harvester ant",
+  "organism_scientific": "",
+  "strategy_summary": "Ants may increase carbon dioxide drawdown by enhancing mineral weathering in the soil. Ants are ecosystem engineers that can have a large effect on the biological, chemical, and physical properties of the soil in which they live.",
+  "mechanism": "Ants may increase carbon dioxide drawdown by enhancing mineral weathering in the soil.\n\nAnts are ecosystem engineers that can have a large effect on the biological, chemical, and physical properties of the soil in which they live. As ants move around in the soil finding food or building underground nests, they disturb and mix up the soil around them. It’s thought that this disturbance can enhance the dissolving of minerals—known as weathering—in the soil. Studies have found that ants are one of the most effective biological enhancement weathering (BEW) agents when compared to other insects or plant roots.\n\nIn one of the most common processes of weathering, rocks rich with minerals containing calcium and magnesium come into contact with water, which breaks down the minerals. Carbon dioxide combines with these dissolved minerals to eventually form calcium or magnesium carbonate (limestone or dolomite) and clays. Because ants appear to enhance this rock dissolving process when they mix the soil, they may play a role in the drawdown of carbon dioxide from the atmosphere.\n\nExperiments have shown that ants enhance mineral weathering 3 to 100 times more than other insect or plant agents. This increased rate of weathering due to normal ant activity may be beneficial to help keep global temperatures low by reducing carbon dioxide in the atmosphere.\n\nImage: myrmecophile77 / CC BY NC - Creative Commons Attribution + Noncommercial toggle icon Image: Royce Milam / CC BY - Creative Commons Attribution alone toggle icon Image: Steve Shattuck/CSIRO Australia / CC BY - Creative Commons Attribution alone toggle icon right arrow right arrow",
+  "function_addressed": [
+    "regulate climate",
+    "modify ph",
+    "chemically break down inorganic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/ants-may-increase-carbon-dioxide-drawdown/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "soil",
+    "mixing",
+    "gives",
+    "carbon",
+    "dioxide",
+    "more"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

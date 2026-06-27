@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-highly-stretchable-stipe-resists-breaking",
+  "organism_common": "Bull kelp",
+  "organism_scientific": "",
+  "strategy_summary": "Highly stretchable stipe of bull kelp resists breaking because of restraining cellulose fibers  Bull kelp ( Nereocystis luetkeana ) is a marine macroalga that resembles a vine-like plant with a long, thin stipe (stem-like structure) up to 30 meters long, anchored to the sea floor by a holdfast (root-like structure). A…",
+  "mechanism": "Highly stretchable stipe of bull kelp resists breaking because of restraining cellulose fibers\n\nBull kelp ( Nereocystis luetkeana ) is a marine macroalga that resembles a vine-like plant with a long, thin stipe (stem-like structure) up to 30 meters long, anchored to the sea floor by a holdfast (root-like structure). A gas-filled float at the stipe’s other end holds numerous photosynthetic blades close to the water’s surface. Although it helps expose the blades to sunlight, the buoyant float prevents the kelp from flattening against the seabed, thereby exposing the stipe to pulling forces from tidal currents, waves and surface chop. If the mechanical force exerted by fluid flow exceeds the breaking strength of a kelp stipe or holdfast, the kelp can break away and potentially die.\n\nWhen pulled, the kelp stipe breaks at stresses (force per cross-sectional area) lower than other biomaterials such as wood and insect cuticle; however, it compensates for this low breaking strength by being stretchy. A bull kelp stipe can be stretched 40% percent of its length before breaking, absorbing energy as it stretches. Thus, kelp requires about the same amount of energy to break as wood or insect cuticle does, although it resists breaking through being extensible rather than being strong and stiff. What enables the bull kelp stipe to be so stretchy?\n\nThe stipe has an inner cortex made of cylindrical cells that bear most of the pulling (tensile) force. Similar to other plants, these cells are wound with a strong and inextensible cellulose fiber. The fibers wrap around in both left- and right-handed helices , creating an array that prevents cells from becoming too long and thin when pulled or too short and wide when compressed. This protects the cells from rupturing. The amount of shape change permitted depends on the angle between the fiber and the cell’s long axis: the smaller the fiber angle, the greater the cell width can change for any change in the cell’s length. Vascular plants typically have an average fiber angle of 20˚, whereas bull kelp has an average fiber angle of 60˚. This means that the cells can stretch considerably along their length with relatively small changes in width. This large fiber angle plays an important role in the high extensibility of bull kelp.\n\nImage: LadyofHats / Public Domain - No restrictions toggle icon Image: Dimitri / Copyright © - All rights reserved toggle icon Image: Dimitri Smirnoff / Copyright © - All rights reserved toggle icon right arrow right arrow\n\nBull kelp\n\nLong and skinny support stalks (stipe) of seaweed experience lower stress forces when pulled rather than bent.\n\nBull kelp\n\nBlades of bull kelp take on 3D ruffled shape because of different growth rates along the edge and midline",
+  "function_addressed": [
+    "manage tension",
+    "manage shear"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/highly-stretchable-stipe-resists-breaking/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "highly",
+    "stretchable",
+    "stipe",
+    "resists",
+    "breaking"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

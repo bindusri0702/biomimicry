@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-metabolism-slows-when-food-is-scarce",
+  "organism_common": "Hummingbirds",
+  "organism_scientific": "",
+  "strategy_summary": "The metabolism of hummingbirds allows them to survive the night when food is unavailable by slowing to a hibernation-like state called torpor. This hummingbird isnt in torpor, but its such a beautiful image.",
+  "mechanism": "The metabolism of hummingbirds allows them to survive the night when food is unavailable by slowing to a hibernation-like state called torpor.\n\nThis hummingbird isnt in torpor, but its such a beautiful image.\n\n“At night, when they cannot see to fly and the flowers have closed, the birds have no alternative but to shut down all their systems, lower their body temperature and, in effect, hibernate until dawn.” (Attenborough 1995:119)\n\n“Hummingbirds use periods of inactivity between feeding bouts and torpor to conserve energy and enable them to survive nocturnal starvation. 14 During torpor, the hummingbird metabolism is adjusted downward to achieve up to 60% energy savings.” (Fowler and Miller 2003:235)",
+  "function_addressed": [
+    "maintain homeostasis"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/metabolism-slows-when-food-is-scarce/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "metabolism",
+    "slows",
+    "when",
+    "food",
+    "scarce"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

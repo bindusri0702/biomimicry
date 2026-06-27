@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-joints-have-two-degrees-of-bending-freedom",
+  "organism_common": "Arthropods (Insects, Spiders, Crustaceans)",
+  "organism_scientific": "",
+  "strategy_summary": "The joints of some arthropods have two degrees of bending freedom (up-down and left-right) thanks to two 1-degree bending joints found at right angles to each other. “Bending both up-down and left-right…Arthropods gain two degrees of bending freedom by putting two 1-degree bending joints next to each other, each…",
+  "mechanism": "The joints of some arthropods have two degrees of bending freedom (up-down and left-right) thanks to two 1-degree bending joints found at right angles to each other.\n\n“Bending both up-down and left-right…Arthropods gain two degrees of bending freedom by putting two 1-degree bending joints next to each other, each oriented at a right angle to the other…The classic work on such cases was done by S.M. Manton, in the 1950s and 1960s; as put, with a long list of references, by Wainwright et al. (1976), ‘The accounts of her researches in this field constitute a monument in the study of mechanical design of the most mechanically diverse group of organisms that have ever lived.'” (Vogel 2003:403)",
+  "function_addressed": [
+    "optimize shape/materials",
+    "modify position",
+    "physically assemble structure",
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/joints-have-two-degrees-of-bending-freedom/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "joints",
+    "have",
+    "two",
+    "degrees",
+    "bending",
+    "freedom"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

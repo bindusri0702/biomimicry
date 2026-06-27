@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-body-detects-magnetic-fields",
+  "organism_common": "Western honeybee",
+  "organism_scientific": "",
+  "strategy_summary": "The abdomens of honeybees may be able to detect magnetic fields and use them in navigation thanks to magnetite. “The bodies of honeybees also contain magnetite.",
+  "mechanism": "The abdomens of honeybees may be able to detect magnetic fields and use them in navigation thanks to magnetite.\n\n“The bodies of honeybees also contain magnetite. In the 1970s, Princeton University zoologist Dr. Joseph Kirschvink showed that the magnetite lies in bands of cells in each segment of the bee’s abdomen. It is most concentrated just below the ganglion (a compact mass of nerve cells).” (Shuker 2001:45)\n\n“‘How do MGs found in the abdomen function as magnetoreceptors’ is an enigma yet to be resolved. Suffice to note that peripheral neurons of insects may play a role independent of the brain, such that a male cockroach can continue with mating, with its head bitten off by his female partner. Certainly, a magnetoreception system for positioning and orientation exists in honeybees, and this simple, primitive, and highly accurate sensing mechanism may be present in all other magnetotactic organisms.” (Hsu et al. 2007:8)",
+  "function_addressed": [
+    "navigate through air",
+    "sense electricity/magnetism from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/body-detects-magnetic-fields/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "body",
+    "detects",
+    "magnetic",
+    "fields"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-echolocation-pinpoints-target",
+  "organism_common": "Egyptian fruit bat",
+  "organism_scientific": "",
+  "strategy_summary": "It’s a sweltering night in Saudi Arabia. Suddenly, something the size of a small dog swoops by through the air.",
+  "mechanism": "Sound waves travel in an expanding, cone-shaped path from their source. The best way for an animal using echolocation to find an object in the first place is to point its clicks in lots of different directions. But these initial calls don’t provide much information about how the searcher and the searched are moving side to side relative to each other. As a result, such an approach has limited value in helping the animal fine-tune its position as it moves closer to its target.\n\nEnter the sound waves at the perimeter of the cone. If the bat aims its clicks to the side of the object, the sound waves that bounce back from the slanted part of the cone of sound contain more information about the relative movement between the searcher and the searched than would those aimed directly at the object. By listening for the bounce back of sound waves at the edge of the cone where the difference in timing is larger, the bat can more easily tell if it’s getting “warmer” or “colder” from one click to the next and adjust its trajectory accordingly.\n\nThe “sweet spot” the fruit bat has found between maximizing its odds of finding food and maximizing its odds of landing on it accurately is similar to strategies other animals likely use to follow sounds, scents, or other signals from a desired object. This suggests it is broadly beneficial as a “homing-in strategy.” Humans might apply a similar strategy to optimizing the search function for drones or other robots that use light, sound, or scent to track objects. The side-to-side switch-out also could be helpful for keeping aircraft on the straight and narrow during taxiing or flight or improving self-driving vehicles’ ability to stay in their lane with the fine-tuned finesse a skilled driver might use.",
+  "function_addressed": [
+    "navigate through air"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/echolocation-pinpoints-target/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "off-target",
+    "clicks",
+    "fruit",
+    "bats",
+    "find",
+    "food"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

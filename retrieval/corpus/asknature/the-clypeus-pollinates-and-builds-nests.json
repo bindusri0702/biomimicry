@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-the-clypeus-pollinates-and-builds-nests",
+  "organism_common": "Mason bee",
+  "organism_scientific": "",
+  "strategy_summary": "The face of a bee can be specialized to collect pollen and build nests, depending on the needs of the bee. The clypeus of the bee is the area below the antennae, but above the labrum and the mouth.",
+  "mechanism": "The face of a bee can be specialized to collect pollen and build nests, depending on the needs of the bee.\n\nThe clypeus of the bee is the area below the antennae, but above the labrum and the mouth. In one of the bees above, it’s yellow in color compared to the rest of the face. The clypeus is one of the ways a bee can be identified, based on its shape as well as the type of hairs present on it.\n\nBees such as Osmia lignaria (Pictured above) use their clypei to build nests in naturally occurring holes or gaps, building small pockets inside for each of their eggs.\n\nBees can also use their face to collect pollen, rubbing it against flowers and then using their legs to collect the pollen that gets caught on their clypeus. These bees tend to have longer hairs to hold onto the pollen, such as Osmia inspergens (Pictured above).\n\nThe clypeus is especially useful in a practice known as buzz-pollination, where the bee vibrates against a flower whose pollen is not accessible to make the pollen shoot out and cover the bee. The pollen is caught on the bristles of the clypeus, so it can be collected and brought back to the hive.\n\nThis information is also available from the University of Calgary Invertebrate collection , where it was curated as part of a study on design inspired by bees.\n\nAndrena asteroides, with a bright yellow clypeus.\n\nOsmia inspergens, with a clypeus more specialized for pollination than nest building.\n\nOsmia lignaria, with a clypeus more specialized for nest building than pollination.",
+  "function_addressed": [
+    "pollinate",
+    "capture, absorb, or filter solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/the-clypeus-pollinates-and-builds-nests/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "clypeus",
+    "pollinates",
+    "builds",
+    "nests"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

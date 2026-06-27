@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-shearing-forces-increase-molecular-alignment",
+  "organism_common": "Silkworm",
+  "organism_scientific": "",
+  "strategy_summary": "The silk-spinning organ of silkworms enhances crystallization and coagulation of the liquid silk product via shearing forces that help align the molecules. “RAMSDEN (1938) observed that shearing of the viscous contents of silk glands between glass slides would cause it to coagulate.",
+  "mechanism": "The silk-spinning organ of silkworms enhances crystallization and coagulation of the liquid silk product via shearing forces that help align the molecules.\n\n“RAMSDEN (1938) observed that shearing of the viscous contents of silk glands between glass slides would cause it to coagulate. IIZUKA (1966) studied the effect of shear rate on the coagulation of fibroin solutions and also analyzed the dimensions of the spinneret of the silk worm Bombyx mori with regard to the shearing forces arising in this tube. He concluded that the shearing forces in the spinneret align molecules thus enhancing crystallization and also align the randomly oriented crystals thus promoting coagulation. The greater the shearing forces, the higher the degree of crystallinity of the product.” (Wainwright 1976:77)",
+  "function_addressed": [
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shearing-forces-increase-molecular-alignment/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shearing",
+    "forces",
+    "increase",
+    "molecular",
+    "alignment"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

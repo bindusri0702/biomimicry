@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-roots-recruit-symbiotic-soil-bacteria",
+  "organism_common": "Maize",
+  "organism_scientific": "",
+  "strategy_summary": "Plant roots are surrounded by tens of thousands of species of microbes that collectively make up what is called the rhizosphere. Some of these microbes are phytopathogens that have damaging effects on plants.",
+  "mechanism": "It has been recently documented that maize is capable of attracting beneficial bacteria to its rhizosphere to promote health. Early stage maize seedlings are especially vulnerable to harm from phytopathogens.\n\nTo protect our food crops, we often apply pesticides that are harmful to other organisms and the environment. With maize, we see an example of a plant altering the chemical and biological properties of soil to suit its needs. By continuing to study how corn accomplishes this as well as identifying other plants that can affect soil properties, we may be able to plant plants as “pesticides” instead of using harsh chemicals.",
+  "function_addressed": [
+    "protect from plants",
+    "protect from microbes",
+    "send chemical signals (odor, taste, etc.)",
+    "cooperate/compete between different species"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/roots-recruit-symbiotic-soil-bacteria/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "roots",
+    "recruit",
+    "symbiotic",
+    "soil",
+    "bacteria"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

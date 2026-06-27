@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-enzyme-degrades-lignin",
+  "organism_common": "Chemically Break Down Organic Compounds",
+  "organism_scientific": "",
+  "strategy_summary": "Laccase enzymes of Trametes fungi catalyze the oxidation of organic and inorganic substrates including lignin through direct electron transfer. “First of all, high-redox-potential laccases are able to oxidize both high- and low-redox-potential substrates, which significantly broadens the degradation ability of the…",
+  "mechanism": "Laccase enzymes of Trametes fungi catalyze the oxidation of organic and inorganic substrates including lignin through direct electron transfer.\n\n“First of all, high-redox-potential laccases are able to oxidize both high- and low-redox-potential substrates, which significantly broadens the degradation ability of the fungi at the beginning of their growth. Secondly, for all high-redox-potential laccases, bioelectroreduction of oxygen on the carbon electrode based on direct electron transfer reactions between the electrode (solid substrate) and the enzymes has been shown, including the two laccases studied in the present work. Indeed, not only laccase, but also all ligninolytic enzymes from white rot fungi (lignin and manganese peroxidases, laccase, and cellobiose dehydrogenase) display the phenomenon of direct electron transfer.” (Shleev et al. 2007:46)",
+  "function_addressed": [
+    "chemically break down organic compounds",
+    "chemically break down inorganic compounds",
+    "chemically generate flow of electrons (redox)"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/enzyme-degrades-lignin/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "enzyme",
+    "degrades",
+    "lignin"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

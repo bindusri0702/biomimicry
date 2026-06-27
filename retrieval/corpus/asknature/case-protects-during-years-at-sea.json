@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-case-protects-during-years-at-sea",
+  "organism_common": "Sea putat",
+  "organism_scientific": "",
+  "strategy_summary": "The seeds of the Polynesian box fruit are protected from damage as they drift on ocean currents via a tough seed case. “Protection from air and water: Seed cases are champions of air- and water-tight storage.",
+  "mechanism": "The seeds of the Polynesian box fruit are protected from damage as they drift on ocean currents via a tough seed case.\n\n“Protection from air and water: Seed cases are champions of air- and water-tight storage. Among the record-holders: a lotus that germinated after 1288 years, a Polynesian box fruit that germinated after two years at sea, and the Mary’s Bean, a liana seed which stayed afloat from the Marshall Islands to the beaches of Norway, more than 15,000 miles!” (Biomimicry Guild unpublished report)",
+  "function_addressed": [
+    "protect from animals",
+    "protect from microbes",
+    "protect from excess liquids",
+    "protect from loss of liquids",
+    "protect from light"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/case-protects-during-years-at-sea/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "case",
+    "protects",
+    "during",
+    "years",
+    "sea"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

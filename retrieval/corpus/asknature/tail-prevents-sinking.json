@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-tail-prevents-sinking",
+  "organism_common": "Modify Position",
+  "organism_scientific": "",
+  "strategy_summary": "Tails of sharks and sturgeons keep these heavy-bodied animals from sinking because they are assymetrical and produce an upward-directed torque. “A number of good swimmers among the shark and sturgeon families are heavier than water.",
+  "mechanism": "Tails of sharks and sturgeons keep these heavy-bodied animals from sinking because they are assymetrical and produce an upward-directed torque.\n\n“A number of good swimmers among the shark and sturgeon families are heavier than water. If they did not mobilize vertical forces, they would slowly but inevitably sink to the bottom. Since they are continuously in motion, nature was able to solve their weight problem in a very elegant way: The sickle-shaped tail is asymmetrical. Because the upper half is larger than the lower, its resistance produces upward directed torque. In addition, the pectoral fins are shaped like small wings and function as elevators, producing and controlling vertical forces” (Tributsch 1984:54).\n\n“During steady horizontal swimming, the sturgeon tail generates a lift force relative to the path of motion but no rotational moment because the reaction force passes through the center of mass. For a rising sturgeon, the tail does not produce a lift force but causes the tail to rotate ventrally in relation to the head since the reaction force passes ventral to the center of mass. While sinking, the direction of the ?uid jet produced by the tail relative to the path of motion causes a lift force to be created and causes the tail to rotate dorsally in relation to the head since the reaction force passes dorsal to the center of mass. These data provide evidence that sturgeon can actively control the direction of force produced by their tail while maneuvering through the water column because the relationship between vortex jet angle and body angle is not constant” (Liao et al. 2000: 3585).",
+  "function_addressed": [
+    "modify position",
+    "modify buoyancy",
+    "manage compression",
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tail-prevents-sinking/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tail",
+    "prevents",
+    "sinking"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

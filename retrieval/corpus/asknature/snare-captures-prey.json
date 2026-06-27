@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-snare-captures-prey",
+  "organism_common": "Dikarya (Common Mushrooms, etc.)",
+  "organism_scientific": "",
+  "strategy_summary": "Filamentous loops of some fungi aid hunting by acting as a snare, releasing a chemical attractant and then swelling to capture prey. “At least fifty species [of fungi] are active hunters, albeit on a microscopic scale.",
+  "mechanism": "Filamentous loops of some fungi aid hunting by acting as a snare, releasing a chemical attractant and then swelling to capture prey.\n\n“At least fifty species [of fungi] are active hunters, albeit on a microscopic scale. They develop little hoops on the side of their threads which carry three sensitive pads on their inner margin. These hoops produce a chemical smell with attracts tiny eelworms. If one wriggles into the ring, the pads suddenly swell and the worm is gripped so tightly, it cannot escape. Filaments from the ring then grow into the worm and suck out the contents of its body.” (Attenborough 1995:179)",
+  "function_addressed": [
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/snare-captures-prey/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "snare",
+    "captures",
+    "prey"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

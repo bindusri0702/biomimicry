@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-stems-vary-stiffness",
+  "organism_common": "Rough horsetail",
+  "organism_scientific": "",
+  "strategy_summary": "Stems of scouring horsetail vary their stiffness by having rings of supportive tissues that react to changes in turgor. “Plants with hollow axes, e.g.",
+  "mechanism": "Stems of scouring horsetail vary their stiffness by having rings of supportive tissues that react to changes in turgor.\n\n“Plants with hollow axes, e.g. various horsetails and grasses, serve as generators of biological concepts for technical structures with variable stiffness. Their structure is characterised by a thin outer ring of strengthening tissue stabilised by a lining of parenchyma cells (Fig. 1A-C). The hollow stems are divided into shorter segments (internodes) by transverse walls and stem thickenings at the so called nodes. The nodes significantly reduce the danger of local buckling in these light-weight structures. The stability of these stems depends significantly on the internal pressure (turgor) of the parenchymatous cells. If the turgor pressure is reduced, e.g. by water deficiency, stiffness and stability of the stems decrease. In some species–such as the Brazilian Giant Horsetail ( Equisetum giganteum )…the resistance to ovalisation is extremely turgor-dependent. In other horsetail species–such as the Dutch Rush ( E. hyemale )–the outer ring of strengthening tissue is connected via wedge-shaped elements with an inner ring of strengthening tissue forming a mechanically resistant sandwich structure (Fig. 1D, E). These stems are also stabilised by the pressurised lining of parenchymatous cells but depend much less on the turgor pressure of the parenchyma cells. The mechanical stability resisting stem ovalisation is diminished by only about 20% due to reduction of the turgor pressure.\n\n“Potential technical implementations are manifold, inspired by plants with mechanical properties of the stem varying with the internal pressure of the pressurised cellular lining. These include light-weight structures with chambered pressure-stabilised pneumatic structures that feature a segmental variation of stiffness and the ability to adapt their stiffness or form to changing outer conditions, facilitated either adaptively or via integrated active control. Envisaged technical applications for these types of biomimetic technical smart materials include: (1) shells of airplane wings and other aircraft (adaptation to changing aerodynamics); (2) shells of buildings of innovative construction; (3) car parts, e.g. aerodynamically adjustable spoilers.”(Speck et al. 2004:199-200)",
+  "function_addressed": [
+    "prevent buckling",
+    "modify pressure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/stems-vary-stiffness/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "stems",
+    "vary",
+    "stiffness"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

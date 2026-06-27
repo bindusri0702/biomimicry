@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-just-in-time-manufacturing-conserves-resources",
+  "organism_common": "Snakes",
+  "organism_scientific": "",
+  "strategy_summary": "Snakes conserve resources by just-in-time manufacturing. “Just-in-time manufacturing: Producing as needed and at the time of the need is widely used in biology and such examples include the making of the web by spiders or the production of the toxic chemicals by snakes.",
+  "mechanism": "Snakes conserve resources by just-in-time manufacturing.\n\n“Just-in-time manufacturing: Producing as needed and at the time of the need is widely used in biology and such examples include the making of the web by spiders or the production of the toxic chemicals by snakes. Such a capability is increasingly adapted by industry as a method of lowering the cost of operation. Many industries are now manufacturing their products in small quantities as needed to meet consumers demand right at the assembly line. Thus, industry is able to cope with the changing demand and decline or rise in orders for its products.” (Bar-Cohen 2006:498)\n\nBar-Cohen Y. Biomimetics: biologically inspired technologies. Bar-Cohen Y, editor. Boca Raton, FL: CRC/Taylor & Francis; 2006. 527 p.",
+  "function_addressed": [
+    "regulate cellular processes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/just-in-time-manufacturing-conserves-resources/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "just-in-time",
+    "manufacturing",
+    "conserves",
+    "resources"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

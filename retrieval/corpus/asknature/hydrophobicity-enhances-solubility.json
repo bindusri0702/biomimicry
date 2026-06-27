@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-hydrophobicity-enhances-solubility",
+  "organism_common": "Vertebrates (Mammals, Fish, Birds, Reptiles)",
+  "organism_scientific": "",
+  "strategy_summary": "Elastin fibers in arteries form when tropoelastin molecules come out of solution thanks to solubility-enhancing hydrophobicity. “Soluble tropoelastin molecules are exported to the extracellular matrix, where they come out of solution and form fibres in all vertebrates.",
+  "mechanism": "Elastin fibers in arteries form when tropoelastin molecules come out of solution thanks to solubility-enhancing hydrophobicity.\n\n“Soluble tropoelastin molecules are exported to the extracellular matrix, where they come out of solution and form fibres in all vertebrates. Fibrillogenesis therefore requires that tropoelastin be first soluble and then insoluble. If a tropoelastin molecule is naturally soluble, fibre formation could be initiated by aggregation of large hydrophobic patches, but it may be difficult to collapse the entire molecule. The opposite strategy would be to make tropoelastin itself insoluble, making fibre formation easy, and use chaperone proteins to keep it from coming out of solution, or coacervating, prematurely. Since all elastins are hydrophobic, all should have the potential to coacervate, but the coacervation temperature in some is probably too high for it to occur naturally. The coacervation temperature can be lowered by increasing the hydrophobicity.” (Chalmers et al. 1999)\n\nMicrofibril and elastic fibre formation. Fibrillin is assembled pericellularly into microfibrillar arrays that appear to undergo time-dependent maturation into beaded transglutaminase-crosslinked microfibrils. Mature microfibrils form parallel bundles that may be stabilised at inter-microfibrillar crosslinked regions. In elastic tissues, tropoelastin is deposited on microfibril bundles, and lysyl oxidase-derived crosslinks then stabilise the elastin core.\n\nDomain structures of fibrillin-1 and elastin, showing molecular interaction sites identified in vitro (see Molecular Interactions). (A) Fibrillin-1 has 47 cbEGF-like domains, interspersed with TB modules. A proline-rich region is towards the N-terminus. N-glycosylation sites are indicated. (B) Elastin contains alternating hydrophobic and crosslinking domains. The C-terminus has two cysteines and a negatively charged pocket.",
+  "function_addressed": [
+    "chemically assemble organic compounds",
+    "modify solubility (dissolving, emulsifying, precipitating, crystallizing)"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hydrophobicity-enhances-solubility/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fiber",
+    "formation",
+    "induced",
+    "hydrophobicity"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

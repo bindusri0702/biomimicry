@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-arches-provide-structural-support",
+  "organism_common": "Termites",
+  "organism_scientific": "",
+  "strategy_summary": "The nests of termites gain structural support for chambers, ventilation shafts, and insulating cavities because arches are the main architectural element. “The basic building step in many termites involves gluing fecal pellets to make arches; the arches, supporting a network of other arches, provide most of the…",
+  "mechanism": "The nests of termites gain structural support for chambers, ventilation shafts, and insulating cavities because arches are the main architectural element.\n\n“The basic building step in many termites involves gluing fecal pellets to make arches; the arches, supporting a network of other arches, provide most of the structural strength needed to support specialized chambers, ventilation shafts, and insulating cavities, and they supply convenient walkways as well. Recycling feces is a superb way to turn a problem into a solution…The construction of the arches goes well beyond flexibility and variation…Columns are neither too close nor too far apart to permit the subsequent construction of arches.” (Gould and Gould 2007:142-144)",
+  "function_addressed": [
+    "manage compression",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/arches-provide-structural-support/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "arches",
+    "provide",
+    "structural",
+    "support"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

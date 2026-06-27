@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-bacteria-reduce-iron-oxide",
+  "organism_common": "Shewanella oneidensis",
+  "organism_scientific": "",
+  "strategy_summary": "Shewanella oneidensis bacteria attach to and reduce iron oxide in anaerobic conditions via the work of two proteins. Shewanella oneidensis “breathes” by attaching itself to particles of iron oxide found in solid minerals, and utilizing the oxygen molecules contained therein.",
+  "mechanism": "Shewanella oneidensis bacteria attach to and reduce iron oxide in anaerobic conditions via the work of two proteins.\n\nShewanella oneidensis “breathes” by attaching itself to particles of iron oxide found in solid minerals, and utilizing the oxygen molecules contained therein. It is thanks to two proteins that this can occur. When ambient oxygen is low, S. oneidensis expresses these proteins, and the proteins bind to and reduce iron oxide. (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "chemically generate flow of electrons (redox)",
+    "modify electron transport",
+    "modify oxidation state",
+    "chemically break down inorganic compounds",
+    "capture, absorb, or filter chemical entities"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bacteria-reduce-iron-oxide/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bacteria",
+    "reduce",
+    "iron",
+    "oxide"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

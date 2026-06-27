@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-adhesion-occurs-in-varying-conditions",
+  "organism_common": "Limpets",
+  "organism_scientific": "",
+  "strategy_summary": "To stick or not to stick? That’s the dilemma a limpet ( Lottia species in this case) faces every day as the tide rolls in and out across the tidal zones in which it lives.",
+  "mechanism": "Limpets are a group of single-shelled mollusks that can grow up to 4 inches (10 centimeters) long. They have a flat, flexible muscular surface on the bottom and a bowl-shaped shell on the top.\n\nWhen a limpet is underwater nibbling bits of vegetation off rocks at high tide, it secretes a slime from the surface cells on its underside. That gel is 93% water with a variety of small proteins and a few carbohydrates mixed in. Together with muscle action that gently presses the foot against the surface and also propels it forward, the slime creates some stabilizing adhesion while allowing the limpet to slide slowly along the surface.\n\nLimpets’ exemplary ability to cling tightly to surfaces in the ocean’s intertidal zone offers inspiration for developing powerful adhesives that can withstand water, salt, and buffeting. In addition, their capacity for switching from “strong attachment” to “stuck, but mobile” over the course of a day—and then back again—could prove valuable for designing temporary adhesives, developing mobility strategies for underwater robots, constructing seafloor mining facilities, and more.",
+  "function_addressed": [
+    "manage turbulence",
+    "manage shear",
+    "manage tension",
+    "protect from animals",
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/adhesion-occurs-in-varying-conditions/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tiny",
+    "mollusk",
+    "makes",
+    "adjustable",
+    "glue"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

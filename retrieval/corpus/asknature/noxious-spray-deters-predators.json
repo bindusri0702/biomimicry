@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-noxious-spray-deters-predators",
+  "organism_common": "Skunks and stink badgers",
+  "organism_scientific": "",
+  "strategy_summary": "The anal sacs of skunks help protect them from predators by spraying a long-lasting, pungent liquid. “The striped coat of the skunk is a warning to intruders that it can be offensive.",
+  "mechanism": "The anal sacs of skunks help protect them from predators by spraying a long-lasting, pungent liquid.\n\n“The striped coat of the skunk is a warning to intruders that it can be offensive. If threatened, it will turn its back on the intruder and squirt a nauseous smelling fluid from its anal sacs, often with surprisingly good aim…any animal that ignores its black and white warning coloration may get hit, even at a distance, by a jet of pungent liquid which will cause distress for days or even weeks.” (Foy and Oxford Scientific Films 1982:79)",
+  "function_addressed": [
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/noxious-spray-deters-predators/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "noxious",
+    "spray",
+    "deters",
+    "predators"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

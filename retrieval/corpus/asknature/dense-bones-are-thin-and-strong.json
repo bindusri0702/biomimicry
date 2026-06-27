@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-dense-bones-are-thin-and-strong",
+  "organism_common": "Birds",
+  "organism_scientific": "",
+  "strategy_summary": "It is a common belief that the skeletons of birds are “lightweight,” but when examined more closely, what is meant by this is unclear. In order to be considered lightweight, bird bones must be light relative to something else.",
+  "mechanism": "Some birds have pneumatized (air-filled) spaces within their largest bones, which can reduce skeletal mass by between 8 and 13 %. This aids with flying, however it is restricted to only some bird species and so it cannot be critical for flight.\n\nThe bones of flying birds are thinner than those of other animals. In order to be both thin and maintain the strength required to cope with the huge physical loads that are applied to them in flight, bird bones are denser than those of equivalently sized flightless animals. Bird bones are thin, but they are far from as delicate as they appear.\n\nBirds tend to be small animals, which does aid with flying, and they stand out from flightless animals of a similar size in that they have a relatively large surface area to volume ratio. Even when standing with wings folded, birds have a much larger surface area for their mass than other animals. With wings extended, this increases dramatically, creating lift and enabling control.\n\nLarge bones require large support structures, that is, musculature to move them and blood vessels to supply them with nutrients. Although bird bones themselves are denser and, proportionally, take up a normal percentage of body weight, their small relative volume means they require less in the way of support. In this way, the skeletons of birds enable them to have a smaller total body mass relative to their surface area. Bird skeletons are not lightweight, but because of their unique structure, bird bodies can be.\n\nFlight is a delicate balance between the lift and the energy required to generate lift. Birds must consume enough calories to sustain flight for migration, to forage for food, and to build nests. Nature found an equilibrium in birds by designing dense bones that efficiently support smaller bodies. Flight for humans (indeed all modes of our transportation) also must consider efficiency. In other words, how far we can go on the available fuel? With more efficiently designed structures (bones) of cars, airplanes, and cargo ships, we consume less fuel and emit less pollution.",
+  "function_addressed": [
+    "prevent fracture/rupture",
+    "prevent fatigue",
+    "prevent deformation",
+    "prevent buckling",
+    "manage turbulence"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/dense-bones-are-thin-and-strong/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "dense",
+    "bones",
+    "thin",
+    "strong"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

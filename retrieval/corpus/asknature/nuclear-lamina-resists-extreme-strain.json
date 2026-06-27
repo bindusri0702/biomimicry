@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-nuclear-lamina-resists-extreme-strain",
+  "organism_common": "Eukaryotes",
+  "organism_scientific": "",
+  "strategy_summary": "Nuclear lamina of eukaryote cells resist extreme mechanical strain by sacrifice of individual protein filaments rather than the entire meshwork. “The nuclear lamina [a dense (~30 to 100 nm thick) fibrillar network inside the nucleus of a eukariotic cell], composed of intermediate filaments, is a structural protein…",
+  "mechanism": "Nuclear lamina of eukaryote cells resist extreme mechanical strain by sacrifice of individual protein filaments rather than the entire meshwork.\n\n“The nuclear lamina [a dense (~30 to 100 nm thick) fibrillar network inside the nucleus of a eukariotic cell], composed of intermediate filaments, is a structural protein meshwork at the nuclear membrane that protects genetic material and regulates gene expression. Here we uncover the physical basis of the material design of nuclear lamina that enables it to withstand extreme mechanical deformation of >100% strain despite the presence of structural defects…we demonstrate that this is due to nanoscale mechanisms including protein unfolding, alpha-to-beta transition, and sliding, resulting in a characteristic nonlinear force-extension curve. At the larger microscale this leads to an extreme delocalization of mechanical energy dissipation, preventing catastrophic crack propagation. Yet, when catastrophic failure occurs under extreme loading, individual protein filaments are sacrificed rather than the entire meshwork. This mechanism is theoretically explained by a characteristic change of the tangent stress-strain hardening exponent under increasing strain.” (Qin and Buehler 2011:3034)",
+  "function_addressed": [
+    "manage impact",
+    "manage tension",
+    "manage shear",
+    "manage mechanical wear"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nuclear-lamina-resists-extreme-strain/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "nuclear",
+    "lamina",
+    "resists",
+    "extreme",
+    "strain"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

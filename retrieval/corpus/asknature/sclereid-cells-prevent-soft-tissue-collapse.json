@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-sclereid-cells-prevent-soft-tissue-collapse",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Sclereid cells in vascular plants help prevent the collapse of soft tissues during water stress via thick, lignified walls. “Sclereids are also cells with thick, lignified walls.",
+  "mechanism": "Sclereid cells in vascular plants help prevent the collapse of soft tissues during water stress via thick, lignified walls.\n\n“Sclereids are also cells with thick, lignified walls. They are grouped with fibres under the general term sclerenchyma. They differ from fibres in generally being shorter in relation to their length, but there is some overlap in the range of cells. They may be branched, sinuous or short — often more or less isodiametric. The longer ones commonly feature in the sheaths to veins, particularly near the ends of the finer branches. They can be pit-prop-like when they extend between the upper and lower surfaces of leaves, and appear to help prevent collapse of softer tissues at times of water stress, as in olive leaves and the leaves of many mangrove plants. These plants, and many of the hard-leaved plants found in arid habitats, often have abundant elongated or branched sclereids.” (Cutler 2005:104)",
+  "function_addressed": [
+    "manage compression"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/sclereid-cells-prevent-soft-tissue-collapse/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "sclereid",
+    "cells",
+    "prevent",
+    "soft",
+    "tissue",
+    "collapse"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-shape-the-invitation-to-guide-the-visitor",
+  "organism_common": "Feijoa",
+  "organism_scientific": "",
+  "strategy_summary": "Feijoa flowers use the arrangement of its pollen-bearing parts to guide which pollinators can reach them. In its home range, feijoa ( Acca sellowiana ) plants flowers in spring, producing striking red and white blooms with thick, curved petals and a brush-like spray of stamens tipped with pollen.",
+  "mechanism": "Feijoa flowers use the arrangement of its pollen-bearing parts to guide which pollinators can reach them.\n\nIn its home range, feijoa ( Acca sellowiana ) plants flowers in spring, producing striking red and white blooms with thick, curved petals and a brush-like spray of stamens tipped with pollen. In addition to being chemically attractive to pollinators, thanks in part to the abundance of flavonoids in the plant, they are carefully shaped meeting places between plant and pollinator.\n\nFeijoa grows in landscapes where pollinators vary widely—from small native stingless bees to smaller songbirds and larger corvids. Rather than relying on a single pollinator, the species has evolved a flexible reproductive approach. Its flowers subtly adjust who can pollinate them and how efficiently, using physical structure rather than movement, signals, or chemical control. The result is a plant that can reproduce reliably even as pollinator communities change.\n\nAt the heart of feijoa’s strategy is physical spacing. It was once thought that smaller insects could not successfully pollinate feijoa flowers at all, due to the overall larger distance between stigma (the pollen-receiving tip of the flower) and stamen (the pollen-producing structures). However, we now know that the distance between the stigma and the stamens varies among individual feijoa plants, ranging from just a few millimeters to over a centimeter. This distance strongly influences which pollinators can successfully transfer pollen.\n\nWhen the stigma and stamens are close together, small-bodied pollinators such as honeybees and native stingless bees can easily brush against both while foraging. When the distance is larger, pollen transfer favors bigger visitors, including birds, whose bodies bridge the gap as they feed on the plant’s edible and nutritious flowers, brushing up against other flowers nearby. In this way, floral architecture acts like a physical filter, shaping access without excluding participation altogether.\n\nFeijoa also varies the arrangement of its stamens. Some feijoa flowers hold their stamens in a neat radial ring, while others scatter them more randomly. Flowers with randomly distributed stamens produce more anthers and more pollen overall, increasing the chances that a visiting animal will leave carrying a generous pollen load. Radial arrangements, by contrast, place pollen closer to the stigma, increasing the likelihood of contact during a single visit.\n\nTogether, these traits influence a plant’s pollen-to-ovule ratio—a well-established indicator of a plant’s reproductive strategy. Feijoa’s ratio places it in a reproductive category called facultative xenogamy , meaning that it prefers cross-pollination but can still self-pollinate if needed. This balance allows feijoa to benefit from genetic diversity when pollinators are abundant, while maintaining reproductive insurance when they are not.\n\nFeijoa’s flowers remind us that structure can guide behavior.\n\nFor human systems, this strategy offers inspiration for designing interfaces or spaces where physical layout guides participation and access.\n\nCreating resilient systems that work with many kinds of contributors rather than depending on a single ideal user.\n\nBalancing efficiency with redundancy, allowing high performance under ideal conditions while maintaining function when conditions change.\n\nAgricultural and ecological planning, where crop or habitat design can support diverse pollinators instead of relying on one managed species.\n\nMore broadly, feijoa shows how living systems solve uncertainty: not by predicting the future, but by staying open to many possible partners. In doing so, it invites us to design with flexibility, generosity, and trust in relationships.",
+  "function_addressed": [
+    "optimize shape/materials",
+    "modify size/shape/mass/volume"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shape-the-invitation-to-guide-the-visitor/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shape",
+    "invitation",
+    "guide",
+    "visitor"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

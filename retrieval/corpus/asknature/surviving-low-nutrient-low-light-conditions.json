@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-surviving-low-nutrient-low-light-conditions",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Plants in peatlands survive low nutrients and low light thanks to their perennial life cycle, which ensures a large biomass above and below ground. “Virtually all true mire vascular plants are perennial.",
+  "mechanism": "Plants in peatlands survive low nutrients and low light thanks to their perennial life cycle, which ensures a large biomass above and below ground.\n\n“Virtually all true mire vascular plants are perennial. This is a most effective way to ensure a large biomass, both below and above ground. In a nutrient-poor environment, a relatively large root biomass is required to obtain enough resources, and this cannot easily be built up within one season. Also, the large above-ground biomass which may be necessary for light capture in wooded mires can be built only by perennials.” (Rydin and Jeglum 2006:50)",
+  "function_addressed": [
+    "adapt behaviors",
+    "regulate reproduction or growth",
+    "capture, absorb, or filter energy",
+    "capture, absorb, or filter chemical entities"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/surviving-low-nutrient-low-light-conditions/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "surviving",
+    "low",
+    "nutrient",
+    "light",
+    "conditions"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-achieving-precise-alignment",
+  "organism_common": "Rosy tritonia",
+  "organism_scientific": "",
+  "strategy_summary": "Sea slugs align themselves at a precise angle by detecting the Earth's north-south magnetic axis. “Undersea creatures are also sensitive to magnetic pull.",
+  "mechanism": "Sea slugs align themselves at a precise angle by detecting the Earth's north-south magnetic axis.\n\n“Undersea creatures are also sensitive to magnetic pull. The sea slug ( Tritonia diomeda ), for instance, is known to align itself precisely at an angle of 87.6° east to the Earth’s north-south magnetic axis.” (Shuker 2001:46)\n\n“ Tritonia diomedea uses the Earth’s magnetic field as an orientation cue, but little is known about the neural mechanisms that underlie magnetic orientation behavior in this or other animals. Six large, individually identifiable neurons in the brain of Tritonia (left and right Pd5, Pd6, Pd7) are known to respond with altered electrical activity to changes in earth-strength magnetic fields. In this study we used immunochemical, electrophysiological, and neuroanatomical techniques to investigate the function of the Pd5 neurons, the largest magnetically responsive cells…Given that TPeps [neuropeptides isolated from Pd5] increase ciliary beating and Tritonia locomotes using pedal cilia, our results are consistent with the hypothesis that Pd5 neurons control or modulate the ciliary activity involved in crawling during orientation behavior.” (Cain et al. 2006:235)",
+  "function_addressed": [
+    "modify position",
+    "sense electricity/magnetism from the environment",
+    "sense balance/orientation"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/achieving-precise-alignment/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "achieving",
+    "precise",
+    "alignment"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

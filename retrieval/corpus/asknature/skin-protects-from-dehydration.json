@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-skin-protects-from-dehydration",
+  "organism_common": "Granulated file snake",
+  "organism_scientific": "",
+  "strategy_summary": "The skin of file snakes protects from dehydration because it is hygroscopic, absorbing moisture from the air. Chersydrus granulatus  “The granular skin of Acrochordus is hygroscopic and imbibes water which moves rapidly over the body surface through interscalar channels.",
+  "mechanism": "The skin of file snakes protects from dehydration because it is hygroscopic, absorbing moisture from the air.\n\nChersydrus granulatus\n\n“The granular skin of Acrochordus is hygroscopic and imbibes water which moves rapidly over the body surface through interscalar channels. Consequently, the integument is easily wetted to bear a superficial aqueous film = 5.4 mg water per cm² of skin surface. Although file snakes are aquatic, they can become entrapped in drying ephemeral pools and have been observed on tidal mud flats where they are potentially exposed to intense heat and dehydration. Superficial water films, therefore, have a potentially important biological role in reducing dehydration of skin or body while extending the time available for terrestrial sojourns between areas of water.” (Lillywhite and Sanmartino 1993:99)",
+  "function_addressed": [
+    "capture, absorb, or filter liquids",
+    "protect from loss of liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/skin-protects-from-dehydration/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "skin",
+    "protects",
+    "dehydration"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-body-uses-vortices-to-save-energy",
+  "organism_common": "Rainbow trout",
+  "organism_scientific": "",
+  "strategy_summary": "The body of rainbow trout decreases energy required for swimming by interacting with vortices in its fluid environment. Many fish swim using an undulating motion of their bodies.",
+  "mechanism": "The body of rainbow trout decreases energy required for swimming by interacting with vortices in its fluid environment.\n\nMany fish swim using an undulating motion of their bodies. The muscle activity that bends the body and produces these movements during steady, continuous swimming can cost a significant amount of energy. But some fishes, such as rainbow trout, can adopt a special swimming behavior that likely enables them to save their own energy by extracting energy from nearby water vortices.\n\nIn a fluid environment, vortices are swirls of water or air often released (or “shed”) from stationary objects and other living creatures, including other fish, that are in the path of an oncoming flow. Trout use water vortices that come their way from upstream sources to their advantage by adjusting their typical swimming behavior to produce a ‘slalom’ movement between vortices.\n\nResearchers hypothesize that a fish swimming upstream controls the angle of its body to take advantage of upstream flows within vortices shed by objects ahead of it.\n\nBody bends increase in amplitude and curvature, and the tail beats at a frequency that matches the frequency at which vortices are shed upstream. The pattern of muscle activity along the body also changes, where only muscles close to the head are active. This differs from typical undulating motion where muscles contract all along the body, starting from the head and moving toward the tail to produce a traveling body wave that pushes the fish forward. Researchers hypothesize that these changes in muscle activity and body motion help the trout position its body so that it interacts with the vortices in a specific way. The exact nature of this interaction is still under investigation, but one explanation is that the fish controls the angle of its body so that local flow from the vortices produces a continuous upstream force on the body. Scientist James Liao uses the analogy, “…we hypothesize that trout use their body like a sail to tack upstream.”\n\nThe general concept of taking advantage of altered fluid flows behind other objects to reduce the energetic cost of motion is found in human behaviors too, for instance, in cyclists that draft behind one another to save energy.\n\nDownload Strategy PDF\n\nVortex Hydro Energy\n\nVIVACE from Vortex Hydro Energy creates electricity from the transverse motion of cylinders caused by water currents.",
+  "function_addressed": [
+    "move in/on liquids",
+    "modify position"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/body-uses-vortices-to-save-energy/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "body",
+    "vortices",
+    "save",
+    "energy"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

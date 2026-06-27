@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-antennae-detect-individual-orchid-species",
+  "organism_common": "Bees",
+  "organism_scientific": "",
+  "strategy_summary": "The antennae of iridescent bees detect the scent of individual orchid species using especially sensitive chemoreceptors. In the forests of Central America, “Each of the twenty or so species of bucket orchid has its own brand of scent.",
+  "mechanism": "The antennae of iridescent bees detect the scent of individual orchid species using especially sensitive chemoreceptors.\n\nIn the forests of Central America, “Each of the twenty or so species of bucket orchid has its own brand of scent. Although human nostrils cannot distinguish between them, the iridescent bees that live in these forests certainly can. Each species of orchid attracts its own species of bee.” (Attenborough 1995:108)",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment",
+    "pollinate"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/antennae-detect-individual-orchid-species/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "antennae",
+    "detect",
+    "individual",
+    "orchid",
+    "species"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

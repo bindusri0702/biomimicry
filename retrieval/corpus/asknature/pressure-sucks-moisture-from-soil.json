@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-pressure-sucks-moisture-from-soil",
+  "organism_common": "Capture, Absorb, or Filter Liquids",
+  "organism_scientific": "",
+  "strategy_summary": "The roots of desert plants extract hard to remove water from soil using negative pressure. “Plants again.",
+  "mechanism": "The roots of desert plants extract hard to remove water from soil using negative pressure.\n\n“Plants again. Even in a desert the soil a little ways below the surface contains liquid water. It’s called ‘capillary water’ and is often thought of as firmly stuck to soil particles. The binding, though, is as much physical as chemical – the water in the soil interstices lie in tiny recesses between soil crumbs where it has minimized its exposed interface with air (Rose 1966). For the roots of a plant to extract the water requires making more surface, and thus it takes a very great pull, one that appears as an additional (negative) component of the pressure in the vessels running up a stem or trunk. The lowest (most negative) pressures known in plants occur in desert shrubs, which must suck really hard on the ground to get any water out. The most extreme value on record is, I think, minus 120 atmospheres (Schlessinger et al. 1982) – that would hold up a column water over 1,200 meters (4,000 feet) high. So the pull needed to get water free of soil can exceed both the pull that keeps water moving in the vessels and the pull that counteracts gravity.” (Vogel 2003:113)",
+  "function_addressed": [
+    "capture, absorb, or filter liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pressure-sucks-moisture-from-soil/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pressure",
+    "sucks",
+    "moisture",
+    "soil"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

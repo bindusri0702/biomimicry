@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-water-collection-cools-hive",
+  "organism_common": "Western honeybee",
+  "organism_scientific": "",
+  "strategy_summary": "Honeybees cool the hive by collecting water, spreading it, and fanning to increase evaporation. “Honeybee colonies collect water for two reasons, related to different types of weather: for cooling of the brood area by evaporation on hot days, and for feeding the larval brood when foraging is limited on cool days…",
+  "mechanism": "Honeybees cool the hive by collecting water, spreading it, and fanning to increase evaporation.\n\n“Honeybee colonies collect water for two reasons, related to different types of weather: for cooling of the brood area by evaporation on hot days, and for feeding the larval brood when foraging is limited on cool days (Lindauer, 1955; Seeley, 1995). The classic studies of Lindauer showed how bees regulate the hive temperature in hot conditions (Lindauer, 1955). Water is collected by water foragers, then distributed around the hive and in cells containing eggs and larvae; fanning accelerates its evaporation, as does regurgitation and evaporation on the tongue (Lindauer, 1955). Visscher and colleagues measured mean water loads of 44 mg in honeybees collecting water under desert conditions (Visscher et al., 1996). Paper wasps and hornets also use water for cooling their nests, but the highly social stingless bees do not (Jones and Oldroyd, 2007; Roubik, 2006).” (Nicholson 2009:430-431)",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/water-collection-cools-hive/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "water",
+    "collection",
+    "cools",
+    "hive"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,22 @@
+{
+  "doc_id": "asn-tusks-are-multifunctional",
+  "organism_common": "Walrus",
+  "organism_scientific": "",
+  "strategy_summary": "The tusks of a walrus are tools that have social and mechanical functions. “The walrus has only 18 teeth in its mouth, but the upper canines form great ivory tusks up to a metre long.",
+  "mechanism": "The tusks of a walrus are tools that have social and mechanical functions.\n\n“The walrus has only 18 teeth in its mouth, but the upper canines form great ivory tusks up to a metre long. It uses them for levering itself on to ice floes, as weapons in battles with other males over females, and as digging tools to extract clams and other invertebrates from the sea bed. A walrus may dive to depths of 200 metres and more in search of food, and is thought to use its tusks to plough up the sediments on the sea bottom to expose shells, which are recognized in these murky depths by the stiff sensory bristles on its snout. Behind the tusks are strong flat teeth capable of crushing the hardest shells.” (Foy and Oxford Scientific Films 1982:147)",
+  "function_addressed": [
+    "optimize shape/materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tusks-are-multifunctional/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tusks",
+    "multifunctional"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

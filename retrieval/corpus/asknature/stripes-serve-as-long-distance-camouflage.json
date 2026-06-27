@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-stripes-serve-as-long-distance-camouflage",
+  "organism_common": "Devil firefish",
+  "organism_scientific": "",
+  "strategy_summary": "The stripes on a lionfish serve as camouflage by breaking up the outline of the fish when viewed from afar. “The strange appearance of the lionfish…is caused by its highly divided dorsal and pectoral fins.",
+  "mechanism": "The stripes on a lionfish serve as camouflage by breaking up the outline of the fish when viewed from afar.\n\n“The strange appearance of the lionfish…is caused by its highly divided dorsal and pectoral fins. At close range its striking colours are a warning to would-be predators that it is poisonous: both these groups of fins can inject poison. The striped pattern also serves to break up the outline of the fish when viewed from a distance, a form of camouflage. The zebra firefish…has a similar pattern, and its dorsal spines also contain venom. The membranes of its pectoral fins extend almost to the tips, giving the appearance of a pair of wings.” (Foy and Oxford Scientific Films 1982:187)",
+  "function_addressed": [
+    "protect from animals",
+    "modify light/color"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/stripes-serve-as-long-distance-camouflage/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "stripes",
+    "serve",
+    "long-distance",
+    "camouflage"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

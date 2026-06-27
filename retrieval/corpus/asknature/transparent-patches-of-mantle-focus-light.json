@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-transparent-patches-of-mantle-focus-light",
+  "organism_common": "Giant clam",
+  "organism_scientific": "",
+  "strategy_summary": "The mantle of a giant clam focuses sunlight for the algae it hosts using transparent patches. “The giant clam also keeps algae within its body.",
+  "mechanism": "The mantle of a giant clam focuses sunlight for the algae it hosts using transparent patches.\n\n“The giant clam also keeps algae within its body. They are not imprisoned within its cells but held in a space directly beneath the outer skin of its mantle which is exposed to light whenever the two outer halves of the clam shell gape open. In some the mantle is purple, in others a vivid green, but always there are lines of bright spots along it. These are specially transparent patches that act like lenses, focusing light on the colonies of algae directly beneath. If the algae become too abundant, the clam thins them out by changing the constitutents of its internal fluids and digesting some of them.” (Attenborough 1995:203)",
+  "function_addressed": [
+    "capture, absorb, or filter energy",
+    "modify light/color"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/transparent-patches-of-mantle-focus-light/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "transparent",
+    "patches",
+    "mantle",
+    "focus",
+    "light"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

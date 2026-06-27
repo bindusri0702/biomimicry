@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-seeds-dispersed-across-the-sea",
+  "organism_common": "Sea-bean",
+  "organism_scientific": "",
+  "strategy_summary": "The seeds of sea beans are dispersed great distances in water thanks to durable woody pods. Sea beans are “gigantic compared with those of other members of the bean family, for they are about two inches across and carried in gigantic pods four feet long.",
+  "mechanism": "The seeds of sea beans are dispersed great distances in water thanks to durable woody pods.\n\nSea beans are “gigantic compared with those of other members of the bean family, for they are about two inches across and carried in gigantic pods four feet long. When they first form, these pods, like other bean pods are green and soft, but as they ripen they become woody and heavy. Eventually, the pod falls into the river beside which the tree is growing and floats away. The pod breaks apart along thin grooves that run across it between the seeds. Each seed, with its own section of pod as packaging, then starts its own individual journey. Some may be stranded on a sand bank or a muddy beach within a few yards of their parents. But others regularly float down the whole length of the river, past the mangrove swamps around its estuary and on out to sea. By the time the seed gets washed up on a beach it may have lost every vestige of its pod, but even after a year at sea, it can still be viable. The sea-bean’s transport is so efficient that its seeds occasionally get carried far beyond the reach of the climate in which they can grow successfully.” (Attenborough 1995:21-22)",
+  "function_addressed": [
+    "protect from excess liquids",
+    "manage mechanical wear",
+    "disperse seeds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/seeds-dispersed-across-the-sea/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "seeds",
+    "dispersed",
+    "across",
+    "sea"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

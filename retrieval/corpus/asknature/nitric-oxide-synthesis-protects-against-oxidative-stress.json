@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-nitric-oxide-synthesis-protects-against-oxidative-stress",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "Bacillus subtilis defends itself against the damaging effects of oxidative free-radicals by synthesizing nitric oxide. Immune cells like macrophages release free radicals when they encounter foreign microbes.",
+  "mechanism": "Bacillus subtilis defends itself against the damaging effects of oxidative free-radicals by synthesizing nitric oxide.\n\nImmune cells like macrophages release free radicals when they encounter foreign microbes. Free radicals can cause oxidative stress including damage to DNA and cellular materials leading to cell death. Some bacteria, like Bacillus subtilis utilize a nitric oxide (NO) mediated system to rapidly respond to oxidative stress and minimize its effects. When reactive oxygen species (ROS) like hydrogen peroxide are detected by a bacterium, NO is quickly synthesized enzymatically. The NO counteracts the effects of the ROSs by two means. It activates a class of enzymes called catalases that break down hydrogen peroxide, or it starves the cell of the reduced form of iron needed by hydrogen peroxide to cause cell damage. This process increases bacterial resistance to hydrogen peroxide 100 fold in only 5 seconds. Although other processes like the synthesis of specialized proteins are responsible for long term resistance to ROSs, NO represents a critical rapid response chemical that confers immediate protection to the cell.",
+  "function_addressed": [
+    "chemically generate flow of electrons (redox)",
+    "modify electron transport",
+    "modify oxidation state",
+    "modify free radical reactivity",
+    "chemically break down inorganic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nitric-oxide-synthesis-protects-against-oxidative-stress/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "nitric",
+    "oxide",
+    "synthesis",
+    "protects",
+    "against",
+    "oxidative"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

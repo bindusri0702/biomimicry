@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-hair-extension-and-folding-prevents-speed-loss",
+  "organism_common": "Whirligig beetles",
+  "organism_scientific": "",
+  "strategy_summary": "Hairs on the whirligig beetle's mid and hind legs prevent loss of speed by extending and folding during swimming strokes. The mid legs and hind legs of the whirligig beetle contain numerous microscopic hairs (called laminae) that increase surface area while swimming, resulting in greater thrust and power.",
+  "mechanism": "Hairs on the whirligig beetle's mid and hind legs prevent loss of speed by extending and folding during swimming strokes.\n\nThe mid legs and hind legs of the whirligig beetle contain numerous microscopic hairs (called laminae) that increase surface area while swimming, resulting in greater thrust and power. These laminae are dynamic, extending and folding throughout the beetle’s swimming motion to maximize efficiency.\n\nDuring the power stroke when the beetle swings its legs back against the water, the laminae extend, allowing for a greater push. During the recovery stroke when the beetle pulls its legs back against the water to its starting position, the laminae fold, thereby reducing drag. This enables the beetle to maximize speed during the power stroke while minimizing loss of speed during the recovery stroke.\n\nThis strategy was contributed by Rachel Major",
+  "function_addressed": [
+    "distribute energy",
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hair-extension-and-folding-prevents-speed-loss/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hair",
+    "extension",
+    "folding",
+    "prevents",
+    "speed",
+    "loss"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

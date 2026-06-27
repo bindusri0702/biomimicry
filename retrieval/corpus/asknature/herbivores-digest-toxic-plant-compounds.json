@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-herbivores-digest-toxic-plant-compounds",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "Many herbivorous mammals are capable of safely ingesting various toxic plant compounds in part thanks to biotransformation enzymes. “Many mammalian herbivores continually face the possibility of being poisoned by the natural toxins in the plants they consume.",
+  "mechanism": "Many herbivorous mammals are capable of safely ingesting various toxic plant compounds in part thanks to biotransformation enzymes.\n\n“Many mammalian herbivores continually face the possibility of being poisoned by the natural toxins in the plants they consume. A recent key discovery in this area is that mammalian herbivores are capable of regulating the dose of plant secondary compounds (PSCs) ingested …\n\n“The majority of wild mammalian herbivores confront food items which contain a myriad of chemical compounds that are potentially poisonous. Plant secondary compounds (PSCs) are arguably some of the most abundant and diverse naturally occurring toxins on earth. Although some herbivores behaviourally circumvent ingestion of marked quantities of PSCs either through food manipulation or avoidance (Dearing 1997), many herbivorous mammals regularly ingest foods with PSCs that if over-ingested could have serious consequences including death … Thus, herbivores have evolved physiological mechanisms for processing PSCs as well as behavioural feedback mechanisms to permit feeding on plants with toxins while avoiding ill effects …\n\n“The specialist’s constraint: Few mammalian herbivores have evolved the ability to forage nearly exclusively from a single species of plant (Freeland & Janzen 1974). Surprisingly, the plant species consumed by specialists tend to be low in nutrients and well-defended by PSCs (Shipley et al. 2006). Specialist herbivores are extraordinary because they are capable of taking in large doses of plant toxins with no obvious ill effects. The biotransformation enzymes permitting a diet rich in PSCs are just being discovered (Ngo et al. 2000; Ngo et al. 2006; Haley et al. 2007a,b). Not surprisingly many of these enzymes are in the diverse superfamily of the cytochrome P450 enzymes.” (Torregrossa & Dearing 2009:48-9)",
+  "function_addressed": [
+    "protect from chemicals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/herbivores-digest-toxic-plant-compounds/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "herbivores",
+    "digest",
+    "toxic",
+    "plant",
+    "compounds"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

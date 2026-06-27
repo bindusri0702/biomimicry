@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-gills-reduce-drag",
+  "organism_common": "Atlantic surf clam",
+  "organism_scientific": "",
+  "strategy_summary": "The abfrontal surface of Atlantic surf clam gills may reduce frictional drag using lubricating mucus. “Mucus in molluscs serves many purposes, one of which is lubrication (Prezant 1985; Simkiss 1988; Davies and Hawkins 1998).",
+  "mechanism": "The abfrontal surface of Atlantic surf clam gills may reduce frictional drag using lubricating mucus.\n\n“Mucus in molluscs serves many purposes, one of which is lubrication (Prezant 1985; Simkiss 1988; Davies and Hawkins 1998). In the context of bivalve gills, the secretion of mucus on the abfrontal surface might be adaptive if it reduces friction between water and the epithelium, in a manner similar to the drag reduction produced by fish epithelial mucus (Hoyt 1975; Daniel 1981). Abfrontal surface lubrication could be of particular importance in eulamellibranchs because water pumped through their gills is directed into abfrontal chambers of reduced volume, where frictional drag between water and the epithelium is probably important (Beninger et al. 1997a).\n\n“In the species studied, abfrontal mucocyte density was greatest in the eulamellibranch Spisula solidissima … The presence of residual mucus shows that AMPS are secreted on the abfrontal surface of the gills of these eulamellibranchs. Acidic mucus is highly viscous and is a good lubricant because it is not easily hydrated or removed from the epithelium (Hunt 1970; Faillard and Schauer 1972).\n\n“It is therefore possible that mucus on the abfrontal surface of eulamellibranch gills is important in lubrication.” (Dufour and Beninger 2001:303-305)",
+  "function_addressed": [
+    "move in/on liquids",
+    "manage mechanical wear",
+    "manage turbulence"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/gills-reduce-drag/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "gills",
+    "reduce",
+    "drag"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

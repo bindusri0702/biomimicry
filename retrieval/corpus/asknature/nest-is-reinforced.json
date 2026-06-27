@@ -1,0 +1,22 @@
+{
+  "doc_id": "asn-nest-is-reinforced",
+  "organism_common": "Magpie lark",
+  "organism_scientific": "",
+  "strategy_summary": "“The magpie lark of Australia constructs a bowl of mud strengthened not only with grass but with small sticks, feathers, and fur. This creation is placed atop a branch, so it must be well secured.",
+  "mechanism": "",
+  "function_addressed": [
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nest-is-reinforced/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "nest",
+    "reinforced"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

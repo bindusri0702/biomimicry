@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-catalyst-helps-split-water",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Catalysts in the chloroplasts of photosynthesizing plants help split water by binding water molecules and separating protons and electrons. The process of photosynthesis in plants involves a series of steps and reactions that use solar energy, water, and carbon dioxide to produce organic compounds and oxygen.",
+  "mechanism": "Catalysts in the chloroplasts of photosynthesizing plants help split water by binding water molecules and separating protons and electrons.\n\nThe process of photosynthesis in plants involves a series of steps and reactions that use solar energy, water, and carbon dioxide to produce organic compounds and oxygen. Early in the process, molecules of chlorophyll pigment are excited by solar energy and donate their electrons to start a flow of energized electrons that play a key role in the photosynthetic process (see the related strategy ).\n\nThe chlorophyll’s donated electrons need to be replaced, and these electrons come from the splitting of water. In a process called photolysis (‘light’ and ‘split’), light energy and catalyst s interact to drive the splitting of water molecules into protons (H+), electrons, and oxygen gas. The electrons go to the chlorophyll, the protons contribute to a proton gradient that is used to power synthesis of the energy-carrying molecule, ATP , and the oxygen is a byproduct.\n\nThe enzyme complex that catalyze s the water-splitting reaction (known as the oxygen-evolving complex) contains manganese and calcium, and is located in photosystems embedded in thylakoid membranes within the chloroplast . Researchers are still uncovering details about the exact mechanism by which the enzyme works, but it appears that the enzyme binds water molecules in place while separating the protons and electrons and forming oxygen bonds.\n\nMany researchers are synthesizing various bio-inspired catalysts in the hopes of developing efficient and cost-effective means to generate alternative forms of energy (for example, hydrogen fuel) from the splitting of water.\n\nCheck out these related strategies on the rest of the photosynthetic process: Pigment molecules absorb and transfer solar energy: Cooke’s koki’o Photosynthesis converts solar energy into chemical energy: plants Photosynthesis makes useful organic compounds out of CO2: plants",
+  "function_addressed": [
+    "catalyze chemical breakdown",
+    "transform electrical energy",
+    "transform chemical energy",
+    "transform radiant energy (light)"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/catalyst-helps-split-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "catalyst",
+    "split",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

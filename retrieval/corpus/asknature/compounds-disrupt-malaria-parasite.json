@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-compounds-disrupt-malaria-parasite",
+  "organism_common": "Fijian red seaweed",
+  "organism_scientific": "",
+  "strategy_summary": "Bromophycolide compounds in the Fijian red seaweed provide protection against malaria by interrupting the parasite's ability to protect itself from toxic byproducts. More than a million people die each year from malaria, which is caused by the parasite Plasmodium falciparum .",
+  "mechanism": "Bromophycolide compounds in the Fijian red seaweed provide protection against malaria by interrupting the parasite's ability to protect itself from toxic byproducts.\n\nMore than a million people die each year from malaria, which is caused by the parasite Plasmodium falciparum . The parasite has developed resistance to many antimalarial drugs and has begun to show resistance to artemisinin – today’s most important antimalarial drug. The stakes are high because half of the world’s population is at risk for the disease.\n\nMultifunctionality is a common characteristic of natural chemical compounds. Often, each of the functions is utilized by the organism producing the compound, such as beetles’ chitin-based covering that provides, among other functions, hard shielding, waterproofing, and coloring.\n\nIn the case of the Fijian red seaweed, an organic compound called bromophycolide A serves as an antifungal agent. This same compound also disrupts the metabolism of the malarial parasite, Plasmodium falciparum . While that’s a non-issue for the seaweed itself, it’s good news to red-blooded humans because the malarial parasite feasts on our oxygen-carrying hemoglobin. As the parasite masticates hemoglobin, free heme molecules are released. To protect themselves from the toxicity of free heme, the parasite transforms it into nontoxic hemozoin. It’s this transformation that bromophycolide A disrupts, leaving the parasite vulnerable to the toxic crumbs left at its dining table.\n\nStructure of bromophycolide A.\n\nElectron micrograph of crystals of hemozoin isolated from the malaria parasite Plasmodium falciparum. Magnified 68,490 times\n\nChemists have examined the chemical architecture of bromophycolide A to determine which functional groups decorating the molecule play key roles in the antimalarial process. It appears that carbon atoms at positions 15 and 18 (see structure diagram) play key roles, the former designed with functional groups that do not facilitate hydrogen bonding with free heme and carbon 18 designed to promote it. Such results will provide insight for potential future designs of bromophycolide-inspired antimalarial compounds. It is not clear at this time if the antifungal activity of bromophycolide uses a similar mechanism.\n\nSeaweed May be Source of New Antimalarial Drug",
+  "function_addressed": [
+    "protect from fungi",
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/compounds-disrupt-malaria-parasite/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "compounds",
+    "disrupt",
+    "malaria",
+    "parasite"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

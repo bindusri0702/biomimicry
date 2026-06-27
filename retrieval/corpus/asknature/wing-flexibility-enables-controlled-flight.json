@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-wing-flexibility-enables-controlled-flight",
+  "organism_common": "Pterosaurs",
+  "organism_scientific": "",
+  "strategy_summary": "Pterosaurs were flying reptiles that soared the skies between 230 and 66 million years ago. They came in many forms—from sparrow-sized flitters to giants with wingspans over 10 meters.",
+  "mechanism": "The pterosaur wing was more than just a membrane. It was a layered and dynamic structure. The outer layer was a thin, skin-like surface, but beneath that ran networks of blood vessels, bundles of muscle, and stiffening fibers known as actinofibrils. These components worked together to create a surface that could shift in shape in response to flight needs. Muscles allowed for active control, tightening or loosening the wing tension on demand. Meanwhile, the actinofibrils acted like built-in springs or cables, offering passive stability and resistance to unwanted flapping or fluttering. This flexible but controlled surface helped pterosaurs perform agile maneuvers and adapt to varying air speeds, offering both lift and precision. Evidence from soft-tissue fossils preserved in places like the Solnhofen limestone in Germany and Jiufotang Formation in China shows these internal layers clearly, revealing a level of wing sophistication previously unmatched among flying creatures.\n\nEngineers today strive for aircraft wings that change shape during flight. Most modern planes have rigid wings with moving flaps, but a flexible surface like that of a pterosaur could allow smoother transitions and better control. Future drones, for example, could benefit from passive and active aeroelastic systems modeled on pterosaur wings—especially in environments where agility and efficiency are key, such as in disaster relief or urban air mobility. This biological strategy shows how structure and function can be seamlessly integrated to meet dynamic performance needs, all without reliance on heavy or high-energy mechanisms.",
+  "function_addressed": [
+    "move in/through gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/wing-flexibility-enables-controlled-flight/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "wing",
+    "flexibility",
+    "enables",
+    "controlled",
+    "flight"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

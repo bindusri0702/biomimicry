@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-flotation-in-turbulent-waters",
+  "organism_common": "Insects",
+  "organism_scientific": "",
+  "strategy_summary": "Water insects maintain flotation in turbulent waters thanks to an undersurface coating of water-repellent hairs. “Among the most superficially aquatic and numerous insects of freshwater areas are various Heteropterid bugs, such as pond-skaters, water-measurers and water-crickets.",
+  "mechanism": "Water insects maintain flotation in turbulent waters thanks to an undersurface coating of water-repellent hairs.\n\n“Among the most superficially aquatic and numerous insects of freshwater areas are various Heteropterid bugs, such as pond-skaters, water-measurers and water-crickets. lnsects like these seldom even get their feet wet since they are able to stride or run over the water’s surface by using its surface tension, in which they scarcely make a dent. Since all of the bugs’ life is spent in this way, they need no special adaptations for an aquatic habitat, apart from an undersurface of water-repellent hairs which prevents immersion in turbulent conditions.” (Wootton 1984:132)\n\n“Recent studies showed that the most crucial criterion [for achieving the ‘Lotus Effect’] mainly relies on roughening the surface into multiple length scales of roughness so that liquid droplets can be retained in the Cassie-Baxter state, where air pockets are trapped underneath the liquid, reducing the solid-liquid interface. These hierarchically structured surfaces have been fabricated through various routes and demonstrated to have superhydrophobic properties as well. This amazing water-repellent property is also found in other biological systems comprising a plurality of flexible hairs, and some of them have been recognized for over 100 years. Fuzzy leaves, such as the Lady’s Mantle, cause water droplets to form perfect spheres and allow them to roll off easily as a result of being lifted and suspended by coming into contact with the hairs. In the animal kingdom, this piliferous exterior plays a more crucial role for numerous living creatures not only to effectively protect their bodies from getting wet but also to provide various functions for their living activity. These hairs protrude several micrometers from their cuticles, typically inclined at certain angles, with diameters in the micrometer to submicrometer range. These structures can resist the impact of raindrops, allow locomotion on the surface of water, or even trap a layer of air for respiration when submerged. Some arthropods have been shown to have contact angles above 150 o , which allows them to walk on water.” (Hsu and Sigmund 2010:1504)",
+  "function_addressed": [
+    "modify surface tension",
+    "modify buoyancy",
+    "manage turbulence",
+    "protect from excess liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/flotation-in-turbulent-waters/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flotation",
+    "turbulent",
+    "waters"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

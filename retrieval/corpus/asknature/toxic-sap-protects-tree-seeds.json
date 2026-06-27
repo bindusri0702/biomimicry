@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-toxic-sap-protects-tree-seeds",
+  "organism_common": "Sandbox tree",
+  "organism_scientific": "",
+  "strategy_summary": "The fruit of Hura trees is protected from predators by a highly toxic sap. “The hura tree protects its explosive fruits with a sap so toxic that it will raise great red welts if it touches human skin and even blind those who get it into their eyes.",
+  "mechanism": "The fruit of Hura trees is protected from predators by a highly toxic sap.\n\n“The hura tree protects its explosive fruits with a sap so toxic that it will raise great red welts if it touches human skin and even blind those who get it into their eyes. The macaws, however, are not put off. Long before the fruits are ripe, the birds rip them apart, pods, seeds and all, and then, after a meal that would have poisoned others, they fly to particular places on a river bank where they can gnaw out and swallow a special clay which detoxifies their meal.” (Attenborough 1995:32-35)",
+  "function_addressed": [
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/toxic-sap-protects-tree-seeds/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "toxic",
+    "sap",
+    "protects",
+    "tree",
+    "seeds"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

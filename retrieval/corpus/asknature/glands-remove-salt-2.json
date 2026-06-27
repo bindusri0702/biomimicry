@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-glands-remove-salt-2",
+  "organism_common": "Penguins",
+  "organism_scientific": "",
+  "strategy_summary": "Penguins help handle excess salt in their diet via specialized salt glands. “To handle excess salt loads of marine life, penguins have specialized salt glands in the facial region with histology similar to renal tissue.” (Miller 1978:103)",
+  "mechanism": "Penguins help handle excess salt in their diet via specialized salt glands.\n\n“To handle excess salt loads of marine life, penguins have specialized salt glands in the facial region with histology similar to renal tissue.” (Miller 1978:103)",
+  "function_addressed": [
+    "maintain homeostasis",
+    "expel solids",
+    "capture, absorb, or filter chemical entities"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/glands-remove-salt-2/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "glands",
+    "remove",
+    "salt"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

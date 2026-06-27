@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-shoulder-joint-manages-stress",
+  "organism_common": "Humans",
+  "organism_scientific": "",
+  "strategy_summary": "Rotator cuff in humans manages force via an extra pliable region  Joining together materials with very different properties is challenging in nature as well as in manufacturing. When different materials are joined, forces can build up at the interface that cause failure.",
+  "mechanism": "Rotator cuff in humans manages force via an extra pliable region\n\nJoining together materials with very different properties is challenging in nature as well as in manufacturing. When different materials are joined, forces can build up at the interface that cause failure. This type of failure is called “fatigue” and it can occur at lower levels of stress than each material could withstand on its own. In engineering, as in nature, failure almost always occurs at points of fatigue, and not in the bulk material.\n\nOne of the largest materials discrepancies in nature is the joining of muscle to bone via tendon. This is particularly important at the shoulder, where not only must the joint manage the weight of the limb itself, but also anything else we might carry. In 2019, the weightlifting world record was set by Lasha Talakhadze of Georgia, who successfully lifted 264 kg (582 lb), the equivalent of about 4 people. That’s a lot of weight, all going through his shoulders!\n\nOne way of reducing the risk of fatigue is to join different materials with a transition zone that has a gradient of properties from one to the other. In the rotator cuff (the tendon array that attaches the muscles of the shoulder to the upper end of the arm) there is a gradient, but it is more complex than a simple transition. Starting at the collarbone and moving towards the tendon, the tissue is softer and more flexible the further away it is from the bone. The softening follows a sigmoidal pattern, which means the change in flexibility with distance from the bone is slow near the bone, and becomes more dramatic further away. A similar transition occurs at the tendon end of the join. However, instead of becoming more rigid like bone, as we might expect for a smooth transition from tendon to bone, this tissue also transitions into a region that is more pliable. This means that the gradient starts with bone, becomes more flexible than either bone or tendon in the middle, and then firms up slightly to match the properties of tendon. This extra pliable region seems to manage the stresses as they arise, preventing their build up elsewhere in the joint and reducing injury due to fatigue.\n\nThe shoulder joint requires some of the strongest muscles in the body to attach to the bone of the arm via very small attachment sites.\n\nThe shoulder joint requires some of the strongest muscles in the body to attach to the bone of the arm via very small attachment sites.\n\nTexas A&M University\n\nThe hybrid sliding-rocking bridge from Texas A&M University has flexible joints that help reduce impact and damage to the overall structure.",
+  "function_addressed": [
+    "attach permanently"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shoulder-joint-manages-stress/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shoulder",
+    "joint",
+    "manages",
+    "stress"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

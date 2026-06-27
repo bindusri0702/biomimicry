@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-antennae-ensure-smooth-landings",
+  "organism_common": "Honeybees",
+  "organism_scientific": "",
+  "strategy_summary": "The antennae of the honeybee enable smooth landings by sensing landing distance and angle, signaling the body to orient appropriately. Honeybees come in contact with a variety of surfaces throughout their day of flying and foraging.",
+  "mechanism": "The antennae of the honeybee enable smooth landings by sensing landing distance and angle, signaling the body to orient appropriately.\n\nHoneybees come in contact with a variety of surfaces throughout their day of flying and foraging. It has been observed that a honeybee can achieve smooth landings upon any surface, regardless of the angle or orientation of its landing. This means that the bee lands just as smoothly upon a vertically-oriented leaf as a horizontal one.\n\nThis smooth landing is attributed to the bee’s ability to evaluate and adjust its distance from the landing platform. When nearing a landing surface, the bee decelerates. Within a few centimeters of the surface, the bee hovers, using its antennae to sense the platform’s orientation. Once the bee is 16 miillimeters away, it adjusts its body based upon the angle sensed by its antennae. The base of its antennae remain at this 16-millimeter distance from the landing platform regardless of the platform’s orientation. Only the body of the honeybee adjusts to the tilt of the platform. The bee’s closest feet touch down first, allowing the rest of its body to follow.\n\nThis 16-millimeter distance seems to be the ideal placement for the honeybee to make contact with the surface with any one of its feet. The foot that first contacts the surface varies by landing orientation. A horizontal platform initiates a hindleg landing, while a vertical platform initiates a foreleg landing.\n\nThis summary was contributed by Ashley Meyers.\n\nDelft University of Technology\n\nOptical learning process from Delft University increases the navigational skills of flying robots.",
+  "function_addressed": [
+    "respond to signals",
+    "navigate through air",
+    "sense body awareness",
+    "sense balance/orientation"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/antennae-ensure-smooth-landings/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "antennae",
+    "ensure",
+    "smooth",
+    "landings"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-silk-is-strong-stretchy",
+  "organism_common": "Darwin's bark spider",
+  "organism_scientific": "",
+  "strategy_summary": "Silk of the Darwin's bark spider is twice as strong as other spider silk due to extreme extensibility combined with high strength. Man-made structural fibers are generally coils of simple, homogenous strands.",
+  "mechanism": "Silk of the Darwin's bark spider is twice as strong as other spider silk due to extreme extensibility combined with high strength.\n\nMan-made structural fibers are generally coils of simple, homogenous strands. In contrast, spider silk fibrils are constructed with alternating nano-segments that are either extremely flexible (amorphous glycine-rich matrices) or extremely strong (crystalites made of anti-parallel pleated beta sheets). Dozens of fibrils come together to form each thread. As a result, the fibers are nearly as strong as Kevlar yet much more stretchable and tough.",
+  "function_addressed": [
+    "prevent fracture/rupture",
+    "manage tension",
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/silk-is-strong-stretchy/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "silk",
+    "strong",
+    "stretchy"
+  ],
+  "is_usual_suspect": true,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

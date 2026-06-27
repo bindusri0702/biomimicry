@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-anglerfish-harness-both-light-and-darkness",
+  "organism_common": "Anglerfish",
+  "organism_scientific": "",
+  "strategy_summary": "Anglerfish are the Harry Potters of the deep sea: They have both a luminous wand and an invisibility cloak. They wield these weapons to eat and not be eaten in the dark depths.",
+  "mechanism": "In the vast, dark, open spaces of the ocean, bacteria, tiny zooplankton, shrimp and other crustaceans, jellies and other gelatinous animals, and many fish produce and emit their own light. They use this bioluminescence to attract mates, communicate with kin, or blend in with light flowing down from the surface. But every time a creature lights up, it risks being seen by predators.\n\nA female anglerfish works both ends of this paradox, using two remarkable adaptation s. Instead of expending energy to search for food, she coaxes food to unwittingly come to her.\n\nThe first adaptation is a long, movable spine sticking out of the top of her head. At the tip of the spine hangs a fleshy sac called an esca. Inside the esca, bioluminescent bacteria settle in to live. They emit light in blue wavelengths that aren’t absorbed by water. The bacteria gain a protected place to live. The anglerfish gets a glowing orb to attract prey. The spine is her fishing rod; the glowing esca is her bait.\n\nAn anglerfish dangles her spine just above her cavernous mouth to mimic the movements of smaller, glowing organisms. She keeps the rest of her body still and hovering. That’s when she makes use of the second key adaptation: her skin.\n\nScientists have taken a lesson from anglerfish, exploring ways to harness bioluminescent light. Applications range from glowing biochemical “tags” used in medicine and scientific research to new bioinspired lamps and the development of bioluminescent trees that could replace streetlights.\n\nResearchers are also investigating the properties of ultra-black skins to explore new ways to make light-absorbing materials for solar panels, telescopes, and camouflaging textiles.",
+  "function_addressed": [
+    "modify light/color",
+    "protect from animals",
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/anglerfish-harness-both-light-and-darkness/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "anglerfish",
+    "harness",
+    "both",
+    "light",
+    "darkness"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

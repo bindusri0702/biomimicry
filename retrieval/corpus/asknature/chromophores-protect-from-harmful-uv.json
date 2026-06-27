@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-chromophores-protect-from-harmful-uv",
+  "organism_common": "Dwarf mountain pine",
+  "organism_scientific": "",
+  "strategy_summary": "Chromophores in cuticular wax of the dwarf mountain pine protect it from harmful UV by absorbing the most harmful UV-B and UV-A without lowering the received photosynthetically active radiation. “Solar UV radiation is harmful to many biological systems, as well as all kind of technical applications.",
+  "mechanism": "Chromophores in cuticular wax of the dwarf mountain pine protect it from harmful UV by absorbing the most harmful UV-B and UV-A without lowering the received photosynthetically active radiation.\n\n“Solar UV radiation is harmful to many biological systems, as well as all kind of technical applications. UV protective coatings are commonly utilised to shield many susceptible substances. In an attempt to learn from nature we demonstrate that for the Pinus mugo subsp. mugo (dwarf mountain pine) the cuticular wax layer provides UV protection. This biological coating contains chromophores that absorb UV radiation in such a way that it removes the most harmful UV-B and UV-A from the solar spectrum received by the plant and does not lower the received PAR (photosynthetically active radiation)…The principle of turning…harmful radiation into useful energy sets an example for new biological based coatings.” (Jacobs 2007:166)",
+  "function_addressed": [
+    "capture, absorb, or filter energy",
+    "protect from light"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/chromophores-protect-from-harmful-uv/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "chromophores",
+    "protect",
+    "harmful"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

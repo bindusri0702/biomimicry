@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-pests-kept-in-check",
+  "organism_common": "Agro-systems",
+  "organism_scientific": "",
+  "strategy_summary": "Pests on organic coffee farms are kept in check through a complex web of direct and indirect interactions. “A 10-year study of an organic coffee farm in Mexico suggests that, far from being romanticized hooey, the ‘balance and harmony’ view is on the mark.",
+  "mechanism": "Pests on organic coffee farms are kept in check through a complex web of direct and indirect interactions.\n\n“A 10-year study of an organic coffee farm in Mexico suggests that, far from being romanticized hooey, the ‘balance and harmony’ view is on the mark. Ecologists John Vandermeer and Ivette Perfecto of the University of Michigan and Stacy Philpott of the University of Toledo have uncovered a web of intricate interactions that buffers the farm against extreme outbreaks of pests and diseases, making magic bullets unnecessary. …\n\n“The major players in the system—several ant species, a handful of coffee pests, and the predators, parasites and diseases that affect the pests—not only interact directly, but some species also exert subtle, indirect effects on others, effects that might have gone unnoticed if the system had not been studied in detail. …\n\n“‘Our view is that interaction webs of this sort will prove common in agro-ecosystems in general,’ said Perfecto, professor of ecology and natural resources. ‘Although widely appreciated in natural systems, such webs haven’t been seen in agro-ecosystems because the people studying them haven’t looked at them in this way. They’re looking for magic-bullet solutions; they want to find the thing that causes the problem and then fix it. Our approach is to understand systems that are working well, where there are no problems. By doing that, we can define systems that are more resilient and resistant to pest outbreaks.'” (EurekAlert! 2010)\n\n“This system involves at least 13 components (insects and fungi), six ecological processes (competition, predation, parasitism, hyperparasitism, disease, mutualism), many subtle yet important nonlinearities, and a key role for spatial dynamics. We conclude that the ecological network effectively generates the ecosystem service of buffering coffee production systems against extreme outbreaks of pests and diseases. The complete operation of this system is neither obvious nor straightforward, but rather involves several complicated, dynamic connections that lead to sometimes-surprising system behavior. Nevertheless, the system seems to act in a way that promotes the regulation of several key potential pests in an autonomous, or endogenous, fashion.” (Vandermeer et al. 2010:528)\n\nhttp://www.eurekalert.org/pub_releases/2010-08/uom-ooc082610.php http://www.bioone.org/doi/abs/10.1525/bio.2010.60.7.8",
+  "function_addressed": [
+    "biological control of populations, pests, diseases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pests-kept-in-check/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pests",
+    "kept",
+    "check"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-larvae-protect-from-cyanide",
+  "organism_common": "Sara longwing butterfly",
+  "organism_scientific": "",
+  "strategy_summary": "Larvae of sara longwing butterflies avoid harm from cyanogenic leaves by metabolizing cyanogenic glycosides enzymatically, preventing cyanide release. “A neotropical butterfly, Heliconius sara , can avoid the harmful effects of the cyanogenic leaves of Passiflora auriculata (passion vine), on which its larvae feed…",
+  "mechanism": "Larvae of sara longwing butterflies avoid harm from cyanogenic leaves by metabolizing cyanogenic glycosides enzymatically, preventing cyanide release.\n\n“A neotropical butterfly, Heliconius sara , can avoid the harmful effects of the cyanogenic leaves of Passiflora auriculata (passion vine), on which its larvae feed exclusively. To our knowledge this is the first example of an insect that is able to metabolize cyanogens and thereby prevent the release of cyanide. The mechanistic details of this pathway might suggest new ways to make cyanogenic crops more useful as a food source … We conclude that a unique enzymatic mechanism exists in H. sara for dealing with cyanogenic glycosides.” (Engler et al. 2000:144)\n\nNote: the larvae convert cyanogen into nitrogen.",
+  "function_addressed": [
+    "protect from chemicals",
+    "catalyze chemical breakdown"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/larvae-protect-from-cyanide/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "larvae",
+    "protect",
+    "cyanide"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

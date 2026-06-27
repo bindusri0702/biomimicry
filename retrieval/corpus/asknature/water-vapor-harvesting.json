@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-water-vapor-harvesting",
+  "organism_common": "Darkling beetles",
+  "organism_scientific": "",
+  "strategy_summary": "Darkling beetles (family Tenebrionidae ) of the Namib Desert, located on the southwest coast of Africa, live in one of the driest habitats in the world. But some species of darkling beetle can get the water they need from dew and ocean fog, using their very own body surfaces.",
+  "mechanism": "Several researchers are studying the beetles, as well as synthetic surfaces inspired by the beetle’s body, to uncover the roles that structure, chemistry, and behavior play in capturing water from the air.\n\nMicro-sized grooves or bumps on the beetle’s hardened forewings can help condense and direct water toward the beetle’s awaiting mouth, while a combination of hydrophilic (water attracting) and hydrophobic (water repelling) areas on these structures may increase fog- and dew-harvesting efficiency. For certain species of darkling beetle, the act of facing into the foggy wind and raising its rear end up in the air (known as fog-basking behavior) is thought to be just as important as body surface structure for successfully harvesting water from the air.\n\nAccording to the World Wildlife Fund, 10% of all animals depend on freshwater habitats that occupy a mere 1% of the surface of our planet. And these scant resources are increasingly jeopardized by development, pollution, and climate change. As global temperatures rise, more water absorbs into the atmosphere, raising humidity and providing additional warming in a process called “water vapor feedback.”\n\nDarkling beetles’ method of harvesting water from the atmosphere could help humans gather fresh water in remote areas that lack access to surface water. It may also inspire more efficient evaporative cooling designs that reduce water consumption in power plants and industrial facilities. Perhaps learning how to efficiently remove water from the atmosphere could even provide a means of slowing or stopping water vapor feedback, helping us mitigate rising global temperatures.",
+  "function_addressed": [
+    "capture, absorb, or filter liquids",
+    "adapt behaviors"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/water-vapor-harvesting/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "beetles",
+    "drink",
+    "water",
+    "air"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

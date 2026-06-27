@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-pocket-like-structures-produce-hissing-sounds",
+  "organism_common": "King cobra",
+  "organism_scientific": "",
+  "strategy_summary": "Pocket-like structures extending from the trachea of a king cobra help produce the snake's growl-like hisses by serving as low-frequency resonance chambers. “In 1991, studies conducted by Dr.",
+  "mechanism": "Pocket-like structures extending from the trachea of a king cobra help produce the snake's growl-like hisses by serving as low-frequency resonance chambers.\n\n“In 1991, studies conducted by Dr. Bruce Young of Hollins College, Virginia, with king cobras ( Ophiophagus hannah ) suggest that although they have only vestigial ears, they are able to hear their characteristic, unusually deep, growl-like hisses. These are believed to be produced via pocket-like structures called diverticula extending from the trachea that seem to function as low-frequency resonance chambers. Clearly, there is still a lot to learn about the mechanisms and limits of snake vocalization, especially in view of the controversial claims that have been made for the abilities of certain species.” (Shuker 2001:155)",
+  "function_addressed": [
+    "send sound signals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pocket-like-structures-produce-hissing-sounds/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pocket-like",
+    "structures",
+    "produce",
+    "hissing",
+    "sounds"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

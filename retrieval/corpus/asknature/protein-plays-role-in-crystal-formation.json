@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-protein-plays-role-in-crystal-formation",
+  "organism_common": "Mollusks (Snails, Octopuses)",
+  "organism_scientific": "",
+  "strategy_summary": "The conchiolin protein of many molluscs plays a role in shell formation by serving as a major matrix component for crystal formation. “The shell is secreted by the mantle, the tissue layer under the shell, of the mollusc, and consists of two or three layers.",
+  "mechanism": "The conchiolin protein of many molluscs plays a role in shell formation by serving as a major matrix component for crystal formation.\n\n“The shell is secreted by the mantle, the tissue layer under the shell, of the mollusc, and consists of two or three layers. The outermost is the periostracum, made of a tough protein called conchiolin. The periostracum is often brown in colour although it may be so thin that it is virtually transparent: sometimes it is quite furry…Inside the periostracum are one or two layers of argonite or calcite, different crystalline forms of calcium carbonate, more commonly known as chalk. The main central layer is called the prismatic layer: the inner layer is known as the lamellate or nacreous layer. Here the crystals are laid in an overlapping zigzag formation that scatters light and produces the iridescent effect known as ‘mother of pearl.'” (Foy and Oxford Scientific Films 1982:115)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
+  "function_addressed": [
+    "chemically assemble mineral crystals",
+    "physically assemble structure",
+    "chemically assemble inorganic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/protein-plays-role-in-crystal-formation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "protein",
+    "plays",
+    "role",
+    "crystal",
+    "formation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

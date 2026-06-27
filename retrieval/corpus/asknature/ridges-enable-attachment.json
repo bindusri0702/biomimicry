@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-ridges-enable-attachment",
+  "organism_common": "Attach Temporarily",
+  "organism_scientific": "",
+  "strategy_summary": "The attachment pads of parasitic copepods attach to sharks by use of frictional mechanisms.",
+  "mechanism": "The attachment pads of parasitic copepods attach to sharks by use of frictional mechanisms.",
+  "function_addressed": [
+    "attach temporarily",
+    "manage turbulence"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/ridges-enable-attachment/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "ridges",
+    "enable",
+    "attachment"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

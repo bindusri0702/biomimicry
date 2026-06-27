@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-naked-mole-rat-queens-hire-babysitters-to-care-for-young",
+  "organism_common": "Naked mole rat",
+  "organism_scientific": "",
+  "strategy_summary": "Honey bees are often praised for their efficient, organized colonies. But they’re not the only ones in the animal kingdom that deserve admiration for their commitment to cooperation.",
+  "mechanism": "Both bees and naked mole rats are eusocial . They live in multigenerational family groups with a single queen. All other individuals have specific jobs, either supporting the queen’s reproduction or fulfilling the colony’s daily survival needs, such as foraging and defense. This communal strategy helps the population survive in their unique ecological niche.\n\nThe naked mole rat is a conspicuously hairless species of rodent that lives entirely underground in the driest regions of Kenya, Ethiopia and Somalia. Living in large colonies of up to 300 members, they have evolved remarkable abilities to survive in closed spaces. They can live for up to 18 minutes without oxygen and are unharmed by carbon dioxide levels many times higher than what’s found aboveground.\n\nIn a single group, there is usually only one dominant breeding female and a handful of breeding males. They divide their labor so that nonbreeding individuals become foragers, nest defenders or alloparents —adults that care for the young but are not the biological parents of those young.\n\nWhatever the evolutionary explanation, it is clear that eusociality is an effective survival strategy for naked mole rats. Perhaps we could take a few lessons from them, too. As individuals, they put cooperation above competition for the betterment of everyone. And in a world of dwindling space and limited resources, humans might begin to place higher social value on those who forgo reproduction and choose to support the continuation of our species in other ways. A family that works together is a family that thrives.",
+  "function_addressed": [
+    "coordinate by self-organization",
+    "cooperate within the same species",
+    "protect from animals",
+    "distribute solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/naked-mole-rat-queens-hire-babysitters-to-care-for-young/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "naked",
+    "mole",
+    "rat",
+    "queens",
+    "hire",
+    "babysitters"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

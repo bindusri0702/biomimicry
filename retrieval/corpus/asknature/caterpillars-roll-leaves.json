@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-caterpillars-roll-leaves",
+  "organism_common": "Cherry leaf roller",
+  "organism_scientific": "",
+  "strategy_summary": "In the rich foliage of a cherry tree, some remarkable moving and shaking is going on. With the intensity of a camper trying to set up a tent before an impending thunderstorm starts, a cherry leaf roller (Caloptilia serotinella) caterpillar is turning a leaf into a tube-shaped shelter to protect itself from predators.",
+  "mechanism": "The cherry leaf roller starts its construction project by crawling along the underside of a leaf, biting chunks out of the tough vein that runs down the middle to allow it to be more easily rolled up.\n\nWhen it gets to the tip of the leaf, the caterpillar starts to extrude silk from its spinnerets. It attaches one end of the fiber to the tip of the leaf and the other to a point on or near the underside of the leaf some 10 millimeters (a half-inch) or so away, stretching the strand out like a rubber band before attaching. Each strand creates a tiny amount of “pull,” and together, many strands create enough tension to cause the leaf to start to curl.\n\nLike a living metronome set at a half-second pace, the caterpillar swings its head back and forth between the gradually curling tube and the part of the leaf that is still flat, attaching new strands as it inches its way from the tip to the stem. Like any good worker, the leaf roller takes a break once in a while, interspersing 7 minutes or so of intense spinning with about 6 minutes of other activities.\n\nAfter 4 to 10 hours, when it has spun thousands of strands and about three-quarters of the leaf is rolled, the caterpillar moves over to one side of the roll and, rapidly and repeatedly reaching up and down, pulls it shut with more tightly stretched strands of silk. Finally, it seals the opposite edge, locking itself in a cozy shelter with abundant food (it slowly eats the rolled up layers of leafy goodness)–securely out of sight and reach of predators.\n\nPeople have used caterpillar silk as a fiber for textiles for thousands of years. But that’s just the beginning of the benefit we might derive from knowing about this incredible material and how caterpillars make and use it. Silk offers inspiration for tapping the multiple traits of a substance that changes from one state (liquid) to another (solid) to benefit from characteristics of both (flexibility, strength).\n\nThe cherry leaf roller, with its rapid-fire constricting-strands construction technique, provides valuable insights into how builders might capitalize on momentum and the physical properties of materials to exert a force that can move or reshape an object. The strategy can also inform other efforts to develop better ways to attach surfaces to each other, including wound edges, fabrics, furniture, infrastructure, and more.",
+  "function_addressed": [
+    "transform mechanical energy",
+    "modify material characteristics",
+    "modify size/shape/mass/volume",
+    "physically assemble structure",
+    "manage tension"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/caterpillars-roll-leaves/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "caterpillars",
+    "reshape",
+    "leaves",
+    "silk"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

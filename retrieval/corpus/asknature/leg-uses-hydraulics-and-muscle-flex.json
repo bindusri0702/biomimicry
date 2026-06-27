@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-leg-uses-hydraulics-and-muscle-flex",
+  "organism_common": "Spiders",
+  "organism_scientific": "",
+  "strategy_summary": "The legs of spiders move using a combination of the hydraulic pressure of body fluid and muscle flex. Smaller spiders (usually those weighing under 3g) use a hydraulic catapult method to move around and catch prey, whereas larger spiders (those weighing over 3g) rely on a combination of a hydraulic catapult and…",
+  "mechanism": "The legs of spiders move using a combination of the hydraulic pressure of body fluid and muscle flex.\n\nSmaller spiders (usually those weighing under 3g) use a hydraulic catapult method to move around and catch prey, whereas larger spiders (those weighing over 3g) rely on a combination of a hydraulic catapult and muscle-based contraction.\n\nSpiders have four pairs of legs, and each pair has a specialized task for locomotion. The front two pairs are situated in front of the spider’s center of mass, and the rear two pairs are behind its center of mass. During forward motion, the front two pairs flex inward, creating a rearward pulling force. The third leg pair acts as a pivot point, like a pole vaulter using the pole to swing their momentum over the bar. The fourth leg pairs extend from hydraulic pressure creating a rearward push force.\n\nEach leg consists of seven tubular sections with three distinct regions. The hip joint located at the body allows movement left and right as well as up and down while the other two active elements, femur-patella, and tibia-metatarsus, allow movement up and down only. The hip joint has both extension muscles to push out the legs and flex muscles to pull in the legs. The femur-patella and tibia-metatarsus only have flex muscles. To extend the legs, hemolymph fluid, similar to blood in vertebrates, pumped from the spider’s body fills the lower side of the femur-patella and tibia-metatarsus joints, pressurizing a bellow-like structure to extend the leg. With flex-only muscles attached to the inside circumference of the spider’s body, the spider can maximize its grip on prey. As a liquid, the hemolymph can fill in the gaps between muscle fibers for an efficient extension as well as leg structure stiffening.\n\nWhen the spider prepares to jump on its prey or away from danger, it pressurizes the legs for an extension while simultaneously flexing its muscles in place. When the spider relaxes its flexed muscles, the pressurized legs extend initiating the jump sequence. Depending on the desired trajectory of the jump, the spider can manipulate the timing and force of each leg as well as using in-flight leg extension or contraction to manage angular momentum and aerodynamics. Its silk dragline provides the spider with an emergency stop.\n\nWhile spiders under a mass of 3g (like Cupiennius salei) primarily use this hydraulic catapult method, spiders with mass over 3g (like Ancylometes concolor) would start to bounce uncontrollably during full hydraulic pressurization, causing its legs to lose contact with the ground, unless it used excessive muscle energy to manage the bounce. Thus, more massive spiders use a combination of hydraulic extension and muscle flex at launch but rely more heavily on muscle flex in their front legs.\n\nInfrared images of a hydraulic crane shows the tension in warmth.\n\nThe Golden Orb Weaver adult weighs more than 3g",
+  "function_addressed": [
+    "move in/on solids",
+    "transform mechanical energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leg-uses-hydraulics-and-muscle-flex/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leg",
+    "hydraulics",
+    "muscle",
+    "flex"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

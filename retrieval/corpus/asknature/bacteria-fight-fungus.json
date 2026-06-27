@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-bacteria-fight-fungus",
+  "organism_common": "Leafcutter ants",
+  "organism_scientific": "",
+  "strategy_summary": "Fungal gardens of leafcutter ants are free of undesired, parasitic fungus due to presence of symbiotic Streptomyces bacteria. Where Are The Ants Carrying All Those Leaves?",
+  "mechanism": "Fungal gardens of leafcutter ants are free of undesired, parasitic fungus due to presence of symbiotic Streptomyces bacteria.\n\nWhere Are The Ants Carrying All Those Leaves?\n\nStreptomyces bacteria colonize the exoskeleton of leafcutter ants. The bacteria produce antifungal compounds that help the ants reduce the weed fungi that appear in their gardens.\n\n“Cameron Currie of the Univ. of Wisconsin is studying how leafcutter ants maintain their gardens pest-free despite the presence of parasitic fungus. When worker ants were removed, the fungus overran the gardens. Currie found that a white bloom on the exoskeleton of the ants is actually a mass of Streptomyces , the same kind of bacteria that produces half of the antibiotics used in medicine. The bacteria specifically target the parasitic fungus. By studying the complex coevolution of ants, fungus, parasitic fungus, and bacteria, Currie hopes to learn about the evolution of antibiotic resistance and how mutualism and symbiosis shape species diversity.” (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "protect from fungi",
+    "coevolve"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bacteria-fight-fungus/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bacteria",
+    "fight",
+    "fungus"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

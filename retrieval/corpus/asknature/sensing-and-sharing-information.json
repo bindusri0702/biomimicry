@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-sensing-and-sharing-information",
+  "organism_common": "Humans",
+  "organism_scientific": "",
+  "strategy_summary": "Neurons aid organisms in reacting to environmental stimuli because they collaborate to sense the environment, share information, and filter unimportant information  Illustration of neurons  “Feng Zhao, a computer scientist at Xerox’s Palo Alto Research Center, proposes equipping machinery and structures with…",
+  "mechanism": "Neurons aid organisms in reacting to environmental stimuli because they collaborate to sense the environment, share information, and filter unimportant information\n\nIllustration of neurons\n\n“Feng Zhao, a computer scientist at Xerox’s Palo Alto Research Center, proposes equipping machinery and structures with ‘collaborating sensors’ reminiscent of neurons. These sensors would respond adaptively to the physical environment, infer the needs of their human operators, share information within the network, and filter out unimportant details. A building or piece of equipment containing these sensors would behave almost organically.” (Courtesy of the Biomimicry Guild)\n\nDresden University of Technology\n\nNeurotransmitter from Dresden University of Technology uses a sol-gel silicate film which encourages greater movement of artificial neurons to transmit information.\n\nConvolutional Neural Networks\n\nConvolutional Neural Networks use a deep learning algorithm to efficiently process information.",
+  "function_addressed": [
+    "respond to signals",
+    "differentiate signal from noise",
+    "maintain homeostasis"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/sensing-and-sharing-information/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "sensing",
+    "sharing",
+    "information"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

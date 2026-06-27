@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-changes-in-protein-pigment-complex-protect-from-heat-and-desiccation",
+  "organism_common": "Lichens",
+  "organism_scientific": "",
+  "strategy_summary": "Lichens can tolerate extreme heat and desiccation in part due to conformational modifications in a protein-pigment complex. {{en|1=Lichen covered rock, New England National Park, NSW}}  Lisaj sa Zlatibora  ?????",
+  "mechanism": "Lichens can tolerate extreme heat and desiccation in part due to conformational modifications in a protein-pigment complex.\n\n{{en|1=Lichen covered rock, New England National Park, NSW}}\n\nLisaj sa Zlatibora\n\n????? ?? ?????????\n\nLisaj sa Biogradske gore\n\nLisaj sa Biogradske gore\n\nLisaj sa Biogradske gore\n\nLisaj sa Biogradske gore\n\nLisaj sa Biogradske gore\n\nLisaj sa Biogradske gore\n\nLisaj sa Biogradske gore\n\nLisaj sa Biogradske gore\n\nLisaj sa Biogradske gore\n\nLisaj sa Biogradske gore\n\nLisaj sa Biogradske gore\n\nLisaj sa Biogradske gore\n\nLisaj sa Biogradske gore\n\nLisaj sa Biogradske gore\n\nLichen on Ash Tree bark.\n\n“Lichens can also tolerate heat which would desiccate and kill most plants. They shrivel but remain alive and, when the opportunity comes, they take up moisture at extraordinary speed and in great quantities, absorbing as much as half their dried body weight in a mere ten minutes.” (Attenborough 1995:217)\n\n“In order to survive sunlight in the absence of water, desiccation-tolerant green plants need to be protected against photooxidation. During drying of the chlorolichen Cladonia rangiformis and the cyanolichen Peltigera neckeri , chlorophyll fluorescence decreased and stable light-dependent charge separation in reaction centers of the photosynthetic apparatus was lost. The presence of light during desiccation increased loss of fluorescence in the chlorolichen more than that in the cyanolichen. Heating of desiccated Cladonia thalli , but not of Peltigera thalli , increased fluorescence emission more after the lichen had been dried in the light than after drying in darkness. Activation of zeaxanthin-dependent energy dissipation by protonation of the PsbS protein of thylakoid membranes was not responsible for the increased loss of chlorophyll fluorescence by the chlorolichen during drying in the light. Glutaraldehyde inhibited loss of chlorophyll fluorescence during drying. Desiccation-induced loss of chlorophyll fluorescence and of light-dependent charge separation are interpreted to indicate activation of a highly effective mechanism of photoprotection in the lichens. Activation is based on desiccation-induced conformational changes of a pigment-protein complex. Absorbed light energy is converted into heat within a picosecond or femtosecond time domain. When present during desiccation, light interacts with the structural changes of the protein providing increased photoprotection. Energy dissipation is inactivated and structural changes are reversed when water becomes available again. Reversibility of ultra-fast thermal dissipation of light energy avoids photo-damage in the absence of water and facilitates the use of light for photosynthesis almost as soon as water becomes available.” (Heber 2008:641)",
+  "function_addressed": [
+    "protect from loss of liquids",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/changes-in-protein-pigment-complex-protect-from-heat-and-desiccation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "changes",
+    "protein-pigment",
+    "complex",
+    "protect",
+    "heat",
+    "desiccation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

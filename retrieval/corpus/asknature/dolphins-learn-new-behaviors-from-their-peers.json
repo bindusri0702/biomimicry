@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-dolphins-learn-new-behaviors-from-their-peers",
+  "organism_common": "Bottlenose dolphin",
+  "organism_scientific": "",
+  "strategy_summary": "Think of the last time you learned something from a friend. Was it a game?",
+  "mechanism": "The hip new foraging technique is called “shelling.” A dolphin chases a fish into a large shell (such as that of a sea snail), carries the shell up to the surface of the water using its snout, or rostrum, then dumps the water out of the shell in such a way that the fish falls right into the dolphin’s open mouth. This is only the second reported case of tool usage in dolphins. The other technique, called “sponging,” is where a dolphin carries a sea sponge on the tip of its rostrum and uses it to sift through rocks and broken coral on the seafloor. The poking and prodding stirs up fish that normally hide amongst the sediments and debris, and the sponge, worn like a protective glove, prevents the dolphins’ rostra from being scraped up in the process. Interestingly, knowledge of the sponging technique tends to be passed on consistently from mother to child. Statistical analysis of shelling, on the other hand, indicated that an estimated 57% of dolphins learned the technique through “social transmission,” from peers or older non-parent individuals.\n\nA dispersed approach to information sharing could have many applications for human activity. Encouraging students’ ability to help teach each other could create more dynamic or efficient educational systems especially in communities with fewer adult teachers available. This approach also has implications for designing faster, more resilient, or more responsive computer systems and networks.",
+  "function_addressed": [
+    "learn",
+    "cooperate within the same species",
+    "adapt behaviors",
+    "protect from dirt/solids",
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/dolphins-learn-new-behaviors-from-their-peers/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "peer-to-peer",
+    "learning",
+    "spreads",
+    "innovations",
+    "rapidly"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

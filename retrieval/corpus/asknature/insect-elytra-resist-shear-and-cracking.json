@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-insect-elytra-resist-shear-and-cracking",
+  "organism_common": "Beetles",
+  "organism_scientific": "",
+  "strategy_summary": "Elytra of beetles maintain integrity of their two layers by transforming forces through connecting bio-nails. Large poplar longhorned beetle  Euchroea auripimenta is a Rose chafer (Cetoniidae)  “Nature is replete with examples of layered-structure materials that are evolved through billions of years to provide high…",
+  "mechanism": "Elytra of beetles maintain integrity of their two layers by transforming forces through connecting bio-nails.\n\nLarge poplar longhorned beetle\n\nEuchroea auripimenta is a Rose chafer (Cetoniidae)\n\n“Nature is replete with examples of layered-structure materials that are evolved through billions of years to provide high performance. Insect elytra (a portion of the exoskeleton) have evoked worldwide research attention and are believed to serve as fuselages and wings of natural aircraft. This work focuses on the relationship between structure, mechanical behavior, and failure mechanisms of the elytra. We report a failure-mode-optimization (FMO) mechanism that can explain elytra’s mechanical behaviors. We show initial evidence that this mechanism makes bio-structures of low-strength materials strong and ductile that can effectively resist shear forces and crack growth. A bio-inspired design of a joint by using the FMO mechanism has been proved by experiments to have a potential to increase the interface shear strength as high as about 2.5 times. The FMO mechanism, which is based on the new concept of property-structure synergetic coupling proposed in this work, offer some thoughts to deal with the notoriously difficult problem of interface strength and to reduce catastrophic failure events.” (Fan et al. 2005:229)\n\nFan J, Chen B, Gao Z, Xiang C. Mechanisms in Failure Prevention of Bio-Materials and Bio-Structures. Mechanics of Advanced Materials and Structures 2005;12(3):229 – 237.",
+  "function_addressed": [
+    "manage impact",
+    "manage shear",
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/insect-elytra-resist-shear-and-cracking/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "insect",
+    "elytra",
+    "resist",
+    "shear",
+    "cracking"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-enzymes-detoxify-mercury-compounds",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "The enzymatic system of aerobic bacteria detoxifies mercury compounds such as methyl-mercury via the enzymes organomercurial lyase (MerB) and mercuric ion reductase. “Mercury is well known for its toxicity to living organisms.",
+  "mechanism": "The enzymatic system of aerobic bacteria detoxifies mercury compounds such as methyl-mercury via the enzymes organomercurial lyase (MerB) and mercuric ion reductase.\n\n“Mercury is well known for its toxicity to living organisms. Inorganic mercuric compounds (HgX2) and organomercurials (R-Hg-X), in which the Hg is formally in the +2 oxidation state, are primarily responsible for the toxicity…Elemental mercury itself (Hg0) has little affinity for cellular ligands and is toxic only if it becomes oxidized to the +2 state in the cell…aerobic bacteria have evolved the ingenious strategy of eliminating mercuric and organomercurial compounds from their environment through reduction of Hg2+ to Hg0. To accomplish this, they couple the activity of two enzymes: organomercurial lyase (MerB) and mercuric ion reductase.” (Miller 2007:537)\n\n“Accumulation of extremely toxic methylmercury in the environment—particularly in fish—has triggered an effort by scientists to unravel the process by which a set of bacterial enzymes capture and then detoxify the compound. In a new development, Jonathan G. Melnick and Gerard Parkin of Columbia University report a synthetic mercury complex that provides insight into how one of these enzymes catalyzes cleavage of the Hg-C bond (Science 2007, 317, 225). The finding is expected to boost efforts to genetically modify plants to sequester HgCH3+ for environmental cleanup. In nature, microbes synthesize HgCH3+ from naturally occurring Hg2+, as well as from mercury released in the emissions of coal-fired power plants. Organomercury compounds are toxic because the metal has a high affinity for sulfur, in particular the sulfur of thiol (-SH) groups in cysteine units of proteins. Once the mercury binds, the normal function of the proteins is disrupted. Bacteria resistant to HgCH3+ toxicity produce an enzyme named MerB, which has three cysteine residues in its active site that are known to be crucial for cleaving the Hg-C bond. But the exact way in which MerB coordinates to HgCH3+ and the ‘intimate details of the reaction mechanism’ have been a mystery, Parkin says. (A second enzyme, MerA, reduces the resulting Hg2+ to less toxic elemental mercury.) Melnick and Parkin thus set out to decipher the mechanism of action of MerB. Melnick and Parkin ‘provide an elegant atomic-level description for the facile cleavage of a carbon-mercury bond,’ notes James G. Omichinski of the University of Montreal in a Science commentary. Their observations provide valuable insight into the basic mechanism of MerB’s activity, he adds. Considerable work remains to be done, but understanding this mechanism ‘is essential to efforts to reengineer MerB to improve its catalytic efficiency for the bioremediation of methylmercury,’ Omichinski writes.” (Ritter 2007:10)",
+  "function_addressed": [
+    "protect from chemicals",
+    "cleave heavy metals from organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/enzymes-detoxify-mercury-compounds/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "enzymes",
+    "detoxify",
+    "mercury",
+    "compounds"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

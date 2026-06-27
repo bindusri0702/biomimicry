@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-ants-teach-other-ants-how-to-find-food",
+  "organism_common": "Rock ant",
+  "organism_scientific": "",
+  "strategy_summary": "Good teachers take their students by the hand and show them the way. Unless they’re ants.",
+  "mechanism": "The lessons happen in the form of something called “tandem running.” Naïve ants that don’t know where to look for food seek ants that do. But they don’t merely follow the leader. They don’t run after them. The two—teacher and pupil—run together, keeping up a two-way conversation.\n\nThe experienced ants aren’t laying down a chemical trail for inexperienced ants to follow. And they aren’t just broadcasting knowledge that inexperienced ants may or may not seize and follow up on.\n\nThe “teacher” ants slow down to wait for the inexperienced ones. They pause, while the “student” ants often take big loops—likely to get the lay of the land and identify landmarks to guide their way the next time they seek food on their own. The “teacher” ants proceed only when their students tap their antennae on their teachers’ legs and abdomens to communicate that they are close by and ready to proceed with the lesson. The teacher-pupil pair move in tandem, slowing down when the distance between them grows large and speeding up again when they are only an antenna-length apart.\n\nThe behavior satisfies two definitions of teaching. First, it involves two-way dialogue between teacher and pupil. Second, the teacher changes its normal behavior—at a cost to itself—so that the student can learn more quickly.\n\nIn experiments, scientists showed that teacher ants can get to food sources four times faster if they aren’t burdened by students. The teacher pays this price in exchange for teaching others how to get food efficiently. The immediate cost to the individual pays off by increasing the fitness of the community as a whole.\n\nFurther experiments showed that, after their initial lesson with their teachers, student ants don’t repeat the same meandering path they may have taken during their lesson. They have learned about their surroundings and take speedy and direct routes from their nests to food sources.\n\nTeaching and learning is much more complicated than just imitating a more experienced colleague. It’s a continual dialogue, in which teachers present information and then wait for students to contextualize and internalize it before proceeding. Remarkably, though it’s a complex process, you don’t need a big brain to do it. You don’t really need a brain at all. Such models can be a model for digital, distribution, and other networks as well.",
+  "function_addressed": [
+    "learn",
+    "navigate over land"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/ants-teach-other-ants-how-to-find-food/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "teachers",
+    "wait",
+    "students",
+    "get",
+    "bearings"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

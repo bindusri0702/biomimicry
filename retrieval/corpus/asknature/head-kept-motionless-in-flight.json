@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-head-kept-motionless-in-flight",
+  "organism_common": "Kestrel",
+  "organism_scientific": "",
+  "strategy_summary": "Flying high above a grassland, an American kestrel (Falco sparverius) spies a tiny vole on the ground below. Even though it’s being buffeted by winds, this sharp-eyed member of the falcon family is able to keep its head virtually motionless and its eyes fixed on the creature.",
+  "mechanism": "Kestrels are small birds of prey that are found throughout much of the Americas. They are among a few birds, including hummingbirds, that have a special talent: They are able to keep their eyes trained on objects even as their bodies move. This helps a kestrel to keep sight of prey it has already located, and also allows it to locate new targets, since it can see clearly whether an object it is observing is moving\n\nA kestrel achieves this feat through a combination of four reflexes , movements that can happen extremely rapidly because they don’t require involvement of the brain. Two of these relate to the vestibular system, which controls balance, and two of which relate to the interaction between nerves and muscles that regulates eye movement.\n\nThe kestrel’s ability to have its body buffeted by wind or repositioned by other forces while its eyes stay fixed on an object could inform a diverse array of human activities. It could inspire efforts to design aerial structures such as wind turbines or TV towers in a way that allows them to maintain a fixed position regardless of wind or other forces acting on them. It might be useful in the development of augmented and virtual reality imagery, or for enhancing the quality of video or photographic data collected from drones. It might even contribute to developing better motion sickness therapies, since a common strategy for preventing this common ailment is to keep eyes fixed on a distant object.",
+  "function_addressed": [
+    "adapt behaviors",
+    "modify position",
+    "modify speed",
+    "manage turbulence"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/head-kept-motionless-in-flight/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "coordinated",
+    "senses",
+    "keep",
+    "eyes",
+    "fixed",
+    "flight"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

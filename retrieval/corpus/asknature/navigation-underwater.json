@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-navigation-underwater",
+  "organism_common": "Whales and dolphins",
+  "organism_scientific": "",
+  "strategy_summary": "Whales navigate with incredible accuracy underwater using Earth's magnetic fields. “Whales use the Earth’s magnetic fields to accomplish feats of astonishingly accurate underwater navigation as they travel the oceans of the world.” (Shuker 2001:50)",
+  "mechanism": "Whales navigate with incredible accuracy underwater using Earth's magnetic fields.\n\n“Whales use the Earth’s magnetic fields to accomplish feats of astonishingly accurate underwater navigation as they travel the oceans of the world.” (Shuker 2001:50)",
+  "function_addressed": [
+    "sense electricity/magnetism from the environment",
+    "navigate through liquid"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/navigation-underwater/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "navigation",
+    "underwater"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

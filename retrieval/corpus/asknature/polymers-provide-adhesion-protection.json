@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-polymers-provide-adhesion-protection",
+  "organism_common": "Microcystis flos-aquae",
+  "organism_scientific": "",
+  "strategy_summary": "Exopolysaccharides produced by many microorganisms confer adhesive and protective qualities to extracellular secretions by forming a hydrated architectural matrix. “Microalgae and bacteria living in aquatic ecosystems commonly secrete extracellular polymeric substances … A large proportion (40–95%) of this polymeric…",
+  "mechanism": "Exopolysaccharides produced by many microorganisms confer adhesive and protective qualities to extracellular secretions by forming a hydrated architectural matrix.\n\n“Microalgae and bacteria living in aquatic ecosystems commonly secrete extracellular polymeric substances … A large proportion (40–95%) of this polymeric material is exopolysaccharide (EPS), but it may also include proteins, nucleic acids, and lipids [5] … EPS plays an important role in cellular attachment and adhesion to surfaces, increasing survival compared with growth in an unattached state [7,8]. It forms a highly hydrated matrix [9], which provides a layer of protection to cells against toxic compounds [10,11] or against digestion by other organisms [12]. EPS may also prevent cellular desiccation [13–15] or damaging ice-crystal formation [16]. Thus, EPS forms the architectural network of biofilms and aggregates, protecting cells and facilitating intercellular interactions [1,17] … The culture CS 566=01, identified as the alga Microcystis aeruginosa f. flos-aquae (Wittrock) Kirchner 1898, had the highest viscosity in the survey.” (Nichols et al. 2009:98-99)",
+  "function_addressed": [
+    "protect from chemicals",
+    "protect from ice",
+    "protect from loss of liquids",
+    "protect from microbes",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/polymers-provide-adhesion-protection/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "polymers",
+    "provide",
+    "adhesion",
+    "protection"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

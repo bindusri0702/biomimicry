@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-gut-microbes-digest-cellulose",
+  "organism_common": "Termites",
+  "organism_scientific": "",
+  "strategy_summary": "Guts of termites digest cellulose via microbial symbionts. These Termites Turn Your House into a Palace of Poop  “Termites do not digest cellulose directly…instead they collect vegetation, chew it up, and leave the chemical breakdown to other organisms.",
+  "mechanism": "Guts of termites digest cellulose via microbial symbionts.\n\nThese Termites Turn Your House into a Palace of Poop\n\n“Termites do not digest cellulose directly…instead they collect vegetation, chew it up, and leave the chemical breakdown to other organisms. There are two strategies. The most primitive termites swallow the vegetation and pass it to a fermentation chamber where anaerobic bacteria and protozoa break down the cellulose…More advanced species have a different feeding strategy. The energy source is still cellulose, but it is digested outside the termite’s body…Fungi is the only kingdom of organisms able to digest cellulose in air, though they need warmth and humidity to do the job efficiently.” (Gould and Gould 2007:132-133)",
+  "function_addressed": [
+    "chemically break down organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/gut-microbes-digest-cellulose/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "gut",
+    "microbes",
+    "digest",
+    "cellulose"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-bacterial-biofilms-form-wrinkles-as-they-grow",
+  "organism_common": "Vibrio cholerae",
+  "organism_scientific": "",
+  "strategy_summary": "The shape and structure of bacterial biofilms is dependent on food availability and the surface it grows on  As bacteria multiply, they often form a protective layer to keep themselves safe. This layer is called a biofilm .",
+  "mechanism": "The shape and structure of bacterial biofilms is dependent on food availability and the surface it grows on\n\nAs bacteria multiply, they often form a protective layer to keep themselves safe. This layer is called a biofilm . It is a slimy, sticky protective layer that covers the bacteria and protects it from environmental stressors, such as high heat or toxic chemicals. It is made up of a gel the bacteria produce (called “extra-polymeric substance”, EPS), and other captured particles. Common examples of biofilms include dental plaque, the slippery gel found on rocks in streams, and the orangey-coating that appears in your toilet bowl if it isn’t regularly cleaned!\n\nAs a bacterial colony grows, their biofilms will often form complex, starburst-like patterns. The growth of the biofilm depends on many factors, but one of the most important is the availability of food. If a biofilm forms on a surface that has food on it, the bacteria will finish the food and will then grow in all directions to find more food, creating a circular shape. This circular growth maximizes food consumption and increases the chances of finding food because the colony is growing in all directions at once.\n\nAs the colony grows, sometimes an individual bacterium will eat faster than the others. This causes a part of the biofilm to stretch out in a certain direction. When the food runs out in that area, the bacteria stop growing in that direction and need to find another direction to grow in. To picture this, imagine a highway full of people trying to get off at a certain exit. One day, the exit closes and everyone needs to use a different exit. Suddenly there is a really long line of traffic because everyone is trying to find another route. When the bacteria hit this kind of ‘traffic jam’ and need to move in a different direction, they start to grow on top of one another. This causes ‘wrinkles’ to occur in the biofilm. A biofilm can have several wrinkles that form different patterns of peaks and valleys ( see video here ).\n\nIn addition to food, scientists have also found that biofilm growth patterns are also affected by the type of surface they grow on. On soft surfaces, such as styrofoam or skin, biofilms start growing as a flat layer but later become wrinkled. This is because it is easy for a biofilm to grow smoothly in all directions and it takes longer for wrinkles to form. On hard surfaces, such as a rock or plastic, it is harder for the bacteria to grow in all directions at once. Because of this, wrinkles form very quickly in the biofilm, and these wrinkles are closer to the center ( see video here ).\n\nCredit: Princeton Engineering\n\nCredit: Princeton Engineering",
+  "function_addressed": [
+    "prevent deformation"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bacterial-biofilms-form-wrinkles-as-they-grow/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bacterial",
+    "biofilms",
+    "form",
+    "wrinkles",
+    "they",
+    "grow"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

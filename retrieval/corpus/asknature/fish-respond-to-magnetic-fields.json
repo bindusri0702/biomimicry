@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-fish-respond-to-magnetic-fields",
+  "organism_common": "Rainbow trout",
+  "organism_scientific": "",
+  "strategy_summary": "The trigeminal cranial nerve of rainbow trout helps them detect magnetic fields by containing magnetosensitive nerve fibers. “In 1997, the first known magnetoreceptors — directly linking magnetite to neural connections and activity — were found in vertebrates.",
+  "mechanism": "The trigeminal cranial nerve of rainbow trout helps them detect magnetic fields by containing magnetosensitive nerve fibers.\n\n“In 1997, the first known magnetoreceptors — directly linking magnetite to neural connections and activity — were found in vertebrates. A team of zoologists from Auckland University, led by Dr. Michael Walker, had been studying this mysterious sense in trout, and knew that a region of its skull contained magnetite.\n\n“Recording neural activity from that region, they discovered that a specific subgroup of nerve fibers within a branch of the trigeminal cranial nerve called the ros V nerve fired in response to changes in the surrounding magnetic field. They also found magnetite in a tissue layer directly beneath the trout’s olfactory (smell) organs. When they injected a colored dye into the ros V nerve’s newly exposed magnetosensitive fibers, the dye revealed that the fibers terminated and ramified all around the magnetite-containing cells within the trout’s olfactory tissue.” (Shuker 2001:46)",
+  "function_addressed": [
+    "sense electricity/magnetism from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fish-respond-to-magnetic-fields/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fish",
+    "respond",
+    "magnetic",
+    "fields"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

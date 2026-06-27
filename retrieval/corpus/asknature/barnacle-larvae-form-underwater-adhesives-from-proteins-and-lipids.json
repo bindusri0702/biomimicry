@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-barnacle-larvae-form-underwater-adhesives-from-proteins-and-lipids",
+  "organism_common": "Crustaceans",
+  "organism_scientific": "",
+  "strategy_summary": "Barnacle larvae, the juvenile stage of these familiar marine crustaceans, exhibit a remarkable ability to permanently adhere to underwater surfaces. Found in oceans worldwide, barnacles attach to rocks, ship hulls, and other structures, often forming dense colonies.",
+  "mechanism": "Barnacle larvae use their adhesive to secure themselves to surfaces when they settle into a permanent home. This process begins with the secretion of a complex mixture of biological materials including proteins, which form the structural framework of the glue, and lipids, which play a supportive but equally essential role. The proteins in the adhesive are responsible for forming strong bonds with the surface and with each other. These molecules have unique properties that allow them to stick even in wet environments, where water typically weakens adhesives. The lipids serve to create a waterproof barrier on the surface, helping the proteins adhere by repelling water and ensuring that the glue remains intact over time. Together, these components work synergistically to produce a bond that is both strong and highly resistant to environmental wear. The barnacles’ strategy is especially effective because the adhesive is self-organizing. As the larvae secrete the adhesive, the lipids and proteins automatically arrange themselves into layers, with lipids coating the surface first, followed by proteins that solidify the bond. This layered structure maximizes durability and adhesion while maintaining flexibility to adapt to different surface textures.\n\nThe barnacle larvae’s adhesive offers inspiration for developing advanced, environmentally friendly glues that work in wet conditions or underwater. Such adhesives could revolutionize industries like construction, medicine, and marine technology. For example, medical adhesives inspired by this strategy have been used to expedite wound healing, providing strong, biocompatible bonds under varied conditions.",
+  "function_addressed": [
+    "attach permanently"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/barnacle-larvae-form-underwater-adhesives-from-proteins-and-lipids/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "barnacle",
+    "larvae",
+    "create",
+    "natural",
+    "adhesives"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

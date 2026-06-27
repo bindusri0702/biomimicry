@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-ovipositor-drills-holes",
+  "organism_common": "Locust",
+  "organism_scientific": "",
+  "strategy_summary": "Ovipositors of locusts drill deep holes by use of two reciprocating rotating elements. Wanderheuschrecke.",
+  "mechanism": "Ovipositors of locusts drill deep holes by use of two reciprocating rotating elements.\n\nWanderheuschrecke. (Locusta migratoria). Aufnahme: Zoo Basel.\n\nOLYMPUS DIGITAL CAMERA\n\nLocusta migratoria ???????\n\nFemale ''Locusta migratoria migratorioides'' near Aeterba, Red Sea coast, Sudan.\n\n“When females of locust species such as Locusta migratoria , Schistocerca gregaria (Forskal), S.peregrina (Olivier), Anacridium aegyptium and a number of other Acrididae dig oviposition holes, they stretch the intersegmental membranes between abdominal segments IV, V, VI and VII and thus make a hole considerably deeper than could otherwise be achieved. The ovipositor valves provide the force for this extension. The ovipositor is a boring machine which, once set in motion with its prongs against the soil, must automatically bury itself and in doing so it will stretch the easily extended abdomen to its full length, so long as the insect maintains it hold on the ground. The findings of the study provide an insight to the functioning of the locust apparatus, and suggested the possibility to develop an innovative digging system composed by two reciprocating rotating elements.” (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/ovipositor-drills-holes/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "ovipositor",
+    "drills",
+    "holes"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

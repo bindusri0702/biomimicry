@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-continuous-fibers-prevent-structural-weakness",
+  "organism_common": "Prevent Fracture/Rupture",
+  "organism_scientific": "",
+  "strategy_summary": "Knotholes in wood do not crack because the fibers around them are continuous. “There has been relatively little attempt to produce an artificial analogue to wood because wood is cheap, lightweight, tough, moldable, and easily shaped.",
+  "mechanism": "Knotholes in wood do not crack because the fibers around them are continuous.\n\n“There has been relatively little attempt to produce an artificial analogue to wood because wood is cheap, lightweight, tough, moldable, and easily shaped. However, when a hole is drilled in timber, it weakens the structure. The tree, however, drills no holes, even though it must disrupt the trunk’s wood where a new branch pushes through. The fibers deform around a knothole, remaining continuous. George Jeronimidis of the Univ. of Reading Center for Biometrics is proposing to study how this can be used in fibrous composite materials.” (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/continuous-fibers-prevent-structural-weakness/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "continuous",
+    "fibers",
+    "prevent",
+    "structural",
+    "weakness"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

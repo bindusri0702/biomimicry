@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-pacific-salmon-and-their-role-in-ecosystems",
+  "organism_common": "Salmon",
+  "organism_scientific": "",
+  "strategy_summary": "Pacific salmon (Oncorhynchus species) are vital keystone species whose life cycles connect aquatic and terrestrial ecosystems, supporting biodiversity and ecological balance. These fish migrate between freshwater streams and the ocean, transferring nutrients and energy that sustain a wide range of organisms.",
+  "mechanism": "Pacific salmon link ecosystems through their anadromous life cycle. Born in freshwater, young salmon migrate to the ocean, where they accumulate nutrients. When they return to freshwater to spawn, their bodies release marine-derived nutrients into streams and surrounding landscapes. These nutrients boost the productivity of algae, aquatic invertebrates, and fish, while also enriching terrestrial vegetation and feeding animals like bears, eagles, and wolves.\n\nSalmon also shape habitats through their spawning activities, which aerate streambeds and improve oxygen flow, benefiting eggs and other aquatic life. Their nutrient contributions have been shown to enhance the growth of riparian vegetation, which stabilizes streambanks and provides shade for aquatic ecosystems. The interconnected role of salmon in these processes ensures the resilience and balance of ecosystems.\n\nHowever, human activities like habitat destruction, overfishing, and climate change have significantly reduced salmon populations, disrupting these vital ecological functions. Protecting salmon populations is critical to sustaining the ecosystems they support.\n\nThe intricate relationship between salmon and their environments highlights the need for ecosystem-based management. Restoring riparian zones, removing barriers like dams, and adopting sustainable fishing practices can protect the ecological benefits salmon provide. Salmon-inspired nutrient cycling could inform sustainable farming or water management. Their role as ecosystem connectors reminds us of the importance of maintaining biodiversity to ensure resilience and balance in natural systems.",
+  "function_addressed": [
+    "cycle nutrients"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pacific-salmon-and-their-role-in-ecosystems/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pacific",
+    "salmon",
+    "move",
+    "nutrients",
+    "sea",
+    "forests"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

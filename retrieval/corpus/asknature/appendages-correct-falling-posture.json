@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-appendages-correct-falling-posture",
+  "organism_common": "Pea aphid",
+  "organism_scientific": "",
+  "strategy_summary": "The appendages of the pea aphid correct falling posture by strategically moving to an aerodynamically unstable position. When a pea aphid falls off a leaf, it almost always falls belly-side up.",
+  "mechanism": "The appendages of the pea aphid correct falling posture by strategically moving to an aerodynamically unstable position.\n\nWhen a pea aphid falls off a leaf, it almost always falls belly-side up. In order to land on its feet, the aphid moves its antennae up and forward and its hind and mid legs back towards the body.\n\nThis appendage orientation creates a body position that increases drag through added air resistance on the aphid. When something is falling, it naturally moves to an orientation with the least amount of resistance. Given this, the strategic positioning of the antennae and legs creates unnatural stress and needs to be corrected. By purposefully increasing air resistance when falling, the aphid’s body automatically shifts to the the optimal orientation; in this case, belly-side down.\n\nThis strategy was contributed by Rachel Major",
+  "function_addressed": [
+    "manage impact",
+    "adapt behaviors"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/appendages-correct-falling-posture/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "appendages",
+    "correct",
+    "falling",
+    "posture"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

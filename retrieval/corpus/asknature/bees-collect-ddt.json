@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-bees-collect-ddt",
+  "organism_common": "Bees",
+  "organism_scientific": "",
+  "strategy_summary": "Some orchid bees are able to tolerate high concentrations of DDT, strategy unknown. “While studying the ecology of the malaria vector Anopheles (Nyssorhynchus) darlingi Root along the Ituxi River, Amazonas, Brazil, we observed aggregates of bees on the walls of houses that were routinely sprayed with DDT.",
+  "mechanism": "Some orchid bees are able to tolerate high concentrations of DDT, strategy unknown.\n\n“While studying the ecology of the malaria vector Anopheles (Nyssorhynchus) darlingi Root along the Ituxi River, Amazonas, Brazil, we observed aggregates of bees on the walls of houses that were routinely sprayed with DDT. Several bees collected from DDT-treated house walls in August 1978 were identified as male specimens of Eufriesia purpurata (Moscary) of the tribe Euglossini (Hymenoptera: Apoidae) … These bees were well known to the local residents as the insects that eat DDT and we present here the first documentation that they (1) are attracted to DDT, (2) actively collect large quantities of DDT from treated house walls and (3) suffer no apparent insecticidal effects. We also found that the frequency of house visiting is most intense during July to September. Most bees arrive at houses before 12.00 h, remain 2−3 h and return on subsequent days to collect more DDT.” (Roberts et al. 1982:62)\n\n“Brazilian bees of the species Eufriesea purpurata are known to tolerate very high concentrations of DDT. As reported in the literature, these bees have suffered no harm from as much as 2 mg/bee, which is in the per-cent range of the body weight. In 1979, individuals of E . purpurata were captured as they collected DDT from walls of remote, rural houses in Brazil. Reported herein are quantities and identities of DDT, DDT metabolites, and other organohalogen compounds in four samples of bees stored since 1979. The concentrations of DDT (sum of p , p ′-DDT, -DDE, and -DDD) ranged from 23 to 314 μg/bee which is up to twelve fold higher than the LD 50 value of DDT in the honey bee ( Apis mellifera ) but significantly lower than the no-effect concentration in E . purpurata . Enantioselective determination confirmed the presence of racemic o , p ′-DDT in the four individual samples. GC/ECNI-MS investigation resulted in the detection of low amounts (< 1 μg/bee) of PCA, lindane, and chlordane. At higher retention times four unknown compounds were detected with a proposed molecular ion at m / z 498, a non-aromatic hydrocarbon backbone along with the presence of eight chlorine substituents. Neither the structure nor the origin of these compounds could be determined. Considering where and when the bees were collected and considering the biology and ecology of the euglossine bees themselves, we propose that the four unknowns are natural products and, as such, are the most highly chlorinated natural compounds yet discovered.” (Vetter & Roberts 2007:371)\n\nhttp://www.nature.com/nature/journal/v297/n5861/abs/297062a0.html http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V78-4NBR3PM-5&_user=10&_coverDate=05%2F15%2F2007&_rdoc=1&_fmt=high&_orig=search&_sort=d&_docancho",
+  "function_addressed": [
+    "protect from chemicals",
+    "chemically break down organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bees-collect-ddt/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bees",
+    "collect",
+    "ddt"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

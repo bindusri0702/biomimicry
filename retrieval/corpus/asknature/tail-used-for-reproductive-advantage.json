@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-tail-used-for-reproductive-advantage",
+  "organism_common": "Dragonflies and damselflies",
+  "organism_scientific": "",
+  "strategy_summary": "Extensions on the tails of some dragonflies provide a reproductive advantage by cleaning out the sperm of competitors from their chosen mate prior to depositing their own sperm. “Female dragonflies do not mate again after fertilization.",
+  "mechanism": "Extensions on the tails of some dragonflies provide a reproductive advantage by cleaning out the sperm of competitors from their chosen mate prior to depositing their own sperm.\n\n“Female dragonflies do not mate again after fertilization. However, this does not create any problem for the males of the Calopteryx virgo species [a damselfly]. By using the hooks on its tail, the male captures the female by the neck. The female wraps her legs around the tail of the male. The male, by using special extensions on its tail, cleans any possible sperm left from another male.” (Yahya 2002:24)\n\n“During copulation, males [of the Calopterygidae family] carry out a series of abdominal movements that are associated with the manipulation of the female’s stored sperm. Male calopterygids invariably displace sperm from the bursa (Waage 1979, 1988; Siva-Jothy and Tsubaki 1989; Siva-Jothy and Hooper 1995; Lindeboom 1998; Córdoba-Aguilar 1999b); however, they differ in the ability to displace spermathecal sperm. In those species in which males displace spermathecal sperm, two mechanisms have been described: sperm removal (e.g., Waage 1979) and sperm ejection via sensory stimulation (Córdoba-Aguilar 1999b). During sperm removal, the two male lateral appendages (fig. la) have physical access to the spermathecal ducts (fig. 1b), allowing the mechanical displacement of the stored sperm masses (Waage 1979). During sperm displacement via sensory stimulation, the aedeagus stimulates a series of mechanoreceptive sensilla (fig. 1b) that are embedded in two vaginal plates (Córdoba-Aguilar 1999b)…In C. virgo , males have access to spermathecal sperm previous to sperm transfer. The mechanism used in this species seems to be physical and mediated by the lateral appendages.” (Córdoba-Aguilar 2002:595-596, 599)",
+  "function_addressed": [
+    "distribute liquids",
+    "regulate reproduction or growth",
+    "protect from excess liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tail-used-for-reproductive-advantage/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tail",
+    "used",
+    "reproductive",
+    "advantage"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

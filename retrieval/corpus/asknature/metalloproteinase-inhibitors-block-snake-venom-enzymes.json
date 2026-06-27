@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-metalloproteinase-inhibitors-block-snake-venom-enzymes",
+  "organism_common": "Virginia opossum",
+  "organism_scientific": "",
+  "strategy_summary": "The sera of Virginia opossum avoid toxic reactions to snake venom by containing compounds that block the key enzymes in the venom. Pit viper venom is a complex mixture of various enzymes called metalloproteinases.",
+  "mechanism": "The sera of Virginia opossum avoid toxic reactions to snake venom by containing compounds that block the key enzymes in the venom.\n\nPit viper venom is a complex mixture of various enzymes called metalloproteinases. These enzymes wreak havoc inside the bodies of venomous snake-bite victims by causing widespread breakdown of important proteins (proteolyisis) in the tissue surroundings blood vessels and within cells themselves. This damage results in hemorrhaging and the release of secondary toxins from injured tissue. Rapid death is often the outcome. The Virginia opossum is able to block the activity of metalloproteinase enzymes thereby neutralizing their toxic effects.",
+  "function_addressed": [
+    "protect from animals",
+    "protect from chemicals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/metalloproteinase-inhibitors-block-snake-venom-enzymes/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "metalloproteinase",
+    "inhibitors",
+    "block",
+    "snake",
+    "venom",
+    "enzymes"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

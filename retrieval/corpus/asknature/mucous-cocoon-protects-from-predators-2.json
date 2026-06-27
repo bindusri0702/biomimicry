@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-mucous-cocoon-protects-from-predators-2",
+  "organism_common": "Daisy parrotfish",
+  "organism_scientific": "",
+  "strategy_summary": "Glands of the parrotfish protect it from parasites and mask olfactory cues by secreting a mucous cocoon that surrounds the fish. Gnathiids are a family of isopod crustaceans whose larvae feed on the blood of fish.",
+  "mechanism": "Glands of the parrotfish protect it from parasites and mask olfactory cues by secreting a mucous cocoon that surrounds the fish.\n\nGnathiids are a family of isopod crustaceans whose larvae feed on the blood of fish. During the day, infected parrotfish seek out cleaner fish to consume the parasites; however, at night they are relatively vulnerable to attack. Parrotfish overcome this vulnerability by secreting a mucus cocoon before sleeping which envelopes their bodies with a protective biopolymer that functions similar to a mosquito net. The mucus is secreted from large glands in the gill cavity and is composed of small glycoproteins which are extensively cross-linked through pyrosulfate bonds. This exopolymer net allows small molecules to permeate but prevents the parasitic gnathiids from entering. The process is thought to involve a combination of blocking odorants which the isopods use to target the fish and physically preventing them from approaching the fish. The nightly mucus secretion only consumes ~2.5% of the daily energy budget of the parrotfish which makes it a very efficient strategy.\n\nAlternative strategies used by other organisms to deter parasites include chemical ones like the secretion or production of toxins and behavioral ones like scraping along surfaces, avoiding infected individuals/habitats, and seeking cleaner fish; these alternatives are relatively energetically costly compared to the mucus cocoon.",
+  "function_addressed": [
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mucous-cocoon-protects-from-predators-2/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mucous",
+    "cocoon",
+    "protects",
+    "predators"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

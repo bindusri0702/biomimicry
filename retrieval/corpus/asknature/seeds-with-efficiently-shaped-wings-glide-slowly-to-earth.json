@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-seeds-with-efficiently-shaped-wings-glide-slowly-to-earth",
+  "organism_common": "Javan cucumber",
+  "organism_scientific": "",
+  "strategy_summary": "A thin plate and centered configuration help Javan cucumber seeds float long distances on the wind. The Javan cucumber (Alsomitra macrocarpa) is a vine that climbs the trees of tropical forests toward the canopy and sunlight.",
+  "mechanism": "A thin plate and centered configuration help Javan cucumber seeds float long distances on the wind.\n\nThe Javan cucumber (Alsomitra macrocarpa) is a vine that climbs the trees of tropical forests toward the canopy and sunlight. At great heights it grows pods that contain hundreds of winged seeds called samara. As the wind blows against the opening of the pods, the samara are peeled away and released. Unlike many seeds that make a gliding flight using auto-rotation, the seed of the Javan cucumber vine exhibits a stable gliding flight with its paper-thin wings. The seed’s design is efficient enough to achieve a low descent angle of only 12 degrees and therefore it is able to achieve a slower rate of descent (0.41 meter per second) compared to that of rotating winged seeds (1 meter per second). This aerodynamic advantage allows the seed to be easily carried by the wind.\n\nThe construction of the seed and wing gives it this advantage. The seed itself is thin, about 1 millimeter in thickness, and positioned almost exactly at the structure’s center of gravity to give it balance. The wings are even thinner, about a few micrometer to some 10 micrometer. Because the wings are so thin, as the samara is angled up or down, the center of pressure from the wind will shift to reduce that angle. This effect stabilizes the seed and also prevents it from diving. When viewed from above, the wings are angled behind the center of the seed to give it more stability and are slightly tapered toward the tip to make it lighter with less drag. When viewed from the front, the wings are angled upward which helps it fly in a straighter path and prevents spiral instability. The wings also have a sharp leading edge and an aspect ratio (AR=3~4) that results in an appropriate lift-to-drag ratio (L/D= 3~4) to support their gliding flight.\n\nThe form of the samara allows it to travel long distances in the wind. It is possible for the seeds to glide up to hundreds of meters, ensuring that they spread far from each other as well as the parent pod. This wide dispersal prevents the seeds from competing for resources once they fall to the ground and begin growing.\n\nFor a visual explanation of the Javan cucmber gliding, watch this video .\n\nThis summary was contributed by Leon Wang.",
+  "function_addressed": [
+    "move in/through gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/seeds-with-efficiently-shaped-wings-glide-slowly-to-earth/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "wide",
+    "wings",
+    "give",
+    "seeds",
+    "soaring",
+    "advantage"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

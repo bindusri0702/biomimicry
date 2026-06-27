@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-hydraulic-action-creates-structural-rigidity",
+  "organism_common": "Prevent Buckling",
+  "organism_scientific": "",
+  "strategy_summary": "The penis of humans avoids buckling by hydraulic action of increased blood flow into the corpora cavernosa. “Two major branches of engineering mechanics are fluid mechanics and structural mechanics, with many practical problems involving the effect of the first on the second.",
+  "mechanism": "The penis of humans avoids buckling by hydraulic action of increased blood flow into the corpora cavernosa.\n\n“Two major branches of engineering mechanics are fluid mechanics and structural mechanics, with many practical problems involving the effect of the first on the second. An example is the design of an aircraft’s wings to bend within reasonable limits without breaking under the action of lift forces exerted by the air flowing over them; another is the maintenance of the structural integrity of a dam designed to hold back a water reservoir which would exert very large forces on it. Similarly, fluid and structural mechanics are involved in the engineering analysis of erectile function: it is the hydraulic action of increased blood flow into the corpora cavernosa that creates the structural rigidity necessary to prevent collapse of the penile column.” (Udelson 2007:1031)",
+  "function_addressed": [
+    "prevent buckling"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hydraulic-action-creates-structural-rigidity/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hydraulic",
+    "action",
+    "creates",
+    "structural",
+    "rigidity"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

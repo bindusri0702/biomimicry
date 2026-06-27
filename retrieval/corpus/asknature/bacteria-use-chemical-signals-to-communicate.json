@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-bacteria-use-chemical-signals-to-communicate",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "Bacteria sense each other using chemicals to determine local density. You can’t play tic-tac-toe alone; jumping rope requires at least 3 people; and in a professional soccer match each team needs 11 players.",
+  "mechanism": "Bacteria sense each other using chemicals to determine local density.\n\nYou can’t play tic-tac-toe alone; jumping rope requires at least 3 people; and in a professional soccer match each team needs 11 players. A minimum number of individuals are required in order to do certain things.\n\nIt’s the same for bacteria. These tiny organisms, which live unseen on almost every possible surface, including in the air and water, often live as independent cells. However, sometimes bacteria need to form larger groups in order to do new things, like protect themselves or produce new chemicals. When a minimum number of bacteria are in a certain area, they can suddenly change what they’re capable of doing, such as forming colonies with different physical abilities, producing different chemicals, and behaving in ways that can make them harder to get rid of. How do bacteria know when they have enough individuals to make the switch?\n\nBacteria use chemicals to communicate with each other. They can communicate about lots of things, including keeping track of the overall number of bacterial cells in a certain area. Bacteria pass ‘messages’ to each other by releasing different chemicals. Bacteria have sensors on the outside of their cells that allow them to pick up these chemical signals from other bacteria. When a lot of bacteria are in a certain area, there are lots of signals being picked up by the sensor. When the communication chemicals reach a certain threshold, this triggers to the other bacteria that there are enough of them to make the switch to start behaving as a colony.\n\nHaving systems for knowing when conditions are right to take action is something bacteria have mastered, and it’s a skill people often could use as well. Timing a policy change, introducing a new idea at a meeting, or altering one’s own behavior can perhaps all be done better by attending to cues around us.\n\nTo learn more about quorum sensing in bacteria, check out this iBiology video lecture entitled, “ Bacterial Communication via Quorum Sensing “\n\nVideo content © 2015 - 2006 iBiology · CC BY-NC-ND 3.0 license\n\nThis colorized version of PHIL 232 depicts a scanning electron micrograph (SEM) of a number of Pseudomonas aeruginosa bacteria.\n\nUniversity of Maryland\n\nBio-based communication networks from University of Maryland use bacteria to transmit electrical signals about biological processes.",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bacteria-use-chemical-signals-to-communicate/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bacteria",
+    "chemical",
+    "signals",
+    "communicate"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-microstructures-produce-iridescent-colors",
+  "organism_common": "Hummingbirds",
+  "organism_scientific": "",
+  "strategy_summary": "Hummingbirds are celebrated for their vibrant, iridescent feathers, which are not the product of pigments but arise from structural changes in their feather barbules. Inhabiting environments ranging from the lush tropical forests of Brazil to the high altitudes of the Andes, these birds exhibit colors that are…",
+  "mechanism": "The mesmerizing iridescence of hummingbird feathers stems from microscopic elliptical platelets located within the feather barbules. These platelets, each about 2.5 microns long, are embedded with air bubbles within a matrix of high-refractive material. As light strikes these structured surfaces, it scatters, reflects, and diffracts in complex and radiant ways. The interaction between the light waves and the microstructure of the platelets results in vivid colors, where certain wavelengths of light are amplified and others canceled out, creating the bird’s vibrant display. The specific arrangement and physical properties of these platelets vary subtly between species, finely orchestrating a kaleidoscope of hues that are tuned to the needs of each hummingbird species for mating, territory defense, and more.\n\nThe iridescent strategy of hummingbird feathers presents a blueprint for human innovation in material science and design. Engineers can emulate this natural phenomenon to develop paints and coatings that require no pigment s yet change color depending on the viewing angle. A colorful change of aspect depending on the vantage point. This could lead to environmentally friendly color solutions in the automotive and fashion industries, reducing the reliance on chemical dyes and pigments, and instead focusing on the natural possibilities already present in these natural phenomena.\n\nAdditionally, the principles of light manipulation observed in hummingbird feathers could inspire new types of optical devices, such as lenses or sensors, that are more effective and even less expensive to produce. Another application could be in the creation of security features for currency bills, or to watermark sensitive documents, where iridescent patterns that change depending on the viewing angle would add a layer of security.",
+  "function_addressed": [
+    "send light signals in the visible spectrum"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/microstructures-produce-iridescent-colors/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "harnessing",
+    "light",
+    "microstructures",
+    "present",
+    "iridescent",
+    "colors"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

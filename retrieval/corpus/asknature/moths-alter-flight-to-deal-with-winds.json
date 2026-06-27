@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-moths-alter-flight-to-deal-with-winds",
+  "organism_common": "Death's-head hawkmoth",
+  "organism_scientific": "",
+  "strategy_summary": "Moths use changes in speed and altitude to maintain trajectory despite changes in windspeed and direction. “The results show that moths maintained perfectly straight trajectories for long distances during flight.",
+  "mechanism": "Moths use changes in speed and altitude to maintain trajectory despite changes in windspeed and direction.\n\n“The results show that moths maintained perfectly straight trajectories for long distances during flight. This was not because they waited for favorable tailwinds. Rather, they employed a range of flight strategies to buffer against prevailing winds, allowing them to hold their course throughout the night. When winds were favorable, they flew high and slow, allowing the air to carry them. But during harsh headwinds or cross winds, they flew low to the ground and increased speed to keep control of their path.\n\nSays Menz: ‘For years it was assumed that insect migration was mostly about getting blown around. But we show that insects are capable of being great navigators, on par with birds, and are far less vulnerable to wind conditions than we thought.'” (MAX-PLANCK-GESELLSCHAFT)\n\nResearchers tracking moths with radio transmitters focused on the death’s-head hawkmoth—a large, nocturnal migrant that travels up to 4,000 kilometers (2,500 miles) between Europe and Africa every year.\n\nButterflies and moths\n\nMoths detect bat calls and avoid predation using sudden drops and weaving flight patterns.\n\nKestrel\n\nThe eyes of a kestrel remain fixed on an object due to the bird’s ability to use reflexes to rapidly reposition its eyes and head with respect to its body.\n\nBig brown bat\n\nTactile hairs in wing membranes of bats serve as flight control organs by providing immediate sensorimotor feedback.",
+  "function_addressed": [
+    "navigate through air",
+    "move in/through gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/moths-alter-flight-to-deal-with-winds/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "moths",
+    "alter",
+    "flight",
+    "deal",
+    "winds"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

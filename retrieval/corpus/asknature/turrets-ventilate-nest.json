@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-turrets-ventilate-nest",
+  "organism_common": "Leafcutter ants",
+  "organism_scientific": "",
+  "strategy_summary": "Feeding young is a big job for many animals, but leaf-cutter ants take it to another level. They spend their days harvesting bits of leaves, which they haul into chambers deep within massive nests made of soil.",
+  "mechanism": "Underground farming brings some challenges though: the damp soil that makes up and surrounds the nest is too compact to allow air to flow naturally into the chambers, removing carbon dioxide and refreshing the oxygen supply. For some species, the solution turns out to be blowing in the wind––which ventilates the nest with the guidance of turretlike structures constructed at the surface. This approach to indoor agriculture allows the ants to carefully control the temperature, humidity, oxygen, and carbon dioxide levels their crops need to thrive.\n\nLeaf-cutter ants offer inspiration to humans in many ways. Their practice of tending a crop with fine-tuned inputs of nutrients and pesticides offers insights for optimizing inputs and outputs in human agriculture. Beyond that, their nest structures suggest ways to enhance the energy efficiency and sustainability of greenhouses, indoor farms, and gardens, and to improve the function of systems used to dry agricultural crops, paint, or other materials. Humans already have taken advantage of the principles demonstrated by leaf-cutter ants to enhance ventilation of homes and other buildings. This can save on costs of cooling buildings and reduce the threat of climate change by decreasing demand for fossil fuels. Organic farming. Wind-powered-HVAC engineering. Leaf-cutting is really just the start of the story of these impressive creatures.",
+  "function_addressed": [
+    "optimize shape/materials",
+    "modify material characteristics",
+    "modify pressure",
+    "protect from temperature",
+    "protect from gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/turrets-ventilate-nest/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "turrets",
+    "ventilate",
+    "nest"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-biofilms-protect-bacterial-communities",
+  "organism_common": "Salmonella",
+  "organism_scientific": "",
+  "strategy_summary": "Bacteria rely on social cooperation to produce a biofilm that protects the community  Bacteria are tiny cells that can enter the human body and cause infections that make humans sick. In order to get better, the body needs to kill or stop the growth of these bacteria.",
+  "mechanism": "Bacteria rely on social cooperation to produce a biofilm that protects the community\n\nBacteria are tiny cells that can enter the human body and cause infections that make humans sick. In order to get better, the body needs to kill or stop the growth of these bacteria. Doctors give medicines called antibiotics to help the body get rid of an infection. Penicillin is a common antibiotic often used to stop bacteria from growing. It does this by preventing the bacteria from building a cell wall, which makes it difficult for it to grow and reproduce. However, bacteria can build resistance, or develop a defense against antibiotics. Random changes can happen to the bacteria’s genetic material, or DNA. DNA provides instructions that tells the cell how to operate. Certain changes in DNA can result in changes to a bacteria that make it resistant to an antibiotic, and this makes the antibiotic less effective at killing the bacteria.\n\nAnother way bacteria can protect themselves from antibiotics is to form a ‘biofilm’. A biofilm is a substance produced by bacteria that covers them and protects them from harm. Biofilms are the source of more than 60% of bacteria-causing diseases. For example, slimy films in swamps are biofilms. Forming biofilms is a social strategy that helps to protect bacteria. It can physically prevent antibiotics and disinfectants from coming close to the cell. It also protects the cell from removal by physical means, such as wiping or washing away on surfaces.\n\nAlthough biofilms are very useful, bacteria need to use energy and resources to grow them. Bacteria expel different substances to build and maintain the biofilm. A group of bacteria working together is called a colony . The colony needs all the cells to work together to grow and maintain the biofilm. Creating biofilms can benefit any cell underneath the film, even if some bacteria don’t produce the necessary substances. To visualize this, imagine a community of 50 people holding up a blanket to protect themselves. The blanket needs to be held up to be useful. Of the 50, 10 people may not be holding up the blanket but they will still be protected. However, if only 1 person is holding up the blanket then it will fail to protect everyone.\n\nThis strategy helps to strengthen the bacterial community as a whole. For it to work, a majority of the colony is expected to take part. Because there is a cost in energy and resources to produce the biofilm, if certain bacteria are not making the substances they can grow faster than those that are. Eventually, these bacteria will outnumber those putting energy into making the biofilm. Over time, there will be less bacteria contributing to making the biofilm and it won’t be as good at protecting all the bacteria. This makes them more vulnerable to antibiotics or being removed from surfaces.\n\nScientists are studying how bacteria make biofilms to help develop more effective antibiotics. They have developed a chemical (5-aryl-2-aminoimidazole-based inhibitor) that can stop bacteria from making biofilms. This makes it easier to kill the bacteria with antibiotics and makes it easier to remove them from surfaces.\n\nTo learn more about this biofilm inhibition strategy, watch this video from KU Leuven.\n\nImage: CDC/ Rodney M. Donlan, Ph.D.; Janice Carr (PHIL #7488), 2005. / Public Domain - No restrictions toggle icon Image: Dingo biloba / CC BY NC ND - Creative Commons Attribution + Noncommercial + NoDerivatives toggle icon right arrow right arrow\n\nRice University\n\nBehavioral model from Rice University uses individual contributions to model the collective behavior of a group.",
+  "function_addressed": [
+    "cooperate within the same species",
+    "physically assemble structure",
+    "protect from chemicals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/biofilms-protect-bacterial-communities/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "biofilms",
+    "protect",
+    "bacterial",
+    "communities"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

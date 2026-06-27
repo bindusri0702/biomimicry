@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-eyes-see-in-various-wavelengths",
+  "organism_common": "Birds",
+  "organism_scientific": "",
+  "strategy_summary": "Eyes of some birds, insects, and fish see better than humans because they can detect ultraviolet and/or infrared light. “The eyes of some birds, insects, and fish respond to ultraviolet wavelengths.",
+  "mechanism": "Eyes of some birds, insects, and fish see better than humans because they can detect ultraviolet and/or infrared light.\n\n“The eyes of some birds, insects, and fish respond to ultraviolet wavelengths. Other animals have a spectral response that includes red or near-infrared. This response is helpful in penetrating cloudy or murky conditions.” (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "navigate over land",
+    "navigate through liquid",
+    "navigate through air",
+    "sense light (non-visible spectrum) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/eyes-see-in-various-wavelengths/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "eyes",
+    "see",
+    "various",
+    "wavelengths"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

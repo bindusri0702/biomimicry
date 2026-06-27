@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-protein-gives-lifetime-elasticity-to-tissues",
+  "organism_common": "Vertebrates (Mammals, Fish, Birds, Reptiles)",
+  "organism_scientific": "",
+  "strategy_summary": "“Scientists have unravelled the shape of the protein that gives human tissues their elastic properties in what could lead to the development of new synthetic elastic polymer s…Elastin allows tissues in humans and other mammals to stretch, for example when the lungs expand and contract for respiration or when arteries…",
+  "mechanism": "“Scientists have unravelled the shape of the protein that gives human tissues their elastic properties in what could lead to the development of new synthetic elastic polymer s…Elastin allows tissues in humans and other mammals to stretch, for example when the lungs expand and contract for respiration or when arteries widen and narrow over the course of a billion heart beats. The study…has triumphed where engineering has so far failed by generating a molecule with near-perfect elasticity that will last a lifetime. ‘This high level of physical performance demanded of elastin vastly exceeds and indeed outlasts all human-made elastics. It is the co-ordinated assembly of many tropoelastins into elastin that gives tissues their stretchy properties and this exquisite assembly helps to generate elastic tissues as diverse as artery, lung and skin. We discovered that tropoelastin is a curved, spring-like molecule with a ‘foot’ region to facilitate attachment to cells. Stretching and relaxing experiments showed that the molecule had the extraordinary capacity to extend to eight-times its initial length and can then return to its original shape with no loss of energy, making it a near-perfect spring.’ [said researcher Dr Clair Baldock].” (Haworth 2011:1)",
+  "function_addressed": [
+    "manage tension",
+    "manage compression",
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/protein-gives-lifetime-elasticity-to-tissues/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "protein",
+    "gives",
+    "lifetime",
+    "elasticity",
+    "tissues"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-teeth-are-strong-and-resilient",
+  "organism_common": "Chiton",
+  "organism_scientific": "",
+  "strategy_summary": "The teeth of chitons resist cracking because of the highly ordered, submicroscopic architecture that features a partnership between hard mineral crystals and fibers. A remarkable characteristic of nature’s hard materials is their ability to resist cracking under stresses and strains.",
+  "mechanism": "The teeth of chitons resist cracking because of the highly ordered, submicroscopic architecture that features a partnership between hard mineral crystals and fibers.\n\nA remarkable characteristic of nature’s hard materials is their ability to resist cracking under stresses and strains. Generally speaking, the secret is their highly ordered, submicroscopic architecture that features a partnership between hard mineral crystals and flexible protein molecules.\n\nThe chiton tooth’s wear and crack resistance is interesting because it’s derived from an interactive foursome of carbohydrate, protein, metal ions, and mineral crystal. Magnetite mineral crystals impart the tooth with wear resistance while the carbohydrate, protein, and metal ions organize together to form long, thin fibers imbedded in the mineral crystal; the fibers impart the tooth with crack resistance. The interior of these fibers is an ordered carbohydrate (chitin) scaffold to which flexible proteins are tethered by amorphous chitin strings. The protein molecules, decorating the exterior of the chitin framework, are themselves adorned with metal ions (including sodium and magnesium), which are thought to foster a healthy connection between the fibers and the surrounding magnetite crystals.\n\nEastern Bearded Chiton (Chaetopleura apiculata) on the underside of a Slipersnail (Crepidula fornicata) shell.",
+  "function_addressed": [
+    "manage shear",
+    "manage mechanical wear",
+    "manage chemical wear",
+    "prevent deformation",
+    "preventing melting"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/teeth-are-strong-and-resilient/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "teeth",
+    "strong",
+    "resilient"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

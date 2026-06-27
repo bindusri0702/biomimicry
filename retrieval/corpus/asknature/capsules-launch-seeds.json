@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-capsules-launch-seeds",
+  "organism_common": "Sea fig",
+  "organism_scientific": "",
+  "strategy_summary": "The seeds of many Mesembryanthemums are launched from their capsules for dispersal thanks to a valve mechanism that uses rainwater as a trigger. “Most of the Namaqualand mesems [ Mesembryanthemums ], as they are known for short, do not scatter their seeds after flowering but retain them in capsules.",
+  "mechanism": "The seeds of many Mesembryanthemums are launched from their capsules for dispersal thanks to a valve mechanism that uses rainwater as a trigger.\n\n“Most of the Namaqualand mesems [ Mesembryanthemums ], as they are known for short, do not scatter their seeds after flowering but retain them in capsules. The structure of these devices is usually very intricate indeed. When the first rain falls, perhaps as a short and isolated shower, the capsules absorb moisture and swell, causing a star-shaped set of valves to open. But even now the seeds are not shed. That must wait for a second shower. Then a raindrop striking a valve operates a mechanism that flings out the seeds for a distance of yards.” (Attenborough 1995:278)",
+  "function_addressed": [
+    "sense atmospheric conditions",
+    "respond to signals",
+    "disperse seeds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/capsules-launch-seeds/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "capsules",
+    "launch",
+    "seeds"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

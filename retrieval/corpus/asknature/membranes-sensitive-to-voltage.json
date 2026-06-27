@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-membranes-sensitive-to-voltage",
+  "organism_common": "Common to all organisms",
+  "organism_scientific": "",
+  "strategy_summary": "Channels within cell membranes control movement of ions due to a voltage-sensitive sensor consisting of four proteins. “The membranes of living cells, from bacteria to humans, contain protein macromolecules that behave rather like field-effect transistors.",
+  "mechanism": "Channels within cell membranes control movement of ions due to a voltage-sensitive sensor consisting of four proteins.\n\n“The membranes of living cells, from bacteria to humans, contain protein macromolecules that behave rather like field-effect transistors. In transistors, the flow of electrons through a semiconductor ‘channel’ is governed by the voltage applied to a ‘gate’ electrode. With the protein equivalents—voltage-gated ion channels—an appropriate voltage, imposed across the cell membrane, causes the channels to open and allows a current of ions to cross the membrane. The control of ion flow through voltage-gated channels is very sensitive to the voltage across the cell membrane. By comparison, an electronic device such as a transistor is much less sensitive to applied voltage.” (Sigworth 2003:21)\n\nUniversity of Cambridge\n\nElectronic chip from University of Cambridge contains a mammalian cell membrane that behaves like a natural cell membrane, giving insight into the effects of viruses.",
+  "function_addressed": [
+    "modify concentration (of ions, solutes, etc.)"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/membranes-sensitive-to-voltage/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "membranes",
+    "sensitive",
+    "voltage"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

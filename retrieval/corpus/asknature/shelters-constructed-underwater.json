@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-shelters-constructed-underwater",
+  "organism_common": "Sandcastle worm",
+  "organism_scientific": "",
+  "strategy_summary": "Tube-like shelters of sandcastle worms are constructed from mineral particles using an underwater, quick-set glue. “Phragmatopoma californica, also called the Sandcastle worm, is a polychaete…which lives in intertidal zones off the coast of California.",
+  "mechanism": "Tube-like shelters of sandcastle worms are constructed from mineral particles using an underwater, quick-set glue.\n\n“Phragmatopoma californica, also called the Sandcastle worm, is a polychaete…which lives in intertidal zones off the coast of California. The worm deploys a crown of ciliated tentacles for capturing and transporting food and particulates from the water column to its mouth where the captured materials are evaluated with ciliated lips. Food is ingested, unsuitable particles are cast away, while particles judged to be of the right size, shape, composition, and surface chemistry for incorporation into the tube are passed to a pair of dexterous palps, the so-called building organ, located immediately ventral to the mouth. Two minute spots of proteinaceous adhesive are applied before the particles are pressed into place by the building organ onto the end of the tube. The worm wriggles the newly placed particles until the adhesive sets, which takes less than 30 s under cold salty water [3].” (Endrizzi & Stewart 2009:547)\n\nWatch video",
+  "function_addressed": [
+    "physically assemble structure",
+    "attach permanently"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shelters-constructed-underwater/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shelters",
+    "constructed",
+    "underwater"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

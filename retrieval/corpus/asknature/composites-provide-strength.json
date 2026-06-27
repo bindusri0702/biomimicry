@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-composites-provide-strength",
+  "organism_common": "Humboldt squid",
+  "organism_scientific": "",
+  "strategy_summary": "The beaks of jumbo squid are flexible near the body and stiff near the tip, as defined by varying degrees of water content in a composite of chitin nanofibrils infused with cross-linked proteins. Squid, like other cephalopods, have a hard, sharp beak for catching and devouring prey.",
+  "mechanism": "The beaks of jumbo squid are flexible near the body and stiff near the tip, as defined by varying degrees of water content in a composite of chitin nanofibrils infused with cross-linked proteins.\n\nSquid, like other cephalopods, have a hard, sharp beak for catching and devouring prey. While most other animals that have to bite and tear their food achieve the required level of hardness and strength through the incorporation of minerals, metal ions, or halogen atoms (fluorine, chlorine, bromine, or iodine) in their structure, the squid’s beak lacks any of these features. Instead, it’s a composite of reinforcing chitin nanofibrils infused with proteins containing catechol functional groups that form many strong cross linkages that act like cement. Given that squids live underwater, the process starts out in an aqueous environment. However, during the cross linking/hardening process, water is continuously expelled. The degree of water remaining in different areas of the composite material is thought to contribute to the gradient of flexibility along the length of the beak – flexible where it is attached to the body and increasingly stiff towards the far end. In other words, water content imparts flexibility, so a high water content is found at the flexible base of the beak where it attaches to the body. The water content gradually decreases further from the body – the tip of the beak is strong, stiff, and dehydrated. Layering keeps cracks from propagating.Video of Jumbo squid eating prey:\n\nImage: The Monterey Bay Aquarium Research Institute / toggle icon",
+  "function_addressed": [
+    "prevent fracture/rupture",
+    "manage mechanical wear",
+    "manage shear",
+    "manage compression",
+    "manage tension"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/composites-provide-strength/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "composites",
+    "provide",
+    "strength"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-flowers-accommodate-short-growing-season",
+  "organism_common": "Primrose",
+  "organism_scientific": "",
+  "strategy_summary": "High in the Alps and other European mountain ranges, the tiny pink dwarf snowbell (Soldanella pusilla) spends much of the year buried under many feet of snow. But because its blossom began forming the previous growing season, when it’s finally freed from frost sometime in July, the plant is ready to go.",
+  "mechanism": "The dwarf snowbell uses multiple adaptations to fit its reproductive cycle into such a short season. Beginning in the summer, it forms its flower buds, which then spend the first part of the winter dormant under the snow, poised to grow. It also stores bountiful amounts of sugar, which will provide energy for survival, growth, and development in the absence of sun.\n\nAs air temperatures plummet below freezing, it uses the insulating properties of snow to maintain its temperature at or near a tolerable 32 °F (0 °C), avoiding tissue damage from internal ice crystals.\n\nAnd remarkably, the dwarf snowbell doesn’t rely on external cues such as daylength—which would not be helpful under such heavy snow cover—to determine when to start developing its blossom. Rather, it uses an internal clock whose workings are not yet fully understood. Once the snow is reduced to a depth of 6 inches (15 centimeters) or so, the plant’s reddish flower stalk and pink flower absorb and radiate sunlight onto the snow around the plant. Thanks to the plant’s short stature, that heat then creates a warm patch in its immediate vicinity that helps the remaining snow covering the plant to melt.\n\nThe dwarf snowbell’s strategy for completing the cycle from blossom to seed in an extraordinarily short time might provide inspiration for enhancing the ability of crops to produce under short growing seasons or under cold conditions. The plant’s ability to speed snowmelt using dark colors offers insights for snow-removal technologies applicable to everything from maintaining highways to enhancing winter output of solar panels. And the use of snow for insulation could be applied to enhancing energy efficiency in buildings in cold climates, providing protection for livestock, and more.",
+  "function_addressed": [
+    "pollinate",
+    "adapt behaviors",
+    "protect from temperature",
+    "regulate reproduction or growth",
+    "capture, absorb, or filter energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/flowers-accommodate-short-growing-season/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flowers",
+    "accommodate",
+    "short",
+    "growing",
+    "season"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-two-egg-pigments-drive-parasite-arms-race",
+  "organism_common": "Birds",
+  "organism_scientific": "",
+  "strategy_summary": "In many cultures, eggs symbolize life, renewal, and rebirth. So, it’s not surprising that decorating eggs is one of the oldest forms of human art, dating back at least 60,000 years.",
+  "mechanism": "On the other hand, some brood parasites coevolve with a specific host species. Dr. Mary Caswell Stoddard, assistant professor of sensory ecology, evolution, and behavior at Princeton University, describes this coevolutionary competition as an “arms race,” where color is often the weapon of choice.\n\nSome evolve plumage or other traits that cause hatched fledglings to resemble their hosts. Others mimic host egg colors, wielding the same two pigments that all birds use to dye their eggshells—biliverdin, which is blue-green, and protoporphyn IX, which is rusty brown. But the hosts can fight back with evolutionary countermeasures.\n\nStoddard says that these tint tactics evolve slowly. “Often we’re talking hundreds or thousands of years. These are long-timescale processes,” she said. But recent research indicates some species may be able to adapt more rapidly, changing colors within about 50 years.\n\nIn addition to the benefits of improving our understanding of evolution, Stoddard said this research lights her fire because, despite the great diversity of color signals that exist in nature, these are unique. “These eggs are such extraordinary mimics in some cases, it is a reminder of just how impressive evolution can be at generating novel and beautiful colors and patterns,” she said. “And in this case, it’s for deception.”",
+  "function_addressed": [
+    "protect from animals",
+    "modify light/color",
+    "coevolve"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/two-egg-pigments-drive-parasite-arms-race/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "two",
+    "egg",
+    "pigments",
+    "drive",
+    "parasite",
+    "arms"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

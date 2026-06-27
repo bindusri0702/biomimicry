@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-hind-legs-amplify-power",
+  "organism_common": "Grasshoppers",
+  "organism_scientific": "",
+  "strategy_summary": "Imagine leaping over tall buildings in a single bound––for grasshoppers, that’s not comic-book heroics but sheer survival. These insects are real-life super-leapers, rocketing up to 20 times their body length in a single jump.",
+  "mechanism": "",
+  "function_addressed": [
+    "store energy",
+    "transform mechanical energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hind-legs-amplify-power/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "grasshoppers",
+    "store",
+    "energy",
+    "power",
+    "super",
+    "leaps"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

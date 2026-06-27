@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-maggots-eat-the-dead-but-heal-the-wounded",
+  "organism_common": "Green Bottle Fly",
+  "organism_scientific": "",
+  "strategy_summary": "An old mule deer stumbles to the ground in a forest and dies. The bacteria that had been living harmoniously within the deer immediately set about breaking its carcass down.",
+  "mechanism": "Green bottle flies are first at the scene of death, not because they’re ghoulish, but because their maggot offspring need soft dead tissue to eat. Maggots lack the teeth or beaks that would enable them to tear into old, dried-out meat, but the little larvae still have bite. Their mouth hooks and rough skin scrape away dead flesh as they crawl across a carcass. Then they secrete enzymes that liquefy the dead tissue, making it easier to swallow and digest.\n\nMaggot salivary glands, guts, and other digestive organs secrete the enzymes, called “peptidases,” which work by breaking down proteins. Maggot secretions don’t just contain a pinch of peptidase; they are more like enzyme stew. Scientists used genetic sequencing of their secretions to identify 185 individual peptidase enzymes.\n\nFor the record, all biological organisms—including plants, viruses, and people—use peptidases. These enzymes play critical roles in metabolism, reproduction, growth, and immune systems. While the functions of some individual peptidases are known, others are not. Moreover, their actions and mechanisms vary across species.\n\nThere are accounts of caregivers making use of maggots to help heal wounds among the Maya, Aboriginal Australians, and other indigenous cultures. In Renaissance Europe, the benefits were acknowledged but not cultivated. By the time of the U.S. Civil War, at least one surgeon was intentionally applying maggots to the wounds of soldiers, saying, “In a single day, [maggots] would clean a wound much better than any agents we had at our command.” Maggot wound therapy declined with the advent of antibiotics but rebounded with the rise of drug-resistant bacteria.\n\nToday, “maggot wound debridement” remains an alternative therapy for treating persistent wounds and infections in patients with severe burns, diabetes, and other ailments that hinder healing.\n\nSome researchers are even going beyond “bio-utilizing” maggots directly on wounds. Isolating and reproducing maggot enzymes has already led to gels that mimic how medicinal maggots help people on the mend. In the future, understanding maggot secretions may lead to new antibiotics, anti-inflammatory medicines, and coagulants.\n\nMaggots exemplify why we shouldn’t judge organisms as good or bad based on appearances or habits we find off-putting. If we look away, we may miss a valuable opportunity to learn.",
+  "function_addressed": [
+    "chemically break down organic compounds",
+    "physically break down living materials",
+    "protect from microbes",
+    "distribute energy",
+    "distribute gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/maggots-eat-the-dead-but-heal-the-wounded/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "maggots",
+    "eat",
+    "dead",
+    "but",
+    "heal",
+    "wounded"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

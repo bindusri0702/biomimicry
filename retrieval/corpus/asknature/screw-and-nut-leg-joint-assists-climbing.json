@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-screw-and-nut-leg-joint-assists-climbing",
+  "organism_common": "Move in/on Solids",
+  "organism_scientific": "",
+  "strategy_summary": "Screw-and-nut leg joint of the Papuan weevil allows rotational movement combined with single axis translation. Coxa-Trochanter joint of weevil Trigonopterus oblongus.",
+  "mechanism": "Screw-and-nut leg joint of the Papuan weevil allows rotational movement combined with single axis translation.\n\nCoxa-Trochanter joint of weevil Trigonopterus oblongus. Trochanter functions as biological screw, coxa as corresponding nut.\n\n“It is remarkable that in the case of the weevil leg a rotary movement is accomplished by a screw-and-nut system. In engineering, such systems are mainly used for fixing connections, whereas an axle would be used for a simple rotation. The possible advantages and disadvantages of a screw-and-nut system over an axle in a leg joint may be most apparent at its end points. In ventral position, when fully tightened, the joint comes to a dead stop. One possible disadvantage, the danger of overwinding the thread, then is negligible, because the depressor muscles are already fully contracted at that point. We suggest that an advantage of this construction is that the leg comes to a stable resting position, preventing passive straining of leg muscles, which would not be accomplished by an axle construction. If the weevil’s leg is pulled in the opposite direction over its back, the muscles are torn off, and the trochanter can be neatly dislodged from the coxal nut. Such dislocation can be produced with the help of delicate forceps. Under natural circumstances, this is a highly unlikely event, because the beetle’s natural defensive reflex is to bring the legs into a ventral position if attacked by a predator.” (van de Kamp et al 2011:52)\n\n“As a rule, weevils are clumsier than many other beetles, e.g. carabidae. Transformation of a hinge joint into a screw joint, however, allowed them to move their legs further down, which made them better climbers. The Trigonopterus oblongus weevil analyzed here lives on twigs and foliage in the jungle of Papua New Guinea. For feeding, the thorn is pushed into the plant tissue, while the hind legs provide strong foothold. Presumably, the screw joint also is advantageous in this respect.\n\n“‘Meanwhile, we have also studied other weevil species and always found screw joints,’ explain Riedel and van de Kamp. ‘Obviously, this joint exists in all weevils, of which more than 50,000 species exist worldwide.’ In this case, the researchers would have identified the screw joint to be a so far unknown basic feature of the weevil family. The best known species in Germany are Curculio nucum and curculio glandium as well as the corn weevil, a grain pest.” ( Karlsruhe Institute of Technology press release )",
+  "function_addressed": [
+    "move in/on solids",
+    "manage mechanical wear"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/screw-and-nut-leg-joint-assists-climbing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "screw-and-nut",
+    "leg",
+    "joint",
+    "assists",
+    "climbing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

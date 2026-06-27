@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-stiff-platelets-create-building-blocks",
+  "organism_common": "Animals",
+  "organism_scientific": "",
+  "strategy_summary": "Tissues of many animals are hard due to platelets arranged in a staggered micro-array inside a flexible matrix. Hard tissues are found in countless places throughout nature (e.g., materials such as collagen, nacre, teeth, bone, etc.).",
+  "mechanism": "Tissues of many animals are hard due to platelets arranged in a staggered micro-array inside a flexible matrix.\n\nHard tissues are found in countless places throughout nature (e.g., materials such as collagen, nacre, teeth, bone, etc.). While each tissue experiences different material and structural properties, researchers have found an underlying building block that is found throughout many of these hard tissues. That building block consists of stiff platelets arranged in a staggered micro-array inside a flexible matrix. This arrangement of molecules helps to create strong, hard surfaces capable of withstanding tensile and compressive forces (though different tissues withstand different amounts).\n\nMollusks (Snails, Octopuses)\n\nPlates in nacre increase toughness by interlocking",
+  "function_addressed": [
+    "manage mechanical wear"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/stiff-platelets-create-building-blocks/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "stiff",
+    "platelets",
+    "create",
+    "building",
+    "blocks"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

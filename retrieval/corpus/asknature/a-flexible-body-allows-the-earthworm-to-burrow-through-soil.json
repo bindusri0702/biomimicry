@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-a-flexible-body-allows-the-earthworm-to-burrow-through-soil",
+  "organism_common": "Earthworm",
+  "organism_scientific": "",
+  "strategy_summary": "Earthworms are commonly found in healthy soils, whether it’s your backyard or a grassland. They are soft, slimy tube-shaped organisms without a skeleton or limbs.",
+  "mechanism": "The soft, flexible body of the earthworm is divided into segments, which allows it to easily move through the soil to find food. The earthworm’s body is also known as a hydrostatic skeleton, which is a flexible skeleton filled with fluid. A common earthworm (L. terrestris ) can range from 110-200 mm in length with anywhere from 135-150 segments in its body. Each segment of the worm’s body contains muscles that work independently of every other segment. The internal walls separate the segments and are lined with circular and longitudinal muscles. Circular muscles are wrapped around the circumference of each segment Longitudinal muscles extend down the length of each segment. The muscles create a soft barrier between segments, allowing the segments to be controlled independently. Inside each segment, there is fluid that holds the segment’s shape. As the earthworm burrows, it squeezes into tightly packed soil. This creates a high-pressure environment that could damage the worm. However, the fluid inside the segments helps prevent damage to the earthworm. Fluid cannot change volume because the molecules in the fluid are very close together. The high-pressure environment cannot press the molecules even closer, thus maintaining the earthworm’s shape.\n\nAn earthworm has a special ability to crawl through tight spaces. Humans have designed robots to mimic this crawling motion. These robots could be made to burrow deep underground and distribute materials or test underground conditions quickly without the need to dig large holes.\n\nThis strategy was contributed by Sue White and edited by Natalie Chen.",
+  "function_addressed": [
+    "optimize shape/materials",
+    "prevent buckling",
+    "manage compression",
+    "distribute gases",
+    "distribute liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/a-flexible-body-allows-the-earthworm-to-burrow-through-soil/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flexible",
+    "body",
+    "allows",
+    "earthworm",
+    "burrow",
+    "through"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

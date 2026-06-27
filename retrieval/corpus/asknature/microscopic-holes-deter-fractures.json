@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-microscopic-holes-deter-fractures",
+  "organism_common": "Sea stars",
+  "organism_scientific": "",
+  "strategy_summary": "Ossicles of starfish resist fractures via microscopic holes in the structure. “Use ‘foamy’ materials in which any threatening crack will be in short order run into a hole.",
+  "mechanism": "Ossicles of starfish resist fractures via microscopic holes in the structure.\n\n“Use ‘foamy’ materials in which any threatening crack will be in short order run into a hole. Not only does this reduce the chance of cracking, but it saves material–less can be more…The little hard bits of echinoderms, the ossicles, develop as single crystals, but they avoid the excessive brittleness typical of crystals by being especially holey, as in figure 16.9. Wood gains some material benefit from similar voids. Such materials come under the heading of ‘cellular solids,’ the term having no connection with ‘cellular’ in the strictly biological sense–but in the sense that Hooke…originally used the word for the microscopic holes in cork.” (Vogel 2003:338-339)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
+  "function_addressed": [
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/microscopic-holes-deter-fractures/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "microscopic",
+    "holes",
+    "deter",
+    "fractures"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

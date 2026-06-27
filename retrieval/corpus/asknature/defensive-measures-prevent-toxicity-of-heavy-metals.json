@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-defensive-measures-prevent-toxicity-of-heavy-metals",
+  "organism_common": "Thale cress",
+  "organism_scientific": "",
+  "strategy_summary": "Cells of thale cress protect themselves from dissolved heavy metals by releasing compounds that bind the metal ions or neutralize the destructive substances they spawn. When exposed to toxic heavy metals like nickel, lead, cadmium, and mercury in the soil, plants initiate a complex sequence of steps to counteract the…",
+  "mechanism": "Cells of thale cress protect themselves from dissolved heavy metals by releasing compounds that bind the metal ions or neutralize the destructive substances they spawn.\n\nWhen exposed to toxic heavy metals like nickel, lead, cadmium, and mercury in the soil, plants initiate a complex sequence of steps to counteract the effects of these poisons. Defensive measures prevent metals from getting inside cells, sequester and neutralize metals that do enter the cell, or mitigate damage caused by the metals that overwhelm these defenses.\n\nTwo mechanisms keep metal ions out of plant cells. In one case, the plant releases chelating agents into the soil which form molecular “cages” around the metal ions making them too bulky to fit through slim ion channels in the cells’ protective outer cell wall. Alternatively, compounds in the cell wall material (hystidyl groups, pectic sites, and certain carbohydrates) bind to the metal ions keeping them away from the cells’ internal machinery. Of course, these preventative defensive measures can be overwhelmed by high concentrations of the metals so other means of protection are required. When metal ions do get into the cell, efflux pumps (heavy metal ATPases and HMAs) actively pump metal ions out of the cells and back into the soil or into isolated spaces within the cell (vacuoles) where they are effectively sequestered. If concentrations of the metals are particularly high, the plant cells will pump the metals into its vascular network so that they can be carried to the shoots where they become imprisoned in vacuoles. Metal ions that do get past these defenses can destroy plant cells by producing reactive compounds such as hydrogen peroxide. Presence of these damaging compounds trigger cells to produce defense chemicals that, in turn, scavenge or destroy them.\n\nImage: Quentin Groom / toggle icon",
+  "function_addressed": [
+    "regulate cellular processes",
+    "protect from chemicals",
+    "protect from dirt/solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/defensive-measures-prevent-toxicity-of-heavy-metals/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "defensive",
+    "measures",
+    "prevent",
+    "toxicity",
+    "heavy",
+    "metals"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

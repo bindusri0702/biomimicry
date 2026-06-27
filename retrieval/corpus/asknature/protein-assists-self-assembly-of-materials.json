@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-protein-assists-self-assembly-of-materials",
+  "organism_common": "Orange puffball sponge",
+  "organism_scientific": "",
+  "strategy_summary": "Silica structures of sponges self-assemble with the help of silicatein (a protein). “The growing demand for benign materials synthesis methods has spawned research on self-assembly in living organisms.",
+  "mechanism": "Silica structures of sponges self-assemble with the help of silicatein (a protein).\n\n“The growing demand for benign materials synthesis methods has spawned research on self-assembly in living organisms. In sponges, silica structures are formed at ambient conditions with the help of silicatein, a protein that hydrolyzes and condenses the precursor molecule tetraethoxysilane. Researchers at the University of California, Santa Barbara synthesized cysteine-lysine block copolypeptides mimicking the properties of silicatein. The copolypeptides self-assembled into structured aggregates that hydrolyzed tetraethoxysilane while simultaneously directing the formation of ordered silica structures. Different types of silica structures could be produced by differentially oxidizing the cysteine sulphydryl groups. Species studied was Tethya aurantia .” (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "chemically assemble polymers",
+    "chemically assemble inorganic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/protein-assists-self-assembly-of-materials/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "protein",
+    "assists",
+    "self-assembly",
+    "materials"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

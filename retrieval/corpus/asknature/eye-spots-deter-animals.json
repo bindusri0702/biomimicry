@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-eye-spots-deter-animals",
+  "organism_common": "Coastal spicebush swallowtail",
+  "organism_scientific": "",
+  "strategy_summary": "Eyespots of the spicebush swallowtail butterfly caterpillar protect it from predators because their tear shape creates an illusion of movable, watchful eyes. “The directionality of P.",
+  "mechanism": "Eyespots of the spicebush swallowtail butterfly caterpillar protect it from predators because their tear shape creates an illusion of movable, watchful eyes.\n\n“The directionality of P. troilus ‘s stare is achieved through a very simple design feature: the shape of the dark pupillary marking in the center of the eye. That marking, instead of being circular as it commonly is in actual eyes, is tear-shaped in the caterpillar’s imitative version. It consists essentially of two portions: the basic circular marking, and a triangular anterior add-on that merges seamlessly with it. Leave out the add-on, and you have an eye with a circular pupil that is not nearly as able to convey the impression of looking forward or to the side.” (Eisner 2003:96-97)",
+  "function_addressed": [
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/eye-spots-deter-animals/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "eye",
+    "spots",
+    "deter",
+    "animals"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

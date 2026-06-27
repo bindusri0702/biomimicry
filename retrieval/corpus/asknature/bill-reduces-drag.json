@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-bill-reduces-drag",
+  "organism_common": "Black skimmer",
+  "organism_scientific": "",
+  "strategy_summary": "The bill of a skimmer bird reduces drag because it is laterally flattened. A flock of black skimmers showing their dorso-laterally flattened beaks.",
+  "mechanism": "The bill of a skimmer bird reduces drag because it is laterally flattened.\n\nA flock of black skimmers showing their dorso-laterally flattened beaks.\n\n“To compensate for the wear caused by friction with the water, the skimmer’s lower mandible grows faster than the upper one, and in adult birds it is usually longer. The bill is laterally flattened, which reduces drag to a minimum.” (Foy and Oxford Scientific Films 1982:154)",
+  "function_addressed": [
+    "move in/through gases",
+    "manage turbulence"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bill-reduces-drag/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bill",
+    "reduces",
+    "drag"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

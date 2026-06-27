@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-disklike-structures-adhere-to-smooth-surfaces",
+  "organism_common": "Spix's disk-winged bat",
+  "organism_scientific": "",
+  "strategy_summary": "Disklike structures on the wrists and ankles of Spix's disk-winged bat adhere to smooth leaves using suction adhesion. “Several of the smallest bats, for instance, use [suction adhesion] to cling to smooth leaves, with disklike structures on wrists and ankles.",
+  "mechanism": "Disklike structures on the wrists and ankles of Spix's disk-winged bat adhere to smooth leaves using suction adhesion.\n\n“Several of the smallest bats, for instance, use [suction adhesion] to cling to smooth leaves, with disklike structures on wrists and ankles. In the 3.5-gram Thyroptera tricolor of Central America, suction provides the main mechanism; these bats’ minimal reliance on other schemes such as the two kinds of wet adhesion that follow [Stefan and capillary] limits their ability to cling to anything but smooth surfaces (Riskin and Fenton 2001).” (Vogel 2003:427)",
+  "function_addressed": [
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/disklike-structures-adhere-to-smooth-surfaces/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "disklike",
+    "structures",
+    "adhere",
+    "smooth",
+    "surfaces"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

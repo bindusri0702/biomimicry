@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-deep-divers-manage-temperature",
+  "organism_common": "Cuvier's beaked whale",
+  "organism_scientific": "",
+  "strategy_summary": "Veins and arteries of Cuvier's beaked whales manage heat through different configurations of counter-current heat exchangers. “In general, mammals possess two venous returns from their extremities: one deep and warmed; one superficial and cooled (Fig.",
+  "mechanism": "Veins and arteries of Cuvier's beaked whales manage heat through different configurations of counter-current heat exchangers.\n\n“In general, mammals possess two venous returns from their extremities: one deep and warmed; one superficial and cooled (Fig. 11). In the deep veins, which are adjacent to nutrient arterial supplies, countercurrent heat exchange (CCHE) occurs if the temperature of the arteries is higher than that of the veins (Figs 11-13; Schmidt-Nielsen, 1990; Scholander, 1940; Scholander and Schevill, 1955); warmed blood is returned and body heat is trapped in the core…Three examples of CCHEs found in cetaceans are…a flat array of juxtaposed arteries and veins found in the reproductive coolers of cetaceans…a vascular bundle, an array of relatively straight, parallel channels, an optimum configuration for CCHE (Scholander, 1940), such as is found in the chevron canals of cetacea…[and] a periarterial venous rete (PAVR), which is a rosette of veins surrounding an artery. These CCHEs are found in the circulation of cetacean fins (Figs 13d and 13e), flukes and flippers (Scholander, 1940; Scholander and Schevill, 1955)…Superficial veins of a cetacean can supply cooled blood to the body core (Fig. 12a). The veins carrying this blood feed into bilaterally paired reproductive coolers (Figs 12d-g) (Rommel et al., 1992; Pabst et al., 1998). In addition to providing thermoregulation for the reproductive system, cooled blood from the periphery is also returned to the heart via large epidural veins (Figs 12d; Figs 13 and 14), which perform some of the functions of the azygous system in other mammals (Rommel et al., 1993; Tomlinson, 1964). In deep divers, such as beaked whales and sperm whales, these epidural veins are even larger than those observed in delphinids (S. Rommel, pers. obs.).” (Rommel et al. 2006:197-198)",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/deep-divers-manage-temperature/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "deep",
+    "divers",
+    "manage",
+    "temperature"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

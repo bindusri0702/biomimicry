@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-eyes-see-in-the-dark",
+  "organism_common": "Oilbird",
+  "organism_scientific": "",
+  "strategy_summary": "Eyes of oilbirds allow them to see in dark caves by having rod receptors arranged in a banked structure, providing the highest photoreceptor density recorded in vertebrate eyes. “An extreme example of a low light-level lifestyle among flying birds is provided by the oilbird, Steatornis caripensis (Steatornithidae…",
+  "mechanism": "Eyes of oilbirds allow them to see in dark caves by having rod receptors arranged in a banked structure, providing the highest photoreceptor density recorded in vertebrate eyes.\n\n“An extreme example of a low light-level lifestyle among flying birds is provided by the oilbird, Steatornis caripensis (Steatornithidae, Caprimulgiformes). Oilbirds breed and roost in caves, often at sufficient depth that no daylight can penetrate, and forage for fruits at night. Using standard microscopy techniques we investigated the retinal structure of oilbird eyes and used an ophthalmoscopic reflex technique to determine the parameters of these birds’ visual fields. The retina is dominated by small rod receptors (diameter 1.3±0.2 μm; length 18.6±0.6 μm) arranged in a banked structure that is unique among terrestrial vertebrates. This arrangement achieves a photoreceptor density that is the highest so far recorded (≈1,000,000 rods mm –2 ) in any vertebrate eye. Cone photoreceptors are, however, present in low numbers. The eye is relatively small (axial length 16.1±0.2 mm) with a maximum pupil diameter of 9.0±0.0 mm, achieving a light-gathering capacity that is the highest recorded in a bird (f-number ≈1.07). The binocular field has a maximum width of 38° and extends vertically through 100° with the bill projecting towards the lower periphery; a topography that suggests that vision is not used to control bill position. We propose that oilbird eyes are at one end of the continuum that juxtaposes the conflicting fundamental visual capacities of sensitivity and resolution. Thus, while oilbird visual sensitivity may be close to a maximum, visual resolution must be low. This explains why these birds employ other sensory cues, including olfaction and echolocation, in the control of their behaviour in low-light-level environments.” (Martin et al. 2004:26)\n\n“Within caves, and above the tree canopy at night, oilbirds would seem well equipped to detect the lowest light levels that may occur there and hence be able to use vision for general orientation, but not for tasks involving high spatial resolution. This general orientation is perhaps complemented by tactile cues from the prominent rictal bristles (Fig. 1a) at close range. At an intermediate distance, echolocation and other auditory signals may provide cues for the presence of objects and conspecifics, while olfaction may provide cues to the presence of fruit food sources at greater distances.” (Martin et al. 2004:29)",
+  "function_addressed": [
+    "optimize shape/materials",
+    "sense light (visible spectrum) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/eyes-see-in-the-dark/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "eyes",
+    "see",
+    "dark"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-membranes-distinguish-sweet-from-sour",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "The membrane of colon bacilli cells find sweet-tasting chemicals and avoid bitter or sour ones via sensory proteins. “Chemoreception occurs even in unicellular organisms…Protozoa such as amoebae and microbes such as colon bacilli show chemotaxis; they gather and escape from some chemical substances.",
+  "mechanism": "The membrane of colon bacilli cells find sweet-tasting chemicals and avoid bitter or sour ones via sensory proteins.\n\n“Chemoreception occurs even in unicellular organisms…Protozoa such as amoebae and microbes such as colon bacilli show chemotaxis; they gather and escape from some chemical substances. The former is called positive chemotaxis and the latter negative chemotaxis. Colon bacilli show positive chemotaxis for amino acids tasting sweet and negative chemotaxis for chemical substances tasting strongly bitter or sour. This behavior is quite reasonable because substances tasting sweet become energy sources for living organisms whereas substances tasting strongly bitter or sour are often harmful.” (Toko 2000:26)",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/membranes-distinguish-sweet-from-sour/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "membranes",
+    "distinguish",
+    "sweet",
+    "sour"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

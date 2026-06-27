@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-antennae-detect-odors",
+  "organism_common": "Nevada termite",
+  "organism_scientific": "",
+  "strategy_summary": "Odor-binding proteins on the antennae of dampwood termites mediate the transport of odoriferous chemicals to the olfactory nerves by encapsulating the hydrophobic scent chemicals in a water soluble coating. For human beings, sight, hearing, and touch are the primary means of perceiving the world.",
+  "mechanism": "Odor-binding proteins on the antennae of dampwood termites mediate the transport of odoriferous chemicals to the olfactory nerves by encapsulating the hydrophobic scent chemicals in a water soluble coating.\n\nFor human beings, sight, hearing, and touch are the primary means of perceiving the world. However, many animals rely heavily on the sense of smell to detect food sources, predators, nesting sites, etc. Animals can smell a scent chemical emanating from a source only when that chemical comes in contact with receptors associated with its nervous system (hence the term chemoreception). In dampwood termites, there is a water-based fluid layer between the surface of antennae sensors and the olfactory nerve beneath. Chemical signals, however, are almost invariably insoluble in water and therefore unable to cross the thin aqueous layer unaided. That help comes from odor-binding proteins that encapsulate the scent chemicals in a water-soluble coating giving them a free pass through the layer. Negatively charged receptors on the surface of the olfactory nerves cause a structural change in the surface coating which causes the encapsulated scent chemical to be ejected onto the nerve receptor.\n\nImage: Emily Harrington / Copyright © - All rights reserved toggle icon",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities",
+    "modify solubility (dissolving, emulsifying, precipitating, crystallizing)",
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/antennae-detect-odors/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "antennae",
+    "detect",
+    "odors"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

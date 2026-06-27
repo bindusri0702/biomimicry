@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-cuticle-provides-protection",
+  "organism_common": "Arthropods (Insects, Spiders, Crustaceans)",
+  "organism_scientific": "",
+  "strategy_summary": "The cuticle of arthropods provides rigid protection via its composite structure. “What we’re calling rigid materials includes a lot of familiar biological items.",
+  "mechanism": "The cuticle of arthropods provides rigid protection via its composite structure.\n\n“What we’re calling rigid materials includes a lot of familiar biological items. There’s arthropod cuticle, a composite of chitin fibers in some proteinaceous material, with the addition of calcium carbonate salt in the larger crustaceans. In many instances, the fibers are arranged in sheets, each with a specific orientation, rather like plywood.” (Vogel 2003:305)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
+  "function_addressed": [
+    "manage compression",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/cuticle-provides-protection/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "cuticle",
+    "provides",
+    "protection"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

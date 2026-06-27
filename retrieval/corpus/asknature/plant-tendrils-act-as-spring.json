@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-plant-tendrils-act-as-spring",
+  "organism_common": "Garden cucumber",
+  "organism_scientific": "",
+  "strategy_summary": "Instead of spending the energy to build massive trunks as trees do, vining plants—like ivy climbing an old house—“borrow” height from neighbors, grappling onto them and hauling themselves towards the sky. Cucumber plants, for example, grow tendrils that whip around in circles until they snare something they can scale.",
+  "mechanism": "Once attached an object, a cucumber tendril coils to create a transition point in the middle, with oppositely handed spirals, or helices , above and below. This coiling helps to shorten the tendril and lift the plant up towards the attachment point.\n\nScientists at Harvard University decided to unravel the mystery by pulling apart a tendril. When they stretched the two ends apart, they expected it to unwind and flatten. The plot twist was that pulling the two ends apart actually added twists—the first known example of an “overwinding” spring.\n\nTo understand why the tendrils would curl more under tension, the scientists analyzed their structures and found relatively flat ribbons of fiber within. These fiber ribbons are made of two layers of cells that contain lignin, a rigid organic polymer . Furthermore, the inside layer has more lignin than the outside, making it stiffer.\n\nThe scientists called cucumber tendrils “auto-adaptive” springs because of their two-fold response to tension. Given that springs are like batteries for mechanical energy, smart springs and overwinding springs could help us store energy in new ways.\n\nApplications of this strategy could lead to efficient climbing robots or dampers for stability of damaged structures. They could be used to alter surface area for selective collection of oils, dyes, pollutants, or even harmful micro-organisms.",
+  "function_addressed": [
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/plant-tendrils-act-as-spring/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "plant",
+    "tendril",
+    "acts",
+    "spring"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

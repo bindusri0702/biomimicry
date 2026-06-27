@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-slime-rapidly-expands-and-protects",
+  "organism_common": "Hagfish",
+  "organism_scientific": "",
+  "strategy_summary": "Glands of the hagfish secrete a concentrated slime that expands rapidly and protects from predators via interacting fibers and water-holding proteins. Hagfishes are marine, bottom-dwelling fishes that release large amounts of slime into the surrounding water when disturbed.",
+  "mechanism": "Glands of the hagfish secrete a concentrated slime that expands rapidly and protects from predators via interacting fibers and water-holding proteins.\n\nHagfishes are marine, bottom-dwelling fishes that release large amounts of slime into the surrounding water when disturbed. The mass of slime consists of mucins (a type of protein with high water-holding capacity), long protein threads, and the seawater that these two interacting components temporarily trap amongst them.\n\nThe formation of this slime starts in gland s lining the hagfish body, along which slime gland openings are visible as pores. Protein threads are initially tightly coiled into gland thread cells, resembling skeins of yarn, while mucins are held within vesicles (membrane-bound sacs) in gland mucous cells. Both types of cells are packed into each slime gland, which is surrounded by muscles. When the hagfish contracts these gland muscles, the thread cells and mucous cells are pushed out as a concentrated mixture through the gland duct. Travelling through the duct and actively mixing with seawater outside the gland opening cause the cells to burst and release their packaged contents into the water. The bundled protein threads unravel and the mucins from ruptured vesicles attach to them, and this network rapidly expands into a large, dilute mass of slime that temporarily holds water like a fine sieve.\n\nWatch this video to see hagfish thread bundles spontaneously unravel in seawater.\n\nResearchers believe that the slime functions as a defense against predators with gills, which can become clogged with the fibrous slime. Check out this underwater video footage demonstrating that hagfish can slime their way out of a predatory encounter. Video from Bernards et al. 2014. J. Exp. Biol. 217:1263-1268\n\nVideo from Zintzen et al. 2011. Sci. Rep. 1:131",
+  "function_addressed": [
+    "optimize shape/materials",
+    "modify size/shape/mass/volume",
+    "protect from animals",
+    "capture, absorb, or filter liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/slime-rapidly-expands-and-protects/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "slime",
+    "rapidly",
+    "expands",
+    "protects"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

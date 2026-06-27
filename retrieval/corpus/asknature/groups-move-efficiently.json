@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-groups-move-efficiently",
+  "organism_common": "Burchell's army ant",
+  "organism_scientific": "",
+  "strategy_summary": "Army ants move efficiently in large numbers by maintaining three lanes of traffic; two outer lanes travel opposite the inner lane and are governed by behavioral differences related to possession of food. “By forming three lanes of traffic during hunting expeditions, army ants in Panama come close to achieving the…",
+  "mechanism": "Army ants move efficiently in large numbers by maintaining three lanes of traffic; two outer lanes travel opposite the inner lane and are governed by behavioral differences related to possession of food.\n\n“By forming three lanes of traffic during hunting expeditions, army ants in Panama come close to achieving the maximum possible rate of traffic flow. Given that army ants are blind, and that a hunting party might consist of 200,000 ants marching in opposite directions, it is surprising that they are able to maintain such efficiency. The answer lies in the behavioral differences between ants with food and ants without. Ants returning from a successful hunt are less likely to deviate when bumped. Weighed down by their prize, they simply continue to march in a line, guided by the pheromone trail of the ants in front of them. Ants traveling away from the nest carry no food, and are more likely to get out of the way. The result is a middle lane of food-toting ants moving in one direction, and two outer lanes of unburdened ants moving in the opposite direction. Using a computer model, researchers from Princeton University and the University of Bristol learned that, as behavioral differences decrease, traffic efficiency goes down. If burdened and unburdened ants behaved in roughly the same way, the three-lane system would deteriorate.” (Courtesy of the Biomimicry Guild)\n\nWatch video",
+  "function_addressed": [
+    "coordinate by self-organization"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/groups-move-efficiently/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "groups",
+    "move",
+    "efficiently"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

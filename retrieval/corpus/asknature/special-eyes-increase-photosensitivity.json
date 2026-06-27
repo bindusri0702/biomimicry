@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-special-eyes-increase-photosensitivity",
+  "organism_common": "Javelin spookfish",
+  "organism_scientific": "",
+  "strategy_summary": "The eyes of spookfish increase photosensitivity in deep water via accessory eyes. “The six-eyed spookfish ( Bathylychnops exilis ) has an optical system that is unique in the animal kingdom.",
+  "mechanism": "The eyes of spookfish increase photosensitivity in deep water via accessory eyes.\n\n“The six-eyed spookfish ( Bathylychnops exilis ) has an optical system that is unique in the animal kingdom. Unknown to scientists until as recently as 1958, and dwelling at depths of 330-3280 feet (100-1000 m), this slender pike-like fish has paired, downward-pointing, spherical organs housed within the lower half of its large eyes. These were once believed to be light-producing organs – bioluminescence is a common phenomenon among deep-sea fishes. Closer examination, however, exposed their much more extraordinary, true identity. In reality, these organs, now referred to as secondary globes, are accessory eyes. Each of these globes possesses its own lens and retina and probably serves to increase the spookfish’s sensitivity to light (photosensitivity) within its dimly lit undersea realm.\n\n“But this is not the only anomaly of its optical system. Scientists subsequently unfurled a further surprise associated with the fish’s accessory eyes. Behind them is a third set of ‘eyes,’ even tinier than the secondary globes, but less sophisticated. These ‘eyes’ lack retinae. Instead, they serve merely to direct incoming light into the spookfish’s principal pair of eyes, thereby enhancing these latter organs’ powers of vision.” (Shuker 2001:13)",
+  "function_addressed": [
+    "sense light (visible spectrum) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/special-eyes-increase-photosensitivity/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "special",
+    "eyes",
+    "increase",
+    "photosensitivity"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

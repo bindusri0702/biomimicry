@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-vision-enables-stealth-communication",
+  "organism_common": "Scarab beetles",
+  "organism_scientific": "",
+  "strategy_summary": "The vision of jewel scarab beetles allows them to find each other while evading enemies thanks to the detection of circularly polarized light. “According to researchers from the University of Texas, the jewel scarab species Chrysina gloriosa can distinguish between circularly polarized and unpolarized light.",
+  "mechanism": "The vision of jewel scarab beetles allows them to find each other while evading enemies thanks to the detection of circularly polarized light.\n\n“According to researchers from the University of Texas, the jewel scarab species Chrysina gloriosa can distinguish between circularly polarized and unpolarized light. That ability could provide the beetles with a tremendous advantage, the researchers say, because most of the light reflected off these beetles’ colorful bodies happens to be circularly polarized.\n\n“‘The trait would allow the beetles to easily see each other while simultaneously hiding from predators that cannot see circular polarized light,’ said physicist Parrish Brady, who conducted the research with Molly Cummings …\n\n“Because ability to see CP light is very rare in nature, it’s not likely that any of the beetles’ predators can see it. So the ability to both see and reflect CP light probably evolved to allow jewel scarabs to communicate with each other while staying hidden from predators …” (Science Daily 2010)\n\nhttp://www.journals.uchicago.edu/doi/abs/10.1086/651593 http://www.sciencedaily.com/releases/2010/04/100419102924.htm",
+  "function_addressed": [
+    "sense light (non-visible spectrum) from the environment",
+    "send light signals in the non-visible spectrum",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/vision-enables-stealth-communication/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "vision",
+    "enables",
+    "stealth",
+    "communication"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

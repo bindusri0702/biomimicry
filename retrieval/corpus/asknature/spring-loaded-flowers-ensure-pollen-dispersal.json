@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-spring-loaded-flowers-ensure-pollen-dispersal",
+  "organism_common": "Sandalwood family",
+  "organism_scientific": "",
+  "strategy_summary": "Flowers of the mistletoe use stored mechanical energy to release pollen. In order to increase the amount of pollen they disperse, several varieties of mistletoe have developed “spring-loaded” flowers that burst open, showering pollen on visiting pollinators.",
+  "mechanism": "Flowers of the mistletoe use stored mechanical energy to release pollen.\n\nIn order to increase the amount of pollen they disperse, several varieties of mistletoe have developed “spring-loaded” flowers that burst open, showering pollen on visiting pollinators.\n\nThese spring-loaded flowers generate tension as stored mechanical energy. Tension is generated within the flower as the inner stamen (a reproductive organ containing pollen) and outer petals of the flower grow at different rates. This differential growth causes the flowers to bulge out until the petals eventually split from each other. This creates small openings between the petals, allowing the flower to bulge out further, which further increases tension. When the flowers are mature, mechanical disturbance from pollinators will trigger opening of the petals. The stamens first spring up vertically, then the anthers (which are located on the top of the stamen and contain pollen), move out horizontally, catapulting pollen grains up into the air and onto the pollinator.\n\nMistletoe flowers can be opened in two different ways. Birds can “unzip” the petals at their base, triggering flower opening and showering the birds in pollen. Birds can also grasp and pull the petals, also resulting in flower opening and pollen dispersal. The explosion of pollen catapults the pollen grains straight up and away from the flower’s center. Unsuspecting pollinators are blanketed in pollen and help to cross-pollinate other mistletoe plants as they move between flowers. Residual pollen grains that don’t land on the bird are still hurled high enough into the air (up to 20 centimeters) to allow for the grains to also be dispersed by the wind.\n\nThis strategy was contributed by Christy Cael and Carol Gustafson .",
+  "function_addressed": [
+    "disperse seeds",
+    "pollinate",
+    "sense touch and mechanical forces in a living system",
+    "transform mechanical energy",
+    "expel solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/spring-loaded-flowers-ensure-pollen-dispersal/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "spring-loaded",
+    "flowers",
+    "ensure",
+    "pollen",
+    "dispersal"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

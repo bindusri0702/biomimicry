@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-diet-diversity-affects-health",
+  "organism_common": "Western honeybee",
+  "organism_scientific": "",
+  "strategy_summary": "Immunocompetence of honeybees is maintained with a diverse diet. “The maintenance of the immune system can be costly, and a lack of dietary protein can increase the susceptibility of organisms to disease.",
+  "mechanism": "Immunocompetence of honeybees is maintained with a diverse diet.\n\n“The maintenance of the immune system can be costly, and a lack of dietary protein can increase the susceptibility of organisms to disease. However, few studies have investigated the relationship between protein nutrition and immunity in insects. Here, we tested in honeybees ( Apis mellifera ) whether dietary protein quantity (monofloral pollen) and diet diversity (polyfloral pollen) can shape baseline immunocompetence (IC) by measuring parameters of individual immunity (haemocyte concentration, fat body content and phenoloxidase activity) and glucose oxidase (GOX) activity, which enables bees to sterilize colony and brood food, as a parameter of social immunity. Protein feeding modified both individual and social IC but increases in dietary protein quantity did not enhance IC. However, diet diversity increased IC levels. In particular, polyfloral diets induced higher GOX activity compared with monofloral diets, including protein-richer diets. These results suggest a link between protein nutrition and immunity in honeybees and underscore the critical role of resource availability on pollinator health.” (Alaux et al. 2010)\n\nhttp://news.bbc.co.uk/2/hi/science/nature/8467746.stm http://rsbl.royalsocietypublishing.org/content/early/2010/01/18/rsbl.2009.0986.short?rss=1",
+  "function_addressed": [
+    "protect from microbes",
+    "regulate cellular processes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/diet-diversity-affects-health/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "diet",
+    "diversity",
+    "affects",
+    "health"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

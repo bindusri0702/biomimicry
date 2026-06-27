@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-double-layered-ball-assists-spore-dispersal",
+  "organism_common": "Earthstar",
+  "organism_scientific": "",
+  "strategy_summary": "The double-layered ball of an earth-star fungus launches spores by splitting its outer skin, turning it inside out, and using it to push the second sphere and its contents up and out. “The fungi belonging to the group known as earth-stars produce a ball with a double skin.",
+  "mechanism": "The double-layered ball of an earth-star fungus launches spores by splitting its outer skin, turning it inside out, and using it to push the second sphere and its contents up and out.\n\n“The fungi belonging to the group known as earth-stars produce a ball with a double skin. When this ripens, the outer skin splits and turns inside out, so pushing the inner sphere upwards. The under surface of the split skin, in some species, is brightly coloured, red or yellow, so that an earth-star at this stage looks almost flower-like. The spores then puff out from a hole in the centre of the bag.” (Attenborough 1995:176)",
+  "function_addressed": [
+    "disperse seeds",
+    "modify position",
+    "modify size/shape/mass/volume",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/double-layered-ball-assists-spore-dispersal/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "double-layered",
+    "ball",
+    "assists",
+    "spore",
+    "dispersal"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

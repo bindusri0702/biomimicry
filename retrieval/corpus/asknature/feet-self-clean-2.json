@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-feet-self-clean-2",
+  "organism_common": "Tokay gecko",
+  "organism_scientific": "",
+  "strategy_summary": "Feet of the tokay gecko use atomic forces to stick to surfaces, but stay clean by flinging contaminants off toes. Geckos are renowned for the sticky feet that enable them to climb a variety of surfaces.",
+  "mechanism": "Feet of the tokay gecko use atomic forces to stick to surfaces, but stay clean by flinging contaminants off toes.\n\nGeckos are renowned for the sticky feet that enable them to climb a variety of surfaces. Their toe pads are covered in millions of small hair-like projections called setae, which are each about 100 μm long and 5 μm in diameter. The setae branch further into hundreds of nano-scale structures that end in tiny discs called spatulae. This multi-scale branching gives gecko feet a very high surface area. Spatulae stick to surfaces via the van der Waals forces that occur between all molecules. Although these forces are individually weak, the high surface area of all the spatulae combined means the forces add up and enable geckos to perform their famous feats.\n\nIf this system enables gecko feet to cling to surfaces, why don’t they also cling to dust and other particles? Geckos appear to keep their sticky feet clean and functional through dynamic self-cleaning.\n\nFor the tokay gecko ( Gekko gecko ), when its foot detaches from a surface the animal is walking on, its toes have the ability to hyperextend: the toes peel off the surface starting at the tip, and curl up away from the surface (human fingers, for comparison, cannot voluntarily hyperextend, and are much more functional in flexion). When the setae at the tip of the toe are first pulled, they stretch a little and store elastic energy as the spatulae are still attached to the surface. As the toe continues to curl up, the setae suddenly detach from the substrate. Their stretchy nature and ability to spread out as the toe curls up and back results in a flinging motion that can dislodge particles caught on and between the spatulae. This action proceeds sequentially from the tip to the base of the toe, until the entire foot is free. When gecko toes hyperextend and produce this flinging motion (what researchers call “setal jump-off”), they shed contaminating particles twice as fast as they would if the toes didn’t hyperextend. After four steps, the feet can regain almost 80% of their adhesive force.\n\nThis dynamic mechanism appears to work in concert with other passive mechanisms for self-cleaning, like particle removal that results when contaminants are more attracted to the substrate than the gecko foot. As a result, contaminating particles are both flung off the setae and deposited on the substrate during walking.\n\nAdapted from Hu S; Lopez S; Niewiarowski PH; Xia Z. Dynamic self-cleaning in gecko setae via digital hyperextension. J. R. Soc. Interface. 2012. 9(76): 2781–2790, by permission of the Royal Society.\n\nOnRobot\n\nGecko Gripper from OnRobot has micro-scaled fibrillar stalks that use Van der Waals forces to pick up objects.\n\nFelsuma\n\nGeckskin from Felsuma is an adhesive technology that mimics the tendon system of geckos to create a strong adhesive that leaves no residue.\n\nnanoGriptech\n\nSetex Geckotape from nanoGriptech has fiber tips and a release film that help adhere to surfaces without leaving a residue.\n\nMagink\n\nMagink cling film from Magink uses nanoattraction technology to help adhere to surfaces without leaving a residue.",
+  "function_addressed": [
+    "protect from dirt/solids",
+    "protect from excess liquids",
+    "attach temporarily",
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/feet-self-clean-2/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "feet",
+    "super",
+    "sticky",
+    "but",
+    "don",
+    "get"
+  ],
+  "is_usual_suspect": true,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

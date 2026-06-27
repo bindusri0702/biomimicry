@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-brushes-clean-off-pollen",
+  "organism_common": "Bees",
+  "organism_scientific": "",
+  "strategy_summary": "The basitarsal brushes of bees are used to clean the pollen off their faces while they forage. The basitarsal brush is a collection of hair on the last segment of the foreleg.",
+  "mechanism": "The basitarsal brushes of bees are used to clean the pollen off their faces while they forage.\n\nThe basitarsal brush is a collection of hair on the last segment of the foreleg. This brush is used during pollination. As bees forage, they can rub the anthers of the flower on their faces and collect pollen all along their heads. The bees then use the brush on their leg to remove the pollen and place it on structures designed for pollen transport. The brush may also be modified to collect oil from flowers, with the ability to do so arising independently in multiple groups.\n\nA brush is defined as a group of hairs with little organization, in comparison to a pollen comb where the hairs make up a single row.\n\nSimilar brushes may be found on the tarsus and femur of the hind and mid legs. Variation is seen in the size, density and shape of the hairs that make up the brush, based on the type of pollen collected and any specializations for other substances like oil or nectar.\n\nThis information is also available from the University of Calgary Invertebrate collection , where it was curated as part of a study on design inspired by bees.\n\nThe foreleg of an Osmia bucephala with the basitarsal brush highlighted.\n\nThe foreleg of an Osmia distincta with the basitarsal brush highlighted.\n\nThe foreleg of an Osmia lignaria with the basitarsal brush highlighted.\n\nThe foreleg of an Osmia texana with the basitarsal brush highlighted.",
+  "function_addressed": [
+    "distribute solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/brushes-clean-off-pollen/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "brushes",
+    "clean",
+    "off",
+    "pollen"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

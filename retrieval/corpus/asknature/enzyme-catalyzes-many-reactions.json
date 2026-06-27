@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-enzyme-catalyzes-many-reactions",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Many plants and microorganisms can catalyze a wide variety of organic chemical reactions via the 2OG oxygenase enzyme. “In plants and microorganisms…2OG oxygenases catalyze a plethora of oxidative reactions, which has led to the proposal that they may be the most versatile of all oxidizing biological catalyst s.",
+  "mechanism": "Many plants and microorganisms can catalyze a wide variety of organic chemical reactions via the 2OG oxygenase enzyme.\n\n“In plants and microorganisms…2OG oxygenases catalyze a plethora of oxidative reactions, which has led to the proposal that they may be the most versatile of all oxidizing biological catalyst s. Some of these reactions are chemically remarkable and indeed presently cannot be achieved through synthetic—that is, non-biological—chemistry. Oxidative reactions catalyzed by 2OG oxygenases include cyclizations, ring fragmentation, C-C bond cleavage, epimerization, desaturation and the hydroxylation of aromatic rings. The discovery that 2OG oxygenases can catalyze chlorination reactions further extends the scope of the family.” (Flashman 2007:86)",
+  "function_addressed": [
+    "catalyze chemical breakdown"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/enzyme-catalyzes-many-reactions/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "enzyme",
+    "catalyzes",
+    "many",
+    "reactions"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

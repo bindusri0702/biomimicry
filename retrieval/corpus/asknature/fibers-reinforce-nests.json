@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-fibers-reinforce-nests",
+  "organism_common": "Wasps",
+  "organism_scientific": "",
+  "strategy_summary": "Wasps might not seem (or be) as “friendly” as their cousins the bees, but that aggressive attitude makes them vital members of many ecosystems. They’re important predators, helping to control populations of other insects.",
+  "mechanism": "One of the reasons wasps are so successful is their clever use of resources. Wasps chew up wood from the environment, and mix it with their saliva to form the material to build their nests. When building, they manage to incorporate the fibers in a parallel pattern, which makes the paper much stronger than if the fibers were arranged randomly. This allows the nests to be sturdy and lightweight, and produced with simple resources.\n\nHumans already build with parallel embedded fibers, for example when using fiberglass or reinforced concrete. There are other aspects of how wasps form their material and construct their nests though that could be applied in innovative ways to human building projects. Combined with additive manufacturing techniques, wasp methods could yield new forms of strong but lightweight material.",
+  "function_addressed": [
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fibers-reinforce-nests/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fibers",
+    "reinforce",
+    "nests"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

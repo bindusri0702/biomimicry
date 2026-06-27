@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-receptors-adhere-selectively",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "Microbes attach to target cells via site-specific receptors. In humans, unique molecules are present on cell surfaces and are used for everyday cellular processes and communication.",
+  "mechanism": "Microbes attach to target cells via site-specific receptors.\n\nIn humans, unique molecules are present on cell surfaces and are used for everyday cellular processes and communication. To cause disease, microbes can recognize many of these molecules, and use them to attach to the cells they want to invade or colonize.\n\nThe above video depicts microorganisms attaching to a cell surface. As the immune system functions, Y-shaped antibodies may also attach to the microbial receptors, targeting them for destruction by immune cells.",
+  "function_addressed": [
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/receptors-adhere-selectively/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "receptors",
+    "adhere",
+    "selectively"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

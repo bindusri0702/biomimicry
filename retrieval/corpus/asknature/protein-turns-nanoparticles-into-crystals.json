@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-protein-turns-nanoparticles-into-crystals",
+  "organism_common": "Red junglefowl",
+  "organism_scientific": "",
+  "strategy_summary": "Eggshells of chickens are formed from amorphous calcium carbonate nanoparticles which are transformed into ordered crystals by protein mediation. Eggshell this a thin yet relatively strong material due to its composite makeup of ordered calcium carbonate crystals and protein .",
+  "mechanism": "Eggshells of chickens are formed from amorphous calcium carbonate nanoparticles which are transformed into ordered crystals by protein mediation.\n\nEggshell this a thin yet relatively strong material due to its composite makeup of ordered calcium carbonate crystals and protein . A layer of crystalline calcite clusters overlays partially aligned calcite columns. The mineral begins as amorphous calcium carbonate nanoparticles, then is transformed to ordered crystals by the presence of C-type lectin-type proteins. The proteins attach themselves to the nanoparticles, initiating crystal transformation, and then detach while crystal growth continues.\n\nGrowing a good egg: Metadynamics simulations show that the eggshell protein ovocleidin-17 induces the formation of calcite crystals from amorphous calcium carbonate nanoparticles. Multiple spontaneous crystallization and amorphization events were simulated; these simulations suggest a catalytic cycle that explains the role of ovocleidin-17 in the first stages of eggshell formation (the picture shows one intermediate of this cycle).",
+  "function_addressed": [
+    "chemically assemble mineral crystals",
+    "chemically assemble inorganic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/protein-turns-nanoparticles-into-crystals/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "protein",
+    "turns",
+    "nanoparticles",
+    "crystals"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

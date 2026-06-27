@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-architecture-avoids-flooding-creates-microclimates",
+  "organism_common": "Ants",
+  "organism_scientific": "",
+  "strategy_summary": "Leafcutter ants are among the most sophisticated non-human farmers on Earth. They grow crops of a special kind of fungus, which they then eat.",
+  "mechanism": "The ants build their nests underground, with a system of chambers and tunnels. The gardens are suspended from the ceilings of the chambers, and the ants tend them by continually adding bits of leaf.\n\nTwo different species studied both built nests with two different general floor plans: “tree-like” or “necklace-like.”\n\nIn tree-like forms, a vertical central shaft reached out with long branches, each ending in a mall room.\n\nIn the necklace-like nests, the vertical central shaft is interrupted by chambers, directly leading in and out of each one.\n\nThe flow of heat, gases, and moisture throughout the nests creates different microclimates which are useful for managing the growth of the “farming plots” in each chamber.\n\nThe leafcutter ants’ ability to cultivate a crop of food-producing fungus could be emulated at many different scales. For example, the same principles could be used to cultivate mushrooms or other fungi for food. Alternatively, the ants’ method of using bacteria to convert leaves into a food that the fungus can eat could be used to convert other kinds of organic waste into a food source.",
+  "function_addressed": [
+    "protect from excess liquids",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/architecture-avoids-flooding-creates-microclimates/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "architecture",
+    "avoids",
+    "flooding",
+    "creates",
+    "microclimates"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-leaves-fold-in-response-to-touch",
+  "organism_common": "Sensitive plant",
+  "organism_scientific": "",
+  "strategy_summary": "When the Mimosa pudica , commonly known as the sensitive plant, is touched by another organism, its leaves fold in upon themselves and its stems droop. It is hypothesized that this rapid folding deters herbivores and insects from eating the plant by making the plant appear smaller, while simultaneously exposing the…",
+  "mechanism": "The leaves of the Mimosa achieve this rapid folding by a change in turgor pressure. Turgor pressure is the amount of water pressure in the cell that is pushing up against the cell wall. When there is a lot of water pushing against the cell wall the turgor pressure is high, and cell is rigid. When water moves out of the cell, the turgor pressure decreases and the cell becomes flaccid. The movement of water into and out of the cell is known as osmosis. Osmosis occurs when there is an unequal concentration of solutes, such as sodium or potassium ions, on two sides of a membrane, in this case the cell wall. Water will flow from the solution with the higher concentration of solutes to the lower concentration, until an equilibrium between the two sides is reached.\n\nWhen the leaves of the Mimosa are touched, there is a change in the concentration gradient of potassium and chloride ions within two types of cells, the flexor and extensor cells, within the pulvinus of the plant. The pulvinus is the “hinge-like” area of the plant where the leaflet connects to the midrib, and the midrib connects to the stem. Water is channeled from the extensor cells, located on the top side, to the flexor cells, located on the bottom side of the pulvinus. This change is concentration of potassium and chloride ions causes water to flow out of the extensor cells, and they become flaccid, while water flows into the flexor cells, making them turgid. This causes the leaflets to fold and the midrib to droop from the stem.\n\nThe folding process takes between 4-5 seconds. After folding is complete, the unfolding of the leaflets can take anywhere from tens of seconds to up to 10 minutes. It is believed that the unfolding time is a result of behavioral adjustments that the plant makes over time in response to different kinds of stimuli. Herbivores prefer younger, tenderer leaves of plants. When younger leaves of the sensitive plant were repeatedly exposed to non-damaging stimuli, the younger leaves consistently folded completely, but over time, they decreased the time it took for them to unfold. Conversely, older leaves folded only partially while maintaining similar reopening times. This shows that the plant is able to modulate its behaviour to optimize protection, energy production (photosynthesis), and energy expenditure (folding and unfolding).\n\nObserving how plants respond to tactile stimuli could result in new methods for robotic movement with the goal of improving manufacturing and industrial processes. In addition, extending and retracting solar panels, antennas, and other structures could keep them protected when not in use.\n\nThis strategy was contributed by Joanna Jurdi and Mehlika Ayla Kiser.",
+  "function_addressed": [
+    "protect from animals",
+    "modify size/shape/mass/volume"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-fold-in-response-to-touch/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "fold",
+    "response",
+    "touch"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

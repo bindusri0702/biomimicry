@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-microbes-strip-plant-fibers-clean",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "Where would we be without nature’s recyclers? If it weren’t for bacteria, fungi, and other organisms that break once-living things into molecules new life can use, we’d be wallowing in mountains of detritus—assuming there were even enough molecules available for us to exist in the first place.",
+  "mechanism": "The stems of fibrous plants such as flax and hemp are made of multiple layers. Some of these layers are more susceptible to decomposers than are others. The outer part of the stem is made up of gluelike pectin, gum, chemicals that impart color, and bast fibers, which surround the inner, woody part of the stem and provide structure to the part of the stem through which water and nutrients can flow.\n\nWhen a fibrous plant dies naturally or is harvested, microbes in the environment around it start gnawing away at these softer tissues. They use specialized enzymes to break down the structures that make up the various components of stems into small molecules, providing food for themselves in the process.\n\nThe type of microorganism that does the job depends on the setting. On land, the decomposers tend to be fungi that require oxygen to function. In freshwater, bacteria, particularly Clostridia , do the job. In saltwater, scientists have identified two kinds of bacteria normally found in the soil, Stenotrophomnas maltophilia and Ochrobactrum anthropi, as the primary degraders.\n\nDegraders use enzymes called pectinases to break down the pectin found in the cell walls and the matter between cells. They break down cellulose and hemicellulose with cellulases and hemicellulases. Relatively few, however, are able to make much of a dent in the central, woody part of the stem. As a result, the outer materials essentially get eaten away, leaving a clean fiber in much the same way as a dog gnawing on a bone removes every bit of meat and gristle but leaves the bone relatively intact.\n\nThat’s good news for those of us who wear clothes. When manufacturers make textiles from natural fibers, they first need to strip all of the non-fiber bits away. One way to do that is to use harsh chemicals, but as concern grows for protecting the environment, manufacturers are turning to decomposers instead. The right mix can remove the undesirable part of fiber plants, freeing up the sturdy insides for use in fashioning fashion.",
+  "function_addressed": [
+    "physically break down living materials",
+    "chemically break down organic compounds",
+    "modify material characteristics",
+    "cycle nutrients"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/microbes-strip-plant-fibers-clean/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "microbes",
+    "strip",
+    "plant",
+    "fibers",
+    "clean"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

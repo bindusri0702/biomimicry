@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-tendons-store-and-return-energy",
+  "organism_common": "Tamar wallaby",
+  "organism_scientific": "",
+  "strategy_summary": "Tendons in hind limbs use elastic recoil to boost energy efficiency. Although most terrestrial animals that run, hop, or trot across the ground need to spend more metabolic energy to go faster, the hopping tammar wallaby can go faster with little or no increases in energetic cost.",
+  "mechanism": "Tendons in hind limbs use elastic recoil to boost energy efficiency.\n\nAlthough most terrestrial animals that run, hop, or trot across the ground need to spend more metabolic energy to go faster, the hopping tammar wallaby can go faster with little or no increases in energetic cost. Furthermore, a female tammar wallaby can carry the heavy load of the infant joey in her pouch without increasing her cost of locomotion. These remarkable feats are likely due to the storage and recovery of elastic energy by the large springy tendons in the wallaby’s hind legs. During the leaping, aerial phase of the hop cycle, the wallaby’s forward movement represents kinetic energy and the gravitational pull back to the ground is a form of potential energy. These energies transform into elastic strain energy of stretching tendons when the foot hits the ground. That energy can then be recovered in the elastic recoil of those tendons that helps propel the wallaby back off the ground. As much as 90% of the energy stored in the tendon can be recovered for such reuse. The key to this energy recovery is that muscles attached to the tendons are stiff enough so that their length changes little as they generate force. If the muscles changed in length a lot, they might absorb and dissipate the tendon’s elastic energy, making it unavailable to power the next hop.\n\nThe faster the wallaby goes and the heavier the load, the more elastic energy gets stored and recovered, hence the cost of locomotion can be unchanged with speed or load over a normal range of speeds. The use of tendons and elastic energy is also found in many other large animals that run (such as horses and turkeys), but to a much less dramatic extent in terms of energy savings as those observed in kangaroos and wallabies. It is as yet unclear exactly why these macropods experience such high savings in energy compared with other animals. The general strategy of elastic energy storage as a means of increasing locomotor efficiency is also observed in a variety of swimming animals, from squid to dolphins.\n\nThe use of elastic energy storage could be considered in the human design of all sorts of moving structures to increase energy efficiency. “Spring loaded locomotion” has been used in the design of the pogo stick and some prosthetic legs.\n\nFrom Island Beach.",
+  "function_addressed": [
+    "store energy",
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tendons-store-and-return-energy/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "energy-storing",
+    "tendons",
+    "give",
+    "wallabies",
+    "bounce"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

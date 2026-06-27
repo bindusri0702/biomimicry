@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-moth-larvae-manipulate-host-plant-physiology",
+  "organism_common": "Spotted tentiform leafminer",
+  "organism_scientific": "",
+  "strategy_summary": "Larvae of leaf-miner moths keep patches of wilting host leaves alive to ensure successful development with the help of bacterial endosymbionts. “The life cycles of many organisms are constrained by the seasonality of resources.",
+  "mechanism": "Larvae of leaf-miner moths keep patches of wilting host leaves alive to ensure successful development with the help of bacterial endosymbionts.\n\n“The life cycles of many organisms are constrained by the seasonality of resources. This is particularly true for leaf-mining herbivorous insects that use deciduous leaves to fuel growth and reproduction even beyond leaf fall. Our results suggest that an intimate association with bacterial endosymbionts might be their way of coping with nutritional constraints to ensure successful development in an otherwise senescent environment. We show that the phytophagous leaf-mining moth Phyllonorycter blancardella (Lepidoptera) relies on bacterial endosymbionts, most likely Wolbachia , to manipulate the physiology of its host plant resulting in the ‘green-island’ phenotype—photosynthetically active green patches in otherwise senescent leaves—and to increase its fitness. Curing leaf-miners of their symbiotic partner resulted in the absence of green-island formation on leaves, increased compensatory larval feeding and higher insect mortality. Our results suggest that bacteria impact green-island induction through manipulation of cytokinin levels. This is the first time, to our knowledge, that insect bacterial endosymbionts have been associated with plant physiology.” (Kaiser et al. 2010:2311)",
+  "function_addressed": [
+    "regulate reproduction or growth",
+    "cooperate/compete between different species"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/moth-larvae-manipulate-host-plant-physiology/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "moth",
+    "larvae",
+    "manipulate",
+    "host",
+    "plant",
+    "physiology"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

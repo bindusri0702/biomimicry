@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-breaking-down-crude-oil-2",
+  "organism_common": "Pseudomonas",
+  "organism_scientific": "",
+  "strategy_summary": "The metabolism of Pseudomonas and other aerobic microorganisms is capable of breaking down hydrocarbons in crude oil. “Both aerobic and anaerobic microorganisms tend to colonise oil pipelines and oil and fuel storage installations.",
+  "mechanism": "The metabolism of Pseudomonas and other aerobic microorganisms is capable of breaking down hydrocarbons in crude oil.\n\n“Both aerobic and anaerobic microorganisms tend to colonise oil pipelines and oil and fuel storage installations. Complex microbial communities consisting of both hydrocarbon oxidizing microorganisms and bacteria using the metabolites of the former form an ecological niche where they thrive.” (Yemashova et al. 2007:315)",
+  "function_addressed": [
+    "chemically break down organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/breaking-down-crude-oil-2/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "breaking",
+    "down",
+    "crude",
+    "oil"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

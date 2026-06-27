@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-beak-holds-multiple-fish-simultaneously",
+  "organism_common": "Atlantic puffin",
+  "organism_scientific": "",
+  "strategy_summary": "The beak of the puffin can carry numerous fish due to the structure of its jaw and serrations on the inside of its mouth. In order to find food, puffins dive into the ocean and grasp fish between their jaws before flying away.",
+  "mechanism": "The beak of the puffin can carry numerous fish due to the structure of its jaw and serrations on the inside of its mouth.\n\nIn order to find food, puffins dive into the ocean and grasp fish between their jaws before flying away. When searching for a meal, puffins have to choose between a single large fish or multiple smaller fish. Larger fish can be difficult to hold because puffins grasp a fish around its gills, leaving the fish dangling to one side of the mouth, making it difficult to fly. Instead, puffins make numerous short, shallow dives to catch large numbers of small fish. Because each trip takes energy, it is important to maximize the number of fish the puffin can carry each time.\n\nThe jaws of the puffin enable it to carry multiple small fish simultaneously. While the jaws of many other birds are hinged at one point, the puffin’s beak has a flexible hinge, allowing it to control the degree to which its mouth opens. In addition, the upper and lower jaws of the puffin are joined together with a soft and stretchy piece of flesh known as a “rosette”, which allows the puffin to open its mouth even wider than the average bird. The inside of the upper jaw is also textured with a series of “spines” known as denticles, which point back towards the throat. The puffin can hold its prey against the denticles with its strong tongue, and can continue hunting for more prey while holding its previous catch in place.\n\nPuffins on average carry around 10 fish at a time, but have also been sighted carrying up to 60 fish simultaneously.\n\nThis strategy was contributed by ​Anne­-Marie Daniel & Michelle Fehler.\n\nAtlantic puffin holding a beak full of squirming food.\n\nEine Gruppe Papageitaucher, einer mit ausgebreiteten Fluegeln (aufgenommen bei den Farne Inseln, England) - A group of puffins, one with spread wings (photo taken n. Farne Islands, England)\n\nDigimax A50 / KENOX Q2",
+  "function_addressed": [
+    "move in/on liquids",
+    "capture, absorb, or filter organisms",
+    "capture, absorb, or filter solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/beak-holds-multiple-fish-simultaneously/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "beak",
+    "holds",
+    "multiple",
+    "fish",
+    "simultaneously"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

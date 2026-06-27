@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-beaks-reflect-uv-light",
+  "organism_common": "Emperor penguin",
+  "organism_scientific": "",
+  "strategy_summary": "The beaks of emperor penguins reflect UV light via a multilayer reflector photonic microstructure. Transmission electron micrograph of the upper region of the beak horn, showing it to be packed with microstructures constituted of multilayer folded membrane stacks.",
+  "mechanism": "The beaks of emperor penguins reflect UV light via a multilayer reflector photonic microstructure.\n\nTransmission electron micrograph of the upper region of the beak horn, showing it to be packed with microstructures constituted of multilayer folded membrane stacks. Scale bar, 1.0 mm. Image taken from Dresp, B; Jouventin, P; Langley, K. 2005. Ultraviolet reflecting photonic microstructures in the King Penguin beak. Biology Letters. 1(3): 310-313. This document is downloadable free online from http://171.66.127.192/content/1/3/310.short\n\n“Although the mouths and flanges of begging passerines have been reported to reflect in the ultraviolet (Hunt et al. 2003), this is the first time that the nature of the UV-reflecting microstructures has been characterized in beak tissue of any bird. The ultrastructure of the photonic microstructures found in the present study differs radically from that of those previously described in either bird feathers or skin. The regular multilayer membrane arrays found in the beak horn microstructures closely approximate to two dimensional crystal lattices, strongly suggesting that UV reflectance here is produced by interference between incident light and that reflected from successive folds in these microstructures (Prum & Torres 2003).” (Dresp 2005:312)\n\nTransmission electron micrograph of the upper region of the beak horn of an emperor penguin, showing it to be packed with microstructures constituted of multilayer folded membrane stacks. Scale bar, 1.0 mm.",
+  "function_addressed": [
+    "modify light/color",
+    "send light signals in the non-visible spectrum"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/beaks-reflect-uv-light/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "beaks",
+    "reflect",
+    "light"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

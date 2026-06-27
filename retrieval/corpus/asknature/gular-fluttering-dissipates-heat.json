@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-gular-fluttering-dissipates-heat",
+  "organism_common": "Nightjars and allies",
+  "organism_scientific": "",
+  "strategy_summary": "The gular sack of nightjars helps to dissipate heat efficiently by vibrating. The gular sac is rapidly expanded to increase the speed of air moving through the sac and buccal cavity.",
+  "mechanism": "The gular sack of nightjars helps to dissipate heat efficiently by vibrating.\n\nThe gular sac is rapidly expanded to increase the speed of air moving through the sac and buccal cavity. As the fast air passes, heat moves from the blood vessels close to the surface (convective heat loss) and also through the moist membranes (evaporative heat loss).\n\nGular flutter demonstrated by a blue heron chick.",
+  "function_addressed": [
+    "maintain homeostasis",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/gular-fluttering-dissipates-heat/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "gular",
+    "fluttering",
+    "dissipates",
+    "heat"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

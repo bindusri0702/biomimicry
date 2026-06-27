@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-abrupt-flight-patterns-help-evade-predators",
+  "organism_common": "Butterflies and moths",
+  "organism_scientific": "",
+  "strategy_summary": "Moths detect bat calls and avoid predation using sudden drops and weaving flight patterns. “Many species of moth can hear bats coming by listening in to their ultrasonic echolocation calls.",
+  "mechanism": "Moths detect bat calls and avoid predation using sudden drops and weaving flight patterns.\n\n“Many species of moth can hear bats coming by listening in to their ultrasonic echolocation calls. They can therefore escape before being caught. Once the bat is within approximately 20 feet (6m), moths take abrupt evasive action, either by folding up their wings and dropping down out of the bat’s flight path, or by embarking on a random, weaving flight that the bat cannot follow.” (Shuker 2001:23)\n\nWatch Video",
+  "function_addressed": [
+    "modify position",
+    "protect from animals",
+    "move in/through gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/abrupt-flight-patterns-help-evade-predators/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "abrupt",
+    "flight",
+    "patterns",
+    "evade",
+    "predators"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

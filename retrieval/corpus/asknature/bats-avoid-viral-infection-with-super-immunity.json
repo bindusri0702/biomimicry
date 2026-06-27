@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-bats-avoid-viral-infection-with-super-immunity",
+  "organism_common": "Bats",
+  "organism_scientific": "",
+  "strategy_summary": "Ancient Egyptians hung bats above their doorways because they believed the winged mammals had the power to ward off disease. Today, people often vilify bats as virus-spreading pests.",
+  "mechanism": "When most mammals’ cells detect an invading virus, they release proteins called cytokines, which launch an antiviral response that tries to block the virus from reproducing and spreading to other cells. The proteins also jump-start an inflammatory response, triggering symptoms like fever in an attempt to destroy the virus.\n\nUnfortunately, coronaviruses are good at evading this antiviral response. And the trouble doesn’t stop there. When human cells initiate their inflammatory response, things can quickly spin out of control into something called a cytokine storm. When that occurs, an uncontrolled cascade of inflammation can damage organs and if severe enough, cause death.\n\nThat’s not the case with certain bat cells, though. They maintain high levels of interferons, a type of cytokine that mounts an effective antiviral attack against coronaviruses without inducing runaway inflammation.\n\nBanerjee’s research also showed that stress weakened the bats’ antiviral response, restoring the virus’s ability to replicate in their cells. And the greater the quantity of a virus in their bodies, the more likely bats are to “shed,” or excrete it into their surroundings. As a result, environmental threats like deforestation and development can cause food shortages and other stresses that make the chance of viruses crossing over from bats into humans more likely. Implementing conservation strategies to preserve bat habitats would not only decrease bat-human interactions but could also reduce stress-induced viral spillover, helping to protect humans from future pandemics.\n\nFurther study of bat immunity adaptations will expand our understanding of how bats transmit disease. It may also lead to therapies that dampen our inflammatory response to coronaviruses and other illnesses. So it seems the ancient Egyptians were on to something—bats may have healing powers after all.",
+  "function_addressed": [
+    "adapt genotype",
+    "protect from microbes",
+    "regulate cellular processes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bats-avoid-viral-infection-with-super-immunity/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "immune",
+    "system",
+    "tolerates",
+    "high-level",
+    "infection"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

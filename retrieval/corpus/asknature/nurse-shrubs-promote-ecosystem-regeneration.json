@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-nurse-shrubs-promote-ecosystem-regeneration",
+  "organism_common": "Mediterranean montane ecosystem",
+  "organism_scientific": "",
+  "strategy_summary": "Pioneering nurse shrubs in Mediterranean montane forests promote ecosystem regeneration by increasing shade above ground and potassium below ground. Recovering from large disturbances, such as deforestation or forest fires, is a lengthy process.",
+  "mechanism": "Pioneering nurse shrubs in Mediterranean montane forests promote ecosystem regeneration by increasing shade above ground and potassium below ground.\n\nRecovering from large disturbances, such as deforestation or forest fires, is a lengthy process. A clearing goes through multiple steps, with different plants starting to regrow in a process called succession. Smaller, weedier plants typically grow first, priming the area for larger, more long-lived ones (like shrubs and trees). This type of multi-step succession occurs in Mediterranean montane forest environments as well, with “nurse” shrubs providing protected conditions for larger trees.\n\nThese nurse shrubs prepare the area in two ways: by creating a shaded environment and by depositing higher concentrations of potassium into the soil. The shaded environment promotes tree seedling growth through the canopy effect: a group of effects including lower air temperatures, lower soil temperatures, and higher water levels. All of these effects together help create the perfect environment for seedlings.\n\nSecond, nurse shrubs increase soil potassium concentrations by trapping windblown particles in their branches and by generating organic litter such as broken twigs and fallen leaves. During the dry season, when water is scarce, higher levels of potassium help protect the new tree saplings from drought by reducing transpiration rates (the plant equivalent of sweating). This accumulation of potassium reduces transpiration losses by affecting the osmotic gradient (the comparable concentrations of two solutions separated by a semipermeable membrane). By increasing the potassium levels within the plant, the gradient is increased, causing water to diffuse into the plant as it tries to maintain equal concentrations on each side of the membrane. In essence, by increasing its own potassium concentration, a plant can hold on to water better. In such a way, these nurse shrubs play a key role in ecosystem succession.\n\nThis summary was contributed by Thomas McAuley-Biasi.\n\nNurse shrub catches leaves and twigs which eventually decompose in the soil, releasing potassium (K) to be absorbed by tree roots\n\nIncreased potassium (K) in the soil creates an osmosis gradient that moves water into the roots",
+  "function_addressed": [
+    "distribute solids",
+    "cooperate within an ecosystem",
+    "regulate climate",
+    "manage disturbance in a community",
+    "generate soil/renew fertility"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nurse-shrubs-promote-ecosystem-regeneration/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "nurse",
+    "shrubs",
+    "promote",
+    "ecosystem",
+    "regeneration"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

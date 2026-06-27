@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-metal-free-beaks-are-strong",
+  "organism_common": "Metallic wood-boring beetle",
+  "organism_scientific": "",
+  "strategy_summary": "The mandibles of the larval jewel beetle are as hard as some stainless steels by sheathing chitin fibers in protein and cross-linking. Larval jewel beetles spend up to five years boring through hardwood before metamorphosizing into adult beetles and emerging.",
+  "mechanism": "The mandibles of the larval jewel beetle are as hard as some stainless steels by sheathing chitin fibers in protein and cross-linking.\n\nLarval jewel beetles spend up to five years boring through hardwood before metamorphosizing into adult beetles and emerging. The mandibles they produce must be strong enough to chew through the tough acacia wood. Most arthropods and invertebrates incorporate minerals and transition metals into such structures that demand extreme strength and hardness (e.g., beaks, jaws, shells) and this addition has been long considered crucial to their physical properties. However, the larval jewel beetle’s mandible is stronger than most metal-laden biomaterials yet contains only carbon-based, organic materials. Amazingly, this material is composed of fibers of crystalline chitin sheathed in proteins that cross-link and harden.",
+  "function_addressed": [
+    "manage shear",
+    "manage mechanical wear",
+    "chemically assemble polymers"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/metal-free-beaks-are-strong/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "metal-free",
+    "beaks",
+    "strong"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

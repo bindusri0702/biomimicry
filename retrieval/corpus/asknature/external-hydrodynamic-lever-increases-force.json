@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-external-hydrodynamic-lever-increases-force",
+  "organism_common": "Spotted archerfish",
+  "organism_scientific": "",
+  "strategy_summary": "A rush of water enhances forcefulness of nature’s super-soaker. Archer fish are known for striking down prey in vegetation surrounding their habitats.",
+  "mechanism": "A rush of water enhances forcefulness of nature’s super-soaker.\n\nArcher fish are known for striking down prey in vegetation surrounding their habitats. These fish do so by propelling water in the form of a jet stream that strikes its prey with enough force to knock it off the vegetation and into the surrounding water. It was originally believed that the fish were capable of producing such strong jet forces because of some internal structure or mechanism but new studies show that the force is actually amplified outside of the fish’s body. During the propagation of the jet, the fish modulates the stream to create a gradual increase in the accumulation of water at the head of the jet (i.e., mass is directed to accumulate at the head of the jet as it moves). This increase in mass towards the head of the jet also increases its velocity. The force that these modulations create when the jet hits the prey outside of the water is nearly six times greater than the force of the water that leaves the fish’s mouth.\n\nTo see the archer fish in action and learn more about this creature, check out this video by KQED Deep Look and this video by NYTimes ScienceTake.\n\nThis content marked as “Google Youtube” uses cookies that you chose to keep disabled. Click here to open your preferences and accept cookies. .",
+  "function_addressed": [
+    "distribute liquids",
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/external-hydrodynamic-lever-increases-force/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "archerfish",
+    "puts",
+    "spit",
+    "stream",
+    "overdrive",
+    "knock"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

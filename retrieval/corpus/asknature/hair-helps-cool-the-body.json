@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-hair-helps-cool-the-body",
+  "organism_common": "Saharan silver ant",
+  "organism_scientific": "",
+  "strategy_summary": "The hair of the Saharan silver ant keeps it cool by efficiently reflecting light and heat energy while also dissipating excess heat. Saharan silver ants ( Cataglyphis bombycina ) have a remarkable ability to thrive in one of the hottest regions on the planet—the Sahara Desert.",
+  "mechanism": "The hair of the Saharan silver ant keeps it cool by efficiently reflecting light and heat energy while also dissipating excess heat.\n\nSaharan silver ants ( Cataglyphis bombycina ) have a remarkable ability to thrive in one of the hottest regions on the planet—the Sahara Desert. Unlike the sleek skin, shells and scales of most high-temperature dwellers, these ants have a unique exterior defense mechanism to beat the heat: hair.\n\nThe hair of Saharan silver ants reduces heat absorption by efficiently reflecting sunlight and dissipating heat. This enables the ant to stay cool in the midday Sahara, where temperatures can reach up to 47°C (117°F). The hairs, with their unique shape, achieve this through three distinct mechanisms:\n\nFirst, the hairs reduce heat absorption by maximizing the amount of light that is reflected off their surface, a process known as total internal reflection (TIR). This is achieved through the unique prism shape of the hairs, which have a flat base that lies against the body of the ant, while the other two sides are grooved (see gallery images). When light enters through one of the grooved sides, it reflects off of the base, and then exits from the other grooved side. A groove concentrates a ray of light onto a certain part of the hair in order to optimize its path of exit and thus maximize TIR. Multiple grooves enable multiple rays of light to be reflected within the same hair simultaneously. The hairs are densely packed to ensure that a minimal amount of sunlight reaches the ant’s body underneath, keeping it 2°C cooler than it would be without the hairs.\n\nSecond, the hairs also reduce heat absorption by reflecting sunlight (solar radiation) from both visible and non-visible parts of the electromagnetic spectrum, including the near-infrared (NIR). It is in these two regions that solar radiation is at its most powerful.\n\nAnd third, the silver ant has a particularly effective method of offloading excess heat. The shape of the hairs increases the ant’s ability to radiate heat—known as emissivity—in a specific range of the electromagnetic spectrum, the mid-infrared (MIR). Within this range, the ant’s warm body can most effectively give off excess heat energy to cooler surrounding air via thermal radiation. Ant researcher Nanfang Yu explains: “To appreciate the effect of thermal radiation, think of the chilly feeling when you get out of bed in the morning. Half of the energy loss at that moment is due to thermal radiation, since your skin temperature is temporarily much higher than that of the surrounding environment.” This mechanism enables the ant to maximize the amount of heat it emits and cool itself off. The last two mechanisms cool the ant off by an additional 5-10°C, enabling the silver ant to withstand temperatures up to 53.6°C (128.48°F).\n\nElectron microscopy images of the hairs of the Silver ant\n\nElectron microscopy close-up of the hairs of the silver ant.",
+  "function_addressed": [
+    "sense light (non-visible spectrum) from the environment",
+    "sense light (visible spectrum) from the environment",
+    "transform thermal energy",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hair-helps-cool-the-body/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hair",
+    "cool",
+    "body"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

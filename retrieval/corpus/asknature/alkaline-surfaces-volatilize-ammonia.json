@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-alkaline-surfaces-volatilize-ammonia",
+  "organism_common": "Amur mud loach",
+  "organism_scientific": "",
+  "strategy_summary": "The alkaline body surfaces of the loach protect from ammonia toxicity by volatilizing ammonia during aerial exposure. “The loach Misgurnus anguillicaudatus is unusual in that it tolerates very high ammonia levels in its tissues, but in turn these high levels, together with alkaline body surfaces, permit a significant…",
+  "mechanism": "The alkaline body surfaces of the loach protect from ammonia toxicity by volatilizing ammonia during aerial exposure.\n\n“The loach Misgurnus anguillicaudatus is unusual in that it tolerates very high ammonia levels in its tissues, but in turn these high levels, together with alkaline body surfaces, permit a significant ammonia excretion by volatilization during aerial exposure.” (Tsui et al. 2002:659)",
+  "function_addressed": [
+    "maintain homeostasis",
+    "protect from chemicals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/alkaline-surfaces-volatilize-ammonia/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "alkaline",
+    "surfaces",
+    "volatilize",
+    "ammonia"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

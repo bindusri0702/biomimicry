@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-shell-protects-supports-and-allows-for-growth",
+  "organism_common": "Mollusks (Snails, Octopuses)",
+  "organism_scientific": "",
+  "strategy_summary": "The shells of many mollusks provide protection and support while accomodating growth due to their conical structure. Many shells have conical shapes.",
+  "mechanism": "The shells of many mollusks provide protection and support while accomodating growth due to their conical structure.\n\nMany shells have conical shapes.\n\nMikadotrochus hirasei Pilsbry, 1903. The Emperors Slit Shell; Diameter 5,6 cm; Originating Eastern Chinese Sea, trawled in deep water (200m), 2005; Shell of own collection, therefore not geocoded.\n\nChicoreus aculeatus (Lamarck, 1822). Pendant Murex, Lenght 4,4 cm; Originating from Panglao Island, Bohol, Philippines; Shell of own collection, therefore not geocoded. Dorsal, lateral (right side), ventral, back, and front view.\n\nCypraecassis rufa, Cassidae, Red Helmet; Length 11 cm; Originating from the Indopacific; Shell of own collection, therefore not geocoded. Dorsal, lateral (right side), ventral, back, and front view.\n\nChicoreus erythrostomus, Pink Mouthed Murex; Length 9,5 cm; Originating from the East Pacific (Region from California to Peru); Shell of own collection, therefore not geocoded. Dorsal, lateral (right side), ventral, back, and front view.\n\nThatcheria mirabilis Angas, 1877. Japanese Wonder Shell ; Lenght 7,5 cm; Originating from Japan; Shell of own collection, therefore not geocoded. Dorsal, lateral (right side), ventral, back, and front view\n\n“Consider shapes that satisfy the following set of conditions. To provide both support and protection for the organism, the shape must be a hollow one, but an opening must exist somewhere. Growth can occur only by addition to the inner surface or the free edge. And the shape should change only minimally as it grows. A cubic shell with an open face won’t work: addition to walls will give more shell relative to its contained volume, and addition to cylinder doesn’t meet the conditions–addition to the edge will move it from short and fat to long and (relatively) thin. What will work are cones, whether circular or elliptical. Add to the edge and thicken the walls and one gets a bigger cone, isometric with the original.\n\nWith only slight variations of the condition of isometry, all sorts of wild derivatives of cones are possible–and these latter are the shapes in which shelled mollusks occur.” (Vogel 2003:88-89)\n\nThis video and animation from Shape of Life illustrates the way mollusks grow their shells in an ever enlarging conic spiral. How this growth process and the materials used enables crack repair is also addressed.",
+  "function_addressed": [
+    "modify size/shape/mass/volume",
+    "optimize shape/materials",
+    "physically assemble structure",
+    "manage impact",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shell-protects-supports-and-allows-for-growth/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shell",
+    "protects",
+    "supports",
+    "allows",
+    "growth"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

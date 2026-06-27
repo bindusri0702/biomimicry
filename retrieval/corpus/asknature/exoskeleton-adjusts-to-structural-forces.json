@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-exoskeleton-adjusts-to-structural-forces",
+  "organism_common": "Insects",
+  "organism_scientific": "",
+  "strategy_summary": "Exoskeleton of insects adjusts to strain and load by changing thickness, stiffness, and fiber orientation. “In their rigid state exoskeletons are stiff laminated composite structures made of chitin fibres embedded in a highly crossed matrix.",
+  "mechanism": "Exoskeleton of insects adjusts to strain and load by changing thickness, stiffness, and fiber orientation.\n\n“In their rigid state exoskeletons are stiff laminated composite structures made of chitin fibres embedded in a highly crossed matrix. The exoskeleton acts as a detector of displacement, strain or load via special organs called sensilla, which are partly integrated into local sections of exoskeleton. These organs amplify the information for the main detector organ, which is connected to the nerve stem. The local information obtained is used to modify the exoskeleton by changing thickness, stiffness and fibre orientation depending on the situation.” (The University of Bath 2008)\n\nUniversity of California San Diego\n\nSoft robot from the University of California San Diego has a 3D-printed 'flexoskeleton' with both soft and rigid parts.",
+  "function_addressed": [
+    "manage tension",
+    "manage compression",
+    "prevent deformation"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/exoskeleton-adjusts-to-structural-forces/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "exoskeleton",
+    "adjusts",
+    "structural",
+    "forces"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

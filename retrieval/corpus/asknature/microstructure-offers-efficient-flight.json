@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-microstructure-offers-efficient-flight",
+  "organism_common": "Common skimmer",
+  "organism_scientific": "",
+  "strategy_summary": "Since time immemorial humans have dreamed of flying. And at least since the time the ancient Roman poet Ovid recorded the legend of Icarus, we’ve turned to winged animals as a source of design inspiration for the artificial appendages that would make it possible.",
+  "mechanism": "Dragonfly wings consist of different types of veins running through a thin membrane, providing integrity and increasing durability and flight efficiency.\n\nThe membrane provides a surface air can push against. It also keeps the wing rigid and helps the veins maintain position relative to each other. It is composed of three layers. The central layer is the thickest, sandwiched between the ventral and dorsal layers, which are made of column-shaped cells.\n\nThe veins are tubular, made from a cellulose-like polymer called chitin. The veins come in three kinds: ambient, longitudinal, and cross veins. Ambient veins surround the wing and help to stabilize it. Longitudinal veins act like support beams. They help to stiffen the wing and prevent it from twisting or bending too much in the wind. There are usually 7-8 longitudinal veins per wing. The cross veins are short and act like struts to separate the longitudinal veins from each other. Together these three types of veins form small “cells” of different sizes across the wing’s surface, providing structure while also allowing the wing to bend and twist when needed.\n\nDragonfly wings can provide insights useful for solving a number of human design problems. Most obviously, they might be applied to developing highly maneuverable micro-drones. Specific aspects, such as the presence of spikes along the trailing edge, can inform efforts to improve the efficiency of airplanes, land vehicles, wind turbine blades and other devices that move relative to the air.\n\nOther inspirations go beyond aviation. The cross veins’ ability to minimize damage due to cracking is reminiscent of the structure of ripstop nylon and might be applied elsewhere to minimize damage to sheetlike surfaces. We can even see how the the geometric configurations that comprise them offer inspiration to artists looking for natural patterns to reflect in, and lend beauty to, their own creations.",
+  "function_addressed": [
+    "move in/through gases",
+    "prevent deformation"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/microstructure-offers-efficient-flight/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "microstructure",
+    "offers",
+    "efficient",
+    "flight"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-congregating-and-physical-stimulation-trigger-swarming",
+  "organism_common": "Desert locust",
+  "organism_scientific": "",
+  "strategy_summary": "From ancient texts to contemporary news, across Africa, the Middle East, and South Asia, swarming desert locusts have had devastating impacts on agricultural areas. These locusts typically feed, move, and go about their lives independently––and even actively avoid each other in normal circumstances.",
+  "mechanism": "Swarming may be caused by an overabundance of locusts in general––a response to crowding to help locusts find food when there isn’t much left.\n\nThe sudden socialization of locusts is triggered either by physical touch from other locusts detected by the hind legs, or by simply the sight and smell of other locusts nearby.\n\nThese inputs increase the serotonin levels in a locust. In humans, the serotonin hormone plays numerous roles throughout the brain and body, but is most well-known for contributing to feelings of happiness and well-being. Serotonin may play a similar role in desert locusts, causing them to gather with other locusts in order to maintain higher levels of serotonin.\n\nMore research is needed to understand the role of serotonin in influencing the behavior of the desert locust and its relatives. A better understanding could help inform our methods of pest control to protect agricultural areas from the damage of locust swarms. More abstractly, computer engineers and others could find applications that apply the principle of using the closeness of entities to trigger a change in their behavior or reaction toward others.",
+  "function_addressed": [
+    "coordinate by self-organization",
+    "sense body awareness",
+    "sense chemicals (odor, taste, etc.) from the environment",
+    "sense touch and mechanical forces in a living system"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/congregating-and-physical-stimulation-trigger-swarming/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "serotonin",
+    "increases",
+    "sociability",
+    "triggers",
+    "swarming"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

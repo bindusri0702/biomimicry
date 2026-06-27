@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-wings-generate-lift",
+  "organism_common": "Western honeybee",
+  "organism_scientific": "",
+  "strategy_summary": "The act of hovering in mid-air involves a series of complex wing movements. Bees hover in a slightly upright position, and their wing movement involves a forward and rearward wing stroke.",
+  "mechanism": "At mid-stroke, the bee’s wing resembles an airplane wing reaching with steady-state aerodynamic forces develop at the front edge of the wing. An airplane wing must maintain less than 9-degree angle of attack (a wing’s orientation relative to the direction of motion) to prevent stall (turbulent air interrupting lift). The bee wing angle of attack, however, averages between 41.1 – 50.5 degrees. To prevent stall, a vortex (a swirl of air) moving along the bee’s wing from the abdomen delays the onset of turbulent air at higher angles of attack.\n\nAt the end of both the rearward and forward strokes, the bee’s wing rotates along its lengthwise axis to orient the leading edge into the new direction of wing travel. This rotation resembles how a human with hands stretched out to their side, rotates their hands from palms up to palms down. This rotation at stroke reversal creates three different lift forces to enhance the overall lift: rotational, acceleration, and wake capture. Additionally, at the rearward stroke when both wings can almost touch, a jet of air shoots out to enhance thrust and creates a low-pressure zone that jump starts lift forces during the forward stroke.\n\nDuring low-load hovering, the bee’s wing operates within a forward-to-rearward stroke range of 90 degrees at around 230 Hz. This stroke range creates an imaginary plane called the stroke plane. To move forward and in reverse, the stroke plane is tilted forward or rearward similarly to how helicopters fly. The bee’s indirect flight muscles are tuned for this higher 230 Hz frequency, which is atypical of other insects. To increase the bee’s speed or its ability to carry a heavy pollen load, the wings maintain a 230 Hz stroke frequency by increasing the forward-to-rearward stroke range beyond 90 degrees. At a maximum stroke, the bee can fly at 3/4 mph.\n\nThe flapping wings of bees represent a completely different approach to powered flight than human propellers, jet engines, or helicopter blades. It allows hovering and precision turning in ways we are currently unable to match. While still seemingly impractical for heavier objects, the rapid flapping holds much potential for applications that could increase the precision, coordination, and efficiency of ultra lightweight aerial machines like drones.",
+  "function_addressed": [
+    "move in/through gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/wings-generate-lift/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "wings",
+    "generate",
+    "lift"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

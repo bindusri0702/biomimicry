@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-compound-eyes-are-anti-fogging-surfaces",
+  "organism_common": "Protect From Excess Liquids",
+  "organism_scientific": "",
+  "strategy_summary": "Mosquitoes thrive in damp and humid conditions. With moisture in the air, water can condense on parts of the mosquito’s body.",
+  "mechanism": "Mosquitoes and other arthropods have compound eyes, which are multi-faceted structures consisting of hundreds of individual units, called ommatidia, closely packed together. On the mosquito Culex pipiens , an array of regularly-spaced nanoscale bumps covers the domed surface of each microscale, hexagonally-shaped ommatidium. This hierarchical arrangement of smaller structures on top of larger structures is where researchers believe the eye gets its anti-fogging properties. Air fills the spaces between the nanoscale bumps, which are approximately 48 nm apart. At the small scale of the water droplets that make up fog, the surface tension of water is a dominant force. This means it is more energetically favorable for the water to remain as microscale droplets, which easily roll off the surface, than for it to penetrate the air layer and spread out.\n\nThis mechanism for repelling water is similar to that found on other biological textured surfaces (like lotus leaves); however, because the spaces between the nanoscale bumps on mosquito ommatidia are smaller, the mosquito eye can ward off the tiny droplets of water that make up fog.",
+  "function_addressed": [
+    "protect from excess liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/compound-eyes-are-anti-fogging-surfaces/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "compound",
+    "eyes",
+    "anti-fogging",
+    "surfaces"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

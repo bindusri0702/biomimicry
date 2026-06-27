@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-larvae-produce-foam",
+  "organism_common": "Meadow spittle bug",
+  "organism_scientific": "",
+  "strategy_summary": "The larvae of meadow spittlebugs produce their protective foam casings by exhaling air into a viscid fluid. “Frog-hopper larvae ( Philaenus ) produce foam by exhaling air into a drop of viscid fluid, which is an excretion from the anus of inverted insect that flows around its body (the air comes from openings situated…",
+  "mechanism": "The larvae of meadow spittlebugs produce their protective foam casings by exhaling air into a viscid fluid.\n\n“Frog-hopper larvae ( Philaenus ) produce foam by exhaling air into a drop of viscid fluid, which is an excretion from the anus of inverted insect that flows around its body (the air comes from openings situated in pairs in each segment) … The larva of a spittle bug ( Philaenus spumarius ) does not need to enlarge its larval shelter because it continuously foams the excess of plant sap it excretes around itself. The foam protects the larva from predators and parasitoids as well as from ultraviolet radiation.” (Pallasmaa 1995:22, 24, 93)",
+  "function_addressed": [
+    "physically assemble structure",
+    "modify size/shape/mass/volume",
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/larvae-produce-foam/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "larvae",
+    "produce",
+    "foam"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-controlled-crystal-symmetry",
+  "organism_common": "Calcareous sponge",
+  "organism_scientific": "",
+  "strategy_summary": "Crystals in glass sponges exhibit controlled growth due to biologically induced reduction in calcitic crystal symmetry. “Organisms can exert a remarkable degree of control over crystal growth.",
+  "mechanism": "Crystals in glass sponges exhibit controlled growth due to biologically induced reduction in calcitic crystal symmetry.\n\n“Organisms can exert a remarkable degree of control over crystal growth. One way of achieving this is by the adsorption of specialized macromolecules on specific planes of the growing crystals. With continued growth of the crystal, the macromolecules are incorporated inside the crystal bulk. Their presence does not change the crystal structure, but creates discontinuities in the perfect lattice. Here we study in detail three unusual cases of reduction in symmetry at the level of crystal domain shapes, induced by this controlled intercalation. We examined sponge spicules, which are single crystals of Mg-bearing calcite. They were specifically chosen for this study, because their morphologies do not reflect the hexagonal symmetry of calcite. Their crystal textures (coherence lengths and angular spreads) were characterized by high-resolution X-ray diffraction with well-collimated synchrotron radiation. The results are compared to analogous studies of synthetic calcite and Mg-bearing calcite. In all the selected spicules reduction in symmetry is observed in the coherence lengths among symmetry-related crystallographic directions. The reconstructed shapes of the domains of perfect structure closely match the specific spicule morphologies. The synthetic crystals show no such reduction in symmetry. Although the manner by which such exquisite control is achieved is not known, we envisage it involving a combination of oriented nucleation with either physical or stereochemically driven adsorption.”(Aizenberg et al. 1995:414)",
+  "function_addressed": [
+    "chemically assemble mineral crystals",
+    "physically assemble structure",
+    "modify solubility (dissolving, emulsifying, precipitating, crystallizing)",
+    "chemically assemble inorganic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/controlled-crystal-symmetry/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "controlled",
+    "crystal",
+    "symmetry"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

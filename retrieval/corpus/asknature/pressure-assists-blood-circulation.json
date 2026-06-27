@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-pressure-assists-blood-circulation",
+  "organism_common": "Giraffe",
+  "organism_scientific": "",
+  "strategy_summary": "Tight skin of giraffe legs assists blood circulation by creating extravascular pressure. “Its [giraffe’s] heart is two-and-a-half times as big as zoologists would expect for an animal of its size.",
+  "mechanism": "Tight skin of giraffe legs assists blood circulation by creating extravascular pressure.\n\n“Its [giraffe’s] heart is two-and-a-half times as big as zoologists would expect for an animal of its size. And the skin around its legs is unusually tight. Pedley [Tim Pedley of the University of Cambridge] says that high blood pressure would encourage blood to pool in a giraffe’s legs. The tight skin acts like a support stocking, forcing blood back up into the body.” (Thomas 1997:24)",
+  "function_addressed": [
+    "maintain homeostasis",
+    "distribute liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pressure-assists-blood-circulation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pressure",
+    "assists",
+    "blood",
+    "circulation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

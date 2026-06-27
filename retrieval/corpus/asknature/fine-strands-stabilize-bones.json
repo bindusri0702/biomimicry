@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-fine-strands-stabilize-bones",
+  "organism_common": "Humans",
+  "organism_scientific": "",
+  "strategy_summary": "The spongy bones of humans handle stress efficiently via the distribution of fine strands called trabeculae. Learn more about the structure of the bone and how one innovator drew inspiration from trabeculaes to design prostethic limbs in Tom McKeag’s “Designed…to the Bone” on pages 58-59 of Zygote Quarterly : …",
+  "mechanism": "The spongy bones of humans handle stress efficiently via the distribution of fine strands called trabeculae.\n\nLearn more about the structure of the bone and how one innovator drew inspiration from trabeculaes to design prostethic limbs in Tom McKeag’s “Designed…to the Bone” on pages 58-59 of Zygote Quarterly :\n\nSungkyunkwan University\n\nBattery from Sungkyunkwan University has a porous structure that remains stable at high voltages.",
+  "function_addressed": [
+    "manage impact"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fine-strands-stabilize-bones/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fine",
+    "strands",
+    "stabilize",
+    "bones"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

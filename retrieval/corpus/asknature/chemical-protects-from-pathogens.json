@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-chemical-protects-from-pathogens",
+  "organism_common": "Western boxelder bug",
+  "organism_scientific": "",
+  "strategy_summary": "Glands of the western boxelder bug protect from pathogens due to release of monoterpenes when exposed to sun. “When western boxelder bugs, Boisea rubrolineata (Barber) (Hemiptera: Rhopalidae), form aggregations in warm sunlight, they release from their posterior dorsal abdominal gland an odorous blend of monoterpenes…",
+  "mechanism": "Glands of the western boxelder bug protect from pathogens due to release of monoterpenes when exposed to sun.\n\n“When western boxelder bugs, Boisea rubrolineata (Barber) (Hemiptera: Rhopalidae), form aggregations in warm sunlight, they release from their posterior dorsal abdominal gland an odorous blend of monoterpenes with heretofore unknown biological function. In laboratory analyses and experiments, we show that bugs in warm sunlight, but not in shade, exude and spread copious amounts of monoterpenes onto their cuticle. These monoterpenes do not serve as a pheromone, but rather as a means of sanitation. They inhibit germination of conidia of the fungal pathogen Beauveria bassiana (Bals.-Criv.) Vuill. (Hypocreales) as well as halt the growth of germinated spores. This prophylactic defense against pathogens appears adaptive for phytophagous insects, like B. rubrolineata , that are prone to infections by microbes thriving on leaf surfaces and in the insects’ overwintering microhabitat.” (Schwarz et al. 2012:1)",
+  "function_addressed": [
+    "protect from fungi"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/chemical-protects-from-pathogens/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "chemical",
+    "protects",
+    "pathogens"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

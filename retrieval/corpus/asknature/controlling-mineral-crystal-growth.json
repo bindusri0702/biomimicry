@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-controlling-mineral-crystal-growth",
+  "organism_common": "Chemically Assemble Mineral Crystals",
+  "organism_scientific": "",
+  "strategy_summary": "The growth of mineral crystals is controlled by peptides through a system of molecular \"switches, throttles and brakes.\"  “By producing some of the highest resolution images of peptide s attaching to mineral surfaces, scientists have a deeper understanding how biomolecules manipulate the growth crystals. This research…",
+  "mechanism": "The growth of mineral crystals is controlled by peptides through a system of molecular \"switches, throttles and brakes.\"\n\n“By producing some of the highest resolution images of peptide s attaching to mineral surfaces, scientists have a deeper understanding how biomolecules manipulate the growth crystals. This research may lead to a new treatment for kidney stones using biomolecules…”\n\n“Inorganic minerals play an important role in most biological organisms. Bone, teeth, protective shells or the intricate cell walls of marine diatoms are some displays of biomineralization, where living organisms form structures using inorganic material. Some minerals also can have negative effects on an organism such as in kidney and gallstones, which lead to severe suffering and internal damage in humans and other mammals.\n\nUnderstanding how organisms limit the growth of pathological inorganic minerals is important in developing new treatment strategies.” ( EurekAlert! November 2009)\n\n(A) Peptide clusters covering the positive face of a growing crystal cause subsegments of the growing crystal layer to accelerate as it approaches a cluster, slow its growth as it encounters the peptides, then recover its growth rate once past the cluster. (B) A similar situation occurs on the negative crystal face, though fewer peptides clusters are present.",
+  "function_addressed": [
+    "chemically assemble mineral crystals",
+    "chemically assemble inorganic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/controlling-mineral-crystal-growth/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "controlling",
+    "mineral",
+    "crystal",
+    "growth"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

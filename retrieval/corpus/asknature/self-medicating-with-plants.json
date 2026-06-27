@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-self-medicating-with-plants",
+  "organism_common": "Chimpanzee",
+  "organism_scientific": "",
+  "strategy_summary": "Chimpanzees protect against pathogens by self-medicating with various plants. “Perhaps the most famous example of an animal herbalist is the common chimpanzee ( Pan troglodytes ).",
+  "mechanism": "Chimpanzees protect against pathogens by self-medicating with various plants.\n\n“Perhaps the most famous example of an animal herbalist is the common chimpanzee ( Pan troglodytes ). Those living in Tanzania’s Gombe National Park are often seen pulling leaves off any of three species of Aspilia , a genus of bushy plant related to the sunflower. Instead of simply chewing the leaves, the apes roll them around their mouths for a while, rather like humans sucking medicinal pills, before swallowing them whole.\n\n“Humans living in this area do precisely the same with Aspilia leaves (which taste far too unpleasant to chew, anyway), as they are effective in killing harmful bacteria and fungi because they contain thiarubine A, a powerful antibiotic. They also rid the intestinal tract of parasitic nematodes. In addition, scientists believe that these leaves act as a stimulant for the chimps, since they tend to eat them first thing in the morning, just as humans often drink coffee or tea shortly after waking to benefit from the stimulating effect of caffeine…Another herbal remedy employed by Tanzanian chimps is the bitter-tasting pith of the aptly named bitterleaf shrub ( Vernonia amygdalina ). This is popularly used by native tribes to counter both parasites and stomach pains, and has been proven to help the recovery of sick chimps.” (Shuker 2001:214)",
+  "function_addressed": [
+    "protect from animals",
+    "protect from fungi",
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/self-medicating-with-plants/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "self-medicating",
+    "plants"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

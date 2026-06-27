@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-more-successful-pollination",
+  "organism_common": "Orchids",
+  "organism_scientific": "",
+  "strategy_summary": "The flowers of individual plants of a given orchid species improve the odds for successful pollination by producing a scent unique to that plant. “However, all individual plants of one species, while they produce a scent that mimics the female pheromone in its essentials, do not smell exactly the same.",
+  "mechanism": "The flowers of individual plants of a given orchid species improve the odds for successful pollination by producing a scent unique to that plant.\n\n“However, all individual plants of one species, while they produce a scent that mimics the female pheromone in its essentials, do not smell exactly the same. Each plant differs sufficiently from others to suggest to the bee that this next one, with a slightly different fragrance, will give him the satisfaction that has eluded him so far.” (Attenborough 1995:129)",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/more-successful-pollination/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "more",
+    "successful",
+    "pollination"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-immune-system-scales-defense-response",
+  "organism_common": "Humans",
+  "organism_scientific": "",
+  "strategy_summary": "Macrophages use communication to scale defense strength to threat  If a house is burning, firemen will try to put the fire out with water. Even though the water itself can damage a house, it’s likely less damaging than the fire.",
+  "mechanism": "Macrophages use communication to scale defense strength to threat\n\nIf a house is burning, firemen will try to put the fire out with water. Even though the water itself can damage a house, it’s likely less damaging than the fire. A similar logic pertains to our immune system. Our immune system protects us through physical and chemical means, but in the process, it can also damage our own tissues by attacking our own cells. How does our immune system apply enough defense to take care of an injury or infection, but not so much that it might hurt or even kill us in the process?\n\nWhen we get injured, our body can become infected with foreign microbes. For example, if you fall on the ground after scraping your knee, microbes can enter your body through the open wound. This is why it’s important to keep wounds clean. If an area becomes infected, the tissue around it swells and certain cells called macrophages rush to the scene to attack the infection.\n\nMacrophages can attack an infection in different ways. For example, some attack with full strength while some attack less intensely. How a macrophage responds depends on several things. First, individual macrophages communicate with one another to determine how many of them are at an infected site. The more macrophages there are, the more they attack at full strength. Also, if the macrophages have fought the microbe before, a higher number of them will attack at full strength. There are always other macrophages nearby that are ready to attack in case the infection suddenly becomes stronger. However, if the wound is small or there are fewer microbes, the macrophages will respond less intensely.\n\nThis coordinated attack on infections by macrophages helps to make sure our immune systems don’t over-react, and that the right number of immune cells are working as hard as they need to in any given situation. The dynamic way our immune cells react to threats can give people ideas for designing response guidelines for all sorts of potentially threatening situations, such as how to evacuate buildings in the case of fire or earthquake.",
+  "function_addressed": [
+    "coordinate by self-organization"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/immune-system-scales-defense-response/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "immune",
+    "system",
+    "scales",
+    "defense",
+    "response"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

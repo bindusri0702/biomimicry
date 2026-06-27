@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-scales-minimize-abrasive-damage",
+  "organism_common": "Kenyan sand boa",
+  "organism_scientific": "",
+  "strategy_summary": "Life is literally rough for the Kenyan sand boa ( Eryx colubrinus, sometimes called Gongylophis colubrinus ), which lives in arid, sandy places in northern and eastern Africa. It not only slithers along sandpaper-like surfaces to get from one place to another, it also coats itself with coarse grains of sand that…",
+  "mechanism": "A snake’s belly skin has an outer scale layer, which touches the sand and other scales. It also has an inner scale layer, which underlies the outer scale layer and does not directly come in contact with the outside world.\n\nThe outer scale layer consists of six main layers. The layers on the side that contacts the outer world (the beta layer) contain beta-keratin, a molecule that also makes up bird beaks and claws, and is relatively hard and inflexible. The layers on the side that faces the inner scale (the alpha layer) layer contain alpha-keratin, which is found in structures such as human fingernails and hair, and is softer and more flexible.\n\nBoth hardness and flexibility vary across the cross-section, with the outer surface being harder and less flexible and the inner surface being softer and more flexible. For the snake’s skin, this means the ability to be extra scratch-resistant but also have the flexibility needed to subtly adjust the shape of the skin to a rough surface and so distribute stress and reduce the likelihood of cracking. The result is a structure that is tough enough to stand up to sand, yet flexible enough to allow movement and avoid cracking.\n\nThe strategy of combining hardness and flexibility in a layered configuration that provides strength where needed but flexibility too could be useful for designing durable but pliable medical devices, tires, fabrics, and more. Substances and configurations that minimize destruction due to friction can inform the design ofmovable parts in vehicles and other machinery, textiles, and cutting edges such as those on knives and blenders.In addition the Kenyan sand boa’s “best of both worlds” strategy offers a broader lesson: When designing to optimize between two competing needs, it’s wise to remember the best solution may not be a single optimum, but different optima customized to the location and function within the larger system.",
+  "function_addressed": [
+    "protect from dirt/solids",
+    "manage mechanical wear",
+    "prevent fatigue"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/scales-minimize-abrasive-damage/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "scales",
+    "minimize",
+    "abrasive",
+    "damage"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

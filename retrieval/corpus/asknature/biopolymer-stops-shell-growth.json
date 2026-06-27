@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-biopolymer-stops-shell-growth",
+  "organism_common": "True oysters",
+  "organism_scientific": "",
+  "strategy_summary": "Polyaspartate is a biopolymer in oysters that stops growth of shells by inhibiting growth of excess calcium carbonate. Polyaspartate is a biopolymer produced by oysters to help mold their shells into their characteristic shape.",
+  "mechanism": "Polyaspartate is a biopolymer in oysters that stops growth of shells by inhibiting growth of excess calcium carbonate.\n\nPolyaspartate is a biopolymer produced by oysters to help mold their shells into their characteristic shape. Polyaspartate stops excess growth of calcium carbonate, the principal constituent of oyster shells. (Ashley 2002:32-33)",
+  "function_addressed": [
+    "regulate reproduction or growth",
+    "chemically assemble organic compounds",
+    "modify size/shape/mass/volume"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/biopolymer-stops-shell-growth/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "biopolymer",
+    "stops",
+    "shell",
+    "growth"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

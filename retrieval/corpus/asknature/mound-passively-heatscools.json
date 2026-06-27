@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-mound-passively-heatscools",
+  "organism_common": "Termites",
+  "organism_scientific": "",
+  "strategy_summary": "Mounds of compass termites provide heating and cooling at appropriate times of day thanks to orientation with respect to the sun. Compass termites orient their mounds north/south.",
+  "mechanism": "Mounds of compass termites provide heating and cooling at appropriate times of day thanks to orientation with respect to the sun.\n\nCompass termites orient their mounds north/south.\n\nCompass termites orient their mounds north/south.\n\n“In Australia, the compass termites build castles in the shape of huge flat chisel blades, always with their long axis pointing north and south. Such a shape exposes the minimum possible area to the ferocious midday sun but catches the maximum of the feebler rays in the early morning and evening when, especially in the cold season, the termites are grateful for warmth.” (Attenborough 1979: 100)\n\n“The termites Amitermes meridionalis and A. laurensis construct remarkable meridional or ‘magnetic’ mounds in northern Australia. These mounds vary geographically in mean orientation in a manner that suggests such variation is an adaptive response to local environmental conditions. Theoretical modelling of solar irradiance and mound rotation experiments show that maintenance of an eastern face temperature plateau during the dry season is the most likely physical basis for the mound orientation response. Subsequent heat transfer analysis shows that habitat wind speed and shading conditions also affect face temperature gradients such as the rate of eastern face temperature change. It is then demonstrated that the geographic variation in mean mound orientation follows the geographic variation in long-term wind speed and shading conditions across northern Australia such that an eastern face temperature plateau is maintained in all locations.” (Jacklyn 1992:385)",
+  "function_addressed": [
+    "protect from temperature",
+    "optimize shape/materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mound-passively-heatscools/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mound",
+    "passively",
+    "heats",
+    "cools"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

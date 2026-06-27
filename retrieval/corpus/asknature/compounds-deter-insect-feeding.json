@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-compounds-deter-insect-feeding",
+  "organism_common": "Marshpepper knotweed",
+  "organism_scientific": "",
+  "strategy_summary": "Polygodial compounds from water smartweed deter insect feeding by blocking the effects of glucose and sucrose on insect taste receptors. “Polygodial, a compound in Polygonum hydropiper (water smartweed) is among the most potent deterrents to insect feeding known.",
+  "mechanism": "Polygodial compounds from water smartweed deter insect feeding by blocking the effects of glucose and sucrose on insect taste receptors.\n\n“Polygodial, a compound in Polygonum hydropiper (water smartweed) is among the most potent deterrents to insect feeding known.\n\n“The deterrent effect appears to be a direct result of the action of polygodial on taste receptors. In lepidopteran larvae, polygodial and other drimane dialdehydes block the stimulatory effects of glucose and sucrose on chemosensory receptor cells found on the mouthparts (Frazier, 1986; Jansen and de Groot, 1991).” (Jansen & de Groot 1991)\n\nhttp://www.ncbi.nlm.nih.gov/pubmed/1945065 http://www.springerlink.com/content/9507r37r4m248400/",
+  "function_addressed": [
+    "regulate cellular processes",
+    "protect from animals",
+    "send chemical signals (odor, taste, etc.)"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/compounds-deter-insect-feeding/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "compounds",
+    "deter",
+    "insect",
+    "feeding"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

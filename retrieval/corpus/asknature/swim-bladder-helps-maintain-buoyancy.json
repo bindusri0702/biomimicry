@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-swim-bladder-helps-maintain-buoyancy",
+  "organism_common": "Ray-finned fishes",
+  "organism_scientific": "",
+  "strategy_summary": "Swim bladders of fish at depth help maintain buoyancy by regulating gas levels. Image: Alter Welt / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon  “Many teleost fishes have a large gas-filled bladder (often called a swim bladder) in their body cavity, which eliminates the weight of the fish in water.",
+  "mechanism": "Swim bladders of fish at depth help maintain buoyancy by regulating gas levels.\n\nImage: Alter Welt / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon\n\n“Many teleost fishes have a large gas-filled bladder (often called a swim bladder) in their body cavity, which eliminates the weight of the fish in water. Neutrally buoyant fishes can hover in the water and swim with much less energy. However, there is only one depth at which a fish has neutral buoyancy, so it is important for the fish to be able to regulate the amount of gas in the swim bladder to maintain neutral buoyancy at different depths.” (Liem 1998:17)\n\n“Gas is efficient in giving lift, since its density is very low, and most teleosts possess gas-filled swimbladders…Fish swimbladders cannot significantly resist changing in volume as the fish swims up and down in the water and the ambient pressure changes; indeed, the swimbladders of almost all teleosts obey Boyle’s law perfectly. So if a fish with a gas-filled swimbladder is to remain neutrally buoyant at different depths, it must secrete or absorb gas to keep the swimbladder at constant volume as the ambient pressure changes. To regulate the mass of gas within the swimbladder in this way requires complex mechanisms of great physiological interest.” (Bone et al. 1995:79-80) “Gas enters the swimbladder via blood capillaries that run into a modified area of the inner wall, the gas gland . In actively secreting swimbladders, the surface of the gland is covered with a foamy mucus…” (Bone et al. 1995:90)\n\n“But the swimbladder must be filled from dissolved gases in the blood, and it must not lose gas through redissolution into the blood. So secretion of gas from blood into swimbladder faces a big barrier, and swimbladder gas will all too readily go into solution in the fish’s blood and thence out into the ocean. Two devices stand in the way. First, a layer in the swimbladder wall provides a very effective barrier to the passage of oxygen (Lapennas and Schmidt-Nielsen 1977). Second, blood leaving the so-called gas gland in the wall of the swimbladder passes through an exchanger (fig.5.2) in which blood leaving the swimbladder loses excess dissolved gas specifically to blood moving toward the swimbladder (Scholander 1954).” (Vogel 2003:99-100)",
+  "function_addressed": [
+    "modify buoyancy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/swim-bladder-helps-maintain-buoyancy/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "swim",
+    "bladder",
+    "maintain",
+    "buoyancy"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

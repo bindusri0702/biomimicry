@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-hunting-in-murky-water",
+  "organism_common": "Golden carp",
+  "organism_scientific": "",
+  "strategy_summary": "Goldfish can hunt in murky environments because they are able to detect far-red and infrared light. “Like the piranha, the goldfish often inhabits murky, vegetation-choked stretches of freshwater in its natural habitat.",
+  "mechanism": "Goldfish can hunt in murky environments because they are able to detect far-red and infrared light.\n\n“Like the piranha, the goldfish often inhabits murky, vegetation-choked stretches of freshwater in its natural habitat. It has therefore adapted so that it is able to detect far-red light. Indeed, its visual range exceeds that of the piranha because it can see beyond far-red light, into true infrared.” (Shuker 2001:19)",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "sense light (non-visible spectrum) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hunting-in-murky-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hunting",
+    "murky",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

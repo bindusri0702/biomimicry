@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-glue-sticks-underwater",
+  "organism_common": "Giant water bug",
+  "organism_scientific": "",
+  "strategy_summary": "Females of giant water bug species glue eggs to their mates' backs via bodily secretions that act as a type of waterproof glue. “Using bodily secretions, the female [giant water bug] glues the eggs to her mate’s back.” (Crump 2005:52)  Crump, M.",
+  "mechanism": "Females of giant water bug species glue eggs to their mates' backs via bodily secretions that act as a type of waterproof glue.\n\n“Using bodily secretions, the female [giant water bug] glues the eggs to her mate’s back.” (Crump 2005:52)\n\nCrump, M. 2005. Headless Males Make Great Lovers & Other Unusual Natural Histories. University of Chicago Press, Chicago, IL. 199 pp.",
+  "function_addressed": [
+    "attach permanently"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/glue-sticks-underwater/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "glue",
+    "sticks",
+    "underwater"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-paper-produced-for-nest-building",
+  "organism_common": "Modify Material Characteristics",
+  "organism_scientific": "",
+  "strategy_summary": "The nests of Vespa hornets are made out of a paper substance produced from the mixture of saliva with wood pulp. Paper wasp nest.",
+  "mechanism": "The nests of Vespa hornets are made out of a paper substance produced from the mixture of saliva with wood pulp.\n\nPaper wasp nest. Paper is made from wood mixed with saliva.\n\nClose-up of paper wasp nest. Different colors are caused by different sources of wood.\n\n“The powerful mandibles of the hornet are…used to cut and chew wood to make its nest. Wood pulp is mixed with saliva and converted by the hornet into a paper substance from which an elaborate tiered nest is made which may house thousands of individuals.” (Foy and Oxford Scientific Films 1982:159)",
+  "function_addressed": [
+    "modify material characteristics",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/paper-produced-for-nest-building/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "paper",
+    "produced",
+    "nest-building"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-surviving-oil-ponds",
+  "organism_common": "California oil fly",
+  "organism_scientific": "",
+  "strategy_summary": "Gut bacteria of petroleum fly larvae possibly aid survival in crude oil ponds via solvent tolerance. “ Helaeomyia petrolei larvae [the larvae of flies that live in crude oil ponds and feed on insects that fall in] isolated from the asphalt seeps of Rancho La Brea in Los Angeles, Calif., were examined for microbial gut…",
+  "mechanism": "Gut bacteria of petroleum fly larvae possibly aid survival in crude oil ponds via solvent tolerance.\n\n“ Helaeomyia petrolei larvae [the larvae of flies that live in crude oil ponds and feed on insects that fall in] isolated from the asphalt seeps of Rancho La Brea in Los Angeles, Calif., were examined for microbial gut contents. Standard counts on Luria-Bertani, MacConkey, and blood agar plates indicated ca. 2 × 105 heterotrophic bacteria per larva. The culturable bacteria represented 15 to 20% of the total population as determined by acridine orange staining. The gut itself contained large amounts of the oil, had no observable ceca, and maintained a slightly acidic pH of 6.3 to 6.5. Despite the ingestion of large amounts of potentially toxic asphalt by the larvae, their guts sustained the growth of 100 to 1,000 times more bacteria than did free oil. All of the bacteria isolated were nonsporeformers and gram negative. Fourteen isolates were chosen based on representative colony morphologies and were identified by using the Enterotube II and API 20E systems and fatty acid analysis. Of the 14 isolates, 9 were identified as Providencia rettgeri and 3 were likely Acinetobacter isolates. No evidence was found that the isolates grew on or derived nutrients from the asphalt itself or that they played an essential role in insect development. Regardless, any bacteria found in the oil fly larval gut are likely to exhibit pronounced solvent tolerance and may be a future source of industrially useful, solvent-tolerant enzymes.” (Kadavy et al. 1999:1477)",
+  "function_addressed": [
+    "protect from chemicals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/surviving-oil-ponds/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "surviving",
+    "oil",
+    "ponds"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

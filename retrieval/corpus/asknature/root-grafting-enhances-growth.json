@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-root-grafting-enhances-growth",
+  "organism_common": "Jack pine",
+  "organism_scientific": "",
+  "strategy_summary": "Above the surface, jack pines ( Pinus banksiana ) in a stand seem to be independent individuals. A look beneath the soil, however, reveals a different story.",
+  "mechanism": "When one jack pine tree’s roots run into the roots of another, they may press into each other. The roots begin to add cells along the pressure points until the bark between them breaks through.\n\nAs the tissues from the two plants contact each other directly, the individual cells start to stick together. The surrounding tissue deposits sugar molecules, creating an even stronger bond. New cells develop and eventually form xylem and phloem, the woody vessels that carry food, nutrients and water.\n\nThe result is a shared root structure that often contains root material from both trees. Once a graft forms, trees can share resources through the connected roots, often among multiple individuals connected by the unseen web beneath the soil.\n\nAlthough grafts initially reduce individual tree growth, in the long run they appear to benefit the stand as a whole. The shared roots allow trees growing in more favorable conditions within the stand to give weaker, disadvantaged trees a boost. They allow stumps to stay alive, helping to crowd out potentially competing tree species. And because up to 70% of the stand may form grafts, they provide added stability against strong winds.\n\nMaking deep connections between individuals facing different challenges can allow for the effective flow of resources and information in human and technological settings as well as in underground root systems. This strategy of creating a “sharing economy” offers valuable insights into how, even if they initially come at a cost, collaborations can create a stronger, more resilient overall system to the ultimate benefit of both contributors and recipients.",
+  "function_addressed": [
+    "cooperate within the same species",
+    "distribute liquids",
+    "capture, absorb, or filter liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/root-grafting-enhances-growth/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "root",
+    "grafting",
+    "enhances",
+    "growth"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

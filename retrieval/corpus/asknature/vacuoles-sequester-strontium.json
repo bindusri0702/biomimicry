@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-vacuoles-sequester-strontium",
+  "organism_common": "Desmid green algae",
+  "organism_scientific": "",
+  "strategy_summary": "Vacuoles in desmid green algae sequester Sr in the presence of excess calcium through a sulfate trap where the presence of dissolved barium leads to preferential precipitation of (Ba,Sr)SO4. Many cyanobacteria are known for their ability to sequester carbon dioxide through the precipitation of calcium carbonate but…",
+  "mechanism": "Vacuoles in desmid green algae sequester Sr in the presence of excess calcium through a sulfate trap where the presence of dissolved barium leads to preferential precipitation of (Ba,Sr)SO4.\n\nMany cyanobacteria are known for their ability to sequester carbon dioxide through the precipitation of calcium carbonate but not many have been known to precipitate biominerals containing barium or strontium. What sets desmid green algae apart is its ability to sequester strontium (Sr) and barium (Ba). Sr and Ba are chemically very similar to calcium and when the elemental molecules are in the presence of one another, calcium often “outcompetes” the other two in forming a precipitant. However, researchers have found that when there is a large amount of dissolved barium in vacuoles where calcium and strontium are concentrated, the bacteria precipitates (Ba, Sr)SO4. They atrribute this finding to (Ba,Sr)SO4’s low solubility compared to other options for biomineral precipitants. 90Sr is a harmful radioactive element that has been linked to cancer as it can substitute for calcium in bone. In addition, during environmental disasters, cleanup teams struggle with removing 90Sr in the presence of calcium because of competition between the two for uptake.\n\nImage: NEON / toggle icon",
+  "function_addressed": [
+    "chemically assemble mineral crystals",
+    "modify concentration (of ions, solutes, etc.)"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/vacuoles-sequester-strontium/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "vacuoles",
+    "sequester",
+    "strontium"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

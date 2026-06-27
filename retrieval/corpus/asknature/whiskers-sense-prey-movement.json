@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-whiskers-sense-prey-movement",
+  "organism_common": "Harbor seal",
+  "organism_scientific": "",
+  "strategy_summary": "In the dim depths of the ocean, sharp eyesight isn’t so useful for hunting. Dolphins and whales listen rather than look.",
+  "mechanism": "But whiskers stick out of animals to sense their surrounding environment. They transmit signals to a rich network of nerve cells at the whiskers’ base that make them as sensitive as fingertips. Cat whiskers have some 200 nerve endings. Harbor seal whiskers, with up to 1,500, are even more finely tuned. But the real secret to their success is their structure.\n\nIf you’ve ever seen old-fashioned antennas on cars or flags on bicycles, you’ll notice how they sway and flutter when the vehicles move. Air currents swirl around them, causing them to vibrate. (The scientific name of whiskers is “vibrissae,” which comes from the Latin word for “vibrate.”)\n\nYou’d expect seal whiskers to behave similarly when seals swim through water. But instead, something remarkable happens: The whiskers cut through water like a hot knife through butter, barely wiggling in the waves.\n\nEngineers are already copying the design of seal whiskers in an effort to develop underwater sensors. They could be used to monitor fish and marine mammals; track flowing oil spill plumes; discover ripples of warm water wafting from seafloor hot springs; provide warning of turbulent currents that threaten underwater structures; and give underwater robotic vehicles a better way to navigate. They may also give navies another way to detect ships and submarines—which have become more and more quiet to elude traditional methods of sonar detection.",
+  "function_addressed": [
+    "differentiate signal from noise",
+    "navigate through liquid",
+    "sense motion",
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/whiskers-sense-prey-movement/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "seal",
+    "whiskers",
+    "track",
+    "prey",
+    "underwater"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

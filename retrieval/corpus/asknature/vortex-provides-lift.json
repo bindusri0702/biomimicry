@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-vortex-provides-lift",
+  "organism_common": "Move in/Through Gases",
+  "organism_scientific": "",
+  "strategy_summary": "The wings of one parasitic wasp generate lift by clapping together at the top of a stroke and then peeling off, creating a vortex that provides lift. “As an example, some types of small parasites, Encarsia , make use of a method called ‘clap and peel.’ In this method, the wings are clapped together at the top of the…",
+  "mechanism": "The wings of one parasitic wasp generate lift by clapping together at the top of a stroke and then peeling off, creating a vortex that provides lift.\n\n“As an example, some types of small parasites, Encarsia , make use of a method called ‘clap and peel.’ In this method, the wings are clapped together at the top of the stroke and then peeled off. The front edges of the wings, where a hard vein is located, separate first, allowing airflow into the pressurised area in between. This flow creates a vortex helping the up-lift force of the wings clapping.” (Yahya 2002:30)\n\nIn a flight mechanism called the clap and peel, “the wings clap together and peel apart serially from the leading to the trailing edge. The near-clap and partial peel differs in that the wings approach each other at the top of the stroke, but do not clap together.\n\n“The clap and peel is characteristic of many insects with particularly broad wings, and has been recognized in some mantids and Orthoptera, Phasmida, chrysopid Neuroptera, and butterflies. The radiating veins and flexible cross-veins of the vannus of orthopteroids and dictyopteroids seem particularly to favor the peel, and also the partial peel. The relative breadth of the thorax may principally determine which of the two techniques is adopted: a broad thorax may effectively prevent a full clap.\n\n“The clap itself appears to project a vortex ring, corresponding to a jet of air, and the broad wings of some butterflies at least seem to concentrate this jet by forming a hollow tunnel at the top of the upstroke.” (Wootton 1992:127)",
+  "function_addressed": [
+    "move in/through gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/vortex-provides-lift/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "vortex",
+    "provides",
+    "lift"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

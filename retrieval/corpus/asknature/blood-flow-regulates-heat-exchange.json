@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-blood-flow-regulates-heat-exchange",
+  "organism_common": "American alligator",
+  "organism_scientific": "",
+  "strategy_summary": "Skin of alligators regulates heat exchange by increasing blood flow. Image: Adam Fagen / toggle icon  “Alligators possess several thermoregulatory abilities that may be of interest to architects.",
+  "mechanism": "Skin of alligators regulates heat exchange by increasing blood flow.\n\nImage: Adam Fagen / toggle icon\n\n“Alligators possess several thermoregulatory abilities that may be of interest to architects. First, alligators have the ability to drop their body temperature when they are not receiving enough oxygen. This seems to offset changes that would otherwise occur in ventilation, oxygen consumption, acid-base balance, and lactate levels. Second, alligators warm their bodies much more quickly than they cool off. The ratio of rate of heating to rate of cooling is dependent on body mass, but is generally 2-3. The ratio is maximal when the alligator is 5 kg, indicating that there is an optimal size for control of heat exchange. The speedy rate of warming in alligators can be attributed to increased blood flow in the skin. During cooling, blood flow does not change. In fact, the results of one study suggest that blood flow is not at all involved in cooling. When blood flow to the appendages was occluded, the rate of warming dropped significantly, while the rate of cooling did not change. There may be an optimum body size for the control of heat exchange. The ratio of rate of heating to rate of cooling is maximum when the alligator is 5 kg. Alligators warm their bodies up to twice as fast as they cool down. There is greater blood flow in the skin during warming than during cooling.” (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/blood-flow-regulates-heat-exchange/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "blood",
+    "flow",
+    "regulates",
+    "heat",
+    "exchange"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

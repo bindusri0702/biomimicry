@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-heavily-loaded-transport-protein-catch-bonds",
+  "organism_common": "Common to all organisms",
+  "organism_scientific": "",
+  "strategy_summary": "Transport is necessary for life. Whether it’s us driving to the shops to buy food, or proteins inside our cells carrying individual molecules from where they were made to where they are needed, sometimes things just have to be carried.",
+  "mechanism": "Inside our cells, transport of molecules is carried out by a protein called dynein which walks along a track called a microtubule. Dynein is a large protein that pairs up with a second copy of itself to look very much like a pair of legs. At the end of each leg are “feet” that bind to the microtubule track, while the cargo is tethered to the other end. Dynein uses adenosine triphosphate (ATP), the energy currency of the cell, to power each step and staggers its way along the track dragging the cargo behind it.\n\nWhen carrying a small or intermediate cargo, dynein proceeds along the track somewhat randomly. The molecule’s feet are lightly bound and they might step forwards or backwards, or even let go entirely. Taken together, on average, dynein molecules are more likely to move forwards than back, and so the cargo gets carried in the right direction. Transport via this method is exceedingly slow, however this doesn’t matter as the distances traveled are exceedingly small.\n\nWhen carrying a large cargo, there is a heavier load on the stalk tethering the load. This might be expected to make the dynein more likely to let go of the track, however, the tension on the stalk causes the molecule to change shape, gripping the track more tightly. Because the protein is holding on more tightly and is less likely to let go, the velocity of transport of the cargo actually increases, on average, for heavier loads.",
+  "function_addressed": [
+    "attach temporarily",
+    "distribute solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/heavily-loaded-transport-protein-catch-bonds/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "heavily",
+    "loaded",
+    "transport",
+    "protein",
+    "catch-bonds"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-stigmas-ensure-pollination",
+  "organism_common": "Pollinate",
+  "organism_scientific": "",
+  "strategy_summary": "The stigmas of flowering plants selectively recognize pollen from the same species in part through biochemical interactions. Daylily flower with labelled stigma  “A stigma will not react to pollen from another species.",
+  "mechanism": "The stigmas of flowering plants selectively recognize pollen from the same species in part through biochemical interactions.\n\nDaylily flower with labelled stigma\n\n“A stigma will not react to pollen from another species. Since the physical shape of the pollen grains is so distinctive, it is tempting to think that the recognition between the two is a geometric one analogous to the way that a lock can recognise a key that belongs to it. This may in fact be the case, though if so it is only part of the mechanism of recognition. Other biochemical stimulations and responses also play a crucial part.” (Attenborough 1995:96)",
+  "function_addressed": [
+    "pollinate",
+    "sense chemicals (odor, taste, etc.) from the environment",
+    "regulate reproduction or growth"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/stigmas-ensure-pollination/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "stigmas",
+    "ensure",
+    "pollination"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

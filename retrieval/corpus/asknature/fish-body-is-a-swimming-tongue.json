@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-fish-body-is-a-swimming-tongue",
+  "organism_common": "Channel catfish",
+  "organism_scientific": "",
+  "strategy_summary": "The body of the channel catfish is sensitive to food particles in the water because it is covered in taste buds. “Certain fish take the distribution of taste buds to extreme limits, becoming in effect swimming tongues.",
+  "mechanism": "The body of the channel catfish is sensitive to food particles in the water because it is covered in taste buds.\n\n“Certain fish take the distribution of taste buds to extreme limits, becoming in effect swimming tongues. Species as diverse as carp, cod, mullet, and sturgeon have taste receptors sprinkled liberally all over their bodies. The entire body of the channel catfish ( Ictalurus punctatus ) is covered in taste buds, with the densest concentration found on the whiskerlike barbels around its mouth. Investigations carried out by electrophysiologist Dr. J. Caprio have revealed that these particular taste buds are extremely sensitive and are able to detect certain proteins in water at concentrations as low as 1-100 micrograms per liter.” (Shuker 2001:33)",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fish-body-is-a-swimming-tongue/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fish",
+    "body",
+    "swimming",
+    "tongue"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

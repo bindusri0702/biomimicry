@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-oily-coating-serves-dual-purpose",
+  "organism_common": "Silk moth",
+  "organism_scientific": "",
+  "strategy_summary": "The antennae of male silk moths distribute chemicals by having an oily coating that serves a dual purpose by binding to lipid-loving female pheromones and transporting them to nerve cells. A special coating on the nanotunnels of a silk moths antenna is the inspiration for a similar oily layer on synthetic nanopores…",
+  "mechanism": "The antennae of male silk moths distribute chemicals by having an oily coating that serves a dual purpose by binding to lipid-loving female pheromones and transporting them to nerve cells.\n\nA special coating on the nanotunnels of a silk moths antenna is the inspiration for a similar oily layer on synthetic nanopores, tiny measurement devices. University of Michigan researchers led the development of this improved technology, and theyre using it to gain new insights into Alzheimers and other similar neurodegenerative diseases.\n\nThis is a closeup of a nanotunnel in a silk moths antenna. Pheromones travel through these tunnels, telling the male moth that a female is nearby.\n\n“[A] coating on the male silk moth’s antenna…helps it smell nearby female moths. The coating catches pheromone molecules in the air and carries them through nanotunnels in the exoskeleton to nerve cells that send a message to the bug’s brain. ‘These pheromones are lipophilic. They like to bind to lipids, or fat-like materials. So they get trapped and concentrated on the surface of this lipid layer in the silk moth. The layer greases the movement of the pheromones to the place where they need to be,’ [according to Michael Mayer, an associate professor in the University of Michigan’s departments of Biomedical Engineering and Chemical Engineering]” (Moore 2011:1)",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment",
+    "capture, absorb, or filter chemical entities"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/oily-coating-serves-dual-purpose/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "oily",
+    "coating",
+    "serves",
+    "dual",
+    "purpose"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

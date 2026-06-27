@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-interacting-organisms-remove-nutrients",
+  "organism_common": "Wetland ecosystems",
+  "organism_scientific": "",
+  "strategy_summary": "Roiling and churning as it rushes downhill, water from a sudden cloudburst stirs up muck from the bottom of a river, carrying fine bits of soil, organic materials from decomposing organisms, and more toward a lake or ocean. But on the way, something amazing happens.",
+  "mechanism": "For instance, dense communities of wetland plants slow down water flow, which gives more time for solid particles to settle out and nutrients to be consumed by plants and bacteria. In addition, the leaves, stems, and roots of wetland plants provide a large surface area on which bacteria and other microbes can attach. Certain wetland bacteria consume nitrate (an ion containing nitrogen) in the water and convert it into nitrogen gas, which is released into the atmosphere. This process of denitrification tends to be the way that most nitrogen is removed from the water in wetlands. The plants take up some nutrients, but this is temporary storage as the nutrients are released again when the plants die and decompose. Nonetheless, the presence of plants and their interaction with other organisms in the ecosystem facilitate the wetland’s ability to clean water flowing through.\n\nSome communities and businesses already use natural and constructed wetlands to filter polluting chemicals and particles out of wastewater. A better understanding of how different organisms complement and synergize in this effort—for instance, when the output of one organism is the input for another—can lead to more efficient, effective, and economical removal of undesirable components, reducing stress on ecosystems downstream and improving water quality for human use and consumption.\n\nUnderstanding the role and interactions of different participants in the system also opens the door to designing water-cleansing systems able to handle specific contaminants, such as microplastics, pharmaceuticals, and precious metals, as they are introduced into wastewater.\n\nBeyond water cleansing, the interactions among organisms in a wetland exhibit a hallmark of living systems as a whole, and offer valuable lessons for designing systems more generally. Rather than counting on one component to do a required job, relying on the interaction of multiple elements that complement each can enhance a system’s ability to both to accomplish the task at hand and to adjust and continue to function well as conditions and circumstances change.",
+  "function_addressed": [
+    "control erosion and sediment",
+    "cycle nutrients",
+    "detoxification/purification of air/water/waste"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/interacting-organisms-remove-nutrients/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "interacting",
+    "organisms",
+    "filter",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

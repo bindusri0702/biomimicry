@@ -1,0 +1,22 @@
+{
+  "doc_id": "asn-oxygenating-soil",
+  "organism_common": "Mangroves",
+  "organism_scientific": "",
+  "strategy_summary": "Mangroves transfer oxygen to surrounding anoxic soil via specialized aerial roots called pneumatophores. “Sub-surface transfer of oxygen, by means of aerial roots and pneumatophores, is so effective that the mud in the vicinity of underground mangrove roots is less anoxic than that at distance from the root.",
+  "mechanism": "Mangroves transfer oxygen to surrounding anoxic soil via specialized aerial roots called pneumatophores.\n\n“Sub-surface transfer of oxygen, by means of aerial roots and pneumatophores, is so effective that the mud in the vicinity of underground mangrove roots is less anoxic than that at distance from the root. Mangrove roots oxygenate their environment (p.10).” (Hogarth 1999:49)",
+  "function_addressed": [
+    "distribute gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/oxygenating-soil/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "oxygenating",
+    "soil"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

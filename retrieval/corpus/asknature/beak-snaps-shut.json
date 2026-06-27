@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-beak-snaps-shut",
+  "organism_common": "Hummingbirds",
+  "organism_scientific": "",
+  "strategy_summary": "The beak of the hummingbird can snap closed to capture insects due to stored elastic energy. “The hummingbird beak, specialized for feeding on floral nectars, is also uniquely adapted to eating flying insects.",
+  "mechanism": "The beak of the hummingbird can snap closed to capture insects due to stored elastic energy.\n\n“The hummingbird beak, specialized for feeding on floral nectars, is also uniquely adapted to eating flying insects. During insect capture the beak often appears to close at a rate that cannot be explained by direct muscular action alone. Here we show that the lower jaw of hummingbirds has a shape and compliance that allows for a controlled elastic snap. Furthermore, hummingbirds have the musculature needed to independently bend and twist the sides of the lower jaw. According to both our simple physical model and our elastic instability calculation, the jaw can be smoothly opened and then snapped closed through an appropriate sequence of bending and twisting actions by the muscles of the lower jaw.” (Smith et al. 2011:41)\n\nPart of the trick lies in how the hummingbird’s beak is built. While other insect-eating birds such as swifts and nighthawks have a cartilaginous hinge near the base of their beaks, hummingbird beaks are solid bone. They’re also incredibly thin, so that the lower beaks are stiff yet springy. The researchers’ mathematical model revealed that the downward bend of the hummingbird’s lower beak puts stress on the bone, storing elastic energy which eventually powers its sudden snap closure. (From Smith 2011, EurekaAlert)\n\nWatch video",
+  "function_addressed": [
+    "store energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/beak-snaps-shut/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "beak",
+    "snaps",
+    "shut"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

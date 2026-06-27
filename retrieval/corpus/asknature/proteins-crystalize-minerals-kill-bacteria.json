@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-proteins-crystalize-minerals-kill-bacteria",
+  "organism_common": "Chinese softshell turtle",
+  "organism_scientific": "",
+  "strategy_summary": "The eggshells of the Chinese softshell turtles are both strong and antimicrobial due to the production of a single protein, pelovaterin. Eggshell represents a barrier designed to protect against both mechanical forces and microbial infection.",
+  "mechanism": "The eggshells of the Chinese softshell turtles are both strong and antimicrobial due to the production of a single protein, pelovaterin.\n\nEggshell represents a barrier designed to protect against both mechanical forces and microbial infection. Researchers have recently discovered a protein , pelovaterin, that is responsible for both roles. It forms spherical aggregates which trigger the formation of mineral crystals for deposition of the egg shell scaffold. Pelovaterin is also effective at killing certain strains of pathogenic bacteria by an as-of-yet unknown membrane active mechanism. The dual activity of pelovaterin means that turtles can synthesize one protein that both creates eggshell and protects it from infection if it cracks.",
+  "function_addressed": [
+    "protect from microbes",
+    "chemically assemble mineral crystals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/proteins-crystalize-minerals-kill-bacteria/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "proteins",
+    "crystalize",
+    "minerals",
+    "kill",
+    "bacteria"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

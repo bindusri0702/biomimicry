@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-discharge-trigger-responds-to-fishs-chemical-cues",
+  "organism_common": "Myxobolus",
+  "organism_scientific": "",
+  "strategy_summary": "The filament injection organ of Myxobolus cerebralis detects a potential fish host via receptors that recognize chemical compounds present in fish mucus. The actinospore phase of a myoxozoan parasite emerges from its invertebrate worm host and must infect a fish host in order to complete its life cycle.",
+  "mechanism": "The filament injection organ of Myxobolus cerebralis detects a potential fish host via receptors that recognize chemical compounds present in fish mucus.\n\nThe actinospore phase of a myoxozoan parasite emerges from its invertebrate worm host and must infect a fish host in order to complete its life cycle. The actinospore features a single-use filament ejection organ, which it uses to anchor itself to fish to implant new parasite cells. Since premature triggering of the filament capsule would mean death for the individual actinospore, they must respond to chemical cues originating specifically from fish. Moreover, the chemical trigger must be a compound that fish secrete involuntarily so as to reduce the likelihood of the fish developing resistance. The epidermal mucus coating of a salmon, a host species for Myxobolus cerebralis, is well adapted to supplement its swimming, ion/gas exchange, defense against physical damage, and immune system. M. cerebralis takes advantage of chemical compounds present in this mucus to signal that a fish host is nearby, triggering release of the parasite’s anchoring-filament. This adaptation is extremely effective in identifying a suitable fish host because the signaling compounds in the mucus are associated with critical metabolic processes, so the fish must produce them. They are also very water insoluble, so their detection by the parasite at certain concentrations indicate extreme proximity to host fish. An interesting aspect of the trigger mechanism is that it is not species-specific, just fish-specific. This may be an adaptation to increase the likelihood of adaptation to new host species.",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment",
+    "respond to signals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/discharge-trigger-responds-to-fishs-chemical-cues/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "discharge",
+    "trigger",
+    "responds",
+    "fish",
+    "chemical",
+    "cues"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-receptors-detect-tiny-disturbances",
+  "organism_common": "American alligator",
+  "organism_scientific": "",
+  "strategy_summary": "Faces of alligators detect tiny disturbances in the water and discriminate objects using touch-sensitive receptor cells in their scales. The American alligator is a large reptile recognizable by its heavily armored body covered in thick scales.",
+  "mechanism": "Faces of alligators detect tiny disturbances in the water and discriminate objects using touch-sensitive receptor cells in their scales.\n\nThe American alligator is a large reptile recognizable by its heavily armored body covered in thick scales. These alligators live in swamps, rivers, and lakes of the southeastern United States. Even with a scaly and tough-looking exterior, parts of the alligator’s body are highly sensitive to touch—even more sensitive than a human’s fingertips. This is achieved with an array of sensory organs in the alligator’s scales.\n\nThe touch-sensitive organs are called integumentary sensory organs. On the surface of a scale, the sensory organs appear as small, dark dome-shaped spots typically ~0.5 mm in diameter. Thousands of these sensory organs cover the alligator’s face. They are especially dense around the teeth, inside the mouth, and at the tip of the snout.\n\nUnder each dome lies a dense network of touch-sensitive receptor cells (known as mechanoreceptors) and nerves. When part of the dome is pushed down by an object the alligator encounters or even moving water, this stimulates the touch-sensitive receptor cells. The cells are sensitive to deflections as small as 4 μm, just a fraction of the width of a human hair. The stimulated receptor cells then send signals along connected nerve cells to the central nervous system, which includes the alligator’s brain. There are a variety of receptor cells and nerves in each dome-shaped organ: some respond to continuous stimulation (like a constant push) while others are more sensitive to changing stimuli (like vibrations).\n\nResearchers hypothesize that these extremely touch-sensitive areas around the mouth help the alligator locate, capture, and examine prey even when visual and sound cues are absent. The alligator will open its mouth slightly while searching for food in the water, using its integumentary sensory organs to detect disturbances in the water from a moving object. Once the alligator finds and bites the object, it can examine the object with its mouth to see if it’s edible.\n\nImage: Roger Smith / CC BY NC ND - Creative Commons Attribution + Noncommercial + NoDerivatives toggle icon Image: Judy Gallagher / CC BY - Creative Commons Attribution alone toggle icon Image: Gareth Rasberry / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon Image: Gareth Rasberry / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon right arrow right arrow",
+  "function_addressed": [
+    "sense touch and mechanical forces in a living system",
+    "sense shape and pattern in a living system"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/receptors-detect-tiny-disturbances/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "receptors",
+    "detect",
+    "tiny",
+    "disturbances"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

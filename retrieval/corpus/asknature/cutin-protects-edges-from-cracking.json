@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-cutin-protects-edges-from-cracking",
+  "organism_common": "Caro de Tres Hojas",
+  "organism_scientific": "",
+  "strategy_summary": "Viscoelastic matrix (cutin) of plant cuticle protects fruit from cracking by fibrillar components capable of passive realignment when placed in tension. Plant cuticles play a key role in a plant’s interaction with the environment and in controlling organ expansion because “the lipid cuticle layer is deposited on the…",
+  "mechanism": "Viscoelastic matrix (cutin) of plant cuticle protects fruit from cracking by fibrillar components capable of passive realignment when placed in tension.\n\nPlant cuticles play a key role in a plant’s interaction with the environment and in controlling organ expansion because “the lipid cuticle layer is deposited on the surface of outer epidermal cell walls and modifies the chemical and mechanical nature of these cell walls” (Domíngueza et al. 2011: 77). The cuticle is made up of polysaccharides and flavenoids that contribute to the nature of its stiffness. Compared to the rest of the epidermal cells, the cuticle is much less flexible. Harder cuticles help protect against fungal pathogens more efficiently than softer ones. Stiffness can be modulated by a plant’s ability to realign its fibrils in the direction of an applied force. In other words, plants better at opposing the force through their fibril alignment are able to maintain their stiffness under stress. The properties of cuticles (that is their stiffness and strength) can be altered by temperature and humidity. For example, fruit tends to go bad more often when kept out in the heat because the cuticle becomes degraded thus allowing external factors to penetrate its surface. Understanding the mechanical properties of the cuticle could lead to fruits that last longer on the shelves and better withstand attack from animal and fungal pests.\n\nApeel Sciences\n\nApeel from Apeel Sciences is an edible coating for fresh fruits and vegetables that helps them last longer by slowing the ripening process.",
+  "function_addressed": [
+    "protect from excess liquids",
+    "protect from loss of liquids",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/cutin-protects-edges-from-cracking/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "cutin",
+    "protects",
+    "edges",
+    "cracking"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

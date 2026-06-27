@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-shell-amplifies-bioluminescence",
+  "organism_common": "Yellow-coated clusterwink",
+  "organism_scientific": "",
+  "strategy_summary": "Opaque shell of marine snail amplifies bioluminescence by selectively diffusing blue-green lightwaves. “Some living organisms produce visible light (bioluminescence) for intra- or interspecific visual communication.",
+  "mechanism": "Opaque shell of marine snail amplifies bioluminescence by selectively diffusing blue-green lightwaves.\n\n“Some living organisms produce visible light (bioluminescence) for intra- or interspecific visual communication. Here, we describe a remarkable bioluminescent adaptation in the marine snail Hinea brasiliana . This species produces a luminous display in response to mechanical stimulation caused by encounters with other motile organisms. The light is produced from discrete areas on the snail’s body beneath the snail’s shell, and must thus overcome this structural barrier to be viewed by an external receiver. The diffusion and transmission efficiency of the shell is greater than a commercial diffuser reference material. Most strikingly, the shell, although opaque and pigmented, selectively diffuses the blue-green wavelength of the species bioluminescence. This diffusion generates a luminous display that is enlarged relative to the original light source. This unusual shell thus allows spatially amplified outward transmission of light communication signals from the snail, while allowing the animal to remain safely inside its hard protective shell.” (Deheyn and Wilson 2010:2112)\n\n“…in order to perform an ecological function, the bioluminescent signal of H. brasiliana must overcome the physical barrier of the shell to be visible from the outside…Under natural light, the shell of H. brasiliana is opaque with a brown-yellow proteinaceous coating (periostracum) over the main whorl (figure 2c). Surprisingly, when shining a beam of white light into the aperture of the shell, most wavelengths of the light were transmitted directly through the shell quite efficiently (greater than 75%), except for the blue-green wavelengths (450– 550 nm; figure 1)…Paradoxically, we found that a discrete beam of blue-green light shone into the shell aperture (mimicking emitted bioluminescence) scattered these wavelengths efficiently to other parts of the shell otherwise not exposed to the original source and was emitted as a diffuse and spatially amplified light signal (figure 2b).” (Deheyn & Wilson 2011:2114)\n\n“The mechanisms by which such wavelength-specific diffusion takes place in the shell of H. brasiliana still remain to be characterized, and are likely to be linked to the structural morphology of the calcium layers rather than the overlaying pigmented proteinaceous periostracum.” (Deheyn & Wilson 2011:2115)",
+  "function_addressed": [
+    "send light signals in the visible spectrum"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shell-amplifies-bioluminescence/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shell",
+    "amplifies",
+    "bioluminescence"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

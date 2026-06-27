@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-electric-organs-generate-volts",
+  "organism_common": "Sailfin sandfish",
+  "organism_scientific": "",
+  "strategy_summary": "Electric organs behind the eyes of electric stargazers help them defend themselves and stun prey by generating electricity. “In the west Atlantic, electric stargazers, which are related to perch, hide in the sand, with only their eyes protruding, waiting for their prey to come close enough to be seized.",
+  "mechanism": "Electric organs behind the eyes of electric stargazers help them defend themselves and stun prey by generating electricity.\n\n“In the west Atlantic, electric stargazers, which are related to perch, hide in the sand, with only their eyes protruding, waiting for their prey to come close enough to be seized. Their electric organs are located in deep pits behind the eyes, and are used for defense as well as for stunning prey.” (Shuker 2001: 53)",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/electric-organs-generate-volts/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "electric",
+    "organs",
+    "generate",
+    "volts"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

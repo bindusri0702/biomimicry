@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-pads-cushion-feet",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "The foot pads of many mammals provide cushioning using hydrostatic structures, essentially working as fluid-filled cushions. “Human heel pads and other mammalian foot pads make use of hydroskeletal support; our pads, which provide impact damping, some energy storage, and protection for bones, work as fluid-filled…",
+  "mechanism": "The foot pads of many mammals provide cushioning using hydrostatic structures, essentially working as fluid-filled cushions.\n\n“Human heel pads and other mammalian foot pads make use of hydroskeletal support; our pads, which provide impact damping, some energy storage, and protection for bones, work as fluid-filled cushions–see, for instance, Ker (1999). They’re complexly viscoelastic–if you want a stable reading of your height, you should stand for almost two minutes to allow your pads to creep into stability (Foreman and Linge 1989).” (Vogel 2003:417)",
+  "function_addressed": [
+    "store energy",
+    "manage impact"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pads-cushion-feet/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pads",
+    "cushion",
+    "feet"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

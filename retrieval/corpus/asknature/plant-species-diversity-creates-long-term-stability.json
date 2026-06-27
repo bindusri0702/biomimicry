@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-plant-species-diversity-creates-long-term-stability",
+  "organism_common": "Prairie ecosystem",
+  "organism_scientific": "",
+  "strategy_summary": "Diverse plant species in prairie grasslands support a long-term, stable ecosystem because they exhibit complementary functionality. An ecosystem is a biological community of interacting organisms and their physical environment.",
+  "mechanism": "Diverse plant species in prairie grasslands support a long-term, stable ecosystem because they exhibit complementary functionality.\n\nAn ecosystem is a biological community of interacting organisms and their physical environment. A healthy ecosystem includes multiple species that serve similar functions or roles – for example, more than one species that fertilizes the soil and more than one that controls the population of a certain predator. This redundancy is crucial to supporting the long-term stability of the ecosystem because natural disturbances – such as fires, disease, or changing climate – can sometimes eliminate entire species unable to survive the change. With redundancy in environmental function, if one species dies off, another species that serves a similar role is more likely able to react and thrive after the disturbance. It can then take the place of the previously dominant species, thereby keeping the ecosystem resilient.\n\nImage: Francesco Ungaro / CC BY - Creative Commons Attribution alone toggle icon Image: Ryan Stone on Unsplash / CC BY - Creative Commons Attribution alone toggle icon right arrow right arrow\n\nFor example, consider a situation in which a prairie grassland ecosystem’s main food-producing plant is completely destroyed by a fire. A plant species that was previously less abundant may now be better suited to live in the new soil conditions, and therefore become the new dominant food-producing plant species serving the grassland. As long as the post-fire composition of plant species fills the same functional role as the pre-fire plant community, then the prairie will be able to survive the fire intact.\n\nThis summary was contributed by Ashley Meyers.\n\n1) In a low diversity system a disturbance (red) could wipe out the entire population. 2) In a high diversity system, only some members of the population perish, leaving others to take their place and keeping the system functioning.",
+  "function_addressed": [
+    "manage disturbance in a community",
+    "maintain biodiversity"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/plant-species-diversity-creates-long-term-stability/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "plant",
+    "species",
+    "diversity",
+    "creates",
+    "long-term",
+    "stability"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-ear-flaps-concentrate-sound-waves",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "The external ear-flaps of many mammals aid hearing by collecting and concentrating sound waves. European Rabbit (Oryctolagus cuniculus) in Austins Ferry, Tasmania, Australia  Siberian tiger  Red fox.",
+  "mechanism": "The external ear-flaps of many mammals aid hearing by collecting and concentrating sound waves.\n\nEuropean Rabbit (Oryctolagus cuniculus) in Austins Ferry, Tasmania, Australia\n\nSiberian tiger\n\nRed fox. Picture from Skandinavisk Dyrepark, Denmark\n\n“It is only among mammals that ears become noticeable, even striking, because of the visible external ear-flaps behind the narrow opening of the outer ear tube…The most obvious use of the ear-flap, though not necessarily the most important, is to gather and concentrate sound waves.” (Foy and Oxford Scientific Films 1982:167)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.\n\n“Sound energy spreads out from its sources. For a point source of sound, it spreads out according to the inverse square law. For a given sound intensity, a larger ear captures more of the wave and hence more sound energy. The outer ear structures act as part of the ear’s preamplifier to enhance the sensitivity of hearing.” (R. Nave, HyperPhysics from Georgia State University)",
+  "function_addressed": [
+    "sense sound and other vibrations from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/ear-flaps-concentrate-sound-waves/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "ear-flaps",
+    "collect",
+    "sound",
+    "waves"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-leaves-protect-from-herbivory",
+  "organism_common": "Nettle family",
+  "organism_scientific": "",
+  "strategy_summary": "The leaves of the Australian stinging tree and other plants protect themselves from herbivory with venomous stinging hairs. “There are even more ferocious stingers elsewhere in the world.",
+  "mechanism": "The leaves of the Australian stinging tree and other plants protect themselves from herbivory with venomous stinging hairs.\n\n“There are even more ferocious stingers elsewhere in the world. Tropical Australia has three different species. Some are low bushes. One is a tree that can grow to fifty feet tall. A traveller failing to recognise the large and characteristic heart-shaped leaves and brushing past them is likely to be so badly stung that he may have to be taken to hospital. The poison, like that of the nettle, contains histamine but also other as yet unidentified venoms that cause an intense pain which can last for weeks. There is no known antidote.” (Attenborough 1995:65-66)",
+  "function_addressed": [
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-protect-from-herbivory/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "protect",
+    "herbivory"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

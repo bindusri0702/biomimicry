@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-fur-and-feathers-get-grip-on-ice",
+  "organism_common": "Seals",
+  "organism_scientific": "",
+  "strategy_summary": "Fur and feathers of seals and penguins help them get a grip to climb ice floes and snow thanks to their stiffness. A Emperor Penguin dives into the water somewhere in Antarctica.",
+  "mechanism": "Fur and feathers of seals and penguins help them get a grip to climb ice floes and snow thanks to their stiffness.\n\nA Emperor Penguin dives into the water somewhere in Antarctica. Emperor Penguins can dive as deep as 550 meters, with 20 minutes of air in a single breath.\n\nSouthern Elephant Seal (Mirounga leonina) (young) in South Georgia.\n\n“For the seals of the icy seas and the penguins of the antarctic shore this gliding and braking mechanism is vital. When they leave the water to climb an ice floe, they get a grip with their stiff fur or feathers. They can scale 60° inclines in this manner. When they rush back into the water, they simply slide down on their stomachs. Numerous other animals that live in the snow have bristles on their running or creeping surfaces, for the same mechanical reasons.” (Tributsch 1984:73)",
+  "function_addressed": [
+    "move in/on solids",
+    "modify position"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fur-and-feathers-get-grip-on-ice/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fur",
+    "feathers",
+    "get",
+    "grip",
+    "ice"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

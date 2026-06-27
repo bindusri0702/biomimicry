@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-spores-survive-drought-toxins",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "Spores of some bacteria prevent entry of toxins, water by immobilizing lipids in the core membrane. “To survive long periods without nutrients or other adverse conditions, certain types of bacteria have developed the ability to form spores, where the cell’s DNA and necessary enzymes are packed into a capsule…",
+  "mechanism": "Spores of some bacteria prevent entry of toxins, water by immobilizing lipids in the core membrane.\n\n“To survive long periods without nutrients or other adverse conditions, certain types of bacteria have developed the ability to form spores, where the cell’s DNA and necessary enzymes are packed into a capsule surrounded by multiple protective barriers. In this form the bacteria can survive for hundreds, perhaps millions, of years in a dormant state and, what’s more, endure drought, extreme temperatures, radiation, and toxins that would quickly knock out unprotected bacteria…\n\n“In their experiments the researchers have also been able to see that the membrane of the spore core lets water through at a rate that is at least a hundred times slower than for a bacterial cell membrane. This compact inner barrier protects the spore from toxic molecules that otherwise might destroy the spore’s DNA.\n\n“‘There are so many other things we still have to learn about structures and processes inside living cells. Almost everything we know about proteins comes from test tube experiments, but in the special environment inside a cell, partially different phenomena may occur. A molecular understanding of the structure and dynamics of cells is important, not least for the development of new drugs,’ says Erik Sunde.” (Viegas 2009)",
+  "function_addressed": [
+    "regulate cellular processes",
+    "protect from loss of liquids",
+    "protect from chemicals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/spores-survive-drought-toxins/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "spores",
+    "survive",
+    "drought",
+    "toxins"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

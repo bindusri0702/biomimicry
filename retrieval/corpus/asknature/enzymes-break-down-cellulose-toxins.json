@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-enzymes-break-down-cellulose-toxins",
+  "organism_common": "Gilled polypore",
+  "organism_scientific": "",
+  "strategy_summary": "Multicolor gill polypores and other brown rot fungi break down cellulose and some toxins using digestive enzymes. Trametes versicolor Schmetterlingstramete Picture taken in Bavaria/Germany  Trametes versicolor from Commanster, Belgium  “The powerful enzymes secreted by certain fungi digest lignin and cellulose , the…",
+  "mechanism": "Multicolor gill polypores and other brown rot fungi break down cellulose and some toxins using digestive enzymes.\n\nTrametes versicolor Schmetterlingstramete Picture taken in Bavaria/Germany\n\nTrametes versicolor from Commanster, Belgium\n\n“The powerful enzymes secreted by certain fungi digest lignin and cellulose , the primary structural components of wood. These digestive enzymes can also break down a surprisingly wide range of toxins that have chemical bonds like those in wood. Such mushrooms can be classified into 2 subgroups: brown rotters and white rotters. Only about 7 percent of mushrooms are brown rot fungi; of those, about 70 percent are polypores (Gilbertson and Ryvarden 1986-87). Brown rot fungi’s extracellular enzymes break down the white, pulpy cellulose, leaving behind the brownish lignin (hence the name).” (Stamets 2005:82)",
+  "function_addressed": [
+    "chemically break down polymers"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/enzymes-break-down-cellulose-toxins/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "enzymes",
+    "break",
+    "down",
+    "cellulose",
+    "toxins"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

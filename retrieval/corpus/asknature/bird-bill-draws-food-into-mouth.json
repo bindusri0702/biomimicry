@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-bird-bill-draws-food-into-mouth",
+  "organism_common": "Western palmated sandpiper",
+  "organism_scientific": "",
+  "strategy_summary": "The bill of the sandpiper draws food into its mouth using water’s surface tension. The western sandpiper ( Calidris mauri ) is a shorebird that spends its winters on the coasts of the US.",
+  "mechanism": "The bill of the sandpiper draws food into its mouth using water’s surface tension.\n\nThe western sandpiper ( Calidris mauri ) is a shorebird that spends its winters on the coasts of the US. Probing in mud and sand with its long bill, the sandpiper picks up small prey like marine worms, crustaceans, and insects. It can also feed on tiny plankton floating in the water, but these prey are too small to probe or peck at individually. To eat plankton, the western sandpiper uses a strategy called “surface tension transport.”\n\nWater has a surface tension that results from attractive forces between water molecules. At an air-water interface, this surface tension tends to keep the interface as small as possible. Spreading water out and creating more interface takes energy. Water molecules are also attracted to keratin, the protein material that makes up the sandpiper’s bill. As it wades along the shore, the sandpiper dips the tip of its bill into the water and grasps at plankton like a pair of tweezers. It then lifts its bill out of the water and opens the bill slightly. The plankton-rich drop of water at the bill tip sticks to the upper and lower bill and stretches apart, creating an air-water interface. As the sandpiper continues to open its bill, the water drop continues to stretch. Water’s surface tension then reduces the stretched interface area by moving the drop up towards the sandpiper’s mouth. This delivers tiny plankton in the water drop to the throat where they can be swallowed.\n\nTo see what the stretched water drop looks like in another shorebird, check out this site about surface tension transport feeding.\n\nWestern Sandpiper , Laguna Madre Nature Trail, South Padre Island, Texas\n\nWestern Sandpiper , Cattle Point, Uplands, Near Victoria, British Columbia",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "distribute liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bird-bill-draws-food-into-mouth/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bird",
+    "bill",
+    "draws",
+    "food",
+    "mouth"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

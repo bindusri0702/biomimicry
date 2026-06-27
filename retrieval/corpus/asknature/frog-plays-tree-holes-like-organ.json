@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-frog-plays-tree-holes-like-organ",
+  "organism_common": "Bornean tree-hole frog",
+  "organism_scientific": "",
+  "strategy_summary": "In a Malaysian rainforest, a male tree-hole frog wriggles inside a water-filled tree hollow, getting ready to call a mate. His call is a single-note pulse, and the louder it sounds, the farther it will reach, increasing the likelihood that a female will hear and respond to it.",
+  "mechanism": "Like other frogs, the tree-hole frog uses vocal cords and a vocal sac to croak. Instead of expelling exhaled air like most other animals do when they make noise, frogs pass exhaling air across their vocal cords, then into their vocal sacs. The vocal sac itself is a natural sound amplifier, vibrating like the top of a kettle drum to transfer the sound of its call into the air.\n\nBut tree-hole frogs don’t simply rely on their own anatomy to amplify sound. They also use their watery holes as echo chambers. The frogs adjust the pitch of their calls until they find the resonant frequency of their surroundings.\n\nThe resonant frequency is the frequency at which a substance vibrates at its highest amplitude. For example, when the frequency of sound matches the resonant frequency of a wineglass, the glass vibrates so hard that it breaks.\n\nLearning how tree-hole frogs use their surroundings to boost sound could lead to improved architectural designs that incorporate acoustics. Schools for hearing-impaired children could be designed to naturally amplify sound. Electronic devices such as televisions and audio players could be designed to use less energy by amplifying sound based on the resonance of their locations.",
+  "function_addressed": [
+    "send sound signals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/frog-plays-tree-holes-like-organ/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "frog",
+    "plays",
+    "tree",
+    "holes",
+    "like",
+    "pipe"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

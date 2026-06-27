@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-tendrils-stick-to-various-surfaces",
+  "organism_common": "Virginia creeper",
+  "organism_scientific": "",
+  "strategy_summary": "The tendrils of Virginia creeper stick to various surfaces using small, strongly adhesive pads at their tips. The sticky pads on the tendrils can be seen clinging to the fencepost.",
+  "mechanism": "The tendrils of Virginia creeper stick to various surfaces using small, strongly adhesive pads at their tips.\n\nThe sticky pads on the tendrils can be seen clinging to the fencepost.\n\n“The tendrils of Virginia creeper end in small adhesive pads which stick firmly to stone or bark.” (Attenborough 1995:162)",
+  "function_addressed": [
+    "attach permanently",
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tendrils-stick-to-various-surfaces/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tendrils",
+    "stick",
+    "various",
+    "surfaces"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

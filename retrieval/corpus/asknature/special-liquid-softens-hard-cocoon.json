@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-special-liquid-softens-hard-cocoon",
+  "organism_common": "Puss moth",
+  "organism_scientific": "",
+  "strategy_summary": "The mouth of puss moth larvae helps them escape their hard cocoon casing by exuding a softening liquid. “Many adecticous pupae are enclosed in cocoons of varying shape and consistency.",
+  "mechanism": "The mouth of puss moth larvae helps them escape their hard cocoon casing by exuding a softening liquid.\n\n“Many adecticous pupae are enclosed in cocoons of varying shape and consistency. That of the puss moth ( Cerura vinula ) is constructed on the boles of willow and sallow and is of extreme toughness, being fashioned from a mixture of labial silk and bark fragments which hardens into an oval whole, rough and bark-like on the outside but glossily smooth inside. Having no biting jaws, pupae of this type need other means to free themselves from their cocoons. The puss moth exudes a special liquid which softens the casing, allowing the moth to push its way out through a relatively small hole; others have special cocoon-rupturing structures on head or thorax which may be lost on emergence.” (Wootton 1984:91)",
+  "function_addressed": [
+    "chemically break down organic compounds",
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/special-liquid-softens-hard-cocoon/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "special",
+    "liquid",
+    "softens",
+    "hard",
+    "cocoon"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

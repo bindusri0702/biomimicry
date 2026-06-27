@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-organs-detect-scent",
+  "organism_common": "Reptiles",
+  "organism_scientific": "",
+  "strategy_summary": "The tongues of many reptiles help detect odors by gathering scent particles and transferring them to a chemoreceptor organ. The European Grass Snake (Natrix natrix), sometimes called the Ringed Snake or Water Snake is a non-venomous snake.",
+  "mechanism": "The tongues of many reptiles help detect odors by gathering scent particles and transferring them to a chemoreceptor organ.\n\nThe European Grass Snake (Natrix natrix), sometimes called the Ringed Snake or Water Snake is a non-venomous snake. It is often found near water and feeds almost exclusively on amphibians. The specimen in the picture is an adult female with a length of approximately one metre. Yellow skin tones are due to ambient light. Under neutral light the specimen is mainly grey/white.\n\nThe European Grass Snake (Natrix natrix), sometimes called the Ringed Snake or Water Snake is a non-venomous snake. It is often found near water and feeds almost exclusively on amphibians. The specimen in the picture is an adult female with a length of approximately one metre. Yellow skin tones are due to ambient light. Under neutral light the specimen is mainly grey/white.\n\n“Many snakes and reptiles combine the senses of smell and taste. When a snake flicks its forked tongue in and out of its mouth, it is sampling the air. The snake does not even need to open its mouth to do this. The tongue is flicked out through a small hole in the snake’s lips, so its two slender forks can collect scent particles from the air or from an object such as a stone. Back inside the mouth, the tongue’s forks are pressed into a pair of domed pits in the roof of the mouth, which have a moist lining that is sensitive to the chemicals it has picked up. The olfactory particles are transferred to the pits, which are well supplied with nerve endings, and are collectively known as Jacobson’s organ. Although most often found in snakes, this organ is also common in other reptiles, especially terrestrial lizards.” (Shuker 2001:31)",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities",
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/organs-detect-scent/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "organs",
+    "detect",
+    "scent"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

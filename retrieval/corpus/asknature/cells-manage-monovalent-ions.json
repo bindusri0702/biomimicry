@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-cells-manage-monovalent-ions",
+  "organism_common": "Maintain Homeostasis",
+  "organism_scientific": "",
+  "strategy_summary": "The gills of fish manage monovalent ion concentrations via specialized chloride cells. “Water flow over the secondary lamellae is countercurrent to capillary blood flow, resulting in extremely efficient oxygen extraction.",
+  "mechanism": "The gills of fish manage monovalent ion concentrations via specialized chloride cells.\n\n“Water flow over the secondary lamellae is countercurrent to capillary blood flow, resulting in extremely efficient oxygen extraction. Gills also function in monovalent ion regulation (via specialized chloride cells) and nitrogenous waste excretion (ammonia).” (Fowler and Miller 2003:4)",
+  "function_addressed": [
+    "maintain homeostasis"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/cells-manage-monovalent-ions/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "cells",
+    "manage",
+    "monovalent",
+    "ions"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

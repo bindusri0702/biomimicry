@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-coat-insulates-against-extreme-cold",
+  "organism_common": "Muskox",
+  "organism_scientific": "",
+  "strategy_summary": "The coat of a muskox provides insulation via bilayer structure: a shaggy outercoat of guard hairs, and a thick silky undercoat. “The musk ox has shaggy outer hair and a thick silky undercoat in which it can withstand any blast or blizzard…” (Foy and Oxford Scientific Films 1982:84)  Foy S, Oxford Scientific Films.",
+  "mechanism": "The coat of a muskox provides insulation via bilayer structure: a shaggy outercoat of guard hairs, and a thick silky undercoat.\n\n“The musk ox has shaggy outer hair and a thick silky undercoat in which it can withstand any blast or blizzard…” (Foy and Oxford Scientific Films 1982:84)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/coat-insulates-against-extreme-cold/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "coat",
+    "insulates",
+    "against",
+    "extreme",
+    "cold"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

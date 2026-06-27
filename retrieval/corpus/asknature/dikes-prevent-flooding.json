@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-dikes-prevent-flooding",
+  "organism_common": "Prairie dog",
+  "organism_scientific": "",
+  "strategy_summary": "The underground burrows of ground squirrels are protected from flooding during rain storms because the squirrels build circular dikes to divert water. “American ground squirrels, or prairie dogs (Cynomys spp.) for example, build a circular dyke to keep rain from flooding their underground burrows.” (Shuker 2001:65)",
+  "mechanism": "The underground burrows of ground squirrels are protected from flooding during rain storms because the squirrels build circular dikes to divert water.\n\n“American ground squirrels, or prairie dogs (Cynomys spp.) for example, build a circular dyke to keep rain from flooding their underground burrows.” (Shuker 2001:65)",
+  "function_addressed": [
+    "protect from excess liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/dikes-prevent-flooding/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "dikes",
+    "prevent",
+    "flooding"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-microstructures-create-color",
+  "organism_common": "Carpenter bees",
+  "organism_scientific": "",
+  "strategy_summary": "Tiny microstructures create color through light scattering, instead of with traditional pigments. There are two main ways an animal can get its colouration.",
+  "mechanism": "Tiny microstructures create color through light scattering, instead of with traditional pigments.\n\nThere are two main ways an animal can get its colouration. An animal can produce its colour directly using pigment s, or it can use tiny microstructures or nanostructures to scatter light into different wavelengths and produce structural colour. Pigment colour will always look the same, but structural colour often manifests as an iridescent colour that changes hue as you look at it from different angles. Adding compounds that disrupt the structures, like water or alcohol, will cause the animal’s colour to lose its sheen, but the effect is reversed when the compound is removed. This concept is well explained in a video from National Geographic.\n\nThis content marked as “Google Youtube” uses cookies that you chose to keep disabled. Click here to open your preferences and accept cookies. .\n\nMany bees from the Osmia genus have a brilliant iridescent blue shine. The wings of Malaysian carpenter bees have a brilliant purple and green colour, while sweat bees can also exhibit a blue sheen. All of these colours are caused not by pigments in the body, but by structures that cause light scattering. The wings of the Malaysian carpenter bee have three distinct layers, each with unique structures patterning them. Parts of the wing that shine purple and blue have distinctly different structures, but the functions of these structures are still unknown.\n\nBright colours could be used as a mating signal and are often in species with strong sexual dimorphism. Studies also suggest that bright, flashy signals with iridescent colours may confuse predators. Colour interferes with the ability to recognize shapes, which may impair a predators ability to distinguish its prey as food.\n\nThis information is also available from the University of Calgary Invertebrate collection , where it was curated as part of a study on design inspired by bees.\n\nAgapostemon splendens, using structural color to create iridescent blues and greens.\n\nThe wing of a Xylocopa bee, glimmering with color.\n\nA Xylocopa specimen, with a darker blue and purple iridescence.",
+  "function_addressed": [
+    "modify light/color"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/microstructures-create-color/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "microstructures",
+    "create",
+    "color"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

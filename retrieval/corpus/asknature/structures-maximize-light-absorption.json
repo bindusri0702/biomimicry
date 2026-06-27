@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-structures-maximize-light-absorption",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Thylakoid structures of plants and cyanobacteria maximize exposure to light by being stacked and cross-linked. Image: Ivona Sandru / toggle icon Image: Bela Hausmann / toggle icon right arrow right arrow  “Since life needs light, air, and a protective shield, it is in theory subject to conditions similar to those that…",
+  "mechanism": "Thylakoid structures of plants and cyanobacteria maximize exposure to light by being stacked and cross-linked.\n\nImage: Ivona Sandru / toggle icon Image: Bela Hausmann / toggle icon right arrow right arrow\n\n“Since life needs light, air, and a protective shield, it is in theory subject to conditions similar to those that prevail for a photochemical surface reaction. Such a reaction is the process of photosynthesis in green leaves, by which light is transformed into chemical energy. Perhaps, then, nature would build cities similar to the submicroscopic thylakoid structures–the power stations of plants, which consist of self-contained flat membrane sacs, often stacked like rolls of coins and linked to each other by many cross-connections. The units are arranged so as to make maximal use of light and to form as large a contact surface as possible with the environment–architectonic criteria our cities still fail to meet adequately. A bird’s-eye view of a natural metropolis would show nothing but green. No roofs, parking lots, or highways would be visible. All flat surfaces would be covered with woods, parks, and gardens. The vertical structures would be the facades of offices, residential buildings, cafes, and boutiques, all with access to nature. Inside the ‘thylakoid structures’ would be sufficient space for transportation, parking lots, shopping malls, and factories, which could manage with artificial light.” (Tributsch 1984:7-8)",
+  "function_addressed": [
+    "capture, absorb, or filter energy",
+    "optimize shape/materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/structures-maximize-light-absorption/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "structures",
+    "maximize",
+    "light",
+    "absorption"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

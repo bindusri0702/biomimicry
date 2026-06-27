@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-feet-aid-silent-movement",
+  "organism_common": "African lion",
+  "organism_scientific": "",
+  "strategy_summary": "The feet of African lions allow them to move silently because large foot pads cushion the sound of their footfalls. “The paws of a lion resemble those of most of the cat family.",
+  "mechanism": "The feet of African lions allow them to move silently because large foot pads cushion the sound of their footfalls.\n\n“The paws of a lion resemble those of most of the cat family. Cats and dogs walk in what is called the digitigrade position: the heel and instep are raised off the ground, making locomotion quieter and more versatile. The large pads on the ball of the foot and on the toes provide a cushion when walking and also help silence the feet. The lion has retractile claws — it can retract them while at rest or when walking, so that they do not catch in the ground and reduce his speed.” (Foy and Oxford Scientific Films 1982:177)",
+  "function_addressed": [
+    "move in/on solids",
+    "send sound signals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/feet-aid-silent-movement/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "feet",
+    "aid",
+    "silent",
+    "movement"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

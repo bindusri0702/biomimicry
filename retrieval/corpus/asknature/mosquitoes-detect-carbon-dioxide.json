@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-mosquitoes-detect-carbon-dioxide",
+  "organism_common": "Sense Chemicals (Odor, Taste, etc.) From the Environment",
+  "organism_scientific": "",
+  "strategy_summary": "The olfactory system of malarial mosquitoes detects carbon dioxide from potential hosts via a sensory mouth appendage, called a maxillary palp. Blood-sucking Anopheles gambiae mosquitoes possess a hypervariable pattern recognition receptor capable of producing thousands of possible alternative splice forms to fight…",
+  "mechanism": "The olfactory system of malarial mosquitoes detects carbon dioxide from potential hosts via a sensory mouth appendage, called a maxillary palp.\n\nBlood-sucking Anopheles gambiae mosquitoes possess a hypervariable pattern recognition receptor capable of producing thousands of possible alternative splice forms to fight infection.\n\n“Blood-feeding insects, including the malaria mosquito Anopheles gambiae , use highly specialized and sensitive olfactory systems to locate their hosts. This is accomplished by detecting and following plumes of volatile host emissions, which include carbon dioxide (CO 2 ). CO 2 is sensed by a population of olfactory sensory neurons in the maxillary palps of mosquitoes and in the antennae of the more genetically tractable fruitfly, Drosophila melanogaster .” (Jones et al. 2007:86)",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mosquitoes-detect-carbon-dioxide/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mosquitoes",
+    "detect",
+    "carbon",
+    "dioxide"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

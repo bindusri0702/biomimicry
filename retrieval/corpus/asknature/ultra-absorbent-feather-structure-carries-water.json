@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-ultra-absorbent-feather-structure-carries-water",
+  "organism_common": "Sandgrouse",
+  "organism_scientific": "",
+  "strategy_summary": "Sandgrouse are a group of 16 species of ground-dwelling birds native to arid, high-temperature regions of Africa and Asia. As exclusive seed eaters, sandgrouse obtain very little water through their diets and must drink liquid water regularly.",
+  "mechanism": "The specialized water-holding feathers of male sandgrouse have unique features that enable them to transport water effectively. The belly feathers have two distinct parts: an inner zone with tightly coiled structures and an outer zone with soft, fringe-like edges. The inner zone is crucial for soaking up and holding water. When dry, the feather’s tiny hair-like structures, called barbules, are coiled up. When wet, these coils unwind, standing upright to form a dense mat that traps water like a sponge. This change in shape increases the feather’s surface area, helping it absorb and hold water securely.\n\nThe sandgrouse’s water-carrying feathers inspire ideas for human innovation in water collection and storage. For example, technologies like fog-harvesting nets or absorbent materials could mimic these feathers to capture and hold water efficiently in dry regions. By studying how these feathers work, we can develop sustainable ways to manage and conserve water, even in the most challenging environments.",
+  "function_addressed": [
+    "capture, absorb, or filter liquids",
+    "store liquids",
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/ultra-absorbent-feather-structure-carries-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "ultra-absorbent",
+    "feather",
+    "structure",
+    "carries",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

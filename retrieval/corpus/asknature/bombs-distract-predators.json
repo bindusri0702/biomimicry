@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-bombs-distract-predators",
+  "organism_common": "Green bomber worm",
+  "organism_scientific": "",
+  "strategy_summary": "Capsules discharged by green bomber worms produce bright green bioluminescence to distract predators.",
+  "mechanism": "Capsules discharged by green bomber worms produce bright green bioluminescence to distract predators.",
+  "function_addressed": [
+    "send light signals in the visible spectrum",
+    "transform radiant energy (light)",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bombs-distract-predators/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bombs",
+    "distract",
+    "predators"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

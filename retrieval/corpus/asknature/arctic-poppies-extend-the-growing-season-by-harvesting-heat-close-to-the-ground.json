@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-arctic-poppies-extend-the-growing-season-by-harvesting-heat-close-to-the-ground",
+  "organism_common": "Arctic poppy",
+  "organism_scientific": "",
+  "strategy_summary": "When it comes to plants on Alaska’s North Slope, it’s the meek that inherit the Earth, or what biologists Alex Huryn and John Hobbie in Land of Extremes call the “short and shrubby.” Still, to come upon the stubble of the tundra after driving through near-endless miles of boreal forest, I couldn’t help but ask: Where…",
+  "mechanism": "Under these conditions, short and shrubby plants have the advantage. They tuck in close to the ground where temperatures can be 5-10 °C warmer than the air overhead due, in part, to a phenomenon known as the boundary layer. As moving air flows over the ground, it encounters resistance from such objects as plants, rocks and the dips and rises in the landscape. The resulting friction causes the air to progressively slow down as it approaches the ground until it slackens completely to form a seam of still air at the interface between air and land.\n\nSome tundra plants compound the boundary layer’s thermal benefits by also utilizing forms and processes that capitalize on the sun’s rays. The champions of these Arctic sun chasers are poppies in the genus Papaver . In the perpetual light of summer, they turn their diminutive blooms into the sun, continually pivoting as they follow its journey across the sky, a phenomenon known as heliotropism. The parabolic shape of the flower petals further serves to focus the solar radiation on the seed capsule in the center of the flower, elevating its internal temperature 3-6 °C above that of the ambient air. Together, these strategies provide the equivalent of a 25-percent extension of the growing season, a welcome boost for plants forced to quickly ripen seeds in the North’s cool, short summers.\n\nArchitects and engineers have emulated such sun-tracking strategies in their own designs—using varying degrees of complexity. In the early 20th century, for example, “heliotropic” sheds that could be wheeled manually in response to the sun’s movements were common in English gardens. In 1994 the German architect Rolf Disch took a more tech-heavy approach to solar tracking in the design of his own home in Freiburg, Germany. Powered by a small electric motor calibrated to a timer, the house, known as the Heliotrope, rotated by degrees throughout the day around a central pole in pursuit of the sun. Combined with a series of other energy-conserving features, including sun-chasing rooftop solar panels, Heliotrope was hailed as Germany’s first net-positive home.\n\nEngineers also have explored sun-tracking technologies to increase the energy output of solar technologies. Fixed solar panels, for example, can only maximize the capture of the sun’s radiation for a portion of the day. Motorized panels that swivel in response to the sun’s movement throughout daylight hours, on the other hand, gather far greater amounts of energy. The downside is that they lose 2-3 percent of that gain to powering the motors.\n\nSome engineers have jettisoned the use of motors in their solar designs altogether. Like arctic poppies and other heliotropic plants, they take advantage of the laws of physics to create sun-tracking movements. Huryn and Hobbie observe that poppies, for example, power their movements by changing the fluid pressure in their cells. When the sun is to the east, the cells on the shaded side of the stem swell with water and grow longer, allowing the plant stem to bend towards the light. The process slowly reverses as the sun moves further to the west. Engineers have created variations of this concept using metals or gases or new synthetics that convert light into heat resulting in a material expansion and contraction that adjusts the position of the panels without added electricity.",
+  "function_addressed": [
+    "capture, absorb, or filter energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/arctic-poppies-extend-the-growing-season-by-harvesting-heat-close-to-the-ground/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "extend",
+    "growing",
+    "season",
+    "harvesting",
+    "extra",
+    "heat"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

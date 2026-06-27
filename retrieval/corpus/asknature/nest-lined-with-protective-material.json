@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-nest-lined-with-protective-material",
+  "organism_common": "Song thrush",
+  "organism_scientific": "",
+  "strategy_summary": "Cup-shaped nests of song thrush are lined with wood pulp because it hardens into a protective, cardboard-like material.",
+  "mechanism": "Cup-shaped nests of song thrush are lined with wood pulp because it hardens into a protective, cardboard-like material.",
+  "function_addressed": [
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nest-lined-with-protective-material/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "nest",
+    "lined",
+    "protective",
+    "material"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-the-toughest-nuts-to-crack",
+  "organism_common": "Brazil nut",
+  "organism_scientific": "",
+  "strategy_summary": "People foraging for Brazil nuts in Amazon forests know they should always wear hard hats. The trees can reach 164 feet (50 meters) high.",
+  "mechanism": "The secret to the pod shell’s impact resistance is a layer of material about half an inch (1 centimeter) thick, called the mesocarp. Only recently have scientists begun to take a microscopic look at this layer. Their research reveals that it is a multilayered amalgam of different-shaped cells and empty spaces—all arranged in a complex pattern that absorbs shocks and resists cracking.\n\nThe mesocarp contains two types of cells, both with thick walls made of lignin, a strong polymer that gives plant stems their rigidity. First, there are elongated cells, organized like cables into strong, elastic fiber bundles. They are arranged in three layers. The two on the outside point in the same direction. Sandwiched in the middle is a bigger layer, oriented perpendicular to both.\n\nBrazil nut pods offer an excellent model for fracture-resistant materials. Studying how the sizes, shapes, distribution, and orientation of cells in the mesocarp prevent cracking can inspire lightweight materials for transport containers, packaging, helmets and other protective gear, and devices to shield vehicles and buildings against impacts.",
+  "function_addressed": [
+    "manage impact",
+    "disperse seeds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/the-toughest-nuts-to-crack/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "toughest",
+    "nuts",
+    "crack"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

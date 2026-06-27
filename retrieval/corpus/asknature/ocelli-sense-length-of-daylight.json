@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-ocelli-sense-length-of-daylight",
+  "organism_common": "Insects",
+  "organism_scientific": "",
+  "strategy_summary": "The ocelli of insects sense day length via a small lens and pigmented retinal cells. This shows a wasp head with two of the three ocelli showing up between the back parts of the compound eyes.",
+  "mechanism": "The ocelli of insects sense day length via a small lens and pigmented retinal cells.\n\nThis shows a wasp head with two of the three ocelli showing up between the back parts of the compound eyes. The ocelli are shiny black.\n\n“Each ocellus usually consists of a small lens backed up by several pigmented retinal cells, which can determine the quality and source of light and usually perceive something moving nearby. Ocelli usually look like small dark dots, and are often grouped in a triangle on the back of an insect’s head. They enable the insect to judge the length of daylight, for example, by which it may regulate its whole life cycle. Spiders’ eyes form extremely good images and have, for their size, excellent resolution.” (Foy and Oxford Scientific Films 1982:122)",
+  "function_addressed": [
+    "sense time and day length"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/ocelli-sense-length-of-daylight/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "ocelli",
+    "sense",
+    "length",
+    "daylight"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

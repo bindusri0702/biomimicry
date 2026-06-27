@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-nanostructures-help-transmit-light",
+  "organism_common": "Firefly",
+  "organism_scientific": "",
+  "strategy_summary": "Nanostructures on the cuticle of the firefly's abdomen help transmit bioluminescent light efficiently because they perfectly match the wavelength of light being emitted. A male firefly attracts mates by emanating bioluminescent light from a lantern on its abdomen.",
+  "mechanism": "Nanostructures on the cuticle of the firefly's abdomen help transmit bioluminescent light efficiently because they perfectly match the wavelength of light being emitted.\n\nA male firefly attracts mates by emanating bioluminescent light from a lantern on its abdomen. The lantern is comprised of three layers: a luminous layer, a nanostructured cuticle, and a dorsal layer. Typically, a material like the cuticle would block the bioluminescent light emitted from the luminous layer; it would be reflected back internally and never seen from the outside. This is because the wavelengths of light emitted from the luminous layer would not match up evenly with the surface of the cuticle, so it would hit it and bounce back.\n\nBut the firefly’s design addresses this challenge. The surface of its cuticle is covered in a series of precise nanostructures arranged in an orderly fashion. These “nanobumps” perfectly match the wavelength of light being emitted, ensuring that it passes right through the cuticle so a female can see it. Approximately 41% of the light produced is efficiently transmitted outside the firefly’s cuticle.\n\nThis summary was contributed by Tamsin Woolley-Barker and Ashley Meyers.\n\nImage copyright: Kim et al. 2012, PNAS, doi: 10.1073/pnas.1213331109\n\nCommon eastern firefly\n\nThe common eastern firefly produces light through a chemical reaction that energizes a molecule so it can release a photon.\n\nFirefly\n\nThe scales of the Phoruris firefly emit more light because misfit between scales increases the number of visible light beams.",
+  "function_addressed": [
+    "distribute energy",
+    "navigate through air"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nanostructures-help-transmit-light/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "nanostructures",
+    "transmit",
+    "light"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

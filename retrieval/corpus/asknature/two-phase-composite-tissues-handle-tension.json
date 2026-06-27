@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-two-phase-composite-tissues-handle-tension",
+  "organism_common": "Dutchman's pipe",
+  "organism_scientific": "",
+  "strategy_summary": "Dutchman’s pipe ( Aristolochia macrophylla ) is a deciduous vine native to the eastern United States. It thrives in moist, well-drained soils and often climbs trees and fences in forests and gardens.",
+  "mechanism": "The dutchman’s pipe exhibits a fascinating example of mechanical adaptation in its tissues. As a climbing vine, it must endure significant mechanical forces such as bending, twisting, and pulling, especially as it wraps around structures to gain height. The key to its mechanical resilience lies in the specialized structure and composition of its plant tissues, which extend beyond the typical simple elasticity observed in many plants.\n\nThe plant tissues of the dutchman’s pipe are composed of a network of cellulose fibers embedded in a matrix of hemicellulose and lignin. Cellulose fibers provide strength to resist pulling forces, much like steel rods in reinforced concrete, while hemicellulose and lignin act as the glue that holds everything together, offering compressive strength and flexibility. This combination allows the plant to bend without breaking, a property essential for climbing vines that need to wrap around various supports.\n\nWhen subjected to mechanical stress, the cellulose fibers in the dutchman’s pipe can realign and slide past one another, allowing the plant to deform without breaking. This deformation means the plant can absorb and dissipate energy, making it more resilient to environmental forces such as wind or the weight of the vine itself. The study by Köhler and Spatz (2002) delves into these mechanical properties, showing that plant tissues like those in the dutchman’s pipe exhibit behavior beyond simple elasticity, including plasticity (the ability to bend without breaking) and viscoelasticity (the ability to slowly return to their original shape). These properties enable the vine to endure and adapt to dynamic and unpredictable mechanical stresses in its habitat.\n\nUnderstanding the micromechanics of the dutchman’s pipe can inspire innovative designs in various fields. For instance, engineers can develop flexible and resilient materials for construction that mimic the plant’s ability to bend without breaking. Such materials could be used in buildings or structures in earthquake-prone areas, where the ability to absorb and dissipate energy is crucial.\n\nAdditionally, the composite nature of the plant tissues—combining strength and flexibility—can inform the creation of advanced materials for sports equipment, protective gear, and even biomedical devices like flexible prosthetics. These materials would be lightweight yet durable, providing both strength and flexibility.",
+  "function_addressed": [
+    "manage tension"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/two-phase-composite-tissues-handle-tension/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "two-phase",
+    "composite",
+    "tissues",
+    "handle",
+    "tension"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

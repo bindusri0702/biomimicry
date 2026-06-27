@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-tusks-sense-chemicals",
+  "organism_common": "Narwhal",
+  "organism_scientific": "",
+  "strategy_summary": "The tusks of male narwhals may detect chemicals related to ice formation, salinity, or prey using a vast network of fluid-filled tubules connected to the tusk's central nerve. Narwhals  “It could be a jousting tool or an ice-breaker.",
+  "mechanism": "The tusks of male narwhals may detect chemicals related to ice formation, salinity, or prey using a vast network of fluid-filled tubules connected to the tusk's central nerve.\n\nNarwhals\n\n“It could be a jousting tool or an ice-breaker. It has even been attributed to the legendary unicorn. But the true purpose of the narwhal’s spectacular spiral tusk has remained a mystery.\n\n“Now Martin Nweeia at Harvard School of Dental Medicine and his colleagues have come up with another explanation. They believe the tusk, which can measure up to 2.75 metres, could act as a sensor, helping the narwhal to survive in its Arctic home by detecting chemicals associated with prey, ice formation and salt concentrations.\n\n“Two tusks taken from recently caught narwhals were examined under an electron microscope. This revealed a vast network of around 10 million fluid-filled tubules connecting the tusk’s central nerve to the surrounding water. Such tubules exist in human teeth, but are only exposed at areas of gum recession, where they cause extreme sensitivity. ‘The last place you would expect to have something so sensitive is a cold Arctic environment,’ says Nweeia. A further surprise came when a laser was used to map the chemical composition of the tusk, a technique called reflectance microspectroscopy. It revealed that the narwhal’s tusk is ‘inside out’. Most teeth are hard on the outside and soft inside, but the narwhal’s tusk has a soft protein-rich exterior, while the inside is more mineralised. ‘Everything about these findings is counter-intuitive,’ says Nweeia.” (Geddes 2005:6)\n\nGeddes L. What’s the point of the narwhal’s tusk? New Scientist. Volume 188. 2005.\n\n''Monodon monoceros''",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tusks-sense-chemicals/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tusks",
+    "sense",
+    "chemicals"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-body-changes-stiffness",
+  "organism_common": "Leopard sea cucumber",
+  "organism_scientific": "",
+  "strategy_summary": "The body of the sea cucumber changes from soft to standard to hard due to stiffening and plastizing factors and exuding water. “Catch connective tissues or mutable collagenous tissues of echinoderms can extensively change their mechanical properties such as elasticity and viscosity within a few minutes under the…",
+  "mechanism": "The body of the sea cucumber changes from soft to standard to hard due to stiffening and plastizing factors and exuding water.\n\n“Catch connective tissues or mutable collagenous tissues of echinoderms can extensively change their mechanical properties such as elasticity and viscosity within a few minutes under the regulation of their nervous system. The tissues contain a large amount of the extracellular matrix, mainly consisting of collagen fibrils, proteoglycans and microfibrils. The unique properties of these collagenous tissues might be due to lack of permanent associations between the collagen fibrils and the surrounding extracellular matrix because it is easy to isolate collagen fibrils from catch connective tissues – unlike collagenous tissues of adult vertebrates. It seems that crosslinking of the collagen fibrils with adjacent ones and other components of the extracellular matrix is formed or broken during changes in the mechanical properties of catch connective tissues. The molecular mechanisms underlying the change are, however, not yet fully understood. The holothurian body wall dermis is a typical catch connective tissue that shows rapid and reversible changes in its mechanical properties in response to various stimuli. Extensive studies on the dynamic mechanical properties of the dermis of the sea cucumber Actinopyga mauritiana revealed that the tissue can adopt at least three different states. These are stiff, standard and soft states, which can be distinguished by elastic and viscous properties and by strain-dependent behaviors…The mechanical parameters of the standard state are not simply the intermediate values between the stiff and the soft states, suggesting that the molecular mechanism converting the soft to the standard state is different from that converting the standard to the stiff state.” (Yamada et al. 2010:3416)",
+  "function_addressed": [
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/body-changes-stiffness/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "body",
+    "changes",
+    "stiffness"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

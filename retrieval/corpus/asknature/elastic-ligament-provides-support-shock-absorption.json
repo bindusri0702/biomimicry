@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-elastic-ligament-provides-support-shock-absorption",
+  "organism_common": "Manage Impact",
+  "organism_scientific": "",
+  "strategy_summary": "The nuchal ligament of large grazing mammals provides support for the head and seems to act as a shock absorber, due to the presence of the protein elastin. “Our own rubber, elastin, occurs mainly as a component of two composites, skin and arterial wall.",
+  "mechanism": "The nuchal ligament of large grazing mammals provides support for the head and seems to act as a shock absorber, due to the presence of the protein elastin.\n\n“Our own rubber, elastin, occurs mainly as a component of two composites, skin and arterial wall. The nearest thing to pure elastin is the nuchal ligament of large grazing mammals. It runs from a ridge on the rear of the skull back along the top of the neck to the thoracic vertebrae; it seems to act as a shock absorber as well as a support for the head.” (Vogel 2003:304)",
+  "function_addressed": [
+    "manage impact",
+    "manage tension",
+    "manage compression"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/elastic-ligament-provides-support-shock-absorption/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "elastic",
+    "ligament",
+    "provides",
+    "support",
+    "shock",
+    "absorption"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

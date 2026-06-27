@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-nematocyst-stingers-accelerate-fast",
+  "organism_common": "Hydra",
+  "organism_scientific": "",
+  "strategy_summary": "Overcoming the protective cuticle of armored opponents is a challenge faced by many organisms for both defensive and predatory reasons. Thick shells like those of crustaceans are especially difficult to penetrate without the aid of sharp and strong body parts and powerful muscles to back them up.",
+  "mechanism": "The cells (cnidocysts) produce one large organelle called a nematocyst. The cell forms a layered polymer matrix around the nematocyst that keeps it strong and promotes the generation of 150 bar of pressure within the organelle at maturation. The “lid” of the capsule (operculum) associates with the cell membrane facing out. When the sensory portion of the cell (cnidocil) is mechanically disturbed (e.g., by contact with prey) it causes a rapid increase in the calcium ion concentration in the cell. This causes molecular rearrangement of the opeculum allowing the release of the nematocyst’s stored pressure towards the outside of the organism. The stylet, composed of strong and flexible protein tubules with spiked barbs at the end, ejects from the cell with an acceleration of ~5.4 million times gravity. Because of the tiny cross-sectional area at the tip of the stylet, 7.7 billion Pascals of pressure are exerted upon the cuticle of the prey and drives it deep into the underlying tissue. In fact, this is not only the fastest animal system observed to date, the pressure on impact is also comparable to that produced by a bullet.",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "modify size/shape/mass/volume",
+    "modify pressure",
+    "modify speed"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nematocyst-stingers-accelerate-fast/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "nematocyst",
+    "stingers",
+    "accelerate",
+    "fast"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-glycoprotein-prevents-ice-crystals",
+  "organism_common": "Protect From Ice",
+  "organism_scientific": "",
+  "strategy_summary": "The blood of some Antarctic ice fishes resists freezing via a glycoprotein that lowers the temperature at which ice crystals enlarge. “An internal antifreeze stops some animals from freezing in sub-zero temperatures.",
+  "mechanism": "The blood of some Antarctic ice fishes resists freezing via a glycoprotein that lowers the temperature at which ice crystals enlarge.\n\n“An internal antifreeze stops some animals from freezing in sub-zero temperatures. Some Antarctic fishes and certain species inhabiting Scandinavian fjords, as well as the Alaskan blackfish ( Dallia pectoralis ), are said to be freezing-susceptible because their bodies do not form ice crystals even in sub-zero temperatures. The blood of Antarctic ice fishes of the genus Trematomus has a glycoprotein that functions very efficiently in preventing the formation of ice crystals; indeed, it is 200-500 times more effective than salt. The glycoprotein lowers the temperature at which ice crystals enlarge, while having no effect upon the temperature at which they melt.” (Shuker 2001:110)\n\n“Antifreeze protein s (AFPs) and antifreeze glycoproteins (AFGPs) enable the survival of organisms living in subfreezing habitats and serve as preservatives. Although their function is known, the underlying molecular mechanism was not understood. Mutagenesis experiments questioned the previous assumption of hydrogen bonding as the dominant mechanism. We use terahertz spectroscopy to show that antifreeze activity is directly correlated with long-range collective hydration dynamics. Our results provide evidence for a new model of how AFGPs prevent water from freezing. We suggest that antifreeze activity may be induced because the AFGP perturbs the aqueous solvent over long distances. Retarded water dynamics in the large hydration shell does not favor freezing. The complexation of the carbohydrate cis -hydroxyl groups by borate suppresses the long-range hydration shell detected by terahertz absorption. The hydration dynamics shift toward bulk water behavior strongly reduces the AFGP antifreeze activity, further supporting our model.” (Ebbinghaus et al. 2010:12210)\n\nUniversity of Colorado Boulder\n\nConcrete admixture from University of Colorado, Boulder uses a polymer that inhibits ice formation to increase the concrete's freeze-thaw resilience.",
+  "function_addressed": [
+    "protect from ice",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/glycoprotein-prevents-ice-crystals/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "glycoprotein",
+    "prevents",
+    "ice",
+    "crystals"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

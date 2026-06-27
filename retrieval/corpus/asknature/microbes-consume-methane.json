@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-microbes-consume-methane",
+  "organism_common": "Archaeans",
+  "organism_scientific": "",
+  "strategy_summary": "The metabolism of ANME-1 and ANME-2 Archaea allows survival in anoxic environments via methane oxidation, and are often found in association with sulfate-reducing bacteria. “Evidence supporting a key role for anaerobic methane oxidation in the global methane cycle is reviewed.",
+  "mechanism": "The metabolism of ANME-1 and ANME-2 Archaea allows survival in anoxic environments via methane oxidation, and are often found in association with sulfate-reducing bacteria.\n\n“Evidence supporting a key role for anaerobic methane oxidation in the global methane cycle is reviewed. Emphasis is on recent microbiological advances. The driving force for research on this process continues to be the fact that microbial communities intercept and consume methane from anoxic environments, methane that would otherwise enter the atmosphere. Anaerobic methane oxidation is biogeochemically important because methane is a potent greenhouse gas in the atmosphere and is abundant in anoxic environments. Geochemical evidence for this process has been observed in numerous marine sediments along the continental margins, in methane seeps and vents, around methane hydrate deposits [as seen in the photo above], and in anoxic waters. The anaerobic oxidation of methane is performed by at least two phylogenetically distinct groups of archaea, the ANME-1 and ANME-2. These archaea are frequently observed as consortia with sulfate-reducing bacteria, and the metabolism of these consortia presumably involves a syntrophic association based on interspecies electron transfer. The archaeal member of a consortium apparently oxidizes methane and shuttles reduced compounds to the sulfate-reducing bacteria. Despite recent advances in understanding anaerobic methane oxidation, uncertainties still remain regarding the nature and necessity of the syntrophic association, the biochemical pathway of methane oxidation, and the interaction of the process with the local chemical and physical environment. This review will consider the microbial ecology and biogeochemistry of anaerobic methane oxidation with a special emphasis on the interactions between the responsible organisms and their environment.” (Valentine 2002:271)\n\nThree mechanisms of Anaerobic Oxidation of Methane (AOM). The first method (top) is mediated by a consortium of anaerobic methanotrophic (ANME) archaea from the clades 1,2a,2b & 2c and sulfate reducing bacteria (SRB). The oxidation of methane occurs in the ANME where electrons are passed directly to the SRB, which performs sulfate reduction [1][2]. The second method (middle) links methane oxidation with nitrate reduction, mediated by consortia of ANME archaea and Anammox bacteria [3]. The third mechanism (bottom) also links methane oxidation with nitrate reduction but is mediated by ANME archaea and NC10 bacteria. Unlike the first two mechanisms, both the ANME archaea and NC10 bacteria compete for methane.",
+  "function_addressed": [
+    "chemically generate flow of electrons (redox)",
+    "modify oxidation state",
+    "modify electron transport"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/microbes-consume-methane/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "microbes",
+    "consume",
+    "methane"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

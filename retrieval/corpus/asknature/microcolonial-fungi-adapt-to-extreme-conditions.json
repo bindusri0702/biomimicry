@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-microcolonial-fungi-adapt-to-extreme-conditions",
+  "organism_common": "Ascomycota",
+  "organism_scientific": "",
+  "strategy_summary": "Free-living ascomycetes growing in colonies can spread into the extremely hostile environments including deserts because they possess extracellular polymeric substances and other adaptations. “Rock-inhabiting MCF [microcolonial fungi] endure sudden changes in the environment by rapidly adapting their metabolic…",
+  "mechanism": "Free-living ascomycetes growing in colonies can spread into the extremely hostile environments including deserts because they possess extracellular polymeric substances and other adaptations.\n\n“Rock-inhabiting MCF [microcolonial fungi] endure sudden changes in the environment by rapidly adapting their metabolic activity, life style and survival structures to the new conditions. Ultrastructural peculiarities of these fungi suggest spore-like metabolism and protection (Fig. 6) although MCF do not propagate sexually (Gorbushina, 2003; Gorbushina et al., 2003). Relevant characteristics of poikilo-tolerant MCF include: (i) the capacity to survive long periods of suspended metabolism. In this way, they can remain as colonies made up of pseudo tissue-like microcolonies comprising 100–500 cells for several decades until conditions favourable to further growth return; (ii) the ability to re-organize internally by constantly replacing dying or dead cells with new buds (Gorbushina et al., 2003) and Fig. 6C; (iii) the ability to form filamentous hyphae that develop from clump-like colonies (Fig. 5E) to penetrate deep into rocks thus protecting themselves from environmental stresses. In this sense, the visible portion of melanized MCF is like the tip-of-the-iceberg, because the hyphae can rapidly penetrate several mm to cm into hard rocks in search of more protected environments and; (iv) the ability to create a multitude of varnish-like coatings, skins and shells that arise from the impregnation of the extracellular matrix and melanin layers with minerals (Dragovich, 1984; 1993; 1998; Gorbushina, 2003).” (Gorbushina 2007:1619-1620)",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/microcolonial-fungi-adapt-to-extreme-conditions/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "microcolonial",
+    "fungi",
+    "adapt",
+    "extreme",
+    "conditions"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

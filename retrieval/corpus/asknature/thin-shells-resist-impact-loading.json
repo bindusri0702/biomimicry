@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-thin-shells-resist-impact-loading",
+  "organism_common": "Heart urchins",
+  "organism_scientific": "",
+  "strategy_summary": "The hard outer coverings of some sea urchins, called tests, allow local deformation that may resist impact loading by incorporating collagen-swathed sutures. “Some of the few relatively large shells with thin walls are those of sea urchins and other echinoid echinoderms.",
+  "mechanism": "The hard outer coverings of some sea urchins, called tests, allow local deformation that may resist impact loading by incorporating collagen-swathed sutures.\n\n“Some of the few relatively large shells with thin walls are those of sea urchins and other echinoid echinoderms. They resemble pressure-supported structures…but they lack the requisite internal pressures (Ellers and Telford 1992), so they have to have proper shells, at least in the engineering sense. For the biologist, they have ‘tests’ rather than ‘shells,’ and the latter distinction isn’t just our usual terminological proliferation. Tests, unlike shells, are growing structures of articulated hard elements. For some, at least, collagen-swathed sutures permit significant local deformation, which should reduce impact loading and thus offset some of the hazards of a thin shell (Telford 1985). Nonetheless, they do smash easily…The best rationalization I can offer for why sea urchins tolerate such fragility is that the wave forces don’t provide either piercing loads or a sudden hammering impact.” (Vogel 2003:388)",
+  "function_addressed": [
+    "protect from animals",
+    "manage impact",
+    "manage compression",
+    "prevent deformation",
+    "prevent fatigue"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/thin-shells-resist-impact-loading/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "thin",
+    "shells",
+    "resist",
+    "impact",
+    "loading"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

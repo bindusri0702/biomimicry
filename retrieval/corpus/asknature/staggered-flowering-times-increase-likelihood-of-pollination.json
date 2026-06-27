@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-staggered-flowering-times-increase-likelihood-of-pollination",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Staggered flowering times among ericad peatland plants increase likelihood of successful pollination by reducing competition for scarce pollinators. Peatland ecosystems are often characterized by having few pollinator species, as well as small pollinator population sizes.",
+  "mechanism": "Staggered flowering times among ericad peatland plants increase likelihood of successful pollination by reducing competition for scarce pollinators.\n\nPeatland ecosystems are often characterized by having few pollinator species, as well as small pollinator population sizes. This affects plants by decreasing the rate of pollination, as fewer individuals are available to move pollen between plants, which decreases the number of plant offspring produced. In order to counteract the low numbers of both pollinator species and pollinator population sizes, plant species belonging to the ericad family have developed an interesting strategy. They stagger their flowering times, so they don’t overlap. This increases the rate of successful pollination, as there are fewer flowers to visit at any one time, thus reducing competition for pollinators, and ensuring that pollen is transferred to another member of the species. Differences in cold tolerance determine the sequential flowering times. The higher a plant’s cold tolerance, the sooner after a frost it can start to produce pollen. These differences result in different flowering times, reduced competition for pollinators, more targeted pollination, and ultimately increased rate of successful reproduction for the plants.\n\nThis summary was contributed by Thomas McAuley-Biasi.\n\nImage: Tim Lenz / toggle icon Image: Mirjana Chamberlain-Vucic / toggle icon right arrow right arrow",
+  "function_addressed": [
+    "cooperate/compete between different species",
+    "cooperate within an ecosystem"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/staggered-flowering-times-increase-likelihood-of-pollination/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "staggered",
+    "flowering",
+    "times",
+    "increase",
+    "likelihood",
+    "pollination"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

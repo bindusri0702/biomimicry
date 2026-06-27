@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-guying-used-for-stabilization",
+  "organism_common": "Golden bamboo",
+  "organism_scientific": "",
+  "strategy_summary": "The guying and lateral roots of bamboo stabilize the main stem by distributing tensile forces. “While no systematic study has yet been done, at least four distinct schemes seem to be used to keep roots and soil in decent contiguity.",
+  "mechanism": "The guying and lateral roots of bamboo stabilize the main stem by distributing tensile forces.\n\n“While no systematic study has yet been done, at least four distinct schemes seem to be used to keep roots and soil in decent contiguity. Combinations of more than a single scheme certainly occur, and a given tree may use different schemes or a varying mix of several as it grows from a sapling…One further scheme, rare in true trees, can certainly stabilize structures of comparable height. The culms of bamboo use what amounts to a variation on tensile buttressing that we can call ‘diagonal guying,’ shown in figure 21.3d. Once again, tensile forces on the upwind side run downward and outward through tension-resisting structures to lateral roots. Once again lateral roots must withstand substantial tensile forces, taking advantage of a dense tangle of other roots in the superficial layer of the soil. Those lateral roots, I assure the reader from hard personal experience, go far and, with their pelage of outgrowths, don’t easily separate from the soil. The diagonal guying of bamboo looks relatively symmetrical above and below the lateral roots, with a taproot and a set of guying roots below as well as above. The scheme seems especially elegant in the way it uses ropes rather than solid buttresses for guying. In a tensile buttress, of course, the outermost region will carry almost the entire load, so the inner part is mainly wasted. But the otherwise admirable ability of dicotyledonous trees to grow in girth probably renders ropes impractical–guying ropes would need not only to thicken but would have to move ever further outward from the base. Bamboos, like palms, just don’t grow girthwise.” (Vogel 2003:433-434)",
+  "function_addressed": [
+    "manage tension"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/guying-used-for-stabilization/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "guying",
+    "used",
+    "stabilization"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

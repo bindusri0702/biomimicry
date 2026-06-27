@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-optimal-branching-of-vascular-vessels-minimizes-work",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "Vascular and respiratory vessels in mammals minimize the amount of biological work required to operate by being arranged hierarchically. Image: Anita (annyta_k) / toggle icon Image: Patrick J.",
+  "mechanism": "Vascular and respiratory vessels in mammals minimize the amount of biological work required to operate by being arranged hierarchically.\n\nImage: Anita (annyta_k) / toggle icon Image: Patrick J. Lynch / toggle icon right arrow right arrow\n\n“The vessels found in mammalian cardiovascular and respiratory systems are usually arranged in hierarchical structures and a distinctive feature of this arrangement is their multi-stage division or bifurcation. At each generation, the characteristic dimension of the vascular segments will generally become smaller, both in length and diameter.” (Barber and Emerson 2008: 179)\n\n“The branching structures found in mammalian cardiovascular and respiratory systems have evolved, through natural selection, to an optimum arrangement that minimizes the amount of biological work required to operate and maintain the system. The relationship between the diameter of the parent vessel and the optimum diameters of the daughter vessels was first derived by Murray (1926) using the principle of minimum work. This relationship is now known as Murray’s law and states that the cube of the diameter of a parent vessel equals the sum of the cubes of the diameters of the daughter vessels.” (Barber and Emerson 2008: 180)\n\n[This mathematical structure is also found in trees and other organisms that exhibit branching]",
+  "function_addressed": [
+    "distribute liquids",
+    "distribute gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/optimal-branching-of-vascular-vessels-minimizes-work/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "optimal",
+    "branching",
+    "vascular",
+    "vessels",
+    "minimizes",
+    "work"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-fur-decreases-water-turbulence",
+  "organism_common": "Seals",
+  "organism_scientific": "",
+  "strategy_summary": "The fur of seals may help them swim efficiently by maintaining laminar flow. “ … the short wiry hair or feather coats of such good swimmers as seals and penguins seem to be a great advantage for the maintenance of laminar flows.",
+  "mechanism": "The fur of seals may help them swim efficiently by maintaining laminar flow.\n\n“ … the short wiry hair or feather coats of such good swimmers as seals and penguins seem to be a great advantage for the maintenance of laminar flows. This is borne out by technical experiments with fine wire on surfaces in a flow field (M. D. Kramer, 1938), as well as by indirect clues. The splendid fur of the seal, for instance, provides no protection against getting wet; it gets soaked through in the water. And, when exposed to the air, wet fur presents a considerable risk of a chill. We must assume that wet fur represents an advantage for swimming. And, like the seal’s coat of hair, the feathers of birds may have a favorable effect on the boundary layer.” (Tributsch 1984:49)",
+  "function_addressed": [
+    "move in/on liquids",
+    "manage turbulence"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fur-decreases-water-turbulence/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fur",
+    "decreases",
+    "water",
+    "turbulence"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

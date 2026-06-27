@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-photosensory-organs-assemble-at-low-temperatures",
+  "organism_common": "Red Ophiocoma",
+  "organism_scientific": "",
+  "strategy_summary": "Arms of brittlestars have crystal lenses that focus light efficiently, yet are assembled from natural materials at sea temperature. “Certain single calcite crystals used by brittlestars for skeletal construction are also a component of specialized photosensory organs, conceivably with the function of a compound eye.",
+  "mechanism": "Arms of brittlestars have crystal lenses that focus light efficiently, yet are assembled from natural materials at sea temperature.\n\n“Certain single calcite crystals used by brittlestars for skeletal construction are also a component of specialized photosensory organs, conceivably with the function of a compound eye. The analysis of arm ossicles in Ophiocoma showed that in light-sensitive species, the periphery of the labyrinthic calcitic skeleton extends into a regular array of spherical microstructures that have a characteristic double-lens design(…)The microlenses are optical elements that guide and focus the light inside the tissue(…)The optical performance is further optimized by phototropic chromatophores that regulate the dose of illumination reaching the receptors. These structures represent an example of a multi-functional biomaterial that fulfills both mechanical and optical functions.” (Aizenberg et al. 2001:819)\n\n“Brittlestars form a nearly perfect optical device with micron-scale, lightweight, mechanically strong, aberration-free, birefringence-free, individually-addressed lenses, which offer a unique focusing effect, signal enhancement, intensity adjustment, angular selectivity, and photochromic activity.” (Aizenberg and Hendler 2004:2066)\n\nAizenberg J; Tkachenko A; Weiner S; Addadi L; Hendler G. Calcitic microlenses as part of the photoreceptor system in brittlestars. 2001. Nature 412:819-822.\n\nAizenberg J; Hendler G. 2004. Designing efficient microlens arrays: lessons from Nature. Journal of Materials Chemistry 14:2066-2072.",
+  "function_addressed": [
+    "sense light (visible spectrum) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/photosensory-organs-assemble-at-low-temperatures/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "photosensory",
+    "organs",
+    "assemble",
+    "low",
+    "temperatures"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-photosynthesis-with-low-co2",
+  "organism_common": "Stoneworts",
+  "organism_scientific": "",
+  "strategy_summary": "Plants in calcareous peatlands photosynthesize in low CO2 levels by taking up bicarbonate and converting it to CO2. “Some plant species live entirely submerged.",
+  "mechanism": "Plants in calcareous peatlands photosynthesize in low CO2 levels by taking up bicarbonate and converting it to CO2.\n\n“Some plant species live entirely submerged. The leaves are often very thin, with a large surface area, and lack stomata. Some of these plants are rooted in the bottom, but others have no roots at all (for instance Utricularia spp.). Waters around these plants can be still, slowly moving, or rapidly mixing as in case of rivers and lakes with peatland margins. Such plants take up carbon dioxide (CO 2 ) and nutrients directly into the leaves from the water, just in the way that bryophytes do. Carbon dioxide is rarely limiting, but in waters with very high pH (as in calcareous fens) the availability of CO 2 is much reduced, and some plants have the ability to take up bicarbonate (HCO 3 -), which is then converted to CO 2 in the cell and used in photosynthesis . Examples are the stoneworts (Characeae), which are characteristic species in calcareous waters, and several species of Myriophyllum and Ceratophyllum (Hutchinson 1975). Given that there are enough plants, they can produce the oxygen required for respiration themselves.” (Rydin and Jeglum 2006:46-47)",
+  "function_addressed": [
+    "adapt behaviors",
+    "regulate cellular processes",
+    "capture, absorb, or filter chemical entities"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/photosynthesis-with-low-co2/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "photosynthesis",
+    "low"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

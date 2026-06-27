@@ -1,0 +1,22 @@
+{
+  "doc_id": "asn-the-load-bearing-success-of-articular-cartilage",
+  "organism_common": "Animals",
+  "organism_scientific": "",
+  "strategy_summary": "Articular cartilage is a remarkable tissue that caps the ends of bones in joints like the knees, hips, and shoulders. This smooth, low-friction layer ensures that our joints move effortlessly while also bearing significant weight, absorbing shocks, and resisting wear for decades.",
+  "mechanism": "Articular cartilage achieves its load-bearing and shock-absorbing functions through its structure, which combines three key components.\n\nThe first component, the solid phase, includes a robust network of collagen fibers (primarily type II collagen) and proteoglycan molecules. Collagen provides tensile strength, while proteoglycans trap water due to their negative charge, creating a gel-like matrix that resists compression. This fiber-reinforced matrix forms the backbone of the cartilage.\n\nThe second component, the fluid phase, is composed of water, which makes up to 80% of the cartilage’s weight. Water flows through the porous matrix during joint movement, redistributing pressure and aiding in lubrication.\n\nThe third component, the ion phase, consists of charged ions dissolved in the water, which interact with proteoglycans to create osmotic pressure. This pressure maintains the tissue’s hydration and structural integrity, ensuring it can recover its shape after compression.\n\nTogether, these components work in harmony. Under compressive stress, water is temporarily squeezed out of the matrix, but osmotic forces draw it back, restoring the tissue’s volume. This dynamic behavior, known as “viscoelasticity”, allows cartilage to adapt to varying loads and movements. The tissue’s low permeability ensures water moves slowly, dampening forces and preventing rapid tissue deformation. The superficial layer of cartilage, which is rich in tightly aligned collagen fibers, acts as a protective barrier. This layer resists shear forces and limits water loss, ensuring the cartilage retains its load-bearing capacity during dynamic activities.\n\nThe design of articular cartilage offers inspiration for engineering and medicine. Its mechanical strength, flexibility, and selective permeability have inspired the development of high-performance batteries and next-gen energy storage systems. Its structure and properties could also inspire better-shock-absorbing materials for vehicles, footwear, and sports equipment.\n\nIn biomedical applications, mimicking the structure of cartilage could lead to advanced prosthetics or scaffolds for cartilage regeneration, aiding in joint repair for conditions like osteoarthritis.\n\nAdditionally, the slow-flowing fluid dynamics in cartilage could inspire filtration systems or materials that regulate fluid movement under pressure and its frictionless surface may also suggest designs for machinery requiring minimal wear and tear, reducing reliance on oil-based lubricants. By studying articular cartilage, we can design systems that are not only more efficient and durable but also in harmony with nature’s principles of sustainability and resilience.",
+  "function_addressed": [],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/the-load-bearing-success-of-articular-cartilage/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "load-bearing",
+    "success",
+    "articular",
+    "cartilage"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

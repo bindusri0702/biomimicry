@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-tentacles-help-filter-food",
+  "organism_common": "Burrowing sea cucumber",
+  "organism_scientific": "",
+  "strategy_summary": "The tentacles of the burrowing sea cucumber capture floating particulate food matter using on a complex particle trap, mucus, and an oral passageway. “The feeding tentacles, being part of the water-vascular system, can be extended by hydraulic pressure.",
+  "mechanism": "The tentacles of the burrowing sea cucumber capture floating particulate food matter using on a complex particle trap, mucus, and an oral passageway.\n\n“The feeding tentacles, being part of the water-vascular system, can be extended by hydraulic pressure. The four basic types of tentacles are dendritic, peltate, digitate, and pinnate [burrowing sea cucumbers’ tentacles are dendritic]. Dendritic tentacles gather small particles suspended in the water. Particles adhere to a coating of mucus on the tentacle, then the sea cucumber places it into its mouth and removes the food. This is suspension feeding. Cucumeria miniata [Burrowing sea cucumber] is a common suspension feeder.” (Lambert 1997:6)",
+  "function_addressed": [
+    "capture, absorb, or filter solids",
+    "capture, absorb, or filter energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tentacles-help-filter-food/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tentacles",
+    "filter",
+    "food"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

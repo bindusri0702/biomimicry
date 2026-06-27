@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-walls-prevent-collapse-under-tension",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Xylem vessels and tracheids of vascular plants prevent their own collapse while under tension via helical thickening of their walls. “In young plants, often in addition to the epidermis, the cells specialized for conducting water from root to leaves and shoots, have a mechanical function.",
+  "mechanism": "Xylem vessels and tracheids of vascular plants prevent their own collapse while under tension via helical thickening of their walls.\n\n“In young plants, often in addition to the epidermis, the cells specialized for conducting water from root to leaves and shoots, have a mechanical function. The xylem vessels and tracheids are elongated cells (in the case of vessels, the vessel itself is composed of a series of shorter ‘vessel elements’ forming an axially elongated structure). These cells have thickened walls which help prevent their collapse when water in them is under tension through the pull of the transpiration stream (Fig. 3). The drying effect at the leaf surface promotes water movement from the roots through the plant body. The first formed conducting cells of the xylem consist of rather thin-walled, elongated cells that have to extend with the growth in the length of the stem. Their collapse during the time they are needed to function is prevented by specialised thickening in their walls. This takes on the form of a series of annuli, or of a spiral (helical) winding…The tracheids and vessels formed after extension growth is complete tend to have thick, rigid walls with either thin areas (pits), as in both tracheids and vessel elements, or clear openings between cells in line, as in vessel elements alone. These facilitate water movement from cell to cell. Even here, some of these cells in a range of species have an additional helical thickening on the inner side of their walls.” (Cutler 2005:99-100)",
+  "function_addressed": [
+    "manage tension"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/walls-prevent-collapse-under-tension/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "walls",
+    "prevent",
+    "collapse",
+    "under",
+    "tension"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-vascular-systems-transport-fluids-and-solutes",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Vascular systems of plants transport fluids and solutes by creating bars of tension by capillary action in leaves to pull water out of the soil and through the plant. “Vascular structures are the central element of nearly all biological tissues, allowing for efficient convective transport of fluid and solute to all…",
+  "mechanism": "Vascular systems of plants transport fluids and solutes by creating bars of tension by capillary action in leaves to pull water out of the soil and through the plant.\n\n“Vascular structures are the central element of nearly all biological tissues, allowing for efficient convective transport of fluid and solute to all parts of the tissue from a centralized source. Abraham Stroock and colleagues from the Dept. of Biomedical Engineering at Cornell are developing synthetic biomaterials with embedded microfluidic vascular structures to address two important challenges in the field of wound healing: 1) clinical treatment of severe cutaneous wounds due to burns or diabetes; and 2) in vitro modeling of the wound bed and development of improved epidermal grafts.” (Courtesy of the Biomimicry Guild)\n\nCase studies database entry titled “Plant vascular system mimicked for wound dressing”",
+  "function_addressed": [
+    "distribute liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/vascular-systems-transport-fluids-and-solutes/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "vascular",
+    "systems",
+    "transport",
+    "fluids",
+    "solutes"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-cracking-skin-retains-moisture-and-regulates-temperature",
+  "organism_common": "Elephants",
+  "organism_scientific": "",
+  "strategy_summary": "The African bush elephant ( Loxodonta africana ) is a heat-adapted giant of the savannas, roaming sun-drenched landscapes where temperatures soar and water can be hard to find. Unlike many other mammals, elephants have no sweat or oil glands.",
+  "mechanism": "If you look closely at an African elephant’s skin, you’ll see more than just big wrinkles. There’s also a delicate web of tiny, shallow cracks across the surface, especially on the face and trunk. These cracks act like capillaries: channeling, spreading, and holding water and mud.\n\nBecause of these micro-channels, elephants can carry five to ten times more water on their skin than they could on a smooth surface. This thin layer of water doesn’t just sit there, it slowly evaporates, drawing heat away from the body. In this way, the cracks act like a natural air conditioning system, extending the cooling effects of water long after the initial splash. Mud, which is heavier than water, also clings to the cracked surface. It blocks intense sunlight and provides a physical barrier against biting insects and parasites.\n\nSo how do these cracks form? As the elephant’s thick outer skin layer (the stratum corneum ) builds up and dries out over time, it stiffens and can no longer bend easily. The skin grows over a bumpy layer beneath it, and this causes bending stress. Eventually, the brittle outer layer cracks, right along the low points between the bumps.\n\nThis strategy reveals how structural surface features, especially passive channels, can dramatically enhance the performance of simple materials. The key is not what the skin is made of, but how it is shaped. By naturally forming cracks in specific patterns, the elephant’s skin becomes a functional surface that retains and manages water in a dry environment.\n\nDesigners could learn from this principle by using geometry—not just materials—to control where and how cracks form, turning what is often seen as failure into function. Whether it’s cooling, protection, or resource retention, these principles can be applied to create surfaces that interact more effectively with water, temperature, and even debris or dirt. This approach uses no added energy, no chemicals, and no moving parts, yet it achieves high performance by working in harmony with physical forces like gravity, evaporation, and stress.",
+  "function_addressed": [
+    "protect from temperature",
+    "capture, absorb, or filter liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/cracking-skin-retains-moisture-and-regulates-temperature/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "cracking",
+    "skin",
+    "retains",
+    "moisture",
+    "regulates",
+    "temperature"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

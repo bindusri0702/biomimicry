@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-hierarchical-organization-of-peel-confers-impact-resistance",
+  "organism_common": "Pomelo",
+  "organism_scientific": "",
+  "strategy_summary": "The pomelo fruit has excellent damping properties due to the hierarchical organization of its composite peel  Hierarchical structure of the pummelo. One half of a cut pummelo.",
+  "mechanism": "The pomelo fruit has excellent damping properties due to the hierarchical organization of its composite peel\n\nHierarchical structure of the pummelo.\n\nOne half of a cut pummelo.\n\nPummelos of various sizes, taken Jan. 30, 2005.\n\n“Natural materials often exhibit excellent mechanical properties. An example of outstanding impact resistance is the pummelo fruit ( Citrus maxima ) which can drop from heights of 10 m and more without showing significant outer damage. Our data suggest that this impact resistance is due to the hierarchical organization of the fruit peel, called pericarp.” (Fischer 2010: B658)\n\n“ Citrus maxima is the largest fruit among the genus Citrus with a fruit weight up to 6 kg and a maximal height of the fruit bearing trees of 15 m. In combination these two factors, fruit weight and the height of the fruit bearing branches, cause a high potential energy of the hanging fruit. After the fruit is shed its potential energy is converted into kinetic energy which reaches its maximum just before impact with the ground. If the high kinetic energy was to cause the pummelos to split open when impacting with the ground, the fruits would perish within a short time due to the tropical climate in Southeast Asia, the region of origin of the genus Citrus .” (Fischer 2010: B659)\n\n“Semi-quantitative analyses of thin sections of pummelo peel revealed a gradual transition in density between exocarp and mesocarp. Thus, structurally, the dense exocarp cannot be separated clearly from the spongy mesocarp. We hypothesize that due to this lack of an abrupt change in tissue composition and therefore in structural and mechanical properties the risk of delamination of the tissues during impact is reduced. The impact force acting on the pummelo depends on the velocity of the fruit before impact and its weight, but also on the consistency of the ground. Under natural conditions, part of the total energy is dissipated by the relatively pliable ground, as typically existing in the regions where pummelos grow naturally. In the tests presented mechanical loads acting on the fruits were increased by dropping the fruits onto a hard ground. Thus all kinetic energy must have been dissipated by the fruits themselves. The mesocarp with its air-filled intercellular spaces represents a compressible foam. As the Young’s modulus of this spongy part of the peel is rather low, we conclude that its ability to dissipate large amounts of energy must result from the structural composition of the peel.” (Fischer 2010: B662)\n\nDurham University\n\nProteus from Durham University is a non-cuttable material made of a ceramic spheres within a flexible aluminum structure that interferes with cutting tools.",
+  "function_addressed": [
+    "manage impact",
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hierarchical-organization-of-peel-confers-impact-resistance/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hierarchical",
+    "organization",
+    "peel",
+    "confers",
+    "impact",
+    "resistance"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

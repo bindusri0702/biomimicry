@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-platelets-block-blood-loss",
+  "organism_common": "Humans",
+  "organism_scientific": "",
+  "strategy_summary": "Why doesn’t all of our blood drain from our bodies when we get even a minor cut? The answer, in a word, is platelets.",
+  "mechanism": "When all is well, platelets simply flow through blood vessels alongside other cells and substances. But if a platelet encounters a protein on the wall of the blood vessel that indicates that the vessel has been injured, it springs into action and another protein on the surface of the platelet grabs onto the protein that’s signaling trouble.\n\nThat connection then triggers a series of changes within the platelet. The platelet forms octopus-like tentacles that extend its surface area. It flattens out like a pancake. It releases compounds that make it sticky and compounds that attract other platelets to join the effort. And its surface changes in a way that enables a stringlike material called fibrin to link it to these additional platelets. Within minutes, these many activities create a clot—a plug that closes the wound and reduces or stops the loss of blood.\n\nThe body’s ability to mobilize its blood-clotting forces when a blood vessel is breached without any conscious effort is critical to survival. People with a genetic mutation that prevents normal clotting can suffer life-threatening damage to internal tissues due to uncontrolled bleeding.\n\nAlso critical is the ability to prevent clotting when it’s not wanted. Sometimes platelets misread the signals, interpreting an irregularity in a blood vessel wall as an injury that needs repair. In such cases, clots can form within an intact vessel, blocking normal blood flow in a way that can injure or kill the organism. For the most part, however, the rapid transformation of inactive platelet cells to connected clumps that are able to stop blood flow serves as a literal life saver, providing a stopgap patch after injury until the blood vessel repair team arrives.\n\nWith its ability to flow freely through the bloodstream under normal circumstances but also to identify a break and rapidly change form and function to create a temporary closure, platelets offer an inspiring model for preventing problems caused by breaching a barrier between a liquid and its environment. For oil pipelines, wastewater disposal systems, tanker trucks, and more, these microscopic first responders offer valuable inspiration for strategies that both alert system operators that a problem has occurred and help minimize harm when it does.",
+  "function_addressed": [
+    "protect from loss of liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/platelets-block-blood-loss/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "platelets",
+    "stop",
+    "blood",
+    "loss"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-camouflage-reduces-herbivory",
+  "organism_common": "Pebble plants",
+  "organism_scientific": "",
+  "strategy_summary": "The flat, rounded leaves and underground growth of pebble plants may protect them from herbivory by serving as camouflage. “Pebble plants grow in the stonier patches of the same [Namib] [D]esert.",
+  "mechanism": "The flat, rounded leaves and underground growth of pebble plants may protect them from herbivory by serving as camouflage.\n\n“Pebble plants grow in the stonier patches of the same [Namib] [D]esert. They survive by living partly underground. Their leaves have been reduced to a single pair, fat, round and succulent, with just a groove between them from which, in the right season, will sprout a surprisingly large flower. Such a rounded shape, with a very low surface area for a given volume, reduces evaporation to a minimum and is therefore a great help to the plant in conserving its water in the intense heat. But as has been noted earlier it may bring an additional benefit. Outside the flowering season, the plant is very difficult to find among the gravel and pebbles, so its shape could also serve as a defence against detection by grazing animals — ostriches and tortoises, porcupines and perhaps a few gerbils.” (Attenborough 1995:265)",
+  "function_addressed": [
+    "protect from animals",
+    "modify size/shape/mass/volume",
+    "modify position"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/camouflage-reduces-herbivory/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "camouflage",
+    "reduces",
+    "herbivory"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

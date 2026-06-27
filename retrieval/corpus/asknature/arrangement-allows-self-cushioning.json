@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-arrangement-allows-self-cushioning",
+  "organism_common": "Froghopper",
+  "organism_scientific": "",
+  "strategy_summary": "The bubbles of spittle bugs and other organisms self-cushion due to the principles of soap bubble geometry. A number of spittlebugs on grasses.",
+  "mechanism": "The bubbles of spittle bugs and other organisms self-cushion due to the principles of soap bubble geometry.\n\nA number of spittlebugs on grasses.\n\nA number of spittlebugs on grasses.\n\nSpittlebug foam.\n\n“Bubbles are commonly encountered in nature, across many phyla and habitats—from the slimy protective bubbles of the spittle bugs to the bubble eggs of many water-loving vertebrates, including many species of fish and amphibians, particularly frogs. Bubbles serve as insulation, moisturizer, and protection from predators. Spittle bugs use recycled sap from grass stems converted to a soapy liquid that they pump into foamy bubbles using their tails…Frog eggs and spittle bug bubbles self-cushion when packed in an array and naturally leave little air amongst them. This is because nature’s bubbles join according to three principles of soap bubble geometry. First, a compound bubble consists of flat or smoothly curved surfaces joined together. Second, the surfaces meet in only two ways: either three surfaces merge along a curve (edge), or six surfaces at a vertex. Third, when surfaces come together at a curve, or curves and surfaces at a point, they do so at equal angles. These three principles allow bubbles to eliminate air space between their flexible membranes, thereby optimally packing spheres.” (Biomimicry Guild unpublished report)",
+  "function_addressed": [
+    "manage impact"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/arrangement-allows-self-cushioning/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "arrangement",
+    "allows",
+    "self-cushioning"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

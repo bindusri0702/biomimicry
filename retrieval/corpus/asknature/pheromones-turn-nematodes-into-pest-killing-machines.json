@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-pheromones-turn-nematodes-into-pest-killing-machines",
+  "organism_common": "Nematodes",
+  "organism_scientific": "",
+  "strategy_summary": "Do roundworms make you squeamish? If so, it’s understandable.",
+  "mechanism": "A few nematode species have evolved to target insects (weevils, borers, beetles, and moths, just to name a few) that humans deem “pests” because they destroy our crops. Farmers have begun employing them as a natural pesticide––a more environmentally-friendly alternative to chemicals.\n\nStudies have now shown that pheromones called called ascarosides play a key role in triggering the critical dispersal phase of their life cycles, when young nematodes known as “infective juveniles” (IJs) will search through soil until encountering an insect they can infect.\n\nScientists suggest that nematodes could be exposed to these pheromones before being applied to crops for up to 78% more pest-killing efficacy. The company Pheronym is already producing nematode pheromones for commercial use, helping to pave the way toward a more eco-friendly agriculture system.",
+  "function_addressed": [
+    "cooperate within the same species",
+    "coordinate by self-organization",
+    "respond to signals",
+    "sense chemicals (odor, taste, etc.) from the environment",
+    "send chemical signals (odor, taste, etc.)"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pheromones-turn-nematodes-into-pest-killing-machines/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pheromones",
+    "turn",
+    "nematodes",
+    "pest-killing",
+    "machines"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

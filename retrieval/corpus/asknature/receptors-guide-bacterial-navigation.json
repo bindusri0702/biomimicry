@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-receptors-guide-bacterial-navigation",
+  "organism_common": "Escherichia coli",
+  "organism_scientific": "",
+  "strategy_summary": "Outer membranes of Escherichia coli cells direct the cell toward food using \"taste\" receptor protein clusters that send signals to the motor proteins of the flagella. Our senses act in partnership with our complex brains to enable us to identify food sources and go after them.",
+  "mechanism": "Outer membranes of Escherichia coli cells direct the cell toward food using \"taste\" receptor protein clusters that send signals to the motor proteins of the flagella.\n\nOur senses act in partnership with our complex brains to enable us to identify food sources and go after them. But how do simple, single-celled Escherichia coli ( E. coli ) bacteria identify the presence and position of food sources? They do it with chemistry. Clusters of proteins in the bacteria’s outer membrane can sense very small concentrations of nutrients in the cell’s watery surroundings. Once nutrient compounds are detected, the receptor molecules release other proteins into the interior of the bacterial cell that undergo simple reactions and eventually find their way to the molecular motor that drives the cell’s spinning tail or flagellum. Whereas the normal rotation of the tail moves the bacterium along a straight path, the effect of these chemical signals changes the rotation of the flagellum causing the bacterium to tumble in the direction of the nutrient source. The bacterium follows the concentration gradient – the concentration of nutrient molecules that increases with proximity to its source.\n\nMembrane-bound receptor proteins detect the presence of nutrients (A), triggering the release of a signal molecule (B), that reacts with proteins associated with the bacterium’s flagellum (C), causing a change in its direction of rotation (D), which propels the organism towards increasing concentrations of nutrients. Artist: Emily Harrington. All rights reserved.\n\nLearn more about how E. coli bacteria translate sensory signals into movement in the iBiology video lecture entitled, “ Marvels of Bacterial Behavior – Molecular Machinery .”\n\nVideo content © 2015 - 2006 iBiology · CC BY-NC-ND 3.0 license",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/receptors-guide-bacterial-navigation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "receptors",
+    "guide",
+    "bacterial",
+    "navigation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

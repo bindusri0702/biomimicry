@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-shooting-snout-snags-prey",
+  "organism_common": "Slingjaw wrasse",
+  "organism_scientific": "",
+  "strategy_summary": "The snout of the sling-jaw wrasse captures prey using multibar linkages to shoot its jaw out at high speed. This diagram from 1828 by renowned naturalist Georges Cuvier shows the extreme extendibility of the snout of the sling-jaw wrasse.",
+  "mechanism": "The snout of the sling-jaw wrasse captures prey using multibar linkages to shoot its jaw out at high speed.\n\nThis diagram from 1828 by renowned naturalist Georges Cuvier shows the extreme extendibility of the snout of the sling-jaw wrasse.\n\n“Nonetheless, the jaw mechanism of even a fancy snake looks simple next to what some fish do with multibar linkages in their heads (Westneat 1991). The most extreme must be the sling-jaw wrasse, Epibulus insidiator , which shoots out an otherwise unnoticeable snout to snag prey. According to Westneat and Wainwright (1989), who’ve analyzed the biomechanics of the system, this wrasse can protrude its jaw by a length equal to 65 percent of normal head length. Protrusion takes only about a thirtieth of a second; acceleration exceeds 100 meters per second squared, or 10 g; and snout speed hits 2.3 meters per second, or over 5 miles per hour. The components–bones, ligaments, and muscle–may be ordinary, but their arrangement is anything but.” (Vogel 2003:401)",
+  "function_addressed": [
+    "modify position",
+    "modify size/shape/mass/volume",
+    "capture, absorb, or filter organisms",
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shooting-snout-snags-prey/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shooting",
+    "snout",
+    "snags",
+    "prey"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-leaves-survive-desiccation",
+  "organism_common": "Spanish moss",
+  "organism_scientific": "",
+  "strategy_summary": "The leaves of Spanish moss absorb water and have slow water loss because they are covered in dense scales. “Almost all the members of the Tillandsia subfamily are epiphytic.",
+  "mechanism": "The leaves of Spanish moss absorb water and have slow water loss because they are covered in dense scales.\n\n“Almost all the members of the Tillandsia subfamily are epiphytic. The exceptions are a number of thin-leaved species that grow on the forest floor. The epiphytic species mostly have well-developed tanks that function in the same way as those of the epiphytes of the Bromelia subfamily, and once again the roots are for attachment only. Some species of Tillandsia have much-reduced tanks, but Spanish moss ( T. usneoides ) has gone to the extreme and given them up entirely. It has also given up roots and, with its small leaves and many branches, drapes itself over twigs and branches like some lichens. The surfaces of this curious plant are densely covered with overlapping scales that avidly absorb water when it rains and slow water loss during drought. At times, this Tillandsia dries up almost completely but revives when it rains, so it is a resurrection plant.” (Dawson and Lucas 2005:43)",
+  "function_addressed": [
+    "protect from loss of liquids",
+    "capture, absorb, or filter liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-survive-desiccation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "survive",
+    "desiccation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-tendrils-enable-upward-climb",
+  "organism_common": "Flagroot",
+  "organism_scientific": "",
+  "strategy_summary": "Rattan palms attach to established trees and climb vigorously upwards thanks to long, thin tendrils with extremely sharp, curved hooks. Attachment organs vary between species  Hook type differs between species  “Rattans, the highly specialised climbing palms of south-east Asia, have stems that are barely thicker than…",
+  "mechanism": "Rattan palms attach to established trees and climb vigorously upwards thanks to long, thin tendrils with extremely sharp, curved hooks.\n\nAttachment organs vary between species\n\nHook type differs between species\n\n“Rattans, the highly specialised climbing palms of south-east Asia, have stems that are barely thicker than a man’s finger. The front tip, from which all growth comes, explores with extremely long, thin tendrils equipped along their length with needle-sharp curved hooks. If these snag your arm – and the tendrils are so thin that they can easily be overlooked – they can rip both your shirt and your flesh. With these, it hitches itself on to an established tree and actively grows upwards. Sometimes the support is not strong enough to bear the extra load and it collapses, but the rattan is not deterred. It continues to grow as it sprawls across the forest floor and does so with such vigour that some species develop longer stems than any other plant and may reach a length of over five hundred feet.” (Attenborough 1995:162-163)",
+  "function_addressed": [
+    "move in/on solids",
+    "attach permanently"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tendrils-enable-upward-climb/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tendrils",
+    "enable",
+    "upward",
+    "climb"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-proboscis-forms-a-sealed-cylinder",
+  "organism_common": "Morgan's sphinx moth",
+  "organism_scientific": "",
+  "strategy_summary": "The cuticular structures on the surface of the proboscis of a butterfly form a sealed coil against the head of the insect by interlocking in various directions. The tubular feeding structure (i.e., proboscis) of a butterfly remains tightly coiled against the head of the insect when it is not feeding.",
+  "mechanism": "The cuticular structures on the surface of the proboscis of a butterfly form a sealed coil against the head of the insect by interlocking in various directions.\n\nThe tubular feeding structure (i.e., proboscis) of a butterfly remains tightly coiled against the head of the insect when it is not feeding. The proboscis is made up of two long, tubular structures known as galea. The coil is able to remain unfurled through the interlocking structures located on both the dorsal and ventral sides of the galea tubes. These scale-like structures, referred to as legulae, are varied in size and directional orientation so that they overlap and fit together tightly (much in the same way puzzle pieces lock together). This interlocking of structures creates a sealed cylinder that is unaffected by flight or other movements. These structures are unique to insects and help conserve energy by allowing the insects to use no muscle tension and exertion to keep the proboscis coiled (it was previously thought that the insects had to use their galeal muscles to hold the proboscis in a coiled shape).",
+  "function_addressed": [
+    "attach temporarily",
+    "manage turbulence",
+    "prevent deformation"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/proboscis-forms-a-sealed-cylinder/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "proboscis",
+    "forms",
+    "sealed",
+    "cylinder"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

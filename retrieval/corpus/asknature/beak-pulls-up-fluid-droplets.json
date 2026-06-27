@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-beak-pulls-up-fluid-droplets",
+  "organism_common": "Red-necked phalarope",
+  "organism_scientific": "",
+  "strategy_summary": "The beak of the red-necked phalarope pulls up fluid droplets via capillary action created by repeatedly opening and closing. The red-necked phalarope feeds by pulling up suspended particles from the water below through its beak.",
+  "mechanism": "The beak of the red-necked phalarope pulls up fluid droplets via capillary action created by repeatedly opening and closing.\n\nThe red-necked phalarope feeds by pulling up suspended particles from the water below through its beak. Since this movement is against gravity, the beak must generate a force to pull the fluid. The bird achieves this by opening and closing its beak slightly in a repeated ratcheting, or tweezering, motion.\n\nThis opening and closing motion changes the fluid’s angle of curvature in contact with the beak, generating pressure from surface tension that pulls the fluid. As the beak closes, the leading edge of water moves toward the mouth; as the beak opens, the trailing edge of water recedes toward the mouth. Because of the pressure difference, the fluid’s net movement is toward the mouth. This mechanism is known as the “capillary ratchet.”\n\nSee the capillary ratchet in motion in the second half of this video .\n\nThis strategy was contributed by Rachel Major.",
+  "function_addressed": [
+    "capture, absorb, or filter liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/beak-pulls-up-fluid-droplets/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "beak",
+    "pulls",
+    "fluid",
+    "droplets"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

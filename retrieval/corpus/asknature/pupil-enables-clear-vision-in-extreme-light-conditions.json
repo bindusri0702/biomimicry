@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-pupil-enables-clear-vision-in-extreme-light-conditions",
+  "organism_common": "Tokay gecko",
+  "organism_scientific": "",
+  "strategy_summary": "The pupil of nocturnal geckos enables clear vision in extreme light conditions by becoming very large at night and constricting to a thin slit with several pinholes during the day. Nocturnal geckos must see well to move around and hunt at night.",
+  "mechanism": "The pupil of nocturnal geckos enables clear vision in extreme light conditions by becoming very large at night and constricting to a thin slit with several pinholes during the day.\n\nNocturnal geckos must see well to move around and hunt at night. Large eyes and pupils, highly light-sensitive cells (photoreceptors), and a short focal length (the distance from the center of the eye’s lens to the point where light converges) make not only viewing and then capturing prey possible at night, but also help geckos to see in color in low-light conditions.\n\nThese same nighttime visual adaptations pose a problem during the day because they would normally lead to a defocusing of the image and blurring of colors. The combination of a large pupil and short focal length creates an optics problem where the eye bends some wavelengths (or colors) of light more than others. Nocturnal geckos, however, appear to have strategies to counteract this. First, their eyes have multifocal lenses. This means that different parts of the lens each focus a different range of wavelengths onto the eye’s light-sensitive cells. The result is increased focus for all the colors of light the eye can perceive. Second, when a nocturnal gecko’s pupil is fully constricted in high-light conditions, it forms two sets of pinholes along a vertical slit. Scientists hypothesize that when the pupil is fully constricted the four small stacked pupils that form reduce the total amount of light entering the eye, while still enabling the different parts of the multifocal lens to receive light.\n\nThe unique nocturnal gecko eye might have two additional functions alongside preventing visual disturbances during the day. The multiple pupils generate several images on the retina with varying levels of focus, which the gecko can interpret to judge distance. The iris is also a similar color to the gecko’s scales, and so the thin slit with pinholes may facilitate daytime vision while increasing the nocturnal gecko’s ability to blend into its environment.\n\nThe tokay gecko.\n\nWhen the eye of the tokay gecko and other nocturnal geckos constricts in bright light it forms a slit with four pinholes that is thought to prevent visual abnormalities.",
+  "function_addressed": [
+    "sense light (visible spectrum) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pupil-enables-clear-vision-in-extreme-light-conditions/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pupil",
+    "enables",
+    "clear",
+    "vision",
+    "extreme",
+    "light"
+  ],
+  "is_usual_suspect": true,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

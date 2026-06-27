@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-immune-system-is-fortified",
+  "organism_common": "Common fruit fly",
+  "organism_scientific": "",
+  "strategy_summary": "From the largest whale to the tiniest bacterium, hunger and disease are two of life’s biggest threats. Both play a role in a unique survival strategy of the fruit fly ( Drosophila melanogaster ).",
+  "mechanism": "Hunger creates stress for an organism by reducing the amount of energy available for keeping its organs and tissues humming along. This reduced energy in turn makes the organism more vulnerable to invasion by bacteria and other illness-causing organisms—similar to the way humans are more likely to make mistakes when we’re tired or distracted by problems we’re trying to solve or difficulties we’re trying to deal with.\n\nIt’s easy to imagine that the right response when times get tough is to slow down other activities and focus on the stress. The fruit fly’s innate system for ramping up defense mechanisms under stress provides a template for using stress as a signal that it’s time to take preemptive actions to minimize the adverse consequences that might emerge from the stressed conditions. By responding to conditions that signal a potential increase in vulnerability, the fly preemptively fortifies itself against potential enemies.\n\nThe take-home lesson for humans: Rather than focusing exclusively on dealing with immediate sources of stress, also be mindful of what other, future stresses the current challenge might catalyze and take preventive actions to avoid being buried in an avalanche of snowballing stresses down the road.",
+  "function_addressed": [
+    "protect from microbes",
+    "maintain homeostasis",
+    "regulate cellular processes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/immune-system-is-fortified/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hungry",
+    "fruit",
+    "flies",
+    "fight",
+    "infection"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

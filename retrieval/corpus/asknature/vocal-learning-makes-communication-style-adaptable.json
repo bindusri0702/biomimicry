@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-vocal-learning-makes-communication-style-adaptable",
+  "organism_common": "Killer whale",
+  "organism_scientific": "",
+  "strategy_summary": "Animals communicate with one another to warn against predators, find mates, and travel in groups. Most animals are born with basic linguistic abilities, but some animals can learn new ways to communicate as they grow.",
+  "mechanism": "Humans are now understanding more about how killer whales learn their vocal repertoire—and why. A study of killer whales held in captivity alongside bottlenose dolphins found that the killer whales changed their vocal patterns to more closely emulate the dolphins’ sounds. They used a higher proportion of clicks and whistles, similar to the dolphins, and fewer pulses. One killer whale even adopted a sound that was taught to a dolphin by humans, indicating they can learn and use sounds not found in the natural environment.\n\nThis ability to learn new communication sounds is called “vocal learning,” and it suggests killer whales can receive new information and adapt their linguistic behavior to best fit their environment. Effective communication is critical to building relationships, which is necessary in animals like killer whales who rely on social groups to hunt and move through the ecosystem.\n\nVocal learning illustrates that communication is not stagnant, but rather evolves based on environmental and social conditions. As killer whales in the wild face disruptive threats through ship traffic, oil drilling, marine debris, and climate change, the ability to change communication strategies to best fit a new social group could be a very important skill.\n\nSince humans are also a highly social species, lessons from killer whales could be applied to our own approaches towards communication and learning. Their willingness and ability to adapt shows that when in a new social context, it may be valuable first to listen to how the group is already sharing information, then incorporate that style into your own communications.\n\nIt is also a model for thinking outside the box in terms of community and communication. While it is unclear what effect the adopted sounds have on the dolphins or their relationship with the killer whales, there are several possibilities: they could allow for the communication of detailed information, improve group cohesion, or they could go unnoticed by the dolphins. Doctor Doolittle jokes aside, what improvements in the safety of humans, livestock, and wildlife could be made if humans could better learn to adopt other species’ forms of communication?",
+  "function_addressed": [
+    "adapt behaviors",
+    "cooperate within the same species",
+    "cooperate/compete between different species"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/vocal-learning-makes-communication-style-adaptable/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "vocal",
+    "learning",
+    "makes",
+    "communication",
+    "style",
+    "adaptable"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

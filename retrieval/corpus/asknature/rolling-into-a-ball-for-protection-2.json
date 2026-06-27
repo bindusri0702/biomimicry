@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-rolling-into-a-ball-for-protection-2",
+  "organism_common": "Long-nosed armadillos",
+  "organism_scientific": "",
+  "strategy_summary": "Armadillos and other creatures protect themselves from predators by rolling into a ball and reducing their surface area. “Many larger creatures recognize the value of having the least possible surface area.",
+  "mechanism": "Armadillos and other creatures protect themselves from predators by rolling into a ball and reducing their surface area.\n\n“Many larger creatures recognize the value of having the least possible surface area. Rolling into a ball is a simple but effective form of defence, used by creatures as diverse as the woodlouse, the hedgehog, and the armadillo. The economy of shape is made even more effective by adding some form of flexible armour-plating on the surface of the sphere. All the vulnerable and vital organs and limbs are tucked away inside the protective casing, presenting a predator with a frustrating ball game instead of a meal.” (Foy and Oxford Scientific Films 1982:21)",
+  "function_addressed": [
+    "protect from animals",
+    "manage impact",
+    "modify size/shape/mass/volume"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/rolling-into-a-ball-for-protection-2/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "rolling",
+    "ball",
+    "protection"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-beaver-dams-cleanse-streams-by-slowing-water",
+  "organism_common": "American beaver",
+  "organism_scientific": "",
+  "strategy_summary": "Obstacles placed in the path of sediment-laden water reduce the speed of flow, allowing debris from wildfires to settle out and improving water quality downstream. “Along with deterring the flames themselves, beaver dams and ponds also function as filters for ash and other fire-produced pollutants that enter…",
+  "mechanism": "Obstacles placed in the path of sediment-laden water reduce the speed of flow, allowing debris from wildfires to settle out and improving water quality downstream.\n\n“Along with deterring the flames themselves, beaver dams and ponds also function as filters for ash and other fire-produced pollutants that enter waterways—thus maintaining water quality for fish, other aquatic animals, and humans—emerging evidence suggests.” (Whitecomb 2022)\n\n“Beaver dams and ponds filter out sediment by slowing the rate at which water flows, says researcher Sarah Koenigsberg at the Beaver Coalition, an Oregon-based nonprofit organization that promotes conservation. When water lazily drifts through a beaver pond rather than rushing in a torrent down a narrow channel, suspended sediment has time to settle on the bottom where it poses less risk to fish and other aquatic animals. ‘You can almost think of it like a coffee filter,’ Koenigsberg said.” (Whitcomb 2022)\n\nAmerican beaver\n\nBeaver dams change stream flows and create a patchwork of habitat diversity.\n\nDouglas fir\n\nTrees in Douglas fir forests provide growing conditions for plants and animals by stabilizing soil and trapping sediment when they fall across a slope.",
+  "function_addressed": [
+    "protect from dirt/solids",
+    "modify speed",
+    "regulate hydrological flows"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/beaver-dams-cleanse-streams-by-slowing-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "beaver",
+    "dams",
+    "cleanse",
+    "streams",
+    "slowing",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-chaotropic-molecules-protect-from-low-temperature",
+  "organism_common": "Aspergillus glaucus",
+  "organism_scientific": "",
+  "strategy_summary": "Eurotium herbariorum can survive at low temperatures by producing water-soluble molecules that act as lubricants to ensure proper function of biological compounds. Low temperatures cause an increase in the non-covalent interactions between molecules.",
+  "mechanism": "Eurotium herbariorum can survive at low temperatures by producing water-soluble molecules that act as lubricants to ensure proper function of biological compounds.\n\nLow temperatures cause an increase in the non-covalent interactions between molecules. In other words, they cause molecular scale objects to \"stick\" together more favorably than they would at higher temperatures. This leads to the rigidification of cellular macromolecules and membranes which is a major cause of cellular death at low temperatures. A broad category of solutes, called chaotrophs, create more disorderly (i.e., less sticky) interactions at all temperatures, and therefore prevent molecular rigidity at low temperatures. In contrast, at moderate to high temperatures, the disordered interactions that chaotrophs promote lead to improper mechanics that cause cellular stress. Known chaotrophs include magnesium chloride, calcium chloride, glycerol, fructose, and urea. Conversely, a broad category of solutes called kosmotrophs perform in the exact opposite role; they promote non-covalent interactions between molecules which leads to poorer performance at low temperatures and higher performance at high temperatures.\n\nThe highly solute tolerant (xerotrophic) fungus Eurotium herbariorum has been documented accumulating environmental chaotrophs like fructose in its cells at low temperatures as well as synthesizing new ones like glycerol. The fungus actively shunned accumulation of kosmotrophs at these low temperatures. This accumulation/synthesis of more chaotrophs at low temperatures is likely to be partly responsible for the higher growth and survivability observed. Furthermore, evidence of relatively higher kosmotroph accumulation and synthesis at high temperatures correlated to higher survivability. Taken together, the evidence is highly suggestive that E. herbariorum is able to manipulate the molecular interactions within its cells to its benefit at low temperatures. The increased accumulation and synthesis of chaotrophs helps the cells maintain natural biochemical function at temperatures that would normally result in rigidity of molecules and cell death.",
+  "function_addressed": [
+    "protect from temperature",
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/chaotropic-molecules-protect-from-low-temperature/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "chaotropic",
+    "molecules",
+    "protect",
+    "low",
+    "temperature"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

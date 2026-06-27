@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-mounds-increase-diversity",
+  "organism_common": "Mound-building termites",
+  "organism_scientific": "",
+  "strategy_summary": "The mounds created by some termites increase diversity in wetlands because they form 'islands,' supporting trees and other species during the wet season. “On the Okavango, the point of formation of many tree islands is a termite mound.",
+  "mechanism": "The mounds created by some termites increase diversity in wetlands because they form 'islands,' supporting trees and other species during the wet season.\n\n“On the Okavango, the point of formation of many tree islands is a termite mound. Colonies of the mound-building termite ( Macrotermes michaelseni ) build subterranean nests during prolonged dry periods in seasonally flooded areas (Fig. 5.13). These nests are eventually crowned by a turret connected to the nest by a series of air passages. These turrets or mounds can be 4 m tall and have a basal area of 50 m 2 (Dangerfield et al. 1998). Termite colonies redistribute resources by moving fine soil particles to their nests to build up the mound, thus changing the local topography and soil textural properties of the wetland. Termites also carry organic matter to their nests, thus redistributing nutrients locally. Because of their elevation above the floodplain, termite mounds can be colonized by tree species. During the wet season, the termite colonies may be killed. However, any trees on the mounds survive because they are growing above the mean water level. The presence of trees attracts birds and other animals that carry seeds and nutrients to the newly formed island (Fig. 5.13). Consequently, tree islands become biodiversity hotspots that are colonized or used by a variety of plant and animal species.” (van der Valk 2006:104)\n\n“Many organisms create or alter resource flows that affect the composition and spatial arrangement of current and future organismal diversity. The phenomenon called ecosystem engineering is considered with a case study of the mound building termite Macrotermes michaelseni . It is argued that this species acts as an ecosystem engineer across a range of spatial scales, from alteration of local infiltration rates to the creation of landscape mosaics, and that its impacts accrue because of the initiation of biophysical processes that often include feedback mechanisms. These changes to resource flows are likely to persist for long periods and constrain the biological structure of the habitat. The value of ecosystem engineering is discussed as a holistic way of understanding the complexity of tropical ecology.” (Dangerfield et al. 1998:507)",
+  "function_addressed": [
+    "manage disturbance in a community",
+    "control erosion and sediment",
+    "cycle nutrients",
+    "maintain biodiversity"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mounds-increase-diversity/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mounds",
+    "increase",
+    "diversity"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

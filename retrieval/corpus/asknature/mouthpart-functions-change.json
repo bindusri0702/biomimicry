@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-mouthpart-functions-change",
+  "organism_common": "Modify Size/Shape/Mass/Volume",
+  "organism_scientific": "",
+  "strategy_summary": "The mouthparts of a caterpillar and its butterfly serve drastically different functions with minimal energy loss because they arise from the same basic morphological pattern. “A caterpillar straddles the rim of a leaf and its jaws, like tiny secateurs, clip away neat semicircular holes and erode the leaf at a…",
+  "mechanism": "The mouthparts of a caterpillar and its butterfly serve drastically different functions with minimal energy loss because they arise from the same basic morphological pattern.\n\n“A caterpillar straddles the rim of a leaf and its jaws, like tiny secateurs, clip away neat semicircular holes and erode the leaf at a prodigious speed. A couple of months later, a butterfly pauses briefly on a flower and uncurls a long ‘tongue’ or proboscis with which it probes the heart of the bloom to suck up nectar. The butterfly was once the caterpillar, but since its metamorphosis it has adopted a completely different diet, and consequently its mouthparts have had to change shape dramatically. The mouthparts of both butterfly and caterpillar, however, are formed from the same basic pattern, a pattern shared by all insects. Just as birds’ beaks are adapted to their eating habits, so too are insect mouthparts.” (Foy and Oxford Scientific Films 1982:159)",
+  "function_addressed": [
+    "modify size/shape/mass/volume",
+    "optimize shape/materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mouthpart-functions-change/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mouthpart",
+    "functions",
+    "change"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

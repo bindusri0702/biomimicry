@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-reinforced-fibers-provide-strength",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Fibers in many woody plants provide mechanical strength via lignin reinforcements. “Plant fibres occur in the wood of many plants, and because of their association with the xylem, are called xylary fibres.",
+  "mechanism": "Fibers in many woody plants provide mechanical strength via lignin reinforcements.\n\n“Plant fibres occur in the wood of many plants, and because of their association with the xylem, are called xylary fibres. They are also often found in the outer part of young stems, bark and leaves, where they are called extraxylary fibres. Their main functioning is in strengthening. The common feature of fibre cells is that they are elongated and thick-walled, with lignins permeating the cellulose of the cell wall. Fibre cells normally have pointed ends (Fig. 3). They often extend in length during development, growing between cells that may not be lengthening at the same rate. Fibres may be only about 10 times longer than wide, but many are 20-30 and even up to and exceeding 100 times longer than wide. They may remain flexible, as in many extraxylary fibres, or have more limited flexibility, as in xylary fibres.” (Cutler 2005:103)",
+  "function_addressed": [
+    "manage compression"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/reinforced-fibers-provide-strength/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "reinforced",
+    "fibers",
+    "provide",
+    "strength"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

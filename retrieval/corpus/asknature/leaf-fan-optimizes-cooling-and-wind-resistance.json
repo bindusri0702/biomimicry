@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-leaf-fan-optimizes-cooling-and-wind-resistance",
+  "organism_common": "Australian fan palm",
+  "organism_scientific": "",
+  "strategy_summary": "The leaf of the Australian fan palm gathers light, stays cool, and avoids wind damage by subdivision into tilted segments. “In nature the green leaves of plants are the equivalent to photovoltaic panels.",
+  "mechanism": "The leaf of the Australian fan palm gathers light, stays cool, and avoids wind damage by subdivision into tilted segments.\n\n“In nature the green leaves of plants are the equivalent to photovoltaic panels. They absorb solar light, converting its energy into electricity (electrochemical energy) for water splitting and the generation of chemical energy carriers. Excessive heating of leaves to temperatures above 40 – 45ºC can seriously damage the chemical structure and the function of biomolecules and, therefore, such high temperatures should be avoided, for example, the potato leaf does not tolerate temperatures above 40ºC. Nature has consequently developed a series of adaptations, which help leaves control the temperature. One is, of course, water evaporation, which, however, is restricted to areas with sufficient water supply. Another strategy is to keep the heat capacity low by means of building very light leaf structures so that the accumulated heat can easily be transferred to the atmospheric environment. It is also known that the leaf size decreases geographically with increasing solar energy input.” (Zähr et al. 2010: 285)\n\n“A suitable model plant was found in the fan palm Licuala ramsayi from northeastern Australia (Fig. 7). Its leaf fan provides a large solar absorber area. However, the leaf is cut into segments, which are tilted in such a way that the air can pass freely through the fan transporting off heat. In addition, during a heavy storm, the fan follows the wind and the segments reorganize to a streamlined pattern from which they recover unharmed.” (Zähr et al. 2010: 289)",
+  "function_addressed": [
+    "capture, absorb, or filter energy",
+    "protect from wind",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaf-fan-optimizes-cooling-and-wind-resistance/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaf",
+    "fan",
+    "optimizes",
+    "cooling",
+    "wind",
+    "resistance"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

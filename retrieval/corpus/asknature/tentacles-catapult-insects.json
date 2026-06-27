@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-tentacles-catapult-insects",
+  "organism_common": "Round-leaved sundew",
+  "organism_scientific": "",
+  "strategy_summary": "Snap-tentacles on leaf of southern Australian sundew capture ground prey by catapulting them to their center via a touch-sensitive head. The South Australian sundew is a carnivorous plant that utilizes a capturing mechanism to provide itself with sustenance and nourishment.",
+  "mechanism": "Snap-tentacles on leaf of southern Australian sundew capture ground prey by catapulting them to their center via a touch-sensitive head.\n\nThe South Australian sundew is a carnivorous plant that utilizes a capturing mechanism to provide itself with sustenance and nourishment. It captures its prey using tentacles that have a touch-sensitive head. When the head encounters movement, it activates a contracting mechanism (which is not yet fully understood but has two hypothesized mechanisms of its own) in the cells of the tentacle. The catapult mechanism is unique to this carnivorous plant; many other plants rely solely on the stickiness of their centers to trap prey. When the head becomes activated certain cells on the end closest to the plant body extend while cells farther out on the tentacle contract, causing the tentacle to bend upwards. In a 360-degree motion, the tentacle launches the prey to the center of the leaf. The movement of these snap-tentacles is a one-time motion. The tentacles cannot be utilized more than once due to hypothesized snapping of cells during the elongation/contraction process. The triggering of the head on the tip of the snap-tentacle is also highly precise; the head will not be triggered by vibrations from prey already trapped and must be activated via a ground-to-tentacle interaction.\n\nThe usefulness of these snap-tentacles is that they position the prey in a more vulnerable position in the center of the glue-tentacles, which reside in the middle of the trap leaf. These glue-tentacles then take two minutes to pull the prey in deeper and its active enzyme enables the plant to decompose the insect and utilize its nutrients to the fullest.\n\nFor detailed videos of the process, please visit the open-access journal: here .",
+  "function_addressed": [
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tentacles-catapult-insects/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tentacles",
+    "catapult",
+    "insects"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

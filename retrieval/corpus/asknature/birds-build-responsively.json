@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-birds-build-responsively",
+  "organism_common": "Birds",
+  "organism_scientific": "",
+  "strategy_summary": "What do you think is happening inside a bird’s head when it builds a nest? Do you think it’s a mindless, automatic process, as innate as a baby learning to crawl?",
+  "mechanism": "Take, for starters, the process of selecting the perfect nest location. Birds of the same species tend to build their nests in similar types of locations, so for a long time scientists assumed that this behavior was genetically determined. However, studies have shown that nest site selection changes greatly depending on a number of factors such as weather, encounters with predators, past success, and what other birds in the area are doing.\n\nIn one study, when cold weather set in, pinyon jays in northern Arizona began building their nests in higher, more exposed locations, where the increased sunlight both kept the mother warm and helped melt snow around the nest. However, 25% of pinyon jays then stopped building nests in exposed sites after multiple encounters with predators.\n\nMany species, like kittiwakes and piping plovers, will adjust their nesting sites year to year based on their own reproductive success. If a bird fails to produce young that survive to the fledgling stage, the following year it will build a nest much farther away, whereas a successful bird will stay in roughly the same area.\n\nEven more interestingly, birds who fail to breed will peek at their neighbors’ nests to help them decide where to build next. A study showed that piping plovers with unsuccessful neighbors chose sites 34 times further away the following year compared to birds with successful neighbors.\n\nSuch research makes a strong case for nest-building as a carefully considered and constantly adapting endeavor, rather than a purely inherited, mechanical behavior. As humans seek to adapt fundamental processes in construction and other areas to changing conditions, there is much to learn from and admire about the methods birds have employed to be so successful. And it begs the question: how did we learn to build in the first place?",
+  "function_addressed": [
+    "learn",
+    "sense temperature cues from the environment",
+    "optimize shape/materials",
+    "adapt behaviors",
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/birds-build-responsively/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "birds",
+    "build",
+    "responsively"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-enzymes-reduce-toxicity-of-arsenic-and-selenium",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "Enzymes produced by Bacillus selenitireducens use molybdenum to lower the toxicity of dissolved, oxidized forms of arsenic and selenium. Oxidation of metals can change their properties.",
+  "mechanism": "Enzymes produced by Bacillus selenitireducens use molybdenum to lower the toxicity of dissolved, oxidized forms of arsenic and selenium.\n\nOxidation of metals can change their properties. Solid iron metal, for example, becomes reddish and porous when oxidized. Oxidation makes some dissolved metals, such as arsenic and selenium, more toxic. Virtually all life forms, except for a few single-celled organisms, are susceptible to the multifaceted poisonous effects of these oxidized metal ions. A bacterium called Bacillus selenitireducens produces an enzyme capable of reversing the oxidation of these metal ions to their less toxic “reduced” forms. The key ingredient in these enzymes is the “transition” element, molybdenum, which grants them the ability to reduce certain unusual elements.",
+  "function_addressed": [
+    "chemically generate flow of electrons (redox)",
+    "modify oxidation state",
+    "modify electron transport"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/enzymes-reduce-toxicity-of-arsenic-and-selenium/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "enzymes",
+    "reduce",
+    "toxicity",
+    "arsenic",
+    "selenium"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

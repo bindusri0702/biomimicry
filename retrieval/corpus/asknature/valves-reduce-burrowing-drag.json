@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-valves-reduce-burrowing-drag",
+  "organism_common": "Atlantic razor clam",
+  "organism_scientific": "",
+  "strategy_summary": "Walking along a beach on the North American Atlantic coast as the tide rolls out, you might encounter something that looks a bit like a twig sticking out of the wet sand. But glance away, and it might vanish.",
+  "mechanism": "“In burrowing, the foot is worked into the mud as it is protruded, the end is then swelled into a knob, and by its sudden withdrawal the shell is drawn to the position of the anchored end of the foot,” wrote Drew. At first glance, it seems that the foot is solely responsible for its ability to submerge. But the complete picture, like the mud it burrows into, was less clear to Drew, who didn’t know of the shell’s importance.\n\nTwo years after studying the clam’s movements, the same group of researchers developed RoboClam, a burrowing robot that mimics the actual clam’s fluidization technique. Inventing tools that efficiently tunnel into the ocean’s floor could allow us to dig deeper into our understanding of Earth’s origins. As metals become increasingly scarce, finding ecologically friendly methods for deep-sea mining could also become paramount.\n\nThe way that razor clams burrow may even point the way towards improving existing processes such as extracting natural gas in a way that uses less water and lowers the potential to contaminate groundwater.\n\nRazor clam digging can also inspire a more general change in our approach to transportation. Cars, rockets, or other vehicles could take in and redistribute a surrounding medium to more efficiently move through it. This is a potential biological model for thrusters, such as the Mach-effect gravitational assist (MEGA) drive being investigated by NASA scientists.",
+  "function_addressed": [
+    "modify material characteristics",
+    "attach temporarily",
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/valves-reduce-burrowing-drag/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "atlantic",
+    "razor",
+    "clam",
+    "double-anchored",
+    "wriggle",
+    "dive"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

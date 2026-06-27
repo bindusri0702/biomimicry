@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-echolocation-enables-navigation-in-total-darkness",
+  "organism_common": "Oilbird",
+  "organism_scientific": "",
+  "strategy_summary": "Living in a pitch-dark cave is a superb strategy for a bird seeking to avoid predators that hunt by sight. But it creates a second survival dilemma: How to avoid debilitating collisions with walls, ceilings, and other birds?",
+  "mechanism": "Unlike bats, which use short-wavelength ultrasound to detect tiny insects, oilbirds use clicks that are in the range that’s audible to humans as well as to themselves. That means the sound waves they produce are only good for detecting larger objects such as other birds and fruit, perhaps down to the size of a grape. But it clearly is good enough to meet their needs for navigating without the aid of sight.\n\nThe clicking sound an oilbird makes is the result of contraction of two sets of muscles in its syrinx—a set of membranes in the bronchial tubes of birds leading from the trachea to the lungs. The tissue around each branch of the syrinx contracts, folding a membrane inward. The bird then exhales a puff of air past the membrane and contracts the second set of muscles, creating the click. It makes the clicks in small bursts of two to seven individual sounds, taking “mini-breaths” as needed to move the air past the clicking mechanism without requiring a full inhale. The echoes return to the bird’s ears at different levels of loudness and intensity.\n\nThe larger the object, the more sound waves are deflected. This enables the bird to identify the size, shape, and location of the obstacle. Short clicks rather than loud, prolonged sounds reduce interference between the sound the bird is making and the echo bouncing back, making it possible to detect objects nearby as well as far away.\n\nHumans already use audible-range echolocation in certain contexts. Some sight-impaired individuals use it to find their way around, clicking as they move and listening for how the sound is deflected by objects they wish to approach or avoid. It’s also used in technology, usually for underwater navigation. The oilbird’s lower-frequency sonar might provide guidance for additional applications though, such as drone navigation in the air, or even robot-assisted surgery.\n\nThe oilbird’s mechanism for making rapid sounds could provide valuable insights for controlling sound or other vibration production within narrow specifications. This might be applied to anything from creating new musical instruments to transforming the noise from wind turbines.",
+  "function_addressed": [
+    "protect from dirt/solids",
+    "send sound signals",
+    "navigate through air",
+    "cooperate within the same species"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/echolocation-enables-navigation-in-total-darkness/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bird",
+    "find",
+    "large",
+    "objects",
+    "total",
+    "darkness"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

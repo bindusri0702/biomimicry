@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-anaerobic-bacterias-breathless-variety-of-chemical-processes",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "For over a billion years, life on Earth developed without the presence of high levels of oxygen in the atmosphere. Oxygenated air is so ubiquitous in the experience of our everyday life today, that we forget there are still many places where oxygen isn’t so plentiful.",
+  "mechanism": "Nearly all organisms on Earth break down sugar (specifically glucose) to create the energy they need to carry out various activities. The energy from breaking down glucose is used to create another molecule called adenosine triphosphate, or ATP . ATP is used as a kind of battery, storing energy in cells for use as needed.\n\nATP isn’t created directly from breaking down glucose. Instead, the breaking of glucose starts a chain reaction, in which a sequence of specific molecules undergo changes that, each in turn, provokes changes in subsequent molecules in a kind of domino tumbling reaction. These changes occur largely as electrons move from one molecule and are incorporated into each subsequent molecule along what is called the “electron transport chain.” Without this flow of electrons through the specific sequence or pathway of molecules, the generation of ATP would grind to a halt. This energy-producing chemical process continues as long as something removes the “spent” electrons at the end of the sequence. In humans and other oxygen-breathing organisms, that something is oxygen. But organisms that live in oxygen-free environments need something different.\n\nAnaerobic bacteria known as fermenters use a range of pathways for removing spent electrons to keep the process of ATP formation going. For example, in lactic acid fermentation (used for instance in human muscle), a molecule known as NAD+ (Nicotinamide adenine dinucleotide) is used as an electron receptor instead of oxygen, allowing the production of lactate, which is further metabolized in the liver . Another pathway using NAD+, known as alcohol fermentation, produces ethanol. Before there was an oxygenated atmosphere, a highly diverse set of chemical pathways evolved for ATP formation––chemical processes that have been retained in the diverse group of fermenting anaerobes that exist today.\n\nPeople have learned to leverage the diverse chemical processes and products used by fermenting microbes to produce a wide variety of other chemical processes and end-products of interest to people. These include things like improving water quality; breaking down plastics; making bread, yogurt, cheese, wine, and miso; and, increasingly, manufacturing non-food items, such as fuel and plastics.\n\nProduction of industrial materials using microbial fermentation has many advantages. Plastics can be produced without the need to extract or process petroleum, for example. In addition, these plastics can be formulated to be biodegradable. Microbial production of plastics also requires fewer natural resources, such as land, than plastics made directly from plants. Ultimately, the diverse chemical pathways exhibited by fermenting microbes serve as models of possible chemical processes which have greatly broadened humankind’s chemical ideas and methods.",
+  "function_addressed": [
+    "chemically assemble organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/anaerobic-bacterias-breathless-variety-of-chemical-processes/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "anaerobic",
+    "bacteria",
+    "breathless",
+    "variety",
+    "chemical",
+    "processes"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

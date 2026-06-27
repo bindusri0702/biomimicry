@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-the-tunsian-desert-ants-antennae-detect-environmental-smells-from-left-and-right",
+  "organism_common": "Desert ant",
+  "organism_scientific": "",
+  "strategy_summary": "A species of desert ant in Tunisia, Cataglyphis fortis , travels long distances through the country’s saltpans in search of food. Returning ants orient themselves to their nest entrance using both visual and scent-based landmarks.",
+  "mechanism": "This desert ant needs the extra help to find its way back to its nest after a foraging trip because it can travel more than 100 meters (328 feet) away from its nest in search of food. While visual landmarks may be useful in directing an ant back toward the general vicinity of its nest entrance, the entrance itself is inconspicuous without its scent marker.\n\nIn addition to visual landmarks, these ants use path integration, which is a mental map that tracks the direction and distance of the ant’s travels, and results in an estimate of the path the ant needs to take to get back to its starting point from its current location. This map can be thought of as a series of paths an ant knows to follow to find its way back home—even without any landmarks or points of reference—and they are constantly being updated while an ant is out foraging.\n\nPath integration is not always the fastest way to get home since it doesn’t involve exploring more efficient routes, but it is reliable.\n\nPerhaps even more fascinating than path integration is the map of smells the ants create and commit to memory. Odors are memorized according to whether they come from the left or the right of the ant throughout its previous return journeys from foraging. It has been experimentally proven that ants lacking use of one of their antennae are incapable of following their map of smells to return home. This means that the antennae are working together to pinpoint the source of a scent, much like how separate left- and right-channel speakers allow us to better determine the apparent source of a sound.\n\nOlfactory detection could be useful in homing devices, such as those in self-driving vehicles or vehicles that are operated remotely and which might lose access to other navigational cues. Building the ability to create and remember olfactory maps into homing devices, in addition to their use of visual landmarks, would improve their effectiveness and efficiency in finding targets.\n\nPath integration offers a model for navigation. This could be particularly significant for rescue devices searching through unmapped and potentially dynamic environments such as wreckage and rubble.",
+  "function_addressed": [
+    "sense light (visible spectrum) from the environment",
+    "sense chemicals (odor, taste, etc.) from the environment",
+    "navigate over land"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/the-tunsian-desert-ants-antennae-detect-environmental-smells-from-left-and-right/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tunsian",
+    "desert",
+    "ants",
+    "smell",
+    "stereo"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

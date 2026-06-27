@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-liquid-crystal-forms-byssal-threads",
+  "organism_common": "Mediterranean mussel",
+  "organism_scientific": "",
+  "strategy_summary": "Byssal threads of marine mussels form quickly via liquid crystal phase proteins. “In marine mussels ( Mytilus ), byssal threads are made in minutes from prefabricated smectic polymer liquid crystals by a process resembling reaction injection molding.",
+  "mechanism": "Byssal threads of marine mussels form quickly via liquid crystal phase proteins.\n\n“In marine mussels ( Mytilus ), byssal threads are made in minutes from prefabricated smectic polymer liquid crystals by a process resembling reaction injection molding. The mesogens in these arrays are known to be natural block copolymers with rodlike collagen cores.” (Hassenkam et al. 2004:1351)",
+  "function_addressed": [
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/liquid-crystal-forms-byssal-threads/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "liquid",
+    "crystal",
+    "forms",
+    "byssal",
+    "threads"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

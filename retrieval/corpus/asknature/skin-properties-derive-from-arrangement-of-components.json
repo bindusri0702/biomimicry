@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-skin-properties-derive-from-arrangement-of-components",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "The skin of mammals may derive its unique mechanical properties and other characteristics from the arrangement of its stratum corneum keratin intermediate filaments into cubic rod-packing symmetry. Keratin is tough, adaptable, flexible, and resistant to water.",
+  "mechanism": "The skin of mammals may derive its unique mechanical properties and other characteristics from the arrangement of its stratum corneum keratin intermediate filaments into cubic rod-packing symmetry.\n\nKeratin is tough, adaptable, flexible, and resistant to water. These qualities make it an ideal material for the moulding of claws, nails and hooves, and as a body covering.",
+  "function_addressed": [
+    "prevent deformation",
+    "manage mechanical wear",
+    "protect from loss of liquids",
+    "protect from excess liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/skin-properties-derive-from-arrangement-of-components/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "skin",
+    "properties",
+    "derive",
+    "arrangement",
+    "components"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-cats-stretch-to-transition-between-rest-and-activity",
+  "organism_common": "Domestic cat",
+  "organism_scientific": "",
+  "strategy_summary": "Whether domestic or wild, cats spend much of their lives resting. These predators are built for brief, explosive action—not sustained activity.",
+  "mechanism": "Stretching in cats activates deeply embedded body sensors—muscle spindles and Golgi tendon organs. Muscle spindles detect how much and how fast a muscle is stretched, while tendon organs monitor the tension generated during that stretch. These sensors send signals to the spinal cord and brain, helping build an internal map of body position and force. This feedback system is central to proprioception—the ability to sense the body’s position in space without needing to look.\n\nResearch confirms that these stretch sensors in cats respond within the natural range of movement and are likely engaged during waking stretches. In a foundational study, Goslow et al. (1973) showed that stretching feline muscles activates muscle spindles and tendon organs, providing feedback essential for coordinated movement. Another study (Maas et al., 2010) highlighted how feedback from these sensors adjusts during locomotion, suggesting they play a critical role in recalibrating motion after rest.\n\nWhile no known study directly measures shifts in autonomic nervous system states during or after feline stretching, it’s plausible that the full-body motion may gently transition the animal out of a deep-rest (parasympathetic) state into one of alert readiness. This would align with broader mammalian patterns, though further research would be needed to confirm such a link in cats.\n\nImportantly, this stretch costs no extra energy, requires no special conditions, and uses the cat’s own anatomy—muscles, nerves, tendons, and gravity—to tune its body for precision. It is a biologically elegant, resource-efficient act.\n\nThis feline strategy offers inspiration for humans in how we transition between states—between rest and action, inactivity and readiness.\n\nIn daily life, brief stretching sequences could serve as natural reset points. Instead of jolting into movement from a desk or bed, we might pause for deliberate motion that reawakens body awareness and recalibrates movement. This has applications in:\n\nWorkplace wellness : Short full-body stretches to restore proprioception and coordination after sedentary periods.\n\nWorkplace wellness : Short full-body stretches to restore proprioception and coordination after sedentary periods.\n\nSports and rehabilitation : Transitional movements that reengage neuromuscular circuits and prevent injury.\n\nSports and rehabilitation : Transitional movements that reengage neuromuscular circuits and prevent injury.\n\nHuman-robot systems : Soft robotics or prosthetics might incorporate a “stretch routine” to recalibrate sensors or positioning systems before motion.\n\nHuman-robot systems : Soft robotics or prosthetics might incorporate a “stretch routine” to recalibrate sensors or positioning systems before motion.\n\nDesign of environments : Creating spaces that encourage stretching—perhaps by integrating soft flooring, gentle gradients, or visual cues—could make this natural behavior part of our built world.\n\nDesign of environments : Creating spaces that encourage stretching—perhaps by integrating soft flooring, gentle gradients, or visual cues—could make this natural behavior part of our built world.\n\nAs we learn from the cat’s graceful stretch, we’re reminded that readiness doesn’t have to be forced. It can emerge, slowly and efficiently, through attunement to our own internal landscapes.",
+  "function_addressed": [
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/cats-stretch-to-transition-between-rest-and-activity/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "cats",
+    "stretch",
+    "transition",
+    "between",
+    "rest",
+    "activity"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-stems-resist-buckling",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "The stems of many plants resist buckling using low-density foam cores. Scanning electron microscope image of x-section through Oryza sativa [Rice] stem, showing vascular bundles arranged in two rings and central pore(usually filled with mucilage, but collapsed in this image).",
+  "mechanism": "The stems of many plants resist buckling using low-density foam cores.\n\nScanning electron microscope image of x-section through Oryza sativa [Rice] stem, showing vascular bundles arranged in two rings and central pore(usually filled with mucilage, but collapsed in this image).\n\nScanning electron microscope image of Oryza sativa [Rice] stem. High magnification of Oryza stem 1 image, showing a closer view of vascular bundles and cortex.\n\nScanning electron microscope image of longitudinal section of Oryza sativa [Rice] stem. Image shows cuts through the vascular cells and cortex cells. Starch granules are visible inside vascular cells and chloroplasts are visible inside cortex cells.\n\n“Anyone who has squashed an empty metal can knows about the second form of buckling; it’s called ‘local buckling’ or ‘Brazier buckling…Local buckling does occur in biological columns–it’s certainly involved in the lodging of slender crop plants in wind storms, and it can be deliberately induced in any dandelion stem. A low-density foam core reduces susceptibility, and many plants (but not dandelions!) have such cores.” (Vogel 2003:378)",
+  "function_addressed": [
+    "manage compression",
+    "prevent buckling"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/stems-resist-buckling/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "stems",
+    "resist",
+    "buckling"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

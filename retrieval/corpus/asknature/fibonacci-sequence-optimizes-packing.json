@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-fibonacci-sequence-optimizes-packing",
+  "organism_common": "Sunflower",
+  "organism_scientific": "",
+  "strategy_summary": "Gaze into the center of a sunflower and you’re bound to notice the striking pattern of spirals in the many florets there. This spiral tendency is common in the growth of plants, often seen in the way flowers, leaves, and branches are spaced around a central stem or trunk.",
+  "mechanism": "In the case of leaves, if you look down on such a plant from above, you can see that the spiral placement maximizes each leaf’s exposure to the sun, minimizing any overshadowing of one leaf by another. Plants similarly want to maximize the number of seeds they can pack into a given area to maximize their chances of reproductive success. How these patterns form is what makes the story really interesting.\n\nInside a plant, the cells around a central axis contain various concentrations of biochemicals, such as the plant hormone auxin. Differences in these concentrations can influence where, around the circumference of that central axis, a flower, bract , or leaf bud will form. Mechanical forces, like pressure from other growing parts, can also shape the location of bud formation.\n\nIn plants using this spiral pattern, each new growth tends to form in a location around that circle that is as far away from previous growths as possible. So the first growth happens on one side of the circle, the second on the opposite site at 180° to the first. The third round of growth can’t be at 180° from that one, because that would place it directly above the first. So it’s at a slightly lesser angle to the second growth. That pattern of influence keeps shrinking the angle, but less so with each round of growth, getting closer and closer to about 137.5°. Following this pattern, leaves don’t overlap and overshadow one another, and seeds, flowers, and other parts efficiently fill the available space.\n\nPlants have come up with a self-organizing developmental method that results in their optimal design. Human designs that require efficient spatial organization can borrow from this effective plant strategy for covering area, absorbing resources, and other applications. For example, engineers inspired by the arrangement of florets in a sunflower head reorganized the mirrors in a solar concentrator array. They discovered that, by doing so, they could concentrate the same amount of sunlight as before, yet use 20% less land area.",
+  "function_addressed": [
+    "optimize shape/materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fibonacci-sequence-optimizes-packing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "sunflowers",
+    "fibonacci",
+    "secrets"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-underhairs-provide-insulation",
+  "organism_common": "Domestic sheep",
+  "organism_scientific": "",
+  "strategy_summary": "The wool of Merino sheep forms an insulating layer via underhair that creates hundreds of trapped air pockets. Image: Fir0002/Flagstaffotos / toggle icon  “Generally a dense coat of underhairs, as in the wool of a sheep, is particularly effective in temperature control, because hundreds of tiny air pockets become…",
+  "mechanism": "The wool of Merino sheep forms an insulating layer via underhair that creates hundreds of trapped air pockets.\n\nImage: Fir0002/Flagstaffotos / toggle icon\n\n“Generally a dense coat of underhairs, as in the wool of a sheep, is particularly effective in temperature control, because hundreds of tiny air pockets become trapped among the hairs and make an insulating layer between animal and climate. Sheep with thick wool, such as the merinos of Australia, can stay warm in freezing weather and, conversely, stay cool in the heat of summer. In both cases the difference between the temperature at the skin and on the wool surface (a distance of 8 cm) may be 40?C or more. In animals with less thick coats, simply erecting the hair increases the resistance to cold.” (Foy and Oxford Scientific Films 1982:84)",
+  "function_addressed": [
+    "protect from temperature",
+    "maintain homeostasis",
+    "capture, absorb, or filter gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/underhairs-provide-insulation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "underhairs",
+    "provide",
+    "insulation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

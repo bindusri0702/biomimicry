@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-natural-disturbances-enhance-heterogeneity",
+  "organism_common": "Forest ecosystems",
+  "organism_scientific": "",
+  "strategy_summary": "The heterogeneity of forest ecosystems is enhanced by natural disturbances that create canopy gaps. “Forest canopy gaps are measurable indicators of past small-scale disturbances.",
+  "mechanism": "The heterogeneity of forest ecosystems is enhanced by natural disturbances that create canopy gaps.\n\n“Forest canopy gaps are measurable indicators of past small-scale disturbances. These disturbances can impact forest stand dynamics in ways that help maintain and enhance many ecosystem values…Gaps fell into four groups, which could be interpreted as three ecologically functional groups on the basis of their role in stand development. Gaps caused by the same agents commonly fell within the same functional group: (1) flooding, logging, spruce budworm; and windfall cause stand level impacts that reset the stand development sequence; (2) bark beetles, tree fall, and root diseases cause within stand impacts that altered the rate of stand development; and (3) stem decay and dwarf mistletoe, and, under some circumstances, all disturbance agents, could kill trees yet have no impact on stand development except create space into which neighboring trees expand…Gaps are composed of standing dead and live trees, downed woody debris, and regenerating vegetation. The size, shape, abundance, composition, and spatial/temporal distribution of these elements can affect many ecological features of the forest, including animal and plant habitat, stand development and succession, tree, shrub, seedling, and herb composition, density, growth rate, decomposition and abundance of downed fine woody and nonwoody materials, and underground tree growth dynamics (Attiwill 1994, Bradshaw 1992, and Coates and Burton 1997). Physical factors such as humidity, light intensity, air temperature, wind, snow distribution, and soil moisture, temperature, and nutrient availability may also be affected.” (Lundquist and Beatty 2002:582-583)",
+  "function_addressed": [
+    "manage disturbance in a community",
+    "generate soil/renew fertility",
+    "maintain biodiversity"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/natural-disturbances-enhance-heterogeneity/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "natural",
+    "disturbances",
+    "enhance",
+    "heterogeneity"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

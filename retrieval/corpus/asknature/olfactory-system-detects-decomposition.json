@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-olfactory-system-detects-decomposition",
+  "organism_common": "House fly",
+  "organism_scientific": "",
+  "strategy_summary": "The olfactory systems of some flies help them find food due to their extreme sensitivity to the smell of rotting meat. Long-legged fly (<a href=http://commons.wikimedia.org/wiki/Dolichopodidae class=mw-redirect title=Dolichopodidae>Dolichopodidae</a>) sitting on a leaf  1=Housefly sitting on a stretched electrical…",
+  "mechanism": "The olfactory systems of some flies help them find food due to their extreme sensitivity to the smell of rotting meat.\n\nLong-legged fly (<a href=http://commons.wikimedia.org/wiki/Dolichopodidae class=mw-redirect title=Dolichopodidae>Dolichopodidae</a>) sitting on a leaf\n\n1=Housefly sitting on a stretched electrical cable.\n\nCommon house fly (''Musca domestica'')\n\nHouse flies mating (''Musca domestica'')\n\nBildbeschreibung: Hausfliegenbein\n\nOLYMPUS DIGITAL CAMERA\n\nLarve einer Stubenfliege (Musca domestica (larva))\n\n“The sense of smell is vital to most insects for finding food. Flies are particularly sensitive to the chemical odour given off by rotting meat…” (Foy and Oxford Scientific Films 1982:129)",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/olfactory-system-detects-decomposition/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "olfactory",
+    "system",
+    "detects",
+    "decomposition"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

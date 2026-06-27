@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-scales-manipulate-flow",
+  "organism_common": "Sharks",
+  "organism_scientific": "",
+  "strategy_summary": "Scales on sharks influence drag and thrust during swimming by manipulating fluid flow next to the body. Some species of sharks can swim at impressive speeds of 50 km/h (31 mph).",
+  "mechanism": "Scales on sharks influence drag and thrust during swimming by manipulating fluid flow next to the body.\n\nSome species of sharks can swim at impressive speeds of 50 km/h (31 mph). Their skin is covered in bony scales called dermal denticles (literally ‘skin teeth’), generally 0.2-0.5 mm small, with fine regularly spaced (30–100 μm) longitudinal ridges aligned along the body axis. It has long been hypothesized that shark scales reduce drag by managing the water flow closest to the skin. In addition, shark denticles may help vortices (low-pressure regions of swirling water) stay attached to particular areas of the shark’s body, resulting in more suction and forward thrust. Thus, a shark’s denticles may increase swimming speeds by increasing thrust in addition to reducing drag.\n\nScale texture is just one of the factors that can influence shark skin hydrodynamics, however. Laboratory experiments have revealed that surfaces covered with shark skin, as well as synthetic replicas, experience faster swimming speeds (and presumably decreased drag) compared to surfaces with denticles removed. But this increase in speed only occurred when the textured surface was allowed to flex and bend (as a shark’s body would in the wild), and not when it was kept rigid. Why this difference exists is still under investigation. The shark scales’ ability to bristle in excess of 30-50˚ angles when the body bends may change the nature of fluid flow.\n\nThere is still debate regarding shark denticles’ effectiveness at reducing drag. A recent computational study found that shark skin experienced increased drag by 45-50% when compared to a flat plate without shark skin. These researchers speculate that the three-dimensional shape of a denticle interacts with local flow in such a way that it increases drag. However, it is important to note that this model made necessary simplifying assumptions, including a rigid surface on which the denticles are mounted and a static angle of bristling. Further research, including empirical studies, will be required to address these contrasting results.\n\nImage: Mark Conlin / NOAA / toggle icon\n\nRiblet4Wind\n\nRiblet Coating from Riblet4Wind is a surface coating that creates a textured surface to reduce turbulence and noise while increasing power in wind turbines.\n\nUniversity of Southern California\n\nAcoustic metamaterial from the University of Southern California uses magnets to shift acoustic states and alter transmission.",
+  "function_addressed": [
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/scales-manipulate-flow/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "scales",
+    "manipulate",
+    "flow"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

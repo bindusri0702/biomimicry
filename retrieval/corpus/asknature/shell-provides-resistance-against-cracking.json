@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-shell-provides-resistance-against-cracking",
+  "organism_common": "Macadamia",
+  "organism_scientific": "",
+  "strategy_summary": "The outer shells of the nuts of macadamia trees are extremely resistance to cracking due to its fullerene-like surface structure  Shells of Macadamia nuts at a Macadamia farm near Helensville, Auckland district, New Zealand  Macadamia integrifolia (nuts on ground). Location: Maui, MISC HQ Piiholo  “The stones of the…",
+  "mechanism": "The outer shells of the nuts of macadamia trees are extremely resistance to cracking due to its fullerene-like surface structure\n\nShells of Macadamia nuts at a Macadamia farm near Helensville, Auckland district, New Zealand\n\nMacadamia integrifolia (nuts on ground). Location: Maui, MISC HQ Piiholo\n\n“The stones of the macadamia fruits are generally called ‘macadamia nuts’. They are very hard to crack with fracture toughness comparable with that of glass and many ceramics, and their work of fracture is about an order of magnitude higher than that of high quality structural ceramics (Jennings and MacMillan, 1986).”(Kaupp and Kaupp 2007:150)\n\n“The macadamia hardshell owes its extreme resistance against external cracking to its advanced fullerene-like* surface construction with additional elastic stiffeners. The polygons are about 50 μm wide and appear to consist of flat lying fibres according to the structure of the fractured hardshell in Figure 8 with overwhelming ends of bundles there. The round stiffeners are likely candidates for the bundles of fibres that end normal to the spheroid surface of the hardshell. This architecture is the reason for the extreme cracking toughness of the 160 μm thick shell.” (Kaupp and Kaupp 2007:158)\n\n*”Fullerene-like” refers to being like buckyballs (as in Buckminster Fuller) and refers to polygons and stiffeners that make up the structure of the shell.",
+  "function_addressed": [
+    "manage impact",
+    "manage compression",
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shell-provides-resistance-against-cracking/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shell",
+    "provides",
+    "resistance",
+    "against",
+    "cracking"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

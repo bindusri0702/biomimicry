@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-mucus-has-antibacterial-properties",
+  "organism_common": "Ray-finned fishes",
+  "organism_scientific": "",
+  "strategy_summary": "Glands in the skin of bony fishes help protect the fish from bacterial infection via secreted mucus. “The typical bony fishes — trout, herring, cod, and hundreds of other species — have scales made of very thin, flake-like pieces of bone, often fine enough to be transparent.",
+  "mechanism": "Glands in the skin of bony fishes help protect the fish from bacterial infection via secreted mucus.\n\n“The typical bony fishes — trout, herring, cod, and hundreds of other species — have scales made of very thin, flake-like pieces of bone, often fine enough to be transparent. They are usually more or less rounded in outline: cycloid scales have smooth edges, while ctenoid scales have a spiked or serrated trailing edge (diagram b). The scales grow in the dermis, the inner layer of the skin, and are covered by a fine epidermis or outer skin layer: each scale fits into its own little pocket of epidermis (diagram c). The skin contains glands emitting mucus which keeps the scales slippery and flexible (as an angler knows to his cost) and also acts as an anti-septic, protecting the fish from bacterial infection. The scales grow by adding rings around the edge; they grow fast in summer but little in winter, and thus leave seasonal growth lines by which the age of the fish can be estimated.” (Foy and Oxford Scientific Films 1982:86)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
+  "function_addressed": [
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mucus-has-antibacterial-properties/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mucus",
+    "has",
+    "antibacterial",
+    "properties"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-shape-shades-and-enhances-heat-radiation",
+  "organism_common": "Cactus",
+  "organism_scientific": "",
+  "strategy_summary": "Prickly spines and soaring human-like arms have become instantly recognizable signs of cactus-ness, but they are not the only amazing adaptation of these desert dwellers. Growing under the scorching sun, cacti have had to evolve ways to keep cool and save water.",
+  "mechanism": "The peaks-and-troughs pattern that encircles the thick stems or branches of many cacti work in several ways to protect cacti from getting too hot and dry. For starters, the peaks provide shade for the troughs, reducing the amount of solar heat that gets into them.\n\nBut that doesn’t prevent cacti from still absorbing a lot of heat, so the ribs help in another way. Because the troughs are shaded, the air in them is cooler. It can then absorb more heat from the body of the cactus than warmer air could. As it warms, the air rises out of the troughs, upward to the peaks, where winds waft it away.\n\nAdditionally, the bumpy ribs disrupt airflow around cacti much more than if the cacti’s surfaces were smooth. That allows more airflow to whip away more heat. And a surface with many folds has much more surface area than a flat one of the same diameter, so the ribs also offer more surface area to dissipate heat.\n\nTo conserve scant water, cactus ribs have another secret at work. Plants in general have pores called stomata, usually located in leaves, through which water can evaporate, carrying heat with it, and cooling down the plants. Cacti cannot afford to lose much water, so the sun-drenched peaks of the ribs have fewer and smaller stomata than the shaded troughs.\n\nFinally, when the heat and sun of the desert give way to rainfall, cacti’s folded surfaces transform. As the plant takes in refreshment, the ribs and troughs can unfold, expanding sort of like an accordion to store the watery bounty.\n\nArchitects have already been incorporating cactus-inspired designs into buildings—particularly in hot, dry regions—to reduce the amount of heat absorbed by building surfaces and/or maximize the heat they can radiate. But similar structural innovations could work on smaller scales and other materials—for cars, clothing, cooling devices, and food and beverage packaging, for example.",
+  "function_addressed": [
+    "protect from loss of liquids",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shape-shades-and-enhances-heat-radiation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "cactus",
+    "ribs",
+    "keep",
+    "them",
+    "cool"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

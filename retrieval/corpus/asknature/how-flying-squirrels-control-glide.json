@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-how-flying-squirrels-control-glide",
+  "organism_common": "Flying squirrels",
+  "organism_scientific": "",
+  "strategy_summary": "Several hours before the sun rises in a conifer forest in Alaska, a northern flying squirrel ( Glaucomys sabrinus ) leaps from a high tree branch. Launching forward, it stretches its arms and legs out as far as possible, opening parachute-like membranes between them to catch the wind.",
+  "mechanism": "A flying squirrel’s ability to glide comes from two anatomical features—membranes and cartilage. It has two sets of membranes that are composed of skin and muscle. One membrane stretches between each wrist and ankle, forming wing-like flaps. Behind the wrist are pieces of cartilage that bend upward like the tips of airplane wings to improve stability and minimize drag. Another membrane stretches from each ankle to the tail.\n\nChanges in body position allow the squirrel to alter aerodynamic forces such as lift and drag. When researchers studied the aerodynamics of flying squirrels by filming and analyzing their glides in nature, they found the squirrels did not glide under equilibrium, but instead continuously changed their velocities and forces throughout three phases of “flight.” During those phases, the squirrel’s body tilts up, and the net aerodynamic forces rotate from pointing forward to upward, and then towards the back. This corresponds to its acceleration increasing, reaching its peak, and decreasing.\n\nUnderstanding how mammals like the northern flying squirrel glide could improve parachute and skydiving suit designs as well as improve airplane aeronautics and lead to more passive-energy driven drones.",
+  "function_addressed": [
+    "move in/through gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/how-flying-squirrels-control-glide/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flying",
+    "squirrels",
+    "control",
+    "glide"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

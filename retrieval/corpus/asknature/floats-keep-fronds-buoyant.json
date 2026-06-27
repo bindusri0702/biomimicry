@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-floats-keep-fronds-buoyant",
+  "organism_common": "Brown algae",
+  "organism_scientific": "",
+  "strategy_summary": "Gas-filled floats help keep kelp fronds near the water surface to enhance photosynthesis. Kelp (brown algae seaweed) possess gas-filled floats known as pneumatocysts that enable fronds to float on the water surface, maximizing exposure to sunlight and enhancing photosynthesis .",
+  "mechanism": "Gas-filled floats help keep kelp fronds near the water surface to enhance photosynthesis.\n\nKelp (brown algae seaweed) possess gas-filled floats known as pneumatocysts that enable fronds to float on the water surface, maximizing exposure to sunlight and enhancing photosynthesis . The gas content of the pneumatocysts can vary, but are usually filled with a combination of oxygen, nitrogen, and carbon dioxide. Depending on the species, the kelp may contain one large pneumatocyst or several smaller pneumatocysts distributed throughout the kelp.\n\nPhoto showing drift deposits of kelp (giant seaweeds) : large floats belong to the algal species Nereocystis luetkeana, tiny floats, blades and entangled cords belong to Macrocystis pyrifera. Taken in San Diego\n\nFloating kelp (Macrocystis pyrifera) with many pneumatocysts",
+  "function_addressed": [
+    "move in/on liquids",
+    "modify buoyancy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/floats-keep-fronds-buoyant/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "floats",
+    "keep",
+    "fronds",
+    "buoyant"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

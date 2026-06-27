@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-relationships-essential-to-pollination",
+  "organism_common": "Brazil nut tree",
+  "organism_scientific": "",
+  "strategy_summary": "The Brazil nut tree relies on the orchid bee for pollination, which in turn relies on certain species of orchids for reproduction. “Efforts intended to create habitats are often unsuccessful.",
+  "mechanism": "The Brazil nut tree relies on the orchid bee for pollination, which in turn relies on certain species of orchids for reproduction.\n\n“Efforts intended to create habitats are often unsuccessful. When farmers tried to grow Brazil nuts commercially, they cut down tropical rainforest and planted Brazil nut trees in rows, plantation-style. But these trees depend on orchid bees for pollination, and without the natural orchids of the rainforest, there were not enough orchid bees in the plantations. Hence no nuts were produced.” (Forsyth 1992:41)",
+  "function_addressed": [
+    "pollinate",
+    "cooperate within an ecosystem",
+    "regulate reproduction or growth"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/relationships-essential-to-pollination/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "relationships",
+    "essential",
+    "pollination"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-cell-coat-provides-impermeability",
+  "organism_common": "Protect From Light",
+  "organism_scientific": "",
+  "strategy_summary": "The cell coat of the amoeba provides an impermeable layer of protection via a series of tightly packed helical proteins protruding from the cell membrane. The amoeba is a relatively simple single-celled organism.",
+  "mechanism": "The cell coat of the amoeba provides an impermeable layer of protection via a series of tightly packed helical proteins protruding from the cell membrane.\n\nThe amoeba is a relatively simple single-celled organism. Its internal structure consists of a few organelles that enable it to carry out all functions necessary for life in an aquatic environment. It is separated from its environment by a cellular membrane that usually includes a cell coat. The structure of the cell coat varies depending upon the species.\n\nA specific genus of amoeba, Paradermamoeba, has been found to have an exceptionally thick and strong cell coat. The structure of this cell coat has been difficult to determine due to its relative impermeability. Only after partial digestion of the cell coat was it able to be properly visualized using an electron microscope, suggesting the cell coat is impenetrable to light.\n\nThe structure of the cell coat of Paradermamoeba is likely what gives it its strength and flexibility. The cell coat includes a network of regularly spaced, tightly packed, helical protrusions that have hollow, pentagonal, glass-shaped tips on their ends. It is believed that this is the structure that provides the amoeba with its impenetrable quality.\n\nThis summary was contributed by Alexis Dean.",
+  "function_addressed": [
+    "protect from light"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/cell-coat-provides-impermeability/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "cell",
+    "coat",
+    "provides",
+    "impermeability"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

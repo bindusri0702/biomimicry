@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-wing-structure-allows-rapid-acceleration",
+  "organism_common": "Dragonflies and damselflies",
+  "organism_scientific": "",
+  "strategy_summary": "The wings of a dragonfly help it accelerate rapidly due to their asynchronous operation. “Dragonflies flap and pitch their wings at a rate of about 40 Hz, creating whirlwinds as illustrated in figure 2 [see online paper listed in references].",
+  "mechanism": "The wings of a dragonfly help it accelerate rapidly due to their asynchronous operation.\n\n“Dragonflies flap and pitch their wings at a rate of about 40 Hz, creating whirlwinds as illustrated in figure 2 [see online paper listed in references]. A peculiarity of the dragonfly is its use of a rowing motion along an inclined stroke plane. During hovering, the body lies almost horizontal. The wings push backward and downward, and at the end of the stroke, feather and slice upward and forward. In contrast, many other hovering insects use a symmetrical back-and-forth stroke near a horizontal stroke plane. The dragonfly’s asymmetric rowing motion allows it to support much of its weight by the upward drag created during the downstroke; for the more common symmetric motion, the drag roughly cancels.\n\n“The dragonfly belongs to Odonata, one of the most ancient of insect orders. Its fore and hind wings are controlled by separate muscles, and a distinctive feature of the dragonfly’s wing movement is the phase relation between those wings during various maneuvers. When hovering, the fore and hind wings tend to beat out of phase; during takeoff, they tend to beat closer in phase. Why does a dragonfly vary the phase in different maneuvers? One plausible explanation is that alternating the downstroke reduces body oscillation. That is, however, only part of the story. The fore and hind wings are about a wing-width apart—close enough for them to interact hydrodynamically. To determine the amount of interaction, one solves the Navier–Stokes flow equations with boundary conditions set by the movement of the wings. The resulting flows are spectacular and complex. They depend on Reynolds number, wing motion, wing shape, and phase difference.\n\n“Despite that complexity, two general results emerge: The aerodynamic power expended is reduced when the wings move out of phase, and the force is enhanced when the wings move in phase. When the fore and hind wings beat out of phase, they approach each other from opposite sides and cross near the midstroke. The fore wings experience an induced flow due to the hind wings, and vice versa. As a consequence, the drag on the wings is reduced, as is the power expended in flapping. But the reduction in drag on the two types of wing points in opposite directions, so the net force is essentially unaffected. In other words, the counterstroking allows the dragonfly to generate nearly the same force while saving aerodynamic power. If, instead, the fore and hind wings beat in phase, they will experience a higher drag due to the induced flow. In this case the increase in drag on all the wings points in the same direction. Thus the hydrodynamic interaction results in a greater net force that can be used to accelerate as needed during takeoff. The cost is greater power expenditure.” (Wang 2008:74)\n\nWatch Video",
+  "function_addressed": [
+    "modify speed"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/wing-structure-allows-rapid-acceleration/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "wing",
+    "structure",
+    "allows",
+    "rapid",
+    "acceleration"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

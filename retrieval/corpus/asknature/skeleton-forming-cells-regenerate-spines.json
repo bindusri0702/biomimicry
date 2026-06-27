@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-skeleton-forming-cells-regenerate-spines",
+  "organism_common": "Purple sea urchin",
+  "organism_scientific": "",
+  "strategy_summary": "Cells in open stereom in sea urchins grow spines by creating bridges through calcite precipitation. Over several days, sea urchins are able to grow spines in places where damage has been inflicted.",
+  "mechanism": "Cells in open stereom in sea urchins grow spines by creating bridges through calcite precipitation.\n\nOver several days, sea urchins are able to grow spines in places where damage has been inflicted. Once the damage has occurred, the urchins begin growing micro-spines in a conical shape by precipitating calcite. These initial micro-spines are thin with a rounded tip. “Lateral growth takes place allowing adjacent micro-spines to join by forming a horizontal ‘bridge’” (Gorzelak et al., 2011). The formation of bridges results in a fenestrated meshwork spanning from the base of the spines to the tip. This meshwork is referred to as the open stereom. While new tuberculae grow, the ones bridged by the meshwork continue to thicken simultaneously.",
+  "function_addressed": [
+    "chemically assemble mineral crystals",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/skeleton-forming-cells-regenerate-spines/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "skeleton-forming",
+    "cells",
+    "regenerate",
+    "spines"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-dispersed-solid-transported-within-water",
+  "organism_common": "Tallaganda velvet worm",
+  "organism_scientific": "",
+  "strategy_summary": "The liquid slime of the Tallaganda Velvet Worm carries a water-resistant solid because of dispersed hydrophobic protein regions that prevent the solid from forming until evaporation. The slime projected by the Tallaganda velvet worm is at first a liquid because the protein s within the slime are separated and do not…",
+  "mechanism": "The liquid slime of the Tallaganda Velvet Worm carries a water-resistant solid because of dispersed hydrophobic protein regions that prevent the solid from forming until evaporation.\n\nThe slime projected by the Tallaganda velvet worm is at first a liquid because the protein s within the slime are separated and do not coagulate. The main reason for this is that the protein’s genetic codes have dispersed hydrophobic – or water-fearing – segments that prevent them from folding and taking shape in water. In addition, the proteins remain laregely separated from each other because the mixture is 90% water and only 3-5% protein.\n\nHowever, when the water from the liquid slime evaporates, usually from the energy released from the struggling prey, the slime becomes a rigid solid. With the water removed, the hydrophobic regions no longer interfere with the proteins ability to create a solid structure by binding with other proteins. The hydrophobic regions then insure that the remaining solid is water-resistant.\n\nThis strategy was contributed by Rachel Major",
+  "function_addressed": [
+    "attach temporarily",
+    "physically assemble structure",
+    "modify phase"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/dispersed-solid-transported-within-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "dispersed",
+    "solid",
+    "transported",
+    "within",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

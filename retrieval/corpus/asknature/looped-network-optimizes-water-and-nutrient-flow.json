@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-looped-network-optimizes-water-and-nutrient-flow",
+  "organism_common": "Lemon",
+  "organism_scientific": "",
+  "strategy_summary": "Vein systems in leaves allow for optimal flow and resilience to damage due to a dense network of nested, interconnected loops. In both natural and man-made systems, networks transport materials from a central source to widely distributed destinations.",
+  "mechanism": "Vein systems in leaves allow for optimal flow and resilience to damage due to a dense network of nested, interconnected loops.\n\nIn both natural and man-made systems, networks transport materials from a central source to widely distributed destinations. Branched, tree-like networks that contain repeatedly forking nodes, as are often found in river networks and sewage systems, are one of the most common network designs. Although this design allows for rapid and efficient transport through a system, it is only optimal if the flow is constant across time and space. In other systems, such as the blood vessels of the brain and the veins of leaves, networks must be optimized to quickly respond to fluctuations in load, or rapidly re-route flow in response to damage. These networks all have a common pattern of interconnected, nested loops. Loops are essential for these networks, because they allow material to follow different paths as conditions change.\n\nFor example, in leaves of the lemon tree, a main vein runs through the center, transporting water to the photosynthetic cells, and sugars away from them. Secondary veins branch off the main vein, similar to a tree-like network. However, all the veins are additionally connected to each other through a pattern of nested loops, with several smaller loops inside larger ones. This pattern of interconnected, nested loops throughout the leaf allows for flow to be quickly re-routed to any other vein in the event of injury, or when a change in flow is required. This allows the leaf to rapidly and efficiently respond to fluctuations in flow, while remaining resilient to damage.\n\nFluorescent dye shows how flow transport is re-routed in a lemon leaf after damage to the primary vein. Credit: National Science Foundation/Magnasco and Katifori",
+  "function_addressed": [
+    "distribute liquids",
+    "optimize shape/materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/looped-network-optimizes-water-and-nutrient-flow/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "looped",
+    "network",
+    "optimizes",
+    "water",
+    "nutrient",
+    "flow"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

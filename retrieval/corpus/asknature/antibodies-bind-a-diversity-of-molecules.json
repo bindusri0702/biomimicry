@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-antibodies-bind-a-diversity-of-molecules",
+  "organism_common": "Vertebrates (Mammals, Fish, Birds, Reptiles)",
+  "organism_scientific": "",
+  "strategy_summary": "The vertebrate immune system is a highly coordinated system of interacting molecules, tissues, and processes that defend an organism against disease and infection. When a foreign pathogen invades the body, one of the immune system’s responses is to produce antibodies.",
+  "mechanism": "The surface molecules that antibodies bind to on pathogens are called antigens, and binding between antibody and antigen is highly specific. A given antibody can fit with and bind only one or a few different antigens. Each antibody is a Y-shaped molecule with two binding sites, one on each tip of the Y’s upper arms. While the majority of the molecule is similar among different antibodies, the binding sites at the tips are highly variable. Different numbers and combinations of protein building blocks (amino acids) result in different protein folding patterns at the binding site. How the proteins are folded determines the specific 3D shape and chemical characteristics at the antibody’s binding site. This binding site attaches to antigens like a lock fits a key. Many weak bonds between the binding site and the antigen enable the antibody to attach tightly.",
+  "function_addressed": [
+    "attach temporarily",
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/antibodies-bind-a-diversity-of-molecules/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "antibodies",
+    "bind",
+    "diversity",
+    "molecules"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

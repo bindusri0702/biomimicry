@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-self-medicating-to-prevent-malaria",
+  "organism_common": "House sparrow",
+  "organism_scientific": "",
+  "strategy_summary": "House sparrows protect themselves from malaria by lining their nests with and eating quinine-containing leaves from the paradise flower tree. 1=House Sparrow Male ''Passer domesticus''.",
+  "mechanism": "House sparrows protect themselves from malaria by lining their nests with and eating quinine-containing leaves from the paradise flower tree.\n\n1=House Sparrow Male ''Passer domesticus''. Photo taken in Louisville Kentucky.\n\nYoung house sparrows in their nest|Source=own work\n\nDistribution Map of Passer domesticus\n\n“During an outbreak of malaria in Calcutta during 1998, Dr. Dushim Sengupta and fellow scientists at Calcutta’s Center for Nature Conservation and Human Survival were surprised to witness house sparrows lining their nests with (and also eating) leaves from the paradise flower tree ( Caesalpina pulcherrima ), a species whose leaves are rich in the anti-malarial drug quinine. Confirming that their choice of leaves was deliberate, the sparrows swiftly gathered fresh leaves of this same species when the scientists removed those already lining their nests.” (Shuker 2001:216-217)",
+  "function_addressed": [
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/self-medicating-to-prevent-malaria/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "self-medicating",
+    "prevent",
+    "malaria"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

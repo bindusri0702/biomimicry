@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-photosynthesis-in-low-light-conditions",
+  "organism_common": "Taeniophyllum orchid",
+  "organism_scientific": "",
+  "strategy_summary": "The green, ribbon-like roots of Taeniophyllum orchids assist in food production because they have been modified to carry out photosynthesis. “One orchid, taeniophyllum , has roots that are even more versatile.",
+  "mechanism": "The green, ribbon-like roots of Taeniophyllum orchids assist in food production because they have been modified to carry out photosynthesis.\n\n“One orchid, taeniophyllum , has roots that are even more versatile. Its scientific name means, rather unattractively, ‘tapeworm leaf’. Its roots have not only developed into flat, tapeworm-like shapes several yards long that writhe statically all over the branch on which the plant sits, but they have also become green and manufacture the orchid’s food. The true leaves, no longer needed, have been reduced to tiny scales on the minute stem that carries the flowers.” (Attenborough 1995:166-168)",
+  "function_addressed": [
+    "capture, absorb, or filter energy",
+    "adapt behaviors"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/photosynthesis-in-low-light-conditions/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "photosynthesis",
+    "low-light",
+    "conditions"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

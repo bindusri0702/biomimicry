@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-cryptobiosis-protects-from-extremes",
+  "organism_common": "Water bears",
+  "organism_scientific": "",
+  "strategy_summary": "In 2006 the National Geographic Society teamed up with the National Park Service to launch what they called a BioBlitz campaign. Each year for 10 years, culminating in 2016 with the 100th anniversary of the National Park Service, scientific experts and citizen volunteers would descend on a designated park for 24 hours…",
+  "mechanism": "Tardigrades in this desiccated condition have endured the vacuum of space and pressures six times that of the ocean bottom. They’ve persisted through temperatures as low as -458 degrees F (-237 degrees C) and higher than 300 degrees F (149 degrees C). They’ve emerged unscathed from bombardments of radiation that are 1,400 times higher than the levels that would kill a human being. Tardigrades have even been shot from guns at velocities approaching 3,000 feet (914 meters) per second. (They survived.) It seems the only force strong enough to wipe them off the face of the earth is the end of time when the sun balloons into a red star and vaporizes all the water on earth—an estimated six billion years from now!\n\nScientists are examining these survival mechanisms for solutions to a variety of human health challenges. In 2024 researchers at the University of North Carolina, Chapel Hill, for example, showed that tardigrades responded to damage from large doses of radiation with a flood of repair proteins. After dosing human cells with these proteins, scientists noted that the cells were better equipped to resist damage from radiation. Understanding how they help mend shattered strands of DNA, or enable cells to withstand harm from radiation to begin with, could lead to medical breakthroughs for humans, especially in therapies for cancers that are caused by impaired DNA.\n\nAfter a flurry of research in the 1960s and 1970s, there also are signs of renewed interest in tardigrade cryptobiosis. Recent research has shown that, as they dry out, some tardigrades produce CAHS (cytoplasmic abundant heat-soluble) proteins that do not maintain a fixed structure. These intrinsically disordered proteins work with a sugar called trehalose to create a protective shell around other kinds of proteins and molecules that would otherwise disintegrate in the absence of water. During rehydration, the glassy material dissolves and the tardigrade’s cells are able to resume normal functioning.\n\nMimicking these processes could help solve a wide range of critical challenges, particularly in pharmaceuticals. Having access to shelf-stable vaccines or blood and blood products that can be reconstituted with water could save millions of lives in parts of the globe where refrigeration is unreliable.",
+  "function_addressed": [
+    "protect from temperature",
+    "protect from nuclear radiation",
+    "protect from chemicals",
+    "protect from loss of liquids",
+    "maintain homeostasis"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/cryptobiosis-protects-from-extremes/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "cryptobiosis",
+    "protects",
+    "extremes"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

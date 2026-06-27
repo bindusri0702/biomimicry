@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-body-oscillation-to-dry-off",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "Take your dog to play in the water, and what’s the first thing she’ll do when she gets out? Likely shake her head and shoulders in a semicircular motion, flinging fat water droplets onto everything in the vicinity.",
+  "mechanism": "Drying off quickly is important for mammals because water mats their fur, dramatically reducing its insulating value. In cool weather, removing the water and regaining the insulation value of the coat can be literally a matter of life and death. And even though it takes energy to rapidly rotate the head and shoulders, it would take orders of magnitude more energy to heat the body enough to evaporate the large amount of water a fur coat can take on.\n\nThe efficiency of the shoulder-shake technique comes in at the molecular level. Surface tension and capillary action hold the moisture to the hair. A shaking animal counters those forces by using a circular motion to generate centripetal force—the same action that spins water out of your clothes in a washing machine.\n\nLessons learned from the design of fur and loose skin, and the rate at which mammals shake to expel water from their fur can apply to optimizing human activities as well. For example, they can help us set ideal speeds and drum sizes for washing machines and centrifuges or to design entirely new versions of them. They also can guide the design of self-drying or self-cleaning equipment, such as cameras on remote vehicles exploring other planets.",
+  "function_addressed": [
+    "modify material characteristics",
+    "protect from temperature",
+    "protect from excess liquids",
+    "maintain homeostasis",
+    "expel liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/body-oscillation-to-dry-off/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "rapid",
+    "oscillation",
+    "sheds",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

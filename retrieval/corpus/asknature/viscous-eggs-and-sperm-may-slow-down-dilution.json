@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-viscous-eggs-and-sperm-may-slow-down-dilution",
+  "organism_common": "Collector urchin",
+  "organism_scientific": "",
+  "strategy_summary": "Viscous eggs and sperm from sea urchins may slow down dilution and enhance fertilization rates by forming sticky clumps. Sea urchins are spiny marine animals that reproduce through broadcast spawning: they gather together into groups where females release millions of eggs and males release billions of sperm into the…",
+  "mechanism": "Viscous eggs and sperm from sea urchins may slow down dilution and enhance fertilization rates by forming sticky clumps.\n\nSea urchins are spiny marine animals that reproduce through broadcast spawning: they gather together into groups where females release millions of eggs and males release billions of sperm into the open water where the two can mix, potentially meet, and fertilize.\n\nThe exact conditions that trigger spawning in different urchin species are as yet unknown, but environmental cues like water temperature and food availability appear to play a role in triggering group spawning in some urchin populations.\n\nOnce released from the urchin’s body, sperm and eggs are at the whim of the surrounding water and its motion. If they become too diluted from dispersing too rapidly and widely, the chance of fertilization could decrease dramatically. Some species of sea urchins appear to have strategies that can help control dispersion of eggs and sperm and potentially make fertilization more likely. For instance, the eggs and sperm are negatively buoyant, meaning they tend to sink. This may prevent them from being swept away too quickly when first released.\n\nIn addition, the eggs and sperm have high viscosity. This property affects how much substances stay together or disperse: high viscosity substances tend to stick together (e.g., glue or molasses), while low viscosity substances flow and separate easily. Because of their high viscosity, urchin eggs and sperm can form concentrated clumps or sticky strings that stay close to the urchin and gradually diffuse over time. This could increase the chance that sperm and eggs encounter each other. Furthermore, this viscosity can change depending on how masses of sperm or eggs flow. When flow speeds within a flowing stream of sperm or eggs vary greatly (which can happen when fluids travel through a narrow pipe, for example), their viscosity decreases. This behavior is called shear-thinning. For an urchin, having eggs or sperm be less viscous while they travel through a reproductive duct and out an external pore could mean that less energy is needed to expel the eggs or sperm from its body.\n\nTo see urchin spawning in action, check out this video from the Plankton Chronicles.\n\nThis species of urchin, Echinus esculentus, was not included in the mentioned studies, but the general process of sperm release is similar among urchins.",
+  "function_addressed": [
+    "modify material characteristics",
+    "regulate reproduction or growth",
+    "expel solids",
+    "distribute solids",
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/viscous-eggs-and-sperm-may-slow-down-dilution/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "viscous",
+    "eggs",
+    "sperm",
+    "may",
+    "slow",
+    "down"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

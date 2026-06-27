@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-enzymes-sulfoxidize-toxic-organosulfur",
+  "organism_common": "Cyclocybe aegerita",
+  "organism_scientific": "",
+  "strategy_summary": "Enzymes produced by the mushroom-forming fungus Agrocybe aegerita break down toxic organosulfur compounds by catalyzing the oxidization of the sulfur-containing portion of the molecule. Dibenzothiophene (DBT) is an organosulfur compound present in heavier fossil fuels like crude oil, coal tar, and coal.",
+  "mechanism": "Enzymes produced by the mushroom-forming fungus Agrocybe aegerita break down toxic organosulfur compounds by catalyzing the oxidization of the sulfur-containing portion of the molecule.\n\nDibenzothiophene (DBT) is an organosulfur compound present in heavier fossil fuels like crude oil, coal tar, and coal. Petroleum spills and combustion of these fuels release the compound into the environment. Like many similar chemicals, DBT is toxic to life and some organisms have evolved methods for partially breaking it down into more degradable compounds. The fungus Agrocybe aegerita produces an enzyme called aromatic peroxygenase which it secretes into its external environment. This enzyme uses hydrogen peroxide to catalyze the oxidation of the sulfur-containing portion of DBY. Though the mechanism has yet to be thoroughly established, the active site on the enzyme seems to stimulate the formation of an epoxide adjacent to the sulfur which then rapidly and spontaneously hydrolyzes into hydroxy-DBTs. The products vary depending on the random way in which water reacts with the transient epoxide form but all are more easily broken down further by spontaneous or enzymatic reactions.",
+  "function_addressed": [
+    "modify reactivity with water",
+    "chemically break down organic compounds",
+    "chemically assemble organic compounds",
+    "catalyze chemical breakdown"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/enzymes-sulfoxidize-toxic-organosulfur/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "enzymes",
+    "sulfoxidize",
+    "toxic",
+    "organosulfur"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

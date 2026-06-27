@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-communicating-over-long-distances",
+  "organism_common": "Double-wattled cassowary",
+  "organism_scientific": "",
+  "strategy_summary": "Cassowaries communicate over long distances in dense rainforest using low frequency booming sounds. “Although some birds can detect wavelengths in the infrasound range, there has been little evidence that birds produce very low frequencies.",
+  "mechanism": "Cassowaries communicate over long distances in dense rainforest using low frequency booming sounds.\n\n“Although some birds can detect wavelengths in the infrasound range, there has been little evidence that birds produce very low frequencies. We made nine recordings of a captive Dwarf Cassowary ( Casuarius benneti ) and one recording of a wild Southern Cassowary ( C. casuarius ) near Crater Mountain, Papua New Guinea. Both species produced sounds near the floor of the human hearing range in their pulsed booming notes: down to 32 Hz for C. casuarius and 23 Hz in C. benneti . Recordings of C. benneti indicate four levels of harmonics with the 23 Hz fundamental frequency. Such low frequencies are probably ideal for communication among widely dispersed, solitary cassowaries in dense rainforest. The discovery of very low-frequency communication by cassowaries creates new possibilities for studying those extremely secretive birds and for learning more about the evolution of avian vocalizations.” (Mack and Jones 2003:1062)",
+  "function_addressed": [
+    "send sound signals",
+    "sense sound and other vibrations from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/communicating-over-long-distances/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "communicating",
+    "over",
+    "long",
+    "distances"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

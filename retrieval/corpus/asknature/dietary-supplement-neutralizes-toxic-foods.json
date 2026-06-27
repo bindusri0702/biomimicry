@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-dietary-supplement-neutralizes-toxic-foods",
+  "organism_common": "Protect From Chemicals",
+  "organism_scientific": "",
+  "strategy_summary": "The Zanzibar red colobus effectively removes toxins such as phenols from the leaves it eats by eating charcoal. “As discovered during the late 1990s by Dr.",
+  "mechanism": "The Zanzibar red colobus effectively removes toxins such as phenols from the leaves it eats by eating charcoal.\n\n“As discovered during the late 1990s by Dr. Thomas Struhsaker and fellow researchers from North Carolina’s Duke University, the Zanzibar red colobus ( Colobus kirkii ) eats charcoal in the wild, making it the only primate species other than humans to do so. The reason for its daily — and very enthusiastic — charcoal intake (which it obtains by stealing charcoal from human charcoal burners) is that the substance is effective in removing harmful toxins such as phenols from the protein-rich leaves of the mango ( Mangifera indica ) and almond ( Terminalia catappa ) upon which it feeds. These substances would otherwise have a harmful effect on the functioning of the monkey’s digestive system.” (Shuker 2001:214-215)",
+  "function_addressed": [
+    "protect from chemicals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/dietary-supplement-neutralizes-toxic-foods/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "dietary",
+    "supplement",
+    "neutralizes",
+    "toxic",
+    "foods"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

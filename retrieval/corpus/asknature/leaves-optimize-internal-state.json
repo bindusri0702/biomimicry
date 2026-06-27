@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-leaves-optimize-internal-state",
+  "organism_common": "Mangroves",
+  "organism_scientific": "",
+  "strategy_summary": "Leaves of mangroves minimize heat gain, enhance cooling, minimize water loss, and maximize photosynthesis by optimizing tilt angles and leaf size. “Parsimonious use of water leads to other problems.",
+  "mechanism": "Leaves of mangroves minimize heat gain, enhance cooling, minimize water loss, and maximize photosynthesis by optimizing tilt angles and leaf size.\n\n“Parsimonious use of water leads to other problems. Photosynthesis proceeds most rapidly in Rhizophora at a temperature of 25°C, falling off sharply above 35°C. The optimal temperature is typical of the air temperature within a mangrove forest. However, to maximise photosynthesis a leaf must position itself broadside-on to the sun. Maximising incident light, unfortunately, also maximises heat gain, and the temperature of a leaf in this position rapidly rises to 10–11°C above air temperature. One way of reducing leaf temperature would be to increase the transpiration rate and lose heat by evaporation. Mangroves cannot afford to do this. Instead, they tend to hold their leaves at an angle to the horizontal, so minimising heat gain. The angle varies from about 75° in leaves with greatest exposure to the sun, to 0° (horizontal) in leaves in full shade. Cooling is also enhanced by leaf design. Small leaves lose more heat by convection than large ones: leaves exposed to full sunlight, and heat-stressed, are smaller than those that are shaded. Leaves also tend to be smaller in the more salt-tolerant species, where water economy must be more stringent (Ball 1988a; Ball et al. 1988). Such constraints on leaf morphology may explain the convergent similarity between the leaves of different mangrove species.” (Hogarth 1999:17)",
+  "function_addressed": [
+    "capture, absorb, or filter energy",
+    "protect from loss of liquids",
+    "protect from temperature",
+    "optimize shape/materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-optimize-internal-state/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "optimize",
+    "internal",
+    "state"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

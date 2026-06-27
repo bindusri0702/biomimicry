@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-scales-protect-skin",
+  "organism_common": "Cartilaginous fishes",
+  "organism_scientific": "",
+  "strategy_summary": "The skin of cartilaginous fish is protected by a covering of abrasive placoid scales, called denticles. “The other main type of fish scales are those known as placoid scales or, more commonly and appropriately, denticles: ‘little teeth’ (diagram d).",
+  "mechanism": "The skin of cartilaginous fish is protected by a covering of abrasive placoid scales, called denticles.\n\n“The other main type of fish scales are those known as placoid scales or, more commonly and appropriately, denticles: ‘little teeth’ (diagram d). They are found on the primitive cartilaginous fishes, sharks, skates, and rays (whose skeletons are made of cartilage, not bone). Each denticle grows up from the dermis until its curved tip breaks the skin surface — denticles are not covered with skin as bony scales are. Each denticle, like a human tooth, is made of dentine (tooth ivory) capped with enamel; each has a pulp cavity containing nerves and blood vessels. Denticles are usually small, but may be sharp. Brushing against the skin of a shark, can flay the skin of a swimming man like a particularly vicious sandpaper.” (Foy and Oxford Scientific Films 1982:91)",
+  "function_addressed": [
+    "protect from animals",
+    "manage mechanical wear"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/scales-protect-skin/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "scales",
+    "protect",
+    "skin"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

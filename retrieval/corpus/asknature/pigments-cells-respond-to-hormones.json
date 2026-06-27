@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-pigments-cells-respond-to-hormones",
+  "organism_common": "African clawed frog",
+  "organism_scientific": "",
+  "strategy_summary": "Pigments in frog skin change color in response to hormones by moving melanin grains around cells. “Some frogs, such as the African clawed frog ( Xenopus laevis ), change colour to cope with sunlight and heat and also to improve their camouflage.",
+  "mechanism": "Pigments in frog skin change color in response to hormones by moving melanin grains around cells.\n\n“Some frogs, such as the African clawed frog ( Xenopus laevis ), change colour to cope with sunlight and heat and also to improve their camouflage. They do this by activating cells in their skin that contain granules of melanin, the dark brown pigment . These colour-changing cells, called melanophores, are normally dark but can be triggered by a particular hormone released in the frog. When the hormone binds to the cell wall, it sets off a reaction that moves the pigment granules to the centre of the cell, making it look colourless. Once the hormone detaches, the melanin grains disperse throughout the cell, making it appear dark again.” (Sample 2002:21)",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment",
+    "modify light/color",
+    "protect from temperature",
+    "protect from light",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pigments-cells-respond-to-hormones/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pigments",
+    "cells",
+    "respond",
+    "hormones"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

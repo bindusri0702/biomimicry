@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-gills-exchange-oxygen-efficiently",
+  "organism_common": "Fish",
+  "organism_scientific": "",
+  "strategy_summary": "The gills of fish remove oxygen from water with extreme efficiency because water flows countercurrent to capillary blood flow. “Water flow over the secondary lamellae is countercurrent to capillary blood flow, resulting in extremely efficient oxygen extraction.",
+  "mechanism": "The gills of fish remove oxygen from water with extreme efficiency because water flows countercurrent to capillary blood flow.\n\n“Water flow over the secondary lamellae is countercurrent to capillary blood flow, resulting in extremely efficient oxygen extraction. Gills also function in monovalent ion regulation (via specialized chloride cells) and nitrogenous waste excretion (ammonia).” (Fowler and Miller 2003:4)",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/gills-exchange-oxygen-efficiently/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "gills",
+    "exchange",
+    "oxygen",
+    "efficiently"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-blades-balance-drag-reduction-and-solar-exposure",
+  "organism_common": "Bull kelp",
+  "organism_scientific": "",
+  "strategy_summary": "Blades of bull kelp balance drag reduction and sunlight exposure in different flow environments via changes in width and flatness. Bull kelp ( Nereocystis luetkeana ) is a marine macroalga that grows in coastal waters between Alaska and central California.",
+  "mechanism": "Blades of bull kelp balance drag reduction and sunlight exposure in different flow environments via changes in width and flatness.\n\nBull kelp ( Nereocystis luetkeana ) is a marine macroalga that grows in coastal waters between Alaska and central California. It resembles a vine-like plant with a long, thin stipe (stem-like structure) up to 30 meters long, anchored into the sea floor by a holdfast (root-like structure). At the stipe’s other end is a gas-filled float that holds 30-60 photosynthetic blades, each reaching up to 4 meters in length, near the water’s surface. Many marine macroalgae must withstand significant hydrodynamic forces imposed by tidal currents, waves and surface chop. If the mechanical force exerted by fluid flow exceeds the breaking strength of a kelp stipe or holdfast, the macroalga can break away and potentially die. Thus adaptation s managing drag exerted on the kelp can be advantageous.\n\nOne example is the blade shape of bull kelp, which varies between habitats with differing degrees of flow. Bull kelp exposed to rapidly moving water grow flat, narrow blades compared to those found in calmer, protected sites that grow undulate (ruffled), wide blades. In faster flowing waters, narrow, flat blades flutter at smaller amplitudes allowing them to clump into more streamlined bundles. Experiments demonstrate that both the narrowness and flatness of a blade contributes to how well the blades can clump together, and that blade shape changes in response to mechanical stress (the changes are plastic). Both the cabbage-like kelp Saccharina sessile and the giant kelp Macrocystis pyrifera exhibit similar differences in blade shape between fast and slow flow environments, suggesting this difference in blade shape is a common way to manage drag.\n\nIf narrowness and flatness reduce drag, why would any kelp have wide, ruffled blades? Streamlining of bundles comes at the cost of self-shading, which leads to a reduction in photosynthetic rate. By moving at greater and more varied amplitudes, wide and ruffled blades prevent self-shading by spreading themselves apart and increasing their exposure to sunlight. Bull kelp experience a trade off between minimizing drag by streamlining and maximizing photosynthesis by spreading out. Since drag increases with flow speed, kelp in habitats exposed to powerful waves and tides invest in minimizing drag at the cost of photosynthesis while kelp in more protected habitats need not invest so heavily in drag reduction and can increase solar exposure.\n\nBull kelp\n\nLong and skinny support stalks (stipe) of seaweed experience lower stress forces when pulled rather than bent.\n\nBull kelp\n\nBlades of bull kelp take on 3D ruffled shape because of different growth rates along the edge and midline",
+  "function_addressed": [
+    "adapt phenotype",
+    "optimize shape/materials",
+    "modify size/shape/mass/volume",
+    "manage turbulence",
+    "capture, absorb, or filter energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/blades-balance-drag-reduction-and-solar-exposure/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "blades",
+    "balance",
+    "drag",
+    "reduction",
+    "solar",
+    "exposure"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

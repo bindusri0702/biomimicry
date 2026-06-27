@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-extra-eyes-direct-light",
+  "organism_common": "Javelin spookfish",
+  "organism_scientific": "",
+  "strategy_summary": "Deep in the ocean, above the region of total darkness, but below the point where 99% of sunlight is filtered out lives a species of barreleye fish called the brownsnout spookfish ( Dolichopteryx longipes ). Like many other fish that inhabit this mesopelagic (or “middle of the ocean”) zone, it has two eyes that point…",
+  "mechanism": "Enter the brownsnout’s optical innovation: it has outgrowths from its upward-facing eyes that point downwards. While other mesopelagic fish have similar outgrowths, they lack lenses to reflect and focus incoming light, and as a result they can only see blurry shapes at best. Lenses are useful because they can bend light to focus the rays on the retina and create an image. The brownsnout, too, lacks lenses, but it does have stacks of plates that act as a mirror. The mirror reflects light and creates sharp images from a wide field of vision. This allows the brownsnout to have a clear view of what’s below it and also to detect bioluminescent light produced by other organisms.\n\nAdditionally, the plates of the mirror are angled to create a curved shape that allows the maximum amount of light to be reflected, creating the sharpest possible image. It’s also hypothesized that the fish can alter the position of the mirror to focus on objects at different distances.\n\nThis strategy provides the spookfish a valuable advantage as it competes with other animals to find food and avoid becoming food in the almost-total darkness of the mesopelagic zone. And it could provide equally valuable advantages to specialty cameras and other human-made systems that would benefit from the ability to form crisp images over a broad field in extremely dim light.",
+  "function_addressed": [
+    "sense light (visible spectrum) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/extra-eyes-direct-light/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fish",
+    "cracked",
+    "mystery",
+    "mirror",
+    "vision"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

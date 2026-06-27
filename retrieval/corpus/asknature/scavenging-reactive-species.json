@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-scavenging-reactive-species",
+  "organism_common": "Rotifers",
+  "organism_scientific": "",
+  "strategy_summary": "Bdelloid rotifers are resistant to ionizing radiation due to enhanced capacity for scavenging destructive radiation-induced molecules before they have a chance to cause damage. Ionizing radiation, including that from nuclear materials and X-rays, can damage DNA and proteins directly by forming or breaking bonds in DNA…",
+  "mechanism": "Bdelloid rotifers are resistant to ionizing radiation due to enhanced capacity for scavenging destructive radiation-induced molecules before they have a chance to cause damage.\n\nIonizing radiation, including that from nuclear materials and X-rays, can damage DNA and proteins directly by forming or breaking bonds in DNA or indirectly by the formation of reactive oxygen species (ROS). ROS, such as free radicals and peroxides, can destroy proteins. D. [Deinoccocus] radiodurans and bdelloid rotifers are able to survive exposure to ionizing radiation because they are able to scavenge ROS before they can wreak havoc, thereby leaving proteins charged with repairing damaged DNA to do their job.\n\nImage: Ian Sutton / toggle icon",
+  "function_addressed": [
+    "protect from nuclear radiation",
+    "modify free radical reactivity"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/scavenging-reactive-species/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "scavenging",
+    "reactive",
+    "species"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

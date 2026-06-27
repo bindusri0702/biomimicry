@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-fan-like-antennae-aid-sensing",
+  "organism_common": "Grapevine beetle",
+  "organism_scientific": "",
+  "strategy_summary": "The antennae of cockchafer beetles effectively sense signals via fan-like ends that increase the exposure of the sensillae to air. “This cockchafer, or maybug, has short antennae ending in movable clubs which it can spread out like a fan, greatly increasing the area of sensillae exposed to the surrounding air.",
+  "mechanism": "The antennae of cockchafer beetles effectively sense signals via fan-like ends that increase the exposure of the sensillae to air.\n\n“This cockchafer, or maybug, has short antennae ending in movable clubs which it can spread out like a fan, greatly increasing the area of sensillae exposed to the surrounding air. It feeds on nectar and other plant food and can even detect the presence of an underground mushroom as it flies over it. A heavy insect, it uses internal air sacs to help it stay airborne.” (Foy and Oxford Scientific Films 1982:131)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment",
+    "sense sound and other vibrations from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fan-like-antennae-aid-sensing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fan-like",
+    "antennae",
+    "aid",
+    "sensing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

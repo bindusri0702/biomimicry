@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-skin-self-repairs",
+  "organism_common": "Humans",
+  "organism_scientific": "",
+  "strategy_summary": "Skin of humans self-repairs through an over-lapping sequence of cellular activities. “When the skin is scraped deeply enough to penetrate the epidermis, the blood vessels in the dermis can be damaged and start bleeding.",
+  "mechanism": "Skin of humans self-repairs through an over-lapping sequence of cellular activities.\n\n“When the skin is scraped deeply enough to penetrate the epidermis, the blood vessels in the dermis can be damaged and start bleeding. Platelets in the blood come into contact with collagen and other components of the skin that have been exposed by the injury. This contact induces the platelets to release clotting factors and other substances in order to stop the bleeding. As the bleeding stops, the healing has already started. Special white blood cells called neutrophils than arrive at the site to begin the process of ridding the area of foreign materials, unwanted microorganisms, and damaged tissues. This process is aided by the development of local inflammation, fueled by cytokines, molecules that coordinate subsequent healing.\n\n“Once the wound site has been cleaned out, fibroblasts migrate to the area to start laying down new collagen on the scaffolding of the original clot. The chemical activity occurring at this time is intense, as the fibroblasts at the wound site mature and produce new proteins to speed healing. In order to restore the dermis, different types of collagen are produced at the wound for the next several days. The collagen undergoes continuous remodeling to physically fill in the injured region. Simultaneously, new blood vessels become established in the area. While all this is going on, the epidermis is preparing to repave its surface by moving new keratinocytes to the location of the injury.” (Jablonski 2006:123-124)",
+  "function_addressed": [
+    "regulate cellular processes",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/skin-self-repairs/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "skin",
+    "self-repairs"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-stretch-receptors-aid-sound-detection",
+  "organism_common": "Field cricket",
+  "organism_scientific": "",
+  "strategy_summary": "The hearing organs of the silicon cricket detect sound vibrations and their direction via chordotonal organs called stretch receptors. Why Crickets Just Won't Shut Up  “Crickets can locate conspecifics by phonotaxis to the calling (mating) song they produce, and can evade bats by negative phonotaxis from echolocation…",
+  "mechanism": "The hearing organs of the silicon cricket detect sound vibrations and their direction via chordotonal organs called stretch receptors.\n\nWhy Crickets Just Won't Shut Up\n\n“Crickets can locate conspecifics by phonotaxis to the calling (mating) song they produce, and can evade bats by negative phonotaxis from echolocation calls…The physics of this system is well understood (Michelsen et al., 1994); the mechanism (see Fig. 1) is a pair of sound receivers with effectively four acoustic inputs, one on each foreleg, which are the external surfaces of the tympana, and two on the body, the prothoracic or acoustic spiracles (Michelsen, 1998). Connecting tracheal tubes between these four inputs mean that phase cancellation occurs as sounds travel inside the cricket, producing a directional response at the tympana to frequencies near to that of the calling song. The amplitude of vibration of the tympana, and hence the firing rate of the auditory afferent neurons attached to them, vary as a sound source is moved around the cricket and the sounds from the different inputs move in and out of phase. The outputs of the two tympana match when the sound is straight ahead, and the inputs are bilaterally symmetric with respect to the sound source. However, when sound at the calling song frequency is off-centre the phase of signals on the closer side comes better into alignment, and the signal increases on that side, and conversely decreases on the other. Consequently the cricket can turn towards the sound source by turning to the side with the higher tympanal vibration amplitude.” (Reeve et al. 2007:307-308)",
+  "function_addressed": [
+    "sense sound and other vibrations from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/stretch-receptors-aid-sound-detection/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "stretch",
+    "receptors",
+    "aid",
+    "sound",
+    "detection"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

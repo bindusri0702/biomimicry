@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-pads-attach-to-smooth-surfaces-2",
+  "organism_common": "Bats",
+  "organism_scientific": "",
+  "strategy_summary": "Pads on the wrists and ankles of sucker-footed bats attach to smooth surfaces via wet adhesion. Most species of bats roost upside-down, using their toenails to cling to rough surfaces.",
+  "mechanism": "Pads on the wrists and ankles of sucker-footed bats attach to smooth surfaces via wet adhesion.\n\nMost species of bats roost upside-down, using their toenails to cling to rough surfaces. Sucker-footed bats are an exception, as they roost head-up inside furled leaves by clinging to the walls of the leaf with pads on their wrists and ankles. It was originally thought that these bats attached to leaves using suction, but recent evidence has shown that they actually use wet adhesion to attach to leaf surfaces.\n\nThrough wet adhesion, which takes advantage of the properties of water, sucker-footed bats are able to adhere to and climb along smooth surfaces without additional external support.\n\nWet adhesion is caused by several properties of water. The first, called “surface tension”, is what allows paperclips to be carefully rested on the surface a container of water, even though they are denser than water and sink if dropped into the liquid. Water molecules are attracted to each other by lots of weak bonds called “hydrogen bonds”. Water surrounded by other water molecules on all sides, for example in the middle of a volume, will be pulled equally in every direction. However, water on the surface, or boundary, has only a few neighbors, and so it binds more strongly to them, making molecules here harder to separate. Because of this, the water surface acts like a stretched elastic membrane, allowing paperclips to sit on top. Because water molecules bind to each other (“cohesion”), they can also be used to pull each other, as in siphoning. Finally, the stickiness of water also makes is adhere to surfaces (“adhesion”), and you can see this in the way it creeps up the side of a glass. In “capillary action”, adhesion to surfaces combines with surface tension to enable water to creep up narrow tubes, even against gravity. Wet adhesion is a combination of all of these properties of water working together.\n\nSucker-footed bats attach to leaves by releasing fluid onto their wrist and ankle pads. These pads are studded with ridges, which act as capillaries and help retain the fluid as it is released. When the pad comes in contact with the leaf, capillary action pulls the liquid out of the ridges and into the gap between the pad and the leaf surface, known as the boundary layer. Capillary action causes the liquid to flow onto the leaf surface when the height (h) of the boundary layer (or the distance between the bat’s pad and the leaf surface) is smaller than the width (w) of the ridges of the pad. Adhesion ensures the liquid is attached to the leaf surface, while cohesion keeps all the liquid together and the bat attached. When the bat pulls its pad off the leaf surface, increasing the height of the boundary layer, capillary action causes the liquid in the boundary layer to flow back into the ridges to be used again.\n\nThrough wet adhesion, which takes advantage of the properties of water, sucker-footed bats are able to adhere to and climb along smooth surfaces without additional external support.\n\nCapillary action: The height of the boundary layer is smaller than the width of the capillaries, which means there is a lower pressure in the boundary layer. Water will then flow from the capillaries to fill boundary layer\n\nSurface tension causes water molecules at surface of liquid to bind more tightly together",
+  "function_addressed": [
+    "move in/on solids",
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pads-attach-to-smooth-surfaces-2/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pads",
+    "attach",
+    "smooth",
+    "surfaces"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

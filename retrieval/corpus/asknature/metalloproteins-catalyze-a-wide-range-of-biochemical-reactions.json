@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-metalloproteins-catalyze-a-wide-range-of-biochemical-reactions",
+  "organism_common": "Hyperthermophilic archaea",
+  "organism_scientific": "",
+  "strategy_summary": "Proteins produced by the bacteria Pyrococcus furiosus contain metal atoms that enable the proteins to catalyze important chemical reactions. Protein s with embedded metal atoms catalyze some of the more amazing feats of living chemistry including photosynthesis and metabolism.",
+  "mechanism": "Proteins produced by the bacteria Pyrococcus furiosus contain metal atoms that enable the proteins to catalyze important chemical reactions.\n\nProtein s with embedded metal atoms catalyze some of the more amazing feats of living chemistry including photosynthesis and metabolism. Metals are able to fill roles, most notably those that facilitate the movement of electrons, that cannot be filled by other types of atoms, somewhat analagous to how metal wires allow humans to control the flow of electricity. Researchers are only just begining to document the vast array of metalloproteins that exist in nature. Even in organisms like Pyrococcus furiosus, a marine hyperthermophile, with relatively well-described set of metal-containing proteins (i.e., its metalloproteome), only about half of these compounds are actually documented. Perhaps most surprisingly, there is recent evidence that these bacteria incorporate metal elements previously thought to have no place in the chemistry of life, such as lead, uranium, and vanadium.",
+  "function_addressed": [
+    "catalyze chemical breakdown"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/metalloproteins-catalyze-a-wide-range-of-biochemical-reactions/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "metalloproteins",
+    "catalyze",
+    "wide",
+    "range",
+    "biochemical",
+    "reactions"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

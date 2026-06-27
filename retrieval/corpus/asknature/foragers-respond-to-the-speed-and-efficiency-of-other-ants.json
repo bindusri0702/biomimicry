@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-foragers-respond-to-the-speed-and-efficiency-of-other-ants",
+  "organism_common": "Leafcutter ants",
+  "organism_scientific": "",
+  "strategy_summary": "Within ant colonies, each ant has a specific role. In the leaf-cutter species, foraging ants are tasked with collecting leaf fragments and bringing them back to the colony.",
+  "mechanism": "When foragers return to the colony, they pass their loads to the processor ants. Processors collect the material and distribute it among the colony. There are more foragers than processors. If every forager brought large of loads to the colony, the processors would be overwhelmed by the volume of leaves coming into the colony and fall behind. As a result, materials would not be distributed throughout the colony in a timely manner.\n\nForagers also carry small loads in order to maintain a consistent speed in relation to other ants. Foragers travel to and from their colony in a single file line, also referred to as unilateral transport. This is because foraging ants travel by following the chemical scent of the forager directly in front of them. It’s as if ants travel down a one lane highway, where passing is illegal. Because smaller loads mean faster foraging and bigger loads mean slower foraging, if one ant chooses to take a larger than average load it will slow down the entire group. This can have a serious effect on the colony as a whole.\n\nThis summary was contributed by Allie Miller.",
+  "function_addressed": [
+    "cooperate within the same species",
+    "respond to signals",
+    "distribute solids",
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/foragers-respond-to-the-speed-and-efficiency-of-other-ants/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "foragers",
+    "respond",
+    "speed",
+    "efficiency",
+    "other",
+    "ants"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

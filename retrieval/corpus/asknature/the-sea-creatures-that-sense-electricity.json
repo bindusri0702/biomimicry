@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-the-sea-creatures-that-sense-electricity",
+  "organism_common": "Sharks",
+  "organism_scientific": "",
+  "strategy_summary": "A great white shark cruises through coastal waters searching for prey, much as its ancestors have done for hundreds of millions of years. While it relies on sight, smell, and sound, it also has senses that humans lack.",
+  "mechanism": "All living organisms generate electric fields around their bodies. Movement—especially when muscle and nerve fibers ignite with action—creates some electric fields. Other fields result from charged ions produced as part of normal biological processes. Fish, for example, exude bioelectric fields at their mouths and gills because mucous linings in these areas directly contact the ocean and spill ions into the surrounding water. The salty seawater itself is laden with charged ions that help spread these fields out from the fish’s bodies.\n\nBut only some organisms can sense bioelectric fields. The Elasmobranchii, a subclass of fish which includes sharks, rays, and skates, is one group of animals that possesses this sense, called “electroreception.”\n\nSharks have noses to smell, eyes to see, and ears to hear similar to humans and other animals. We need those organs to convert sensory signals into nerve impulses that our brains can interpret. To detect electric fields, animals with electroreception have organs called “ampullae of Lorenzini,” named for the scientist who thought their bulbous structure resembled tiny flasks called ampules.\n\nInstead of casting nets that capture everything under the sea, imagine fishing boats that could emit electric fields to attract a specific species. Such “smart” fishing could help prevent overfishing of threatened and endangered species. Underwater robots could be outfitted with localized biofield emitters to deter marine life from mining or other industrial operations without overwhelming the area’s natural biofield signals. Perhaps electoreception devices could help people “see” the world in a new way. When we look beyond what humans currently perceive in the world, the possibilities of what we can learn are positively electrifying.",
+  "function_addressed": [
+    "sense electricity/magnetism from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/the-sea-creatures-that-sense-electricity/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "sea",
+    "creatures",
+    "sense",
+    "electricity"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

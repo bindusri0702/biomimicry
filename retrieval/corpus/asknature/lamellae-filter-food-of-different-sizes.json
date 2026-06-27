@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-lamellae-filter-food-of-different-sizes",
+  "organism_common": "Andean flamingo",
+  "organism_scientific": "",
+  "strategy_summary": "The bill of the flamingo filters food of various sizes using compex rows of hair-like structures called lamellae. Flamingo vocalizing in the Walter zoo (Gossau, Switzerland), shows lamellae.",
+  "mechanism": "The bill of the flamingo filters food of various sizes using compex rows of hair-like structures called lamellae.\n\nFlamingo vocalizing in the Walter zoo (Gossau, Switzerland), shows lamellae.\n\nPhoenicoparrus jamesi, a group of Jamess Flamingos at Laguna Hedionda in Bolivia.\n\n“The bill is adapted uniquely for filter feeding. The bill is lined with numerous complex rows of lamellae, which filter the various small crustacea, algae, and unicellular organisms on which flamingos feed. 14 Flamingos feed with their head upside down so that the maxillary bill takes on the function of the mandibular bill and vice versa. 7,18 The feeding process requires a series of tongue movements and opening and closing of the beak, which allows food items to be filtered by the lamellae and eventual ingestion. Unwanted items such as mud and saltwater are pushed out by the tongue. 7,8 The bill anatomy varies among flamingo species, depending on dietary preferences (see Table 15-1).” (Fowler and Miller 2003:129)",
+  "function_addressed": [
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/lamellae-filter-food-of-different-sizes/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "lamellae",
+    "filter",
+    "food",
+    "different",
+    "sizes"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-organ-changes-enable-long-migration",
+  "organism_common": "Bar-tailed godwit",
+  "organism_scientific": "",
+  "strategy_summary": "The eastern bar-tailed godwit is a wading bird that undertakes an annual migration from Alaska to New Zealand. This 6,800 mile (11,000 km) journey is one of the longest migrations undertaken by any bird.",
+  "mechanism": "In order to survive the long journey, the godwit builds up huge amounts of fat to sustain it on its flight. In order to provide itself with enough room to house all of this extra fuel, yet also keep its weight down for flying, the godwit absorbs up to 25 percent of the tissue comprising its liver , kidney s, and alimentary canal. Only when the bird completes its migration are these organs reformed in their entirety.\n\nThe ability to absorb and then rebuild tissue from organs could be used to help humans survive long-distance space travel. By absorbing and then rebuilding tissue from organs, astronauts could reduce the amount of space and resources required for a long-distance space mission.",
+  "function_addressed": [
+    "adapt phenotype"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/organ-changes-enable-long-migration/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "organ",
+    "changes",
+    "enable",
+    "long",
+    "migration"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

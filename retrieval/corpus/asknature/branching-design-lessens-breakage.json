@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-branching-design-lessens-breakage",
+  "organism_common": "Protect From Wind",
+  "organism_scientific": "",
+  "strategy_summary": "Branching design lessens chances of trees breaking by structurally reducing wind stress. “The graceful taper of a tree trunk into branches, boughs, and twigs is so familiar that few people notice what Leonardo da Vinci observed: a tree almost always grows so that the total thickness of the branches at a particular…",
+  "mechanism": "Branching design lessens chances of trees breaking by structurally reducing wind stress.\n\n“The graceful taper of a tree trunk into branches, boughs, and twigs is so familiar that few people notice what Leonardo da Vinci observed: a tree almost always grows so that the total thickness of the branches at a particular height is equal to the thickness of the trunk…Eloy [primary investigator], a specialist in fluid mechanics, agreed that the equation had something to do with a tree’s leaves, not in how they took up water, and the force of the wind caught by the leaves as it blew…’Trees are very diverse organisms, and Christophe [Eloy] seems to have arrived at a simple and elegant physical principle that explains how branches taper in size as you go from the trunk, through the boughs, up to the twigs,’ says Marcus Roper, a mathematician at UC Berkeley. ‘It’s surprising and wonderful that no one thought of [the wind explanation] sooner.'” (Krieger 2011: 1)",
+  "function_addressed": [
+    "protect from wind"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/branching-design-lessens-breakage/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "branching",
+    "design",
+    "lessens",
+    "breakage"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

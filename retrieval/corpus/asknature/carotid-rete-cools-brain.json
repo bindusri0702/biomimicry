@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-carotid-rete-cools-brain",
+  "organism_common": "Thomson's gazelle",
+  "organism_scientific": "",
+  "strategy_summary": "The Thomson’s gazelle lives in the East African savannah where is it exposed to high temperatures and predation by big cats, like the cheetah, lion, or leopard. These gazelles have been recorded to run at up to 43-50 miles per hour.",
+  "mechanism": "The brain is a part of the body that is particularly sensitive to high temperature. Hence some ungulates, like the Thomson’s gazelle, use a counter-current heat exchanging structure known as the carotid rete to keep the brain cooler than the body.\n\nThe rete is a configuration of arteries and veins in a sinus at the base of the brain. Warm blood flowing to the brain travels from the carotid artery into a network of small arteries within the sinus, where it transfers some of its heat to cooler venous blood flowing the opposite direction as it returns from the nasal passages. The cooled arterial blood then continues toward the brain.\n\nCounter-current heat exchangers can be found in many organisms in many configurations. While such mechanisms are well known to engineers, a close look at the design of those used by nature may be useful in designing thermal control systems of human habitations.",
+  "function_addressed": [
+    "maintain homeostasis",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/carotid-rete-cools-brain/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "carotid",
+    "rete",
+    "cools",
+    "brain"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

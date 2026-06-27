@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-leaves-protect-from-freezing",
+  "organism_common": "Giant groundsel",
+  "organism_scientific": "",
+  "strategy_summary": "The cabbage groundsel ( Dendrosenecio keniensis ) is a shrub-like plant with clustered leaves found at elevations of around 3,000–4,000 meters (10,000 to 13,000 feet) on the slopes of Mt. Kenya in eastern Africa.",
+  "mechanism": "The rocky, barren places the cabbage groundsel grows are warm and sunny during the day. At night, however, temperatures regularly drop below freezing. The cold could stunt the growth of the newly emerging leaves in the center of the rosettes except for one thing: The insulating power of the older leaves that surround them. The thick, leathery outer leaves have air pockets inside them that slow the movement of heat, much as a styrofoam cooler does.\n\nWhen temperatures plummet as dusk falls, some of the cells in the large leaves release fluid into the space between cells, causing the inward-facing surface to become less stiff. As a result, the leaves fold upward and inward, forming an insulating layer around the more tender parts of the plant and protecting the newer, clustered leaves from the cold. The outer leaves freeze, but they are hardy enough to thaw out the next day, when they reopen within minutes to catch the morning sun.\n\nWe’re already quite familiar with the ability of thick layers of material with air pockets to insulate. Consider foam wall insulation and down comforters, for instance. Combining that trait, as the cabbage groundsel does, with a temperature-triggered mechanism for moving insulation could be valuable for everything from protecting landscape plants from frost to improving the energy efficiency of entire buildings.",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-protect-from-freezing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "protect",
+    "freezing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

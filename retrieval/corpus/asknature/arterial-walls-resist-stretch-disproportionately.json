@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-arterial-walls-resist-stretch-disproportionately",
+  "organism_common": "Cephalopods",
+  "organism_scientific": "",
+  "strategy_summary": "The arterial walls of many animals resist stretch disproportionately by incorporating non-stretchy collagen fibers in a particular arrangement. “In effect, Laplace’s law rules out the use of ordinary elastic materials for arterial walls, requiring that an appropriate material fight back against stretch, not in direct…",
+  "mechanism": "The arterial walls of many animals resist stretch disproportionately by incorporating non-stretchy collagen fibers in a particular arrangement.\n\n“In effect, Laplace’s law rules out the use of ordinary elastic materials for arterial walls, requiring that an appropriate material fight back against stretch, not in direct proportion to how much it’s stretched, but disproportionately as stretch increases. Which, again in obedience to the dictates of the real world, our arterial walls do–aneurysms, fortunately, remain rare and pathological. We accomplish the trick first, by incorporating fibers of a non-stretchy material, collagen, in those walls, and second, by arranging those fibers in a particular way. Thus, as the wall expands outward, more and more of these inextensible fibers are stretched out to their full lengths and add their resistance to stretch to that of the wall as a whole…Arterial walls that resist stretch disproportionately as they extend characterize circulatory systems that have evolved within lineages quite distinct from our own–in cephalopods and arthropods, for instance. Recruitable collagen fibers don’t represent the only possible solution to the basic problem, and they’re not nature’s inevitable choice.” (Vogel 2003:7-8)\n\n“The most important mechanical property of the artery wall is its non-linear elasticity. Over the last century, this has been well-documented in vessels in many animals, from humans to lobsters. Arteries must be distensible to provide capacitance and pulse-smoothing in the circulation, but they must also be stable to inflation over a range of pressure. These mechanical requirements are met by strain-dependent increases in the elastic modulus of the vascular wall, manifest by a J-shaped stress–strain curve, as typically exhibited by other soft biological tissues. All vertebrates and invertebrates with closed circulatory systems have arteries with this non-linear behaviour, but specific tissue properties vary to give correct function for the physiological pressure range of each species. In all cases, the non-linear elasticity is a product of the parallel arrangement of rubbery and stiff connective tissue elements in the artery wall, and differences in composition and tissue architecture can account for the observed variations in mechanical properties. This phenomenon is most pronounced in large whales, in which very high compliance in the aortic arch and exceptionally low compliance in the descending aorta occur, and is correlated with specific modifications in the arterial structure.” (Shadwick 1999:3305)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
+  "function_addressed": [
+    "manage tension",
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/arterial-walls-resist-stretch-disproportionately/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "arterial",
+    "walls",
+    "resist",
+    "stretch",
+    "disproportionately"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

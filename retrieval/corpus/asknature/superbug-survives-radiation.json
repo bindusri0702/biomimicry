@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-superbug-survives-radiation",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "The genome of Deinococcus radiodurans can survive extreme radiation because it prevents oxidative damage to its repair proteins via manganese ions. “ Deinococcus radiodurans can survive doses of ionising radiation thousands of times stronger than would kill a human.",
+  "mechanism": "The genome of Deinococcus radiodurans can survive extreme radiation because it prevents oxidative damage to its repair proteins via manganese ions.\n\n“ Deinococcus radiodurans can survive doses of ionising radiation thousands of times stronger than would kill a human. So how does it do it?\n\n“Radiation shatters DNA into fragments, and it has long been thought that this is what makes it dangerous, explains Michael Daly of Uniformed Services University of the Health Sciences in Bethesda, Maryland.\n\n“Not so, Daly says: instead it is protein damage that is the killer. ‘The ability of cells to survive radiation is highly dependent on the amount of protein damage caused during irradiation.’\n\n“By exposing Deinococcus and other resistant bacteria to radiation, Daly’s team found that the resilience of a cell’s repair proteins is linked to the number of manganese ions in the cell. Manganese prevents oxidative damage to repair proteins and allows them to swing into action after radiation has damaged DNA (PLoS Biology, 10.1371/journal.pbio.0050092).\n\n“In effect, this means that it doesn’t matter if your DNA is broken up, as long as you can stitch it back together with repair proteins. The implication is that if you keep your repair systems intact, then – like Deinococcus – you’ll be able to survive high doses of radiation.\n\n“Daly speculates that it may be possible to deliver Deinococcus repair proteins into animal cells and so increase radiation resistance. This could be useful in space travel, where radiation sickness is a potential problem on long interplanetary journeys.” (New Scientist 2007:21)",
+  "function_addressed": [
+    "protect from nuclear radiation"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/superbug-survives-radiation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "superbug",
+    "survives",
+    "radiation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

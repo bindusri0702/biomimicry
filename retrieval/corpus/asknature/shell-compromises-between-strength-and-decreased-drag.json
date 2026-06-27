@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-shell-compromises-between-strength-and-decreased-drag",
+  "organism_common": "River cooter",
+  "organism_scientific": "",
+  "strategy_summary": "The shell of a freshwater turtle balances the need to bear compressive loads and reduce drag through trade-offs. “Geometric morphometrics are used to quantify shell shape, and performance is estimated for two shell functions: shell strength and hydrodynamics.",
+  "mechanism": "The shell of a freshwater turtle balances the need to bear compressive loads and reduce drag through trade-offs.\n\n“Geometric morphometrics are used to quantify shell shape, and performance is estimated for two shell functions: shell strength and hydrodynamics. Aquatic turtle shells differ in shape from terrestrial turtle shells and are characterized by lower frontal areas and presumably lower drag. Terrestrial turtle shells are stronger than those of aquatic turtles; many-to-one mapping of morphology to function does not entirely mitigate a functional trade-off between mechanical strength and hydrodynamic performance.” (Stayton 2011:213)\n\n“Aquatic species can experience different selective pressures on morphology in different flow regimes. Species inhabiting lotic regimes often adapt to these conditions by evolving low-drag (i.e., streamlined) morphologies that reduce the likelihood of dislodgment or displacement. However, hydrodynamic factors are not the only selective pressures influencing organismal morphology and shapes well suited to flow conditions may compromise performance in other roles. We investigated the possibility of morphological trade-offs in the turtle Pseudemys concinna . Individuals living in lotic environments have flatter, more streamlined shells than those living in lentic environments; however, this flatter shape may also make the shells less capable of resisting predator-induced loads.” (Rivera and Stayton 2011: 1192)\n\nStayton, CT. 2011. Biomechanics on the half shell: functional performance influences patterns of morphological variation in the emydid turtle carapace. Zoology 114(4): 213-223. Rivera, G.; Stayton, CT. 2011. Finite element modeling of shell shape in the freshwater turtle Pseudemys concinna reveals a trade-off between mechanical strength and hydrodynamic efficiency. J Morphol. 272(10):1192-1203.",
+  "function_addressed": [
+    "manage compression",
+    "manage shear"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shell-compromises-between-strength-and-decreased-drag/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shell",
+    "compromises",
+    "between",
+    "strength",
+    "decreased",
+    "drag"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

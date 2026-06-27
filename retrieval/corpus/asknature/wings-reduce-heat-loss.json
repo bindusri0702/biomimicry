@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-wings-reduce-heat-loss",
+  "organism_common": "Penguins",
+  "organism_scientific": "",
+  "strategy_summary": "Wings of penguins reduce heat loss by forming a countercurrent heat exchanger via the vascular design. “A major adaptation that allows penguins to forage in cold water is the humeral arterial plexus, a vascular counter-current heat exchanger (CCHE) through the flipper…Foraging exposes penguins to water well below core…",
+  "mechanism": "Wings of penguins reduce heat loss by forming a countercurrent heat exchanger via the vascular design.\n\n“A major adaptation that allows penguins to forage in cold water is the humeral arterial plexus, a vascular counter-current heat exchanger (CCHE) through the flipper…Foraging exposes penguins to water well below core body temperature and presents a constant threat of hypothermia, a risk avoided in part by managing the flow of heat along the wing. [In most birds] Blood is supplied to the wings of birds through a single major vessel that traverses the humerus as the brachial artery…By contrast, the brachial artery of penguins splits into three to five major vessels that traverse the humerus before anastomosing to two arteries at the humerus–radius joint. Each humeral artery is associated with two or more veins to form a countercurrent heat exchanger (CCHE), the humeral arterial plexus. Blood is supplied to the wing at core body temperature (38.5 deg C), and outgoing arterial blood heats the cooler incoming venous blood at the plexus; heat is thus conserved and returned to the body core instead of travelling further out along the wing to become lost to cold water. The efficacy of the humeral plexus as a CCHE mechanism has been demonstrated by up to 30 deg C internal temperature differences measured between the shoulders and wingtips of penguins.” (Thomas et al. 2011:461)",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/wings-reduce-heat-loss/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "wings",
+    "reduce",
+    "heat",
+    "loss"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

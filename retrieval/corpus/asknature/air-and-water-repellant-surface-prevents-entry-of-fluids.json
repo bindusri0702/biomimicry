@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-air-and-water-repellant-surface-prevents-entry-of-fluids",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "Biofilm colonies of Bacillus subtilis are highly water and gas repellant due to a combination of chemical composition and nano-scale topography. Biofilms are colonies of bacteria that form on virtually any surface.",
+  "mechanism": "Biofilm colonies of Bacillus subtilis are highly water and gas repellant due to a combination of chemical composition and nano-scale topography.\n\nBiofilms are colonies of bacteria that form on virtually any surface. They form on teeth, causing plaque and its related dental problems; they form on metal pipes, causing corrosion; and they form on medical implants causing infection and inflammation. They are very difficult to treat with liquid and gaseous biocides because the composition and structure of biofilms make them difficult to penetrate, keeping the subsurface bacteria safe. In fact, their surfaces repel certain liquids even better than anti-stick Teflon surfaces or lotus leaves. The surface of Teflon will appear wet when a 20% solution of ethyl alcohol in water is applied, while the surface of a Bacillus subtilis biofilm repels even an 80% alcohol solution. Even 50% solutions of other low surface tension biocides, such as acetone, methyl alcohol, and isopropyl alcohol, do not wet the surface of a B. subtilis biofilm. Bacterial biofilms achieve this function through the combined effects of chemical composition (biodegradeable polysachharides and proteins) and nano-scale roughness/topography of its surface.",
+  "function_addressed": [
+    "protect from excess liquids",
+    "protect from gases",
+    "prevent deformation",
+    "chemically assemble polymers"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/air-and-water-repellant-surface-prevents-entry-of-fluids/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "air",
+    "water",
+    "repellant",
+    "surface",
+    "prevents",
+    "entry"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

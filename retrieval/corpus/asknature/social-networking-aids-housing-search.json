@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-social-networking-aids-housing-search",
+  "organism_common": "Caribbean hermit crab",
+  "organism_scientific": "",
+  "strategy_summary": "Long ago, hermit crabs figured out an elegant way to solve a problem that continues to frustrate humans: How to find new abodes that are just right for them and how to efficiently manage their housing stock in general. Hermit crabs have soft bodies that are defenseless against the hot sun and the sharp teeth and beaks…",
+  "mechanism": "Whenever any empty shell washes ashore, crabs throughout the vicinity converge on it, no matter its shape. If the size isn’t right, they wait.\n\nThey line up in size order, like a class of elementary-school children, often piggybacking on one another’s shells. The biggest crab is at the head of the line, and it is the first to try on the empty shell. If the shell fits, the crab moves in. And that launches a chain reaction—because one crab’s castoff is another’s new castle.\n\nThe next crab in line will swiftly switch into the vacated shell, leaving behind an empty shell for the next in line. In quick succession, many crabs will simultaneously upgrade their living quarters and avoid the risks of homelessness for even a few minutes.\n\nThis social networking behavior is called a “synchronous vacancy chain,” and it triggers a multiplier effect: The introduction of one shell benefits not just one lucky crab in the right place at the right time, but many individuals in the community. Not only that, it ensures that limited, reusable goods are efficiently distributed.\n\nIt’s not hard to see how people can organize “synchronous vacancy chains” to resourcefully recycle resources. Anytime people get new houses, cars, or jobs, for example, their old houses, cars, and jobs open up for use by others. Similar social networking could also inspire more cost-effective and less wasteful distribution of water and food in communities.\n\nSynchronous vacancy chains might also work to create better systems for technology transfer, so that people can upgrade their computers, phones, and electronic equipment while passing on their old-but-still-usable devices to others who would benefit from them. Such networks would save money and reduce environmental waste. They would also extract more use out of the rare metals in electronics, which cause environmental degradation when they are mined and require large amounts of energy to recycle.",
+  "function_addressed": [
+    "cooperate within the same species",
+    "optimize shape/materials",
+    "protect from temperature",
+    "protect from animals",
+    "distribute solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/social-networking-aids-housing-search/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hermit",
+    "crabs",
+    "social",
+    "networking",
+    "find",
+    "new"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

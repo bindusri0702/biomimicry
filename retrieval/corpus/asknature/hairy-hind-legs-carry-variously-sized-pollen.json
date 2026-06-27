@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-hairy-hind-legs-carry-variously-sized-pollen",
+  "organism_common": "Mining bees",
+  "organism_scientific": "",
+  "strategy_summary": "Hairy hind legs on bees can carry a variety of pollen sizes by mixing pollen grains with liquid. Flower pollen is a major source of protein and nutrients that all bees need at some stage in their life cycle.",
+  "mechanism": "Hairy hind legs on bees can carry a variety of pollen sizes by mixing pollen grains with liquid.\n\nFlower pollen is a major source of protein and nutrients that all bees need at some stage in their life cycle. Pollen collection is carried out only by female bees, which have specialized body parts that enable them to collect and transport pollen grains back to the nest. Modified parts of the female bee’s hind legs, for instance, are used to collect and store pollen externally. These structures are rows of small hairs (called scopae) or flattened plates rimmed with curved hairs (called corbicula) that function like brushes and baskets that can hold the dust-like pollen grains in place while the bee forages.\n\nThe size of pollen grains from different flowers can range from 5 to 210 μm, and pollen grain surfaces can similarly vary in their structure and texture. As a result, many species of bees specialize on a narrow range of flower types and pollen. The density and bushiness of the bees’ scopal hairs have been shaped through co-evolution to function best with specific sizes and shapes of pollen.\n\nOther bees, however, can be more flexible in the types of pollen they collect. One strategy that enables this flexibility is mixing collected pollen with liquid, in the form of nectar, saliva, or floral oils. Moistening the pollen as it’s collected enables the grains to be packed and shaped together into a more concentrated package. Pollen-collecting structures on the bee’s legs needn’t be specialized to transport individual pollen grains; they can be more simplified and transport packages consisting of any size and shape of pollen. Female mining bees (of the family Andrenidae), for example, add nectar to their pollen to moisten it. The scopal hairs on their hind legs tend to be less specialized, too: they are short and sparse with moderate branching. Bees that feed on floral oils and pollen have long and stiff scopal guard hairs with a bushier underlayer of short, flexible, and branched hairs. In some species, this underlayer consists of separate hairs, and in other species, it consists of branches off the main long hairs. Both of these arrangements function the same: the bushy underlayer sops up oil, while the longer guard hairs hold onto the pollen.\n\nThe triangular-shaped segment on the left with the fringe of hairs is the pollen basket (corbicula).\n\nCarpenter bees\n\nThe wings of carpenter bees cause pink gentian flowers to release their pollen by beating at a frequency that causes the anthers to vibrate.",
+  "function_addressed": [
+    "capture, absorb, or filter solids",
+    "store solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hairy-hind-legs-carry-variously-sized-pollen/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hairy",
+    "hind",
+    "legs",
+    "carry",
+    "variously-sized",
+    "pollen"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

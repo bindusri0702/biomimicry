@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-mineral-crystals-enhance-cutting-ability",
+  "organism_common": "Common European limpet",
+  "organism_scientific": "",
+  "strategy_summary": "The radula of Patella limpets has cutting tips that incorporate magnetite crystals and silicon dioxide. (Vogel 2003:333)  “Most classes in the phylum of the Mollusca possess a radula, a flexible ribbon, located in the mouth cavity, on which are implanted several tens of transverse rows of teeth.",
+  "mechanism": "The radula of Patella limpets has cutting tips that incorporate magnetite crystals and silicon dioxide.\n\n(Vogel 2003:333)\n\n“Most classes in the phylum of the Mollusca possess a radula, a flexible ribbon, located in the mouth cavity, on which are implanted several tens of transverse rows of teeth. The radula is used as a rasp during feeding of organisms living on rocky substrates. Through the continuous growth of the radular ribbon new rows of teeth steadily enter into the wearing zone, while at the same rate teeth in the last row break loose from the ribbon. The enhanced erosive capability of the radula is due to the presence of teeth with an upright standing, hard, mineralized cusp.” (van der Wal et al. 2000)",
+  "function_addressed": [
+    "physically break down non-living materials",
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mineral-crystals-enhance-cutting-ability/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mineral",
+    "crystals",
+    "enhance",
+    "cutting",
+    "ability"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

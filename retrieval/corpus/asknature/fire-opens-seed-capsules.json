@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-fire-opens-seed-capsules",
+  "organism_common": "Banksia",
+  "organism_scientific": "",
+  "strategy_summary": "Seeds of Banksia plants are dispersed via two-valved seed capsules that open in high fire temperatures. “Banksias are spectacular evergreen bushes and trees related to the proteas of South Africa but, with the exception of one whose range extends into the Pacific, they are totally restricted to Australia.",
+  "mechanism": "Seeds of Banksia plants are dispersed via two-valved seed capsules that open in high fire temperatures.\n\n“Banksias are spectacular evergreen bushes and trees related to the proteas of South Africa but, with the exception of one whose range extends into the Pacific, they are totally restricted to Australia. Of the 75 or so species that exist, 60 grow only in this south-western corner [of Australia]. Their strange inflorescences consist of several thousand small florets massed together in a single spike and arranged in vertical lines, that in some species have a gentle spiral twist…They take several months to develop and then open over several weeks. Birds such as lorikeets and marsupials like the honey possum come to drink nectar from them and in the course of doing so pollinate them. Usually, however, only a small proportion of the florets produce seed. In some species, those that are unsuccessful remain attached to the flower head, forming a grey rather bristly fur…It takes about a year for the seeds to mature. Like the bottlebrush, some banksias will not shed their seeds unless there is a fire. Indeed, it is almost impossible to remove them from the plant because they are held in hard woody two-valved capsules. But as the flames scorch the branches, the intense heat causes the capsules to open. Their front ends resemble pairs of brown lips on the side of the furry spike…By releasing their seeds only in the wake of a fire, the banksias ensure that they will fall on well-cleaned, brightly-lit ground recently fertilised with ash and so get the most favourable of starts in what is, even at best, an extremely harsh and demanding environment.” (Attenborough 1995:188-190)",
+  "function_addressed": [
+    "sense temperature cues from the environment",
+    "disperse seeds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fire-opens-seed-capsules/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fire",
+    "opens",
+    "seed",
+    "capsules"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

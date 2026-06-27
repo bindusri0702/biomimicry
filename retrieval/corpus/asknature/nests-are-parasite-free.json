@@ -1,0 +1,22 @@
+{
+  "doc_id": "asn-nests-are-parasite-free",
+  "organism_common": "House sparrow",
+  "organism_scientific": "",
+  "strategy_summary": "Birds are some of the most well-known and well-loved animals in the world. They are also some of the most diverse, with more than 11,000 identified species.",
+  "mechanism": "To protect their young from parasites and disease, many birds line their nests with plants that have insect-repelling or anti-microbial properties. The neem tree, for example, contains high concentrations of insect-repelling compounds. The paradise flower tree is rich in the anti-malarial drug quinine. The use of these plants helps to keep the nests clean and the young healthy. In one study, starlings that were raised in nests lined with these plants were found to be heavier and have stronger immune systems than those that were not.\n\nThe use of plants to keep nests clean and safe is a strategy that could be employed by humans in a variety of ways. For example, the use of insect-repelling or anti-microbial plants could help to keep homes and other buildings free of pests and diseases.",
+  "function_addressed": [
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nests-are-parasite-free/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "nests",
+    "parasite-free"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-beavers-protect-downstream-fish",
+  "organism_common": "American beaver",
+  "organism_scientific": "",
+  "strategy_summary": "A half-million acres is an area whose size is hard to comprehend. Larger than dozens of the world’s countries, that’s the size of the swath of forest area burned in the Upper Klamath Basin in the Bootleg Fire in 2021, one of the largest wildfires in Oregon history.",
+  "mechanism": "Wildlife biologists discovered that trees and other vegetation in the basin survived in one particular type of area: around beaver dams. Moreover, they found that the waterways below the dams ran clear and were full of fish. What appears to have happened is that runoff from the fire settled in the beaver ponds, keeping the downstream waterways healthy. Similar observations have been made post-wildfire not only in Oregon, but also in other Western states including Colorado, Wyoming, California and Idaho.\n\nSediment downstream of beaver dams has been found to be only about one-third of what it is upstream. Beaver ponds create sanctuaries that help forest ecosystems recover from disturbance, and the downstream fish their work protects in turn maintains the forest’s beaver populations.\n\nThis reciprocal dynamic has been at play for at least the last 20 million years, since modern beavers show up in the fossil record.\n\nUnderstanding long-term ecosystem dynamics better enables wildlife managers to plan for sustaining landscapes, more important than ever in the disturbance regimes of a climate changing world. Appreciating the role of beaver dams in making forests more resilient has also resulted in specific actions beyond protecting beaver populations. For example, wildlife managers increasingly install walls of vegetation across streams, or “beaver dam analogues”, before springtime rainfall in areas burned by wildfire the previous summer.",
+  "function_addressed": [
+    "protect from dirt/solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/beavers-protect-downstream-fish/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "beavers",
+    "beat",
+    "fires",
+    "after",
+    "effects"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

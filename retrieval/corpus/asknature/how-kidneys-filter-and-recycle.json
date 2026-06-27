@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-how-kidneys-filter-and-recycle",
+  "organism_common": "Humans",
+  "organism_scientific": "",
+  "strategy_summary": "Walking around a wet marsh it might not occur that one of the world’s best water filters lies beneath your feet. Soil itself physically sieves large particulates as water flows through it.",
+  "mechanism": "The primary purpose of a kidney is to filter metabolic waste products from our blood. To do so effectively, it has to process a lot of fluid, which also ends up removing water, minerals, and glucose from the blood—things our bodies need. If the kidney didn’t recycle these useful compounds, we would have to consume gallons of water and large quantities of minerals each day.\n\nThe machinery of the kidneys is a collection of over a million independent processing lines—the nephrons. A nephron has two functional zones, the glomerulus and the tubule.\n\nLearning to better separate and recycle compounds could help existing industrial chemical processes become more efficient and reduce emissions. Improved separation technologies could increase the amount of particulate, bacteria, and chemicals removed in sewage and water treatment plants, allowing us to recycle cleaner water. How else might nephron filtering inspire human innovation?",
+  "function_addressed": [
+    "modify concentration (of ions, solutes, etc.)",
+    "capture, absorb, or filter chemical entities"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/how-kidneys-filter-and-recycle/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "kidneys",
+    "filter",
+    "recycle"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-patterns-in-pollen-grains-form-without-using-energy",
+  "organism_common": "Physically Assemble Structure",
+  "organism_scientific": "",
+  "strategy_summary": "Patterns on the surface of pollen grains form without using energy  Beautifully crafted architecture isn’t limited to human-made structures. Nature is rife with ornate structures, from the spiraling fractal patterns of seashells to the intricately woven array of neurons in the brain.",
+  "mechanism": "Patterns on the surface of pollen grains form without using energy\n\nBeautifully crafted architecture isn’t limited to human-made structures. Nature is rife with ornate structures, from the spiraling fractal patterns of seashells to the intricately woven array of neurons in the brain.\n\nThe microscopic world contains its fair share of intricate patterns and designs, such as the geometric patterns on individual grains of pollen. Scientists have been fascinated by these intricate structures, which are smaller than the width of a human hair, but have yet to determine how these patterns form and why they look the way they do.\n\nIt was originally thought that pollen spheres are formed by a ‘buckling’ mechanism. Buckling occurs when materials are strong on the outside but pliable on the inside, causing the structure to shrink inwards and form divots, or “buckles,” on the surface.\n\nHowever, it is now believed that pollen patterns occur by a process known as phase separation, which physicists have found can also generate geometric patterns in other systems. An everyday example of phase separation is the separation of cream from milk; when milk sits at room temperature, cream rises to the top naturally without any additional energy, like mixing or shaking.\n\nThis “default” tendency of developing pollen spores to undergo a phase separation then leads to detailed and concave patterns. However, if plants pause this natural pattern-formation process by secreting a stiff polymer that prevents phase separation, for example, they can control the shapes that form. These plants tend to have pollen spores that are smoother and more spherical. Surprisingly, the smooth pollen grains, which require additional energy, occur more frequently than ornate grains, suggesting that smooth grains may provide an evolutionary advantage.\n\nThis biophysical framework will now enable researchers to study a much larger class of biological materials, and see if the same rules can explain much more intricate architectures in biology, like the bristles of insects or the cell walls of plants.\n\nStory source: University of Pennsylvania\n\nWatch this video from Science Magazine to learn more about pollen and what it can teach us:\n\nThis content marked as “Google Youtube” uses cookies that you chose to keep disabled. Click here to open your preferences and accept cookies. .\n\nFour sets of pollen grains (from top left to bottom right: Alisma lanceolatum, Galium wirtgenii, Gaillardia aristata, Gomphrena globosa ), showing the scanning electron microscopy image alongside the simulation of the physical model for the same geometry (Image credit: PalDat.org (SEM image) and Asja Radja (simulation)).",
+  "function_addressed": [
+    "physically assemble structure",
+    "modify size/shape/mass/volume",
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/patterns-in-pollen-grains-form-without-using-energy/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "patterns",
+    "pollen",
+    "grains",
+    "form",
+    "without",
+    "energy"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-teeth-are-self-sharpening",
+  "organism_common": "Rodents",
+  "organism_scientific": "",
+  "strategy_summary": "The teeth of rodents self-sharpen because their inner surface is softer than the outer enamel and wears away faster to create a sharp edge. “Plant-eaters have to have particularly good teeth.",
+  "mechanism": "The teeth of rodents self-sharpen because their inner surface is softer than the outer enamel and wears away faster to create a sharp edge.\n\n“Plant-eaters have to have particularly good teeth. Not only do they use them for very long periods but the material they have to deal with is often very tough. Rats, like other rodents–squirrels, mice, beavers, porcupines–cope with that problem by maintaining open roots to their front gnawing teeth, the incisors, so that they continue to grow throughout the animal’s life compensating for wear. They are kept sharp by a simple but very effective self-stropping process. The main body of the rodent incisor is made of dentine, but its front surface is covered by a thick and often brightly coloured layer of enamel which is even harder. The cutting edge of the tooth thus becomes shaped like a chisel. As the top incisors grind over the lower ones the dentine is worn away more quickly and this exposes the blade of enamel at the front keeping a sharp chisel edge.” (Attenborough 1979:246)\n\n“Like all rodents, beavers have self-sharpening incisor teeth that never stop growing. The outer surface is protected by tough enamel, but the inner surface is softer and wears away as the beaver gnaws, creating a sharp, chiseled edge.” (Cooke et al. 2004:222)",
+  "function_addressed": [
+    "manage mechanical wear",
+    "modify size/shape/mass/volume",
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/teeth-are-self-sharpening/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "teeth",
+    "self-sharpening"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

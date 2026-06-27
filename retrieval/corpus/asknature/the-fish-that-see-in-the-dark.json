@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-the-fish-that-see-in-the-dark",
+  "organism_common": "Striped Kribensis",
+  "organism_scientific": "",
+  "strategy_summary": "After a long, hot day, the sun sets over the mountaintops staining the sky a deep crimson. Sunsets are red and orange because the sun’s light passes through more atmospheric gases when it’s low on the horizon.",
+  "mechanism": "The rainbow arching across the sky is perhaps the most iconic illustration of the visible spectrum, with wavelengths of light ranging from 400 nanometers (violet) to 780 nanometers (red). Just beyond that lies a region of light called “near-infrared,” which encompasses wavelengths between 780 and 1,000 nanometers. Several types of freshwater fish are known to see near-infrared light.\n\nTo understand how fish see such long wavelengths of light, we need to understand a bit about the process that enables humans, fish, and other vertebrates to see at all—phototransduction. In this process, light passes into the pupil, focuses across the eye’s lens, and strikes the retina, which contains hundreds of millions of photoreceptor cells. Like other sensing receptor cells, these cells convert information to electric signals that the brain can interpret.\n\nImaging technology based on fish eyes could produce lower-energy, more compact, versatile, and sustainable infrared visualization devices of many kinds. It could help robots navigate in dark waters to clean oil spills, study inaccessible ecosystems, and guide smart fishing nets to avoid capturing threatened species.\n\nThe visual abilities of fish may just help humans become better at fishing around in the dark ourselves.",
+  "function_addressed": [
+    "sense light (non-visible spectrum) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/the-fish-that-see-in-the-dark/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fish",
+    "see",
+    "dark"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

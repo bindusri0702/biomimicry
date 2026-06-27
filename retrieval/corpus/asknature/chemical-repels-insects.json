@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-chemical-repels-insects",
+  "organism_common": "Catnip",
+  "organism_scientific": "",
+  "strategy_summary": "The chemical defense system of catnip may repel insects with the chemical nepetalactone. <a href=http://commons.wikimedia.org/wiki/Nepeta_cataria title=Nepeta cataria>Nepeta cataria</a>, pot plant  “Anisomorphal [a chemical named for insect, Anisomorpha , a walking-stick that uses it as a defensive spray] bore a…",
+  "mechanism": "The chemical defense system of catnip may repel insects with the chemical nepetalactone.\n\n<a href=http://commons.wikimedia.org/wiki/Nepeta_cataria title=Nepeta cataria>Nepeta cataria</a>, pot plant\n\n“Anisomorphal [a chemical named for insect, Anisomorpha , a walking-stick that uses it as a defensive spray] bore a chemical resemblance to, of all things, catnip. Formally known as nepetalactone, and produced by a plant of the mint family ( Nepeta cataria ), catnip derived its reputation from its peculiar ability to excite cats. That property, surely, had nothing to do with whatever the compound did for the plant that produced it. It occurred to me that I was now in a position to propose a natural function for nepetalactone. Could the compound not be defensive like anisomorphal, and serve to protect the plant itself? I got some pure nepetalactone from Jerry–by coincidence it was he who had determined the structure of the compound–and did some simple tests, in which I showed the chemical to be a potent insect repellent. I found that insects would quickly fly off or walk away if I pointed at them a capillary tube filled with nepetalactone, and that ants would shy away from insect baits that I had laced with the compound. It was clear that plant and insect had hit upon a common defensive strategy here, in the sense that they had both evolved the capacity to produce similar substances for a similar purpose…Interestingly, anisomorphal is now known also to be produced by a plant. Not surprisingly, that plant, cat thyme ( Teucrium marum ), is also a member of the mint family (Labiatae). And nepetalactone itself has been shown to be produced by a species of walking-stick.” (Eisner 2003:89-91)",
+  "function_addressed": [
+    "protect from animals",
+    "send chemical signals (odor, taste, etc.)"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/chemical-repels-insects/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "chemical",
+    "repels",
+    "insects"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

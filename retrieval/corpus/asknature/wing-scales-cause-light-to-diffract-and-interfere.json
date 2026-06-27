@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-wing-scales-cause-light-to-diffract-and-interfere",
+  "organism_common": "Morpho butterfly",
+  "organism_scientific": "",
+  "strategy_summary": "Many types of butterflies use light-interacting structures on their wing scales to produce color. The cuticle on the scales of these butterflies’ wings is composed of nano- and microscale, transparent, chitin-and-air layered structures.",
+  "mechanism": "Rather than absorb and reflect certain light wavelengths as pigments and dyes do, these multi scale structures cause light that hits the surface of the wing to diffract and interfere. Cross ribs that protrude from the sides of ridges on the wing scale diffract incoming light waves, causing the waves to spread as they travel through spaces between the structures. The diffracted light waves then interfere with each other so that certain color wavelengths cancel out (destructive interference) while others are intensified and reflected (constructive interference).\n\nTo add color to human structures, objects, and fabrics, applying paint or dye is currently the most common method. Understanding structural coloration in nature could go beyond coating buildings or cars with microstructures to achieve the desired color. Learning how to manipulate light could help develop better computer monitors or advanced camouflage technologies. If we could figure out how to control constructive and destructive interference of light from different angles, we may even develop “cloaking” devices that often appear in science fiction.",
+  "function_addressed": [
+    "modify light/color"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/wing-scales-cause-light-to-diffract-and-interfere/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "butterflies",
+    "hack",
+    "light",
+    "waves",
+    "produce",
+    "brilliant"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

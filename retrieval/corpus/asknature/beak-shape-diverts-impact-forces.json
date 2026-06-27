@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-beak-shape-diverts-impact-forces",
+  "organism_common": "Golden-fronted woodpecker",
+  "organism_scientific": "",
+  "strategy_summary": "The beak of the golden-fronted woodpecker protects the brain from trauma by having a shape and material composition that diverts vibrational forces away from the cranial cavity. [Editor’s Note, 2022: New research from Sam Van Wassenbergh et al.",
+  "mechanism": "The beak of the golden-fronted woodpecker protects the brain from trauma by having a shape and material composition that diverts vibrational forces away from the cranial cavity.\n\n[Editor’s Note, 2022: New research from Sam Van Wassenbergh et al. suggests woodpeckers’ “cranial skeleton is used as a stiff hammer to enhance pecking performance, and not as a shock-absorbing system,” and that brains are protected from concussions by their small size. A corresponding update to this page and related pages is pending.]\n\nSpecies of woodpeckers, such as the golden-fronted woodpecker ( Melanerpes aurifrons ), drum with their beak to establish their territories and attract mates. The high-speed pecking motion causes a tremendous amount of stressed force on the animal. However, the woodpecker has a specialized beak that helps to prevent physical and neurological trauma by diverting forces away from the brain. Its beak will absorb and divert forces 2-8 times greater than that of the skull.\n\nThe beak is comprised of two layers—an interior layer of strong, dense bone, and an exterior layer of flexible tissue matter. While the exterior layer of the upper beak is slightly longer than that of the lower beak, X-ray imaging shows that the interior layer of the lower beak is slightly longer than its upper counterpart.\n\nDiagram representing the uneven lengths of the inner and outer beaks of the golden-fronted woodpecker.\n\nThe exterior layer is the first to encounter any impact forces. The flexible tissue allows the upper beak to bear high amounts of stress and reduces the risk of shock by bending and flexing with each vibrational transmittance.\n\nOnce forces reach the hard bone, the upper beak intersects with a thin system of bone, tendon, and muscle surrounding the skull called the hyoid apparatus ( read more here ). Forces then travel along the hyoid, diverting around the skull and back out through the tongue.\n\nDiagram illustrating the directional influence of forces exerted by the hyoid bone. When the beak strikes a surface, the majority of forces will travel along the upper beak where they will reach the hyoid. Once forces intersect with the hyoid, they will be diverted around the back of the skull and exit through the tongue.\n\nAs forces continue to travel along the beak, those that have not been diverted by the upper beak encounter the inner-lower beak. Following the path of least resistance, vibrational forces follow the downward slope of the beak’s shape down and away from the cranial space.\n\nDiagram illustrating the diversion of forces by the lower, inner beak. Forces not absorbed by the upper beak and hyoid will travel through the lower beak where they are absorbed by a sturdy inner beak. Muscle and tissue in the lower jaw will divert forces downward, and away from the brain.\n\nThis strategy was contributed by Allison Miller .\n\nCheck out these related strategies that collectively protect the woodpecker’s brain from impact:\n\nBone protects brain from injury: Golden-fronted woodpecker\n\nSkull protects brain from impact: Golden-fronted woodpecker\n\nSubarachnoid cavity and brain surface protect brain: Golden-fronted woodpecker",
+  "function_addressed": [
+    "manage impact",
+    "optimize shape/materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/beak-shape-diverts-impact-forces/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "beak",
+    "shape",
+    "diverts",
+    "impact",
+    "forces"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

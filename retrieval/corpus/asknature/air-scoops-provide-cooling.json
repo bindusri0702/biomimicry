@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-air-scoops-provide-cooling",
+  "organism_common": "Ants",
+  "organism_scientific": "",
+  "strategy_summary": "Air scoops on the sides of ants cool them through evaporation. Inchman (Myrmecia forficata) feeding on a flowering Corymbia ficifolia, Austins Ferry, Tasmania, Australia  “Another reason ants succeed so well is that they’re superb lawn-traversing machines.",
+  "mechanism": "Air scoops on the sides of ants cool them through evaporation.\n\nInchman (Myrmecia forficata) feeding on a flowering Corymbia ficifolia, Austins Ferry, Tasmania, Australia\n\n“Another reason ants succeed so well is that they’re superb lawn-traversing machines. When this first one backs away from the shadow of the giant human and reenters the main part of the sunny, hot lawn, little air-scoops on its side automatically switch on. A mist of cooling water vapor puffs upward from them. That keeps the ant’s temperature down, but it could also mean that the ant’s nitrogen–the equivalent of our urine substances–would become overconcentrated.” (Bodanis 1992: 39)",
+  "function_addressed": [
+    "distribute gases",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/air-scoops-provide-cooling/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "air",
+    "scoops",
+    "provide",
+    "cooling"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

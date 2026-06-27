@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-teeth-scrape-and-grind-to-break-down-coral",
+  "organism_common": "Parrotfish",
+  "organism_scientific": "",
+  "strategy_summary": "Two types of teeth in parrotfish allow ingestion of coral and algae by scraping and grinding to break down the coral. “The parrot fish feeds on algae and coral from coral reefs, and is one of the main causes of sand production from coral reefs.",
+  "mechanism": "Two types of teeth in parrotfish allow ingestion of coral and algae by scraping and grinding to break down the coral.\n\n“The parrot fish feeds on algae and coral from coral reefs, and is one of the main causes of sand production from coral reefs. Its teeth are fused together to form a beak-like edge to the jaws for scraping at the coral, and it also has large flat-topped grinding teeth at the back of its throat for crushing the coral and algal mixture. The indigestible sand is excreted.” (Foy and Oxford Scientific Films 1982:145)",
+  "function_addressed": [
+    "physically break down non-living materials",
+    "generate soil/renew fertility"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/teeth-scrape-and-grind-to-break-down-coral/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "teeth",
+    "scrape",
+    "grind",
+    "break",
+    "down",
+    "coral"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-shells-grind-through-rock",
+  "organism_common": "Common piddock",
+  "organism_scientific": "",
+  "strategy_summary": "The shell of the piddock grinds through rock using hard shell projections. Angelwing and associated burrows in friable sandstone exposed along the Bay of Fundy, Nova Scotia.",
+  "mechanism": "The shell of the piddock grinds through rock using hard shell projections.\n\nAngelwing and associated burrows in friable sandstone exposed along the Bay of Fundy, Nova Scotia.\n\nAngelwing and associated burrows in friable sandstone exposed along the Bay of Fundy, Nova Scotia.\n\n“Some piddocks (e.g. Pholas dactylus ) slowly bore themselves into solid rock. They use their foot as a lever by which they move their shells, which are provided with extremely hard surface projections, back and forth to scrape the rock and slowly hollow out a burrow.” (Pallasmaa 1995:59)",
+  "function_addressed": [
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shells-grind-through-rock/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shells",
+    "grind",
+    "through",
+    "rock"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

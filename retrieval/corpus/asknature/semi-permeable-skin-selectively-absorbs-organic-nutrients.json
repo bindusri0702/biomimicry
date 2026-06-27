@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-semi-permeable-skin-selectively-absorbs-organic-nutrients",
+  "organism_common": "Pacific hagfish",
+  "organism_scientific": "",
+  "strategy_summary": "Absorbing nutrients from the environment is essential for all heterotrophic organisms. All but a few vertebrates accomplish this task orally by consuming food and absorbing freed nutrients through the gut epithelium.",
+  "mechanism": "However, Pacific hagfish have adapted to suit their feeding habitat by evolving the ability to absorb certain organic nutrients directly through their skin. Hagfish feed by burrowing through the decaying corpses of large animals, a rich stew of organic nutrients that have sunk to the ocean floor. In this environment, absorption of some nutrients through direct skin contact is a valuable adaptation . But skin must also be a strong physical barrier and capable of denying passage of non-vital compounds.\n\nIn the case of hagfish, their skin functions as a highly selective semi-permeable membrane. Learning how its protein s facilitate passage of some compounds while inhibiting others could aid in developing innovative filtration technologies. These technologies could help clean our water, improve medical treatments like kidney dialysis, and help deliver targeted medical therapies to specific tissues in the body.",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities",
+    "distribute solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/semi-permeable-skin-selectively-absorbs-organic-nutrients/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "semi-permeable",
+    "skin",
+    "selectively",
+    "absorbs",
+    "organic",
+    "nutrients"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

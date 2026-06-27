@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-tail-shedding-protects-from-predators-2",
+  "organism_common": "Salamander",
+  "organism_scientific": "",
+  "strategy_summary": "The tail of a salamander can help it escape a predator by breaking off at one of the horizontal fracture planes located between the vertebrae. “Salamanders can also shed their tails, but, unlike lizards, the horizontal fracture planes in the tails of these amphibians occur in between the vertebrae, rather than through…",
+  "mechanism": "The tail of a salamander can help it escape a predator by breaking off at one of the horizontal fracture planes located between the vertebrae.\n\n“Salamanders can also shed their tails, but, unlike lizards, the horizontal fracture planes in the tails of these amphibians occur in between the vertebrae, rather than through the vertebrae.” (Shuker 2001:132)",
+  "function_addressed": [
+    "protect from animals",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tail-shedding-protects-from-predators-2/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tail",
+    "shedding",
+    "protects",
+    "predators"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

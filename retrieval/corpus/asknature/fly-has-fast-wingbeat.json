@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-fly-has-fast-wingbeat",
+  "organism_common": "Transform Mechanical Energy",
+  "organism_scientific": "",
+  "strategy_summary": "The indirect flight muscles of the fruit fly allow high wingbeat frequencies via a fast actomyosin reaction. Image: Botaurus stellaris / Wikimedia Commons / toggle icon Image: Botaurus stellaris / Wikimedia Commons / toggle icon Image: Botaurus stellaris / Wikimedia Commons / toggle icon Image: Botaurus stellaris /…",
+  "mechanism": "The indirect flight muscles of the fruit fly allow high wingbeat frequencies via a fast actomyosin reaction.\n\nImage: Botaurus stellaris / Wikimedia Commons / toggle icon Image: Botaurus stellaris / Wikimedia Commons / toggle icon Image: Botaurus stellaris / Wikimedia Commons / toggle icon Image: Botaurus stellaris / Wikimedia Commons / toggle icon right arrow right arrow\n\n“The evolution of flight in small insects was accompanied by striking adaptation s of the thoracic musculature that enabled very high wing beat frequencies. At the cellular and protein filament level, a stretch activation mechanism evolved that allowed high-oscillatory work to be achieved at very high frequencies as contraction and nerve stimulus became asynchronous. At the molecular level, critical adaptations occurred within the motor protein myosin II, because its elementary interactions with actin set the speed of sarcomere contraction…In conclusion, we have shown that in the fastest known muscle type, insect asynchronous IFM, constraints on strong binding steps of the cross-bridge cycle are unleashed by moving the rate-limiting step of the cycle to be closely associated with phosphate release. The constraints on strong binding are also relaxed by equipping the muscle with a high density of mitochondria that not only supplies the large quantities of MgATP fuel required for energetically costly flight (2, 25) but likely also to maintain an unusually high [MgATP].” (Swank et al. 2007:17543, 17545)",
+  "function_addressed": [
+    "transform mechanical energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fly-has-fast-wingbeat/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fly",
+    "has",
+    "fast",
+    "wingbeat"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

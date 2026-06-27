@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-portable-cases-protect-from-predators",
+  "organism_common": "Yellow-striped macrotona",
+  "organism_scientific": "",
+  "strategy_summary": "Some caddisflies protect themselves from predators by building portable cases out of local materials - such as pebbles, sand, and aquatic plants - that are cemented together with silk or mucus. Caddisfly larva, unknown species, in the hand.",
+  "mechanism": "Some caddisflies protect themselves from predators by building portable cases out of local materials - such as pebbles, sand, and aquatic plants - that are cemented together with silk or mucus.\n\nCaddisfly larva, unknown species, in the hand.\n\nCaddisfly larva in case that matches surroundings.\n\nThis is a design principle sketch done by students in the 2012 Biomimicry Specialist program. It shows the abstracted design principle. They next applied this design principle to a challenge of providing emergency shelters in disaster zones.\n\n“There are a number of invertebrates (animals without backbones) that construct cases for themselves from materials abundant in their environments, like sand, pebbles, shells, and plant materials. These bits and pieces are cemented together with silky or mucous secretions from the creature. Caddis flies and sabellid or honeycomb tubeworms are two common examples. Whereas caddis flies appear to randomly select objects of varying sizes, honeycomb tubeworms select particles of uniformly small size for the primary layer of their tubes.” (Biomimicry Guild unpublished report)",
+  "function_addressed": [
+    "protect from animals",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/portable-cases-protect-from-predators/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "portable",
+    "cases",
+    "protect",
+    "predators"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

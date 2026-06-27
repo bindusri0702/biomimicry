@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-teeth-replace-themselves",
+  "organism_common": "Kangaroos and relatives",
+  "organism_scientific": "",
+  "strategy_summary": "Teeth of kangaroos replace themselves when they wear down by falling out and rear teeth migrate forward. “Grazers elsewhere have molars with open roots so that wear can be compensated by continuous growth throughout the animal’s life.",
+  "mechanism": "Teeth of kangaroos replace themselves when they wear down by falling out and rear teeth migrate forward.\n\n“Grazers elsewhere have molars with open roots so that wear can be compensated by continuous growth throughout the animal’s life. Kangaroo teeth have no such ability. Their roots are closed, so they use a different system of replacement. There are four pairs of cheek teeth on either side of the jaws. Only the front ones engage. As they are worn down to the roots, they fall out and those from the rear migrate forward to take their place. By the time the animal is fifteen or twenty years old, its last molars are in use. Eventually these too will be worn down and shed so that even if the venerable animal does not die for any other reason, it will eventually do so from starvation.” (Attenborough 1979:216)",
+  "function_addressed": [
+    "manage mechanical wear"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/teeth-replace-themselves/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "teeth",
+    "replace",
+    "themselves"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

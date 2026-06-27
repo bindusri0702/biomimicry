@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-skin-lights-up-when-touched",
+  "organism_common": "Sea cucumbers",
+  "organism_scientific": "",
+  "strategy_summary": "The expendable skin of swimming sea cucumbers produces bioluminescence after mechanical stimulation using granular bodies. “Enypniastes eximia (Echinodermata: Holothuroidea) is a prominent member of the benthic boundary layer community in deep Caribbean waters.",
+  "mechanism": "The expendable skin of swimming sea cucumbers produces bioluminescence after mechanical stimulation using granular bodies.\n\n“Enypniastes eximia (Echinodermata: Holothuroidea) is a prominent member of the benthic boundary layer community in deep Caribbean waters. Like most holothurians it feeds on benthic sediments. Feeding is episodic and after collecting food on the bottom it returns to the water column at altitudes within about 50 m of the sea floor. Direct observations from submersibles and laboratory studies of living specimens have shown how bioluminescence is produced. Light production in E. eximia is triggered mechanically, and is produced by hundreds of granular bodies within the gelatinous integument of the animal. Local stimulation yields a localized response which gradually spreads to the entire surface of the animal. Broad impact yields a whole-body luminescent response. The integument of E. eximia is quite fragile, and strong physical contact readily causes the skin to be sloughed off in a glowing cloud. The degree of luminous response is a function of the severity of contact. In the laboratory the skin of E. eximia , along with its luminescent capability, regenerated rapidly. The anti-predatory role of bioluminescence in this species is apparently a ‘burglar alarm’ strategy. In the dark, near-bottom habitat, physical contact by a predator elicits light production which reveals the presence of the attacker to its own visually-cued predators.” (Robison 1992:463)",
+  "function_addressed": [
+    "send light signals in the visible spectrum",
+    "sense touch and mechanical forces in a living system",
+    "transform radiant energy (light)",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/skin-lights-up-when-touched/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "skin",
+    "lights",
+    "when",
+    "touched"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

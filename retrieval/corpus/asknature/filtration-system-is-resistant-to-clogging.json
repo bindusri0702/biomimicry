@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-filtration-system-is-resistant-to-clogging",
+  "organism_common": "Giant manta ray",
+  "organism_scientific": "",
+  "strategy_summary": "Unique filtration system allows manta rays to capture small particles without clogging. Manta rays are close relatives of sharks and can measure more than 20 feet across.",
+  "mechanism": "Unique filtration system allows manta rays to capture small particles without clogging.\n\nManta rays are close relatives of sharks and can measure more than 20 feet across. They eat by bringing plankton-rich water into their mouths as they swim. They filter and ingest the plankton and then flush the remaining water out their gill slits.\n\nThe manta ray filter the plankton using a method different from traditional filtration. The most common type of filter is a sieve filter, where a fluid containing particles is passed through a membrane that has pores smaller than the particles. This allows the water to pass through but leaves the particles behind.\n\nSieve filters include everything from a kitchen colander that strains pasta to membrane filters that produce ultrapure water. Other filter mechanisms are hydrosol filtration, such as the fiber filters in HVAC systems, and cyclonic filtration, used in bagless vacuum cleaners. The main drawback of many filtration systems is that they are prone to clogging, because over time the particles they collect builds up. In addition, many systems tend to clog quicker the faster the fluid flows, because particles are building up more quickly.\n\nHowever, the manta ray’s filtration system is extremely resistant to clogging and can operate at very high flow rates. How does it do it? Manta rays use arrays of leaf-like lobes to bounce food particles away from the filter. Water passing over the lobes creates a complex pattern of current flow, and food particles in the flow hit the lobes and move away. This allows the fish to retain food particles that are oftentimes even smaller than the pores. The particles that ricochet off the filter become concentrated in the mouth cavity, allowing the fish to ingest them.\n\nThe manta ray filtering apparatus effectively separates plankton from seawater.",
+  "function_addressed": [
+    "capture, absorb, or filter solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/filtration-system-is-resistant-to-clogging/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "filtration",
+    "system",
+    "resistant",
+    "clogging"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

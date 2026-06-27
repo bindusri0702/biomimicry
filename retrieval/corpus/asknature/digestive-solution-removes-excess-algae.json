@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-digestive-solution-removes-excess-algae",
+  "organism_common": "Giant clam",
+  "organism_scientific": "",
+  "strategy_summary": "Giant clams can digest some of the algae they host, if they become too abundant, by manipulating the makeup of their internal fluid. “The giant clam also keeps algae within its body.",
+  "mechanism": "Giant clams can digest some of the algae they host, if they become too abundant, by manipulating the makeup of their internal fluid.\n\n“The giant clam also keeps algae within its body. They are not imprisoned within its cells but held in a space directly beneath the outer skin of its mantle which is exposed to light whenever the two outer halves of the clam shell gape open. In some the mantle is purple, in others a vivid green, but always there are lines of bright spots along it. These are specially transparent patches that act like lenses, focusing light on the colonies of algae directly beneath. If the algae become too abundant, the clam thins them out by changing the constitutents of its internal fluids and digesting some of them.” (Attenborough 1995:203)",
+  "function_addressed": [
+    "modify material characteristics",
+    "chemically break down organic compounds",
+    "protect from microbes",
+    "maintain homeostasis"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/digestive-solution-removes-excess-algae/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "digestive",
+    "solution",
+    "removes",
+    "excess",
+    "algae"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

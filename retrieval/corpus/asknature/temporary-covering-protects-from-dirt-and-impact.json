@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-temporary-covering-protects-from-dirt-and-impact",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "The eyes of mammals are protected from dirt and impacts by eyelids. “Being a particularly delicate instrument, the eye needs protection — usually, an eyelid.",
+  "mechanism": "The eyes of mammals are protected from dirt and impacts by eyelids.\n\n“Being a particularly delicate instrument, the eye needs protection — usually, an eyelid. Most mammals have two eyelids, one above and one below, but some – such as horses and deer – have a third, inner eyelid, the nictitating membrane, which may move upwards or sideways across the eyeball. Both types of eyelid can be closed to protect the eye from a blow, or from dirt; in closing – blinking – they wipe the eyeball clean and lubricate it with teardrops.” (Foy and Oxford Scientific Films 1982:124)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
+  "function_addressed": [
+    "protect from dirt/solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/temporary-covering-protects-from-dirt-and-impact/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "temporary",
+    "covering",
+    "protects",
+    "dirt",
+    "impact"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

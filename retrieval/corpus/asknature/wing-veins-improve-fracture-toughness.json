@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-wing-veins-improve-fracture-toughness",
+  "organism_common": "Desert locust",
+  "organism_scientific": "",
+  "strategy_summary": "Veins on wings of migratory locusts improve fracture toughness by acting as barriers to crack propagation. Locust, showing exposed hind wings.",
+  "mechanism": "Veins on wings of migratory locusts improve fracture toughness by acting as barriers to crack propagation.\n\nLocust, showing exposed hind wings. Note: locust pictured is a different species than locust studied in the cited research.\n\nFlying insects’ wings must hold up to millions of cycles of mechanical forces, deformations, and minor impacts, while also being extremely lightweight in order to optimize flight performance. The hind wing of the migratory locust S . [ Schistocerca ] gregaria is composed of thin and fragile membrane cells supported by a lattice structure of veins which increase the wing’s toughness by 50% and act to distribute stresses during flight and prevent crack propagation. The morphological spacing of most wing veins matches the “‘critical crack length’ of the membrane, which is determined by the material’s fracture toughness and the stress applied. At a given stress, any crack smaller than the critical length would have no structural effect. As a consequence, the largest possible cell size that prevents cracks from self propagating corresponds to this critical crack length. If a crack is contained within this cell, it cannot reach a critical length to self propagate through the rest of the wing. Any cell bigger than this critical crack length would allow the initial crack to start growing. However, any cell smaller than this critical crack length would be a ‘waste’ of vein material.” (Dirks and Taylor 2012: 7)\n\n(a) Schematic illustration of the three wing zones R, B and C used for the experiments (adapted from [8]). (b) Longitudinal veins (LV) with branching cross veins (CV). Towards the edge of the hind wing the two types of veins show a different morphological structure. Whilst the longitudinal veins mostly show a circular to elliptical cross section, the cross veins show an annulated pattern. (c) Cross section through the wing membrane and a cross-vein. Note that the cutting edge of the wing membrane slightly “crumpled” during the desiccation. (d) Close-up of a cross-vein, showing the compartment-like annulated structure.",
+  "function_addressed": [
+    "manage mechanical wear",
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/wing-veins-improve-fracture-toughness/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "wing",
+    "veins",
+    "improve",
+    "fracture",
+    "toughness"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-a-molecular-flip-is-the-key-to-a-two-way-motor-for-bacteria",
+  "organism_common": "Salmonella",
+  "organism_scientific": "",
+  "strategy_summary": "Salmonella enterica serovar typhimurium is a common type of bacteria best known among humans for causing food poisoning. Like many single-celled organisms, salmonella moves through its environment using special tail-like structures called flagella.",
+  "mechanism": "The flagellar motor of salmonella is a complex structure made up of several rings and a central rod. The C-ring (cytoplasmic ring) is especially important because it controls the direction of rotation. The C-ring contains proteins called FliG, FliM, and FliN, which work together as the motor’s “switch.” This switch can flip between two positions, allowing the flagellum to rotate either CW or CCW.\n\nWhen the motor spins CCW, the bacteria swim straight. When it spins CW, the bacteria tumble and change direction. This switching mechanism is crucial for chemotaxis, as it allows the bacteria to adjust its movement in response to its environment.\n\nUnderstanding how the bacterial flagellum works can inspire new ideas for advanced technology and engineering. For example, the principles of bidirectional rotation and force transmission could help design tiny, efficient motors for medical devices, like targeted drug delivery systems. Additionally, the flexibility seen in the flagellar motor might lead to the creation of materials that can change shape and function in response to different conditions.\n\nBy mimicking the natural efficiency and adaptability of the bacterial flagellum, engineers and designers can develop innovative solutions that work well with biological systems, promoting sustainability and reducing environmental impact. This approach follows the principles of biomimicry , which aims to solve human challenges by learning from and copying nature’s successful strategies.",
+  "function_addressed": [
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/a-molecular-flip-is-the-key-to-a-two-way-motor-for-bacteria/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "molecular",
+    "flip",
+    "key",
+    "two-way",
+    "motor",
+    "bacteria"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

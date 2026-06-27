@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-leaves-communicate-pest-damage",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "The leaves of some plants protect from pests because as they are chewed, they release a chemical combination of acids and alcohols that attract pest-eating insects. One way plants protect themselves from pest damage is by using a highly-evolved chemical language.",
+  "mechanism": "The leaves of some plants protect from pests because as they are chewed, they release a chemical combination of acids and alcohols that attract pest-eating insects.\n\nOne way plants protect themselves from pest damage is by using a highly-evolved chemical language. This chemical language communicates detailed information regarding what specific kind of insect pest is causing damage to the plant, and thus attracts the appropriate pest-eating insect to “rescue” it by killing off the pest.\n\nDamage from insect feeding elicits the release of signaling molecules systemically within the plant. These signaling molecules turn on genes for the production of volatile compounds, acids and alcohols which evaporate into the surrounding air to communicate the presence of the pest insect to pest-eating insects. Plants can recognize various insect pests by proteins in their oral secretions, as well as by the type of damage they cause. For example, piercing and sucking insects (such as whiteflies and aphids) elicit different signaling molecules than chewing insects (such as caterpillars). Because the signaling molecules elicited by different insect pests vary, the genes activated for volatile compound production are unique to that pest species, alone. The result is that the plant produces a specific volatile blend that attracts the most appropriate pest-eating insect.\n\nThe release of plant volatiles can be stimulated by an attack from a wide range of insect species, from mountain pine beetles to aphids. Furthermore, the type of pest-eating insect that is attracted to the plant’s volatiles can vary from parasite to predator. In fact, plant volatiles can be perceived by any insect or plant in the surrounding area that stands to benefit from knowing the status of the plant. A community benefit of this volatile chemical communication strategy is that, because the chemicals are airborne, plants in close proximity to the affected plant receive a warning of the impending danger.\n\nA better understanding of how plants are able to naturally limit pest control could lead to solutions for more sustainable agriculture.\n\nThis summary was contributed by Melissa Moore Friedman.",
+  "function_addressed": [
+    "protect from animals",
+    "send chemical signals (odor, taste, etc.)",
+    "biological control of populations, pests, diseases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-communicate-pest-damage/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "communicate",
+    "pest",
+    "damage"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

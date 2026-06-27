@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-flippers-provide-lift-reduce-drag",
+  "organism_common": "Humpback whale",
+  "organism_scientific": "",
+  "strategy_summary": "The flippers of the humpback whale channel flow and increase hydrodynamic efficiency due to tubercles or bumps. Flippers on humpback whales ( Megaptera novaeangliae ) have non-smooth leading edges, yet demonstrate superior fluid dynamics to the characteristically smooth leading edges of our wings, turbines and other…",
+  "mechanism": "The flippers of the humpback whale channel flow and increase hydrodynamic efficiency due to tubercles or bumps.\n\nFlippers on humpback whales ( Megaptera novaeangliae ) have non-smooth leading edges, yet demonstrate superior fluid dynamics to the characteristically smooth leading edges of our wings, turbines and other kinds of blades. Despite being 40-50 feet long and weighing nearly 80,000 pounds, humpback whales swim in circles tight enough to produce nets of bubbles only five feet across, which corral their shrimp-like prey.\n\nThe whale’s surprising dexterity is due primarily to its non-conventional flippers, which have large, irregular looking bumps called tubercles across their leading edges. Whereas sheets of water flowing over smooth flippers break up into myriad turbulent vortices as they cross the flipper, sheets of water passing between a humpback’s tubercles maintain even channels of fast-moving water, allowing humpbacks to keep their “grip” on the water at sharper angles and turn tighter corners, even at low speeds.\n\nImage: Biomimicry Institute / Copyright © - All rights reserved toggle icon\n\nWind tunnel tests of model humpback flippers with and without leading-edge tubercles have demonstrated the fluid dynamic improvements tubercles make, such as a staggering 32% reduction in drag, 8% improvement in lift, and a 40% increase in angle of attack over smooth flippers before stalling. A company called WhalePower is applying these lessons to the design of wind turbines and fans of all sorts – industrial ceiling fans and other HVAC systems, computer fans, etc. – to improve their efficiency, safety, and cost-effectiveness.\n\nFin slapping water surface sequence",
+  "function_addressed": [
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/flippers-provide-lift-reduce-drag/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flippers",
+    "provide",
+    "lift",
+    "reduce",
+    "drag"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

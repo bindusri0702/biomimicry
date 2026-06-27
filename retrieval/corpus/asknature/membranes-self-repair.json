@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-membranes-self-repair",
+  "organism_common": "Humans",
+  "organism_scientific": "",
+  "strategy_summary": "The fatty membranes of cells are capable of self-repair using a mechanism that involves calcium-dependent exocytosis. “Self-repair: Our bodies are packages within packages.",
+  "mechanism": "The fatty membranes of cells are capable of self-repair using a mechanism that involves calcium-dependent exocytosis.\n\n“Self-repair: Our bodies are packages within packages. Every cell has a fatty membrane that self-assembles when placed in water, then reassembles when a breach occurs. Imagine a polymer wrapper that would heal when ripped during use, but would eventually decompose when placed in a compost heap.” (Biomimicry Guild unpublished report)",
+  "function_addressed": [
+    "prevent fracture/rupture",
+    "chemically assemble on demand",
+    "protect from loss of liquids",
+    "regulate cellular processes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/membranes-self-repair/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "membranes",
+    "self-repair"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

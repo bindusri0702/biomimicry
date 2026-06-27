@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-wings-combine-support-and-material-economy",
+  "organism_common": "Insects",
+  "organism_scientific": "",
+  "strategy_summary": "The wings of insects combine structural support and material economy because they are flat, braced surfaces. “Insect wings provide yet another example of braced, flat surfaces–cylindrical cantilever beams (veins) support a thin membrane.",
+  "mechanism": "The wings of insects combine structural support and material economy because they are flat, braced surfaces.\n\n“Insect wings provide yet another example of braced, flat surfaces–cylindrical cantilever beams (veins) support a thin membrane. A pound of fruit-fly wings laid end to end would stretch about 500 miles, a very low mass per unit length–a steel wire to go so far would have about the same diameter as a red blood cell. Yet in each second of flight the tip of a wing moves several meters and reverses direction four hundred times. Other paddles and fins are fairly flat as well, as are some feathers, the book gills of horseshoe crabs, and a scattering of other stiff structures. In all these cases, though, flatness suits functions other than support. From a mechanical viewpoint the flatness of these systems, however impressive, is perhaps best regarded as a necessary evil–and their designs incorporate features that offset their intrinsically low flexural stiffness.” (Vogel 2003:439)",
+  "function_addressed": [
+    "optimize shape/materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/wings-combine-support-and-material-economy/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "wings",
+    "combine",
+    "support",
+    "material",
+    "economy"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

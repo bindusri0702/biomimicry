@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-fine-filaments-filter-water",
+  "organism_common": "Peacock worm",
+  "organism_scientific": "",
+  "strategy_summary": "The radiating tentacles of peacock worms filter water for food using fine fringed filaments. “A feeding peacock worm…has a fan of radiating tentacles fringed with fine filaments to sieve food particles from the water currents.” (Foy and Oxford Scientific Films 1982:25)  Foy S, Oxford Scientific Films.",
+  "mechanism": "The radiating tentacles of peacock worms filter water for food using fine fringed filaments.\n\n“A feeding peacock worm…has a fan of radiating tentacles fringed with fine filaments to sieve food particles from the water currents.” (Foy and Oxford Scientific Films 1982:25)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
+  "function_addressed": [
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fine-filaments-filter-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fine",
+    "filaments",
+    "filter",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

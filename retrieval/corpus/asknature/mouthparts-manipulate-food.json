@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-mouthparts-manipulate-food",
+  "organism_common": "Insects",
+  "organism_scientific": "",
+  "strategy_summary": "The mouthparts of insects hold food steady during mastication with accessory jaw-like structures, called maxillae. “Behind the mandibles is another pair of jaw-like structures, the maxillae.",
+  "mechanism": "The mouthparts of insects hold food steady during mastication with accessory jaw-like structures, called maxillae.\n\n“Behind the mandibles is another pair of jaw-like structures, the maxillae. These may be simple in shape but often they bear soft lip-like appendages, and projections like tiny antennae, called palps. These bear many sensilla…sensitive cells for tasting, smelling, and touching the food. The maxillae are not usually designed for cutting or chewing food, but they may be used to hold it steady and pass it forwards through the chopping mandibles.” (Foy and Oxford Scientific Films 1982:159)",
+  "function_addressed": [
+    "modify position",
+    "capture, absorb, or filter organisms",
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mouthparts-manipulate-food/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mouthparts",
+    "manipulate",
+    "food"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

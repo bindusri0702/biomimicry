@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-footpads-stick-to-vertical-surfaces",
+  "organism_common": "Great green bush-cricket",
+  "organism_scientific": "",
+  "strategy_summary": "Pads on bushcricket feet stick to vertical surfaces due to angled rods and a secreted viscous fluid. “Like the gecko, the great green bushcricket ( Tettigonia viridissima ) is endowed with ‘sticky’ feet.",
+  "mechanism": "Pads on bushcricket feet stick to vertical surfaces due to angled rods and a secreted viscous fluid.\n\n“Like the gecko, the great green bushcricket ( Tettigonia viridissima ) is endowed with ‘sticky’ feet. It can walk on smooth vertical surfaces, and even upside down, with no trouble. Unlike the gecko, the bushcricket has smooth footpads. It relies not on van der Waals forces between the footpad and the substrate, but on design of the footpad itself. The cuticle of an insect’s footpad is comprised of the soft material found just below the exoskeleton elsewhere in the body. In the bushcricket, this soft material covers another cuticle layer: a thicket of fine, branching rods that slope forwards at an angle of around 60 degrees. As the foot presses down, the rods bend and the pad molds itself around the irregular surface below, achieving the maximum contact. As a final adhesive measure, the bushcricket secretes a viscous fluid onto its pads. It actually leaves footprints when it walks. This design has an advantage over the hairy-sole system used by geckos in that the bushcricket can easily lift its legs. It does not need to ‘peel’ its feet off the substrate.” (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/footpads-stick-to-vertical-surfaces/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "footpads",
+    "stick",
+    "vertical",
+    "surfaces"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

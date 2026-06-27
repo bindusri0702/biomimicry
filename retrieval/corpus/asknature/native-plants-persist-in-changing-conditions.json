@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-native-plants-persist-in-changing-conditions",
+  "organism_common": "Wetland ecosystems",
+  "organism_scientific": "",
+  "strategy_summary": "Some native plant species in wetlands have long-term persistence despite fluctuating water levels because they have long-lived seeds deposited in the soil seed bank. “In wetlands subject to large water-level fluctuations, most of the species in these wetlands have long-lived seed that can persist in their seed banks…",
+  "mechanism": "Some native plant species in wetlands have long-term persistence despite fluctuating water levels because they have long-lived seeds deposited in the soil seed bank.\n\n“In wetlands subject to large water-level fluctuations, most of the species in these wetlands have long-lived seed that can persist in their seed banks for decades. When these wetlands go dry, all of the emergent species become re-established simultaneously (van der Valk and Davis 1978). The long-term persistence of clonal emergent species in wetlands with fluctuating water levels is due to the presence of their seeds in seed banks of these wetlands.” (van der Valk 2006:71)",
+  "function_addressed": [
+    "protect from excess liquids",
+    "manage disturbance in a community",
+    "disperse seeds",
+    "generate soil/renew fertility",
+    "maintain biodiversity"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/native-plants-persist-in-changing-conditions/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "native",
+    "plants",
+    "persist",
+    "changing",
+    "conditions"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

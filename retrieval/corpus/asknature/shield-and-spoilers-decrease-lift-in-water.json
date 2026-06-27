@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-shield-and-spoilers-decrease-lift-in-water",
+  "organism_common": "Mayfly",
+  "organism_scientific": "",
+  "strategy_summary": "Body of Ecdyonurus (mayfly) larvae decreases lift in flowing water by having a lowered head shield position and using its lower leg segments (femora) as spoilers. “Not only does flow separate above a flattened animal, but it is also much more complex than was first thought.",
+  "mechanism": "Body of Ecdyonurus (mayfly) larvae decreases lift in flowing water by having a lowered head shield position and using its lower leg segments (femora) as spoilers.\n\n“Not only does flow separate above a flattened animal, but it is also much more complex than was first thought. Flow separation reduces lift, but at a cost of increased drag which, however, is a price that may well be worth paying to stay attached. For the heptageniid larvae, certain features of its body design may in fact lead to negative lift in flowing water. This is accomplished by lowering its head shield and by using its femora as spoilers (Weissenberger et at. 1991) (Fig. 5.3).” (Giller and Malmqvist 1998:112)",
+  "function_addressed": [
+    "move in/on liquids",
+    "manage turbulence"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shield-and-spoilers-decrease-lift-in-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shield",
+    "spoilers",
+    "decrease",
+    "lift",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

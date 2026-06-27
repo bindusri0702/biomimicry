@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-spiral-patterned-cases-prevent-crushing",
+  "organism_common": "Moth flies",
+  "organism_scientific": "",
+  "strategy_summary": "Larvae of bagworm moths protect themselves from being crushed by building spiral-patterned cases out of environmental materials such as twigs, leaves, and silk.",
+  "mechanism": "Larvae of bagworm moths protect themselves from being crushed by building spiral-patterned cases out of environmental materials such as twigs, leaves, and silk.",
+  "function_addressed": [
+    "physically assemble structure",
+    "prevent buckling",
+    "manage impact",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/spiral-patterned-cases-prevent-crushing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "spiral-patterned",
+    "cases",
+    "prevent",
+    "crushing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

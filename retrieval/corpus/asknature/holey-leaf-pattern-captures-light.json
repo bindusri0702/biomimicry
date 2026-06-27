@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-holey-leaf-pattern-captures-light",
+  "organism_common": "Monstera",
+  "organism_scientific": "",
+  "strategy_summary": "Plants that live in the understory of tropical rainforests have to compensate for lower light levels in order to carry out photosynthesis . Some plants compensate by climbing up tree trunks as vines, some use special pigment s to increase efficiency, and mature plants in the genus Monstera (also called the Swiss…",
+  "mechanism": "At first glance, this strategy doesn’t make sense—how can a leaf full of holes help a plant capture more sunlight? However, if we think about the conditions in which the plant grows—in low light beneath the forest canopy, often dependent on moving vegetation overhead to capture sunflecks—it makes a lot of sense. One scientist has hypothesized that holes allow Monstera’s leaves to grow larger and spread out over a greater area to capture diffuse sunlight without having to put energy into growing extra leaf area.",
+  "function_addressed": [
+    "capture, absorb, or filter energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/holey-leaf-pattern-captures-light/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "holey",
+    "leaf",
+    "pattern",
+    "captures",
+    "light"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-blind-cave-dwellers-have-super-senses",
+  "organism_common": "Alabama cavefish",
+  "organism_scientific": "",
+  "strategy_summary": "The bodies of Alabama cavefish allow them to survive without vision via elaborate appendages and beefed-up nerve centers. “Instead of vision, many [troglobites] have elaborate appendages and beefed-up nerve centers to interpret slight air-pressure or temperature changes, sounds, and smells.",
+  "mechanism": "The bodies of Alabama cavefish allow them to survive without vision via elaborate appendages and beefed-up nerve centers.\n\n“Instead of vision, many [troglobites] have elaborate appendages and beefed-up nerve centers to interpret slight air-pressure or temperature changes, sounds, and smells. This sensory equipment lets them travel, sense objects moving or still, ambush prey, and according to a recent study of troglobitic fish, judge the size and suitability of prospective mates, sight unseen.” (Krajick 2007:139)",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment",
+    "sense sound and other vibrations from the environment",
+    "sense atmospheric conditions",
+    "sense temperature cues from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/blind-cave-dwellers-have-super-senses/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "blind",
+    "cave-dwellers",
+    "have",
+    "super",
+    "senses"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

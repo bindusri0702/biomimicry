@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-leaves-transmit-signals-to-initiate-flowering",
+  "organism_common": "Thale cress",
+  "organism_scientific": "",
+  "strategy_summary": "The leaves of Arabidopsis protect the plant from blooming too soon by using light as an environmental cue to initiate a protein-signaling pathway that triggers flowering. Plants can perceive day length.",
+  "mechanism": "The leaves of Arabidopsis protect the plant from blooming too soon by using light as an environmental cue to initiate a protein-signaling pathway that triggers flowering.\n\nPlants can perceive day length. This keeps them from flowering too early in the season–such as when pollinators are not as active or cold temperatures could freeze their reproductive parts. In order for flowering to occur, there must be communication between the leaf, where light is absorbed, and the shoot apex, where flowering occurs.\n\nPlants have evolved a signaling pathway that involves activation of FLOWERING LOCUS T (FT), a protein whose expression is regulated by the gene, CONSTANS (CO). CO’s rhythm of expression is controlled by the circadian clock in which the amount of dark hours affect flowering. When days are longer and nights are shorter, the plant is exposed to more light and less darkness. CO expression rises and a product of FT moves to the areas of growth, activating flowering-time genes that enable flowering. Overall, this is a long-distance signaling pathway, triggered when light is detected, that alters gene expression to promote flowering. This mechanism has applications in light-triggered technology, such as heating and security systems in buildings. An important aspect of this mechanism and it’s application in technology is that flowering is not only dependent of day-length, but also on quality of light. Plants tend to flower more readily when exposed to far-red light, which is common in shady environments. Plants grown under far-red enriched light contain more CO mRNA, and thus flower more readily than plants grown under white light.\n\nThis summary was contributed by Lola Dompe.",
+  "function_addressed": [
+    "send chemical signals (odor, taste, etc.)",
+    "sense light (visible spectrum) from the environment",
+    "sense chemicals (odor, taste, etc.) from the environment",
+    "sense time and day length"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-transmit-signals-to-initiate-flowering/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "transmit",
+    "signals",
+    "initiate",
+    "flowering"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

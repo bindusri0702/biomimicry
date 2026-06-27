@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-hydroskeleton-changes-shape",
+  "organism_common": "Ribbon worm",
+  "organism_scientific": "",
+  "strategy_summary": "The movement of ribbon worms is governed by the fiber arrangement of their hydrostatic skeleton. “Cowey (1952) seems to have been the first to recognize the importance of fiber arrangement in hydroskeletons, looking at a nemertean worm–a long, flat, and unsegmented creature.",
+  "mechanism": "The movement of ribbon worms is governed by the fiber arrangement of their hydrostatic skeleton.\n\n“Cowey (1952) seems to have been the first to recognize the importance of fiber arrangement in hydroskeletons, looking at a nemertean worm–a long, flat, and unsegmented creature. (A more general treatment followed a few years later, as Clark and Cowey [1958].) Normally these worms form severely flattened cylinders; the fibers in their surface layers lie at angles to their long axes somewhere in the 40-70 degree range. Since they’re not circular cylinders, they contain less volume than they might, and they live beneath the curve of figure 20.2, in the region labeled ‘flaccid.’ If such a worm contracts longitudinal muscles it will get shorter, moving to the left along a horizontal line. Sufficient contraction will bring it up against the curve, where it finds itself circular in section and more turgid to boot. If the worm contracts circumferential muscles it gets longer, moving to the right, but again it gets more nearly circular and more turgid. Not all of these worms can change shape enough to hit the limiting line, but they all use this curious scheme in which shape and stiffness are predictably interrelated. Internal pressures, though are never very high–even when actively locomoting, these creatures are a limp lot.” (Vogel 2003:413)",
+  "function_addressed": [
+    "move in/on liquids",
+    "modify size/shape/mass/volume"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hydroskeleton-changes-shape/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hydroskeleton",
+    "changes",
+    "shape"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

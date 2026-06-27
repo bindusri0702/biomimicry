@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-forelegs-mop-up-plant-oil",
+  "organism_common": "Capture, Absorb, or Filter Liquids",
+  "organism_scientific": "",
+  "strategy_summary": "The forelegs of solitary bees mop up plant oil using brushes at their tips. “In South Africa, the twinspur [ Diascia ], a relative of the foxglove unique in its family for having not just one tubular spur but two, rewards its pollinators with oil secreted at the far end of each spur.",
+  "mechanism": "The forelegs of solitary bees mop up plant oil using brushes at their tips.\n\n“In South Africa, the twinspur [ Diascia ], a relative of the foxglove unique in its family for having not just one tubular spur but two, rewards its pollinators with oil secreted at the far end of each spur. Several closely related species of solitary bees [ Rediviva ] have developed brushes on the tips of their fore-legs with which to mop up this oil.” (Attenborough 1995:104-106)",
+  "function_addressed": [
+    "capture, absorb, or filter liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/forelegs-mop-up-plant-oil/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "forelegs",
+    "mop",
+    "plant",
+    "oil"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

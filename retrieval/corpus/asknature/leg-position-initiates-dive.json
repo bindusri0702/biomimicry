@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-leg-position-initiates-dive",
+  "organism_common": "Whirligig beetles",
+  "organism_scientific": "",
+  "strategy_summary": "The legs of the whirligig beetle initiate a dive by transitioning from beating beside the body to under the body. Whirligig beetles transition from swimming to diving by changing the plane in which their legs beat.",
+  "mechanism": "The legs of the whirligig beetle initiate a dive by transitioning from beating beside the body to under the body.\n\nWhirligig beetles transition from swimming to diving by changing the plane in which their legs beat. As they prepare to dive, they move their legs from beside their body to beneath their body. The resulting up-and-down oscillations create a large wave in front of the beetle that brings its body closer to the water surface.\n\nThis change in beating plane reduces the force that would otherwise be required to create an appropriate angle to break through the water’s surface tension, thereby reducing the beetle’s overall energy use.\n\nThis strategy was contributed by Rachel Major",
+  "function_addressed": [
+    "modify position",
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leg-position-initiates-dive/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leg",
+    "position",
+    "initiates",
+    "dive"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

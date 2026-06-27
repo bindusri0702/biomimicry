@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-enzyme-produces-red-bioluminescence",
+  "organism_common": "Railroad worm",
+  "organism_scientific": "",
+  "strategy_summary": "A moonlit forest filled with flitting balls of light may seem like a scene from a fairy tale, but it’s a real-world phenomenon thanks to some insects’ internal chemical reactions. While most bioluminescent beetles have a yellow or green glow, one, known as the railroad worm, also produces a red light.",
+  "mechanism": "A close relative of fireflies and native to the Americas, railroad worms ( Phrixotrix hirtus ) have several yellow-green dots of light along their backs, bringing to mind the brightly lit windows of a train passing in the night. A red light is emitted from their heads, which helps them both to navigate in the dark and to intimidate predators. As adults, males morph into beetles, while the females remain in a glowing, worm-like state. This helps males locate females for reproduction.\n\nInterestingly, they have been found to have control over their light-emitting powers, glowing more intensely when disturbed and alternating between colored glows.\n\nMedical treatments seek to locate and target specific tissues within the body in minimally invasive ways, and one method that allows for this is known as bioimaging. Using light and fluorescence, among other tools, it can be used to visualize biological processes as they occur, or to allow improved 3D imaging.\n\nBeetle enzymes that produce bioluminescence are commonly used for bioimaging, and the red enzymes are highly useful for targeting tissues that typically absorb and neutralize lights in the blue-green spectrum. In mammalian cells, hemoglobin and myoglobin-rich tissues, like muscles and blood, are particularly difficult to image, but utilizing enzymes which produce red light could help target these tissues in biotechnological applications.",
+  "function_addressed": [
+    "send light signals in the visible spectrum"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/enzyme-produces-red-bioluminescence/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "railroad",
+    "worms",
+    "glow",
+    "multiple",
+    "colors"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

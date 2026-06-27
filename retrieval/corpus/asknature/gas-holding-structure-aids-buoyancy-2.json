@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-gas-holding-structure-aids-buoyancy-2",
+  "organism_common": "Cuttlefish",
+  "organism_scientific": "",
+  "strategy_summary": "Cuttlefish are renowned for their ability to control the colors and patterns on their skin. But equally important to their survival is the ability to control buoyancy nearly effortlessly.",
+  "mechanism": "The secret lies in their cuttlebone, a unique, lightweight, porous internal shell consisting of parallel sheets of a form of calcium carbonate, separated by numerous S-shaped pillars that create countless chambers filled with gas and liquid. These chambers are crucial for the cuttlefish’s buoyancy control.\n\nWhen a cuttlefish needs to become more buoyant and rise up, it actively pumps liquid out of the cuttlebone chambers, allowing gas to fill the space. This gas, primarily nitrogen, comes from the cuttlefish’s body fluids, where it exists in dissolved form. Conversely, when the cuttlefish needs to decrease its buoyancy and sink, it draws liquid back into the chambers, which displaces the gas. This process is facilitated by the cuttlebone’s structure, which combines high compressive strength with minimal weight, enabling the cuttlefish to withstand significant external water pressure.\n\nThe cuttlefish’s buoyancy control mechanism offers inspiration for numerous human applications. By mimicking the cuttlebone’s structure and function, engineers could develop advanced materials and technologies for underwater exploration. For instance, creating lightweight, strong, and adaptable materials could improve the design of submersibles, underwater drones, and buoyancy control devices.\n\nAdditionally, understanding the cuttlefish’s efficient buoyancy regulation could lead to innovations in energy-efficient underwater navigation systems, helping reduce the energy consumption of marine vehicles. This biomimetic approach emphasizes sustainability and efficiency, aligning with nature-inspired design principles that promote harmony with the environment.\n\nHarnessing the strategies employed by cuttlefish could revolutionize underwater exploration and technology, offering new ways to navigate and study the ocean depths with greater efficiency and sustainability.",
+  "function_addressed": [
+    "modify buoyancy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/gas-holding-structure-aids-buoyancy-2/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "layered",
+    "bone",
+    "holds",
+    "gas",
+    "control",
+    "buoyancy"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-protein-directs-silica-growth",
+  "organism_common": "Diatoms",
+  "organism_scientific": "",
+  "strategy_summary": "Membrane-bound vesicles in diatoms build the organism's mineral shell by secreting proteins that template the design and trigger silica deposition. The diatom’s silica shell, or frustule, has a top half (epitheca) and bottom half (hypotheca) that fit together like a micro-sized 18th century snuff box.",
+  "mechanism": "Membrane-bound vesicles in diatoms build the organism's mineral shell by secreting proteins that template the design and trigger silica deposition.\n\nThe diatom’s silica shell, or frustule, has a top half (epitheca) and bottom half (hypotheca) that fit together like a micro-sized 18th century snuff box. One or more overlapping silica girdle bands surround the rims of each theca like tamper-proof seals on the outside of food containers. While humans have mastered the art of glass-making (silica is the major component of glass), we depend on high temperatures to manifest our design ideas in this medium. Diatoms, on the other hand, have mastered the intricate art of “glass-making” without heating their surroundings. Instead, information contained in the specific 3-dimensional shape of proteins associated with still mysterious membrane-bound silica deposition vesicle, facilitates the formation of silica nanospheres that make up the diatom’s silica shell. Researchers have recently discovered a set of proteins they’ve named “cingulins” because they appear to self-assemble into micro-scale rings that conform to the shape and pattern of the silica girdle band, a region of the diatom called the “cingulum.” Cingulins are thought to mediate formation of the girdle band by templating the design and triggering silica deposition.",
+  "function_addressed": [
+    "chemically assemble mineral crystals",
+    "chemically assemble inorganic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/protein-directs-silica-growth/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "protein",
+    "directs",
+    "silica",
+    "growth"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

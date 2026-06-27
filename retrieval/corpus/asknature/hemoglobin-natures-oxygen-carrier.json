@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-hemoglobin-natures-oxygen-carrier",
+  "organism_common": "Animals",
+  "organism_scientific": "",
+  "strategy_summary": "Hemoglobin is a protein in red blood cells that transports oxygen from the lungs to tissues, enabling the human body to produce energy. This essential process powers the body’s survival by generating ATP (adenosine triphosphate), the energy needed for life.",
+  "mechanism": "Hemoglobin is highly adaptive, ensuring tissues receive oxygen under varying conditions. Each hemoglobin molecule can carry up to four oxygen molecules, changing shape slightly with each one it binds or releases. This ability to change shape makes it a highly efficient vehicle for oxygen transport.\n\nTaking a closer look at its structure, hemoglobin is made up of four protein chains, each connected to a heme group. The heme is a specialized structure containing iron and is key to hemoglobin’s function. Iron is a metal that has electrons it can share or rearrange when it comes close to certain other atoms, like oxygen. In the heme, the iron is in a specific form, called Fe²⁺ (ferrous iron), which has just the right number of electrons to temporarily attach to an oxygen molecule (O₂).\n\nThis process involves a type of chemical reaction known as a redox reaction, which stands for “reduction-oxidation.” Redox reactions occur when electrons are transferred between substances. In hemoglobin, when the iron in the heme binds to oxygen, it undergoes a subtle change in its electron arrangement, which is a form of oxidation. Conversely, when hemoglobin releases oxygen in tissues, the iron regains its original electron arrangement, which is reduction. These tiny changes allow hemoglobin to cycle between oxygen-bound and oxygen-free states, adapting to the oxygen needs of the body.\n\nThe iron atom in the heme sits at the center of a ring-like structure made of carbon and nitrogen atoms, called a porphyrin. This structure holds the iron steady, while still leaving it free to interact with oxygen.\n\nIn the lungs, hemoglobin adopts a “relaxed” shape that makes it easier to bind oxygen molecules. When hemoglobin reaches tissues that need oxygen, it shifts to a “taut” shape, which helps it release the oxygen where it’s most needed. This ability to shift shapes and respond to chemical signals, such as high carbon dioxide levels or increased acidity in tissues, further enhances hemoglobin’s remarkable efficiency in transporting and delivering oxygen throughout the body.\n\nHemoglobin’s efficient oxygen transport properties and its ability to catalyze redox reactions are inspiring sustainable transportation and energy generation solutions, like advanced fuel cells, which rely on similar principles of resource efficiency and adaptability.",
+  "function_addressed": [
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hemoglobin-natures-oxygen-carrier/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hemoglobin",
+    "nature",
+    "oxygen",
+    "carrier"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

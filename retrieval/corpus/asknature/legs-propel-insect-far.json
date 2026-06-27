@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-legs-propel-insect-far",
+  "organism_common": "Flea",
+  "organism_scientific": "",
+  "strategy_summary": "The hind legs of fleas allow it to leap far because they have a protein called resilin that stores energy and releases it to extend the hind legs. A Flea's Fantastic Jump Takes More Than Muscle  “The flea owes its incredible leaping abilities to two things: the first is a specialized set of leg muscles; the second is…",
+  "mechanism": "The hind legs of fleas allow it to leap far because they have a protein called resilin that stores energy and releases it to extend the hind legs.\n\nA Flea's Fantastic Jump Takes More Than Muscle\n\n“The flea owes its incredible leaping abilities to two things: the first is a specialized set of leg muscles; the second is a rubbery pad of protein called resilin that is located in the flea’s hind legs. The leg muscles apply pressure to the pad. When the pressure is suddenly released, the pad powerfully extends the hind legs and propels the flea great distances.” (Forsyth 1992:28)",
+  "function_addressed": [
+    "modify pressure",
+    "transform mechanical energy",
+    "store energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/legs-propel-insect-far/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "legs",
+    "propel",
+    "insect",
+    "far"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

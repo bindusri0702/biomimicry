@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-capsid-proteins-self-assemble-to-form-stable-shell",
+  "organism_common": "Chemically Assemble on Demand",
+  "organism_scientific": "",
+  "strategy_summary": "Capsids, the containers housing viral DNA, are stable, self-assembling structures because they rely on the net strength afforded by a combination of weak attractive or repulsive forces arising from the relative position of proteins making up the container  Viruses are essentially mobile DNA containers that implicate…",
+  "mechanism": "Capsids, the containers housing viral DNA, are stable, self-assembling structures because they rely on the net strength afforded by a combination of weak attractive or repulsive forces arising from the relative position of proteins making up the container\n\nViruses are essentially mobile DNA containers that implicate themselves into living cells by usurping the cell’s reproductive machinery to reproduce their own DNA. Viral DNA is housed in protective nano-scale containers, called capsids, that self-assemble within the host cell. These resilient proteinaceous packets self-assemble in response to a variety of weak forces that, in concert, provide the capsid with a great deal of stability. The weak forces at work include attraction or repulsion between electrostatic charges, water solubility, and constituent amino acid structures in various parts of the capsid.\n\nWatch Video of Virus Self-Assembling (5:31 min)\n\nThe image shows the MS2 bacteriophage, a virus whose genome was one of the first ever determined. Part of NIH-supported research and tool development led by Professor Philip Bourne SDSC/UCSD, the image shows the complete viral protein coat, attached to short pieces of the viral genome (14 bases out of 3,569 total). The viral coat is made up of a single protein repeated 60 times (ribbon), creating a sphere that holds only the viral genetic information (shown as spheres and cylinders) and a single protein related to maturation (not shown).",
+  "function_addressed": [
+    "chemically assemble on demand",
+    "chemically assemble molecular devices",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/capsid-proteins-self-assemble-to-form-stable-shell/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "capsid",
+    "proteins",
+    "self-assemble",
+    "form",
+    "stable",
+    "shell"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-body-shape-reduces-friction",
+  "organism_common": "Bottlenose dolphin",
+  "organism_scientific": "",
+  "strategy_summary": "The body of the dolphin has low friction in water by having an optimal length to diameter ratio. Bottlenose Dolphin (''Tursiops truncatus'') Junping  “The streamlined body of optimal shape has a length of 4.5 times its diameter.",
+  "mechanism": "The body of the dolphin has low friction in water by having an optimal length to diameter ratio.\n\nBottlenose Dolphin (''Tursiops truncatus'') Junping\n\n“The streamlined body of optimal shape has a length of 4.5 times its diameter. In this case the surface is smallest relative to the volume. This optimal numerical proportion has not remained a secret from nature: for dolphins ( Tursiops gilli ) the ratio is close to 5.” The author goes on to talk about the Reynolds number and how the shape of the dolphin shows high efficiency: “As a matter of fact, the maximal diameter of the dolphin is slightly back of center. Obviously, the above-mentioned effect was taken into consideration. Experiments have confirmed that this particular shape lowers friction drag in turbulent boundary layers to 65%.” (Tributsch 1983: 48)",
+  "function_addressed": [
+    "optimize shape/materials",
+    "manage turbulence",
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/body-shape-reduces-friction/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "body",
+    "shape",
+    "reduces",
+    "friction"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

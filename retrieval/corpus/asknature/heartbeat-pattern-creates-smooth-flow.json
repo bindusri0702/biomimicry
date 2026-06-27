@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-heartbeat-pattern-creates-smooth-flow",
+  "organism_common": "Animals",
+  "organism_scientific": "",
+  "strategy_summary": "About 10% of your weight is blood, and right now, it’s moving all around your body, ferrying oxygen and nutrients to each of your cells, carting off their waste, keeping your immune cells on patrol, helping regulate your temperature, and clotting when necessary. Your heart is what makes this highly functional fluid…",
+  "mechanism": "In a pipe (like a blood vessel), fluid can flow in one of two general ways. In laminar flow, the fluid moves smoothly along in an overall straight direction parallel to the direction of the pipe. In turbulent flow, the fluid moves more chaotically, in many different directions at once. The more a fluid flows chaotically, the more friction (i.e., drag) it has with itself and with the inner wall of the pipe it’s moving through, and the more force required to push the fluid through the pipe. Turbulent flow is the norm in the movement of fluids through human-made pipes, but laminar flow is the norm in the movement of blood through blood vessels.\n\nUnlike pumps that run continuously, the heart uses a pulsing pattern. It pushes blood out with a short contraction, and then refills during a short expansion called “diastole.” During this “rest” period, blood flow from the previous push slows down and any developing turbulence settles. This creates favorable, calm conditions as the next contraction sends another surge of blood forward. The alternating pattern enables the heart to maintain laminar flows in the circulatory system, greatly reducing the force required to move blood through this extensive network of vessels.\n\nSee Related Strategy\n\nSeals\n\nThe fur of seals may help them swim efficiently by maintaining laminar flow.\n\nFish\n\nThe shape of scales causes water flow to streak across fish skin, reducing turbulence and minimizing drag.\n\nMammals\n\nThe lymphatic system uses pressure, muscle contractions, and one-way valves to squeeze fluid through a network of vessels without the need for a pump.\n\nHuman-made pumps run continuously while operating. When researchers designed a pump to operate like a heart, however, in both being pulsatile and having a rest phase, turbulent flow in the pipe became laminar. The result was a 27% reduction in drag and a 9% overall improvement in energy efficiency over a conventional continuously running pump. There are over 2 million miles of pipes moving fluids in the world, so any innovations in pipe design to reduce drag requires an enormous change in infrastructure. Innovations in pumps are much easier to implement. Since nearly 20% of our global electrical budget goes to running pumps, the implementation of this one biomimetic innovation worldwide could reduce global electrical use by around 2%.",
+  "function_addressed": [
+    "move in/on liquids",
+    "move in/through gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/heartbeat-pattern-creates-smooth-flow/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "heartbeat",
+    "pattern",
+    "creates",
+    "smooth",
+    "flow"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

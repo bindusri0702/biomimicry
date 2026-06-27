@@ -1,0 +1,74 @@
+{
+  "groups": [
+    {
+      "group": "Get, store, or distribute resources",
+      "sub_groups": [
+        { "sub_group": "Capture, absorb, or filter", "functions": ["energy", "gases", "liquids", "solids"] },
+        { "sub_group": "Store", "functions": ["energy", "gases", "liquids", "solids", "chemical entities"] },
+        { "sub_group": "Distribute", "functions": ["energy", "gases", "liquids", "solids", "chemical entities", "organisms"] }
+      ]
+    },
+    {
+      "group": "Break down",
+      "sub_groups": [
+        { "sub_group": "Physically break down", "functions": ["living materials", "non-living materials"] },
+        { "sub_group": "Chemically break down", "functions": ["catalyze breaking of bonds", "organic compounds", "inorganic compounds", "polymers", "cleave halogens from organic compounds", "cleave heavy metals from organic compounds"] }
+      ]
+    },
+    {
+      "group": "Make / modify",
+      "sub_groups": [
+        { "sub_group": "Chemically assemble", "functions": ["catalyze making of bonds", "on demand", "attach a functional group", "detach a functional group", "inorganic compounds", "organic compounds", "specific stereoisomers", "mineral crystals", "polymers", "metal-based compounds", "molecular devices"] },
+        { "sub_group": "Physically assemble", "functions": ["structure"] },
+        { "sub_group": "Transform/convert energy", "functions": ["thermal energy", "radiant energy (light)", "chemical energy", "mechanical energy", "electrical energy", "magnetic energy", "chemically generate flow of electrons"] },
+        { "sub_group": "Modify chemical/electrical state", "functions": ["surface tension", "pH", "solubility", "electron transport", "oxidation state", "electric charge", "conductivity", "chemical potential", "reactivity with water", "energy state", "free-radical reactivity", "concentration"] },
+        { "sub_group": "Modify physical state", "functions": ["speed", "position", "buoyancy", "light/color", "material characteristics", "size/shape/mass/volume", "pressure", "density", "phase"] },
+        { "sub_group": "Reproduce", "functions": ["self-replicate"] },
+        { "sub_group": "Adapt/optimize", "functions": ["adapt behaviors", "adapt genotype", "adapt phenotype", "coevolve", "optimize space/materials"] }
+      ]
+    },
+    {
+      "group": "Process information",
+      "sub_groups": [
+        { "sub_group": "Sense signals / environmental cues", "functions": ["balance/orientation", "shape and pattern", "time and day length", "sound and other vibrations", "temperature", "motion", "pain", "body awareness", "touch and mechanical forces", "chemicals (odor, taste, etc.)", "atmospheric conditions", "light (visible spectrum)", "light (non-visible spectrum)", "electricity/magnetism", "disease"] },
+        { "sub_group": "Process signals", "functions": ["differentiate signal from noise", "transduce/convert signals", "respond to signals"] },
+        { "sub_group": "Send signals", "functions": ["tactile", "chemical (odor, taste, etc.)", "vibratory", "electrical/magnetic", "light (visible spectrum)", "light (non-visible spectrum)", "sound"] },
+        { "sub_group": "Navigate", "functions": ["through air", "through liquid", "over land", "through solids"] },
+        { "sub_group": "Compute", "functions": [] },
+        { "sub_group": "Learn", "functions": [] },
+        { "sub_group": "[En/de]code", "functions": [] }
+      ]
+    },
+    {
+      "group": "Sustain ecological community",
+      "sub_groups": [
+        { "sub_group": "Provide ecosystem services", "functions": ["maintain biodiversity", "biological control of populations/pests/diseases", "regulate atmospheric composition", "regulate climate", "disperse seeds", "control erosion and sediment", "regulate water storage", "cycle nutrients", "generate soil/renew fertility", "detoxification/purification of air/water/waste", "manage disturbance in a community", "regulate hydrological flows", "pollinate"] },
+        { "sub_group": "Cooperate/compete", "functions": ["within a (eco)system", "between (eco)systems", "within the same species", "between different species"] },
+        { "sub_group": "Coordinate", "functions": ["by self-organization", "activities", "systems"] }
+      ]
+    },
+    {
+      "group": "Maintain physical integrity",
+      "sub_groups": [
+        { "sub_group": "Manage structural forces", "functions": ["compression", "tension", "shear", "impact", "turbulence", "thermal shock"] },
+        { "sub_group": "Prevent structural failure", "functions": ["buckling", "deformation", "fatigue", "melting", "fracture/rupture", "creep", "mechanical wear", "chemical wear"] },
+        { "sub_group": "Regulate physiological processes", "functions": ["reproduction or growth", "cellular processes", "maintain homeostasis"] }
+      ]
+    },
+    {
+      "group": "Protect from physical harm",
+      "sub_groups": [
+        { "sub_group": "Protect from living threats", "functions": ["animals", "plants", "fungi", "microbes"] },
+        { "sub_group": "Protect from non-living threats", "functions": ["temperature", "fire", "ice", "light", "chemicals", "nuclear radiation", "wind", "dirt/solids", "gases", "loss of gases", "loss of liquids", "excess liquids"] }
+      ]
+    },
+    {
+      "group": "Move or stay put",
+      "sub_groups": [
+        { "sub_group": "Move", "functions": ["in/through gases", "in/on liquids", "in/on solids"] },
+        { "sub_group": "Attach", "functions": ["temporarily", "permanently"] },
+        { "sub_group": "Expel", "functions": ["gases", "liquids", "solids"] }
+      ]
+    }
+  ]
+}

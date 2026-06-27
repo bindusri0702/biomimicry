@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-needle-like-structure-inserts-painlessly",
+  "organism_common": "Mosquitoes",
+  "organism_scientific": "",
+  "strategy_summary": "Female mosquitoes use their proboscis to painlessly penetrate human skin and suck blood. The proboscis is made up of a small bundle of long, tapering stylets, called the fascicle, and a large scaly outer lower lip called the labium.",
+  "mechanism": "The mosquito uses the two maxillas as variable frequency microsaws with nanosharp teeth to advance into the skin tissue. This elegant biomicroelectromechanical system enables the mosquito to insert its feeding fascicle into human skin using an exceedingly small force.\n\nThis strategy could be used to develop microsaws with nanosharp teeth that could be used to penetrate human skin without causing pain.",
+  "function_addressed": [
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/needle-like-structure-inserts-painlessly/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "needle-like",
+    "structure",
+    "inserts",
+    "painlessly"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

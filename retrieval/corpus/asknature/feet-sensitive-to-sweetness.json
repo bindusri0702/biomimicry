@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-feet-sensitive-to-sweetness",
+  "organism_common": "Sense Chemicals (Odor, Taste, etc.) From the Environment",
+  "organism_scientific": "",
+  "strategy_summary": "The feet of butterflies taste sweetness using extremely sensitive taste hairs. “No matter where they are on an insect’s body, taste sensors normally take the form of hairlike structures called taste hairs.",
+  "mechanism": "The feet of butterflies taste sweetness using extremely sensitive taste hairs.\n\n“No matter where they are on an insect’s body, taste sensors normally take the form of hairlike structures called taste hairs. Each one usually has five sensory nerve cells (neurons) at its base, four of which are concerned with taste. Of these, one always responds to sugar, a second to water, and the other two to various salts…Butterflies also have feet that can sense sweetness. When they have been starved, they can detect sugar diluted in water down to concentrations as low as 0.003 percent using their feet. This is a sensitivity 200 times greater than that of the human tongue.” (Shuker 2001:33)",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/feet-sensitive-to-sweetness/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "feet",
+    "sensitive",
+    "sweetness"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

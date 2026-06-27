@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-trees-have-extreme-longevity",
+  "organism_common": "Great basin bristlecone pine",
+  "organism_scientific": "",
+  "strategy_summary": "Bristlecone pines can survive for thousands of years in harsh environments by shutting down non-essential processes. Bristlecone pines survive for thousands of years in an environment with little rainfall, few nutrients, cold temperatures and high elevations by shutting down all non-essential processes and focusing…",
+  "mechanism": "Bristlecone pines can survive for thousands of years in harsh environments by shutting down non-essential processes.\n\nBristlecone pines survive for thousands of years in an environment with little rainfall, few nutrients, cold temperatures and high elevations by shutting down all non-essential processes and focusing energy on long-term survival rather than growth.",
+  "function_addressed": [
+    "maintain homeostasis"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/trees-have-extreme-longevity/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "trees",
+    "have",
+    "extreme",
+    "longevity"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

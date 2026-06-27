@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-slime-inhibits-evaporation",
+  "organism_common": "Giant lobelia",
+  "organism_scientific": "",
+  "strategy_summary": "The fluid secreted and held in the rosette of one lobelia plant avoids water loss via an evaporation-inhibiting slime component. In one species of lobelia that grows on the upper slopes of Mount Kenya, “Its rosette forms a deep watertight cup that contains up to three quarters of a gallon of liquid.",
+  "mechanism": "The fluid secreted and held in the rosette of one lobelia plant avoids water loss via an evaporation-inhibiting slime component.\n\nIn one species of lobelia that grows on the upper slopes of Mount Kenya, “Its rosette forms a deep watertight cup that contains up to three quarters of a gallon of liquid. Each night, a plate of ice forms across the surface. This acts as a shield, preventing the frost from penetrating more deeply into the pond. The water beneath remains liquid and therefore above freezing point and the submerged bud survives undamaged. It is a minimal defence. Were the nights to last a few hours longer or the temperature to stay below zero during the day, then the contents of the ponds might freeze solid right to the bottom and the bud would be killed. As it is, however, the sun returns after a few hours and all is well…But now the lobelia faces a different hazard. If the sun shines so hotly during the day that the water in the pond evaporates, then the lobelia would be defenceless when night fell. However, this does not happen. The fluid in the pond is not rain water. Indeed it cannot be for very little rain falls on these slopes. The plant has secreted it from special glands and it contains a slime that inhibits evaporation. So even during the hottest afternoons, its defence does not vanish.” (Attenborough 1995:263)",
+  "function_addressed": [
+    "protect from loss of liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/slime-inhibits-evaporation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "slime",
+    "inhibits",
+    "evaporation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

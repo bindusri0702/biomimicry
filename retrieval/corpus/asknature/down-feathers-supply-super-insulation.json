@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-down-feathers-supply-super-insulation",
+  "organism_common": "Eider ducks",
+  "organism_scientific": "",
+  "strategy_summary": "If you’ve ever braved winter weather in a down jacket or snuggled under a down-filled duvet, you may have wondered: What’s up with down? How can a material that’s literally as light as a feather provide such warmth?",
+  "mechanism": "Typical outer feathers, like the ones quill pens were made of, don’t have this insulating effect. They have a firm central trunk called a rachis. Stiff shafts called barbs jut diagonally off the rachis to the left and right like branches. The barbs have smaller structures branching off of them called barbules. The barbules have tiny hooks called prongs that grab adjacent barbules, keeping them closely interlocked and aligned. The whole feather structure is basically straight and flat. That makes them great for flying or keeping out water, but not much good for retaining heat.\n\nBecause down is insulating, light, and compressible, it is an ideal material to make warm jackets, vests, gloves, sleeping bags, and quilts. Revealing the microscopic structures and mechanisms that give eider down its remarkable properties can show people ways to develop synthetic insulating materials that mimic what feathers do naturally.",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/down-feathers-supply-super-insulation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "down",
+    "feathers",
+    "supply",
+    "super",
+    "insulation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-tendons-store-elastic-energy",
+  "organism_common": "Northern leopard frog",
+  "organism_scientific": "",
+  "strategy_summary": "Tendons of the northern leopard frog store elastic energy which is rapidly released during a jump. “The catapult-like mechanism that has been hypothesized for frog jumping requires pre-storage of elastic energy, followed by the rapid release of this energy during the jump.",
+  "mechanism": "Tendons of the northern leopard frog store elastic energy which is rapidly released during a jump.\n\n“The catapult-like mechanism that has been hypothesized for frog jumping requires pre-storage of elastic energy, followed by the rapid release of this energy during the jump. The pattern of muscle length change and joint motion observed in the plantaris confirms this hypothesis. Early in the jump, the plantaris longus muscle shortened without joint movement (figures 1 and 2), showing that the tendon stretched to store work done by muscle contraction. This was followed by a period of high angular acceleration of the joint and minimal muscle shortening (table 1), indicating a substantial contribution of tendon recoil to powering ankle extension. Although we did not measure tendon length directly, the observed pattern of decoupling of muscle fascicle and joint motion would be difficult to explain by mechanisms other than tendon stretch and recoil…Since elastic energy storage occurs even in frog jumps which do not show exceptional distance, takeoff velocity or power output, it is likely that elastic energy storage is far more common in accelerations than indicated by prior indirect methods of detecting it. The presence of elastic energy storage and recoil in submaximal jumps may also be informative in future investigations into the nature of the catch mechanism in anuran jumping.” (Astley and Roberts 2011:3)",
+  "function_addressed": [
+    "store energy",
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tendons-store-elastic-energy/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tendons",
+    "store",
+    "elastic",
+    "energy"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

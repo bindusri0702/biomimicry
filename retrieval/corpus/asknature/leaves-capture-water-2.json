@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-leaves-capture-water-2",
+  "organism_common": "Bromeliads",
+  "organism_scientific": "",
+  "strategy_summary": "The leaves of some bromeliads capture water and nutrients in a storage tank via hydrophobic leaf surfaces. Some plants included in the family Bromeliaceae, such as pineapples, have a unique surface on their leaves that enables them to collect water in a central tank where it can be absorbed and utilized.",
+  "mechanism": "The leaves of some bromeliads capture water and nutrients in a storage tank via hydrophobic leaf surfaces.\n\nSome plants included in the family Bromeliaceae, such as pineapples, have a unique surface on their leaves that enables them to collect water in a central tank where it can be absorbed and utilized. This adaptation does not occur in all bromeliads, but just those that grow in areas where there may be less access to nutrients (such as hanging on trees where they rely on nutrients dissolved in rainwater).\n\nThe leaves of these types of bromeliads have a convex shape, meaning that they form a curved arch away from the surface they grow on. This shape allows water to drip downward into the central tank, pulled by the force of gravity. The interior, concave shape of the leaf also aids in the gathering and shuttling of water. The edges of the leaf bend upward, creating a structure that looks like a miniature half-pipe. This water collection is helpful for the bromeliad because it enables the plant to collect life-sustaining nutrients from the standing water over a longer period of time.\n\nThe leaves of bromeliads are also coated in small surface cells that are raised like bumps, known as trichomes. These “bumpy” cells have tiny hairs that catch water as it drops. The hairs increase in number as the water moves closer toward the base of the leaves, where the tank is formed. The small hairs on the leaves are coated in tiny, hydrophobic (i.e., water-repelling) wax crystals. Because the wax crystals do not absorb any water, the water rolls off of them until it collects in the central tank. The hairs are several millimeters higher than the outer surface of the leaf and thus hold the water above the leaf itself, keeping water from contacting the leaf surface proper. This is important because the surface proper is not necessarily covered in the same hydrophobic wax as the hairs, and thus water could “stick” to this surface if it came in contact with it.\n\nAs the hydrophobic properties of the leaves direct water downward to the plant’s center, a pool forms, acting as a water reserve of dissolved nutrients.\n\nThis summary was contributed by Ashley Meyers.\n\nBromeliads\n\nBromeliads capture water and spawn a small community whose collective roles lead to nutrient supply for the epiphytic plants.",
+  "function_addressed": [
+    "distribute liquids",
+    "store liquids",
+    "capture, absorb, or filter liquids",
+    "capture, absorb, or filter chemical entities",
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-capture-water-2/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "capture",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

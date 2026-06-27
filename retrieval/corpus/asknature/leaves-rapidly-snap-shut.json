@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-leaves-rapidly-snap-shut",
+  "organism_common": "Venus flytrap",
+  "organism_scientific": "",
+  "strategy_summary": "The leaves of the Venus flytrap snap shut and trap prey within milliseconds by turning physical signals into electrical signals. Carnivorous plants, such as the Venus flytrap ( Dionaea muscipula ), rely on nutrients from small prey animals when growing in nutrient-poor soil.",
+  "mechanism": "The leaves of the Venus flytrap snap shut and trap prey within milliseconds by turning physical signals into electrical signals.\n\nCarnivorous plants, such as the Venus flytrap ( Dionaea muscipula ), rely on nutrients from small prey animals when growing in nutrient-poor soil. When an unsuspecting prey brushes up against two touch-sensitive hairs on the inside of the trap-shaped leaves, the trap snaps shut, ensnaring the prey for later digestion.\n\nThe touch-sensitive hairs, known as trigger hairs, signal trap closure using sodium-activated action potentials (APs). An action potential is a way for cells to send information to one another in the form of an electrical signal. It occurs when positively charged ions, such as sodium, enter a cell and cause the electrical environment of the cell membrane to change until it reaches a certain threshold. After it reaches this threshold the cell “fires,” sending the electrical signal to another cell to activate a response.\n\nIn the case of the Venus flytrap, the two trigger hairs send a signal to the leaves to snap shut. Physical stimulation of one hair releases sodium ions into the hair cell, triggering the first action potential. Stimulating a second hair will release more sodium ions, triggering a second AP. Once two APs are elicited within 15-20 seconds of each other, these electrical signals stimulate motor cells in the leaves to snap the trap shut. This signal is incredibly fast, and the trap snaps shut within 100 ms of the triggering of the second hair.\n\nOnce the prey is captured it struggles to escape, continuously brushing more trigger hairs that fire more action potentials. These signals are sent to glands that line the leaves, which release enzymes to digest the prey. The prey is loaded with essential nutrients, including sodium, and its digestion provides a source of new sodium ions to trigger the next action potential to capture the plant’s next victim.\n\nTo learn more about how the Venus flytrap’s leaves power movement, check out this related strategy .\n\nThis strategy was contributed by Alexandra Ralevski .\n\nOpen Venus flytrap\n\nVenus flytrap with open trap displaying trigger hairs\n\nVenus flytrap captures prey\n\nA dionea muscipula has just caught a wasp.\n\nDigested fly in a Dionea muscipula trap\n\nVenus flytrap\n\nStretched leaves of the Venus flytrap power rapid trap closure by storing mechanical energy.",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "sense touch and mechanical forces in a living system"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-rapidly-snap-shut/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "rapidly",
+    "snap",
+    "shut"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

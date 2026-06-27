@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-antenna-provides-selective-hearing",
+  "organism_common": "Sense Sound and Other Vibrations From the Environment",
+  "organism_scientific": "",
+  "strategy_summary": "The antenna of a fruit fly is used for selective hearing thanks to its multi-part, swiveling structure. “The fly Drosophila melanogaster has very small hearing organs each of which consists of 3 antennal segments and a feather-like arista.",
+  "mechanism": "The antenna of a fruit fly is used for selective hearing thanks to its multi-part, swiveling structure.\n\n“The fly Drosophila melanogaster has very small hearing organs each of which consists of 3 antennal segments and a feather-like arista. These parts constitute together the sound receiver. When a desired sound is heard, the arista rotates one of the antennas and penetrates a hook into the second antenna (the internal one) and stretches the auditory receptors. At such conditions the auditory receptors can function and enable hearing. Otherwise the Drosophila melanogaster hearing is prevented.” (Collins 2004:170)",
+  "function_addressed": [
+    "sense sound and other vibrations from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/antenna-provides-selective-hearing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "antenna",
+    "provides",
+    "selective",
+    "hearing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

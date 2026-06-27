@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-hairs-wick-liquid",
+  "organism_common": "African crested rat",
+  "organism_scientific": "",
+  "strategy_summary": "Fur keeps mammals warm, dry, camouflaged, recognizable to social relations, and attractive to mates. But it can also take on other properties.",
+  "mechanism": "After gnawing on the roots of poison arrow trees, these little mammals spread their now highly toxic saliva into their fur. A band of specialized hairs along their backs rapidly absorb this defensive substance, poising it to be absorbed by the mouths of would-be predators.\n\nEach of the hairs is made up of a cylindrical shaft with numerous irregular holes along its surface that allow the toxins in. Inside these shafts lie many fibrils that extend the entire length of the hair, creating a network that enhances the capillary forces responsible for drawing the liquid through the structure.\n\nBy studying the structure and function of these hairs, we can gain valuable insights into how to design more efficient and effective systems for the absorption, wicking, and distribution of liquids in various industries.\n\nIn the medical field, they could inspire the development of new drug delivery methods, as well as more advanced wound dressings and bandages. In the field of agriculture, they could be used to improve irrigation systems and water distribution among crops. They could even be applied in the textile industry to create fabrics with enhanced absorption and wicking capabilities.",
+  "function_addressed": [
+    "distribute liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hairs-wick-liquid/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hairs",
+    "wick",
+    "liquid"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

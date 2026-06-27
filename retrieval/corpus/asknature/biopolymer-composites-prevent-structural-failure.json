@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-biopolymer-composites-prevent-structural-failure",
+  "organism_common": "Bottle brush coral",
+  "organism_scientific": "",
+  "strategy_summary": "Biopolymer composites in the exterior shell of the black coral are strong and hard due to weakly bonded chitin strands with strongly crosslinked proteins. Black corals produce the hard structural framework of their colonies by making strands of chitin – a carbohydrate polymer .",
+  "mechanism": "Biopolymer composites in the exterior shell of the black coral are strong and hard due to weakly bonded chitin strands with strongly crosslinked proteins.\n\nBlack corals produce the hard structural framework of their colonies by making strands of chitin – a carbohydrate polymer . Each strand is attached to adjacent strands via numerous weak bonds (hydrogen bonds) producing a strong foundation onto which protein s attach. These proteins crosslink with each other via very strong (covalent) bonds which hardens the composite material. Different species of black coral are able to tailor the strength, density, and flexibility of this chitin-protein composite material to their own specific needs by varying the degree of inter-strand hydrogen bonding and (presumably) the protein crosslinking compounds.",
+  "function_addressed": [
+    "manage impact",
+    "chemically assemble polymers",
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/biopolymer-composites-prevent-structural-failure/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "biopolymer",
+    "composites",
+    "prevent",
+    "structural",
+    "failure"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

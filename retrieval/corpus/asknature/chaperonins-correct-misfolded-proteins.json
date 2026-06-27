@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-chaperonins-correct-misfolded-proteins",
+  "organism_common": "Humans",
+  "organism_scientific": "",
+  "strategy_summary": "Chaparonins in human cells rehabilitate misfolded proteins by capturing them in confined spaces causing them to unfold, giving them a second chance at refolding into their properly functioning, three-dimensional configuration. Protein s perform the vast majority of biochemical “jobs” necessary for the cell’s survival…",
+  "mechanism": "Chaparonins in human cells rehabilitate misfolded proteins by capturing them in confined spaces causing them to unfold, giving them a second chance at refolding into their properly functioning, three-dimensional configuration.\n\nProtein s perform the vast majority of biochemical “jobs” necessary for the cell’s survival, growth, reproduction, communication, etc. – correct functionality is dependent on each protein’s very precise three-dimensionally folded structure called the “native” state. Newly synthesized proteins self-assemble into their native state based on the interaction of different parts of these large molecules. Oppositely charged areas move towards each other, while similarly charged areas repel; polar areas migrate towards the watery exterior, while hydrophobic areas aggregate towards the interior. Short range van der Waals forces and hydrogen bonds also contribute to forming the spirals, sheets, and pleats that characterize a properly folded protein molecule. But sometimes, the folding process goes awry resulting in a misfolded protein that at best is a waste of cellular resources, or at worse, a cause of disease. Chaparonins are cellular devices that relax misfolded proteins giving them a second chance at proper folding.\n\nChaperonins: Sometimes ribosomes (A) stitch together amino acids into useless forms (B). These can be taken up by the chaperonins (C), which unravel the useless forms and put them back out into the cell to be assembled into the useful native protein state (E). Artist: Emily Harrington. All rights reserved.",
+  "function_addressed": [
+    "modify size/shape/mass/volume",
+    "regulate cellular processes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/chaperonins-correct-misfolded-proteins/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "chaperonins",
+    "correct",
+    "misfolded",
+    "proteins"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

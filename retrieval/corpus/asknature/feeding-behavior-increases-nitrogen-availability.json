@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-feeding-behavior-increases-nitrogen-availability",
+  "organism_common": "Nematodes",
+  "organism_scientific": "",
+  "strategy_summary": "The feeding behavior of nematodes increases nitrogen availability to plants because they prey on nitrogen-hoarding bacteria and excrete excess nitrogen in a form plants can use. “What good are nematodes?",
+  "mechanism": "The feeding behavior of nematodes increases nitrogen availability to plants because they prey on nitrogen-hoarding bacteria and excrete excess nitrogen in a form plants can use.\n\n“What good are nematodes? Thanks to microcosm studies [small-scale replicas of ecosystems with only certain types of organisms added to sterilized soil], scientists now know that these tiny grazers may be responsible for 30 percent or more of the nitrogen released to plants, useful work that has traditionally been attributed solely to the labors of bacteria and fungi. Russell Ingham and others then in the lab of David Coleman at Colorado State University found that bacteria thrived in larger numbers when they were placed in a microcosm of grassland soils with their nematode predator. Blue grama grass grew faster, too, and initially took up more nitrogen when the nematodes were at work below. It turns out that bacterial cells contain more nitrogen than nematodes can use, so the feasting nematodes excrete a lot of it as ammonium wastes. Both the surviving bacteria and the plants clearly benefit from this extra nitrogen source. Similar results have been found in other soil types, from those of the forests of Sweden to those nourishing winter wheat fields in The Netherlands. For instance, wheat grown where both bacteria and bacteria-grazing protozoa were active grew significantly better than in soils only bacteria present. Of course, in the real world, the action never involves just two interacting types of soil creatures, but rather a whole web of predators and prey.” (Baskin 1997:111-112)\n\nNematodes\n\nApplying pheromones to nematodes turns them into the ultimate natural pesticide, drastically increasing destruction of insects",
+  "function_addressed": [
+    "cycle nutrients"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/feeding-behavior-increases-nitrogen-availability/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "feeding",
+    "behavior",
+    "increases",
+    "nitrogen",
+    "availability"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

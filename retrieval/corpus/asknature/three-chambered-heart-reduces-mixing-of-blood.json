@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-three-chambered-heart-reduces-mixing-of-blood",
+  "organism_common": "Frogs and toads",
+  "organism_scientific": "",
+  "strategy_summary": "The three-chambered heart of frogs reduces mixing of oxygenated and unoxygenated blood because of the separation of atrial inflow and outflow. “Although anurans have a three-chambered heart, little mixing of oxygenated and unoxygenated blood occurs because of the separation of atrial inflow and outflow.” (Fowler and…",
+  "mechanism": "The three-chambered heart of frogs reduces mixing of oxygenated and unoxygenated blood because of the separation of atrial inflow and outflow.\n\n“Although anurans have a three-chambered heart, little mixing of oxygenated and unoxygenated blood occurs because of the separation of atrial inflow and outflow.” (Fowler and Miller 2003:22)",
+  "function_addressed": [
+    "distribute liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/three-chambered-heart-reduces-mixing-of-blood/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "three-chambered",
+    "heart",
+    "reduces",
+    "mixing",
+    "blood"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

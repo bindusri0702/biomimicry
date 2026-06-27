@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-intricate-relationship-allows-the-other-to-flourish",
+  "organism_common": "Clownfish",
+  "organism_scientific": "",
+  "strategy_summary": "Of the more than 1,000 anemone species that live in the ocean, only 10 species coexist with the 26 species of tropical clownfish. Within these species, only select pairs of anemone and clownfish are compatible.",
+  "mechanism": "In order to live among the anemone, clownfish protect themselves from nematocyst strikes. Nematocysts are harpoon-like stingers on the anemone’s tentacles used to capture prey and ward off predators. While other fish approach the anemone as a potential food source, the clownfish doesn’t even try to eat the nutrient-rich tentacles. This avoids triggering an attack from the anemone.\n\nThe clownfish mucus layer could inspire coatings that protect humans underwater from punctures, scrapes, and stings. But perhaps more importantly, studying the relationships between organisms that rely on one another reminds us that a single strategy isn’t always the most effective. Like nature, much of science relies on incremental discoveries that together lead to innovation. Each scientist shares information and data that can be used by others to advance their own research and add to the overall body of human knowledge.\n\nThis summary was contributed by Allie Miller.",
+  "function_addressed": [
+    "cycle nutrients",
+    "cooperate/compete between different species",
+    "coordinate systems",
+    "coevolve",
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/intricate-relationship-allows-the-other-to-flourish/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "clownfish",
+    "sea",
+    "anemone",
+    "each",
+    "other"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

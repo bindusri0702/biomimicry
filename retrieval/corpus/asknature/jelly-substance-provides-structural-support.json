@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-jelly-substance-provides-structural-support",
+  "organism_common": "Jellyfish",
+  "organism_scientific": "",
+  "strategy_summary": "The composite mesoglea of jellyfish and sea anemones provides structural support using collagen fibers in a complex gel matrix. “Then there’s the jelly of jellyfish and sea anemones (mesoglea), made up of sparse collagen fibers in a complex gel matrix.” (Vogel 2003:305)",
+  "mechanism": "The composite mesoglea of jellyfish and sea anemones provides structural support using collagen fibers in a complex gel matrix.\n\n“Then there’s the jelly of jellyfish and sea anemones (mesoglea), made up of sparse collagen fibers in a complex gel matrix.” (Vogel 2003:305)",
+  "function_addressed": [
+    "manage compression"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/jelly-substance-provides-structural-support/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "jelly",
+    "substance",
+    "provides",
+    "structural",
+    "support"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

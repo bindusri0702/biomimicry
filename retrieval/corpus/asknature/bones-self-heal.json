@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-bones-self-heal",
+  "organism_common": "Vertebrates (Mammals, Fish, Birds, Reptiles)",
+  "organism_scientific": "",
+  "strategy_summary": "One stark difference between the things humans make and the things the rest of nature makes is that when something we make breaks, it doesn’t fix itself. Break a bone, though, and it begins to heal almost immediately.",
+  "mechanism": "Within a couple hours of a bone breaking, a blood clot containing special immune cells known as phagocytes (“cells that eat” in Greek) forms around the break. The phagocytes clear out bone fragments and any unwanted microbes that are trespassing at the site. Next, a soft callus develops, made of collagen––the same material that keeps your skin supple. Cells called osteocytes (simply meaning “bone cells”) seem to coordinate the behavior of two other kinds of cells, the osteoblasts (“bone builders”) and osteoclasts (“bone removers”).\n\nLong filaments emanating from the cell body of the osteocyte mechanically sense changes to the bone’s structure, and signal osteoblasts to begin construction. The osteoblasts work in groups to deposit calcium-and-phosphate crystals into the soft collagen callus, hardening the substance into new bone tissue. Finally, osteoclast cells perform the clean-up, removing any unwanted bone around the fracture site until the repaired bone assumes a shape similar to its appearance before injury.\n\nThe idea of self-healing has inspired humans to completely reimagine the things we make and the way we make them. Imagine, for example, bridges that could fix developing microfractures before they became larger cracks and eventually sacrificed the bridge’s integrity. Materials scientists have developed models of self-healing concrete that do just this, filling the matrix with tiny repair kits ready to release their contents to fill developing cracks. Bridges built this way would be safer, last longer, and could reduce the vast amounts of material people use for infrastructure.\n\nConcrete robots may seem impractical initially, but think of advanced ceramics and the applications they have had. There could also be self-healing metallic alloys, perhaps incorporating solder particles that could be activated with targeted application of light, heat, or electrical current. Additionally, self-healing materials wouldn’t need to be used for the entirety of a machine, but could be used in smaller pieces at strategically significant points in the structure.\n\nAnd what about the idea of embedded, living repair teams in our constructions? Microscopic organisms could one day lead not only to self-healing structures, but self-improving ones, applying nature’s deep responsiveness to laws of physics and geometry we still have yet to learn ourselves.",
+  "function_addressed": [
+    "optimize shape/materials",
+    "manage shear",
+    "manage compression",
+    "manage tension",
+    "manage impact"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bones-self-heal/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bones",
+    "heal",
+    "themselves"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

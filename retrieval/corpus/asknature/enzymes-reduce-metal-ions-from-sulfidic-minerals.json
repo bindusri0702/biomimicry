@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-enzymes-reduce-metal-ions-from-sulfidic-minerals",
+  "organism_common": "Metallosphaera sedula",
+  "organism_scientific": "",
+  "strategy_summary": "Enzymes produced by Metallosphaera sedula catalyze the reduction of metal ions from metal sulfates, sulfites, and sulfides to produce the elemental form of the metals. Metallosphaera sedula is a strain of single-celled microorganisms that thrive even under conditions of extreme heat and acidity.",
+  "mechanism": "Enzymes produced by Metallosphaera sedula catalyze the reduction of metal ions from metal sulfates, sulfites, and sulfides to produce the elemental form of the metals.\n\nMetallosphaera sedula is a strain of single-celled microorganisms that thrive even under conditions of extreme heat and acidity. As part of their metabolism, these “extremophiles” produce enzymes that alter the state of metal-sulfur compounds, such as iron sulfide, present in their environment. The result is the elemental form of the metal – the same form that is useful for human applications.",
+  "function_addressed": [
+    "chemically generate flow of electrons (redox)",
+    "modify oxidation state",
+    "modify electron transport"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/enzymes-reduce-metal-ions-from-sulfidic-minerals/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "enzymes",
+    "reduce",
+    "metal",
+    "ions",
+    "sulfidic",
+    "minerals"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

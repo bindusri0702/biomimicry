@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-pit-and-mound-topography-fosters-biodiversity",
+  "organism_common": "Douglas fir forests",
+  "organism_scientific": "",
+  "strategy_summary": "The pit-and-mound surface microtopography of the forest floor in Douglas fir forests helps create and maintain diversity by creating microhabitats. “When you look closely at the surface of the forest floor, it becomes apparent that there is no such thing as a smooth slope.",
+  "mechanism": "The pit-and-mound surface microtopography of the forest floor in Douglas fir forests helps create and maintain diversity by creating microhabitats.\n\n“When you look closely at the surface of the forest floor, it becomes apparent that there is no such thing as a smooth slope. The forest floor is roughened by the scattered pieces and stumps of collapsed snags and by whole fallen trees, their uprooted butts, and the pits and mounds left after their uprooting. Living trees roughen the surface of the forest floor by sending roots outward along slopes, often near the litter layer. Tree trunks also distort the surface by sloughing bark and by arresting creeping soil at their bases … Of all of the factors that affect the soil of the forest near the spring, surface microtopography, particularly the pit-and-mound topography, is the most striking. The effects of this topography have a major influence on creating and maintaining species richness of the herbaceous understory and on the success of tree regeneration. Pit-and-mound topography, for example, has been, is, and will be a major factor in mixing the soil of the forest floor as the forest evolves through time.” (Maser 1989:95)",
+  "function_addressed": [
+    "manage disturbance in a community",
+    "maintain biodiversity"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pit-and-mound-topography-fosters-biodiversity/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pit-and-mound",
+    "topography",
+    "fosters",
+    "biodiversity"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

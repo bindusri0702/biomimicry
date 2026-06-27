@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-moving-in-tune-with-body-size",
+  "organism_common": "Penicillate jellyfish",
+  "organism_scientific": "",
+  "strategy_summary": "The bell of the penicillate jellyfish increases amplitude of movement by 40% and decreases energy use by around 25% by moving at resonant frequency to body size. “The bell of the hydromedusan jellyfish Polyorchis penicillatus (Eschscholtz, 1829) was modelled as a harmonically forced, damped oscillator.",
+  "mechanism": "The bell of the penicillate jellyfish increases amplitude of movement by 40% and decreases energy use by around 25% by moving at resonant frequency to body size.\n\n“The bell of the hydromedusan jellyfish Polyorchis penicillatus (Eschscholtz, 1829) was modelled as a harmonically forced, damped oscillator. The robustness of the model was tested and verified by comparing estimates of the work done during the contraction phase predicted by the model with analogous values measured in completely independent experiments. Data suggest that the animals swim at a frequency that is at or near the resonant frequency of the locomotor apparatus. The implications of this phenomenon for the mechanics and physiology of the system are discussed. If the swimming muscles force the bell at its resonant frequency, as opposed to a single contraction at the same rate of deformation, the amplitude of the oscillation will be increased by about 40%, and the energetic requirement for the cycle will be reduced by about 24-37% of the total cost of the cycle. The advantages of forcing the structure at its resonant frequency seem quite remarkable.” (DeMont and Gosline 1988:347)",
+  "function_addressed": [
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/moving-in-tune-with-body-size/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "moving",
+    "tune",
+    "body",
+    "size"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

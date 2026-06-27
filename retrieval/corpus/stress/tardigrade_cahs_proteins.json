@@ -1,0 +1,17 @@
+{
+  "doc_id": "asn-tardigrade-cahs-proteins",
+  "organism_common": "Tardigrade (water bear)",
+  "organism_scientific": "Ramazzottius varieornatus",
+  "strategy_summary": "Tardigrades survive near-complete drying and wide temperature extremes by protecting their cellular machinery with specialized proteins, entering a suspended state and recovering intact when conditions improve.",
+  "mechanism": "Intrinsically disordered cytoplasmic-abundant heat-soluble (CAHS) proteins vitrify as water is lost, forming a glass-like matrix that immobilizes and shields proteins and membranes through hydrogen-bond replacement. This molecular gel prevents denaturation and aggregation during desiccation and thermal stress.",
+  "function_addressed": ["maintain integrity", "protect from non-living threats", "tolerate temperature stress"],
+  "environment": "thermally variable and water-scarce microhabitats",
+  "taxon": "Animalia/Tardigrada",
+  "scale": "molecular",
+  "source_url": "https://asknature.org/strategy/proteins-protect-cells-during-desiccation/",
+  "source_tier": "peer_reviewed",
+  "keywords": ["vitrification", "disordered proteins", "desiccation tolerance", "thermal tolerance", "protein stabilization"],
+  "is_usual_suspect": false,
+  "popularity": 0.25,
+  "provenance": "synthetic"
+}

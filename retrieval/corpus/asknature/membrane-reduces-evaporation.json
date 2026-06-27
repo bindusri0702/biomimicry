@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-membrane-reduces-evaporation",
+  "organism_common": "Snails and slugs",
+  "organism_scientific": "",
+  "strategy_summary": "A secreted mucus membrane across the opening of the shells of some land snails protects them from drying out by reducing evaporation. “And certain land snails, particularly desert dwellers, seal themselves inside their shells to avoid desiccation in dry conditions, secreting a special membrane across their shells’…",
+  "mechanism": "A secreted mucus membrane across the opening of the shells of some land snails protects them from drying out by reducing evaporation.\n\n“And certain land snails, particularly desert dwellers, seal themselves inside their shells to avoid desiccation in dry conditions, secreting a special membrane across their shells’ opening that reduces evaporation; they can remain encased for years if need be until rain returns.” (Shuker 2001:105)",
+  "function_addressed": [
+    "protect from loss of liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/membrane-reduces-evaporation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "membrane",
+    "reduces",
+    "evaporation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

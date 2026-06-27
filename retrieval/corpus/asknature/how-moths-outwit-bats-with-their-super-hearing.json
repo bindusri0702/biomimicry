@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-how-moths-outwit-bats-with-their-super-hearing",
+  "organism_common": "Moths",
+  "organism_scientific": "",
+  "strategy_summary": "Almost all species on Earth fall into the category of predator or prey–some fall into both. A battle of wits determines who wins: the one who needs to eat or the one who needs to not be eaten.",
+  "mechanism": "Bats inadvertently warn moths of their approach through their very efforts to locate their prey. They get the information they need about their prey’s location from how and when their biosonar signals are echoed back to them after hitting their target. Moths can successfully avoid oncoming bats in the dark by hearing their chirps before the echoes bounce off the moths and return to the bats.\n\nLow-frequency sound signals are detected by a moth’s receptor hairs, while the tympanal organs detect high-frequency signals. As such, the ultrasonic frequencies of bat biosonar, ranging from 20 to 200 kHz, are detected with the tympanal organs, found in various locations on the body, depending on the family. Most moths can only detect frequencies that cover a portion of the bat’s biosonar range (20 to 50 kHz), but some moths can hear frequencies of over 200 kHz.\n\nSimilar to timpani in an orchestra, the tympanal organs consist of a membrane covering an air sac. The sac in turn is attached to sensory cells that translate the vibrations into a neural signal, which is then processed and triggers the appropriate behavioral response. Tympanal organs are so useful that they have evolved independently across multiple families of moths.\n\nThis kind of frequency-targeted, distributed sound detection could be useful for medical devices such as hearing aids. It could also be useful for sensor development in general, improving security systems on property, collision avoidance for vehicles, or wildlife monitoring.",
+  "function_addressed": [
+    "respond to signals",
+    "sense sound and other vibrations from the environment",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/how-moths-outwit-bats-with-their-super-hearing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "moths",
+    "outwit",
+    "bats",
+    "super",
+    "hearing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

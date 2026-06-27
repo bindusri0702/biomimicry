@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-interaction-with-adults-leads-to-faster-nest-building",
+  "organism_common": "Zebra finch",
+  "organism_scientific": "",
+  "strategy_summary": "In 1867, the famous naturalist Alfred Russel Wallace wrote, “Birds, we are told, build their nests by instinct , while man constructs his dwelling by the exercise of reason .” His own observations of nature led him to completely disagree. His essay, “ The Philosophy of Birds’ Nests ,” kicked off a 150-year-long debate…",
+  "mechanism": "Why do speed and construction materials matter so much? Building a nest is key to their ability to reproduce. “For many birds, they really get one shot, maybe two, at building a nest,” Breen said. She added that evidence in other bird species links rapid nest-making to breeding success and prosperity later in life. In other words, building a good nest quickly might just be a matter of life and death for the next generation.\n\nBreen said that understanding the learning and cultural processes that zebra finches use to build nests may help us understand how other animals come to use tools and technology and may even provide clues into our own evolution.\n\nWhile Wallace may have been right that instinct doesn’t dictate how birds build nests, it appears he was mistaken about what he thought mattered most—imitation. Breen’s results demonstrate that the mere presence of an adult was more important than the experience gained either through handling material themselves or from watching adults use it. She said that result went against the assumption that birds need a lot of demonstration to use tools. “It looks like if they need some, they don’t need much.”",
+  "function_addressed": [
+    "physically assemble structure",
+    "self-replicate"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/interaction-with-adults-leads-to-faster-nest-building/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "interaction",
+    "adults",
+    "leads",
+    "faster",
+    "nest",
+    "building"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

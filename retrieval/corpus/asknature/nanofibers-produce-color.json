@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-nanofibers-produce-color",
+  "organism_common": "Blue penguin",
+  "organism_scientific": "",
+  "strategy_summary": "Blue penguins ( Eudyptula minor ), the smallest members of the penguin family, are distinguished by their striking blue feathers. Unlike typical bird coloration that often relies on pigments, the blue penguin utilizes a unique approach involving β-keratin nanofibers.",
+  "mechanism": "The blue coloration in penguin feathers arises from the structural arrangement of β-keratin nanofibers, which are organized into two-dimensional arrays. These arrays are densely packed within the feather barbs, creating a structure capable of coherently scattering light. In short, the precise order of these fibers at the nano scale allows them to produce their vibrant blue hue through light scattering rather than through pigment deposition.\n\nTo study these structures, researchers used synchrotron small-angle X-ray scattering (SAXS) and two-dimensional Fourier analysis of electron micrographs. These techniques revealed that the β-keratin nanofibers are organized at the precise size scale needed to produce the observed blue color. The arrangement of these fibers allows for short-range order, which is sufficient to scatter light coherently without producing iridescence, meaning the color does not change with the angle of view.\n\nThe β-keratin nanofibers self-assemble within the feather barbs through a process likely driven by phase separation. Phase separation is a phenomenon where different components of a mixture segregate into distinct regions. In the case of the blue penguin feathers, the β-keratin molecules likely undergo polymerization, forming nanofibers that then organize into the observed quasi-ordered structure. This self-assembly process is similar to how certain polymer s form nanoscale structures under various physical conditions.\n\nThe discovery of this new class of β-keratin nanostructures in blue penguin feathers adds a significant new mechanism to the known methods of color production in birds. It also shows evolutionary convergence, as similar nanostructures have been found in the skin of other birds and mammals, indicating that different species have independently evolved similar solutions for producing non-iridescent structural colors.\n\nThis nanostructural arrangement is similar to that found in other natural systems, such as the collagen fibers in non-iridescent skins of certain birds and mammals. However, it represents a novel structural morphology for feather color production, suggesting an evolutionary convergence towards optimizing structural colors in nature without reliance on pigments.\n\nThe discovery of β-keratin nanofibers in blue penguin feathers offers inspiration for biomimetic technologies. The ability of these nanostructures to scatter light effectively can be mimicked when creating new materials, such as in the development of paints or textiles. Photonic structures and nanofibers can also contribute to the advancement of electronic, and even biomedical innovations.\n\nMoreover, the self-assembly properties of β-keratin fibers could inspire innovative approaches in nanofabrication. Understanding how these structures organize themselves could lead to new methods in material sciences, particularly in designing lightweight, durable materials for use in a variety of industries.",
+  "function_addressed": [
+    "modify light/color",
+    "send light signals in the visible spectrum"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nanofibers-produce-color/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "nanofibers",
+    "produce",
+    "color"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

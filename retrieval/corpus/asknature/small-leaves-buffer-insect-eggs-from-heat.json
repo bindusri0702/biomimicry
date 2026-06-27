@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-small-leaves-buffer-insect-eggs-from-heat",
+  "organism_common": "Sacred datura",
+  "organism_scientific": "",
+  "strategy_summary": "When people overheat, we perspire. The sweat absorbs heat energy from our bodies, converts from a liquid to a gas, and transfers that energy into the air as it rises, cooling us off.",
+  "mechanism": "A recent study at the University of Arizona showed that transpiration in the sacred datura plant cools smaller leaves more than larger leaves. This makes them better at protecting the eggs which, unlike plants and humans, have no way to regulate their own temperatures.\n\nHeat stimulates transpiration, so it has the largest effect during the hottest part of the day. This is also the time when insect eggs are most at risk of scorching in the sun. During peak afternoon temperatures, the study found that leaves of all sizes were generally cooler than the ambient air. However, the small leaves, with lengths of about two inches, were on average 5.4 °F cooler than large leaves having lengths of about four inches.\n\nThe reason smaller leaves are cooler is that they transpire faster. Why? Because of something called a boundary layer.\n\nBoundary layers are important when designing planes for the pressure differential that gives a wing lift. But what could be done if we engaged their thermal properties? Could we learn to keep buildings inherently cooler or to lower the energy that electronics use to stay cool in hot environments?",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/small-leaves-buffer-insect-eggs-from-heat/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "small",
+    "leaves",
+    "buffer",
+    "insect",
+    "eggs",
+    "heat"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

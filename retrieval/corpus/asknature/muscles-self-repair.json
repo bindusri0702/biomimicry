@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-muscles-self-repair",
+  "organism_common": "Humans",
+  "organism_scientific": "",
+  "strategy_summary": "Muscles of humans go through self-repair and remodeling due to a modular system that incorporates nutrient and waste transport. “The ability to adapt in response to changes in functional demands sets living tissues apart from their engineered counterparts.",
+  "mechanism": "Muscles of humans go through self-repair and remodeling due to a modular system that incorporates nutrient and waste transport.\n\n“The ability to adapt in response to changes in functional demands sets living tissues apart from their engineered counterparts. Muscles grow during development, they remodel in response to use and disuse, and they are able to repair themselves after an injury…The modular design of muscle also facilitates the remodeling and repair of the muscle. The selfhealing properties of muscle emerge from the integration of muscles into a system that allows wound healing and continuous turnover via transport of nutrients and removal of waste products. It is arguably much simpler to grow and repair individual units than having to adapt the entire structure.” (Bar-Cohen 2006:50-52)",
+  "function_addressed": [
+    "regulate cellular processes",
+    "regulate reproduction or growth"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/muscles-self-repair/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "muscles",
+    "self-repair"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

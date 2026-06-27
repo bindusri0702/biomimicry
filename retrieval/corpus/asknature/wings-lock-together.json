@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-wings-lock-together",
+  "organism_common": "Darkling beetles",
+  "organism_scientific": "",
+  "strategy_summary": "Wings of darkling beetles lock to prevent lateral movement due to interlocking hairs on the forewing surface and the body. A team of researchers led by Stanislav Gorb studied the frictional surfaces of the forewing-to-body locking mechanism in tenebrionid beetles.",
+  "mechanism": "Wings of darkling beetles lock to prevent lateral movement due to interlocking hairs on the forewing surface and the body.\n\nA team of researchers led by Stanislav Gorb studied the frictional surfaces of the forewing-to-body locking mechanism in tenebrionid beetles. They observed that, in beetles, the system responsible for fixing forewings (elytra) to the body consists of 1) several macrostructures located between thorax and body and between the right and left elytra, and 2) interlocking fields of cuticle protuberances known as microtrichia. The team focused on the latter, defining the microtrichia of 13 fields in terms of length, width, density, and directionality. The team found that microtrichia of different fields varied in length, width, and shape. Microtrichia of a single field were usually oriented in one direction; this appeared to prevent shifting while the locking mechanism was employed. Epidermal secretions were thought to aid microtrichia in sliding during locking and unlocking of the two surfaces. (Courtesy of the Biomimicry Guild)\n\nShows the structure of the microtrichia (MT) of a tenebrionid beetle.",
+  "function_addressed": [
+    "manage shear"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/wings-lock-together/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "wings",
+    "lock",
+    "together"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

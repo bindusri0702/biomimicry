@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-combustion-chamber-sprays-scalding-liquid",
+  "organism_common": "Contracted bombing beetle",
+  "organism_scientific": "",
+  "strategy_summary": "The combustion chamber of the bombardier beetle ejects scalding liquid by having a heart-shaped, long, narrow ejection tube. “The aim of the study is to show the advantages of the naturally occurring design and identify the main parameters important for the high efficiency discharge.",
+  "mechanism": "The combustion chamber of the bombardier beetle ejects scalding liquid by having a heart-shaped, long, narrow ejection tube.\n\n“The aim of the study is to show the advantages of the naturally occurring design and identify the main parameters important for the high efficiency discharge. The results indicate that this rather unusual design of beetle combustion chamber does indeed have better performance in term of efficiency of mass ejection. This is primarily due to the heart shaped combustor combined with a long narrow ejection tube…The results support the idea of a possible practical use for pilot ignition systems, such as re-igniters in aircraft gas turbines and automotive safety air bag ignition devices.” (Collins 2004:227)\n\nLund University\n\nInjector from Lund University uses a novel spray design to reduce diesel pollution without losing engine efficiency.",
+  "function_addressed": [
+    "expel liquids",
+    "transform thermal energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/combustion-chamber-sprays-scalding-liquid/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "combustion",
+    "chamber",
+    "sprays",
+    "scalding",
+    "liquid"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

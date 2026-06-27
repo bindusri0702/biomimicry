@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-maggot-skin-strengthens-as-it-dries",
+  "organism_common": "Blow fly",
+  "organism_scientific": "",
+  "strategy_summary": "Skin of blowfly maggots grows more waterproof as it dries because it forms strong, stable, cooperative structures when water is reduced. Image: Dan Leiberman / Hidden Wonders / toggle icon Image: Dan Leiberman / Hidden Wonders / toggle icon right arrow right arrow  “The cuticle of a maggot goes through a mechanical…",
+  "mechanism": "Skin of blowfly maggots grows more waterproof as it dries because it forms strong, stable, cooperative structures when water is reduced.\n\nImage: Dan Leiberman / Hidden Wonders / toggle icon Image: Dan Leiberman / Hidden Wonders / toggle icon right arrow right arrow\n\n“The cuticle of a maggot goes through a mechanical transition when it dries, increasing in stiffness by about an order of magnitude (e.g. from 0.5 GPa to 5 GPa) as the water content drops from about 1 g/g (weight of water per unit dry weight) to 0.4 g/g. Thus stiffness represents the loss of freezable water and is more or less diagnostic of a material stabilized by hydrogen bonds. Further loss in water results in a smaller increase in stiffness. In natural systems the water content is controlled by the addition of phenolic residues, resulting in tanning or sclerotisation, which drives the matrix components towards co-operative interaction and makes the material permanently waterproof.” (Vincent 2004:4)",
+  "function_addressed": [
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/maggot-skin-strengthens-as-it-dries/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "maggot",
+    "skin",
+    "strengthens",
+    "dries"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

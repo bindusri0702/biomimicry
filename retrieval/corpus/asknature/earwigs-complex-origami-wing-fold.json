@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-earwigs-complex-origami-wing-fold",
+  "organism_common": "Earwigs",
+  "organism_scientific": "",
+  "strategy_summary": "Flying may be at the top of the list for desirable superpowers, but not many of us think of the incredible wings of humble earwigs (order Dermaptera ), common insects small enough to fit on a penny. Often referred to as “pincher bugs” in the U.S.",
+  "mechanism": "Usually neatly tucked away under leathery forewings, earwig wings spring into shape when needed for flight, expanding more than ten times larger than their folded size. They’re a prime example of a natural folding pattern optimized for both flying strength and flexibility.\n\nDespite their relatively large size, insect wings contain active muscles only where the wing attaches to the body. But this doesn’t detract from the wings’ ability to support the insect’s weight and maintain stability in the air.\n\nIn earwigs, the key is in the structure of the wing, which has evolved to quickly self-fold from the open to the closed state. Instead of using muscles, it is preprogrammed within the folding structure, using joints similar to, but more complex than, those found in the ancient Japanese craft of origami.\n\nShaped a bit like a folding fan, the wing is divided into a stiff outer and a more flexible inner region, with the leading edge supplying some stiffness from the base to the wing tip. This strong leading edge helps it bear aerodynamic loads. A critical central mechanism gives the wing the ability to snap from a stable folded state to a stable open state: when folded it takes the shape of convex and concave folds, whereas in the open state it becomes a concave pyramid, locking into place for flight and giving the open wing stability. The entire wing is curved slightly in the middle, allowing it to withstand higher bending forces than if it were completely flat.\n\nThe strength of such a flexible wing is due to the presence and distribution of resilin, a type of protein found in the joints, or creases. Resilin strengthens the wing along these joints, which provide both folding lines and flexion lines (lines along which the wing bends up or down during flight). The joints come in two forms: asymmetrical joints give the wing rotational spring, while symmetrical joints allow for greater extension or stretching.\n\nFlexible wings come with a number of benefits over rigid wings: earwigs can fly slowly, move at a wide range of speeds, and have a high level of maneuverability in the air. All this on top of their incredibly lightweight nature and ability to be tucked away for protection.\n\nEarwigs have the potential to revolutionize human design by demonstrating that delicate, lightweight materials can have incredible strength while still offering flexibility.\n\nEarwig wings have evolved a remarkable structure that simultaneously supports the folding process as well as flight, all controlled passively by stored energy within the structure itself. Using these mechanisms could inspire and improve human design on a range of materials, from everyday objects like self-collapsing maps and tents, to self-deploying crafts used for space exploration –it could really cause a whole new world to “open up.”",
+  "function_addressed": [
+    "optimize shape/materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/earwigs-complex-origami-wing-fold/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "earwigs",
+    "complex",
+    "origami",
+    "wing-fold"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

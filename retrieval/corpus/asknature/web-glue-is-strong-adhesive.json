@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-web-glue-is-strong-adhesive",
+  "organism_common": "Attach Permanently",
+  "organism_scientific": "",
+  "strategy_summary": "The web glue that coats silk threads of orb weaving spider webs has incredible adhesive strength thanks to glycoproteins. Related Content  “The various silks that make up the web of the orb web spiders have been studied extensively.",
+  "mechanism": "The web glue that coats silk threads of orb weaving spider webs has incredible adhesive strength thanks to glycoproteins.\n\nRelated Content\n\n“The various silks that make up the web of the orb web spiders have been studied extensively. However, success in prey capture depends as much on the web glue as on the fibers. Spider silk glue, which is considered one of the strongest and most effective biological glues, is an aqueous solution secreted from the orb weaving spider’s aggregate gland s and coats the spiral prey capturing threads of their webs. Studies identified the major component of the glue as microscopic nodules made of a glycoprotein . This study describes two newly discovered protein s that form the glue-glycoprotein of the golden orb weaving spider Nephila clavipes . Our results demonstrate that both proteins contain unique 110 amino acid repetitive domains that are encoded by opposite strands of the same DNA sequence. Thus, the genome of the spider encodes two distinct yet functionally related genes by using both strands of an identical DNA sequence. Moreover, the closest match for the nonrepetitive region of one of the proteins is chitin binding proteins. The web glue appears to have evolved a substantial level of sophistication matching that of the spider silk fibers.” (Choresh et al. 2009:2852)\n\n“Biological materials function in environments where seasonal and even daily changes in conditions have the potential to alter the properties and performance of these materials. This study is the first to examine how changes in environmental humidity affect the extensibility of droplets, which are responsible for the adhesion of viscous capture threads that are produced by over 4000 species of orb-weaving spiders in the Araneoidea clade. These threads form an orb web’s sticky prey capture spiral, which retains insects that strike the web, providing a spider with more time to locate and subdue their prey. Viscous threads are comprised of small, regularly spaced aqueous droplets that surround a pair of supporting axial fibers and are produced by a triad of spigots on each of a spider’s paired posterior spinnerets. The single flagelliform gland spigot of this triad produces an axial fiber and is flanked by two aggregate gland spigots, which coat this fiber with aqueous material. The coated axial fibers merge to form a contiguous pair of fibers surrounded initially by a sheath of viscous material. As a thread absorbs atmospheric moisture in the high humidity of the early morning hours, this material quickly condenses into a regular series of droplets whose size and spacing differ greatly among species.\n\n“The glycoprotein within each droplet that confers thread adhesion is encoded by two genes. The asg1 gene produces a 406-amino-acid protein, whose upstream region has a high proportion of charged amino acid s, which are considered hydrophilic, and its repeating downstream region is similar to mucin, known to have adhesive properties. The asg2 gene produces a 714-amino-acid protein, whose upstream region is similar to known chitin-binding proteins, adapting it to adhere to insect exoskeleton, whereas its repeating downstream region has high proline content that resembles that of elastin and flagelliform spider silk, making it elastic. This combination of features confers adhesion, extensibility and hygroscopicity to the glycoprotein–crucial and complementary properties in the context viscous thread performance.” (Opell et al. 2011:2988)\n\nhttp://pubs.acs.org/stoken/presspac/presspac/full/10.1021/bm900681w http://www.eurekalert.org/pub_releases/2009-10/acs-swg102109.php",
+  "function_addressed": [
+    "attach permanently",
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/web-glue-is-strong-adhesive/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "web",
+    "glue",
+    "strong",
+    "adhesive"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

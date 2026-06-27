@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-mucus-acts-as-sunscreen",
+  "organism_common": "Mushroom coral",
+  "organism_scientific": "",
+  "strategy_summary": "Mucus produced by mushroom corals may help protect them from ultraviolet light via several different mycosporine-like amino acids, UV-absorbing compounds. “The ultraviolet (UV)-absorbance spectrum (300 to 360 nm) of mucus obtained from Fungia fungites (L.",
+  "mechanism": "Mucus produced by mushroom corals may help protect them from ultraviolet light via several different mycosporine-like amino acids, UV-absorbing compounds.\n\n“The ultraviolet (UV)-absorbance spectrum (300 to 360 nm) of mucus obtained from Fungia fungites (L. 1758, collected in Tahiti in 1991) after being exposed to air for up to 5 min was measured, and UV-absorbing compounds were demonstrated to be present in the mucus, with a peak at 332 nm. The concentration of these UV-absorbing compounds was at a maximum in the first 2 min of secretion and decreased thereafter. Concentration was significantly related to the weight of the coral. Also, as corals were adapted to bathymetric levels of UV radiation, mucus concentration of UV-absorbing compounds decreased significantly with increasing depth.” (Drollet et al. 1993:263)\n\n“Surveillance of the bleaching events since 1992 has shown a parallel between coral bleaching and elevations of the sea-water temperature and UV–solar flux (Drollet et al. 1994, 1996) … a class of UV-absorbing compounds, preventing deleterious effects of high fluxes of UV-A (320 to 400 nm) and UV-B (280 to 320 nm) radiation, have been identified in many marine organisms. These compounds, mycosporine-like amino acids (MAAs), have absorption maxima in the range of 310–360 nm, corresponding to biologically harmful wavelengths of UV … it has been suggested that they also play this role for marine organisms such as corals (Scelfo 1985; Dunlap et al. 1989; Carreto et al. 1990). Moreover, when stressed, corals are known to produce mucus (Coffroth 1985). In the solitary coral Fungia fungites , the presence of UV-absorbing material in coral mucus was showed to be positively correlated with the solar flux (Drollet et al. 1993).” (Teai et al. 1998:127)\n\nhttp://www.publish.csiro.au.weblib.lib.umt.edu:8080/?act=view_file&file_id=MF97051.pdf http://www.springerlink.com.weblib.lib.umt.edu:8080/content/q53n880634347h86/?p=8c59bd88a7db4032bc45d4d3d0957482&pi=11",
+  "function_addressed": [
+    "protect from light"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mucus-acts-as-sunscreen/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mucus",
+    "acts",
+    "sunscreen"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

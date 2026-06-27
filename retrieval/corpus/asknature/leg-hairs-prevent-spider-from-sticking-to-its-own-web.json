@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-leg-hairs-prevent-spider-from-sticking-to-its-own-web",
+  "organism_common": "Physically Assemble Structure",
+  "organism_scientific": "",
+  "strategy_summary": "Leg hairs of orb-weaver spiders allow it to build its web without getting stuck. Some spiders capture their prey with the help of a sticky web.",
+  "mechanism": "Leg hairs of orb-weaver spiders allow it to build its web without getting stuck.\n\nSome spiders capture their prey with the help of a sticky web. Strands of web silk are coated in droplets of glue that stop insects that fly into the web from escaping. Once the web has been made, spiders walk slowly and carefully across it ensuring they only touch structural strands, which are not coated with glue. While they are building their webs, however, they have to touch the sticky strands to attach them to the scaffold. The glue is non-specific and strong, so how are spiders able to construct their webs without getting stuck?\n\nOrb weaver spiders’ legs are coated with hair-like structures called “setae”, which all point down towards the end of the leg. When a spider pushes down on a sticky strand, it doesn’t push down directly onto the strand, but past it, so the web strand slides along the surface of the leg. As it does this, the web line becomes snagged on the hairs, enabling the spider to direct the glue-coated silk down and force it to adhere to the structural strands. The hairs are branched, which stops strands from sliding all the way to the base of the hair, where they might contact the spider’s leg and become stuck.\n\nWhen the spider removes its leg, it pulls it up past the newly attached strand. Droplets of glue slide down the setae to the tips where, because the tips are so narrow and sharply pointed, they easily disengage.\n\nMany small adhesive forces combined create a strong adhesive force. Because the spiders’ leg hairs are randomly distributed, the sticky droplets slide off the ends one at a time, which prevents the forces combining to become too strong. In this way, the spider can manipulate sticky silk strands and position them while building its web, and then safely and easily pull its leg away afterwards.\n\nMagnified views of trichobothria reveal the density with which they can cover the spider's legs.\n\nRelated Content",
+  "function_addressed": [
+    "physically assemble structure",
+    "capture, absorb, or filter organisms",
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leg-hairs-prevent-spider-from-sticking-to-its-own-web/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leg",
+    "hairs",
+    "prevent",
+    "spider",
+    "sticking",
+    "own"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

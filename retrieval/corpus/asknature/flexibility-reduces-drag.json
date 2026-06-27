@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-flexibility-reduces-drag",
+  "organism_common": "Wild daffodil",
+  "organism_scientific": "",
+  "strategy_summary": "The flowers of daffodils twist in the wind, reducing drag because of their torsional flexibility due to stem noncircularity. Wild daffodil  Daffodil Hill in Amadour County  “And daffodil flowers, borne off to one side of their stems, swing around similarly, reducing their drag by about 30 percent in the process…",
+  "mechanism": "The flowers of daffodils twist in the wind, reducing drag because of their torsional flexibility due to stem noncircularity.\n\nWild daffodil\n\nDaffodil Hill in Amadour County\n\n“And daffodil flowers, borne off to one side of their stems, swing around similarly, reducing their drag by about 30 percent in the process (Etnier and Vogel 2000). Twisting in the wind isn’t just a slogan left over from the Nixon presidency. Daffodils appear to ‘dance’ in the wind, as noted by the poet William Wordsworth, because down near ground level, winds are especially puffy.” (Vogel 2003:382)\n\n“Daffodil flowers extend laterally from the long axes of their stems; as a result, wind on a flower exerts torsional as well as flexural stress on the stem. Stems respond by twisting, and thus flowers reorient to face downwind in moderate winds, in the process reducing their drag by ∼30%. This repositioning is facilitated by the stems’ relatively low torsional stiffness. Daffodil stems have a ratio of flexural to torsional stiffness of 13.27 ± 0.96 (SD), compared with 8.33 ± 3.20 (SD) for tulip stems, which bear flowers as symmetrical extensions of their long axes, and compared with 1.5 for isotropic, incompressible, circular cylinders.” (Etnier and Vogel 2000:29)",
+  "function_addressed": [
+    "protect from wind"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/flexibility-reduces-drag/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flexibility",
+    "reduces",
+    "drag"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

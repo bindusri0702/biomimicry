@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-special-molecules-enable-bacteria-to-break-down-oil",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "Unique molecules from bacteria help them digest petroleum, vegetable oil, and coal. Bacteria come from some of the planet’s most ancient forms of life.",
+  "mechanism": "Unique molecules from bacteria help them digest petroleum, vegetable oil, and coal.\n\nBacteria come from some of the planet’s most ancient forms of life. Often, bacteria have impressive abilities that are rare in other creatures. Some bacteria, for instance, can actually eat fossil fuels, like petroleum (used to make gasoline) or coal. This ability enables bacteria to survive in places that many other species can’t.\n\nLike all species, including humans, bacteria need water to help them break down or digest food. But bacteria can also break down fossil fuels, which are oils, and oil and water don’t mix together. So how do these bacteria manage to use water to help them digest oils anyway?\n\nNormally, water molecules like to stick together, which results in oil being pushed out, keeping the two liquids separated. This happens because the structure of a water molecule gives it a negative charge on one side and a positive charge on the other. (This is what is known as a “polar” molecule.) That means one water molecule’s positive end likes to stick to the neighboring molecule’s negative end, making water cling together like a pack of weak magnets. As a result, oil (a non-polar molecule) gets pushed out and stays separated from water.\n\nSome bacteria make special molecules called surfactants that help them pry water molecules apart, so that water can mix more easily with other substances. These special molecules have one end that is attracted to water (also known as hydrophilic, or “water-loving”) and one end that is repelled by water (hydrophobic, or “water-fearing”). So, while one end of a surfactant molecule attaches to a water molecule, the other end of the surfactant pushes other water molecules away. The result is that water no longer sticks together as well. This enables other substances like oil to fill in the spaces and come in closer contact with water. Two liquids which previously didn’t mix all of a sudden can mix together. Once mixed together in water, bacteria can begin to digest or break down the oil into simpler molecules and atoms, like hydrogen and carbon (the component parts of oils).\n\nThe actinobacteria are a large class of bacteria that includes 54 known families. They are able to make many different kinds of surfactants. Actinobacteria produce surfactant molecules having different shapes, sizes, and chemical behaviors. All of these different qualities make these surfactants behave slightly differently and enable the actinobacteria to digest many different oil-based food sources. Molecular methods of changing how oil is distributed can help people clean up wildlife and the environment in the case of oil spills. Bacterial surfactants were used to help clean up the Exxon Valdez oil spill, for example, and have been shown to clean shorelines contaminated with spilled oil. These surfactants are not only effective at breaking down oil, but are also biodegradable themselves, becoming a harmless part of the environment after use.\n\nCladosporium resinae\n\nCompounds secreted by Cladosporium resinae act as surfactants by self-assembling into a wide variety of 3-D configurations tailor-made for different circumstances when water and oil need to mix.",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities",
+    "capture, absorb, or filter liquids",
+    "capture, absorb, or filter energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/special-molecules-enable-bacteria-to-break-down-oil/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "special",
+    "molecules",
+    "enable",
+    "bacteria",
+    "break",
+    "down"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

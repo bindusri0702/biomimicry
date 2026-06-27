@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-eyes-see-magnetic-fields",
+  "organism_common": "Garden warbler",
+  "organism_scientific": "",
+  "strategy_summary": "Photoreceptor neurons in the eyes of some birds help navigation by detecting magnetic fields using magnetic sensing molecules called cryptochromes. “Birds also possess an even more remarkable visual talent — they can actually see the Earth’s magnetic field…Most scientists theorize that the bird’s perception of the…",
+  "mechanism": "Photoreceptor neurons in the eyes of some birds help navigation by detecting magnetic fields using magnetic sensing molecules called cryptochromes.\n\n“Birds also possess an even more remarkable visual talent — they can actually see the Earth’s magnetic field…Most scientists theorize that the bird’s perception of the magnetic field looks like two color-coded spots overlying the bird’s normal vision. These dots correspond to the north and south poles, but can be seen by the bird only in certain wavelengths of light, usually the violet end of the visible spectrum. They may vanish entirely in light wavelengths at the red end of the spectrum, depending upon the species.” (Shuker 2001:49)\n\n“Due to the fact that a known visual pathway connects the only brain structures that have been shown to be active during magnetic orientation, our findings strongly support the hypothesis that migratory birds perceive the magnetic field as a visual pattern and that they are thus likely to “see” the magnetic field.” (Heyers et al. 2007:4)",
+  "function_addressed": [
+    "sense electricity/magnetism from the environment",
+    "navigate through air"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/eyes-see-magnetic-fields/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "eyes",
+    "see",
+    "magnetic",
+    "fields"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

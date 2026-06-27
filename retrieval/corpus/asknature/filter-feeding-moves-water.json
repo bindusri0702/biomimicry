@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-filter-feeding-moves-water",
+  "organism_common": "Capture, Absorb, or Filter Organisms",
+  "organism_scientific": "",
+  "strategy_summary": "Filter feeding mechanism of sponge moves water through body by intaking low and releasing high. “A sponge takes in water at its base, filtering the food from it and expelling it through holes higher up.” (Courtesy of the Biomimicry Guild)",
+  "mechanism": "Filter feeding mechanism of sponge moves water through body by intaking low and releasing high.\n\n“A sponge takes in water at its base, filtering the food from it and expelling it through holes higher up.” (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/filter-feeding-moves-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "filter",
+    "feeding",
+    "moves",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

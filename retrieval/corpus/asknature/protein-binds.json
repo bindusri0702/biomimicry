@@ -1,0 +1,22 @@
+{
+  "doc_id": "asn-protein-binds",
+  "organism_common": "Streptococcus pyogenes",
+  "organism_scientific": "",
+  "strategy_summary": "A protein in the flesh-eating bacteria binds to human cells to allow invasion by having a 3D structure stabilized by an additional covalent bond. “While many people carry Streptococcus pyogenes in their throat without any problems, the bacteria can cause infections.",
+  "mechanism": "A protein in the flesh-eating bacteria binds to human cells to allow invasion by having a 3D structure stabilized by an additional covalent bond.\n\n“While many people carry Streptococcus pyogenes in their throat without any problems, the bacteria can cause infections. Some are mild, like impetigo in infants or a sore throat, but some can kill, like toxic shock syndrome or flesh-eating disease.\n\n“What attracted the biochemists’ [Mark Howarth and Bijan Zakeri from Oxford University] interest was a specific protein which the bacteria use to bind and invade human cells.\n\n“‘The protein is special because it naturally reacts with itself and forms a lock,’ says Mark.\n\n“All proteins consist of amino acid s linked together into long chains by strong covalent bonds. The long chains are folded and looped up into three-dimensional structures held together by weaker links and associations.\n\n“The protein FbaB from S. pyogenes has a 3D structure that is stabilised by another covalent bond. This strong chemical bond forms in an instant and binds the loops of the amino acid chain together with exceptional strength.” (Wood 2012)\n\nObtained from the Isis Innovation website.\n\nSpyBiotech\n\nSpyTag/SpyCatcher from SpyBiotech uses a protein from a common bacterium to increase the effectiveness of vaccines.",
+  "function_addressed": [
+    "attach permanently"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/protein-binds/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "protein",
+    "binds"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

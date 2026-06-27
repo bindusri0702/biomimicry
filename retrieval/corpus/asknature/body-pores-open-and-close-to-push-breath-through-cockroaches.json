@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-body-pores-open-and-close-to-push-breath-through-cockroaches",
+  "organism_common": "Madagascar hissing cockroach",
+  "organism_scientific": "",
+  "strategy_summary": "The Madagascar hissing cockroach ( Gromphadorhina portentosa ) is a large and active insect. During periods of activity, its relatively fast metabolism means that its tissues use a lot of oxygen and produce a lot of carbon dioxide.",
+  "mechanism": "In all insects, the respiratory system consists of a network of branching tubes, called tracheae, that develop from inward folds of the insect’s exoskeleton. These tubes connect an insect’s internal, metabolizing tissues to the outside air via pores, called spiracles, that line both sides of the insect’s thorax (mid-section) and abdomen (rear section). Muscle-controlled valves enable the pores to open and close.\n\nIn the hissing cockroach, thoracic and abdominal pores appear to open and close at different times to help create a mostly one-way flow of air through the respiratory system from front to back. This is in contrast to the two-way airflow that mammalian lungs create, where air enters and exits through the same tubes.\n\nStudying the unidirectional respiratory systems of hissing cockroaches could lead to more efficient ventilation and air filtration designs. Designs for medical equipment such as face masks, oxygen concentrating machines, and breathe-assist devices might also improve by emulating the coordinated pushing and pulling of air through cockroach body pores.",
+  "function_addressed": [
+    "expel gases",
+    "distribute gases",
+    "capture, absorb, or filter gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/body-pores-open-and-close-to-push-breath-through-cockroaches/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "body",
+    "pores",
+    "open",
+    "close",
+    "push",
+    "breath"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

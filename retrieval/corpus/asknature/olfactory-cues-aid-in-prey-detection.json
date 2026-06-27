@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-olfactory-cues-aid-in-prey-detection",
+  "organism_common": "White-chinned petrel",
+  "organism_scientific": "",
+  "strategy_summary": "The olfactory senses of seabirds help them locate prey via detection of dimethyl sulfide released by phytoplankton. In pelagic ecosystems, phytoplankton contain high concentrations of DMSP (dimethylsulfoniopropionate), an osmolyte that helps marine algae regulate their internal osmotic environment and may also serve…",
+  "mechanism": "The olfactory senses of seabirds help them locate prey via detection of dimethyl sulfide released by phytoplankton.\n\nIn pelagic ecosystems, phytoplankton contain high concentrations of DMSP (dimethylsulfoniopropionate), an osmolyte that helps marine algae regulate their internal osmotic environment and may also serve as a cryoprotectant. When phytoplankton are eaten by zooplankton such as crustaceans, DMSP is released into the water, where it is converted into DMS (dimethyl sulfide) and acrylic acid. DMS then travels to the surface of the water and is released into the atmosphere, where it gives off a distinct smell that attracts several procellariiform seabirds, including albatrosses, petrels, and shearwaters, which feed on crustaceans. This establishes a mutually beneficial relationship where phytoplankton release DMS, which seabirds use as a cue to find and eat prey, thereby reducing the grazing pressure on the phytoplankton. This relationship suggests that DMS serves as a “keystone” infochemical in marine trophic interactions.\n\nIn this tritrophic mutualism, phytoplankton are grazed by crustacea, catalyzing an enzymatic reaction that converts DMSP to DMS and acrylic acid. DMS, in turn, attracts procellariiform seabirds that forage on primary consumers (crustacea), thereby reducing grazing pressure on phytoplankton. Once attracted, the procellariiformes may benefit the phytoplankton by adding limiting nutrients via excretion.\n\nWhite-chinned petrel flies low over the ocean surface, using DMS to locate prey.",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment",
+    "navigate through air"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/olfactory-cues-aid-in-prey-detection/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "olfactory",
+    "cues",
+    "aid",
+    "prey",
+    "detection"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

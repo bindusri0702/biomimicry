@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-compounds-protect-against-predators",
+  "organism_common": "Tropical milkweed",
+  "organism_scientific": "",
+  "strategy_summary": "The chemical signaling system of milkweed defends against predators by use of terpene compounds  Asclepias curassavica, from the Milkweed family. Mexican Butterfly Weed Asclepias curassavica Flower Head  A closeup photograph of the flowers of the Mexican Milkweed Asclepias curassavica  ''Danaus plexippus''…",
+  "mechanism": "The chemical signaling system of milkweed defends against predators by use of terpene compounds\n\nAsclepias curassavica, from the Milkweed family.\n\nMexican Butterfly Weed Asclepias curassavica Flower Head\n\nA closeup photograph of the flowers of the Mexican Milkweed Asclepias curassavica\n\n''Danaus plexippus'', caterpillars, feeding on ''Asclepias curassavica'', Tenerife\n\n“As the largest class of natural products, terpenes have a variety of roles in mediating antagonistic and beneficial interactions among organisms. They defend many species of plants, animals and microorganisms against predators, pathogens and competitors, and they are involved in conveying messages to conspecifics and mutualists regarding the presence of food, mates and enemies. Despite the diversity of terpenes known, it is striking how phylogenetically distant organisms have come to use similar structures for common purposes. New natural roles undoubtedly remain to be discovered for this large class of compounds, given that such a small percentage of terpenes has been investigated so far.” (Gershenzon 2007:408)",
+  "function_addressed": [
+    "protect from animals",
+    "send chemical signals (odor, taste, etc.)"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/compounds-protect-against-predators/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "compounds",
+    "protect",
+    "against",
+    "predators"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

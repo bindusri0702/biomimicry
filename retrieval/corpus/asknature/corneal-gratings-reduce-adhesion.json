@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-corneal-gratings-reduce-adhesion",
+  "organism_common": "Poplar hawkmoth",
+  "organism_scientific": "",
+  "strategy_summary": "The eyes of moths and flies reduce adhesion by corneal gratings that decrease the contact area. This image shows a head close-up of a male dragonfly of the species Aeshna cyanea.",
+  "mechanism": "The eyes of moths and flies reduce adhesion by corneal gratings that decrease the contact area.\n\nThis image shows a head close-up of a male dragonfly of the species Aeshna cyanea.\n\nBlue bottle fly (Calliphora vomitoria) Portrait, Austins Ferry, Tasmania, Australia. 3.5:1 magnification.\n\n“The surface of some insect eyes consists of arrays of cuticular protuberances, which are 50–300?nm in diameter, and are termed corneal nipples or ommatidia gratings. They were widely reported to reduce the reflectance for normally incident light, contributing to camouflage by reducing glare to predators, while furthermore enhancing the intake of light, which is especially important for nocturnal insects. Our preliminary observations suggest a third function: in contrast to the rest of the body, ommatidia of various insects remain clean, even in a heavy contaminated environment. In order to prove such an anticontamination hypothesis of these structures, we measured the adhesive properties of polymer moulds of insect ommatidia, and compared these data with control surfaces having the same curvature radii but lacking such a nanostructure. A…study and force measurements…on the eye surfaces of three different insect species, dragonfly Aeshna mixta (Odonata), moth Laothoe populi (Lepidoptera) and fly Volucella pellucens (Diptera), were undertaken. We revealed that adhesion is greatly reduced by corneal grating in L. populi and V. pellucens when compared with their smooth controls. The smooth cornea of A. mixta showed no statistically significant difference to its control. We assume that this anti-adhesive phenomenon is due to a decrease in the real contact area between contaminating particles and the eye’s surface. Such a combination of three functions in one nanostructure can be interesting for the development of industrial multifunctional surfaces capable of enhancing light harvesting while reducing light reflection and adhesion.” (Peisker and Gorb 2010:3457)",
+  "function_addressed": [
+    "protect from dirt/solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/corneal-gratings-reduce-adhesion/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "corneal",
+    "gratings",
+    "reduce",
+    "adhesion"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

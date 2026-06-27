@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-red-pigment-protects-against-uv-rays",
+  "organism_common": "Snow algae",
+  "organism_scientific": "",
+  "strategy_summary": "Snow algae (such as Chlamydomonas nivalis ) are fascinating microorganisms that thrive in the freezing and high UV-radiation environments of snowfields and glaciers. These seemingly inhospitable places expose the algae to intense sunlight and harmful UV rays.",
+  "mechanism": "Snow algae have developed a unique strategy to protect themselves from the harmful effects of UV radiation. They produce a red carotenoid pigment known as astaxanthin, which acts as a sunscreen for the algae. This pigment gives the algae its distinctive red coloration and is often associated with the phenomenon called “watermelon snow.”\n\nAstaxanthin absorbs harmful UV rays, shielding the sensitive internal structures of the algae from potential damage. This red pigment is present in a lipid droplet that surrounds the chloroplast , where photosynthesis takes place. By absorbing UV rays, the pigment allows the algae to survive and even thrive in its extreme habitat.\n\nThe adaptation is crucial for the snow algae’s survival in high UV environments. UV radiation can cause severe damage to cellular structures and DNA, but the astaxanthin acts as a natural sunscreen, preventing such harm. It doesn’t inhibit the algae’s ability to photosynthesize, enabling them to generate energy from sunlight without the risk of UV-induced damage.\n\nThe red carotenoid pigment’s ability to absorb UV radiation and transform it into harmless energy demonstrates a sustainable strategy for protection from harmful rays. This method avoids toxic chemicals and works at ambient temperatures, in alignment with nature’s strategies.\n\nA harnessing of astaxanthin could lead to technological innovations in fields like cosmetics, pharmaceuticals, and the food industry.",
+  "function_addressed": [
+    "protect from light"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/red-pigment-protects-against-uv-rays/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "red",
+    "pigment",
+    "protects",
+    "against",
+    "rays"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

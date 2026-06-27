@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-communities-recover-from-floods",
+  "organism_common": "Riparian habitat",
+  "organism_scientific": "",
+  "strategy_summary": "Riparian systems recover from floods by having plant communities that are adapted to the disturbances. “Floods also represent major disturbances that influence riparian plant communities.",
+  "mechanism": "Riparian systems recover from floods by having plant communities that are adapted to the disturbances.\n\n“Floods also represent major disturbances that influence riparian plant communities. After alluvium is deposited following a flood in a lowland river, here too, succession can occur, with pioneer communities developing initially, to be replaced by young soft-wood communities and then mature hard-wood communities (Decamps and Tabacchi 1994). At any stage though, a new flood may destroy the vegetation and reset the sequence. When large floods are a normal seasonal event, as in many systems with a pronounced snowmelt hydrograph, riparian plant communities are adapted to the situation. In fact, the neat zonation of plant species characteristic of rivers in northern Scandinavia disappears in regulated rivers when the regulation dampens seasonal variations in flow.” (Giller and Malmqvist 1998:198)",
+  "function_addressed": [
+    "coordinate by self-organization",
+    "cooperate within an ecosystem",
+    "manage disturbance in a community"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/communities-recover-from-floods/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "communities",
+    "recover",
+    "floods"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

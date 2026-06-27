@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-blubber-absorbs-heat",
+  "organism_common": "Bottlenose dolphin",
+  "organism_scientific": "",
+  "strategy_summary": "The blubber of the bottlenose dolphin absorbs heat by acting as a phase change material  Second-generation wolphin female Kawili Kai (*2004-12-23) at Sea Life Park Hawaii, 9 months old. Offspring of first-generation dolphin female Kekaimalu (parents: Tanui Hahai Pseudorca crassidens ?",
+  "mechanism": "The blubber of the bottlenose dolphin absorbs heat by acting as a phase change material\n\nSecond-generation wolphin female Kawili Kai (*2004-12-23) at Sea Life Park Hawaii, 9 months old. Offspring of first-generation dolphin female Kekaimalu (parents: Tanui Hahai Pseudorca crassidens ? x Punahele Tursiops truncatus ?) and a male bottlenose dolphin (Tursiops truncatus).\n\nBottlenose Dolphin - Tursiops truncatus A dolphin surfs the wake of a research boat on the Banana River - near the Kennedy Space Center.\n\n“There is substantial evidence to support the classification of the integument, and specifically the blubber layer [of the Atlantic bottlenose dolphin], as a phase change material. First, many of the fatty acids found in blubber are classified as phase change materials and have melting points in the range of mammalian body temperatures (Sari, 2003; Sari and Kaygusuz, 2001; Sari et al., 2003; Suppes et al., 2003). Suppes et al. (2003) classified palmitic (C16:0), steric (18:0), oleic (C18:1), linoleic (C18:2), linolenic (C18:3) and arachidic (C20:0) fatty acids as excellent phase change materials. All of these fatty acids have been identified in cetacean blubber (Koopman et al., 1996). Mixtures of these fatty acids yield phase change materials with melting points between 29° and 38°C (Suppes et al., 2003), which include the range of mammalian body temperatures. Second, these fatty acids also satisfy the requirement that the material has a relatively large latent heat plateau, with latent heat values generally greater than 180·J·g–1 (Suppes et al., 2003). Third, their stratification in blubber may be prevented by their containment in adipocytes as well as the highly structured nature of adipocytes in the blubber tissue. Finally, cetaceans are known to have fine vascular control to their appendages and to the periphery of their body (Elsner et al., 1974; Kvadsheim and Folkow, 1997; Ling, 1974; Meagher et al., 2002; Pabst et al., 1999b; Scholander and Schevill, 1955). Intermittent heat loads could be applied to the blubber through shunting of warm blood to the blubber layer, followed by periods of vasoconstriction. Future studies are needed to fully characterize blubber’s potential phase change properties as well as investigate the possible functions that may be associated with such a property.” (Dunkin et al., 2005: 1479)",
+  "function_addressed": [
+    "capture, absorb, or filter energy",
+    "store energy",
+    "distribute energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/blubber-absorbs-heat/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "blubber",
+    "absorbs",
+    "heat"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

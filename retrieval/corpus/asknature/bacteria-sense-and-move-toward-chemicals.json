@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-bacteria-sense-and-move-toward-chemicals",
+  "organism_common": "Escherichia coli",
+  "organism_scientific": "",
+  "strategy_summary": "The membrane of E. coli bacteria detects chemicals of interest via transmembrane receptor proteins.",
+  "mechanism": "The membrane of E. coli bacteria detects chemicals of interest via transmembrane receptor proteins.\n\n“Chemotactic bacteria navigate complex chemical environments by coupling sophisticated information processing capabilities to powerful molecular motors that propel the cells forward. Escherichia coli recognize chemoattractants using five transmembrane receptor proteins, which cluster with one another and interact with a set of well-characterized cytosolic proteins to effect changes in the directional rotation of the flagellar motor.” (Topp 2007:6807)",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bacteria-sense-and-move-toward-chemicals/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bacteria",
+    "sense",
+    "move",
+    "toward",
+    "chemicals"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-flowers-increase-pollen-transfer",
+  "organism_common": "Wasp orchid",
+  "organism_scientific": "",
+  "strategy_summary": "The flowers of some orchids increase efficiency of pollen transfer because they look or smell like female insects. “While most flowering plants reward pollinators with tasty nectar, many orchid species turn to trickery.",
+  "mechanism": "The flowers of some orchids increase efficiency of pollen transfer because they look or smell like female insects.\n\n“While most flowering plants reward pollinators with tasty nectar, many orchid species turn to trickery. Some use what’s called food deception. They produce flowers that look or smell like they offer food, but offer no edible reward. Other orchids use sexual deception. They produce flowers that look or smell like female insects, usually bees or wasps. Males are drawn to the sexy flowers and attempt to mate with it. In doing so, they accidentally collect pollen on their bodies, which fertilizes the next orchid they visit.\n\n“… [Researchers] found that populations of sexually deceptive orchids had higher ‘pollen transport efficiency’ than the species with multiple pollinators. In other words, a higher percentage of the pollen that was taken from sexually deceptive orchids actually made it to another orchid of the same species. The orchids with multiple pollinators had more pollen taken from their flowers, but more of that pollen was lost — dropped to the ground or deposited in flowers of the wrong species.” (Science Daily 2009)\n\nhttp://www.journals.uchicago.edu/doi/abs/10.1086/648555?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3Dncbi.nlm.nih.gov http://www.sciencedaily.com/releases/2009/12/091217183442.htm",
+  "function_addressed": [
+    "send chemical signals (odor, taste, etc.)",
+    "send light signals in the visible spectrum",
+    "distribute solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/flowers-increase-pollen-transfer/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flowers",
+    "increase",
+    "pollen",
+    "transfer"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

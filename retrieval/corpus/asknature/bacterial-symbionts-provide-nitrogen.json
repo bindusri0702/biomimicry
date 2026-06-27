@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-bacterial-symbionts-provide-nitrogen",
+  "organism_common": "Leafcutter ants",
+  "organism_scientific": "",
+  "strategy_summary": "Leafcutter ants likely obtain a large part of their nitrogen from symbiotic bacteria living in their cultivated fungal gardens. Where Are the Ants Carrying All Those Leaves?",
+  "mechanism": "Leafcutter ants likely obtain a large part of their nitrogen from symbiotic bacteria living in their cultivated fungal gardens.\n\nWhere Are the Ants Carrying All Those Leaves?\n\n“Bacteria-mediated acquisition of atmospheric N 2 serves as a critical source of nitrogen in terrestrial ecosystems. Here we reveal that symbiotic nitrogen fixation facilitates the cultivation of specialized fungal crops by leaf-cutter ants. By using acetylene reduction and stable isotope experiments, we demonstrated that N 2 fixation occurred in the fungus gardens of eight leaf-cutter ant species and, further, that this fixed nitrogen was incorporated into ant biomass. Symbiotic N 2 -fixing bacteria were consistently isolated from the fungus gardens of 80 leaf-cutter ant colonies collected in Argentina, Costa Rica, and Panama. The discovery of N 2 fixation within the leaf-cutter ant–microbe symbiosis reveals a previously unrecognized nitrogen source in neotropical ecosystems.” (Pinto-Tomás et al. 2009:1120)\n\nhttp://scienceonline.org/cgi/content/abstract/326/5956/1120 http://schaechter.asmblog.org/schaechter/2010/01/lea.html",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bacterial-symbionts-provide-nitrogen/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bacterial",
+    "symbionts",
+    "provide",
+    "nitrogen"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

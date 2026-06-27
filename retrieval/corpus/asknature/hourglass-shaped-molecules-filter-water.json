@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-hourglass-shaped-molecules-filter-water",
+  "organism_common": "Common to all organisms",
+  "organism_scientific": "",
+  "strategy_summary": "Water is a basic ingredient of life. Our bodies are more than half water, and other organisms depend on it as well for everything from photosynthesis to maintaining their shape to eliminating waste.",
+  "mechanism": "All living things are made up of cells. All cells have membranes that separate them from the rest of the world. And all membranes have channels that let molecules in and out. One type of channel, called aquaporins, selectively let water (and in some cases other) molecules move across the cell membrane. These channels are so important that they are found in organisms belonging to all kingdoms of life.\n\nHow do aquaporins separate water from other molecules? The answer lies in their shape and the way electrical charge is distributed across the protein s they’re made of.\n\nAquaporins are proteins, which are made up of long chains of smaller molecules called amino acid s. Different kinds of amino acids attract or repel each other, creating stretches of shapes such as sheets and helices within the molecule.\n\nAn aquaporin molecule contains six long stretches of helices that stick through a cell membrane like a peephole through a door. Together, they form a tiny tunnel about the size of a water molecule. The center of the aquaporin channel carries a positive charge, which repels other positively charged molecules and prevents them from passing through. Thus, only small, uncharged molecules such as water are able to pass through the channel. Increasing efficiency, aquaporin molecules tend to appear in groups of four arranged together, creating a fifth pore in the middle that also moves water across the membrane.\n\nThe ability of aquaporins to separate water from other molecules without requiring an active pump opens the door to an energy-efficient way to remove contaminants from wastewater or purify drinking water. The concept might also be applied to creating customized channels that selectively filter other types of small molecules. This would make it possible to increase the concentration of a desired substance or remove undesired contaminants from a product.",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities",
+    "capture, absorb, or filter liquids",
+    "maintain homeostasis"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hourglass-shaped-molecules-filter-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hourglass-shaped",
+    "molecules",
+    "filter",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

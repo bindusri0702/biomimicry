@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-mucus-enhances-mobility",
+  "organism_common": "Cooperate Within the Same Species",
+  "organism_scientific": "",
+  "strategy_summary": "Polychaete worms travel quickly on trails of mucus. “ Phyllodoce mucosa is attracted in large numbers by dead mollusks, crabs or worms on the sediment surface.",
+  "mechanism": "Polychaete worms travel quickly on trails of mucus.\n\n“ Phyllodoce mucosa is attracted in large numbers by dead mollusks, crabs or worms on the sediment surface. Within 10 s worms emerged to the surface, crawled as far as 15 m on mucus trails towards the carcass, sucked in tissue up to one-third of their own weight, and then quickly retreated to below the surface …\n\n“ P. mucosa massively secretes mucus when crawling, and conspecifics tend to follow existing trails, sometimes forming ‘roads’ with several parallel trails directed towards a carcass. No interference between worms aggregating at a common food source was observed …\n\n“Presumably, P. mucosa gets some protection from the mucus it produces in masses …\n\n“High crawling speed, mucus trailing (as a mutual benefit to conspecifics leading to the food source) and the ability to locate a carcass from a distance, all may contribute to the success of P. mucosa as a carrion-feeder.” (Lee et al. 2004:575-582)",
+  "function_addressed": [
+    "cooperate within the same species",
+    "manage mechanical wear",
+    "protect from dirt/solids",
+    "protect from animals",
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mucus-enhances-mobility/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mucus",
+    "enhances",
+    "mobility"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

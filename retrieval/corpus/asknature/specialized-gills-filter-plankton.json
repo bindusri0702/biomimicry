@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-specialized-gills-filter-plankton",
+  "organism_common": "Basking shark",
+  "organism_scientific": "",
+  "strategy_summary": "The gills of basking sharks filter plankton from seawater for nutrition via specialized filters called gill-rakers. “Torpor or hibernation in fish is rare, but the most remarkable case features the basking shark ( Cetorhinus maximus ).",
+  "mechanism": "The gills of basking sharks filter plankton from seawater for nutrition via specialized filters called gill-rakers.\n\n“Torpor or hibernation in fish is rare, but the most remarkable case features the basking shark ( Cetorhinus maximus ). It swallows great quantities of plankton, straining it from the water via specialized filters called gill-rakers. A common sight drifting just beneath the sea surface during the plankton-rich summer months, these sharks are rarely seen during the winter, when plankton is scarce. This is because they descend to deeper waters where, scientists assumed, they spend the season in a torpid state. However, when scientists examined two basking sharks during winter they lacked gill-rakers and thus couldn’t feed. This unexpected finding suggests that basking sharks hibernate, shedding their gill-rakers and regrowing them in spring.” (Shuker 2001:108)",
+  "function_addressed": [
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/specialized-gills-filter-plankton/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "specialized",
+    "gills",
+    "filter",
+    "plankton"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-triple-layered-armored-shell-protects-from-predators",
+  "organism_common": "Scaly-foot snail",
+  "organism_scientific": "",
+  "strategy_summary": "The shell of the golden-scale snail protects from attack with a specialized tri-layered composition  At the bottom of the Indian Ocean are large hydrothermal vents that spew hot water and minerals. They also provide an ecosystem for a variety of bizarre species adapted for living in harsh conditions.",
+  "mechanism": "The shell of the golden-scale snail protects from attack with a specialized tri-layered composition\n\nAt the bottom of the Indian Ocean are large hydrothermal vents that spew hot water and minerals. They also provide an ecosystem for a variety of bizarre species adapted for living in harsh conditions. One such species is the golden scale snail ( Chrysomallon squamiferum , sometimes called the scaly-foot) which feeds off of the vent’s nutrients. Adhered to the vent structures, the snail is vulnerable to predators such as crabs and venomous snails that can puncture or crush the scaly-foot snail. To protect itself, the snail uses a hard, armor-like shell with a tri-layered composition. Each layer has distinct chemical and physical properties that enable them to play different roles in managing forces from predatory attacks.\n\nThe outer layer is a thin organic shell reinforced by greigite (iron sulfide) particles spewed out by the thermal vents. Most mollusks build their shells from inside out, and the golden-scale snail does that in addition to using the thermal vent’s iron sulfide deposits. When an intruding crab claw, for instance, does start cracking the outer layer, its particular microscopic structure localizes the damage as “sacrificial microcracks” around the iron sulfide particles. That is, many small, manageable cracks form right around the site of impact, instead of one large crack that could severely damage the whole shell.\n\nThe middle layer is a thick, dense layer of organic material that is pliant in nature, meaning it easily deforms. This property enables the middle layer to act as a shock absorber, relieving the pressure of a crab’s grasp and protecting against a poisonous snail’s smashing blow. It could be compared to a dense marshmallow underneath an eggshell. The outer layer and middle layer relieve most, if not all, of the shock.\n\nAny remaining mechanical energy reaches the calcified inner layer. It is the last layer of defense and if any forces are strong enough to impact it, they could permanently damage the snail. The inner layer is like a brick wall behind the marshmallow-egg shell complex.\n\nThis summary was contributed by Allison Miller.\n\nSchematic of the multilayered design principles of the shell of C. squamiferum. Each material layer serves distinct functional roles leading to many advantages with regards to mechanical protection and penetration resistance.",
+  "function_addressed": [
+    "prevent fracture/rupture",
+    "manage compression",
+    "manage impact",
+    "protect from animals",
+    "distribute energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/triple-layered-armored-shell-protects-from-predators/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "triple",
+    "layered",
+    "armored",
+    "shell",
+    "protects",
+    "predators"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

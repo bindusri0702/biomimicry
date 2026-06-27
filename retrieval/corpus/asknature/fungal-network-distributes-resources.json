@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-fungal-network-distributes-resources",
+  "organism_common": "Mycorrhizal fungi",
+  "organism_scientific": "",
+  "strategy_summary": "In a Douglas-fir and pine forest in North America there are trees of all ages, ranging from tiny seedlings to giants that are hundreds of years old. Hidden in the soil is a vast network made up of millions of miles of thin threads called mycelium.",
+  "mechanism": "On the internet, nodes are individual computers and the network moves information among them. Hubs are places that connect lots of nodes together and have a lot of information traveling through them, such as Google. The nodes of the Wood Wide Web are all the individual trees in the forest. The oldest trees, which are often also the tallest and largest, are the ‘hubs’ because they have the most connections running through them.\n\nMycelia form the connections between all the nodes in the Wood Wide Web. The mycelia wrap around the fine roots of the hub tree and other vegetation, snuggling so close that water, nutrients, and other chemicals can move between the cells of the roots and fungi. A hub tree has more access to sunlight than smaller trees because of its size. Sometimes that results in it producing too much sugar through photosynthesis . When this happens, it sends the sugar out through the mycelium network to be used by its own seedlings and even other species of trees. The fungi take some of the sugar as it passes between trees and use it for themselves.\n\nWater is also shared among the fungi and plants in the network. The water and nutrients increase seedling growth and help other trees survive. At another time, if the hub tree is stressed and needs water or nutrients, the mycelium and other trees can send them back to the hub tree.\n\nThe Wood Wide Web can show us the value of sharing resources, efficient ways to move them, and the importance of forming close partnerships. We also can learn how to better manage our forests to maintain this underground network that provides mutual support to all partners.",
+  "function_addressed": [
+    "cooperate/compete between different species",
+    "cooperate within an ecosystem",
+    "send chemical signals (odor, taste, etc.)",
+    "protect from animals",
+    "distribute liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fungal-network-distributes-resources/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "underground",
+    "network",
+    "distributes",
+    "resources"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

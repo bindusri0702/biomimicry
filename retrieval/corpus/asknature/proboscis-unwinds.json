@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-proboscis-unwinds",
+  "organism_common": "Modify Size/Shape/Mass/Volume",
+  "organism_scientific": "",
+  "strategy_summary": "The proboscis of the butterfly unwinds from a tightly coiled position via muscular contraction and a hydraulic, step-wise mechanism. During rest, the tube-like feeding structure of the butterfly (i.e., the proboscis, equated to a \"tongue\") remains coiled tightly against the head.",
+  "mechanism": "The proboscis of the butterfly unwinds from a tightly coiled position via muscular contraction and a hydraulic, step-wise mechanism.\n\nDuring rest, the tube-like feeding structure of the butterfly (i.e., the proboscis, equated to a \"tongue\") remains coiled tightly against the head. However, when the butterfly moves to feed upon the nectar of a flower or something akin, the proboscis unfurls to extend downward into the flower’s center. The uncoiling is initiated in the muscle closest to the head, the basal galeal muscle, which lifts the coils slightly to \"unlock\" it from its tightly held position. The coil begins to unwind via the contraction of other muscles throughout the proboscis, known as stipes muscles. This contraction places pressure on various areas throughout the feeding tube by compressing the stipial tube. This creates a step-wise reaction that further unfurls the tube through pressurized increases in the stipes’ valve-like structures.",
+  "function_addressed": [
+    "modify size/shape/mass/volume",
+    "modify position"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/proboscis-unwinds/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "proboscis",
+    "unwinds"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

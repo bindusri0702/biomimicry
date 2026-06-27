@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-petals-peel-open",
+  "organism_common": "Casablanca lily",
+  "organism_scientific": "",
+  "strategy_summary": "In “A Flower Does Not Talk,” Zen monk, professor, and author Zenkei Shibayama wrote:  Silently a flower blooms,  In silence it falls away;  Yet here now, at this moment, at this place,  the whole of the flower, the whole of  the world is blooming. This is the talk of the flower, the truth  of the blossom:  The glory…",
+  "mechanism": "A young Asiatic lily bud is a green pod with three exterior sepals wrapped around three interior petals. Stiff midribs add structural support down the centers of both sepals and petals. At first, the bud is locked closed because sepal edges are tucked into grooves on the midribs of petals. Enough force has to be generated to break the seal open.\n\nWhile it’s true that flowers do not talk as Zenkei Shibayama noted, they still speak to us and have inspired masterworks of art throughout history. They can inspire science, too.\n\nThe way that flowers open might spur scientists to improve the manufacturing of protective or reflective coatings that are applied to complex surfaces. The field of robotics might mimic blooming to control minute, precise movements. Perhaps one day we’ll have intelligent, self-healing surfaces that use differential growth patterns to meld over wounds caused by erosion or corrosion. Imagine a future where skin cultures automatically wrap around the limbs of burn victims. What else might blooms inspire?",
+  "function_addressed": [
+    "modify size/shape/mass/volume",
+    "modify position"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/petals-peel-open/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "uneven",
+    "growth",
+    "makes",
+    "blooms",
+    "burst",
+    "open"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

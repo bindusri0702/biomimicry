@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-giraffes-thrive-despite-high-blood-pressure",
+  "organism_common": "Giraffe",
+  "organism_scientific": "",
+  "strategy_summary": "An orange, globular sun resting on the horizon of the acacia-dotted savannah of Kruger National Park in South Africa reveals an iconic silhouette: an herbivore with such a long neck, it could peer through the upper windows of a two-story home. The need for giraffes to supply blood to their brains through their…",
+  "mechanism": "The ability of giraffe hearts to maintain their health and functionality despite the thickening of the left ventricle appears related to the relative lack of restrictive connective tissue (fibrosis) in the thickened heart wall. How does the thickened giraffe heart remain pliable? The lack of debilitating cardiac fibrosis appears related to mammalian genes that are highly-mutated in giraffes, such as FGFRL1 (Fibroblast Growth Factor Receptor Like 1).\n\nWhen spliced into the genomes of mice using CRISPR-CAS9 gene editing techniques, this uniquely giraffe version of the FGFRL1 gene resulted in significantly less fibrosis in mice cardiac tissue, despite induced hypertension. Several other cardiac fibrosis-related genes in giraffe genomes show similarly high degrees of difference from comparable genes in other mammals.\n\nDiastolic heart failure (i.e., from thickened left ventricles) is a physically debilitating condition and one of the leading causes of death in people, especially women. A more precise understanding of the underlying mechanisms of the giraffe heart’s ability to maintain function, despite cardiac thickening, may yield pathways to therapeutic innovations vital to improving outcomes for people suffering all-too-common deadly heart conditions.",
+  "function_addressed": [
+    "prevent fatigue"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/giraffes-thrive-despite-high-blood-pressure/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "giraffes",
+    "thrive",
+    "despite",
+    "high",
+    "blood",
+    "pressure"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

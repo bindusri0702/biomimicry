@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-ant-colonies-respond-quickly-to-distribute-food",
+  "organism_common": "Rock ant",
+  "organism_scientific": "",
+  "strategy_summary": "A society consists of individuals, each with its own role, in a structured community. A society can be centralized or decentralized.",
+  "mechanism": "Ant colonies are an example of a decentralized society. An ant can have interactions with nearby individuals, or take cues from the local environment to help make its decisions. For example, ants who have found food can quickly direct other ants to it without needing to check with the ‘control center’ first. They signal to other ants about where food is by emitting chemical signals from their bodies known as pheromones . Other ants will follow this signal, which will lead them to the food source. This decentralized response enables ants to act quickly and allows for resiliency , which is the ability to endure and recover from distress. An ant’s response to food shortages or famine is an example of resiliency.",
+  "function_addressed": [
+    "manage disturbance in a community",
+    "cooperate within the same species",
+    "coordinate by self-organization",
+    "distribute liquids",
+    "distribute solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/ant-colonies-respond-quickly-to-distribute-food/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "ant",
+    "colonies",
+    "respond",
+    "quickly",
+    "distribute",
+    "food"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

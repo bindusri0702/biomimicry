@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-ecosystems-recover-from-disturbances",
+  "organism_common": "Riparian habitat",
+  "organism_scientific": "",
+  "strategy_summary": "Ecosystems recover from disturbances through resource partitioning as resilient species colonize newly created habitats. “Other species attributes such as ability to cope with disturbances and colonization ability can contribute to successful coexistence of species that otherwise show little resource partitioning.",
+  "mechanism": "Ecosystems recover from disturbances through resource partitioning as resilient species colonize newly created habitats.\n\n“Other species attributes such as ability to cope with disturbances and colonization ability can contribute to successful coexistence of species that otherwise show little resource partitioning. One example is the Leucotrichia (caddis)- Paragyractis (moth) interaction where floods remove the competitively superior caddis species and allow colonization of rock surfaces by the moth, the more resilient species (McAuliffe 1984a). The rapid colonization ability of certain species (e.g. blackfly and chironomid larvae) allows them to exploit temporarily empty areas created by disturbances before they are displaced by other, slower colonists (see p. 191). Colonization ability could therefore be considered another niche dimension.” (Giller and Malmqvist 1998:195)",
+  "function_addressed": [
+    "cooperate within an ecosystem",
+    "manage disturbance in a community",
+    "biological control of populations, pests, diseases",
+    "maintain biodiversity"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/ecosystems-recover-from-disturbances/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "ecosystems",
+    "recover",
+    "disturbances"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

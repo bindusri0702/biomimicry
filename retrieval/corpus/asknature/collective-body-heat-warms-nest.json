@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-collective-body-heat-warms-nest",
+  "organism_common": "Southern wood ant",
+  "organism_scientific": "",
+  "strategy_summary": "Wood ants heat their nests using collective body heat from large groups. a colony of wood ants gather in the United Kingdom.",
+  "mechanism": "Wood ants heat their nests using collective body heat from large groups.\n\na colony of wood ants gather in the United Kingdom.\n\n“The surface of the nest of wood ants ( Formica rufa ) has numerous holes which serve as entrances and ventilation holes; at night and in cold weather the ants plug the holes to keep heat in. The workers also keep the slope of the nest at the right angle to obtain maximum amount of solar heat. The ants bring extra warmth into their nests as live heaters by basking in the sun in large numbers and taking the heat energy collected in their bodies into the nest.” (Pallasmaa 1995:35)",
+  "function_addressed": [
+    "cooperate within an ecosystem",
+    "capture, absorb, or filter energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/collective-body-heat-warms-nest/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "collective",
+    "body",
+    "heat",
+    "warms",
+    "nest"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

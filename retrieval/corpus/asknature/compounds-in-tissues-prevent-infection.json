@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-compounds-in-tissues-prevent-infection",
+  "organism_common": "Protect From Fungi",
+  "organism_scientific": "",
+  "strategy_summary": "Cells of the hybrid striped bass fight fungal infection with peptides that punch hydrophilic holes in the cell membranes of the infectious microorganism. Advanced lifeforms have faced the onslaught of parasitic microbial life for billions of years and have evolved numerous tools to prevent attack.",
+  "mechanism": "Cells of the hybrid striped bass fight fungal infection with peptides that punch hydrophilic holes in the cell membranes of the infectious microorganism.\n\nAdvanced lifeforms have faced the onslaught of parasitic microbial life for billions of years and have evolved numerous tools to prevent attack. Many fish, in particular, have diverse and highly developed protein strategies to fight infection. Some of these, including piscidin-2 found in hybrid striped bass, are effective against pathogenic fungi. They are thought to act by creating channels in the cell membrane allowing cell contents escape.\n\nPiscidin-2 opening channels in cell membrane of a fungal species.",
+  "function_addressed": [
+    "protect from fungi",
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/compounds-in-tissues-prevent-infection/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "compounds",
+    "tissues",
+    "prevent",
+    "infection"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

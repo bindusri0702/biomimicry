@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-stomata-absorb-nutrients-from-aerosols",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Stomata on surface of leaves on some plants bind aerosol particles and liquefy and absorb them using atmospheric humidity. Some plants have adapted to competing for nutrient uptake by creating stomata that open in the presence of humidity.",
+  "mechanism": "Stomata on surface of leaves on some plants bind aerosol particles and liquefy and absorb them using atmospheric humidity.\n\nSome plants have adapted to competing for nutrient uptake by creating stomata that open in the presence of humidity. When these stomata open, the nutrients that have collected on the surface of the leaf are absorbed and transported into the leaf apoplast. The mechanism through which these plants do this is known as hydraulic activation of stomata, or “HAS.” The surfaces of plants are filled with grooves that collect aerosols over time. When these plants are in the presence of high humidity, moisture also begins to collect on the surface of the plant. As it does, the aerosols containing hygroscopic salts bind with the water. The presence of excess moisture from the humidity also causes the activation of certain stomata. As these stomata open, the fine aerosol particles that have bonded to the water are transported to the interior of the leaf where they can then be absorbed and utilized for their nutritional value.",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities",
+    "capture, absorb, or filter liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/stomata-absorb-nutrients-from-aerosols/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "stomata",
+    "absorb",
+    "nutrients",
+    "aerosols"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

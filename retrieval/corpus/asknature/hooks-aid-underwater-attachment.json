@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-hooks-aid-underwater-attachment",
+  "organism_common": "Attach Permanently",
+  "organism_scientific": "",
+  "strategy_summary": "The legs of blackfly larvae anchor them to silk pads attached to the substrate via numerous hooks. “Blackfly larvae, even when very small, produce large amounts of silk which serves several purposes.",
+  "mechanism": "The legs of blackfly larvae anchor them to silk pads attached to the substrate via numerous hooks.\n\n“Blackfly larvae, even when very small, produce large amounts of silk which serves several purposes. First, silk is used for anchorage and explains the extraordinary capacity of blackfly larvae to remain attached or move in fast-flowing microhabitats. The larvae have numerous hooks, arranged in characteristic rows, encircling the tips of the anterior (thoracic) and abdominal prolegs (Fig. 5.5, p. 113). These help larvae to anchor firmly onto silk pads attached to the substrate. In species dwelling in particularly fast flow, the number of hooks on the abdominal proleg may exceed 8000, compared to only 500 in species living at slow velocity (Crosskey, 1990).” (Giller and Malmqvist 1998:116)",
+  "function_addressed": [
+    "attach permanently",
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hooks-aid-underwater-attachment/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hooks",
+    "aid",
+    "underwater",
+    "attachment"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-dehydration-helps-survive-freezing",
+  "organism_common": "Arctic springtail",
+  "organism_scientific": "",
+  "strategy_summary": "The body of the Arctic springtail protects from freezing temperatures via protective dehydration. “To survive the harsh cold of Arctic winters, animals living there have to get creative.",
+  "mechanism": "The body of the Arctic springtail protects from freezing temperatures via protective dehydration.\n\n“To survive the harsh cold of Arctic winters, animals living there have to get creative. The tiny, humpbacked arthropod known as the ‘springtail’ is no exception. Scientists have discovered it loses water and shrivels up in a process known as protective dehydration.\n\n“Melody Clark of the British Antarctic Survey and colleagues studied the Arctic springtail Onychiurus arcticus , which is an arthropod that looks like a tiny insect. They found that springtails release the water in their body to avoid damage caused by freezing. Despite their unhealthy appearance, the bugs remain very much alive.\n\n“‘During this process the body loses all its water and you end up with a normal-looking head, and a body which looks like a crumpled up crisp [chip] packet when it is fully dehydrated,’ says Clark. ‘But add a drop of water and it all goes back to normal.’ Clark presented the findings in April, at the Society for Experimental Biology annual meeting in Glasgow, UK.” (Khamsi 2007)",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/dehydration-helps-survive-freezing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "dehydration",
+    "survive",
+    "freezing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

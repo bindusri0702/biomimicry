@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-bill-skin-detects-touch",
+  "organism_common": "Sense Touch and Mechanical Forces in a Living System",
+  "organism_scientific": "",
+  "strategy_summary": "The bill skin of the platypus and echidna detects tactile stimulation via the push-rod, thought to be a type of mechanoreceptor. “The other prominent receptor in the bill skin of both the platypus and echidna is the ‘pushrod,’ which is thought to be a mechanoreceptor responding to tactile stimulation.” (Fowler and…",
+  "mechanism": "The bill skin of the platypus and echidna detects tactile stimulation via the push-rod, thought to be a type of mechanoreceptor.\n\n“The other prominent receptor in the bill skin of both the platypus and echidna is the ‘pushrod,’ which is thought to be a mechanoreceptor responding to tactile stimulation.” (Fowler and Miller 2003:279)",
+  "function_addressed": [
+    "sense touch and mechanical forces in a living system"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bill-skin-detects-touch/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bill",
+    "skin",
+    "detects",
+    "touch"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

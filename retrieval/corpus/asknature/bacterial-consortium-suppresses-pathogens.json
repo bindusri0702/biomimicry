@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-bacterial-consortium-suppresses-pathogens",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "The billions of bacteria, fungi, and similar microscopic organisms that make up the microbiome around a plant’s roots are a mixed bag for the plant itself. Some of the members of this invisible community are harmful.",
+  "mechanism": "The way a plant’s root system is structured can favor friendly microbes by providing habitat they prefer more than harmful microbes do. But the friendly microbes themselves turn out to be valuable allies in warding off harm, too.\n\nWhen a disease organism starts to take over and harm a plant, the plant produces sugars, amino acids, and other chemicals that signal to beneficial microbes that it’s in trouble. The beneficial microbes respond by moving in and multiplying. In some instances, the beneficial organisms simply crowd the harmful ones out. But in other cases, the beneficial microbes actually repel or destroy the attackers.\n\nPerhaps most interesting is the fact that no single type of beneficial microbe has the ability to protect a plant on its own. Rather, many different microbes work together in a complementary way to create optimal disease-suppressing conditions within the soil. The exact mix of the microbes varies from place to place and from time to time, depending on the nature of the threat from plant pathogens in the soil. For example, a mix of 17 different microbes helps potato plants fight off Rhizoctonia solani, a fungus that attacks their underground structures.\n\nPlants are not alone in enlisting helpful microbes to stay healthy. Animals—humans included—also get help warding off harmful bacteria and other microorganisms from the community of beneficial microbes that live on and in them.\n\nUnderstanding how plants signal distress and how beneficial soil microorganisms work together to respond is important for developing strategies to maximize the ability of beneficial microbes in any microbiome to fight off harmful ones. One specific potential application is the development of antiviral and antifungal treatments, soil remediation, and developing recipes for soil inhabitants to boost agricultural yields. The approach could also be applied to boosting the ability of the human immune system to ward off disease-causing organisms or even cancer cells.\n\nThinking more broadly, we can apply the concept of synergy and customizing the mix of benefactors to fit the unique circumstances more broadly to the search for solutions to just about any type of effort to favor beneficial over adverse outcomes. When no single approach seems able to ensure the “good guys” win, it might be worthwhile to take a lesson from beneficial microbes and look for a combination of many different approaches that just could do the trick.",
+  "function_addressed": [
+    "biological control of populations, pests, diseases",
+    "manage disturbance in a community",
+    "cooperate within an ecosystem",
+    "cooperate/compete between different species",
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bacterial-consortium-suppresses-pathogens/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "microbial",
+    "consortium",
+    "protect",
+    "plant",
+    "hosts",
+    "harmful"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-uterus-expandscontracts",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "The uterus of female mammals can expand and contract to accommodate its contents thanks to spiral muscle fibers in its central myometrial layer. “Similarly, the uterus of female mammals must expand and contract with gestation and birth, often an order of magnitude (ten-fold).",
+  "mechanism": "The uterus of female mammals can expand and contract to accommodate its contents thanks to spiral muscle fibers in its central myometrial layer.\n\n“Similarly, the uterus of female mammals must expand and contract with gestation and birth, often an order of magnitude (ten-fold). The hooped fibers of chitin in the locust are paralleled in the interior circular muscle fibers of the uterus. Of the three layers of the uterus, the central myometrial layer is responsible for the expansion and contraction of the uterus. It is composed of connective tissue, mainly smooth muscle fibers with an external layer laid longitudinally and an internal layer laid circularly at the base which then spirals in both directions around the uterine body (which might even be a logarithmic spiral…).\n\nThe lessons from these ‘hooped’ chitin fibers and spiral muscle fibers could be incorporated into a polymer packaging material, thereby allowing for expansion and contraction of the packaging depending on the size of its contents. The result of packing multiple items into a shipping case would be the absolute minimization of air space between objects created by the packaging alone. Additionally, the same packaging product could be specified for a large variety of object sizes, i.e. the bag holding the baby shoe would be the same SKU as the one holding the basketball shoe or the soccer ball.” ( Biomimicry 3.8 unpublished report)",
+  "function_addressed": [
+    "modify size/shape/mass/volume",
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/uterus-expandscontracts/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "uterus",
+    "expands",
+    "contracts"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

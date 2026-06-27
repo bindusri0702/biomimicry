@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-peptide-defensin-fights-pathogens",
+  "organism_common": "Animals",
+  "organism_scientific": "",
+  "strategy_summary": "Defensins are naturally produced peptides that inhibit pathogen growth and degrade pathogen toxins by binding to the pathogens  “In addition to their bacterial membrane permeabilizing capacity, defensins have been shown to neutralize bacterial invasion by directly binding to bacterial toxins….Similar properties have…",
+  "mechanism": "Defensins are naturally produced peptides that inhibit pathogen growth and degrade pathogen toxins by binding to the pathogens\n\n“In addition to their bacterial membrane permeabilizing capacity, defensins have been shown to neutralize bacterial invasion by directly binding to bacterial toxins….Similar properties have been described for retrocyclins, a class of circular defensins found in non-human primates, which were shown to bind to the anthrax lethal factor with high affinity [66].” (de Leeuw and Lu 2007:69)",
+  "function_addressed": [
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/peptide-defensin-fights-pathogens/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "peptide",
+    "defensin",
+    "fights",
+    "pathogens"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

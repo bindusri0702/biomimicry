@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-mucus-inhibits-nematocyst-firing",
+  "organism_common": "Shag rug nudibranch",
+  "organism_scientific": "",
+  "strategy_summary": "The mouth of the nudibranch prevents nematocyst firing in sea anemone prey via an adaptable, inhibitory mucus. “Nudibranchs that feed on cnidarians must defend themselves from the prey’s nematocysts or risk their own injury or death.",
+  "mechanism": "The mouth of the nudibranch prevents nematocyst firing in sea anemone prey via an adaptable, inhibitory mucus.\n\n“Nudibranchs that feed on cnidarians must defend themselves from the prey’s nematocysts or risk their own injury or death. While a nudibranch’s mucus has been thought to protect the animal from nematocyst discharge, an inhibition of discharge by nudibranch mucus has never been shown. The current study investigated whether mucus from the aeolid nudibranch Aeolidia papillosa would inhibit nematocyst discharge from four species of sea anemone prey…Mucus from A. papillosa inhibited the discharge of nematocysts from sea anemone tentacles. This inhibition was specifically limited to the anemone species on which the nudibranch had been feeding. When the prey species was changed, the mucus changed within 2 weeks to inhibit the nematocyst discharge of the new prey species. The nudibranchs apparently produce the inhibitory mucus rather than simply becoming coated in anemone mucus during feeding. Because of the intimate association between most aeolid nudibranchs and their prey, an adaptable mucus protection could have a significant impact on the behavior, distribution, and life history of the nudibranchs.” (Greenwood 2004:113)",
+  "function_addressed": [
+    "protect from chemicals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mucus-inhibits-nematocyst-firing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mucus",
+    "inhibits",
+    "nematocyst",
+    "firing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

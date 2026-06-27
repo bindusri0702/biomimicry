@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-beak-size-optimized-for-thermal-regulation",
+  "organism_common": "Birds",
+  "organism_scientific": "",
+  "strategy_summary": "The beak size of birds is optimized for thermal regulation because they vary in size relative to latitude and environmental temperature, a concept called Allen's rule. “By examining bill sizes of a diverse range of bird species around the world, researchers have found that birds with larger bills tend to be found in…",
+  "mechanism": "The beak size of birds is optimized for thermal regulation because they vary in size relative to latitude and environmental temperature, a concept called Allen's rule.\n\n“By examining bill sizes of a diverse range of bird species around the world, researchers have found that birds with larger bills tend to be found in hot environments, whilst birds in colder environments have evolved smaller bills.\n\n“The study…provides evidence that maintaining body temperature in a bird’s natural environment may have shaped the evolution of bird bills…\n\n“The research validates a 133-year-old ecological theory called Allen’s rule, which predicts that animal appendages like limbs, ears, and tails are smaller in cold climates in order to minimize heat loss.” (The University of Melbourne 2010)\n\nImage: Tambako the Jaguar / toggle icon",
+  "function_addressed": [
+    "optimize shape/materials",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/beak-size-optimized-for-thermal-regulation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "beak",
+    "size",
+    "optimized",
+    "thermal",
+    "regulation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

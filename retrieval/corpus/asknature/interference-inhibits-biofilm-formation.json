@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-interference-inhibits-biofilm-formation",
+  "organism_common": "Penicillium",
+  "organism_scientific": "",
+  "strategy_summary": "Penicillium mold inhibits bacterial biofilm formation in part by producing penicillic acid and patulin. “More recently, these workers showed that penicillic acid and patulin (extracted from cultures of Penicillium moulds) also exhibited quorum sensing inhibitory activity, although subsequent transcriptomic analyses…",
+  "mechanism": "Penicillium mold inhibits bacterial biofilm formation in part by producing penicillic acid and patulin.\n\n“More recently, these workers showed that penicillic acid and patulin (extracted from cultures of Penicillium moulds) also exhibited quorum sensing inhibitory activity, although subsequent transcriptomic analyses showed that their effect(s) were not specific to quorum sensing. 44 ” (Welch et al. 2005:200)",
+  "function_addressed": [
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/interference-inhibits-biofilm-formation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "interference",
+    "inhibits",
+    "biofilm",
+    "formation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

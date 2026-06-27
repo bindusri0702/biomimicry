@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-head-bores-through-wood",
+  "organism_common": "Naval shipworm",
+  "organism_scientific": "",
+  "strategy_summary": "The head of a shipworm bores circular burrows in wood thanks to raspy, rotating shells. Worm-like molluscs of the genus Teredo have been known to people for thousands of years because of their habit of wrecking wooden ships and piers.",
+  "mechanism": "The head of a shipworm bores circular burrows in wood thanks to raspy, rotating shells.\n\nWorm-like molluscs of the genus Teredo have been known to people for thousands of years because of their habit of wrecking wooden ships and piers. “There are many different types of shipworms, the largest of which is up to 2 metres long. The worm has a head with two shells (they do the damage), and a wormlike body that follows behind … They invade wood while in the tiny larval stage … The shipworm uses the shell on its head to burrow. Their ridged and rough surfaces rub the wood away as the worm first turns its head one way then the other. This cuts away a perfectly circular tube that is just a bit larger than the shell itself. The worm then eats the wood it has cut away, turning the cellulose in the wood into glucose that it uses for energy. The wormlike body follows behind the shell, producing a substance like chalk to line the burrow … The worm gets its oxygen from water. It draws the water in then passes it out again through through two tubes on its tail called siphons. These stick out from the opening of the burrow but can be pulled in and the burrow closed by special small plates called pallets. These seal the tube so tightly that shipworms can survive when the timber is temporarily out of water.” (Liverpool Museum 2008)",
+  "function_addressed": [
+    "move in/on solids",
+    "physically break down living materials",
+    "chemically break down organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/head-bores-through-wood/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "head",
+    "bores",
+    "through",
+    "wood"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-cells-recognize-and-respond-to-pathogens",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Cells of plants detect pathogens and promote rapid cell death around the infection, keeping the plant alive, using Hypersensitive Response (HR). “When a plant is attacked and there is a gene-for-gene recognition, the HR [Hypersensitive Response] response leads to very rapid cell death around the site of attack.",
+  "mechanism": "Cells of plants detect pathogens and promote rapid cell death around the infection, keeping the plant alive, using Hypersensitive Response (HR).\n\n“When a plant is attacked and there is a gene-for-gene recognition, the HR [Hypersensitive Response] response leads to very rapid cell death around the site of attack. This seals off the wounded tissue to prevent the pathogen or pest from moving into the rest of the plant. Hydrogen peroxide and nitric oxide are produced and may signal a cascade of biochemical events resulting in the localized death of host cells.” (Raven et al. 2002:834)\n\n“In the case of virulent invaders (no R gene recognition), there are changes in local cell walls that at least partially block the movement of the pathogen or pest farther into the plant. In this case there is not an HR response and the local plant cells are not suicidal.” (Raven et al. 2002:834)\n\n“Certain proline-rich protein s of the cell wall become oxidatively cross-lined after pathogen attack in an H 2 O 2 – mediated reaction. This process strengthens the walls of the cells in the vicinity of the infection site, increasing their resistance to microbial digestion.” (Taiz and Zeiger 2010:392)\n\n“The hypersensitive response behaves in the following manner: before the HR is triggered, reactive oxygen and nitric oxide (NO) rapidly accumulates in the cells. The accumulated oxygen then reduces, forming hydroxide ion (OH – ) and hydrogen peroxide (H 2 O 2 ). These compounds contribute to death of the infected host cells. The NO is the activator of HR and triggers the reduction of oxygen. Accumulation of both oxygen and NO are needed to trigger the HR, an increase in one of these will not trigger a response by the plant cells. In addition, HR only responds to biotic and pathogenic invasions, virulent attacks gain no response from the plant cell.” (Taiz and Zeiger 2010)\n\nRaven, Peter H., and George B. Johnson. “How Plants Grow in Response to Their Environment.” Biology. Boston: McGraw-Hill, 2002. 834-35. ; “An Overview of Plant Defenses against Pathogens and Herbivores.” Overview of Plant Defenses. N.p., n.d. Web. 16 Sept. 2012. http://www.apsnet.org/edcenter/intropp/topics/Pages/OverviewOfPlantDiseases.aspx. ; Taiz, L., and E. Zeiger. “Secondary Metabolites and Plant Defense.” Plant Physiology. USA: Sinauer Associates, 2010. 386-94. Print.",
+  "function_addressed": [
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/cells-recognize-and-respond-to-pathogens/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "cells",
+    "recognize",
+    "respond",
+    "pathogens"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

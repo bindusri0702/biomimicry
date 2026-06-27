@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-added-noise-enhances-ear-sensitivity",
+  "organism_common": "Differentiate Signal From Noise",
+  "organism_scientific": "",
+  "strategy_summary": "Receptive organelles, or hair bundles, of the inner ear hair cells have increased sensitivity for signal detection due to added noise creating nonlinear stochastic resonance. Used with permission from the Wellcome Trust, http://images.wellcome.ac.uk.",
+  "mechanism": "Receptive organelles, or hair bundles, of the inner ear hair cells have increased sensitivity for signal detection due to added noise creating nonlinear stochastic resonance.\n\nUsed with permission from the Wellcome Trust, http://images.wellcome.ac.uk. License: UK CC-NC-ND 2.0. No cropping is allowed. A scanning electron microscope image of the sensory hair bundle of an inner hair cell from a guinea pigs hearing organ in the inner ear. Vibrations made by sound cause the hairs to be moved back and forth, alternately stimulating and inhibiting the cell. When the cell is stimulated it causes nerve impulses to form in the auditory nerve, sending messages to the brain.\n\n“In this multicellular model for peripheral auditory coding the enhancing effect of Brownian noise on the high sensitivity of the auditory system was demonstrated. It was shown that the noise quantitatively accounts for the detection of weak pure tones which would otherwise either evoke receptor potentials too small to elicit spikes at all or too few spikes sufficient for determination of the stimulus frequency.” (Gebeshuber 2000:1865)",
+  "function_addressed": [
+    "differentiate signal from noise"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/added-noise-enhances-ear-sensitivity/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "added",
+    "noise",
+    "enhances",
+    "ear",
+    "sensitivity"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

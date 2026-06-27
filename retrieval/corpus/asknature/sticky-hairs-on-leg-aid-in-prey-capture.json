@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-sticky-hairs-on-leg-aid-in-prey-capture",
+  "organism_common": "Palp-footed spiders",
+  "organism_scientific": "",
+  "strategy_summary": "Hairs on the legs of hunting spiders aid in capturing and holding prey using adhesive bristles. Although spiders are often known for the intricate webs they create to capture prey, more than half of them do not build webs.",
+  "mechanism": "Hairs on the legs of hunting spiders aid in capturing and holding prey using adhesive bristles.\n\nAlthough spiders are often known for the intricate webs they create to capture prey, more than half of them do not build webs. In fact, a number of spiders actively hunt. To facilitate hunting, a variety of spider species possess small hairy pads (called scopulae) on their legs that enable the spiders to better grasp and hold struggling prey. These scopulae minimize energy use beyond what is required for locomotion by making the spiders more efficient at capturing prey.",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/sticky-hairs-on-leg-aid-in-prey-capture/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "sticky",
+    "hairs",
+    "leg",
+    "aid",
+    "prey",
+    "capture"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

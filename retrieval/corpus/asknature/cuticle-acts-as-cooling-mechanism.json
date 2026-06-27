@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-cuticle-acts-as-cooling-mechanism",
+  "organism_common": "Oriental hornet",
+  "organism_scientific": "",
+  "strategy_summary": "The cuticle of wasps provides a cooling mechanism by use of hairs, thin layers, and tracheal branches. “Hornets and wasps are unique in that, even in the absence of sweat glands, they are able to buzz around at temperatures of 40 degrees Celsius without overheating.",
+  "mechanism": "The cuticle of wasps provides a cooling mechanism by use of hairs, thin layers, and tracheal branches.\n\n“Hornets and wasps are unique in that, even in the absence of sweat glands, they are able to buzz around at temperatures of 40 degrees Celsius without overheating. A new theory presented by Jacob Ishay and colleagues at Tel Aviv University suggests that hornets may keep cool by using their cuticle as an electrical heat pump. The team believes that hornet cuticle is comprised of a stack of thermocouples, which transfer heat from one type of conductive material to another when voltage is applied. The voltage in this scenario would be the hornet’s own metabolism, or conversely, solar energy.” (Courtesy of the Biomimicry Guild)\n\nImage: Emily Harrington / EH Illustration / Copyright © - All rights reserved toggle icon\n\n“In the social wasps Vespa orientalis and Paravespula germanica (Hymenoptera, Vespinae), a thermogenic center has been found in the dorsal part of the first thoracic segment. The temperature in this region of the prothorax is higher by 6-9°C than that at the tip of the abdomen, and this in actively flying hornets outside the nest (workers, males or queens) as well as in hornets inside the nest that attend to the brood in the combs. On viewing the region from the outside, one discerns a canal or rather a fissure in the cuticle, which commences at the center of the dorsal surface of the prothorax and extends till the mesothorax. Thus the length of this canal or fissure is ~5-7 mm and it is seen to contain numerous thin hairs whose shape varies from that of the hairs alongside the structure. Beneath the cuticle in this region there are dorsoventral as well as longitudinal muscles in abundance, much the same as the musculature in the remaining thoracic segments (i.e. the meso- and metathorax), which activate the two pairs of wings. The canal-bearing segment is of course devoid of wings, and its dorsoventral muscles are attached to the cuticle, which in this region resembles a bowl harboring several layers of epithelium that boasts numerous butterfly-shaped tracheal branches. Additionally there are layers that display lymph-filled spaces and also perforated layers and depressions, and beneath all these is a lace-like layer that also coats the cuticle’s hollows. Underneath the cuticle proper, there are numerous large mitochondria and tracheae, which occupy a considerable part of the cuticular epithelium surface. These abundant mitochondria are, most probably, the main element of heat production in the thermogenic center.” (Ishay et al. 2006:41)\n\nImage: Sarah Faulwetter / toggle icon",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/cuticle-acts-as-cooling-mechanism/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "cuticle",
+    "acts",
+    "cooling",
+    "mechanism"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

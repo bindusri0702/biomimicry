@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-metabolism-induces-formation-of-calcium-carbonate",
+  "organism_common": "Alternaria",
+  "organism_scientific": "",
+  "strategy_summary": "Metabolism in Alternaria fungi sequestrate carbon dioxide by forming calcium carbonate through the assimilation of nitrate. Fungi are the dominant microbes in soil.",
+  "mechanism": "Metabolism in Alternaria fungi sequestrate carbon dioxide by forming calcium carbonate through the assimilation of nitrate.\n\nFungi are the dominant microbes in soil. They are an essential part of many ecosystems because they help recycle nutrients from the atmosphere and ground alike (fungi are often associated with decomposition). Fungi from the genus Alternaria take up nitrate from moist soils and convert it to ammonium ion, increasing the pH of the soil in the process. As a result, the carbon dioxide “exhaled” from their respiration gets converted to solid calcium carbonate in the soil before it has a chance to escape into the air as carbon dioxide gas.",
+  "function_addressed": [
+    "chemically assemble mineral crystals",
+    "chemically assemble on demand"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/metabolism-induces-formation-of-calcium-carbonate/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "metabolism",
+    "induces",
+    "formation",
+    "calcium",
+    "carbonate"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

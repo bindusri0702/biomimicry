@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-a-mucus-house-filters-food",
+  "organism_common": "Giant Larvacean",
+  "organism_scientific": "",
+  "strategy_summary": "The giant larvacean is one of many creatures inhabiting the mid-ocean layer that have the ability to create a home made out of their own mucus. Both the larvacean and its home are delicate and transparent––the larvacean shaped like a tadpole and its mucus house a beautiful, jellyfish-like floating structure…",
+  "mechanism": "The food filter, built using transparent structural protein s combined with cellulose , is located within the interior section of the house. Water flows from the outer section of the house into this section through two entry points––filtered as it enters––and then reaches the chamber where the larvacean lives. The larvacean beats its tail to direct the water towards either another filter that concentrates food of the right size or into a garbage chute that dumps food that’s not the right size into the outer section of the house. From the second filter, the food that is just right makes its way directly into the larvacean’s mouth. While the giant larvacean may seem like a picky eater, its diet actually consists of food particles that range widely in size, from bacteria you’d need a microscope to see to microzooplankton you could potentially see with the naked eye.\n\n​The diversity in its diet makes the giant larvacean an important link in ocean food webs, and its water pumping capabilities are critical for the movement of particles through the water column. Giant larvaceans are able to filter water at a faster rate than any other zooplankton filter feeder. When their feces and discarded houses sink to the bottom of the ocean, they bring both food and plastic particles with them￼.\n\nIt is astonishing how such a structure can be made from the mucus produced by the larvacean’s own body. How could human-made filtration systems be improved by mimicking or harnessing this organic, sustainable, naturally-produced process?",
+  "function_addressed": [
+    "capture, absorb, or filter solids",
+    "capture, absorb, or filter liquids",
+    "store solids",
+    "distribute solids",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/a-mucus-house-filters-food/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mucus",
+    "filters",
+    "water",
+    "food"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

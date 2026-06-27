@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-nest-openings-protect-from-floods",
+  "organism_common": "Mud-nesting ant",
+  "organism_scientific": "",
+  "strategy_summary": "For animals that live in or near water, floods can be a matter of life and death. When the tide rises and the water starts to cover their home, they have to be able to seal themselves off from the encroaching water or risk being swept away or drowned.",
+  "mechanism": "Mangrove-dwelling ants have evolved a clever strategy for surviving high tide: the entrances to their nests are blocked by loose soil when water levels rise. The collapsing soil seals off the nest, trapping a life-saving pocket of air inside.\n\nSandbags have long been used by humans to construct makeshift dykes and walls to hold back floodwaters. Taking a lesson from these ants, there could be time-, energy-, and money-saving methods for building temporary dams by having them construct themselves as waters rise.",
+  "function_addressed": [
+    "protect from excess liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nest-openings-protect-from-floods/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "nest",
+    "openings",
+    "protect",
+    "floods"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

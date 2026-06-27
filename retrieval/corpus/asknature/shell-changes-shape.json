@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-shell-changes-shape",
+  "organism_common": "African pancake tortoise",
+  "organism_scientific": "",
+  "strategy_summary": "The shell of the pancake tortoise allows it to wedge into small spaces by being flexible at the bridges. “Most terrestrial species have firm, dense shells such as those of the gopher tortoises ( Gopherus polyphemus ).",
+  "mechanism": "The shell of the pancake tortoise allows it to wedge into small spaces by being flexible at the bridges.\n\n“Most terrestrial species have firm, dense shells such as those of the gopher tortoises ( Gopherus polyphemus ). However, shells may be flexible at the bridges, as with pancake tortoises ( Malacochercus tonerii ), which allows for the animals to wedge into crevices to escape predation.” (Fowler and Miller 2003:48)",
+  "function_addressed": [
+    "manage compression",
+    "modify size/shape/mass/volume"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shell-changes-shape/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shell",
+    "changes",
+    "shape"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

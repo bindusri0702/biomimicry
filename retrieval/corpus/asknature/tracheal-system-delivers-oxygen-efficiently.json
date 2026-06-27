@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-tracheal-system-delivers-oxygen-efficiently",
+  "organism_common": "Mayfly",
+  "organism_scientific": "",
+  "strategy_summary": "The tracheal systems of flying insects fuel flight by efficiently delivering oxygen-filled air to every cell of the body. “The flight of flies, too, requires high levels of energy.",
+  "mechanism": "The tracheal systems of flying insects fuel flight by efficiently delivering oxygen-filled air to every cell of the body.\n\n“The flight of flies, too, requires high levels of energy. There is also a need for large volumes of oxygen in order to burn this energy. The need for great amounts of oxygen is satisfied by an extraordinary respiratory system lodged within the bodies of flies and other insects.\n\n“The fly’s need of oxygen is so high that there is no time to wait for the oxygen to be delivered to the body cells by the blood. To deal with this problem, there is a very special system. The air tubes in the insect’s body carry the air to different parts of the fly’s body. Just like the circulatory system in the body, there is an intricate and complex network of tubes (called the tracheal system) that delivers oxygen-containing air to every cell of the body.\n\n“Thanks to this system, the cells that make up the flight muscles take oxygen directly from these tubes. This system also helps to cool down the muscles which function at such high rates as 1000 cycles per second.” (Yahya 2002: 34)",
+  "function_addressed": [
+    "distribute gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tracheal-system-delivers-oxygen-efficiently/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tracheal",
+    "system",
+    "delivers",
+    "oxygen",
+    "efficiently"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

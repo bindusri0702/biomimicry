@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-how-blood-flow-keeps-jackrabbits-cool",
+  "organism_common": "Black-tailed jackrabbit",
+  "organism_scientific": "",
+  "strategy_summary": "Jackrabbits live in the desert where they’re exposed to extremely hot daytime temperatures, but these animals are able to stay cool by releasing excess heat from their oversized ears.",
+  "mechanism": "The jackrabbit’s large ears provide an expansive surface area of exposed skin loaded with blood vessels. When the surrounding air temperature is slightly below body temperature, as when it retreats from hot desert sun into shade, the blood vessels in the outer part of its ears widen in a process called vasodilation. This results in greater circulation of warm blood from the body’s core to the jackrabbit’s ears, where heat is lost to the cooler surrounding air.\n\nJackrabbit ears, like all heat exchangers, depend on surface area. However, most industrial equipment is built from rigid metals that can’t “vasodilate.” By increasing the diameter of its blood vessels, the jackrabbit effectively increases the surface area over which heat exchange can occur. This could result in more dynamic heat exchanger designs that adapt to improve overall efficiency. In a way, jackrabbits are using their ears as temperature sinks. Imagine homes or other buildings with surfaces that absorbed heat during the day and then retracted inside the home to help warm it during cooler nighttime temperatures.\n\nThis summary was contributed by Ashley Meyers.",
+  "function_addressed": [
+    "maintain homeostasis",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/how-blood-flow-keeps-jackrabbits-cool/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "blood",
+    "flow",
+    "keeps",
+    "jackrabbits",
+    "cool"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

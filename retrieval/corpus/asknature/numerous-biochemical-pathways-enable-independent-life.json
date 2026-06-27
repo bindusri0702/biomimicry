@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-numerous-biochemical-pathways-enable-independent-life",
+  "organism_common": "Candidatus desulforudis audaxviator",
+  "organism_scientific": "",
+  "strategy_summary": "The extremophile, Desulforudis audaxviator, produce all essential amino acids by developing unique methods of fixing both carbon and nitrogen. Few organisms are similar to Desulforudis audaxviator in that they are anaerobic chemolithoautotrophs.",
+  "mechanism": "The extremophile, Desulforudis audaxviator, produce all essential amino acids by developing unique methods of fixing both carbon and nitrogen.\n\nFew organisms are similar to Desulforudis audaxviator in that they are anaerobic chemolithoautotrophs. In other words, they are able to use inorganic sources of energy (instead of consuming organic molecules as food or using sunlight), fix their own carbon (rather than rely on plants to convert carbon dioxide to organic compounds), and use chemicals other than oxygen for respiration. What’s more, D. audaxviator can also fix its own nitrogen and use it to synthesize the entire repertoire of amino acids necessary for life. Taken together, these characteristics mean that D. audaxviator is capable of complete independence from other organisms.\n\nWatch Interactive Report",
+  "function_addressed": [
+    "chemically assemble organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/numerous-biochemical-pathways-enable-independent-life/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "numerous",
+    "biochemical",
+    "pathways",
+    "enable",
+    "independent",
+    "life"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-scale-and-exoskeleton-give-ants-super-strength",
+  "organism_common": "Ants",
+  "organism_scientific": "",
+  "strategy_summary": "Ants are some of the smallest yet strongest creatures on Earth. Found nearly everywhere except Antarctica, they thrive in forests, deserts, grasslands, and cities.",
+  "mechanism": "The ant’s muscle attachment system and mechanical design offer a powerful blueprint for human innovation. Engineers are exploring how to build micro-robots with rigid internal structures that mimic apodemes, enabling these tiny machines to generate high force despite their small size. Ant mandibles also inspire the creation of precision tools for gripping, cutting, or performing delicate surgical procedures, where strength and accuracy must coexist in a compact design.\n\nIn the field of medical technology, advanced prosthetic devices could be developed to replicate the ant’s direct and efficient force transmission, improving strength and responsiveness for users. Meanwhile, architects and engineers look to ant limb geometry as a model for lightweight structures that combine minimal material use with exceptional strength and stability.\n\nAnts remind us that true power and precision are not merely a function of size, but of how materials, geometry, and mechanics are woven together in elegant and efficient ways.",
+  "function_addressed": [
+    "prevent deformation",
+    "prevent fracture/rupture",
+    "prevent buckling",
+    "manage tension",
+    "capture, absorb, or filter solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/scale-and-exoskeleton-give-ants-super-strength/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "scale",
+    "exoskeleton",
+    "give",
+    "ants",
+    "super",
+    "strength"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

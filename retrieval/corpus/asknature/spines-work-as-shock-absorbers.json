@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-spines-work-as-shock-absorbers",
+  "organism_common": "European hedgehog",
+  "organism_scientific": "",
+  "strategy_summary": "The spines of hedgehogs function as shock-absorbers during falls thanks to their honeycomb-like core and longitudinal stiffening. “In the second category, comprising animals with masses between about 100 kilograms and 100 grams (4 ounces), falling may be injurious, but the fall must involve a distance greater than the…",
+  "mechanism": "The spines of hedgehogs function as shock-absorbers during falls thanks to their honeycomb-like core and longitudinal stiffening.\n\n“In the second category, comprising animals with masses between about 100 kilograms and 100 grams (4 ounces), falling may be injurious, but the fall must involve a distance greater than the height of the animal…Hedgehogs (about 500–1,000 grams in mass), are also just above the lower limit, but, according to Vincent and Owers (1986), cope with falls by using a special device–spines that can act as shock absorbers.” (Vogel 2003:44)\n\n“[T]he hedgehog spine is a shock-absorber … The foam-like structure down the center of spines and quills supports the thin outer walls against local buckling, allowing the structure to bend further without failing … Porcupine quills perform more or less the same as hollow cylinders in buckling as struts with an axial load; in bending they are 40% or so better. But the spines of the hedgehog, with their square honeycomb core and longitudinal stiffening, are three times better than they would be without the core.” (Vincent 2002:30-31)",
+  "function_addressed": [
+    "manage impact",
+    "manage compression",
+    "prevent buckling"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/spines-work-as-shock-absorbers/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "spines",
+    "work",
+    "shock",
+    "absorbers"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

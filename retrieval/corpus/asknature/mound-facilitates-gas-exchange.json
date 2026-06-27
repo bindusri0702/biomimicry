@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-mound-facilitates-gas-exchange",
+  "organism_common": "Mound-building termites",
+  "organism_scientific": "",
+  "strategy_summary": "Mound-building macrotermites construct vertical mounds out of soil, saliva, and dung, with some mounds in Africa measuring up to several meters high. The mounds generally resemble chimneys, but different species ventilate their mounds in different ways.",
+  "mechanism": "The most recent published research on termite mounds suggests that they function much like mammalian lungs and act as accessory organs for gas exchange in the underground nests. It was previously thought that termite mounds functioned to continuously maintain the nest’s internal temperature within a narrow range in the face of extreme outside temperature fluctuations, but research on mound-building termites like Macrotermes michaelseni , which construct closed mounds, is expanding our understanding of how these mounds function. During the day, changes in internal nest temperature are less extreme than changes in outside temperature, but over the course of a year, nest temperature does vary and closely follows the temperature of the surrounding soil. The soil has a large thermal capacity, meaning it can absorb or lose large amounts of heat energy before experiencing any changes in temperature. In a way, the soil around the termite nest acts as a “buffer” against daily changes in outside temperature.\n\nResearchers are actively studying mounds to understand precisely how mound structure facilitates gas exchange in the underground colony. It appears that the main mechanism is through internal air currents driven by solar heat. As outside temperatures change throughout the day and the sun strikes different surfaces on the mound, temperature gradients develop between the mound periphery and center. These temperature gradients create currents of rising and falling air inside the mound. The direction of these currents varies as temperature gradients change throughout the day. Wind energy from unsteady airflows outside the mound may also play a secondary role in ventilation. The internal airflows likely promote mixing between air in the mound and air in the nest, ultimately facilitating gas exchange in the nest.\n\nIn the United States, homes and buildings account for about 40% of our total electricity consumption, and about one-third of that is from heating and ventilation systems. The growing understanding of macrotermite mound structure and function could inspire energy-saving climate control systems, which could substantially reduce greenhouse gas emissions.",
+  "function_addressed": [
+    "capture, absorb, or filter energy",
+    "distribute gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mound-facilitates-gas-exchange/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mound",
+    "facilitates",
+    "gas",
+    "exchange"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

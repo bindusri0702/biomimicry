@@ -1,0 +1,22 @@
+{
+  "doc_id": "asn-intestine-osmoregulates",
+  "organism_common": "Gulf toadfish",
+  "organism_scientific": "",
+  "strategy_summary": "All animals need to maintain a balance of water and salts in their bodies in order to function properly. This is especially true for animals living in environments where the concentration of salts in the environment is different from the concentration inside the animal’s body.",
+  "mechanism": "The intestine of marine teleost fish osmoregulates in part due to Cl-/HCO3- exchange. This exchange helps to regulate the level of water in the intestine by exchanging chloride for bicarbonate.\n\nThe strategy used by the intestine of marine teleost fish to osmoregulate could be applied in a number of ways. For example, it could be used to help regulate the level of water in the human intestine. Additionally, this strategy could be used to help regulate the level",
+  "function_addressed": [
+    "maintain homeostasis"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/intestine-osmoregulates/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "intestine",
+    "osmoregulates"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

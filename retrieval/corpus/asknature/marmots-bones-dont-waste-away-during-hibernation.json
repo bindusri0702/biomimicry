@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-marmots-bones-dont-waste-away-during-hibernation",
+  "organism_common": "Yellow-bellied marmot",
+  "organism_scientific": "",
+  "strategy_summary": "High up on a talus slope of Triple Divide Peak in Glacier National Park, a stout, cat-sized, golden-furred mammal relaxes upon an ancient, red sedimentary rock outcropping just above treeline, soaking up the glowing May sunshine of springtime. It has been eight long months since this aging female yellow-bellied marmot…",
+  "mechanism": "While metabolic activities in hibernating animals all tend to slow down, in yellow-bellied marmots, bone formation actually appears to increase. Osteocytes are bone-forming cells found within the bones of animals such as marmots and humans. While yellow-bellied marmots hibernate, these cells appear to be busy depositing calcareous minerals such as hydroxyapatite, calcium carbonate, and calcium phosphate throughout the bone matrix––the opposite of what one would expect in hibernating, relatively inactive animals.\n\nThis unexpected metabolic activity may be due to hormonal changes in hibernating marmots, suspended inhibition of growth in the bone’s periosteum (i.e., outer layer), or both. Additional research suggests higher levels of certain enzymes during hibernation (e.g., MGL, which is 98 times the concentration of summertime levels) may help reduce bone loss in marmots by reducing the number of osteoclasts (bone-reducing cells).\n\nYour bones are constantly being broken down and replaced, their size and density optimized for the mechanical loads they must carry. Bones of organisms lacking physical pressure (e.g., from low gravity or physical activity) tend to become osteoporotic, with reduced density and strength, a common issue for astronauts spending long periods of time in low-gravity environments and for the elderly. Post-reproductive women, in particular, often suffer from osteoporosis due to additional hormonal changes in their bodies. Understanding the mechanisms by which mammals such as yellow-bellied marmots defy expectations, and actually maintain bone strength and density despite inactivity and age, could help in the development of therapies that positively impact millions of elderly, especially women, each year.",
+  "function_addressed": [
+    "regulate cellular processes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/marmots-bones-dont-waste-away-during-hibernation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "marmots",
+    "bones",
+    "don",
+    "waste",
+    "away",
+    "during"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

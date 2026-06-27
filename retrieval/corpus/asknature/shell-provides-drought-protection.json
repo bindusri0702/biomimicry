@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-shell-provides-drought-protection",
+  "organism_common": "African lungfishes",
+  "organism_scientific": "",
+  "strategy_summary": "Some lungfish survive drought by burrowing into mud and secreting mucus that hardens into a protective shell around them. “Whereas some creatures hibernate to avoid the cold, adverse conditions of winter, certain others undergo a similar process when faced with unusually elevated temperatures during the summer or…",
+  "mechanism": "Some lungfish survive drought by burrowing into mud and secreting mucus that hardens into a protective shell around them.\n\n“Whereas some creatures hibernate to avoid the cold, adverse conditions of winter, certain others undergo a similar process when faced with unusually elevated temperatures during the summer or severe periods of drought. This ‘summer hibernation’ is known as estivation and, although less common than true, winter hibernation, it has been recorded in several different types of animal. In some cases, in response to drought, it can last for years.\n\n“Undoubtedly the most famous estivators are lungfishes, notably the West African lungfish ( Protopterus annectens ) and the Congolese lungfish ( P. dolloi ). These species normally inhabit swamps and streams, but during hot weather their watery abodes can dry out completely and remain dry for several months. Thus, as soon as a drought begins, the lungfish digs down into the soft mud at the bottom of the watercourse, creating a tubular breathing burrow with a wide chamber at the base…Here it remains once the level of water in its swamp or stream falls below the upper end of the burrow (which is sealed by a porous lid allowing the inward passage of air), sheltered and protected from the heat outside.\n\n“Even without water, the lungfish will not dry out because it rapidly secretes vast quantities of thick mucus around itself, which hardens to form a protective cocoon inside the chamber. Able to breathe the air filtering down into its chamber, the lungfish can stay entombed in this state for months if necessary.” (Shuker 2001:104)\n\nWatch video",
+  "function_addressed": [
+    "protect from loss of liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shell-provides-drought-protection/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shell",
+    "provides",
+    "drought",
+    "protection"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

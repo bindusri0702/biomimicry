@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-plants-rise-above-flooding",
+  "organism_common": "Grey sedge",
+  "organism_scientific": "",
+  "strategy_summary": "Peatland plants survive variable water levels by growing on stilt-like tussocks. “Even plants with aerenchyma will be at risk if the water table rises so much that their leaves become inundated.",
+  "mechanism": "Peatland plants survive variable water levels by growing on stilt-like tussocks.\n\n“Even plants with aerenchyma will be at risk if the water table rises so much that their leaves become inundated. Wetland Carex species, for instance, are very tolerant to water saturation in the root zone (they have aerenchyma, and in general are not dependent on mycorrhiza). Development of high tussocks is a way for species to endure a highly variable water table (Fig. 3.2). This can be seen in swamp forests where the underlying soil has low permeability so that water table rises drastically after snow melt or heavy precipitation and then drops gradually. It can also be seen in some types of marsh, and along brooks with variable water flows (see e.g. Fig. 1.2). Examples are the stilt-like tussocks of Carex cespitosa and C. nigra var. juncea in Europe, C. stricta in North America, and Juncus effusus on both continents. Many bryophytes and lichens that are themselves unable to form high tussocks avoid flooding by growing on top of Sphagnum hummocks, and other species grow on stumps, rotting logs, and the bases of trees, examples being Ptilidium pulcherrimum and Cladonia spp.” (Rydin and Jeglum 2006:47)",
+  "function_addressed": [
+    "protect from excess liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/plants-rise-above-flooding/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "plants",
+    "rise",
+    "above",
+    "flooding"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

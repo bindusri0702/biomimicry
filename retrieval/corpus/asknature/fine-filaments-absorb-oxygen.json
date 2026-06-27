@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-fine-filaments-absorb-oxygen",
+  "organism_common": "Capture, Absorb, or Filter Gases",
+  "organism_scientific": "",
+  "strategy_summary": "The external gills of newt tadpoles absorb oxygen from water using fine filaments with a large collective surface area. “The large surface area of fine filaments is used by the external gills of the newt tadpole…to absorb oxygen from the surrounding water.” (Foy and Oxford Scientific Films 1982:25)  Foy S, Oxford…",
+  "mechanism": "The external gills of newt tadpoles absorb oxygen from water using fine filaments with a large collective surface area.\n\n“The large surface area of fine filaments is used by the external gills of the newt tadpole…to absorb oxygen from the surrounding water.” (Foy and Oxford Scientific Films 1982:25)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
+  "function_addressed": [
+    "capture, absorb, or filter gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fine-filaments-absorb-oxygen/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fine",
+    "filaments",
+    "absorb",
+    "oxygen"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

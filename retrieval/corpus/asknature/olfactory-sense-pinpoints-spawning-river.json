@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-olfactory-sense-pinpoints-spawning-river",
+  "organism_common": "Salmon",
+  "organism_scientific": "",
+  "strategy_summary": "Salmon identify a specific spawning river using their keen olfactory sense. Sockeye Salmon (Spawning Male), Adams River, Near Sorrento, British Columbia  Sockeye Salmon (Spawning Male), Adams River, Near Sorrento, British Columbia  “The salmon’s extraordinary ability to locate the river where it was born is due to its…",
+  "mechanism": "Salmon identify a specific spawning river using their keen olfactory sense.\n\nSockeye Salmon (Spawning Male), Adams River, Near Sorrento, British Columbia\n\nSockeye Salmon (Spawning Male), Adams River, Near Sorrento, British Columbia\n\n“The salmon’s extraordinary ability to locate the river where it was born is due to its highly developed olfactory sense, which enables it to distinguish between different rivers by scent.” (Shuker 2001:76)",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/olfactory-sense-pinpoints-spawning-river/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "olfactory",
+    "sense",
+    "pinpoints",
+    "spawning",
+    "river"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

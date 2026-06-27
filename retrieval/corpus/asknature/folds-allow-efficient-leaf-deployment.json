@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-folds-allow-efficient-leaf-deployment",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Leaves of plants maximize time exposed for photosynthesis by using various packaging schemes to fold the large leaves within the buds so they can begin photosynthesizing upon deployment. “Leaves emerge from their buds in many different ways.",
+  "mechanism": "Leaves of plants maximize time exposed for photosynthesis by using various packaging schemes to fold the large leaves within the buds so they can begin photosynthesizing upon deployment.\n\n“Leaves emerge from their buds in many different ways. Those of the cheese plant emerge tightly rolled, like perfectly furled umbrellas. Palms produce theirs neatly packed in pleats. The big fat buds of rhubarb push up through the ground and burst to reveal their young leaves squashed and crumpled. Ferns send up their shoots curled in the shape of croziers with each of the side fronds curled in its own crozier-in-miniature.” (Attenborough 1995: 43-45)",
+  "function_addressed": [
+    "modify size/shape/mass/volume",
+    "optimize shape/materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/folds-allow-efficient-leaf-deployment/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "folds",
+    "allow",
+    "efficient",
+    "leaf",
+    "deployment"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

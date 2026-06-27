@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-plant-fragments-prevent-infections",
+  "organism_common": "Eurasian blue tit",
+  "organism_scientific": "",
+  "strategy_summary": "Blue tits make nests in holes and hollows that can become quite warm and damp as the chicks mature. This creates an optimal environment for the growth of pathogenic bacteria and parasites like blow fly larvae that can create severe health problems for the chicks.",
+  "mechanism": "To promote healthy growth in the chicks, female blue tits actively seek out fresh fragments of aromatic plants like lavender, yarrow, daisy, and apple mint to place in the nest cup.\n\nThe complex bouquet of aromatic biochemicals produced by these plants have long been known for their antimicrobial characteristics, though the biochemistry is still poorly understood. However a study from 2009 found that the various plant fragments conferred greater health and survivability by reducing the bacterial richness on the chicks.\n\nFresh aromatics were also found to exert a significant effect on chicks infested with blood sucking blow fly larvae. While the material did not appear to affect the larvae directly, they were found to exert a significant effect on the density of bacteria on the chicks. Sparsely placed bacteria are not able to form biofilms and other communities that increase their pathogenicity. Presumably, the chicks benefit from this bacterial reduction by being able to devote more of their nutrient resources to growth rather than their immune systems, leading to overall stronger and healthier chicks. Adult blue tits did not experience any significant decrease in bacterial infection from these plants.\n\nFresh plants and herbs have been used by humans for various purposes (including as an antibacterial substance) across cultures and throughout time. Mimicking blue tits’ particular blend and application methods could lead to new insights and applications for humans at domestic as well as industrial scales.",
+  "function_addressed": [
+    "regulate reproduction or growth",
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/plant-fragments-prevent-infections/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "plant",
+    "fragments",
+    "prevent",
+    "infections"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

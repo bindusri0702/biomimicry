@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-tongue-sticks-out-elastically",
+  "organism_common": "Ants",
+  "organism_scientific": "",
+  "strategy_summary": "The tongue of ants protracts using elastic mechanisms. “The mouthparts are very important tools for almost any task performed by ants.",
+  "mechanism": "The tongue of ants protracts using elastic mechanisms.\n\n“The mouthparts are very important tools for almost any task performed by ants. In particular, the labiomaxillary complex is essential for food intake. In the present study we investigated the anatomical design of the labiomaxillary complex in various ant species, focusing on movement mechanisms. Six labial and six maxillary muscles with different functions control the several joints and ensure the proper performance of the labiomaxillary complex…the labial and maxillary muscles feature rather slow than fast muscle characteristics and do not seem to be specialized for specific tasks. Since glossa [tongue] protractor muscles are absent, the protraction of the glossa, the distal end of the labium, is a nonmuscular movement. By histological measurements of hemolymph volumes we could exclude a pressure-driven mechanism. Additional experiments showed that, upon relaxation of the glossa retractor muscles, the glossa protracts elastically. This elastic mechanism possibly sets an upper limit to licking frequency, thus influencing food intake rates and ultimately foraging behavior. In contrast to many other elastic mechanisms among arthropods, glossa protraction in ants is based on a mechanism where elasticity works as an actual antagonist to muscles. We compared the design of the labiomaxillary complex of ants with that of the honeybee and suggest an elastic mechanism for glossa protraction in honeybees as well.” (Paul et al. 2002:39)",
+  "function_addressed": [
+    "modify position"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tongue-sticks-out-elastically/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tongue",
+    "sticks",
+    "out",
+    "elastically"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-efficient-propulsion-system",
+  "organism_common": "Yellowfin tuna",
+  "organism_scientific": "",
+  "strategy_summary": "Tails of yellowfin tuna conserve energy by using thunniform swimming. Some ocean-dwelling fish, including tuna, mackerel, and sharks, have a form of swimming called thunniform.",
+  "mechanism": "Tails of yellowfin tuna conserve energy by using thunniform swimming.\n\nSome ocean-dwelling fish, including tuna, mackerel, and sharks, have a form of swimming called thunniform. In thunniform swimming, most of the lateral movement occurs in the tail and adjacent area of the body with very little bending of the fish’s body. The tail or caudal fin is usually large and crescent shaped to increase the power of each sweeping motion. This form of swimming is ideal for species that cover long distances and swim fast because it conserves energy.\n\nBoston Engineering\n\nThe BIOSwimmer from Boston Engineering is a highly maneuverable UUV designed to work in harsh and hard-to-reach environments.",
+  "function_addressed": [
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/efficient-propulsion-system/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "efficient",
+    "propulsion",
+    "system"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-behavior-adapts-to-threats",
+  "organism_common": "Chestnut-mantled oropendola",
+  "organism_scientific": "",
+  "strategy_summary": "Behavior of oropendolas protects from botflies by being adaptive to different scenarios. “One of the most complex examples of brood parasitism features the giant cowbird ( Scaphidura oryzivora ).",
+  "mechanism": "Behavior of oropendolas protects from botflies by being adaptive to different scenarios.\n\n“One of the most complex examples of brood parasitism features the giant cowbird ( Scaphidura oryzivora ). These natives of Central and South America generally parasitize other birds in the same family, the icterids. They particularly favor the huge, pendulous, colonial nests of the chestnut-headed oropendola ( Psarocolius cassini ). However, the precise nature of the relationship between them depends on the location of the hosts’ nests.\n\n“In certain nests, the oropendolas do not discriminate between their own eggs and those of the cowbird, nor do they display aggression toward the cowbird. And the cowbird makes no attempt to lay its eggs secretly in these oropendolas’ nests. It will evict a female oropendola to lay its own eggs there. In this instance, the eggs laid by the cowbird are numerous and different in appearance from those of the oropendolas. Yet they are not rejected.\n\n“Other oropendolas, however, are aggressive toward the cowbird and will reject the egg if they notice its presence. Because of this the cowbird will lay only a single egg in the nest and does so secretly, while the oropendolas are away. A cowbird egg laid in such circumstances could blend in unnoticed with the oropendola’s own eggs. The reason for these two very different scenarios has recently been revealed.\n\n“Researchers discovered that when the oropendolas are not aggressive toward the cowbird and readily rear its young with their own, the young cowbirds are serving a useful purpose. They devour botflies that would otherwise lay parasitic eggs in the nests, and even groom their young oropendola nest-mates, removing any botfly larvae that may have evaded detection. In this case, therefore, the association between cowbird and oropendola is more symbiotic that parasitic, because both partners benefit.\n\n“Conversely, where the oropendolas are aggressive to the cowbird and can tell their own eggs from those of the cowbird, the researchers invariably found that these particular oropendola nests were situated close to bee or wasp nests: botflies avoid areas containing bee or wasp nests. In this scenario, therefore, since there are no botflies to eliminate, the young cowbird serves no useful purpose for the oropendola. The association here is truly parasitic, with only the cowbird benefiting (as long as it can fool the oropendolas into rearing its young, that is).” (Shuker 2001:171-172)",
+  "function_addressed": [
+    "protect from animals",
+    "adapt behaviors"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/behavior-adapts-to-threats/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "behavior",
+    "adapts",
+    "threats"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

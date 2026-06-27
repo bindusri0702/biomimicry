@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-flowers-pattern-attractsdeters-insects",
+  "organism_common": "Rose-of-Sharon",
+  "organism_scientific": "",
+  "strategy_summary": "Markings on flowers help draw pollinators and at the same time discourage insect herbivores by containing ultraviolet pigments. “Two categories of pigments, flavonoids and dearomatized isoprenylated phloroglucinols (DIPs), are responsible for the UV demarcations of this flower.",
+  "mechanism": "Markings on flowers help draw pollinators and at the same time discourage insect herbivores by containing ultraviolet pigments.\n\n“Two categories of pigments, flavonoids and dearomatized isoprenylated phloroglucinols (DIPs), are responsible for the UV demarcations of this flower. Flavonoids had been shown previously to function as floral UV pigments, but DIPs had not been demonstrated to serve in that capacity. We found the DIPs to be present in high concentration in the anthers and ovarian wall of the flower, suggesting that the compounds also serve in defense. Indeed, feeding tests done with one of the DIPs (hypercalin A) showed the compound to be deterrent and toxic to a caterpillar ( Utetheisa ornatrix ). The possibility that floral UV pigments fulfill both a visual and a defensive function had not previously been contemplated.” (Gronquist et al. 2001:13745)",
+  "function_addressed": [
+    "protect from animals",
+    "send light signals in the non-visible spectrum"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/flowers-pattern-attractsdeters-insects/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flower",
+    "pattern",
+    "attracts",
+    "deters",
+    "insects"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

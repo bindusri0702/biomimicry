@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-diversity-supports-resilient-waste-decomposition",
+  "organism_common": "Dung beetle",
+  "organism_scientific": "",
+  "strategy_summary": "Dung beetles belong to the Scarabaeidae family and include hundreds of species, each with a slightly different approach to processing animal waste. They use dung for food and for raising their young, shaping ecosystems by recycling nutrients and reducing pest populations.",
+  "mechanism": "Dung beetles’ success lies in how different species within the family cooperate. In any given habitat, you might find “tunnelers” that bury dung straight beneath a pile, “rollers” that shape it into balls and roll it away, and “dwellers” that live inside the dung itself. Each species has its own body shape and behavior that suits certain types of dung, soil, and climate.\n\nSome species are better at working in dry conditions, others thrive in the shade, and others prefer wet, open ground. Because of this, when one species can’t perform due to changes in the environment, another can take its place. This is called functional redundancy––multiple species doing similar jobs in different ways.\n\nAt the same time, the subtle differences between dung beetle species’ behaviors (such as how deep they bury dung, when they’re active, and what dung types they prefer) mean they cover more ecological ground together than any single species could. This is called complementarity, where each species’ unique behaviors contribute to a broader range of functions across the landscape.\n\nTogether, redundancy and complementarity make the entire system more resilient. Even if the weather shifts or the dung changes, dung still gets buried and distributed, helping to keep decomposition going in varied conditions.\n\nRedundancy and complementarity are crucial elements of resilient human systems, from designing infrastructure to designing teams. Within the context of waste systems and decomposition in particular, dung beetles’ variety could inspire us to develop adaptable waste processing systems that can handle mixed-fiber textiles by mechanically fragmenting, separating, and processing the textiles according to their type.",
+  "function_addressed": [
+    "store solids",
+    "distribute solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/diversity-supports-resilient-waste-decomposition/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "diversity",
+    "supports",
+    "resilient",
+    "waste",
+    "decomposition"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

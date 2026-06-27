@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-nasal-surfaces-remove-water-vapor",
+  "organism_common": "Dromedary camel",
+  "organism_scientific": "",
+  "strategy_summary": "When the dromedary camel gets dehydrated in its hot and arid environment, its nasal surfaces help the animal conserve water using two mechanisms: by cooling exhaled air during the night, and by extracting water vapor from exhaled air.",
+  "mechanism": "During the nighttime, outside temperatures are typically lower than the camel’s core body temperature. When the camel inhales, the cool outside air passes through the nasal passages where heat is exchanged: the nasal surfaces are cooled while the incoming air is warmed.\n\nInside the camel’s lungs, air is at body temperature and fully saturated with water (100% relative humidity). When the camel exhales, the warm air inside the lungs passes over the cool nasal surfaces and exchanges heat again. This time, the air is cooled as it’s exhaled, and as it cools, water vapor in the outgoing air condenses onto the nasal surfaces as liquid water. The exhaled air is still at 100% relative humidity, but the lower temperature means that more water exists in liquid form than in vapor form (read an explanation of why this occurs here ).\n\nMimicking the design and function of camels’ nasal passages could lead to more effective human-constructed water and heat recapturing systems. This could make freshwater more available in arid environments, minimize the amount of water needed in industrial cooling systems, or inspire novel applications for culinary equipment.",
+  "function_addressed": [
+    "protect from loss of liquids",
+    "capture, absorb, or filter liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nasal-surfaces-remove-water-vapor/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "nasal",
+    "surfaces",
+    "remove",
+    "water",
+    "vapor"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

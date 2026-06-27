@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-larvae-protected-from-pathogens",
+  "organism_common": "Beewolf digger wasp",
+  "organism_scientific": "",
+  "strategy_summary": "The larvae of beewolf digger wasps are protected from pathogenic microbes thanks to bacterial symbionts. “Beewolf digger wasps cultivate specific symbiotic bacteria ( Streptomyces spp.) that are incorporated into the larval cocoon for protection against pathogens.",
+  "mechanism": "The larvae of beewolf digger wasps are protected from pathogenic microbes thanks to bacterial symbionts.\n\n“Beewolf digger wasps cultivate specific symbiotic bacteria ( Streptomyces spp.) that are incorporated into the larval cocoon for protection against pathogens. We identified the molecular basis of this protective symbiosis in the natural context and demonstrate that the bacteria produce a ‘cocktail’ of nine antibiotic substances. The complementary action of all symbiont-produced antibiotics confers a potent antimicrobial defense for the wasp larvae that parallels the ‘combination prophylaxis’ known from human medicine.” (Kroiss et al. 2010:261)\n\nhttp://www.sciencedaily.com/releases/2010/02/100228131339.htm http://www.nature.com/nchembio/journal/v6/n4/full/nchembio.331.html",
+  "function_addressed": [
+    "protect from fungi",
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/larvae-protected-from-pathogens/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "larvae",
+    "protected",
+    "pathogens"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

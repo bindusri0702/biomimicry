@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-sensitive-antennae-detect-sex-pheromones",
+  "organism_common": "Indian moon moth",
+  "organism_scientific": "",
+  "strategy_summary": "The antennae of the Indian luna moth detects a single sex pheromone molecule from more than six miles away due to extremely sensitive olfactory receptors. “The moth with the most developed sense of smell, however, is that of…the Indian luna moth ( Actias selene ).",
+  "mechanism": "The antennae of the Indian luna moth detects a single sex pheromone molecule from more than six miles away due to extremely sensitive olfactory receptors.\n\n“The moth with the most developed sense of smell, however, is that of…the Indian luna moth ( Actias selene ). The male of this species is so sensitive to the female’s sex pheromone that he can trace a female via her scent from as far away as 6 1/2 miles (11 km). In experiments in which male specimens were released this distance away from caged females, 26 percent successfully located the females, while 46 percent of the males located the females if released 2 1/2 miles (4.1 km) from them.” (Shuker 2001:29)",
+  "function_addressed": [
+    "regulate reproduction or growth",
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/sensitive-antennae-detect-sex-pheromones/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "sensitive",
+    "antennae",
+    "detect",
+    "sex",
+    "pheromones"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-gills-help-fix-nitrogen",
+  "organism_common": "Blacktip shipworm",
+  "organism_scientific": "",
+  "strategy_summary": "Gills of shipworms obtain nitrogen using nitrogen-fixing symbiotic bacteria. “Nitrogen fixation has also been detected in intact specimens of wood-eating marine bivalves of the family Teredinidae (commonly known as shipworms) (17), but the site of fixation and the identity of the nitrogen-fixing microorganisms have…",
+  "mechanism": "Gills of shipworms obtain nitrogen using nitrogen-fixing symbiotic bacteria.\n\n“Nitrogen fixation has also been detected in intact specimens of wood-eating marine bivalves of the family Teredinidae (commonly known as shipworms) (17), but the site of fixation and the identity of the nitrogen-fixing microorganisms have not been previously determined. Although conspicuous communities of nitrogen-fixing bacteria have not been found in the gut of shipworms (13), as they have in termites, dense populations of intracellular bacterial symbionts have been observed in cells (bacteriocytes) in a region of shipworm gills known as the gland of Deshayes (18). Moreover, a bacterium ( Teredinibacter turnerae ) capable of fixing nitrogen gas (N2) in pure culture has been isolated from the gills of numerous shipworm species (19, 20), and its presence in the gill symbiont community of the shipworm Lyrodus pedicellatus has been confirmed by in situ hybridization and quantitative polymerase chain reaction analysis (21–23). These observations raise the questions of whether bacterial symbionts within the gills of L. pedicellatus can fix nitrogen and whether this fixed nitrogen is supplied to the host…We have demonstrated nitrogen fixation by individual symbiotic bacteria and have provided strong evidence of its use by the host. This symbiotic strategy is reminiscent of symbioses proposed to occur in the root nodules of leguminous plants and may explain the unusual ability of L. pedicellatus to survive and grow on a nearly nitrogen-free diet of wood (27) (Fig. 4B). Thus, this work suggests a function for the shipworm/bacteria symbiosis that has not been demonstrated previously for any other animal endosymbiosis: the conversion of nitrogen from atmospheric gas into animal biomass.” (Lechene et al. 2007:1563)",
+  "function_addressed": [
+    "chemically generate flow of electrons (redox)",
+    "modify oxidation state",
+    "modify electron transport"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/gills-help-fix-nitrogen/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "gills",
+    "fix",
+    "nitrogen"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

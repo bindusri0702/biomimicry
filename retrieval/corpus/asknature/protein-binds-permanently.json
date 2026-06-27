@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-protein-binds-permanently",
+  "organism_common": "Red junglefowl",
+  "organism_scientific": "",
+  "strategy_summary": "Protein from chicken egg permanently binds vitamin by changing shape  Vitamin B7, or biotin, is a small molecule that’s important for cell growth. Birds, lizards and reptiles all lay eggs and the egg yolks contain everything necessary for an embryo to grow, including biotin.",
+  "mechanism": "Protein from chicken egg permanently binds vitamin by changing shape\n\nVitamin B7, or biotin, is a small molecule that’s important for cell growth. Birds, lizards and reptiles all lay eggs and the egg yolks contain everything necessary for an embryo to grow, including biotin. Biotin is also necessary for bacteria to grow, and so this makes egg yolk great food for bacteria and susceptible to infection.\n\nOne way of preventing bacterial growth is to make sure there’s no biotin available. To protect the yolk and the growing embryo, the white of eggs contains avidin, a biotin-binding protein that mops up any of the vitamin it comes into contact with. This makes the egg white a poor environment for bacterial growth and creates a physical protective barrier between the outside world and developing embryo.\n\nIt’s extremely important that, once it has been captured, biotin is not released back into the egg white. For this reason, the bond between avidin and biotin is one of the strongest and most stable known in nature. Although it is non-covalent and, technically, reversible, the bond is so strong that, in practice, it is permanent.\n\nSeveral factors make the avidin—biotin bond so strong. Avidin contains a very deep binding pocket that is shaped perfectly to fit biotin. Once the vitamin enters the pocket there are multiple interactions that hold it in place. Small electrical charges in biotin induce corresponding electrical charges in the lining of the binding pocket. Once these charges have been induced, they act like tiny magnets, gluing the biotin in place. At the same time, there are waxy patches on the walls of the pocket that match oily parts of the smaller molecule. In the same way that oil and water don’t mix, the oily patches cannot easily move past the induced charges and they also cement biotin in place. Finally, the avidin itself changes shape following binding of biotin. Once a single molecule of biotin is inside the pocket, a portion of the avidin protein swings across the top, sealing the entrance and insuring the vitamin cannot escape.\n\nImage: Jynto / Public Domain - No restrictions toggle icon Image: Miya / CC BY - Creative Commons Attribution alone toggle icon Image: Astrojan / CC BY - Creative Commons Attribution alone toggle icon right arrow right arrow",
+  "function_addressed": [
+    "attach permanently",
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/protein-binds-permanently/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "protein",
+    "binds",
+    "permanently"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

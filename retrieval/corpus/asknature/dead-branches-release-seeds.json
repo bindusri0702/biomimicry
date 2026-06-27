@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-dead-branches-release-seeds",
+  "organism_common": "Rose of Jericho",
+  "organism_scientific": "",
+  "strategy_summary": "In the desert, it’s often feast or famine when it comes to water: Some areas can go weeks or months without rain, then all of the sudden the skies let loose. Many flowering plants that grow under such conditions have adaptations that allow them to sequester their seeds in pods or other enclosures and release them only…",
+  "mechanism": "One of the most remarkable of the organisms using this process is the true rose of Jericho (Anastatica hierochuntica). Found in northern Africa and western Asia, this annual flowering plant blooms and produces seeds during the wet season. But rather than releasing the seeds right away, it hangs on tight.\n\nAs the plant wilts and dies, its branches curl inward, forming a cage that tightly encases the seedpods. The seeds remain hidden—and avoid becoming a meal—until a reviving rainstorm arrives, months or even years later.\n\nWhen the rains finally do come, after about an hour of exposure, the moisture causes the branches to unfurl. In the new configuration, raindrops can dislodge and scatter the now-accessible seeds.\n\nHow does all of this happen? The secret, it turns out, has to do with the distribution of different kinds of cells in the branches of the plant. The side of the branch that faces down in the growing plant has a greater number and density of wider water-conducting conduits than the side that faces upward. As the plant withers at the end of the growing season, the upper side dries out more quickly than the lower side, causing the branches to curl upward. Alternatively, when rain comes and the dead plant tissue absorbs water through its stem, the denser and wider conduits on the lower side send water toward the tips of the branches faster and more efficiently, causing the branches to asymmetrically expand and unfurl.\n\nThe ability to change shape and function with the addition or removal of moisture has numerous potential applications to meet human needs both for using water and avoiding it. For example, it might be applied to deactivating an irrigation system when precipitation obviates the need for it, to opening new channels to keep excess water from flooding an area, or to deploying umbrella-like shelters to protect people or objects from rain. It could also be used to remotely detect the presence of moisture or to activate the release of drugs or other materials under specific conditions.",
+  "function_addressed": [
+    "disperse seeds",
+    "modify position",
+    "modify size/shape/mass/volume",
+    "protect from animals",
+    "distribute solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/dead-branches-release-seeds/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "branches",
+    "passively",
+    "furl",
+    "unfurl"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

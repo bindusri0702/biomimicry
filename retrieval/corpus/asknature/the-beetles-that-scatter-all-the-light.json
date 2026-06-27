@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-the-beetles-that-scatter-all-the-light",
+  "organism_common": "White scarab beetles",
+  "organism_scientific": "",
+  "strategy_summary": "Lady-bug polka dots, tiger stripes, and emerald green tree leaves are all examples of chemical pigmentation—when compounds absorb and reflect various wavelengths of light. But physical structures can also scatter light, revealing a rainbow of colors without chemicals.",
+  "mechanism": "Tiny elliptical scales cover a Cyphochilus beetle’s head, body, and legs, overlapping one another a bit like fish scales. Using powerful microscopes to study individual scales, scientists found they were made of randomly oriented filaments. Ironically, the disordered arrangement of these filaments (their lack of periodicity) causes white beetles to uniformly scatter all wavelengths of light. From chaos, comes order.\n\nWhiteness in nature is relatively rare. Although not known with certainty, in beetles, it’s believed to offer the same benefits as colors in other species. It signals health to potential mates, and helps them identify members of the same species. Some species of white beetles have been able to forage for longer durations under a hot sun, suggesting the color may also help regulate their temperatures.\n\nTitanium dioxide is the most widely used white colorant with applications in paint, paper, traffic stripes, sunscreen, toothpaste, food, and cosmetics. Not only is mining titanium dioxide harmful to the environment, but health regulators have designated that inhaling fine particles of the mineral is “possibly carcinogenic to humans.” Studying Cyphochilus beetles is helping us to “see the light,” inspiring white structural pigments that would avoid these pitfalls.",
+  "function_addressed": [
+    "send light signals in the visible spectrum",
+    "modify light/color",
+    "protect from temperature",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/the-beetles-that-scatter-all-the-light/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "beetles",
+    "scatter",
+    "all",
+    "light"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

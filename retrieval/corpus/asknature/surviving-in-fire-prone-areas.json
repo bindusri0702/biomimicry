@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-surviving-in-fire-prone-areas",
+  "organism_common": "Tropical fire ecology",
+  "organism_scientific": "",
+  "strategy_summary": "Tropical gallery forest patches located in the midst of fire-prone savannas resist burning due to changes in fuel characteristics at the forest boundary, moisture levels, and the presence of fire-adapted species adjacent to the savanna. “Rain-forest fragments are often human-induced and can be highly susceptible to…",
+  "mechanism": "Tropical gallery forest patches located in the midst of fire-prone savannas resist burning due to changes in fuel characteristics at the forest boundary, moisture levels, and the presence of fire-adapted species adjacent to the savanna.\n\n“Rain-forest fragments are often human-induced and can be highly susceptible to fire; most species are fire sensitive. Tropical gallery forest, however, occurs naturally as patches within fire-prone savannas. These fragments can represent significant refugia for fire-sensitive species (Kellman et al., 1998). Investigations into how fire-sensitive species persist alongside a fire-prone environment can yield useful information for the management of fire within human-derived forest fragments…Kellman and Meave (1997), Kellman and Tackaberry (1997), Biddulph and Kellman (1998) and Kellman et al. (1998) examine the impact of fire on tropical gallery forest–savanna ecotones in Belize and Venezuela. It was found that fires were mostly prevented from penetrating the gallery forest by changes in fuel characteristics at the forest boundary. The timing of fires was also critical: the savannas tended to burn before the gallery forest fuels were sufficiently cured. In addition, woody species directly adjacent to the savanna were found to be fire adapted. They act as a buffer zone, affording some protection from fire to the fire-sensitive within the gallery forest interior. Kellman and Meave (1997:23) also found that a moderate fire regime can ‘have an enriching, rather than depauperizing effect on the forest communities’ as fire will act in a similar way to that of tree-fall gap dynamics – as a selection agent. They also suggest that if forest fragments are to survive, fire-tolerant species at the forest edge are needed to protect fire-sensitive species within the interior: ‘The most valuable fragments are likely to be those in regions lacking any species pre-adapted to this agent’ (Kellman and Meave, 1997:34).” (Roberts 2000:284-285)",
+  "function_addressed": [
+    "protect from fire",
+    "manage disturbance in a community"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/surviving-in-fire-prone-areas/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "surviving",
+    "fire-prone",
+    "areas"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

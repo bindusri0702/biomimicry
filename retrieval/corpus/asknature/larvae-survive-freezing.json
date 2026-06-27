@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-larvae-survive-freezing",
+  "organism_common": "Midge",
+  "organism_scientific": "",
+  "strategy_summary": "Larvae of midges survive freezing by having a high supercooling point. “Certain insects, moreover, can even survive the formation of ice crystals within their bodies.",
+  "mechanism": "Larvae of midges survive freezing by having a high supercooling point.\n\n“Certain insects, moreover, can even survive the formation of ice crystals within their bodies. One example is the larva of the midge Chironomus , which can be repeatedly frozen to a temperature as low as -13°F (-25°C), up to 90 percent of its body fluid is frozen. Such creatures are said to be freezing-tolerant.” (Shuker 2001:110-111)",
+  "function_addressed": [
+    "protect from ice",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/larvae-survive-freezing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "larvae",
+    "survive",
+    "freezing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

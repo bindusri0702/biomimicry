@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-microscopic-plates-produce-interference-colors",
+  "organism_common": "Modify Light/Color",
+  "organism_scientific": "",
+  "strategy_summary": "The surface layer of some copepods produces brilliant flashes of interference colors via microscopic plates that reflect light. “A strange copepod called Sapphirina shows dramatic interference colours.",
+  "mechanism": "The surface layer of some copepods produces brilliant flashes of interference colors via microscopic plates that reflect light.\n\n“A strange copepod called Sapphirina shows dramatic interference colours. Microscopic plates in its surface layers are so arranged as to produce a flash of colour when viewed from certain angles. From other angles, the copepod appears quite transparent.” (Foy and Oxford Scientific Films 1982:65)",
+  "function_addressed": [
+    "modify light/color",
+    "send light signals in the visible spectrum"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/microscopic-plates-produce-interference-colors/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "microscopic",
+    "plates",
+    "produce",
+    "interference",
+    "colors"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

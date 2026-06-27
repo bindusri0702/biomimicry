@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-thin-liquid-film-allow-adhesion",
+  "organism_common": "Colorado potato beetle",
+  "organism_scientific": "",
+  "strategy_summary": "Tarsal structures of beetles adhere to plant surfaces by secreting lipids that are liquid at normal temperatures. The Colorado potato beetle must defy gravity when climbing up vertical stems of its host plant.",
+  "mechanism": "Tarsal structures of beetles adhere to plant surfaces by secreting lipids that are liquid at normal temperatures.\n\nThe Colorado potato beetle must defy gravity when climbing up vertical stems of its host plant. It solves this challenge with the help of specialized tarsal structures coated with a thin film of liquid wax similar to the protective wax on other parts of the beetle’s body that keep it properly hydrated. The protective wax is solid at ambient temperatures to form a more stable coating, but liquid on the adhesive structures to more effectively interact with the climbing surface.",
+  "function_addressed": [
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/thin-liquid-film-allow-adhesion/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "thin",
+    "liquid",
+    "film",
+    "allow",
+    "adhesion"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

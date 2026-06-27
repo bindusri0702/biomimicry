@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-enzyme-quickly-metabolizes-alcohol",
+  "organism_common": "European starling",
+  "organism_scientific": "",
+  "strategy_summary": "The metabolism of starlings breaks down alcohol quickly via an alcohol-splitting enzyme. European starling (''Sturnus vulgaris'')  ''<a href=/wiki/Sturnus_vulgaris title=Sturnus vulgaris>Sturnus vulgaris</a>'' map  “Many birds that consume fermented fruit duly suffer from the after-effects of alcohol abuse.",
+  "mechanism": "The metabolism of starlings breaks down alcohol quickly via an alcohol-splitting enzyme.\n\nEuropean starling (''Sturnus vulgaris'')\n\n''<a href=/wiki/Sturnus_vulgaris title=Sturnus vulgaris>Sturnus vulgaris</a>'' map\n\n“Many birds that consume fermented fruit duly suffer from the after-effects of alcohol abuse. Starlings ( Sturnis vulgaris ), however, seem immune to them, remaining surprisingly sober. The secret behind this phenomenon was revealed during the late 1990s by researchers Dr. Ghassem Hakimi and Dr. Roland Prinzinger at Frankfurt University in Germany.”\n\n“They discovered that starlings were able to metabolize alcohol at an exceptional speed, due to the rate of activity of the alcohol-splitting enzyme alcohol dehydrogenase, which is 14 times greater in starlings than in humans. This means that the birds can indulge themselves on fermented fruit without getting drunk, since the alcohol is broken down quickly.” (Shuker 2001:221)",
+  "function_addressed": [
+    "catalyze chemical breakdown"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/enzyme-quickly-metabolizes-alcohol/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "enzyme",
+    "quickly",
+    "metabolizes",
+    "alcohol"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

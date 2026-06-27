@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-raised-abdomen-reduces-drag",
+  "organism_common": "Western honeybee",
+  "organism_scientific": "",
+  "strategy_summary": "Abdomen of honey reduces drag during flight by being raised to increase streamlining. “Our results have revealed, for the first time, the existence of a visually driven streamlining response in flying insects.",
+  "mechanism": "Abdomen of honey reduces drag during flight by being raised to increase streamlining.\n\n“Our results have revealed, for the first time, the existence of a visually driven streamlining response in flying insects. This response, which can be elicited without exposing the insect to any airflow, presumably serves to reduce the aerodynamic drag that would otherwise be produced by the abdomen during real flight.” (Luu et al. 2011:2223)",
+  "function_addressed": [
+    "navigate through air"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/raised-abdomen-reduces-drag/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "raised",
+    "abdomen",
+    "reduces",
+    "drag"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

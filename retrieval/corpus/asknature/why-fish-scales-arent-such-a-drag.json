@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-why-fish-scales-arent-such-a-drag",
+  "organism_common": "Fish",
+  "organism_scientific": "",
+  "strategy_summary": "Airplanes, submarines, and cars are designed with smooth materials because they have less drag than rough ones. Right?",
+  "mechanism": "Professor Christoph Bruecker and graduate student Muthukumar Muthuramalingam at City University of London conducted two studies that indicate the roughness of fish scales doesn’t act like typical roughness of other materials. Although shape and size vary across species, fish scales are essentially rows of overlapping seashell-shaped bumps. The peaks of the bumpy scales create wakes of slower water behind them. The overlapping sides of scales form valleys where most of the water rushes through. So as a fish swims, it has alternating bands of “low flow” behind the scale peaks and “high flow” behind the valleys.\n\nIncorporating scales into material designs might also help humans consume less fuel. Scaled coatings in pipes could reduce friction loss along pipelines. Etching scales onto the surfaces of airplanes, submarines, and cars could also improve fuel efficiency and lower greenhouse gas emissions. Many think there is no bigger fish to fry than addressing climate change. Fish scales might just help.",
+  "function_addressed": [
+    "move in/on liquids",
+    "manage turbulence"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/why-fish-scales-arent-such-a-drag/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "why",
+    "fish",
+    "scales",
+    "aren",
+    "such",
+    "drag"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

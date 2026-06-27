@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-enzymes-help-break-down-plant-cell-walls",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "Xylanase enzymes of Bacillus bacteria enable breakdown of plant cell walls without breaking down cellulose. “The term “alkaliphile” is used for microorganisms that grow optimally or very well at pH values above 9 but cannot grow or grow only slowly at the near-neutral pH value of 6.5…The cell surface may play a key…",
+  "mechanism": "Xylanase enzymes of Bacillus bacteria enable breakdown of plant cell walls without breaking down cellulose.\n\n“The term “alkaliphile” is used for microorganisms that grow optimally or very well at pH values above 9 but cannot grow or grow only slowly at the near-neutral pH value of 6.5…The cell surface may play a key role in keeping the intracellular pH value in the range between 7 and 8.5, allowing alkaliphiles to thrive in alkaline environments, although adaptation mechanisms have not yet been clarified. Alkaliphiles have made a great impact in industrial applications. Biological detergents contain alkaline enzymes, such as alkaline cellulases and/or alkaline proteases, that have been produced from alkaliphiles. The current proportion of total world enzyme production destined for the laundry detergent market exceeds 60%. Another important application is the industrial production of cyclodextrin by alkaline cyclomaltodextrin glucanotransferase. This enzyme has reduced the production cost and paved the way for cyclodextrin use in large quantities in foodstuffs, chemicals, and pharmaceuticals. It has also been reported that alkali-treated wood pulp could be biologically bleached by xylanases produced by alkaliphiles.” (Horikoshi 1999)\n\n“…xylanases [from an alkaliphilic and thermophilic Bacillus strain, TAR-1] did not act on cellulose , indicating a possible application of the enzyme in biological debleaching processes.” (Horikoshi 1999:745)",
+  "function_addressed": [
+    "chemically break down organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/enzymes-help-break-down-plant-cell-walls/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "enzymes",
+    "break",
+    "down",
+    "plant",
+    "cell",
+    "walls"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

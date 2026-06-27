@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-eggs-glued-to-leaves",
+  "organism_common": "Codling moth",
+  "organism_scientific": "",
+  "strategy_summary": "The coddling moth attaches its eggs to leaves using glue. “A European moth that is a serious pest in orchards, lays its eggs in spirals glued together around the twigs of fruit trees.",
+  "mechanism": "The coddling moth attaches its eggs to leaves using glue.\n\n“A European moth that is a serious pest in orchards, lays its eggs in spirals glued together around the twigs of fruit trees. When they hatch, the young caterpillars, while sustaining themselves by eating the leaves immediately around them, spin a large silken shroud around the branch so big that it can accommodate them all. They spend the day within it, concealed from the sight of hungry predatory birds. But when night comes they set out in long columns to demolish more leaves.\n\n“After they have eaten everything in their immediate neighbourhood, a single scout sets out to prospect for more. As it explores new parts of the tree, it lays down behind it a trail of scent that exudes from glands on its rear end. This enables it to find its way back to shelter before dawn. The next night, its companions inspect the trail. If it has a single track, as might happen if the caterpillar was taken in the night by some hunter, they will ignore it. But if there is a double track, indicating that the scout returned and if, furthermore, its smell indicates that the scout had a good meal, then the whole colony of several hundred will set off in procession to strip the leaves from yet another part of the fruit tree.” (Attenborough 1995:58)",
+  "function_addressed": [
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/eggs-glued-to-leaves/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "eggs",
+    "glued",
+    "leaves"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

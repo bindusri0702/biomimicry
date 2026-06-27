@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-cells-undertake-calcification-in-freshwater",
+  "organism_common": "Red-rim melania",
+  "organism_scientific": "",
+  "strategy_summary": "Shellfish that live in salt water environments have an easily accessible source of the calcium and carbonate ions needed to build new shells. In contrast, those that live in freshwater environments, such as the common pond snail, need to develop clever mechanisms for obtaining those resources since the availability of…",
+  "mechanism": "When resources of calcium ions are particularly low, the organism maintains critical calcium requirements for new shell formation by cycling internal sources from previously formed shell. Cells create a driving force for the uptake of calcium ions by utilizing the hydrogen ions generated from dissolved carbon dioxide. The hydrogen ions essentially exit the cell through a revolving protein door through which calcium ions summarily enter the cell.",
+  "function_addressed": [
+    "regulate reproduction or growth",
+    "chemically assemble mineral crystals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/cells-undertake-calcification-in-freshwater/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pond",
+    "snails",
+    "recycle",
+    "calcium",
+    "when",
+    "supplies"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

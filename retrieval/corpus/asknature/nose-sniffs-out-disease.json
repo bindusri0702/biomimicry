@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-nose-sniffs-out-disease",
+  "organism_common": "Domestic dog",
+  "organism_scientific": "",
+  "strategy_summary": "Look around at animals in the woods, on a farm, or even in our homes, and it’s clear that there’s an incredible variety of how they use each of the senses. Birds of prey are masters of sight.",
+  "mechanism": "Dogs have a remarkable sense of smell. When they sniff, a bit of the air they take in goes to a maze-like structure in their heads called the olfactory recess . Thanks to the extensive surface area this structure offers, dogs have more than half a billion cells available to sense scent—some 15 times what humans have. The part of the nervous system these cells send signals to, called the olfactory bulb , is three times the size of that in humans.\n\nAnother one of their secrets is that when a canine sniffs, it rapidly inhales and exhales. During exhalation, air jets downward and out to the side, which flow modeling reveals actually pulls air from in front of the dog closer to its nose, allowing it to sniff scents from farther away.\n\nThese adaptations allow a dog to respond to the presence of molecules in the air with exquisite sensitivity: Some dogs can detect a single odor molecule among a trillion others.\n\nIf these chemicals are released in advance, they might also help anticipate the onset of an incident such as diabetic insulin imbalance or an epilieptic seizure. . Being able to know ahead of time that a seizure is coming on could be a literal lifesaver, allowing individuals to get out of the water, move away from hard objects, or otherwise enter a safe area before the seizure occurs.\n\nThe most direct approach to tapping this talent is using dogs directly as detectives. But that might not always be practical. Understanding the mechanism by which a dog’s olfactory system can pick out a single scent from among many others, even at extremely low concentrations, could open doors to the development of “e-noses” that electronically detect the presence of single molecules of interest in a sample.\n\nThis could lead to improved detection of illicit substances, the ability to provide evidence of the location of a person or movement of a person over time, and more. It also could inspire development of devices that use olfactory cues in place of visual or tactile elements—for example, a smart lock or smart ignition system that activates when a person with a unique scent profile shows up.",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment",
+    "sense disease in a living system",
+    "differentiate signal from noise"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nose-sniffs-out-disease/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "canine",
+    "super-sniffers",
+    "odor",
+    "detect",
+    "disease"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

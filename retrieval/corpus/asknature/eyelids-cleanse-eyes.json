@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-eyelids-cleanse-eyes",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "The eyelids of mammals provide lubrication for the eye using teardrops that are applied during blinking. “Being a particularly delicate instrument, the eye needs protection — usually, an eyelid.",
+  "mechanism": "The eyelids of mammals provide lubrication for the eye using teardrops that are applied during blinking.\n\n“Being a particularly delicate instrument, the eye needs protection — usually, an eyelid. Most mammals have two eyelids, one above and one below, but some – such as horses and deer – have a third, inner eyelid, the nictitating membrane, which may move upwards or sideways across the eyeball. Both types of eyelid can be closed to protect the eye from a blow, or from dirt; in closing – blinking – they wipe the eyeball clean and lubricate it with teardrops.” (Foy and Oxford Scientific Films 1982:124)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
+  "function_addressed": [
+    "distribute liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/eyelids-cleanse-eyes/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "eyelids",
+    "cleanse",
+    "eyes"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

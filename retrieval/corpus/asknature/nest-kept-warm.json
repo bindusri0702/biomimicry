@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-nest-kept-warm",
+  "organism_common": "Mallee fowl",
+  "organism_scientific": "",
+  "strategy_summary": "The mallee-fowl, Leipoa ocellata Gould , is an intriguing bird native to the arid and semi-arid regions of southern Australia. It has adapted to its harsh environment through an extraordinary nesting behavior.",
+  "mechanism": "Mallee-fowl mounds are not merely piles of earth and leaves but are sophisticated structures designed to leverage the natural process of fermentation for heat production. The birds start by digging a large pit, which they fill with leaves and other plant material. This organic matter begins to ferment, producing heat, which is crucial for warming the eggs buried within the mound.\n\nThe true ingenuity of the mallee-fowl lies in its ability to regulate the temperature of the mound meticulously. By adding or removing layers of soil, the mallee-fowl ensures that the temperature within the mound stays within the narrow range suitable for egg development. This process of adjustment is almost daily, with the birds frequently checking and modifying the insulation of their nests.\n\nAs the season progresses and external temperatures rise, the mallee-fowl’s task shifts from primarily generating to dissipating heat. The birds cleverly open parts of the mound to allow excess heat to escape and close it up to conserve heat during cooler periods. This active management helps in maintaining a stable thermal environment, essential for the successful development of the eggs.\n\nThe temperature regulation strategy of the mallee-fowl could inspire innovative approaches to sustainable building practices. For instance, the concept of using bio-based materials for heat production through composting could be applied to eco-friendly housing. These homes could utilize compost heat recovery systems to naturally warm living spaces in colder months, reducing reliance on fossil fuels.\n\nAdditionally, the mallee-fowl’s method of adjusting insulation could inform the development of dynamic insulation materials for buildings. These materials would automatically adjust their thermal resistance in response to changes in external temperatures, improving energy efficiency.\n\nIn agriculture, similar strategies could enhance passive solar greenhouses, using fermenting organic matter not only to enrich the soil but also to regulate temperatures, extending the growing season in colder climates without additional energy costs.\n\nBy studying the mallee-fowl’s natural engineering skills, we can develop systems that are both energy-efficient and environmentally friendly, reflecting the bird’s seamless integration into its habitat.",
+  "function_addressed": [
+    "regulate reproduction or growth",
+    "protect from temperature",
+    "transform thermal energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nest-kept-warm/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "birds",
+    "incubate",
+    "eggs",
+    "heat",
+    "compost"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

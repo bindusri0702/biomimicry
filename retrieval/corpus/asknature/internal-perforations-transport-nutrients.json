@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-internal-perforations-transport-nutrients",
+  "organism_common": "Sphagnum moss",
+  "organism_scientific": "",
+  "strategy_summary": "Sphagnum moss translocates nutrients via small perforations that connect the cells in the stem. “The cation exchange is one explanation for why Sphagnum can grow in extremely poor habitats.",
+  "mechanism": "Sphagnum moss translocates nutrients via small perforations that connect the cells in the stem.\n\n“The cation exchange is one explanation for why Sphagnum can grow in extremely poor habitats. Another factor is the ability to conserve nutrients. As the lower parts of the shoots are incorporated into peat, the plant faces the risk of losing essential nutrients and minerals. By tracer techniques (l4C, 32p) it has been shown that Sphagnum can translocate metabolites to the growing capitulum further down. This transport occurs internally and is dependent upon the plant being alive (Rydin and Clymo 1989). This is somewhat surprising, since Sphagnum mosses lack specialized conductive tissue. It is made possible since the cell ends in the stem are connected by small perforations (plasmodesmata) through which the transport occurs. Nitrogen is accumulated in new biomass, and it is likely that it is translocated internally in the same way (Aldous 2002).” (Rydin and Jeglum 2006:67)",
+  "function_addressed": [
+    "store chemical entities",
+    "distribute liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/internal-perforations-transport-nutrients/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "internal",
+    "perforations",
+    "transport",
+    "nutrients"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-fallen-trees-stabilize-enrich-soil",
+  "organism_common": "Douglas fir",
+  "organism_scientific": "",
+  "strategy_summary": "Trees in Douglas fir forests provide growing conditions for plants and animals by stabilizing soil and trapping sediment when they fall across a slope. “Trees that fall across a slope seem to be used more by vertebrates than are trees that fall up or down a slope, especially on steep slopes.",
+  "mechanism": "Trees in Douglas fir forests provide growing conditions for plants and animals by stabilizing soil and trapping sediment when they fall across a slope.\n\n“Trees that fall across a slope seem to be used more by vertebrates than are trees that fall up or down a slope, especially on steep slopes. Large, stable trees lying across a slope help reduce erosion by forming a barrier to creeping and raveling soils that gradually work their way downslope and may eventually end up at the bottom. Soil deposited along the upslope side of fallen trees reduces loss of nutrients from the site. Such spots are excellent for the establishment and growth of vegetation, including tree seedlings. As vegetation becomes established on and helps to stabilize this new soil, and as invertebrates and small vertebrates begin to burrow into the new soil, they not only enrich it nutritionally with their feces and urine but also constantly mix it by their burrowing activities.” (Maser 1989:94)",
+  "function_addressed": [
+    "control erosion and sediment",
+    "generate soil/renew fertility",
+    "maintain biodiversity"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fallen-trees-stabilize-enrich-soil/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fallen",
+    "trees",
+    "stabilize",
+    "enrich",
+    "soil"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

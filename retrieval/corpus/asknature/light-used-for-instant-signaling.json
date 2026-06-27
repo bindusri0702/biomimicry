@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-light-used-for-instant-signaling",
+  "organism_common": "Comb jellies",
+  "organism_scientific": "",
+  "strategy_summary": "An enzyme called photoprotein in comb jellies produces light when calcium changes the enzyme's shape, releasing energy. “In a firefly bioluminescence reaction, an enzyme known as a luciferase uses adenosine triphosphate (ATP) to activate a molecule called a luciferin.",
+  "mechanism": "An enzyme called photoprotein in comb jellies produces light when calcium changes the enzyme's shape, releasing energy.\n\n“In a firefly bioluminescence reaction, an enzyme known as a luciferase uses adenosine triphosphate (ATP) to activate a molecule called a luciferin. The product of this reaction combines with molecular oxygen to produce an excited-state oxyluciferin species. When oxyluciferin relaxes back to its ground state, energy is released in the form of light…Jellyfish-like animals called ctenophores—can do without [ATP to jump-start bioluminescence]. Instead, they use a luciferin of intrinsically higher energy and prepackage it with oxygen in an enzyme known as a photoprotein. Calcium activates the reaction by changing the shape of the photoprotein, which releases the invested energy in the form of light.” (Pepling 2006)",
+  "function_addressed": [
+    "transform radiant energy (light)"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/light-used-for-instant-signaling/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "light",
+    "used",
+    "instant",
+    "signaling"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-complex-structures-focus-reflected-light",
+  "organism_common": "Crustaceans",
+  "organism_scientific": "",
+  "strategy_summary": "The eye of a lobster focuses reflected light onto the retina using a perfect geometric configuration of square tubes. Lobster in dim light.",
+  "mechanism": "The eye of a lobster focuses reflected light onto the retina using a perfect geometric configuration of square tubes.\n\nLobster in dim light. This doesnt show the features of the eyes.",
+  "function_addressed": [
+    "capture, absorb, or filter energy",
+    "modify light/color"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/complex-structures-focus-reflected-light/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "complex",
+    "structures",
+    "focus",
+    "reflected",
+    "light"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

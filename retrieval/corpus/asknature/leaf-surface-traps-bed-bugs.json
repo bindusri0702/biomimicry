@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-leaf-surface-traps-bed-bugs",
+  "organism_common": "Black bean",
+  "organism_scientific": "",
+  "strategy_summary": "Trichome structures on surface of leaves of kidney bean plants trap bed bugs by having stiff tips that impale mechanically vulnerable locations on the bugs' legs. This strategy has been around for centuries, but has recently taken the spotlight in the world of research for its biomimetic application.",
+  "mechanism": "Trichome structures on surface of leaves of kidney bean plants trap bed bugs by having stiff tips that impale mechanically vulnerable locations on the bugs' legs.\n\nThis strategy has been around for centuries, but has recently taken the spotlight in the world of research for its biomimetic application. Originating in Bulgaria and Serbia, the technique of spreading kidney bean leaves has long been used to keep pests away from sleeping quarters. The hooked hairs (called trichomes for their shapes) of the leaves are able to stop bed bugs in their tracks and prevent them from multiplying. Although it has not been evolutionarily linked, the height of the trichomes appear to be just right to snare the legs of bedbugs. The tips of the trichomes are the effective part in snaring the bugs, as they are the only part of the trichome that is stiff. The lower part of the trichome is flexible and capable of bending with the movement of a bug until the tip is able to come in contact and pierce the cuticle of the body, thus, immobilizing the living organism.\n\nView the video of a trapped bed bug here: http://www.youtube.com/watch?v=i_Ak3A0Y5e8The trichome design found on the leaves of various bean plants (particularly the kidney bean) could be used as inspiration for a more sustainable design in capturing pests that infest beds all over the world. This would eliminate the need for harmful gases, which are currently used for bed-bug control and replace the design with a more environmental friendly, sustainable material that could accomplish the same task. Researchers at the University of California are currently working on creating a synthetic material based off the trichome design found on the surface of bean plant leaves.",
+  "function_addressed": [
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaf-surface-traps-bed-bugs/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaf",
+    "surface",
+    "traps",
+    "bed",
+    "bugs"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

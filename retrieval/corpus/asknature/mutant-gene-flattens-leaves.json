@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-mutant-gene-flattens-leaves",
+  "organism_common": "Sharp-leaved cancerwort",
+  "organism_scientific": "",
+  "strategy_summary": "Mutant gene of snapdragons enhances photosynthesis by causing leaves to grow flat through uniform cell growth. Antirrhinum majus, Cambridge University Botanic Garden  A snapdragon  Plants usually grow flat leaves to maximize the amount of sunlight they capture for photosynthesis .",
+  "mechanism": "Mutant gene of snapdragons enhances photosynthesis by causing leaves to grow flat through uniform cell growth.\n\nAntirrhinum majus, Cambridge University Botanic Garden\n\nA snapdragon\n\nPlants usually grow flat leaves to maximize the amount of sunlight they capture for photosynthesis . And now we know how. Unchecked, a leaf is more likely to be curved than flat. The leaf will buckle if cells near the edge grow more rapidly than cells near the center, and if the opposite happens the leaf becomes cup-shaped. Now it appears that the snapdragon uses a gene called CIN to ensure that cells in all regions of the leaf grow at a uniform rate, keeping the surface flat. (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "capture, absorb, or filter energy",
+    "regulate reproduction or growth",
+    "modify size/shape/mass/volume"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mutant-gene-flattens-leaves/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mutant",
+    "gene",
+    "flattens",
+    "leaves"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

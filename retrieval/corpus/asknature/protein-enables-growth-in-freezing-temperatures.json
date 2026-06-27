@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-protein-enables-growth-in-freezing-temperatures",
+  "organism_common": "Manage Impact",
+  "organism_scientific": "",
+  "strategy_summary": "The protein secretion of the sea ice diatom enables growth in freezing temperatures by inhibiting the recrystallization of the surrounding ice crystals  When temperatures drop, we bundle up to protect ourselves from freezing temperatures. Other creatures don’t have that option, so they have evolved unique strategies…",
+  "mechanism": "The protein secretion of the sea ice diatom enables growth in freezing temperatures by inhibiting the recrystallization of the surrounding ice crystals\n\nWhen temperatures drop, we bundle up to protect ourselves from freezing temperatures. Other creatures don’t have that option, so they have evolved unique strategies for protecting themselves from the cold. One such strategy features a special protein .\n\nSea ice diatoms are single-celled algae that live in cold, aquatic environments, including in the brine channels or on the surface of polar sea ice. They have evolved mechanisms to protect themselves against the extremes of temperature, salinity, and light found in polar environments.\n\nIce crystals grow around the outermost layer, or cell wall, of sea ice diatoms. The diatom excretes something called an extracellular (meaning outside the cell) ice-binding protein (IBN). This protein binds to the ice crystals and prevents the diatom from freezing. Scientists think the protein fits the shape of the ice-crystals, like a three-dimensional jigsaw puzzle. The protein locks the tiny ice crystals in place and prevents them from becoming a larger ice crystal, in a process called ice recrystallization.\n\nIce recrystallization is one of the primary means of cell death in freezing temperatures. While small ice crystals can exist at the surface of cells without causing cell death, large ice crystals cannot. Large ice crystals form when small ice crystals next to each other join together and align themselves in the same direction. Then they act like knives to the cells. The large ice crystals are powerful enough to force their way in between cells and puncture the cell wall. The insides of the cells, when exposed to freezing temperatures, die. The extracellular ice-binding proteins prevent the large ice crystals from forming and are essential for the growth and survival of sea ice diatoms embedded in ice. (Nature often replicates a strategy that works, and IBPs are found in many other organisms, including bacteria, fungi, algae, plants, insects, and fish.)\n\nDiatoms are found throughout the world. Scientists estimate they are responsible for around 40% of all primary production on earth. Through the process of photosynthesis , they produce much of the oxygen on earth. In addition to keeping us breathing, sea ice diatoms could help us develop nontoxic antifreezes or other strategies to prevent ice crystal formation. Monitoring sea ice diatom populations could also serve as an important indicator of climate change.",
+  "function_addressed": [
+    "manage impact",
+    "prevent fracture/rupture",
+    "modify solubility (dissolving, emulsifying, precipitating, crystallizing)",
+    "modify phase",
+    "prevent deformation"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/protein-enables-growth-in-freezing-temperatures/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "protein",
+    "enables",
+    "growth",
+    "freezing",
+    "temperatures"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-crystals-co-orient",
+  "organism_common": "Purple sea urchin",
+  "organism_scientific": "",
+  "strategy_summary": "The calcite crystals in purple sea urchin teeth are co-oriented thanks to propagation of existing crystallinity through an amorphous precursor. “Sea urchin teeth are remarkable and complex calcite structures, continuously growing at the forming end and self-sharpening at the mature grinding tip.",
+  "mechanism": "The calcite crystals in purple sea urchin teeth are co-oriented thanks to propagation of existing crystallinity through an amorphous precursor.\n\n“Sea urchin teeth are remarkable and complex calcite structures, continuously growing at the forming end and self-sharpening at the mature grinding tip. The calcite (CaCO 3 ) crystals of tooth components, plates, fibers, and a high-Mg polycrystalline matrix, have highly co-oriented crystallographic axes. This ability to co-orient calcite in a mineralized structure is shared by all echinoderms. However, the physico-chemical mechanism by which calcite crystals become co-oriented in echinoderms remains enigmatic. Here, we show differences in calcite c -axis orientations in the tooth of the purple sea urchin ( Strongylocentrotus purpuratus ), using high-resolution X-ray photoelectron emission spectromicroscopy (X-PEEM) and microbeam X-ray diffraction (μXRD). All plates share one crystal orientation, propagated through pillar bridges, while fibers and polycrystalline matrix share another orientation. Furthermore, in the forming end of the tooth, we observe that CaCO 3 is present as amorphous calcium carbonate (ACC). We demonstrate that co-orientation of the nanoparticles in the polycrystalline matrix occurs via solid-state secondary nucleation, propagating out from the previously formed fibers and plates, into the amorphous precursor nanoparticles. Because amorphous precursors were observed in diverse biominerals, solid-state secondary nucleation is likely to be a general mechanism for the co-orientation of biomineral components in organisms from different phyla.” (Killian et al. 2009:18404)\n\nhttp://www.news.wisc.edu/17493 http://pubs.acs.org/doi/abs/10.1021/ja907063z",
+  "function_addressed": [
+    "chemically assemble mineral crystals",
+    "modify material characteristics",
+    "modify solubility (dissolving, emulsifying, precipitating, crystallizing)",
+    "chemically assemble inorganic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/crystals-co-orient/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "crystals",
+    "co-orient"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

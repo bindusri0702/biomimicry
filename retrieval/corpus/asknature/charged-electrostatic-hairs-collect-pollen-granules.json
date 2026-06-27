@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-charged-electrostatic-hairs-collect-pollen-granules",
+  "organism_common": "Bees",
+  "organism_scientific": "",
+  "strategy_summary": "The scopa of a bee uses hairs of varying length, shape, and spacing to collect pollen. The scopa (plural scopae) is a collection of hairs used to collect pollen as the bee forages.",
+  "mechanism": "The scopa of a bee uses hairs of varying length, shape, and spacing to collect pollen.\n\nThe scopa (plural scopae) is a collection of hairs used to collect pollen as the bee forages. The scopa can vary in shape, size, and location, depending on the type of pollen collected. The collection is aided by the electrical attraction between pollen, which is negatively charged by being grounded to Earth, and the bee, which picks up a positive charge as it brushes against positively charged molecules in the atmosphere.\n\nScopa tend to have a top layer of long, stiff hair to hold pollen and an underlayer of short, flexible hair to absorb oils. The bottom layer can be made up of separate hairs or hairs branching off the upper layer. Generally, the larger and more interspersed the hairs, the larger the pollen grains that the scopa can hold. Bees that collect small pollen granules have denser, multibranched scopal hairs compared to bees specialized for large grains.\n\nThe scopa is often found on the hind legs, characterized by dense rows of hair. The scopa may also be found on the underside of the abdomen, such as in the Megachilidae family. Pollen caught on other places on the bee, such as the head, can be brushed off using the foreleg using special hairs and packed into the scopa as needed.\n\nThe corbicula, or pollen basket, is a specialized scopa that is able to carry both pollen and nectar. The moisture of the nectar allows the pollen to be tightly packed down, increasing the carrying capacity. This kind of scopa is found on more familiar bees like honey bees and bumblebees.\n\nSome bees lack a scopa entirely, such as kleptoparasitic bees which lay their eggs in the nests of other bees and have no need to forage for pollen. Other bees ingest the pollen instead, storing it in a specialized part of their gut known as the crop.\n\nThis information is also available from the University of Calgary Invertebrate collection , where it was curated as part of a study on design inspired by bees.\n\nMelissodes rivalis, with such a prominent hind leg scopa that it’s known as having “pollen pants”\n\nAndrena peckhami, with a hind leg scopa and very curved hairs present on it.\n\nMegachile melanophaea, with an abdominal scopa.\n\nMegachile inermis, with an abdominal scopa.\n\nBees\n\nVarious structures build or concentrate charge to efficiently move pollen from flowers to bees (and back).\n\nBees\n\nThe basitarsal brushes of bees are used to clean the pollen off their faces while they forage.",
+  "function_addressed": [
+    "capture, absorb, or filter solids",
+    "pollinate"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/charged-electrostatic-hairs-collect-pollen-granules/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "specialized",
+    "hairs",
+    "collect",
+    "pollen",
+    "granules"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

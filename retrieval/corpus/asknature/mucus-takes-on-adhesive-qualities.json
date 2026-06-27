@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-mucus-takes-on-adhesive-qualities",
+  "organism_common": "Brown garden snail",
+  "organism_scientific": "",
+  "strategy_summary": "Mucus of slugs and land snails takes on adhesive characteristics with the addition of certain proteins. “Researchers from Ithaca College and Cornell University studied the mucus and gel of land snails.",
+  "mechanism": "Mucus of slugs and land snails takes on adhesive characteristics with the addition of certain proteins.\n\n“Researchers from Ithaca College and Cornell University studied the mucus and gel of land snails. Several molluscs have been shown to alternate between a non-adhesive trail mucus and a similar gel that forms a strong glue. The major structural difference between the two secretions is the presence of specific protein s in the adhesive mucus. This study identifies similar proteins from the glue of the slug Arion subfuscus and the land snail Helix aspersa . To investigate the role played by these proteins in adhesion, the proteins were isolated from the adhesive mucus of different molluscs and added to commercial polymer solutions. The effect was observed qualitatively, and quantified using a dynamic rheometer. The isolated proteins triggered gelling or visible stiffening of agar, pectin and polygalacturonic acid. The effect was stronger on more negatively charged polymers. The effect of the proteins was concentration dependent with an optimal concentration of 1–1.5 mg per ml, and was weakened when their structure changed. Other proteins and carbohydrates found in the adhesive mucus had no clear mechanical effect on gels. These findings show that the addition of these proteins to large, anionic polymers plays a central role in the formation of a glue from a mucus-like secretion. Such a mechanism may be common among invertebrates, and it may guide biomimetic approaches in the development of glues and gels.” (Courtesy of the Biomimicry Guild)\n\nIthaca College\n\nAdhesive material from Ithaca College has special proteins that make it strong and flexible.",
+  "function_addressed": [
+    "attach temporarily",
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mucus-takes-on-adhesive-qualities/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mucus",
+    "takes",
+    "adhesive",
+    "qualities"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-feathers-aid-prey-detection",
+  "organism_common": "Northern saw-whet owl",
+  "organism_scientific": "",
+  "strategy_summary": "The flattened feathers around the eyes of a saw-whet owl aid the detection of prey because they funnel sound. “The eyes of a hunter: a saw whet owl.",
+  "mechanism": "The flattened feathers around the eyes of a saw-whet owl aid the detection of prey because they funnel sound.\n\n“The eyes of a hunter: a saw whet owl. Placed right at the front of the head for accurate stereoscopic vision, these eyes are not the owl’s means of locating prey. It relies also on its very sensitive hearing, and the rings of flattened feathers which accenuate its eyes are actually designed to funnel sound.” (Foy and Oxford Scientific Films 1982:127)",
+  "function_addressed": [
+    "sense sound and other vibrations from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/feathers-aid-prey-detection/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "feathers",
+    "aid",
+    "prey",
+    "detection"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

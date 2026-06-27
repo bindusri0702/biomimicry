@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-skeletal-muscles-generate-force",
+  "organism_common": "Vertebrates (Mammals, Fish, Birds, Reptiles)",
+  "organism_scientific": "",
+  "strategy_summary": "Humans have over 650 skeletal muscles that make up about 40% of our body weight. Skeletal muscles generate the force that all vertebrates need to move.",
+  "mechanism": "We now know these filaments as myofibrils. Thousands of myofibrils make up a single muscle fiber like tiny straws stacked inside a much larger one. Each myofibril is divided into cylindrical sections stacked on top of one another and linked together.\n\nThese structures are called sarcomeres, and they’re the smallest contracting elements of a muscle. When you decide to flex your biceps, nerves release chemicals which trigger the sarcomeres to squish themselves inward like flattened soda cans, which shortens the myofibrils. This pulls and contracts the muscle fibers, which flexes the entire muscle. In essence, a muscle contraction is the sum of its sarcomere contractions.\n\nA single sarcomere shortens itself through a process called “the sliding filament theory.” Sarcomeres are made primarily of two proteins: actin and myosin. Actin proteins form thin filaments that extend from both flat ends of the cylindrical sarcomere towards the center without connecting, like opposite walls with shelves that don’t touch. In between each actin filament, thick myosin filaments stretch across most of the sarcomere. Chemical changes cause myosin to bind with actin and pull the “shelves” inward, shrinking the sarcomere from both sides.\n\nScientists and engineers are developing artificial muscles that simulate contraction and relaxation. These designs could enhance how robots move, improve pump designs, and lead to better automatic valves, switches, and sensors. One day we may even develop synthetic muscles for prosthetic limbs to assist people with mobility challenges.",
+  "function_addressed": [
+    "modify position",
+    "modify size/shape/mass/volume",
+    "regulate cellular processes",
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/skeletal-muscles-generate-force/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "skeletal",
+    "muscles",
+    "generate",
+    "force"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

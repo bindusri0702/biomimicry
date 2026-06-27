@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-asymmetric-burrow-openings-create-passive-ventilation",
+  "organism_common": "Black-tailed prairie dog",
+  "organism_scientific": "",
+  "strategy_summary": "Differences in position and shape of burrow openings of black-tailed prairie dogs create passive ventilation from wind energy by altering air pressure. Prairie dogs are highly social rodents that build extensive underground burrows in the plains of North America to house their family groups.",
+  "mechanism": "Differences in position and shape of burrow openings of black-tailed prairie dogs create passive ventilation from wind energy by altering air pressure.\n\nPrairie dogs are highly social rodents that build extensive underground burrows in the plains of North America to house their family groups. The burrows can reach 10 m (32 ft) in length, and this size means that diffusion alone is not sufficient to replace used air inside the burrow with fresh air. The way that a prairie dog builds the openings to its burrow, however, helps to harness wind energy from the windy plains and create passive ventilation through the burrow’s tunnels.\n\nAs air flows across a surface, a gradient in flow speed forms, where air moves more slowly the closer it is to the surface. The prairie dog is able to take advantage of this gradient by building a mound with an elevated opening upwind and a mound with a lower opening downwind. Wind velocity then is faster over the higher opening than the lower opening. Since an increase in speed creates a decrease in pressure (according to what is called “Bernoulli’s principle” ), the burrow now has openings with two different air pressures on them. The result of this difference is one-way air flow through the burrow as air rushes out the higher opening and is drawn in to the lower opening.\n\nThe mounds around the burrow openings serve additional functions for the prairie dog, like providing a perch to watch for predators. Other organisms use a similar arrangement of openings to generate passive flow, including sea sponges and limpets.\n\nWind moves faster the further it is from the ground surface. At the mouth of the elevated burrow opening (left), fast moving winds suck air out of the burrow. At the mouth of the lower opening (right), slower moving air flow flows in.\n\nDownload Strategy PDF",
+  "function_addressed": [
+    "distribute gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/asymmetric-burrow-openings-create-passive-ventilation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "asymmetric",
+    "burrow",
+    "openings",
+    "create",
+    "passive",
+    "ventilation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-surface-cells-store-water",
+  "organism_common": "Store Liquids",
+  "organism_scientific": "",
+  "strategy_summary": "The leaves of ice plants store water in surface bladder-like cells. The ice plant, which is native to southern and eastern Africa, is named for the small, transparent bladders that cover its leaves and make the plant look like it’s covered with frozen dew.",
+  "mechanism": "The leaves of ice plants store water in surface bladder-like cells.\n\nThe ice plant, which is native to southern and eastern Africa, is named for the small, transparent bladders that cover its leaves and make the plant look like it’s covered with frozen dew. These bladders are called epidermal bladder cells; they are modified versions of hair-like structures that cover the surfaces of many plants. Epidermal bladder cells act as numerous small reservoirs that are especially helpful during times of drought and high salinity. They retain water and also sequester excess salt to keep it away from tissues that are more sensitive to high salinity.\n\nThis strategy was co-contributed by EcoRise Youth Innovations\n\nEpidermal bladder cells on an ice plant\n\nMesembryanthemum crystallinum, entire plant. Photographed in the wild in the La Geria region of Lanzarote.",
+  "function_addressed": [
+    "store liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/surface-cells-store-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "surface",
+    "cells",
+    "store",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-felt-like-covering-protects-from-cold",
+  "organism_common": "Edelweiss",
+  "organism_scientific": "",
+  "strategy_summary": "Leaves of edelweiss protect from cold via woolly hairs. “Cold remains a major danger, for the temperature even in summer may fall well below freezing at night.",
+  "mechanism": "Leaves of edelweiss protect from cold via woolly hairs.\n\n“Cold remains a major danger, for the temperature even in summer may fall well below freezing at night. A furry blanket can help to keep off the worst chills. The edelweiss, growing in cracks in rocks, protects itself with a coat of woolly hairs that gives its leaves and the bracts surrounding its tiny flowers a felt-like appearance.” (Attenborough 1995:253)",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/felt-like-covering-protects-from-cold/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "felt-like",
+    "covering",
+    "protects",
+    "cold"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

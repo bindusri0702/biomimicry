@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-group-minimizes-wind-resistance",
+  "organism_common": "Brown pelican",
+  "organism_scientific": "",
+  "strategy_summary": "Pelicans flying in groups adjust their spacing to minimize wind resistance. “Then, as they bend their flight in the direction of their quest, one or two pelicans at one end of their formation will bump up, bounced higher by the spinning air column.",
+  "mechanism": "Pelicans flying in groups adjust their spacing to minimize wind resistance.\n\n“Then, as they bend their flight in the direction of their quest, one or two pelicans at one end of their formation will bump up, bounced higher by the spinning air column. Those birds will dip their wingtip away from the rest of the formation and roll toward the rising impetus. The other birds follow along in trail, pealing off one behind the next, the entire group rolling into the rising thermal and closing together to conform to the narrow cylinder of spinning wind at the center.\n\nAs they spiral higher, the air cushioning their ascent chills around them, expanding with the height. Near the apex of the rising column the birds feel an abrupt loss of buoyancy where the vertical currents flare apart like the bell of an upturned trumpet. Still, the birds stay with the spiral bloom of wind for a final half turn, until they are pointed once again toward their chosen destination–a pass through the mountains just now coming visible on the far horizon. Finally, they drop off the top of the virtual carousel and fall behind one another. They adjust their spacing to minimize the wind resistance by riding close behind each other. Buoyed by the central updrafts of floating ring vortices, the pelicans can glide in a gentle descent across hundreds of miles of terrain each day.” (Daubert 2006:123-124)",
+  "function_addressed": [
+    "cooperate within the same species",
+    "coordinate by self-organization",
+    "optimize shape/materials",
+    "modify buoyancy",
+    "manage turbulence"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/group-minimizes-wind-resistance/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "group",
+    "minimizes",
+    "wind",
+    "resistance"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

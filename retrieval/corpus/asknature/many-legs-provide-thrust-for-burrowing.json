@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-many-legs-provide-thrust-for-burrowing",
+  "organism_common": "Millipedes",
+  "organism_scientific": "",
+  "strategy_summary": "The many short legs of a millipede provide thrust for burrowing as the leg movements follow a wave along the body. Image: Ghost Particle / toggle icon Image: Janice Carr / Centers for Disease Control and Prevention / toggle icon right arrow right arrow  “A millipede advances along a twig.",
+  "mechanism": "The many short legs of a millipede provide thrust for burrowing as the leg movements follow a wave along the body.\n\nImage: Ghost Particle / toggle icon Image: Janice Carr / Centers for Disease Control and Prevention / toggle icon right arrow right arrow\n\n“A millipede advances along a twig. Although renowned for the number of their legs, even the longest millipedes have only about 680 legs, and most species have far fewer. You might expect that an animal with so many legs would move very fast, but the millipede’s legs are so short and its fat body so close to the ground that its legs take only short strides at a time. Nevertheless, they can deliver considerable thrust, and millipedes are strong enough to burrow into the ground very efficiently…The leg movement of the millipede occurs in a wave along the body: certain groups of legs are moving forwards as others are thrusting backwards. At any given time there are always some legs in contact with the ground at intervals along its body.” (Foy and Oxford Scientific Films 1982:45)\n\nWatch Video",
+  "function_addressed": [
+    "move in/on solids",
+    "modify position"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/many-legs-provide-thrust-for-burrowing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "many",
+    "legs",
+    "provide",
+    "thrust",
+    "burrowing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

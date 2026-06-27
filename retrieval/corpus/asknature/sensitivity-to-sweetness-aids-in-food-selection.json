@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-sensitivity-to-sweetness-aids-in-food-selection",
+  "organism_common": "Honeybees",
+  "organism_scientific": "",
+  "strategy_summary": "Honeybees select natural sugars and reject substitutes based on an extreme sensitivity to taste. “Conversely, when presented with a wide selection of tastes, insects are sometimes far less responsive than we are.",
+  "mechanism": "Honeybees select natural sugars and reject substitutes based on an extreme sensitivity to taste.\n\n“Conversely, when presented with a wide selection of tastes, insects are sometimes far less responsive than we are. In one series of tests, in which 34 different sugars and similar substances were sampled, human volunteers stated that 30 of them tasted sweet. In sharp contrast, honeybees offered this selection responded to only nine of them — all substances that occurred in their natural foodstuffs, such as nectar and honeydew. The bees were not fooled by artificial sweeteners such as saccharin. In high concentrations, these substances actively repelled the discriminating honeybees.” (Shuker 2001:33)",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment",
+    "capture, absorb, or filter chemical entities"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/sensitivity-to-sweetness-aids-in-food-selection/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "sensitivity",
+    "sweetness",
+    "aids",
+    "food",
+    "selection"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

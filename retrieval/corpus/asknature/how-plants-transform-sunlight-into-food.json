@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-how-plants-transform-sunlight-into-food",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "For the first half of Earth’s life to date, oxygen was all but absent from an atmosphere made mostly of nitrogen, carbon dioxide, and methane. The evolution of animals and life as we now know it owe everything to photosynthesis .",
+  "mechanism": "Photosynthesis occurs in special plant cells called chloroplast s, which are the type of cells found in leaves. A single chloroplast is like a bag filled with the main ingredients needed for photosynthesis. It has water soaked up from the plant’s roots, atmospheric carbon dioxide absorbed by the leaves, and chlorophyll contained in folded, maze-like organelles called thylakoid s.\n\nChlorophyll is the true catalyst of photosynthesis. Cyanobacteria, plankton, and land plants all rely on this light-sensitive molecule to spark the process.\n\nChlorophyll molecules are so bad at absorbing green light that they reflect it like tiny mirrors, causing our eyes to see most leaves as green. It’s usually only in autumn, after chlorophyll degrades, that we peep those infinite shades of yellow and orange produced by carotenoid pigment s called xanthophylls and carotenes.\n\nNature, through photosynthesis, enables plants to convert the sun’s energy into a form that they and other living things can make use of. Plants transfer that energy directly to most other living things as food or as food for animals that other animals eat.\n\nHumans also extract this energy indirectly from wood, or from plants that decayed millions of years ago into oil, coal, and natural gas. Burning these materials to provide electricity and heat has, through overexploitation, led to dire consequences that have upset the balance of life on Earth.\n\nWhat if humans could harness this power in a different way? Imagine green chemistry that’s catalyzed by sunlight instead of having to mine for heavy metals like copper, tin, or platinum. Think of the potential that chemical processes requiring little heat have to reduce energy consumption. With a better understanding of photosynthesis, we may transform agriculture to consume less water and preserve more land for native plants and forests. As we continue to grapple with climate change, listening to what plants can teach us can shine a light down a greener path.",
+  "function_addressed": [
+    "transform radiant energy (light)",
+    "transform chemical energy",
+    "chemically assemble organic compounds",
+    "catalyze chemical breakdown"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/how-plants-transform-sunlight-into-food/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "photosynthesis",
+    "converts",
+    "solar",
+    "energy",
+    "chemical"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

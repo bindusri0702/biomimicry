@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-trachea-enables-deep-dives",
+  "organism_common": "Leatherback sea turtle",
+  "organism_scientific": "",
+  "strategy_summary": "The trachea of adult leatherback sea turtles enables deep dives via a compressible cartilaginous structure. “Adult leatherbacks are large animals (300–500 kg), overlapping in size with marine pinniped and cetacean species.",
+  "mechanism": "The trachea of adult leatherback sea turtles enables deep dives via a compressible cartilaginous structure.\n\n“Adult leatherbacks are large animals (300–500 kg), overlapping in size with marine pinniped and cetacean species. Unlike marine mammals, they start their aquatic life as 40–50 g hatchlings, so undergo a 10,000-fold increase in body mass during independent existence. Hatchlings are limited to the tropics and near-surface water. Adults, obligate predators on gelatinous plankton, encounter cold water at depth (<1280 m) or high latitude and are gigantotherms that maintain elevated core body temperatures in cold water. This study shows that there are great ontogenetic changes in tracheal structure related to diving and exposure to cold. Hatchling leatherbacks have a conventional reptilian tracheal structure with circular cartilaginous rings interspersed with extensive connective tissue. The adult trachea is an almost continuous ellipsoidal cartilaginous tube composed of interlocking plates, and will collapse easily in the upper part of the water column during dives, thus avoiding pressure-related structural and physiological problems. It is lined with an extensive, dense erectile vascular plexus that will warm and humidify cold inspired air and possibly retain heat on expiration. A sub-luminal lymphatic plexus is also present. Mammals and birds have independently evolved nasal turbinates to fulfil such a respiratory thermocontrol function; for them, turbinates are regarded as diagnostic of endothermy. This is the first demonstration of a turbinate equivalent in a living reptile. (Davenport et al. 2009:3440)",
+  "function_addressed": [
+    "manage compression"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/trachea-enables-deep-dives/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "trachea",
+    "enables",
+    "deep",
+    "dives"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

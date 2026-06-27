@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-valve-regulates-water-permeability",
+  "organism_common": "Tree lupin",
+  "organism_scientific": "",
+  "strategy_summary": "The seed coats of some desert plants adjust their permeability to moisture via a humidity-sensitive hilar valve. Seeds need the right conditions to germinate and for most, that means sufficient water.",
+  "mechanism": "The seed coats of some desert plants adjust their permeability to moisture via a humidity-sensitive hilar valve.\n\nSeeds need the right conditions to germinate and for most, that means sufficient water. For desert plants, the right amount of water could take months or years to arrive, so some seeds become dormant. Their seed coats become impermeable to water, which appears to be contradictory if a seed needs to absorb water to germinate. However, imagine what disaster could befall a plant population if its seeds respond to any water event that comes along, or even just temporary high humidity.\n\nSeeds of several members of the Legume family have a valve that adjusts to changes in humidity while the rest of the seed coat remains impermeable. The hilar valve or hilum is the scar where the seed once attached to the parent plant. The valve allows water vapor to enter and exit to maintain a safe internal moisture level, but does not allow liquid water to pass. If humidity levels suddenly drop, stay low, then suddenly rise again, the valve doesn’t allow moisture back in. Essentially, the hilum then acts as a one-way valve, not allowing moisture in when humidity levels are high, but letting moisture out as humidity levels decrease. However, if humidity levels gradually rise to a high enough level, the hilar valve stays open and eventually allows liquid water to enter to the point when germination can occur if the seed is immersed in water.\n\nDifferent types of cells control the hilar valve. Columnar-shaped cells on either side of the opening and outside the impermeable layer, called counter palisade cells, are hygroscopic—they absorb water molecules from the atmosphere. When external humidity levels are high, they swell and close the valve, preventing water absorption into the seed. When humidity levels are low, they shrivel, causing the valve to open, allowing the seed to dry out more. Other cells, palisade epidermis cells, that control the hilar valve are found in a layer lining the inside of the seed coat’s impermeable layer. There is a certain amount of moisture tension between these cells and the counter palisade cells on the other side of the impermeable layer. For the hilum to close, this tension needs to exceed some minimum level. If while the hilar valve is open (i.e., at low relative humidity) there is a sudden increase in humidity, the tension reaches that minimum level and the hilum closes, preventing moisture from entering. If, however, there is a gradual rise in humidity, which signals the coming of suitable germination and growing conditions, the tension level never gets met, and the hilum stays open, allowing moisture to continue entering.\n\nWe can learn from clovers and lupines how to regulate moisture levels for buildings, packaging, bandages, and clothing. A building, for example, could have a breathing skin or envelope that self-adjusts to humidity levels, differences in temperature, atmospheric pressure, or liquids. A breathing building could result in healthier indoor air quality and moisture levels, creating a more comfortable and productive work space.",
+  "function_addressed": [
+    "protect from excess liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/valve-regulates-water-permeability/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "valve",
+    "regulates",
+    "water",
+    "permeability"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

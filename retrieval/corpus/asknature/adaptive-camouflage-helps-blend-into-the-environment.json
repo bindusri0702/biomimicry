@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-adaptive-camouflage-helps-blend-into-the-environment",
+  "organism_common": "Cuttlefish",
+  "organism_scientific": "",
+  "strategy_summary": "The idea of turning invisible is so intriguing to us humans that every generation invents new superheroes and villains with this ability in the stories we tell. But it’s not really fiction.",
+  "mechanism": "Cuttlefish are able to match colors and surface textures of their surrounding environments by adjusting the pigment and iridescence of their skin, which is composed of several layers.\n\nOn the skin surface, chromatophores (tiny sacs filled with red, yellow, or brown pigment) ab­sorb light of various wavelengths. Once vis­ual input is processed, the cephalopod sends a signal to a nerve fiber, which is connected to a muscle. That muscle relaxes and contracts to change the size and shape of the chromato­phore. Each color chromatophore is controlled by a different nerve, and when the attached muscle contracts, it flattens and stretches the pigment sack outward, expanding the color on the skin. When that muscle relaxes, the chro­matophore closes back up, and the color dis­appears. As many as two hundred of these may fill a patch of skin the size of a pencil eraser, like a shimmering pixel display.\n\nTechnologies which control how much an object stands out or blends in have many different potential applications. “Smart” crosswalks, for example, could help to make crossing pedestrians more obvious to drivers and self-driving vehicles, and a truly smart phone being sought by its owner could change its color to contrast with the couch cushions it’s tucked between. The chromatophores of cuttlefish also give us the idea of materials that change colors with force or bending. This could be very helpful in everything from visual indicators of car tires getting low on air, to structural elements of bridges deforming and indicating they’re in need of repair.",
+  "function_addressed": [
+    "send light signals in the visible spectrum",
+    "modify light/color",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/adaptive-camouflage-helps-blend-into-the-environment/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "adaptive",
+    "camouflage",
+    "blend",
+    "stand",
+    "out"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

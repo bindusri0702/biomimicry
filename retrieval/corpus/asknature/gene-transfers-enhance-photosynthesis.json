@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-gene-transfers-enhance-photosynthesis",
+  "organism_common": "Marine viruses",
+  "organism_scientific": "",
+  "strategy_summary": "Marine viruses (called cyanophages) that infect cyanobacteria enhance photosynthesis in their hosts by displacing host photosynthesis genes with viral-encoded homologues. “Cyanophages are double-stranded DNA viruses belonging to three morphologically defined families: Podoviridae, Myoviridae, and Siphoviridae…",
+  "mechanism": "Marine viruses (called cyanophages) that infect cyanobacteria enhance photosynthesis in their hosts by displacing host photosynthesis genes with viral-encoded homologues.\n\n“Cyanophages are double-stranded DNA viruses belonging to three morphologically defined families: Podoviridae, Myoviridae, and Siphoviridae [3–5,9,10]. Among the cyanophages, podoviruses and siphoviruses tend to be very host-specific, whereas myoviruses generally have a broader host range, even across genera [5], and thus are potential vectors for horizontal gene transfer via transduction. The movement of genes between organisms is an important mechanism in evolution. As agents of gene transfer, phages play a role in host evolution by supplying the host with new genetic material [11–15] and by displacing ‘host’ genes with viral-encoded homologues [16–18]…Because maximal cyanophage production is dependent on photosynthesis [31,33], and the host PsbA protein turns over rapidly [34] and declines during infection [31], expression of these phage-encoded genes likely enhances photosynthesis during infection, thus increasing cyanophage fitness.” (Sullivan et al. 2006:1344-1345)",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities",
+    "regulate cellular processes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/gene-transfers-enhance-photosynthesis/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "gene",
+    "transfers",
+    "enhance",
+    "photosynthesis"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

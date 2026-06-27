@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-seed-compartment-impervious-to-rain",
+  "organism_common": "Sea fig",
+  "organism_scientific": "",
+  "strategy_summary": "A seed-containing structure in some mesembryanthemums provides long-term protection for some seeds because it is impervious to rain. “There is still a chance that the rain may not last long enough to sustain the seedlings and that they will die soon after they have germinated.",
+  "mechanism": "A seed-containing structure in some mesembryanthemums provides long-term protection for some seeds because it is impervious to rain.\n\n“There is still a chance that the rain may not last long enough to sustain the seedlings and that they will die soon after they have germinated. Some mesems take out an insurance against even that possibility. They keep a small proportion of their seeds locked away in a compartment that no amount of raindrops can dislodge. These will only be released months, if not years later when the whole capsule has finally decayed. Then they take their chance with the rest of the seeds in the sandy ground.” (Attenborough 1995:278)",
+  "function_addressed": [
+    "protect from excess liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/seed-compartment-impervious-to-rain/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "seed",
+    "compartment",
+    "impervious",
+    "rain"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

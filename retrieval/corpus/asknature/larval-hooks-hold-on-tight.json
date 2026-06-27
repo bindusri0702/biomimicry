@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-larval-hooks-hold-on-tight",
+  "organism_common": "Modify Size/Shape/Mass/Volume",
+  "organism_scientific": "",
+  "strategy_summary": "Hooks and silk of butterfly larvae form a strong attachment under leaves  Most insects go through complete metamorphosis, where their body pattern alters from one form to a new one. The change occurs inside a hard casing, called a pupa, and is a complete remodeling of their entire bodies.",
+  "mechanism": "Hooks and silk of butterfly larvae form a strong attachment under leaves\n\nMost insects go through complete metamorphosis, where their body pattern alters from one form to a new one. The change occurs inside a hard casing, called a pupa, and is a complete remodeling of their entire bodies. During metamorphosis, the body of the lava breaks down completely into a sort of cellular soup that then reforms into an entirely new shape. During this process, the insect is unable to defend itself and is very vulnerable. Butterflies and moths have a number of ways of hiding their pupae, including mimicking leaves and other plant parts so as to be less obvious to predators. One species, the Greta oto , or glass-winged butterfly adds to the protection from camouflage by suspending itself from the underside of leaves when pupating.\n\nGreta oto caterpillars weave a silken pad that is glued to the underside of the leaf. The silk fibers in the pad are deliberately tangled as they are spun to create large numbers of tiny loops. Once the pad has been spun, the animal inserts a specialized array of hooks, called a cremaster, into the silk pad. The cremaster is made of tough chitin that will not snap and it becomes a permanent part of the case of the pupa as the insect inside metamorphoses into the adult butterfly.\n\nThe hooks of the cremaster are highly specialized for hanging securely from the silk pad. The hooks are arrayed over the surface of the cremaster in a ball shape, which makes it easier for the hooks to penetrate the center of the pad without squashing it, whilst also increasing the available hooked surface area.\n\nThe hooks themselves are also highly specialized. Each hook ends with a backward facing barb that ensures that, while the threads of the silk can slip easily over the end of the hook, it cannot so easily slide off. Each barb is split into segments, forming mini barbs with a groove in between. Silk fibers can also sit in these grooves, forming a further barrier that prevents the hooked loops from sliding off.\n\nThe silk pad and cremaster of the Greta oto creates a sort of super hook-and-loop fastener that is at least 50 times stronger than is necessary to support the weight of the chrysalis. It is likely the extra strength is to protect the animal from the extra stresses caused by swaying caused by the strong winds that are common in its native habitat.\n\nGlasswing Butterflies Want To Make Something Perfectly Clear\n\nImage: Alias 0591 / CC BY - Creative Commons Attribution alone toggle icon Image: Hectonichus / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon Image: Paulo Philippidis / CC BY - Creative Commons Attribution alone toggle icon right arrow right arrow",
+  "function_addressed": [
+    "modify size/shape/mass/volume",
+    "physically assemble structure",
+    "attach permanently"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/larval-hooks-hold-on-tight/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "larval",
+    "hooks",
+    "hold",
+    "tight"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

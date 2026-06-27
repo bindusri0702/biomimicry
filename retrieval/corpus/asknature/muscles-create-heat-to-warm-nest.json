@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-muscles-create-heat-to-warm-nest",
+  "organism_common": "Western honeybee",
+  "organism_scientific": "",
+  "strategy_summary": "Flight muscles of the western honey bee warm the brood nest by contracting without wing movement and transferring heat to brood cells. Honeybee colonies keep the brood nest temperature between 33 and 36 degrees Celsius using muscle movement to warm the hive.",
+  "mechanism": "Flight muscles of the western honey bee warm the brood nest by contracting without wing movement and transferring heat to brood cells.\n\nHoneybee colonies keep the brood nest temperature between 33 and 36 degrees Celsius using muscle movement to warm the hive. Bees, like many insects, are cold blooded and require their brood to remain within a small temperature range to continue normal development. Responding to temperature changes in the environment, or thermoregulation of the nest, is the job of special heater bees. If a heater bee is trying to warm an individual brood cell, it can press against the top of the cell with its thorax, or midsection, to transfer heat to the developing young inside. Similarly, bees can also crawl inside a neighboring cell to transfer heat. The current leading hypothesis says heating is accomplished using muscle contraction for periods of time up to 45 minutes. The muscles that contract are flight muscles, and decoupling the wings from these muscles separates wing movement from muscle activity that would normally initiate flight; that way, the muscles can contract without moving the wings. The heat produced from muscle contraction warms the bee’s body up to 44 degrees Celsius, about 10 degrees warmer than a normal bee. Body heat transferred to the brood cells can effectively circulate around the hive and maintain a stable temperature in the hive overall.\n\nImage: Jon BeesinFrance / CC BY - Creative Commons Attribution alone toggle icon Image: Trypode / Flickr / toggle icon right arrow right arrow",
+  "function_addressed": [
+    "sense temperature cues from the environment",
+    "transform thermal energy",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/muscles-create-heat-to-warm-nest/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "muscles",
+    "create",
+    "heat",
+    "warm",
+    "nest"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

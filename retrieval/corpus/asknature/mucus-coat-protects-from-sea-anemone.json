@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-mucus-coat-protects-from-sea-anemone",
+  "organism_common": "Clownfish",
+  "organism_scientific": "",
+  "strategy_summary": "The mucus coat of clownfish protects the fish from sea anemone's sting via innate or acquired immunity. Clownfish and sea anemones have a complex and mutually beneficial relationship.",
+  "mechanism": "The mucus coat of clownfish protects the fish from sea anemone's sting via innate or acquired immunity.\n\nClownfish and sea anemones have a complex and mutually beneficial relationship. Clownfish live in and are protected by some species of sea anemone; without this protection, they cannot survive in the wild. Anemone tentacles sting and kill other species of fish, but the clownfish is protected from the anemone’s sting.\n\nIt is believed that the clownfish is protected due to a mucus coat on the outside of its skin. Studies have suggested that the clownfish’s protection can be innate, acquired, or both, depending upon the species. It is suggested that some species of clownfish are innately protected from an anemone’s sting before ever coming into contact with the anemone. This is because the mucus coat they produce is sufficient to protect them from the anemone’s sting. Others, however, must acclimate to the host anemone before they can move freely among its tentacles without being stung. They do this by rubbing themselves on the anemone’s tentacles over and over again. Initially, the clownfish are stung by the tentacles, but over time, they appear to be unharmed.\n\nInterestingly, even clownfish that are innately protected exhibit this “acclimation behavior.” After initial contact, they acquire antigens from the anemone they have encountered. It has been proposed that these antigens serve as a type of “chemical camouflage” for the fish. With the acquisition of these antigens, the anemone is no longer able to distinguish between itself and the clownfish. The result is that the anenome no longer reacts to the fish by stinging.\n\nThis summary was contributed by Alexis Dean.\n\nCheck out this related strategy: Intricate relationship allows the other to flourish: sea anemone and clownfish",
+  "function_addressed": [
+    "protect from chemicals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mucus-coat-protects-from-sea-anemone/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mucus",
+    "coat",
+    "protects",
+    "sea",
+    "anemone"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

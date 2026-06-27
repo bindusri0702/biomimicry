@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-claws-protract-to-grip-prey",
+  "organism_common": "African lion",
+  "organism_scientific": "",
+  "strategy_summary": "Claws of the African lion protract from sheaths of skin to grab prey using muscles and tendons. The African lion has a remarkable adaptation for hunting.",
+  "mechanism": "Claws of the African lion protract from sheaths of skin to grab prey using muscles and tendons.\n\nThe African lion has a remarkable adaptation for hunting. Unlike other carnivores that commonly have permanently extended claws, lions (and most other cats) sport protractile claws. With this protraction mechanism, the claws are either passively retracted within the paw or actively extended out of the paw. In the paw’s relaxed state, elastic ligaments and tendons hold the claws within sheaths of skin. In this state, the claws are protected from the wear and tear that comes from walking on rough ground. Using this covering is like keeping a sword in its scabbard to protect it from becoming dull. When the lion is ready for action, it uses muscles to actively straighten its toes and extend its blade-like claws from their sheaths. This specialized arrangement enables the lion to control when to use its sharp claws for hunting, as well as climbing and mating.\n\nIllustration c reated by Sam Gochman . Some rights reserved .\n\nThis summary was contributed by Sam Gochman.\n\nOverviewing lion",
+  "function_addressed": [
+    "modify speed",
+    "adapt behaviors",
+    "modify position",
+    "manage mechanical wear",
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/claws-protract-to-grip-prey/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "claws",
+    "protract",
+    "grip",
+    "prey"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

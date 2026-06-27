@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-viscoelastic-mucus-enables-locomotion",
+  "organism_common": "California banana slug",
+  "organism_scientific": "",
+  "strategy_summary": "The foot of a banana slug generates a propulsive force against surfaces via mucus secretions that act as both a lubricant and an adhesive. Snails and slugs only have one body part in contact with the ground at any one time, which raises the question: how do they develop a net force to produce propulsion?",
+  "mechanism": "The foot of a banana slug generates a propulsive force against surfaces via mucus secretions that act as both a lubricant and an adhesive.\n\nSnails and slugs only have one body part in contact with the ground at any one time, which raises the question: how do they develop a net force to produce propulsion? Most animals have multiple legs with some functioning as stationary supports while others move forward to act as future stationary supports. Initially, it may seem that using only one structure to both hold onto the ground and move over it is a paradox; however, snails and slugs evolved the answer long ago. Though the precise physical mechanism has yet to be revealed, snail and slug mucus is apparently used to both lubricate the snail’s movement over surfaces and to facilitate the transfer of adhesive force to the surface. Only a “viscoelastic” fluid could have both properties since ordinary fluids are either viscous or elastic. Snails and slugs move by producing a pedal wave that travels from one end of the body to the other (depending on the species of snail). The interwave regions are stationary (relative to the ground) and exert force against the mucus layer which is then transmitted to the ground; for the interwave region, the mucus acts as an elastic or adhesive material capable of transmitting mechanical force. On the other hand, wave regions travel over the ground and do not exert force on it; in this case, the mucus acts as a viscous lubricant. There is mounting evidence that the mucus is of great importance when the snail/slug is crawling across vertical or inverted surfaces, but that it may not be entirely necessary for motility on flat, level surfaces.\n\nBanana Slugs: Secret of the Slime",
+  "function_addressed": [
+    "move in/on solids",
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/viscoelastic-mucus-enables-locomotion/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "viscoelastic",
+    "mucus",
+    "enables",
+    "locomotion"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

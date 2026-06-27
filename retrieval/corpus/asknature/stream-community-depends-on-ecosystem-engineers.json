@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-stream-community-depends-on-ecosystem-engineers",
+  "organism_common": "Cycle Nutrients",
+  "organism_scientific": "",
+  "strategy_summary": "Andean stream communities depend on detritivorous fish that modify habitat structure and resource availability. “Many organisms modulate the availability of resources to other species by causing state changes in biotic or abiotic materials (ecosystem engineering), in the process frequently changing the selection to…",
+  "mechanism": "Andean stream communities depend on detritivorous fish that modify habitat structure and resource availability.\n\n“Many organisms modulate the availability of resources to other species by causing state changes in biotic or abiotic materials (ecosystem engineering), in the process frequently changing the selection to which the ecosystem engineers and other organisms are exposed (niche construction)…the selective removal of a detritivorous fish ( Prochilodus mariae ) from a stream in the Andean foothills resulted in the rapid accretion of sediments and significant changes in the composition of algal and invertebrate assemblages (Flecker 1996). Through their modification of habitat structure and resource availability, sediment-processing fish were shown to be key to structuring biotic communities. Overexploitation of Prochilodus fisheries in South America may have broad consequences that are manifested throughout Andean stream ecosystems (Flecker 1996).” (Boogert 2006:570, 573)",
+  "function_addressed": [
+    "cycle nutrients",
+    "maintain biodiversity"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/stream-community-depends-on-ecosystem-engineers/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "stream",
+    "community",
+    "depends",
+    "ecosystem",
+    "engineers"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

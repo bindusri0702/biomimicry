@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-flagella-facilitate-swimming-and-attaching",
+  "organism_common": "Giardia lamblia",
+  "organism_scientific": "",
+  "strategy_summary": "Flagella of Giardia facilitate swimming and attaching by having each of the four pairs of flagella conduct different functions. “…we discovered that, during rapid swimming of Giardia trophozoites , undulations of the caudal region contributed to forward propulsion combined with the beating of the flagella pairs… the…",
+  "mechanism": "Flagella of Giardia facilitate swimming and attaching by having each of the four pairs of flagella conduct different functions.\n\n“…we discovered that, during rapid swimming of Giardia trophozoites , undulations of the caudal region contributed to forward propulsion combined with the beating of the flagella pairs… the anterior and posterolateral flagella beat with a clearly defined power stroke and not symmetrical undulations. During the transition from free swimming to attachment, trophozoites modified their swimming behavior from a rapid rotating motion to a more stable planar swimming. While using this planar swimming motion, the trophozoites used the flagella for propulsion and directional control…The results from this study indicate that Giardia is able to simultaneously generate both ciliary beating and typical eukaryotic flagellar beating using different pairs of flagella.” (Lenaghan et al. 2011:E550)\n\nLenaghan SC; Davis CA; Henson WR; Zhang Z; Zhang M. 2011. High-speed microscopic imaging of flagella motility and swimming in Giardia lamblia trophozoites. PNAS 108(34):E550-E558.",
+  "function_addressed": [
+    "move in/on liquids",
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/flagella-facilitate-swimming-and-attaching/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flagella",
+    "facilitate",
+    "swimming",
+    "attaching"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

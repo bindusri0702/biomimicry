@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-ion-channels-detects-heat",
+  "organism_common": "Common vampire bat",
+  "organism_scientific": "",
+  "strategy_summary": "'Pit organs' around the nose of vampire bat detects infrared radiation using ion channels. “Histological studies of the bats’ facial structures indicate that thermal stimuli are most probably perceived in the three pits surrounding the central nose leaf: the thin, hairless and glandless skin is underlaid with dense…",
+  "mechanism": "'Pit organs' around the nose of vampire bat detects infrared radiation using ion channels.\n\n“Histological studies of the bats’ facial structures indicate that thermal stimuli are most probably perceived in the three pits surrounding the central nose leaf: the thin, hairless and glandless skin is underlaid with dense connective tissue. Thermography reveals that the surface temperature of the nasal region is up to 9°C lower than that of the neighboring parts of the face (Fig. 2).” (Kürten and Schmidt 1982:223)\n\n“Vampire bats ( Desmodus rotundus ) are obligate blood feeders that have evolved specialized systems to suit their sanguinary lifestyle. Chief among such adaptations is the ability to detect infrared radiation as a means of locating hotspots on warm-blooded prey. Among vertebrates, only vampire bats, boas, pythons and pit vipers are capable of detecting infrared radiation. In each case, infrared signals are detected by trigeminal nerve fibres that innervate specialized pit organs on the animal’s face. Thus, vampire bats and snakes have taken thermosensation to the extreme by developing specialized systems for detecting infrared radiation. As such, these creatures provide a window into the molecular and genetic mechanisms underlying evolutionary tuning of thermoreceptors in a species-specific or cell-type-specific manner(…)Here we show that vampire bats tune a channel* that is already heat-sensitive, TRPV1, by lowering its thermal activation threshold to about 30 °C. This is achieved through alternative splicing of TRPV1 transcripts to produce a channel with a truncated carboxy-terminal cytoplasmic domain. These splicing events occur exclusively in trigeminal ganglia, and not in dorsal root ganglia, thereby maintaining a role for TRPV1 as a detector of noxious heat in somatic afferents.” (Gracheva et al. 2011:88)\n\n* Ion channels are pore-forming proteins that regulate the flow of ions across the membrane in all cells.\n\nThe channel acts like a little thermostat. “Altering its structure by leaving out part of the gene tunes the ability of the channel to detect heat. By expressing different forms in different tissues, the bats have split the function of the sensor, maintaining its original function but also gaining the ability to detect body heat for more efficient hunting.” (Wigmore 2011)",
+  "function_addressed": [
+    "sense temperature cues from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/ion-channels-detects-heat/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "ion",
+    "channels",
+    "detects",
+    "heat"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

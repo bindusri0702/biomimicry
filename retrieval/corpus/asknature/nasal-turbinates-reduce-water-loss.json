@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-nasal-turbinates-reduce-water-loss",
+  "organism_common": "Northern elephant seal",
+  "organism_scientific": "",
+  "strategy_summary": "The nasal turbinates of the northern elephant seal reduce water loss via countercurrent heat exchange. During the breeding season northern elephant seal males go without food and water for three months and weaned pups may fast for 2-3 months.",
+  "mechanism": "The nasal turbinates of the northern elephant seal reduce water loss via countercurrent heat exchange.\n\nDuring the breeding season northern elephant seal males go without food and water for three months and weaned pups may fast for 2-3 months. Their only source of water is that produced by metabolizing their fat stores. Therefore, like animals in arid environments, they must conserve water by minimizing water loss.\n\nRespiration can be a significant cause of water loss. Species like the elephant seal, penguin, reindeer, camel, kangaroo rat have a particularly effective so-called temporal counter-current exchange mechanism in their nasal passages that minimizes the amount of water lost from the respiratory system. The nasal turbinates are important structural and functional components of this mechanism. This is a series of boney, shelf-like structures in the nasal passageway covered with a well-vascularized layer of moist tissue and mucus. Inhaled air passing over this surface is warmed and moistened, and the surfaces cool due to evaporation. When the animal exhales, warm, water-saturated air from the lungs passes across the cooled nasal turbinate surfaces and water condenses out of it, staying within the nasal passages rather than being lost to the outside air. Those species with the highest percentage respiratory water recovery (e.g., 92% in the elephant seal compared to 24% in the sheep), have the most complex nasal turbinate structure. The key features of the more elaborate nasal turbinates are their very large surface area and the short distance from that surface to the middle of the airstream.\n\nDesigns of nasal turbinates in marine mammals like the elephant seal may offer inspiration for the design of more effective human-constructed water and heat recapturing systems.\n\nImage: Mike Baird / toggle icon Image: Mike Baird / toggle icon right arrow right arrow",
+  "function_addressed": [
+    "capture, absorb, or filter liquids",
+    "protect from loss of liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nasal-turbinates-reduce-water-loss/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "nasal",
+    "turbinates",
+    "reduce",
+    "water",
+    "loss"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

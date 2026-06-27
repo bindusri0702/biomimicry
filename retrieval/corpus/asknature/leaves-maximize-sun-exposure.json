@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-leaves-maximize-sun-exposure",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Leaves of plants maximize exposure to sun to maximize photosynthesis by moving throughout the day. “Since daylight is essential for this process, every plant must, as far as possible, position its leaves so that each collects its share without interfering with any others the plant may have.",
+  "mechanism": "Leaves of plants maximize exposure to sun to maximize photosynthesis by moving throughout the day.\n\n“Since daylight is essential for this process, every plant must, as far as possible, position its leaves so that each collects its share without interfering with any others the plant may have. This may require changing the posture of the leaves throughout the day as the sun moves across the sky. The accuracy with which a plant can position them may be judged simply by gazing up at the canopy in a wood. The leaves form a near-continuous ceiling, fitting together like the pieces of a jigsaw.” (Attenborough 1995: 46)",
+  "function_addressed": [
+    "capture, absorb, or filter energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-maximize-sun-exposure/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "maximize",
+    "sun",
+    "exposure"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

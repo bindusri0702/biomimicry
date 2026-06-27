@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-fecal-sacs-help-keep-nests-clean",
+  "organism_common": "Birds",
+  "organism_scientific": "",
+  "strategy_summary": "Fecal sacs produced by baby birds enable parents to maintain a clean nest by easing clearance of waste. Baby birds can stay in nests for many weeks before fledging (learning to fly).",
+  "mechanism": "Fecal sacs produced by baby birds enable parents to maintain a clean nest by easing clearance of waste.\n\nBaby birds can stay in nests for many weeks before fledging (learning to fly). The Eastern bluebird takes 3 weeks to fledge, while larger birds like crows take 5 weeks. During that time, the nestlings are confined to a very small space that must be kept clean to prevent infection.\n\nBirds do not urinate and defecate separately, instead they excrete all their waste in one action. Nestlings of some species excrete over the side of the nest, however for others this can attract predators and put the offspring at risk. In order to enable the parents to remove the waste and dispose of it elsewhere, the nestlings of many bird species defecate into fecal sacs. These membranous sacs collect the waste in a tidy parcel that the adult can easily collect and carry away.\n\nThe nestlings of different species of birds use different methods to draw attention to the sacs so that the parents notice them. Some have specialized shivering or presenting behaviors, while others deposit the sacs on the rim of the nest.\n\nBirds\n\nBirds evaluate external threats, their previous success, and the success of others in determining where and how to build their nests.\n\nImage: Alan Vernon / CC BY - Creative Commons Attribution alone toggle icon Image: Rognmo / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon right arrow right arrow",
+  "function_addressed": [
+    "protect from dirt/solids",
+    "expel solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fecal-sacs-help-keep-nests-clean/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fecal",
+    "sacs",
+    "keep",
+    "nests",
+    "clean"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

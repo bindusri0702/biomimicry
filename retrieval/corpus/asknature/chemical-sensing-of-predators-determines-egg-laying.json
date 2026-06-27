@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-chemical-sensing-of-predators-determines-egg-laying",
+  "organism_common": "Protect From Animals",
+  "organism_scientific": "",
+  "strategy_summary": "The mosquito, Culiseta longiareolata, protects its offspring by sensing chemicals released by its predator, the backswimmer, Notonecta maculata, before laying its eggs. Mosquitoes can detect the chemical signatures, called kairomones, of the predators that eat their larva.",
+  "mechanism": "The mosquito, Culiseta longiareolata, protects its offspring by sensing chemicals released by its predator, the backswimmer, Notonecta maculata, before laying its eggs.\n\nMosquitoes can detect the chemical signatures, called kairomones, of the predators that eat their larva. Mosquitos avoid areas that contain these kairomones when laying their eggs so that their offspring have a better chance of survival.",
+  "function_addressed": [
+    "protect from animals",
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/chemical-sensing-of-predators-determines-egg-laying/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "chemical",
+    "sensing",
+    "predators",
+    "determines",
+    "egg-laying"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

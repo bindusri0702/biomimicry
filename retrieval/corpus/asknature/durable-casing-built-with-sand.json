@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-durable-casing-built-with-sand",
+  "organism_common": "Difflugia",
+  "organism_scientific": "",
+  "strategy_summary": "The protoplasm of a protozoan, Difflugia, incorporates sand and other particulate materials into an exterior casing by migrating the materials through its protoplasm and joining them with an organic cement. “A protozoan, Difflugia , has developed a unique system of ingesting elements of construction together with its…",
+  "mechanism": "The protoplasm of a protozoan, Difflugia, incorporates sand and other particulate materials into an exterior casing by migrating the materials through its protoplasm and joining them with an organic cement.\n\n“A protozoan, Difflugia , has developed a unique system of ingesting elements of construction together with its food. It incorporates indigestible particles such as grains of sand among its food, usually tiny algae, in its flowing protoplasm. These sand particles migrate from the interior of the protoplasm to the exterior surface and become cemented together with a secretion of the animal to form a protective urn-shaped casing. The grains are very precisely fitted together, and this necessarily implies some system of selection and orientation.” (Pallasmaa 1995:27)",
+  "function_addressed": [
+    "attach permanently",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/durable-casing-built-with-sand/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "durable",
+    "casing",
+    "built",
+    "sand"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

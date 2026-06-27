@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-bark-keeps-surface-cool-under-the-sun",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Bark of trees keeps surface cool by minimizing absorption of solar light and maximizing thermal emission  Eucaliptus bark  A picture of the bark on the trunk of the Paperbark Mapleen (Acer griseum en ) tree. Photo taken at the Chanticleer Garden where it was identified.",
+  "mechanism": "Bark of trees keeps surface cool by minimizing absorption of solar light and maximizing thermal emission\n\nEucaliptus bark\n\nA picture of the bark on the trunk of the Paperbark Mapleen (Acer griseum en ) tree. Photo taken at the Chanticleer Garden where it was identified.\n\nPhotograph of the detail in the bark of the Flowering Dogwooden (Cornus florida en First_Lady). Photo taken at the Tyler Arboretum where it was identified.\n\nPine bark\n\n“It was found that tree barks have optimized their reflection of incoming sunlight between 0.7 and 2 [microns]. This is approximately the optical window in which solar light is transmitted and reflected by green vegetation. Simultaneously, the tree bark is highly absorbing and thus radiation emitting between 6 and 10 [microns]. These two properties, mainly provided by tannins, create optimal conditions for radiative temperature control. In addition, tannins seem to have adopted a function as mediators for excitation energy towards photo-antioxidative activity for control of radiation damage.” (Henrion and Tribusch 2009:98)\n\n“Optimal reflection of incoming radiation is not the only condition for keeping surfaces cool. The second condition, optimal emission at a temperature that the object reaches (approximately 40 ºC) has also been demonstrated here. Barks, through tannin and cellulose , efficiently absorb radiation between 6 and 10 [microns] (Figs. 10, top and 12), which means that they emit radiation equally well in this wavelength region. It allows efficient thermal emission into the cool space via an optical atmospheric window between 7.5 and 13 [microns] (Fig. 6). Since leaves also have to cool down efficiently and therefore also have to emit radiation in this infrared optical window, it can be speculated that cellulose and tannins have been evolved, adopted, and applied because of their radiation properties. This could have been at least one of several evolutionary factors. As already mentioned the optical properties of tree barks are of course not the only factor that has been considered by evolution with respect to the heat balance of the tree bark. Many tree barks show a paper-like structure with sheets peeling off, generating highly heat-insulating, trapped air spaces between them (e.g. birch, paper-bark tree). Other tree barks have developed a very rough surface that produces a lot of shadowed areas amongst the illuminated ones [11]. Such a morphology is known to stimulate convection of air, which then transports away heat from the bark surface. An additional fact or that has been considered by evolution was, as already mentioned, the structure of tree stems and branches. They typically have a round profile, minimizing the surface with respect to the volume. For that reason, comparatively little solar heat can come in from the outside.” (Henrion and Tribusch 2009: 104-5)",
+  "function_addressed": [
+    "protect from light",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bark-keeps-surface-cool-under-the-sun/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bark",
+    "keeps",
+    "surface",
+    "cool",
+    "under",
+    "sun"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

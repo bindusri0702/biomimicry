@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-how-the-lymph-system-pumps-with-no-pump",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "Even while wildflower blooms explode across the jagged landscape, patches of snow linger atop mountain crests. At 12,095 feet in elevation, Colorado’s Independence Pass stands along the Continental Divide—a mountainous line that separates water flow across the Americas.",
+  "mechanism": "Lymph fluid flows through the body using a combination of pressure differences, muscle contractions, and one-way valves.\n\nLike blood vessels, lymphatic capillaries permeate most of the body’s tissues. Lymphatic capillary cells overlap one another like the horizontal slats in closed window blinds. As fluid accumulates in tissue outside of lymphatic capillaries, the pressure increases and pushes on the overlapping cells, opening them slightly inwards. The waste material enters the lymphatic vessels through gaps, which relieves the external pressure. As the pressure outside the lymphatic capillaries reduces, the flaps close again, trapping the fluid inside.\n\nInstead of using high-power pumps to transport fluids through long pipelines, dynamic coatings could mimic the effects of smooth muscle tissue inside lymph vessels. A system of one-way valves could reduce energy requirements, contributing to fewer greenhouse gas emissions. Perhaps drug delivery systems could rely on common muscle movements such as walking to spread medicine in specific parts of the body. What else can we learn by studying how animals recycle plasma and other compounds in blood?",
+  "function_addressed": [
+    "protect from microbes",
+    "distribute liquids",
+    "capture, absorb, or filter liquids",
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/how-the-lymph-system-pumps-with-no-pump/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "lymph",
+    "system",
+    "pumps",
+    "pump"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

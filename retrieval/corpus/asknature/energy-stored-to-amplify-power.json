@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-energy-stored-to-amplify-power",
+  "organism_common": "Click beetles",
+  "organism_scientific": "",
+  "strategy_summary": "Click beetles store work to amplify power a thousandfold by deforming their external cuticle. “And that’s where energy storage comes in.",
+  "mechanism": "Click beetles store work to amplify power a thousandfold by deforming their external cuticle.\n\n“And that’s where energy storage comes in. Down to the size of a trout or a squid tentacle, unaided muscle can do a decent job with nothing more than ordinary leverage. Below that, muscle needs help; in practice, energy is put in slowly and stored elastically. Some kind of trigger then releases it at a higher rate. Work and energy may be conserved, but power gets amplified…A click beetle stores up work by deforming the external cuticle; its power amplification is fully a thousandfold (Evans 1973). Each of these creatures has some kind of a mechanical catch to prevent premature extension while the work is being put in; the specific arrangements, though, are different for each case.” (Vogel 2003:476)\n\n(D) The body can be divided into two subunits linked by a hinge, which contains a latch contact of the peg and mesosternal lip. This schematic is adapted from Bolmin et al. (2017). (E) During the pre-jump stage, the peg retracts from the cuticular cavity and latches on the mesosternal lip, moving from the resting position ii to the brace position i. The brace body position is maintained by the peg/lip contact. The motion is reversed when the latch is released. (Bolmin, 2019)",
+  "function_addressed": [
+    "store energy",
+    "transform mechanical energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/energy-stored-to-amplify-power/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "energy",
+    "stored",
+    "amplify",
+    "power"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-biochemical-pathways-reduce-iron-iii-for-metabolism",
+  "organism_common": "Geobacter sulfurreducens",
+  "organism_scientific": "",
+  "strategy_summary": "Electricigens use conductive nanowires to transfer electrons to alter insoluble metal oxides. Electricigens ( Geobacter sulfurreducens) are a kind of bacteria, at home in muds and sediments such as river bottoms, lake beds, and subsurface soils.",
+  "mechanism": "Electricigens use conductive nanowires to transfer electrons to alter insoluble metal oxides.\n\nElectricigens ( Geobacter sulfurreducens) are a kind of bacteria, at home in muds and sediments such as river bottoms, lake beds, and subsurface soils. These environments are rich in organic matter but poor in oxygen, a crucial ingredient in the aerobic respiration process that most life depends on, and in aerobic decomposition processes.\n\nElectricigens evolved a way to keep decay moving forward under these constrained conditions. It helps close the loop on carbon and nutrient cycling by breaking down organic material and reshaping insoluble minerals that would otherwise remain chemically locked away.\n\nWhen electricigens digest organic compounds, electrons are released as part of normal metabolic processes. To stay alive, the cell must pass these electrons somewhere else. In oxygen-rich environments, oxygen is the electron acceptor. In some sediments, oxygen is absent, but metal oxides, such as iron(III) and manganese(IV) oxides, are plentiful.\n\nThe challenge is that these minerals are insoluble. They do not diffuse toward the cell, and the cell cannot engulf them in order to pass its electrons through direct contact. Electricigens solve this by exporting electrons out of their bodies using electrically conductive pili. These protein filaments extend from the cell surface and conduct electrons along their length due to tightly packed amino acid s that create a continuous pathway for charge movement.\n\nAt the ends of these pili, outer-surface iron-containing proteins transfer electrons onto metal oxides or other electron-accepting materials. This process reduces the metals, chemically altering them and allowing decomposition reactions to continue even when the target material is physically distant or buried within sediment particles.\n\nIn natural sediments and biofilms, many electricigens cells link their nanowires into shared electrical networks. These living circuits allow electrons from decomposing organic matter to travel across microbial communities and reach contaminants, minerals, or surfaces centimeters away––long distances in the microbial world. This same ability underlies electricigens’ role in microbial fuel cells, where it transfers electrons to electrodes instead of minerals.\n\nElectricigens’ decomposition strategy offers a blueprint for cleaning environments where contaminants are present but may be inaccessible:\n\nSubsurface bioremediation without excavation By mimicking extracellular electron transfer, we can design cleanup systems that stimulate microbes to chemically transform pollutants such as uranium, chromium, or organic solvents without digging up soil or dredging sediments.\n\nBreaking down contamination at a distance Many pollutants are trapped inside soil particles or sediments. Geobacter shows that direct contact is not required; electrons can be delivered remotely to drive chemical changes that detoxify or immobilize harmful substances.\n\nMetal stabilization instead of removal Reduced metals are often less soluble and less mobile. Nature’s strategy suggests ways to lock contaminants in place , preventing them from spreading through groundwater rather than relying on costly removal.\n\nLow-energy, non-toxic cleanup This process operates at ambient temperature, in water, without harsh chemicals or high pressure, mirroring nature’s preference for gentle, persistent work over brute force.\n\nSupporting natural decomposition cycles Instead of disrupting ecosystems, this approach works with microbial communities already present, accelerating the breakdown of organic waste and restoring biogeochemical balance.\n\nFrom electricigens we see an approach to cleanup that is not about scrubbing landscapes clean, but creating the conditions so that nature’s own recycling systems can finish the job.\n\nInspired by the Nature’s Decomposers project, created by Alicia Lee, Daniel Ramirez, and David N. Ford, developed as part of the ASU BMY580 Biobrainstorm course.",
+  "function_addressed": [
+    "chemically generate flow of electrons (redox)",
+    "modify oxidation state",
+    "modify conductivity",
+    "modify electron transport"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/biochemical-pathways-reduce-iron-iii-for-metabolism/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "conducting",
+    "electrons",
+    "decompose",
+    "distant",
+    "materials"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

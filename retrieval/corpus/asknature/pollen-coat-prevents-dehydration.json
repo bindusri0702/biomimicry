@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-pollen-coat-prevents-dehydration",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "The pollen grains of seed plants are protected from dehydration via a hard coat. “The gymnosperms, and the flowering plants which evolved more recently, among other, much smaller groups, have developed pollen which carries the male gamete in a form protected from dehydration to special receptive structures in the…",
+  "mechanism": "The pollen grains of seed plants are protected from dehydration via a hard coat.\n\n“The gymnosperms, and the flowering plants which evolved more recently, among other, much smaller groups, have developed pollen which carries the male gamete in a form protected from dehydration to special receptive structures in the female part of the flower (pollination).” (Cutler 2005:96)",
+  "function_addressed": [
+    "protect from loss of liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pollen-coat-prevents-dehydration/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pollen",
+    "coat",
+    "prevents",
+    "dehydration"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

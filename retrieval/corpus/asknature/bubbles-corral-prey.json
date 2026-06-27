@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-bubbles-corral-prey",
+  "organism_common": "Humpback whale",
+  "organism_scientific": "",
+  "strategy_summary": "Humpback whales control movement of prey by blowing spiraling nets of bubbles underwater. “Behaviourally, humpback whales capture prey by engaging in complex feeding manoeuvres that are often accompanied by the apparently directed use of air bubbles.",
+  "mechanism": "Humpback whales control movement of prey by blowing spiraling nets of bubbles underwater.\n\n“Behaviourally, humpback whales capture prey by engaging in complex feeding manoeuvres that are often accompanied by the apparently directed use of air bubbles. The ability of bubble barriers to corral or herd fish has been reported by a number of authors (e.g., Smith, 1961; Blaxter & Batty, 1985; Sharpe & Dill, 1997). Bubble use by humpback whales has been observed in many of their feeding habitats and is reported to occur in a variety of configurations. These bubble-feeding behaviours appear to vary in nature among both individuals and regions; for example, bubble clouds (the production of a single or multiple bursts of seltzer-sized bubbles) are commonly observed from humpback whales in the Gulf of Maine, but never in Alaskan waters.\n\n“Of the various bubble configurations reported, the most complex appears to be the bubble net (Jurasz & Jurasz, 1978; Watkins & Schevill, 1979; Hain et al., 1982). Existing descriptions of this unique and complex behavior are currently derived only from surface observations, predominately Jurasz & Jurasz (1979) and Hain et al. (1982). As described by Jurasz & Jurasz (1979), bubble nets are rings of distinctive bubbles that appear at the surface in a closed circle or figure ‘9’. In the Gulf of Maine, bubble nets have been further described by Hain et al. (1982) as a ring formed by a series of discrete bubble columns, blown at 3–5 m depth, by a whale that is rotated inward with the flippers in a vertical plane. The nets were described as incorporating 1.25–2 revolutions with smaller bubbles grading into larger bubbles as the net was closed. In both descriptions, whales fed in the centre of the completed bubble net at or near the surface. (Wiley et al. 2011: 576-577)",
+  "function_addressed": [
+    "cooperate within the same species",
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bubbles-corral-prey/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bubbles",
+    "corral",
+    "prey"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

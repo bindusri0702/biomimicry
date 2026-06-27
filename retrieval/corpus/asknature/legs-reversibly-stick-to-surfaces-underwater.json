@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-legs-reversibly-stick-to-surfaces-underwater",
+  "organism_common": "Diving beetle",
+  "organism_scientific": "",
+  "strategy_summary": "Legs of male diving beetles reversibly stick to surfaces underwater using suction and viscous properties of water. Diving beetles are aquatic insects that live in ponds, lakes, and other bodies of stagnant water.",
+  "mechanism": "Legs of male diving beetles reversibly stick to surfaces underwater using suction and viscous properties of water.\n\nDiving beetles are aquatic insects that live in ponds, lakes, and other bodies of stagnant water. Their paddle-like hind legs enable them to swim through the water, and in males, enlarged and adhesive sections of the forelegs enable them to attach temporarily to the backs of female beetles during courtship. Like many insects, diving beetles use small projecting structures called setae on their legs to aid in adhesion. In terrestrial insects, these setae are often hair-like structures. In male diving beetles, however, the adhesive setae are modified into spatula or suction-cup-like shapes that can function underwater.\n\nEach spatula-shaped seta on the diving beetle Cybister rugosus has a thin contact surface and a stalk. The contact surface is a ~400 µm-long, roughly oval-shaped pad with a small sucker and a series of parallel grooves running lengthwise on the underside. The short, flexible stalk connects the pad to the foreleg. These structures contribute to several mechanisms for effective and easily reversible underwater attachment. The small sucker on the pad likely functions as a suction cup, while the grooves can fill with water and adhere to a surface through viscous resistance. This is resistance to fluid flow due to the internal stickiness (viscosity) of water on a small scale, and would prevent the seta from slipping off a wet surface. The setal stalk is flexible and can twist to reorient the pad so that its water-filled grooves line up with exerted forces and enhance adhesion.\n\nFinally, the setae can easily detach because adhesion is velocity-dependent, meaning the speed with which setae contact a surface can affect the strength of adhesion. Adhesion is stronger if movement between the seta and surface is fast. This might occur when a male diving beetle is holding onto a female beetle that is swimming erratically. Adhesion is weaker, though, if movement is slow, making it easier for the foreleg to detach if the setae are peeled off slowly.\n\nThis is a different species, but same genus, as the beetle studied in the journal article by Chen et al.\n\nThis is a different species, but same genus, as the beetle studied in the journal article by Chen et al.\n\nThe left foreleg is visible in the upper left corner of panel (a). Panel (c) shows the rows of setae on the foreleg’s underside. Panel (d) shows the stalk and contact surface of each seta. Panel (e) and (f) show the suction cup and grooves on each seta. Adapted from Chen Y; Shih M-C; Wu M-H; Yang E-C; Chi K-J. 2014. Underwater attachment using hairs: the functioning of spatula and sucker setae from male diving beetles. J. R. Soc. Interface 11: 20140273, by permission of the Royal Society.",
+  "function_addressed": [
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/legs-reversibly-stick-to-surfaces-underwater/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "legs",
+    "reversibly",
+    "stick",
+    "surfaces",
+    "underwater"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

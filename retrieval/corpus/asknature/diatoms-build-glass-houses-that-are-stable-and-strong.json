@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-diatoms-build-glass-houses-that-are-stable-and-strong",
+  "organism_common": "Diatoms",
+  "organism_scientific": "",
+  "strategy_summary": "Among the most intricate, fascinating, and inspiring structures around are the shells of single-celled microscopic organisms known as diatoms. Found throughout the world in lakes, rivers, and oceans, diatoms pull the mineral silica from the water around them and craft it into astoundingly intricate containers for…",
+  "mechanism": "A diatom’s shell is called a frustule . Each frustule consists of a top and bottom that fit together like a candy box. And each species of diatom makes a structure of a characteristic shape—circular, rectangular, even star-shaped—with a characteristic pattern of pores. The combination of pores and solid material give the shells remarkable structural strength for their weight. The way they are structured also helps keep diatoms close to the surface of the water, protects the diatom from bacteria and viruses, and converts harmful ultraviolet light into a wavelength the diatom can use to photosynthesize.\n\nThe process of making a frustule resembles an assembly line with various protein s as the line workers. Proteins known as silicic acid transporters move dissolved silica from the surrounding water into a baglike structure inside the cell called a silica deposition vesicle. There, other proteins link silica molecules together to form a hard structure. Some proteins, called silaffins, make bits with tiny pores. Others, called pleuralins, help connect the top and bottom parts of the box. Yet others, known as cingulins, help make bands that wrap around the structure and hold it together. A sugar polymer known as chitin offers additional strength. Finally, the diatom coats the structure with organic materials known as long-chain polyamines. Scientists think these help to create customized shapes for various species.\n\nThe biomimetic potential that diatom frustules offer is virtually endless. The porous construction offers insights for creating strong but lightweight materials for application in aeronautics, shipping, recreational equipment, and more. The ability to alter the wavelength of light could be used to make the capture of solar energy more efficient. The mechanism of laying down material accurately following diatoms’ template could inform 3D printing of nanostructures that could be used for filtering, drug delivery, nanorobotics, lenses, sensors, microelectronics, and other uses. And emulating diatoms’ construction capabilities could provide sand with customized properties for use in cleaners, road materials, and more.",
+  "function_addressed": [
+    "chemically assemble mineral crystals",
+    "chemically assemble organic compounds",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/diatoms-build-glass-houses-that-are-stable-and-strong/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "diatoms",
+    "build",
+    "glass",
+    "houses",
+    "stable",
+    "strong"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

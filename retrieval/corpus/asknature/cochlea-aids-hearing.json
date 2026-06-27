@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-cochlea-aids-hearing",
+  "organism_common": "Humans",
+  "organism_scientific": "",
+  "strategy_summary": "The cochlea of the human ear helps us hear deep vibrations by directing low-frequency waves into the tightest turns of its spiral. “Deep inside your ear, the pea-size, spiral-shaped cochlea helps translate reverberations from the outside world into neurological signals that we perceive as sound.",
+  "mechanism": "The cochlea of the human ear helps us hear deep vibrations by directing low-frequency waves into the tightest turns of its spiral.\n\n“Deep inside your ear, the pea-size, spiral-shaped cochlea helps translate reverberations from the outside world into neurological signals that we perceive as sound. The cochlea’s coil has traditionally been regarded as little more than the body’s way of packing a lot of membrane into a small space—a mechanical adaptation that did not affect hearing. Not any more.\n\nLast March a team of engineers found a function for the cochlea’s shape. Using a mathematical model, they determined that the tight coil at the cochlea’s center steers low-frequency waves into its tightest turns, helping us hear deep vibrations. Previous models had treated sound waves as if they traveled in a straight line, an assumption that failed to take into account how the cochlea’s shape affects the waves’ path. ‘It’s the curvature that’s critical,’ says biophysicist Richard Chadwick at the National Institutes of Health, a collaborator on the project. ‘The more the curvature changes, the more focused the energy gets. It’s behaving something like a whispering gallery, but even better.'” (Ornes 2006)\n\nImage: Oarih / Wikipedia / toggle icon",
+  "function_addressed": [
+    "sense sound and other vibrations from the environment",
+    "transduce/convert signals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/cochlea-aids-hearing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "spiral",
+    "cochlea",
+    "aids",
+    "hearing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

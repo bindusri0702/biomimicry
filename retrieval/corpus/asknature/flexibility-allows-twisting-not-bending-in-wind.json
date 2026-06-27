@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-flexibility-allows-twisting-not-bending-in-wind",
+  "organism_common": "Protect From Wind",
+  "organism_scientific": "",
+  "strategy_summary": "The stems of sedges twist rather than bend in the wind due to their torsional flexibility. “On a smaller scale, Ennos (1993a) found that sedges swing around in a wind rather than bending over, doing so with stems of remarkably low torsional stiffness.” (Vogel 2003:382)  “The mechanics of the triangular stems of Carex…",
+  "mechanism": "The stems of sedges twist rather than bend in the wind due to their torsional flexibility.\n\n“On a smaller scale, Ennos (1993a) found that sedges swing around in a wind rather than bending over, doing so with stems of remarkably low torsional stiffness.” (Vogel 2003:382)\n\n“The mechanics of the triangular stems of Carex acutiformis was investigated by subjecting sections to bending and torsional tests. The stem was rigid in bending, being stiffened peripherally by lignified material around the vascular bundles, but because of its triangular shape it was vulnerable to local buckling. Despite being [sic] and narrow the stem was able to support the seed head, though it sagged appreciably towards the tip. In contrast the stem had very low torsional rigidity, both because of its triangular shape because the strands of lignified material were isolated from each other. In its lowland habitat this allows the drooping stem to twist away from the light winds, so reducing drag and the chances of self-fertilization. This method of reconfiguring is not possible in the shorter, stiffer mountain sedges which must withstand higher winds; many therefore have more circular stems which will be more efficient at resisting bending.” (Ennos 1993:123)",
+  "function_addressed": [
+    "protect from wind"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/flexibility-allows-twisting-not-bending-in-wind/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flexibility",
+    "allows",
+    "twisting",
+    "not",
+    "bending",
+    "wind"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

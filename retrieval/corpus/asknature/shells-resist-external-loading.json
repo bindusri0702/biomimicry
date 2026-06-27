@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-shells-resist-external-loading",
+  "organism_common": "Birds",
+  "organism_scientific": "",
+  "strategy_summary": "The eggs of birds resist external loading via composite structure. “The eggshells of birds are mechanically impressive devices, surprisingly resistant to external loading; Vincent (1990), though, complained about how little we understand them, muttering at ‘half-boiled notions’ in the literature.",
+  "mechanism": "The eggs of birds resist external loading via composite structure.\n\n“The eggshells of birds are mechanically impressive devices, surprisingly resistant to external loading; Vincent (1990), though, complained about how little we understand them, muttering at ‘half-boiled notions’ in the literature. They’re mostly mineral but have a critical 2-4 percent of organic matter, making them into composites. Still, cracks can propagate, of which fact the chick takes advantage to get out–before pushing, it pecks around a circle so it can then break the egg along the dotted line.” (Vogel 2003:340)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
+  "function_addressed": [
+    "manage impact"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shells-resist-external-loading/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shells",
+    "resist",
+    "external",
+    "loading"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

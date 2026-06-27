@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-kangaroo-rat-jack-of-all-trades",
+  "organism_common": "Kangaroo rats",
+  "organism_scientific": "",
+  "strategy_summary": "One night, many years ago, as I was driving down on a gravel road in the Sonoran Desert, I spotted something really extraordinary. There in my headlights was a furry shape the size of a baked potato.",
+  "mechanism": "The kangaroo rat’s suite of survival skills offers many sources of potential innovation, many of which are already being actively investigated. Locked-sync signaling can be used in various industries to similarly detect very subtle and rapid changes in frequency signals. Using microbial mats to cement soils for construction and infrastructure can cut down on carbon-heavy traditional concrete use.",
+  "function_addressed": [
+    "respond to signals",
+    "transduce/convert signals",
+    "physically assemble structure",
+    "protect from temperature",
+    "protect from loss of liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/kangaroo-rat-jack-of-all-trades/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "multipronged",
+    "approach",
+    "desert",
+    "survival"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

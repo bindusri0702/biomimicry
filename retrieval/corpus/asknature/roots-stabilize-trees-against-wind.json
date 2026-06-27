@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-roots-stabilize-trees-against-wind",
+  "organism_common": "Longleaf pine",
+  "organism_scientific": "",
+  "strategy_summary": "Roots of longleaf pine protect from strong winds by forming both large anchoring taproots and a widespread lateral root system. “The damage resistance of longleaf pine could be related to firm anchorage provided by the large taproot and widespread lateral root system.",
+  "mechanism": "Roots of longleaf pine protect from strong winds by forming both large anchoring taproots and a widespread lateral root system.\n\n“The damage resistance of longleaf pine could be related to firm anchorage provided by the large taproot and widespread lateral root system. Our excavations of longleaf pine root systems (Baruch Forest Science Institute, pers. comm.) indicated that longleaf pine taproots extended two meters vertically in the soil and the lateral root system extended up to six meters horizontally from the taproot… An alternative scheme capitalizes on little more than the ability of soil to withstand compressive force. If the trunk is continued downward beneath the soil as a stiff taproot, and if ramifying lateral roots near the soil’s surface fix the location of the tree, then pushing the trunk in one direction will push the taproot in the other (Edelin and Atger 1994). Soil, especially when beneath a layer of superficial roots, ought to resist this sideways push quite well; the scheme, which we might just call ‘taprooting’ is shown in figure 21.3c. Taprooting depends on good resistance of the taproot to bending as a cantilever–a high level of flexural stiffness–as is sufficient broadside area to push against so as not to slip sideways through soil. (Additional substantial vertical ‘striker’ roots, according to Perry [1982] and Crook and Ennos [1996], may supplement the mechanical role of taproots.)” (Vogel 2003:431,433)",
+  "function_addressed": [
+    "protect from wind"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/roots-stabilize-trees-against-wind/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "roots",
+    "stabilize",
+    "trees",
+    "against",
+    "wind"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

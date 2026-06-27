@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-claws-grip-rough-surfaces",
+  "organism_common": "Migratory locust",
+  "organism_scientific": "",
+  "strategy_summary": "The footpads of locusts help increase their ability to grip the surface by including claws that are activated on rough or non-horizontal surfaces. “Claw mechanical interlocking and pad adhesive secretion as well as deformation are the common methods by which locusts come in contact with sloping substrates.",
+  "mechanism": "The footpads of locusts help increase their ability to grip the surface by including claws that are activated on rough or non-horizontal surfaces.\n\n“Claw mechanical interlocking and pad adhesive secretion as well as deformation are the common methods by which locusts come in contact with sloping substrates. Their claws would grasp small particles on rough surfaces to generate force…The grasping ability of locusts is mainly related to the relative size of the diameters of the claw tips and particles.” (Han 2011:6)\n\n“Locusts ( Locusta migratoria manilensis ) are characterized by their strong flying and grasping ability. Research on the grasping mechanism and behaviour of locusts on sloping substrates plays an important role in elucidating the mechanics of hexapod locomotion. Data on the maximum angles of slope at which locusts can grasp stably (critical angles of detachment) were obtained from high-speed video recordings at 215 fps. The grasping forces were collected by using two sensors, in situations where all left legs were standing on one and the right legs on the other sensor plate. These data were used to illustrate the grasping ability of locusts on slopes with varying levels of roughness. The grasping morphologies of locusts’ bodies and tarsi were observed, and the surface roughness as well as diameters of their claw tips was measured under a microscope to account for the grasping mechanism of these insects on the sloping substrate. The results showed that the claw tips and part of the pads were in contact with the inverted substrate when the mean particle diameter was in the range of 15.3-40.5 µm. The interaction between pads and substrates may improve the stability of contact, and claw tips may play a key role in keeping the attachment reliable. A model was developed to explain the significant effects of the relative size of claw tips and mean particle diameter on grasping ability as well as the observed increase in lateral force (2.09-4.05 times greater than the normal force during detachment) with increasing slope angle, which indicates that the lateral force may be extremely important in keeping the contact reliable. This research lays the groundwork for the probable design and development of biomimetic robotics.” (Han et al. 2011:1)",
+  "function_addressed": [
+    "move in/on solids",
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/claws-grip-rough-surfaces/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "claws",
+    "grip",
+    "rough",
+    "surfaces"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

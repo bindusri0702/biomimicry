@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-tissues-absorb-nitrogen",
+  "organism_common": "Alpine haircap moss",
+  "organism_scientific": "",
+  "strategy_summary": "The shoots of haircap moss obtain nitrogen from soil via water-conducting tissues called hydroids. “ Polytrichum alpinum [ Polytrichastrum alpinum ] (class Polytrichospida) is predominantly endohydric, transporting water up from underlying substrate by means of water-conducting hydroids (Longton 1988; Buck & Goffinet…",
+  "mechanism": "The shoots of haircap moss obtain nitrogen from soil via water-conducting tissues called hydroids.\n\n“ Polytrichum alpinum [ Polytrichastrum alpinum ] (class Polytrichospida) is predominantly endohydric, transporting water up from underlying substrate by means of water-conducting hydroids (Longton 1988; Buck & Goffinet 2000), whereas Racomitrium lanuginosum (class Bryopsida) is ectohydric and mostly absorbs water from precipitation (Proctor 1982; Buck & Goffinet 2000).” (Ayres et al. 2006:286)",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tissues-absorb-nitrogen/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tissues",
+    "absorb",
+    "nitrogen"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

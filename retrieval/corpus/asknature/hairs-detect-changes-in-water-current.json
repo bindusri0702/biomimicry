@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-hairs-detect-changes-in-water-current",
+  "organism_common": "Sense Motion",
+  "organism_scientific": "",
+  "strategy_summary": "The antennae of Euchaeta rimana, a copepod, detect changes in the smooth water current (created by the shrimp's mouthparts) via motion-sensitive hairs. “One tiny crustacean, Euchaeta rimana , combines elements of the fish’s sensitive skin and the spider’s motion-sensitive hairs.",
+  "mechanism": "The antennae of Euchaeta rimana, a copepod, detect changes in the smooth water current (created by the shrimp's mouthparts) via motion-sensitive hairs.\n\n“One tiny crustacean, Euchaeta rimana , combines elements of the fish’s sensitive skin and the spider’s motion-sensitive hairs. The shrimp moves its mouthparts to create a smooth water current that it can detect through sensory hairs on its antennae. As creatures swim by, they create ruffles in this current, creating a ripple ‘fingerprint’ that the little shellfish can instantly recognize as food or foe.” (Shuker 2001:36)",
+  "function_addressed": [
+    "sense motion"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hairs-detect-changes-in-water-current/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hairs",
+    "detect",
+    "changes",
+    "water",
+    "current"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

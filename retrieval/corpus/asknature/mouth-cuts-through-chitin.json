@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-mouth-cuts-through-chitin",
+  "organism_common": "Physically Break Down Living Materials",
+  "organism_scientific": "",
+  "strategy_summary": "The mouthparts of a velvet mite can cut through a grasshopper's cuticle due to its knife-like design. “The red lumps on the feet and legs of this southern lubber grasshopper are not part of its colouring, but are the nymphal stages of the velvet mite.",
+  "mechanism": "The mouthparts of a velvet mite can cut through a grasshopper's cuticle due to its knife-like design.\n\n“The red lumps on the feet and legs of this southern lubber grasshopper are not part of its colouring, but are the nymphal stages of the velvet mite. The nymphs hatch from eggs buried in the ground, then attach themselves to a grasshopper, driving their knife-like mouthparts through its cuticle to suck blood.” (Foy and Oxford Scientific Films 1982:49)",
+  "function_addressed": [
+    "physically break down living materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mouth-cuts-through-chitin/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mouth",
+    "cuts",
+    "through",
+    "chitin"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

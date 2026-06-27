@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-fangs-fold-for-storage",
+  "organism_common": "Western diamondback rattlesnake",
+  "organism_scientific": "",
+  "strategy_summary": "The curving fangs of a western diamondback rattlesnake are stored when not in use by folding against the roof of the mouth via hinges. “A western diamondback rattlesnake strikes at an intruder.",
+  "mechanism": "The curving fangs of a western diamondback rattlesnake are stored when not in use by folding against the roof of the mouth via hinges.\n\n“A western diamondback rattlesnake strikes at an intruder. The snake’s jaws are specially hinged to allow it to open them extremely wide. This is necessary because the fangs curve inwards and need to be plunged vertically into the prey. When not in use they are folded back against the roof of the mouth ( see diagram ). The snake’s windpipe is protruding at the bottom of its mouth — this is so that the snake can still breathe after it has a mouthful of prey.” (Foy and Oxford Scientific Films 1982:149)",
+  "function_addressed": [
+    "modify position"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fangs-fold-for-storage/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fangs",
+    "fold",
+    "storage"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

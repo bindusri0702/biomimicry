@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-eyes-judge-distance-without-head-movement",
+  "organism_common": "Chameleons",
+  "organism_scientific": "",
+  "strategy_summary": "The cornea of a chameleon, rather than the lens, focuses incoming light to create an image, allowing chameleons to judge distance moving only their eyes. “In most higher animals, the eyes have a lens for focusing incoming light onto the retina to create an image.",
+  "mechanism": "The cornea of a chameleon, rather than the lens, focuses incoming light to create an image, allowing chameleons to judge distance moving only their eyes.\n\n“In most higher animals, the eyes have a lens for focusing incoming light onto the retina to create an image. The chameleon, however, uses the cornea for this purpose, and therefore avoids drawing attention to itself when trying to see how far away a potential prey is. Most other animals judge distances by moving their heads from side to side, causing closer objects to appear to move more quickly than distant ones. This is known as the parallax effect. But the chameleon can achieve this effect by only moving its eyes. This ability means that the chameleon does not attract the attention of predators when it looks around.” (Shuker 2001:13)",
+  "function_addressed": [
+    "sense light (visible spectrum) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/eyes-judge-distance-without-head-movement/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "eyes",
+    "judge",
+    "distance",
+    "without",
+    "head",
+    "movement"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

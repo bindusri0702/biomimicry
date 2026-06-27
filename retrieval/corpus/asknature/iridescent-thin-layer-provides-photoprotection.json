@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-iridescent-thin-layer-provides-photoprotection",
+  "organism_common": "Twinsorus ferns",
+  "organism_scientific": "",
+  "strategy_summary": "Leaves of tropical rainforest understory plants are protected from excess sun by blue iridescence. “Iridescent blue-leaved plants grow in the most shady and protected microclimates of tropical rainforests.",
+  "mechanism": "Leaves of tropical rainforest understory plants are protected from excess sun by blue iridescence.\n\n“Iridescent blue-leaved plants grow in the most shady and protected microclimates of tropical rainforests. Much speculation on the possible adaptive significance of iridescence has not led to any viable explanations, as such iridescence actually reduces leaf absorption in these light-limited environments. We hypothesize that constructive interference in the wavelengths of 460-485 nm may protect against photoinhibition and damage via reduced light absorption at those wavelengths, where other leaves are protected by anthocyanins and variants of the xanthophyll cycle. We looked for such photoprotection in three Malaysian understory species polymorphic for blue iridescence: Begonia pavonina Ridl. (Begoniaceae), Diplazium tomentosum Bl. (Athyriaceae), and Phyllagathis rotundifolia (Melastomataceae). We collected dark-acclimated leaves before dawn from plants in Bukit Lanjang Forest Reserve. We tested for differences in leaf mass, chlorophyll and nutrients in green and blue leaves, and for increased photoprotection in blue leaves by subjecting both to 30 min of high irradiance (~1000 µmol m-2 s-1, 400-700 nm) and testing for differences in transient fluorescence as Fv/Fm for 90 min at 5 min intervals. All leaves, particularly in B. pavonina had relatively low mass, chlorophyll and N per unit area. In B. pavonina and P. rotundifolia , blue leaves recovered significantly more rapidly from light exposure than green ones, but the differences for D. tomentosum were not significant. Two of the three understory species thus provide evidence for a photoprotective function by blue iridescence against transient exposures to light flecks in these extreme-shade plants.” (Lee et al. 2008)\n\nLee, David [1], Kelley, John [2], Richards, J.H. [3]. Blue Leaf Iridescence as a By-product of Photoprotection in Tropical Rainforest Understory Plants http://www.2008.botanyconference.org/engine/search/index.php?func=detail&aid=343",
+  "function_addressed": [
+    "capture, absorb, or filter energy",
+    "regulate cellular processes",
+    "protect from light"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/iridescent-thin-layer-provides-photoprotection/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "iridescent",
+    "thin",
+    "layer",
+    "provides",
+    "photoprotection"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

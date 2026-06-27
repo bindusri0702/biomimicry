@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-energy-efficient-long-distance-swimming",
+  "organism_common": "Lampreys",
+  "organism_scientific": "",
+  "strategy_summary": "Eels and lampreys swim long distances but conserve energy by using a lateral wriggle. 12345, Tue Jun 11, 2002, 10:58:11 AM, 8C, 2230x3302, (193+477), 50%, A.",
+  "mechanism": "Eels and lampreys swim long distances but conserve energy by using a lateral wriggle.\n\n12345, Tue Jun 11, 2002, 10:58:11 AM, 8C, 2230x3302, (193+477), 50%, A. I. Basic, 1/100 s, R79, G67, B79\n\nEuropean eel (Anguilla anguilla)\n\n“The most primitive and ancient method of locomotion among water dwellers was probably the lateral wriggle, whereby a wave travels from head to tail and increases in amplitude. Many primitive invertebrate swimmers use this kind of locomotion. In many aquatic animals (lampreys, eels), wriggling is aided by vertical stabilizer fins that extend the sides of the body and thus facilitate power transmission to the water. Cat sharks, some true sharks, lungfish, and sturgeon also swim with this lateral slithering motion. How efficient and energy-saving this method of locomotion is can best be seen by taking a look at the eels, which cover thousands of kilometers on their wanderings through the oceans. Slow-motion pictures of their movements disclose the principles of physics on which they are based. The essential prerequisite for getting ahead by wriggling through the water is for the body wave to travel rearward faster than the fish travels forward. The wriggling animal thereby exerts pressure on the water along the wave loops moving backward. While the laterally directed components cancel each other out over the entire fish, the forward- and backward-directed components add up to the propelling force.” (Tributsch 1984:52)\n\nEel Energy\n\nEel Tidal Energy Converter from Eel Energy moves with the tides to harness wave energy and convert it into electricity.",
+  "function_addressed": [
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/energy-efficient-long-distance-swimming/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "energy-efficient",
+    "long",
+    "distance",
+    "swimming"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

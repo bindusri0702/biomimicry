@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-membranes-avoid-freezing",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "Membranes of some microbes continue to allow diffusion at cold temperatures by having a special fatty composition that keep them relatively fluid. “Bacteria have two skins, an outer one which is a stiff molecular mesh, through which molecules of food and water can diffuse fairly easily, and an inner one, elastic and…",
+  "mechanism": "Membranes of some microbes continue to allow diffusion at cold temperatures by having a special fatty composition that keep them relatively fluid.\n\n“Bacteria have two skins, an outer one which is a stiff molecular mesh, through which molecules of food and water can diffuse fairly easily, and an inner one, elastic and membranous, which has to be very selectively permeable, so that nutrients can get in but the internal substances of the cell do not leak out. (This, by the way, is the skin which ice damages lethally; the outer layer is tougher and serves to keep out big molecules and to sustain the cell’s shape). The cell membrane, as it is called, includes a lot of fat in its structure, and its permeability is very much influenced by fluidity of that fat…Psychrophiles have cell membranes of a special fatty composition, such that they are relatively fluid at temperatures near freezing point–and again they pay a price: their membranes become too fluid, and begin to melt, when the environment warms to the temperatures that most bacteria prefer.” (Postgate 1994:28)",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/membranes-avoid-freezing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "membranes",
+    "avoid",
+    "freezing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

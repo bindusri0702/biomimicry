@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-algae-protects-from-freezing",
+  "organism_common": "Snow algae",
+  "organism_scientific": "",
+  "strategy_summary": "The liquid cell contents of snow algae are kept liquid in freezing temperatures because the algae manufacture their own antifreeze. “Other algae manage to exist in the snow itself.",
+  "mechanism": "The liquid cell contents of snow algae are kept liquid in freezing temperatures because the algae manufacture their own antifreeze.\n\n“Other algae manage to exist in the snow itself. They live in a similar way between the individual flakes just below the surface. Their chlorophyll is masked by a red pigment . This protection against damaging ultra-violet rays is more important for them than for the sandstone algae, for sunlight shines more strongly through snow than it does through quartz. During the summer, the sun is warm enough to cause a slight melting of the surface layers, and this provides the algae with the liquid water they need. Dust, brought by the wind, supplies the necessary minerals. The algae themselves manufacture a kind of anti-freeze which keeps the contents of their bodies liquid even when the temperature of the snow falls to several degrees below zero. During the winter, the tiny cells remain largely invisible some distance below the surface, but when summer comes, they propel themselves with microscopic beating hairs and move up towards the surface, the light and the warmth. So in summer, some parts of the snow fields of both the Arctic and the Antarctic blush pink.” (Attenborough 1995:246-247)",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/algae-protects-from-freezing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "algae",
+    "protects",
+    "freezing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

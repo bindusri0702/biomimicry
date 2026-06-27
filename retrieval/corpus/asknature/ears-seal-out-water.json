@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-ears-seal-out-water",
+  "organism_common": "Crocodiles and alligators",
+  "organism_scientific": "",
+  "strategy_summary": "The ears of crocodiles seal out water using fitted muscular flaps. American crocodile in La Manzanilla swamp, in the state of Jalisco, Mexico.",
+  "mechanism": "The ears of crocodiles seal out water using fitted muscular flaps.\n\nAmerican crocodile in La Manzanilla swamp, in the state of Jalisco, Mexico.\n\n“Muscular external nostril and ear flaps on crocodilians seal out water.” (Fowler and Miller 2003:59)",
+  "function_addressed": [
+    "protect from excess liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/ears-seal-out-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "ears",
+    "seal",
+    "out",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-nose-structure-aids-echolocation",
+  "organism_common": "Ghost bat",
+  "organism_scientific": "",
+  "strategy_summary": "The nose leaf of false vampire bats may be used in echolocation, though its role is not well understood. “[The false vampire bat’s] prominent nose leaf, a fold of skin standing up over its nose, is also involved in direction-finding, but its role is not understood.” (Foy and Oxford Scientific Films 1982:171)",
+  "mechanism": "The nose leaf of false vampire bats may be used in echolocation, though its role is not well understood.\n\n“[The false vampire bat’s] prominent nose leaf, a fold of skin standing up over its nose, is also involved in direction-finding, but its role is not understood.” (Foy and Oxford Scientific Films 1982:171)",
+  "function_addressed": [
+    "differentiate signal from noise",
+    "navigate through air",
+    "sense shape and pattern in a living system",
+    "sense motion",
+    "sense sound and other vibrations from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nose-structure-aids-echolocation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "nose",
+    "structure",
+    "aids",
+    "echolocation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

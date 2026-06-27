@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-larvae-protected-from-predators",
+  "organism_common": "Case-bearing leaf beetles",
+  "organism_scientific": "",
+  "strategy_summary": "Larvae of case-bearing leaf beetles protect themselves with hard cases made of fecal matter. “Animals create a wide variety of structures to deal with abiotic and biotic challenges.",
+  "mechanism": "Larvae of case-bearing leaf beetles protect themselves with hard cases made of fecal matter.\n\n“Animals create a wide variety of structures to deal with abiotic and biotic challenges. We evaluated an intriguing structure whose function has never been thoroughly tested. Specifically, we evaluated the hypothesis that the body-enclosing ‘faecal case’ created and lived in by the immature stages of Neochlamisus leaf beetles reduces their risk of predation. We especially focus on the case of N. platani , which is externally covered with host-plant trichomes, and includes a distinct trichome-filled chamber (‘attic’) in the case apex. Here, we separately evaluated the effects of case, trichomes and attic on each of several behavioural stages of predator attack using N. platani and N. bimaculatus larvae and pupae. Three generalist predators (crickets, soldier bugs and lynx spiders) that represent different feeding strategies were used in our individual-level repeated observation behavioural trials. Results strongly demonstrated that the faecal case itself greatly reduced predation risk for all combinations of beetle species, life history stage and predator. Additional evidence indicated that both trichomes and attics further and independently reduced predation risk. Variation in results among treatments was also informative. For example, the capacity of faecal case components to reduce predation sometimes varied markedly among predators and between larval versus pupal life stages. Patterns of predator behaviour provided no evidence that caseless larvae have alternative means of defence. This study further presents a rare example of the co-option of a physical plant defence (trichomes) by an herbivore.” (Brown & Funk 2010:127)\n\n“As excrement goes, the beetles produce remarkable stuff, Funk says. Despite weeks of wear, it stays firm and fungal-free. To a human nose it doesn’t smell and, after some complicated moments trying to collect larvae, Funk can add that it doesn’t have a discernible taste either.” (Milius 2009)\n\nhttp://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6W9W-4XMC05H-2&_user=10&_coverDate=01%2F31%2F2010&_rdoc=1&_fmt=high&_orig=search&_sort=d&_docanchor=&view=c&_searchStrId=1330158264&_rerunOrigin=scholar.",
+  "function_addressed": [
+    "protect from animals",
+    "manage impact"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/larvae-protected-from-predators/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "larvae",
+    "protected",
+    "predators"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

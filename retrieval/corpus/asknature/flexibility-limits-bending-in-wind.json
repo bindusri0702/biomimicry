@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-flexibility-limits-bending-in-wind",
+  "organism_common": "Protect From Wind",
+  "organism_scientific": "",
+  "strategy_summary": "The trunks of trees reduce their tendency to bend in the wind due to their torsional flexibility. “Another use of torsional flexibility, perhaps less sophisticated, happens on a larger scale.",
+  "mechanism": "The trunks of trees reduce their tendency to bend in the wind due to their torsional flexibility.\n\n“Another use of torsional flexibility, perhaps less sophisticated, happens on a larger scale. Wind on a tree will twist it unless everything (including the wind) is perfectly symmetrical about the trunk. But twisting brings bits of tree closer to a downwind orientation and brings the bits into closer proximity to each other. Both should reduce the tendency of the tree to bend over. Clever–lowering torsional stiffness ought to reduce the requirement for flexural stiffness! While we don’t have data for any intact tree, the effect has been shown for clusters of leaves (Vogel 1989), and casual observations in storms suggest that it works on larger scales. Tree-level use is consistent with the relatively low values of torsional stiffness of fresh samples of tree trunks and bamboo culms (Vogel 1995b).” (Vogel 2003:382)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
+  "function_addressed": [
+    "protect from wind"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/flexibility-limits-bending-in-wind/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flexibility",
+    "limits",
+    "bending",
+    "wind"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

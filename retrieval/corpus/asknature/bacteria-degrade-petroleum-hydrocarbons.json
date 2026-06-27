@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-bacteria-degrade-petroleum-hydrocarbons",
+  "organism_common": "Marinobacter",
+  "organism_scientific": "",
+  "strategy_summary": "Blooms of obligate hydrocarbonoclastic bacteria (OHCB) result in the rapid degradation of many oil constituents. “Despite these qualifications about experimental approaches, it is clear that oil hydrocarbon degradation in marine systems is carried out by microorganisms belonging to a relatively small group of genera.”…",
+  "mechanism": "Blooms of obligate hydrocarbonoclastic bacteria (OHCB) result in the rapid degradation of many oil constituents.\n\n“Despite these qualifications about experimental approaches, it is clear that oil hydrocarbon degradation in marine systems is carried out by microorganisms belonging to a relatively small group of genera.” (Yakimov et al. 2007:263)",
+  "function_addressed": [
+    "chemically break down organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bacteria-degrade-petroleum-hydrocarbons/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bacteria",
+    "degrade",
+    "petroleum",
+    "hydrocarbons"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-leaves-deter-herbivory",
+  "organism_common": "Birch",
+  "organism_scientific": "",
+  "strategy_summary": "The leaves of some birch trees may help deter herbivory by adsorbing arthropod-repelling chemical compounds emitted from neighboring plants. “Plant-emitted semi-volatile compounds have low vaporization rates at 20–25°C and may therefore persist on surfaces such as plant foliage.",
+  "mechanism": "The leaves of some birch trees may help deter herbivory by adsorbing arthropod-repelling chemical compounds emitted from neighboring plants.\n\n“Plant-emitted semi-volatile compounds have low vaporization rates at 20–25°C and may therefore persist on surfaces such as plant foliage. The passive adsorption of arthropod-repellent semi-volatiles to neighbouring foliage could convey associational resistance, whereby a plant’s neighbours reduce damage caused by herbivores.\n\n“We found that birch ( Betula spp.) leaves adsorb and re-release the specific arthropod-repelling C 15 semi-volatiles ledene, ledol and palustrol produced by Rhododendron tomentosum when grown in mixed association in a field setup …\n\n“In assessments for associational resistance, we found that the polyphagous green leaf weevils ( Polydrusus flavipes ) and autumnal moth ( Epirrita autumnata ) larvae both preferred B. pendula to R. tomentosum . P. flavipes also preferred birch leaves not exposed to R. tomentosum to leaves from mixed associations. In the field, a reduction in Euceraphis betulae aphid density occurred in mixed associations.\n\n“Our results suggest that plant/tree species may be protected by semi-volatile compounds emitted by a more herbivore-resistant heterospecific neighbour.” (Himanen et al. 2010:722)\n\nhttp://www.sciencedaily.com/releases/2010/03/100309202931.htm http://www3.interscience.wiley.com/journal/123318496/abstract?CRETRY=1&SRETRY=0",
+  "function_addressed": [
+    "protect from animals",
+    "cooperate within an ecosystem"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-deter-herbivory/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "deter",
+    "herbivory"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

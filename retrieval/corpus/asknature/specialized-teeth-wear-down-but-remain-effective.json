@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-specialized-teeth-wear-down-but-remain-effective",
+  "organism_common": "Large grazing mammals",
+  "organism_scientific": "",
+  "strategy_summary": "The teeth of grazing mammals wear down but not smooth because of a side-by-side layered arrangement of enamel, dentine, and cementum. “Grazing has perhaps elicited the most dramatic dental specializations in mammals.",
+  "mechanism": "The teeth of grazing mammals wear down but not smooth because of a side-by-side layered arrangement of enamel, dentine, and cementum.\n\n“Grazing has perhaps elicited the most dramatic dental specializations in mammals. About twenty million years ago, grasses and grasslands appeared on earth. Grass (and, incidentally, wood) provides poor fodder. It yields little energy relative to its mass, so a grazer has to process huge volumes. Much of that energy comes as chemically inert cellulose , which mammals hydrolyze only by enlisting symbiotic microorganisms in rumen or intestine. It’s full of abrasive stuff like silicon dioxide and has lengthwise fibers that demand cross-wise chewing rather than rapid tearing. Long-lived grazers, concomitantly, have especially special teeth, with their components typically layered side by side, as in figure 16.5b. This odd-looking arrangement ensures that, while teeth may wear down … they won’t wear smooth. The harder material (enamel, most particularly) will continue to protrude as the softer materials (cementum and dentine) wear down between them.” (Vogel 2003:333)",
+  "function_addressed": [
+    "optimize shape/materials",
+    "modify size/shape/mass/volume",
+    "physically break down living materials",
+    "physically assemble structure",
+    "manage mechanical wear"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/specialized-teeth-wear-down-but-remain-effective/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "specialized",
+    "teeth",
+    "wear",
+    "down",
+    "but",
+    "remain"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

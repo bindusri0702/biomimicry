@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-seeds-drill-into-soil",
+  "organism_common": "Wild wheat",
+  "organism_scientific": "",
+  "strategy_summary": "The awn of wild wheat grass drills the seed into the soil by absorbing moisture, causing the awn to unwind. “The dispersal unit of wild wheat [ Triticum turgidum ] bears two pronounced awns that balance the unit as it falls.",
+  "mechanism": "The awn of wild wheat grass drills the seed into the soil by absorbing moisture, causing the awn to unwind.\n\n“The dispersal unit of wild wheat [ Triticum turgidum ] bears two pronounced awns that balance the unit as it falls. We discovered that the awns are also able to propel the seeds on and into the ground. The arrangement of cellulose fibrils causes bending of the awns with changes in humidity. Silicified hairs that cover the awns allow propulsion of the unit only in the direction of the seeds. This suggests that the dead tissue is analogous to a motor. Fueled by the daily humidity cycle, the awns induce the motility required for seed dispersal.” (Elbaum et al. 2007:884)",
+  "function_addressed": [
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/seeds-drill-into-soil/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "seeds",
+    "drill",
+    "soil"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-skin-protects-from-water-loss",
+  "organism_common": "Humans",
+  "organism_scientific": "",
+  "strategy_summary": "Take a moment to think about your skin. It has a challenging task: Keep the good stuff in, and keep the bad stuff out––while still letting some stuff out, and letting other stuff in, all while providing the flexibility required for movement.",
+  "mechanism": "In humans, the stratum corneum consists of 15-20 layers of cells called corneocytes embedded in a flexible fatty matrix. Corneocytes are made up of a skeleton made of keratin (a protein) and natural moisturizing factor (NMF), which in turn is composed of water and different small molecules.\n\nWhen the corneocytes encounter water they absorb it. In the outermost layer of the stratum corneum, the keratin is packed together tightly, so it doesn’t bind water well, but the NMF is able to hang onto water molecules. In the middle layer, the keratin is unfolded. This provides room for water molecules. Not only that, but as water molecules move in, they elbow the keratin apart, making even more room for more water molecules and giving the skin a sponge like capacity to absorb moisture.\n\nThis combination allows the corneocytes to expand but stay mobile, embedded in the fats. As a result, the skin remains soft and pliable while also regulating the ability of water to flow through the stratum corneum into or out of the body. The fats outside the cells also limit the movement of water (oil and water don’t mix) and help keep the NMF from escaping from the cells and reducing the cells’ ability to absorb water.\n\nBy altering the ability to absorb water with the amount of water available, the skin is able to maintain its own flexibility while also protecting the rest of the body from either drying out or swelling up. This approach could be used to regulate water flow in irrigation systems to keep plants watered but avoid wasting water by overwatering. It could also be applied to textiles to limit water penetration while maintaining pliability.",
+  "function_addressed": [
+    "prevent fracture/rupture",
+    "protect from loss of liquids",
+    "protect from excess liquids",
+    "distribute liquids",
+    "store liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/skin-protects-from-water-loss/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "skin",
+    "protects",
+    "water",
+    "loss"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

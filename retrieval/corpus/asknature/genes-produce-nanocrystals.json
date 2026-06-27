@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-genes-produce-nanocrystals",
+  "organism_common": "Modify Material Characteristics",
+  "organism_scientific": "",
+  "strategy_summary": "Magnetic crystals inside cells are influenced by both genes and conditions. Some bacteria, such as a new sulfate-reducing bacteria found in the class Deltaproteobacteria, produce magnetosomes to help them move along geomagnetic fields.",
+  "mechanism": "Magnetic crystals inside cells are influenced by both genes and conditions.\n\nSome bacteria, such as a new sulfate-reducing bacteria found in the class Deltaproteobacteria, produce magnetosomes to help them move along geomagnetic fields. A magnetosome is an “intracellular membrane-bound magnetic crystal made of the minerals magnetite (FeO) or greigite (FeS)” (Jermy A. 2012. Environment shapes magnetic personality. Nature Reviews: Microbiology. Research Highlights. Vol 10. 2012). Genes within bacteria are responsible for the production of magnetosomes (i.e., magnetosomes are controlled by magnetosome genes- mam genes). New research shows that magnetosomes are affected by the environmental parameters–thus, magnetotactic behaviors vary depending on the environmental conditions. This research could prove important in understanding how different biomaterials used in construction vary under changing environmental conditions.",
+  "function_addressed": [
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/genes-produce-nanocrystals/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bacteria",
+    "make",
+    "magnets",
+    "fit",
+    "environment"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

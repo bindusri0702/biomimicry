@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-feather-structure-insulates",
+  "organism_common": "Canada goose",
+  "organism_scientific": "",
+  "strategy_summary": "Down feathers of geese insulate through special architecture. Canada Goose, Colony Farm Regional Park, Port Coquitlam, British Columbia.",
+  "mechanism": "Down feathers of geese insulate through special architecture.\n\nCanada Goose, Colony Farm Regional Park, Port Coquitlam, British Columbia. 2005\n\n“Feather keratin occurs in a ‘b-sheet’ configuration which differs from the a-helices that occur in mammalian keratins. . . We have measured the properties of individual down feathers from ducks, geese and penguins and found that their properties are similar to flight feathers and, indeed, the man-made polymer s used in artificial insulation fibres. The message is that the architecture of down feathers is probably more important than material properties in determining their advantages over synthetic materials. . .Recently, we have begun to explore the toughness of feather keratin by using instrumented clippers and scissors. The fracture toughness of β-keratin has proved to be very high, around 10 kJ m-2.” (Bonser 2007)\n\nComparison of keratin structure in down feathers and mammal hair.",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/feather-structure-insulates/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "feather",
+    "structure",
+    "insulates"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

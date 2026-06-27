@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-threads-adhere-underwater",
+  "organism_common": "Attach Temporarily",
+  "organism_scientific": "",
+  "strategy_summary": "Sticky ejectable threads of sea cucumbers adhere underwater and cure quickly because as the outer cell layer is shed, the inner cell layer springs open, elongates, and secretes granules of insoluble proteins that stick together. “Patrick Flammang of the University of Mons, Belgium, is studying the sea cucumber.",
+  "mechanism": "Sticky ejectable threads of sea cucumbers adhere underwater and cure quickly because as the outer cell layer is shed, the inner cell layer springs open, elongates, and secretes granules of insoluble proteins that stick together.\n\n“Patrick Flammang of the University of Mons, Belgium, is studying the sea cucumber. The sea cucumber, a relative of the starfish, protects itself from predators by ejecting, in a matter of seconds, fine, sticky threads that entangle an attacker and enable the sea cucumber to sneak away. Before they are ejected, the threads, which consist of an outer and inner layer of cells, are quite short and not sticky. But as they are ejected, the emerging threads shed their outer cell layer, enabling the inner cell layer to spring open and elongate. At the same time, the inner cells secrete granules of insoluble proteins that stick together and adhere to whatever they come in contact with in the water. Such quick-drying, underwater glues may be alternatives to existing marine adhesives which take longer to cure.” (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "attach temporarily",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/threads-adhere-underwater/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "threads",
+    "adhere",
+    "underwater"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

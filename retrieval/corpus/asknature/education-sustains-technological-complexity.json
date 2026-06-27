@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-education-sustains-technological-complexity",
+  "organism_common": "Chimpanzee",
+  "organism_scientific": "",
+  "strategy_summary": "Medicine, robots, satellites––how have humans become so technologically advanced? The forces that have enabled these extraordinary material achievements are important to understand if we hope to innovate intelligently and sustainably.",
+  "mechanism": "Just like with human communities, there are significant behavioral differences between various chimpanzee groups. This diversity gives researchers the possibility of examining how distinct groups compare in terms of tool use and the teaching behavior that passes it down to each generation.\n\nVisiting one population in the Republic of Congo, you’d see that chimpanzees use a large set of complex tools to aid in a variety of tasks, such as fishing for termites. Using gestures and vocalizations, juveniles in this group request to use the tools of adults much more often than juveniles in groups with a simpler toolkit, and their requests are granted more often. Also, when juveniles of this population struggle in using tools, adults take the initiative to hand over their own tools for the juveniles to use.\n\nAcross the continent, a chimpanzee population in Tanzania uses a much simpler tool set for fishing termites. When researchers observed this group, juvenile’s requests to use adult tools were usually denied. And when juveniles struggled in using tools, adults didn’t take the initiative to provide their own tools for juveniles to use.\n\nThese patterns suggest that chimpanzee communities can maintain more complex tool use patterns when the teaching effort or teaching willingness is relatively high. Investments in this kind of education appear to be part of what allows complex tool use to persist, and perhaps to come about in the first place. Seeing such teaching patterns in our closest living relatives is like seeing our own in a rippled reflection. It lends support to the idea that among humans, too, advancement of technology may go hand in hand with an investment in education.",
+  "function_addressed": [
+    "learn"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/education-sustains-technological-complexity/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "engaged",
+    "teaching",
+    "passes",
+    "complex",
+    "lessons"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

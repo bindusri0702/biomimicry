@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-eardrums-provide-directional-hearing",
+  "organism_common": "Sense Sound and Other Vibrations From the Environment",
+  "organism_scientific": "",
+  "strategy_summary": "The eardrums of a parasitic fly can help locate its host through sound thanks to the see-saw shape of the membranes. Ormia ochracea, a parasitic fly, can determine the direction of a sound to within two degrees, a feat previously ascribed only to owls, cats, and humans.",
+  "mechanism": "The eardrums of a parasitic fly can help locate its host through sound thanks to the see-saw shape of the membranes.\n\nOrmia ochracea, a parasitic fly, can determine the direction of a sound to within two degrees, a feat previously ascribed only to owls, cats, and humans. The discovery is surprising because flies ordinarily have no sense of hearing at all. Ormia, however, relies on its powerful ears to locate singing crickets, on which they deposit tiny larvae that eat the cricket from the inside out. Ormia’s hearing mechanism is unique in that it involves a set of eardrums located behind the head. The eardrums act as tiny directional microphones, amplifying sound while indicating the direction from which the sound came. Unlike a regular microphone, whose hearing \"membrane\" is clamped down on all sides, Ormia’s hearing mechanism consists of two membranes fastened with a hinge in the center so that it rocks like a see-saw. If sound waves come on both sides at exactly the same time and with the same amplitude, the see-saw doesn’t move. But if sound comes to one side before the other, it moves because the two pressures are unequal.\n\nWatch Video",
+  "function_addressed": [
+    "sense sound and other vibrations from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/eardrums-provide-directional-hearing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "eardrums",
+    "provide",
+    "directional",
+    "hearing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

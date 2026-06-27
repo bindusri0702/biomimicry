@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-interlocking-increases-materials-toughness",
+  "organism_common": "Mollusks (Snails, Octopuses)",
+  "organism_scientific": "",
+  "strategy_summary": "Plates in nacre increase toughness by interlocking  Nacre, or mother of pearl, is the iridescent material that forms the inner layer of the shells of some molluscs. It is a natural composite of plates of aragonite (a form of calcium carbonate) and organic layers that go around and through the plates, giving them some…",
+  "mechanism": "Plates in nacre increase toughness by interlocking\n\nNacre, or mother of pearl, is the iridescent material that forms the inner layer of the shells of some molluscs. It is a natural composite of plates of aragonite (a form of calcium carbonate) and organic layers that go around and through the plates, giving them some flexibility and holding them together. Nacre is 3000 times tougher than aragonite alone.\n\nIn nacre, aragonite is formed into stacked hexagonal plates. The plates are twisted relative to each other by 5% and sunk. That is, each plate overlaps its top and bottom neighbors by 20% of its depth, leaving the twisted offset corners as overhangs. These overhangs create lips that prevent the aragonite plates sliding past each other.\n\nWhen nacre is subjected to force, the overhanging lips interlock, making the material tough. Subjected to more force the overhangs begin to break off. Although the force required to fracture a single overhang is small, summed throughout the material, the energy required to create large fractures in nacre becomes relatively large.\n\nBrittle materials like aragonite are brittle in part because, when they start to fail, cracks can propagate easily throughout the bulk material. Because the aragonite in nacre is arranged in a staggered brick-like arrangement, and because the interlocks are the sites of first fracture, when cracks start, there is nowhere for them to spread to. To see another way the organic material between aragonite plates makes nacre tougher by stopping cracks from propagating, check out the related strategy here .\n\nImage: Manuae / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon Image: Chris 73 / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon right arrow right arrow\n\nMIT\n\nBio-compatible composite material from MIT is made of thin interlocking mineral layers that increase the strength and toughness.\n\nAnimals\n\nTissues of many animals are hard due to platelets arranged in a staggered micro-array inside a flexible matrix.",
+  "function_addressed": [
+    "manage impact",
+    "manage tension",
+    "manage compression",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/interlocking-increases-materials-toughness/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "interlocking",
+    "increases",
+    "material",
+    "toughness"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

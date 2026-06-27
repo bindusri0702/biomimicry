@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-leaf-ridges-reduce-contact-time-with-water-drops",
+  "organism_common": "Nasturtium",
+  "organism_scientific": "",
+  "strategy_summary": "Ridges on garden nasturtium leaves reduce contact time with water drops by enabling faster drop recoil. Many plants have hydrophobic (water repellent) leaves.",
+  "mechanism": "Ridges on garden nasturtium leaves reduce contact time with water drops by enabling faster drop recoil.\n\nMany plants have hydrophobic (water repellent) leaves. When raindrops fall on these surfaces, they tend to bounce off, and the less time a liquid drop spends in contact with a surface, the lower the likelihood that it will stick and leave some moisture behind.\n\nGarden nasturtium ( Tropaeolum majus ), a common backyard garden plant, has leaves that appear to reduce the contact time of incoming liquid drops by altering drop hydrodynamics with a “macrotextured” surface of relatively large veins and ridges.\n\nOn most smooth or microtextured surfaces, incoming drops hit the surface and then experience “axisymmetric recoil”: the drop spreads out into a pancake shape with uniform thickness, and then bounces back up, recoiling with a roughly circular shape and uniform speed around its edges. The center of the spread out drop is static, and has little role in the recoil. On surfaces with macrotexture (up to 150 microns high) ridges and veins, like nasturtium leaves, if a drop hits a ridge, it experiences “center-assisted recoil” instead. The ridge alters the behavior of the drop so that it recoils in an asymmetrical shape, and the liquid in the center of each spread out region contributes to recoil. This is possible because the liquid layer above the ridge is thinner than elsewhere on the surface, so it has less liquid to accelerate back up and recoils faster than other parts of the drop. This non-uniform recoil speed within the drop tends to make it fragment, resulting in small, connected fractions that recoil more quickly. In addition, more of the drop contributes to recoil than would be the case with one big mass of water.\n\nWhether or not reduced drop contact time gives the nasturtium plant any functional benefit has yet to be determined, but researchers who have developed and tested synthetic surfaces with macrotextures have demonstrated similar effects. This finding may be of use for surfaces where water contact time is an issue.\n\nImage: Leon Brooks / Public Domain - No restrictions toggle icon Image: George Chernilevsky / Public Domain - No restrictions toggle icon right arrow right arrow",
+  "function_addressed": [
+    "move in/on liquids",
+    "protect from excess liquids",
+    "modify size/shape/mass/volume",
+    "modify speed"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaf-ridges-reduce-contact-time-with-water-drops/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaf",
+    "ridges",
+    "reduce",
+    "contact",
+    "time",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

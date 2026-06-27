@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-shark-eyes-maximize-stereoscopic-vision",
+  "organism_common": "Great hammerhead shark",
+  "organism_scientific": "",
+  "strategy_summary": "Circumnavigating the island of New Zealand, undulating through the Gulf of California, and cruising along the Red Sea, hammerhead sharks are some of the ocean’s most widespread and spectacular creatures. Their head shape is instantly recognizable, but the full range of functions it might serve remains something of a…",
+  "mechanism": "You may have heard the phrase, “Eyes in front, I hunt. Eyes on the side, I hide,” which emphasizes the fact that most predators have their eyes facing forward, so that each eye’s visual field overlaps. The overlapping visual fields are assimilated by the brain to create a 3D sense of the world that can help predators accurately judge the distance to their prey for an accurate strike. By having their eyes on the sides of their head, prey species sacrifice stereoscopic vision but gain a nearly 360-degree visual field, useful for detecting potential predators approaching from any angle.\n\nAll sharks are predators, but in general, the shape of their heads and position of their eyes provide only a small (about 10-degree) stereoscopic visual field in front of them. The scalloped hammerhead ( Sphyrna lewini ) triples that and sees stereoscopically across a sweep of 32 degrees. This is due to the fact that while hammerhead species’ eyes are on the sides of their “hammers”, they have moved into a slightly more forward-facing position over the generations as the hammer increased in width. This gives hammerheads the best of both worlds: maintaining a wide field of view while tripling their area of precision depth perception. This may help hammerheads to better track and capture the fast-moving fish species they prey upon.\n\nHammerhead-style visual inputs could have many beneficial applications for humans. Medical technology is frequently challenged with detecting small objects (such as tumors) in contexts in which greater scale and three-dimensionality may reduce search time while increasing accuracy.\n\nHammerhead sharks may also have lessons for people who work to create large, three-dimensional experiences. Virtual reality (VR), originally inspired by human vision, is in a period of early growth and experimentation that could also look to other species’ visual systems to drive innovation. For example, VR feeds that mimic visual data from hammerhead-like eye positions could be used to give us the sense of having an expanded visual field, yet without completely sacrificing depth perception.\n\nOther potential applications include the placement of vehicle visual sensors, which need to maintain total environmental awareness (e.g., vehicles approaching from any side) while also identifying sudden, near-field hazards (e.g., a crossing deer).",
+  "function_addressed": [
+    "sense light (visible spectrum) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shark-eyes-maximize-stereoscopic-vision/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shark",
+    "eyes",
+    "maximize",
+    "stereoscopic",
+    "vision"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

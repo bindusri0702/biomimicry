@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-compounds-control-weeds",
+  "organism_common": "Sandberg bluegrass",
+  "organism_scientific": "",
+  "strategy_summary": "Roots of fine-leaf fescue help them outcompete other plants because they release growth-inhibiting chemicals that mimic nutrients. Fescue species release a “fake” amino acid into the surrounding soil.",
+  "mechanism": "Roots of fine-leaf fescue help them outcompete other plants because they release growth-inhibiting chemicals that mimic nutrients.\n\nFescue species release a “fake” amino acid into the surrounding soil. Weeds take it up thinking it is a nutrient when it is really empty (i.e., it’s a mimic), and thus the fescue can outcompete the weeds and reduce germination of weed seeds.",
+  "function_addressed": [
+    "biological control of populations, pests, diseases",
+    "protect from plants",
+    "regulate reproduction or growth"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/compounds-control-weeds/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "compounds",
+    "control",
+    "weeds"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

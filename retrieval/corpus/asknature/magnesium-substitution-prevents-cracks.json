@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-magnesium-substitution-prevents-cracks",
+  "organism_common": "Sea snail",
+  "organism_scientific": "",
+  "strategy_summary": "The egg capsule of a sea snail resists cracks due to substituting calcium with magnesium. The sea snail Odontocymbiola magellanica has evolved to substitute magnesium for calcium in the calcite of its eggshells in order to make them more durable and resistant to cracks.",
+  "mechanism": "The egg capsule of a sea snail resists cracks due to substituting calcium with magnesium.\n\nThe sea snail Odontocymbiola magellanica has evolved to substitute magnesium for calcium in the calcite of its eggshells in order to make them more durable and resistant to cracks. The precise chemical mechanism is unknown but crack propagation seems to be reduced with the addition of the magnesium content. The eggshells of O. magellanica contain ~21% of their Ca substituted for Mg.",
+  "function_addressed": [
+    "manage compression",
+    "chemically assemble mineral crystals",
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/magnesium-substitution-prevents-cracks/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "magnesium",
+    "substitution",
+    "prevents",
+    "cracks"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

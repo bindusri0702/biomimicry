@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-body-shape-and-position-direct-water-current",
+  "organism_common": "Black flies",
+  "organism_scientific": "",
+  "strategy_summary": "The larvae of black flies direct water currents to create conditions favorable to gathering and filtering food by adjusting the shape and position of their body and foldable, food-trapping mouth fans. “Some black-fly larvae that live in shallow, rapid streams have an interesting variation on the device.",
+  "mechanism": "The larvae of black flies direct water currents to create conditions favorable to gathering and filtering food by adjusting the shape and position of their body and foldable, food-trapping mouth fans.\n\n“Some black-fly larvae that live in shallow, rapid streams have an interesting variation on the device. They are attached at their posteriors and have a pair of food-trapping fans on their anterior ends. A larva twists lengthwise so one fan is uppermost and feeds from material suspended well out in the velocity gradient (fig. 6.12a). The other fan is then lower and a bit downstream; it feeds on material resuspended in the vortices rising behind the body. Upward flow of water in the vortices is further ecouraged by a downstream tilt of the body as a whole. Groups of larvae, positioned as they are in nature, don’t compete for food but instead enhance each other’s feeding efficiency (Chance and Craig 1986).” (Vogel 2003:135)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "distribute gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/body-shape-and-position-direct-water-current/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "body",
+    "shape",
+    "position",
+    "direct",
+    "water",
+    "current"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

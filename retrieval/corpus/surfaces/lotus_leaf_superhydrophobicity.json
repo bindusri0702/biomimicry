@@ -1,0 +1,17 @@
+{
+  "doc_id": "asn-lotus-leaf-superhydrophobicity",
+  "organism_common": "Sacred lotus",
+  "organism_scientific": "Nelumbo nucifera",
+  "strategy_summary": "Lotus leaves stay clean and dry because water beads up and rolls off, carrying dirt particles away rather than wetting and sticking to the surface.",
+  "mechanism": "Micro-scale bumps coated in nanoscale wax crystals trap a cushion of air so water droplets sit on top with very high contact angle. The droplets minimize contact area, roll freely under gravity, and pick up loosely attached contaminants via capillary adhesion as they go.",
+  "function_addressed": ["repel water", "prevent fouling", "self-clean"],
+  "environment": "still freshwater ponds",
+  "taxon": "Plantae/Tracheophyta/Magnoliopsida",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nanostructures-prevent-water-and-dirt-buildup/",
+  "source_tier": "science_journalism",
+  "keywords": ["superhydrophobic", "self-cleaning", "contact angle", "nanostructure", "wax crystals"],
+  "is_usual_suspect": true,
+  "popularity": 0.95,
+  "provenance": "synthetic"
+}

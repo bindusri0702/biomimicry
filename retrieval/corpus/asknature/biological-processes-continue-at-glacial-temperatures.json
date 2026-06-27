@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-biological-processes-continue-at-glacial-temperatures",
+  "organism_common": "Ice worm",
+  "organism_scientific": "",
+  "strategy_summary": "Physiological processes in ice worms allow them to survive and function in glacial ice thanks to an increase in adenylate nucleotides and other metabolic adaptations. “The ice worm, Mesenchytraeus solifugus , is among a few metazoan species that survive exclusively in glacier ice/snow.",
+  "mechanism": "Physiological processes in ice worms allow them to survive and function in glacial ice thanks to an increase in adenylate nucleotides and other metabolic adaptations.\n\n“The ice worm, Mesenchytraeus solifugus , is among a few metazoan species that survive exclusively in glacier ice/snow. In this study, we demonstrate that ice worm adenylate levels [i.e. adenosine 5′-triphosphate ( ATP ), ADP and AMP ] are maintained at levels well above their mesophilic counterparts, and that their response to temperature change is distinctly opposite, namely, ice worms increase energy levels as temperatures fall. Initially, this response is characterized by a sharp spike in [ ATP ] and the adenylate energy charge (even at sub-zero temperatures), which is followed by corresponding increases in [ ADP ] and [ AMP ] within a few days. These results suggest that ice worms have evolved a compensatory mechanism by which gains in adenylate nucleotides off-set, at least in part, the inherent lethargy and death usually associated with cold temperature.\n\n“… Ice worms are distinguished from freeze-tolerant and freeze-avoiding inver tebrates—including several annelid species inhabiting arctic regions (e.g. [Somme and Birkemoe, 1997 and Pedersen and Holmstrup, 2003])—by their ability to maintain all biological processes at 0 °C. Freeze-tolerant/avoiding invertebrates are capable of surviving temperatures well below the lower viable limit of ice worms (i.e. ice worms have been supercooled to ≈−6.8 °C but are killed by freezing; [Edwards, 1986]), but the former requires several months of temperate climate each year to complete their life cycle. Cold-hardiness in these organisms is achieved by a variety of mechanisms including dehydration and sugar accumulation ( Holmstrup and Sjursen, 2001 and Holmstrup et al., 2002]). While the overwintering behavior of ice worms remains unknown, it has been proposed that they burrow beneath the insulating snowfall of temperate glaciers where temperatures remain near 0 °C ( [Tyen, 1970 and Goodman, 1971]).” Sømme and Birkemoe, 1997. L. Sømme and T. Birkemoe, Cold tolerance and dehydration in Enchytraeidae from Svalbard. J. Comp. Physiol. B 167 (1997), pp. 264–269. View Record in Scopus | Cited By in Scopus (26) (Napolitano et al. 2004:227-228)",
+  "function_addressed": [
+    "regulate cellular processes",
+    "maintain homeostasis",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/biological-processes-continue-at-glacial-temperatures/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "biological",
+    "processes",
+    "continue",
+    "glacial",
+    "temperatures"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

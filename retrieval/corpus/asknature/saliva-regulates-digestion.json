@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-saliva-regulates-digestion",
+  "organism_common": "Gila monster",
+  "organism_scientific": "",
+  "strategy_summary": "Gila monsters ( Heloderma suspectum ) are one of the few venomous lizards in the world, inhabiting the deserts of the southwestern United States and northern Mexico. Life in these arid environments is feast or famine.",
+  "mechanism": "Like all vertebrates, Gila monsters convert carbohydrates into glucose —a sugar used by cells for energy. Normally, after a meal, the body produces insulin to help move glucose from the blood into cells. A secondary hormone , called GLP-1 (glucagon-like peptide-1), boosts insulin production. However, in most animals, GLP-1 breaks down quickly and only offers a brief signal.\n\nBut in the Gila monster’s saliva, there’s a version of this hormone called exendin-4. It’s remarkably stable and sticks around much longer in the bloodstream. This allows the pancreas to continue releasing insulin over extended periods—hours rather than minutes. This is especially helpful after a large meal, helping the lizard avoid sugar spikes and steadily draw energy from its food over time.\n\nExendin-4 functions similarly to GLP-1 by activating the same cellular receptors. However, its structure protects it from the enzymes that usually break down GLP-1. As a result, it provides longer-lasting effects with no need for constant replenishment. This adaptation ensures the Gila monster can stretch the energetic benefits of a rare meal for as long as possible.\n\nThis strategy has already changed human lives. In 1992, scientists discovered exendin-4 and began developing synthetic versions for human use. Today, this molecule is the basis for several medications used to treat type 2 diabetes, including exenatide (Byetta). These drugs help diabetics produce more insulin for longer periods without triggering blood sugar crashes. They also encourage weight loss by slowing digestion and increasing satiety after meals.\n\nBy studying the biochemistry of a desert-dwelling lizard, researchers have unlocked a sustainable, nature-inspired way to regulate blood sugar—without needing constant drug delivery. This is biomimicry at its best: solving a human challenge by emulating a strategy refined through evolution.",
+  "function_addressed": [
+    "regulate cellular processes",
+    "maintain homeostasis"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/saliva-regulates-digestion/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "lizard",
+    "saliva",
+    "reduces",
+    "sugar",
+    "overload",
+    "regulates"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

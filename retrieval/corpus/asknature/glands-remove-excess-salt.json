@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-glands-remove-excess-salt",
+  "organism_common": "Mangroves",
+  "organism_scientific": "",
+  "strategy_summary": "With a water supply as close to infinite as it gets, an ocean shore seems like the perfect place for a plant to put down roots. And that’s exactly what a mangrove does.",
+  "mechanism": "The many and diverse species of mangroves have evolved various strategies for coping with this toxic treasure. Some avoid taking up sodium and chloride, the ions that make up salt, in the first place. Some take up the ions, accumulate them in older leaves, and shed them with the leaves. . And some species take in the ions but pump them right back out into the environmentin much higher concentration than seawater through glands on their leaves.\n\nThose that use this last strategy draw salty water through their veins from roots to leaves. In the leaves, the salt ions move out of the veins and into the tissues surrounding them. The leaves contain clusters of specialized cells known as salt glands that are adjacent to the world outside. The glands are also located near the veins. They are almost completely surrounded by a thick, waterproof coat called a cuticle.\n\nAgricultural practices and sea-level rise due to climate change are causing soils to become salty in some places. Mangroves’ mechanism for concentrating and excreting salt could provide models for giving crops the ability to tolerate increased salt levels.\n\nThe ability to concentrate contaminants and move them from one place to another also could provide ideas for improving our ability to remove salt from ocean water to make it potable. More generally, it could inspire ways to move ions from one place to another and collect them for further transport, with implications for building better batteries, removing pollutants from soils, and more.",
+  "function_addressed": [
+    "modify concentration (of ions, solutes, etc.)",
+    "protect from chemicals",
+    "maintain homeostasis",
+    "capture, absorb, or filter chemical entities"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/glands-remove-excess-salt/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "glands",
+    "remove",
+    "excess",
+    "salt"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

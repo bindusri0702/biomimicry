@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-rapid-limited-cell-growth-from-feijoa-leaf-extract",
+  "organism_common": "Feijoa",
+  "organism_scientific": "",
+  "strategy_summary": "Leaves of the feijoa plant enhance stem cell growth by promoting cell division and temporarily suppressing cell death. In its native habitats, the feijoa ( Acca sellowiana ) thrives in nutrient-poor soils and experiences seasonal environmental stresses, like drought and UV exposure.",
+  "mechanism": "Leaves of the feijoa plant enhance stem cell growth by promoting cell division and temporarily suppressing cell death.\n\nIn its native habitats, the feijoa ( Acca sellowiana ) thrives in nutrient-poor soils and experiences seasonal environmental stresses, like drought and UV exposure. Over time, it has evolved chemical defenses and healing mechanisms that protect its tissues and promote repair.\n\nThese defense mechanisms aren’t limited to its fruits. The leaves, often discarded while the fruits are enjoyed, are filled with potent natural compounds, including antioxidants, anti-inflammatory agents, and compounds that regulate how cells grow and divide.\n\nAt low, non-toxic doses, feijoa extract significantly boosts stem cell growth. This growth boost is linked to a reduction in the time it takes cells to double in number, a metric known as “population doubling time.” That means the cells were dividing faster than normal. The extract also influenced gene activity: it briefly suppressed a gene called Bcl-2, which helps cells survive long-term, and increased activity in a gene called Bax, which is involved in cell death. This shift may seem counterintuitive, but it turns out to be a smart strategy. By ramping up early cell division and then applying a braking system, the plant ensures a burst of growth followed by stabilization.\n\nThese effects are driven by the plant’s rich cocktail of bioactive compounds, including flavonoids, vitamin E, and carotenoids. These compounds all play a part in reducing oxidative stress (a gradual process of cellular damage––and the reason why anti-oxidants are important to a healthy diet––helping cells grow quickly and safely, without becoming cancerous.\n\nThis natural “growth pulse” strategy offers exciting ideas for human applications. For example, in regenerative medicine, scientists could use feijoa leaf extract to speed up the expansion of stem cells for therapies, reducing the time it takes to produce the number of cells needed for a treatment.\n\nIn agricultural biotechnology, feijoa’s growth-promoting compounds could help crops heal faster from damage or stress. And in skincare, the extract might support tissue repair or rejuvenation in products aimed at wound healing, all without using synthetic chemicals.\n\nMore broadly, this strategy teaches us how to support fast repair in a safe and time-limited way – something our human systems often struggle with. Feijoa doesn’t push cells to grow endlessly; it gives them a boost, then pulls back, promoting both efficiency and balance.",
+  "function_addressed": [
+    "chemically break down organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/rapid-limited-cell-growth-from-feijoa-leaf-extract/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "rapid",
+    "limited",
+    "cell",
+    "growth",
+    "feijoa",
+    "leaf"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

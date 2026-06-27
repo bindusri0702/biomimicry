@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-cells-detect-and-sequester-toxic-copper",
+  "organism_common": "Mycobacterium",
+  "organism_scientific": "",
+  "strategy_summary": "The cells of Mycobacterium tuberculosis detect, move, and sequester toxic copper via membrane copper pumps and protein chaperones. “Copper is an essential micronutrient that is involved in protein-mediated electron transfer and enzyme activity, yet reduced copper in its +1 oxidation state is highly toxic to cells.",
+  "mechanism": "The cells of Mycobacterium tuberculosis detect, move, and sequester toxic copper via membrane copper pumps and protein chaperones.\n\n“Copper is an essential micronutrient that is involved in protein-mediated electron transfer and enzyme activity, yet reduced copper in its +1 oxidation state is highly toxic to cells. As a result, cellular regulation of copper is highly controlled, involving cell-surface copper pumps and protein chaperones that move copper around the cell, delivering it to specific target proteins and concurrently sequestering it to protect the cell from toxicity.” (Wilmot 2007:15)",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities",
+    "store chemical entities",
+    "protect from chemicals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/cells-detect-and-sequester-toxic-copper/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "cells",
+    "detect",
+    "sequester",
+    "toxic",
+    "copper"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

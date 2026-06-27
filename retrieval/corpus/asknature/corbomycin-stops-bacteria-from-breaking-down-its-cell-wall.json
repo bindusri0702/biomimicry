@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-corbomycin-stops-bacteria-from-breaking-down-its-cell-wall",
+  "organism_common": "Streptomyces",
+  "organism_scientific": "",
+  "strategy_summary": "Corbomycin from soil bacteria binds to cell walls to prevent bacteria from dividing. Bacteria are tiny cells that can enter the human body and cause infections that make humans sick.",
+  "mechanism": "Corbomycin from soil bacteria binds to cell walls to prevent bacteria from dividing.\n\nBacteria are tiny cells that can enter the human body and cause infections that make humans sick. In order to get better, the body needs to kill or stop the growth of these bacteria. Doctors give medicines called antibiotics to help the body get rid of an infection. Penicillin is a common antibiotic often used to stop bacteria from growing. It does this by preventing the bacteria from building a cell wall, which makes it difficult for it to grow and reproduce. However, bacteria can build resistance, or develop a defense against antibiotics. This makes the antibiotic less effective at killing the bacteria.\n\nHumans are currently overusing antibiotics, and as a result there are more antibiotic-resistant bacteria. Penicillin, and other antibiotics in the same family, are becoming less effective at killing bacteria. Therefore, scientists have to find a new kind of antibiotic that will stop the growth of bacteria in other ways. One current approach is to disrupt cell division, which prevents bacteria from being able to divide.\n\nFor bacteria to grow, it first needs to reproduce. It does this by dividing into two daughter cells that have the same DNA. For the cell to divide, a special enzyme called autolysin has to bind to the cell wall and break it down. Once the cell wall is broken, the cells can then divide. If autolysin is disrupted or is not functioning properly, cells cannot divide.\n\nCorbomycin is a compound found in soil bacteria. It works by attaching to the bacterial cell wall and preventing autolysin from binding. As a result, bacterial cells cannot divide and are essentially “trapped” within their own cell walls. Eventually the bacteria die, stopping the infection. Scientists have used corbomycin as an antibiotic for bacteria that are resistant to other antibiotics, and have found that it can effectively kill those bacteria. This gives us a new weapon in our fight against bacterial infections.\n\nImage: CDC/ Bette Jensen / Public Domain - No restrictions toggle icon Image: Janice Haney Carr, USCDCP / Public Domain - No restrictions toggle icon Image: CDC / Public Domain - No restrictions toggle icon right arrow right arrow",
+  "function_addressed": [
+    "regulate reproduction or growth",
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/corbomycin-stops-bacteria-from-breaking-down-its-cell-wall/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "corbomycin",
+    "stops",
+    "bacteria",
+    "breaking",
+    "down",
+    "cell"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

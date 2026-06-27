@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-dissolving-the-keratin-in-hair-and-wool-through-enzymatic-breakdown",
+  "organism_common": "Common Clothes Moth",
+  "organism_scientific": "",
+  "strategy_summary": "The Common Clothes Moth ( Tineola bisselliella ) is often seen as a household pest, but in the wild, it is a master recycler of one of nature’s toughest materials: keratin. This is the protein that makes up hair, fur, and feathers—materials that most animals find completely indigestible.",
+  "mechanism": "Keratin is tough because it is held together by disulfide bonds—chemical bridges that act like industrial-strength glue. To break these, the moth larva creates an extreme environment inside its stomach. Its gut is highly alkaline (having a high pH), which helps to soften and swell the keratin fibers. This environment is essential for the next step: the chemical attack.\n\nThe larva produces keratinase enzymes and specialized reducing agents that specifically target those “glue” bonds. By breaking the disulfide bridges, the moth turns the rigid hair into a soft, linear chain of amino acids that it can then digest like any other protein. This process is incredibly efficient, allowing the moth to live off materials that are essentially “locked” to the rest of the animal kingdom.\n\nOur industries produce millions of tons of keratin waste from poultry feathers and wool processing. By mimicking the moth’s high-pH, enzyme-driven strategy, we could develop sustainable methods to recycle this waste into animal feed or biodegradable plastics. This would turn a landfill-clogging problem into a valuable resource using low-energy, biological “scissors.”\n\nInspired by the Nature’s Decomposers project, created by Alicia Lee, Daniel Ramirez, and David N. Ford, developed as part of the ASU BMY580 Biobrainstorm course.",
+  "function_addressed": [
+    "chemically break down organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/dissolving-the-keratin-in-hair-and-wool-through-enzymatic-breakdown/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "dissolving",
+    "keratin",
+    "hair",
+    "wool",
+    "through",
+    "enzymatic"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

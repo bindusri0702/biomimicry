@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-reducing-surface-tension-to-travel-on-water",
+  "organism_common": "Rove beetle",
+  "organism_scientific": "",
+  "strategy_summary": "Abdominal glands of the rove beetle help it skim quickly across water via secreted chemicals that locally reduce surface tension. “A small beetle, Stenus , normally walks slowly on the surface.",
+  "mechanism": "Abdominal glands of the rove beetle help it skim quickly across water via secreted chemicals that locally reduce surface tension.\n\n“A small beetle, Stenus , normally walks slowly on the surface. When speed is desired, through, it secretes a substance from its last abdominal segment that locally reduces the surface tension. The result is an asymmetrical force on the beetle, which moves forward at up to 0.7 meters per second (Chapman 1982).” (Vogel 2003:108)\n\n“Perhaps the most unusual way of getting around is demonstrated by the semiaquatic rove beetle. Jumping onto the surface of the pond, this beetle excretes a chemical which reacts so violently with water that the insect is sent skimming across the pond at high speed.” (Forsyth 1992:29)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003.",
+  "function_addressed": [
+    "move in/on liquids",
+    "modify surface tension"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/reducing-surface-tension-to-travel-on-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "reducing",
+    "surface",
+    "tension",
+    "travel",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-circular-tapering-beams-stabilize",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Cantilever-like structures such as long necks and antennae of many organisms stabilize via circular, tapering structure. “Organisms most often use beams that are circular (or elliptical) in cross section, and for these the common engineering handbooks…don’t give such direct solutions.",
+  "mechanism": "Cantilever-like structures such as long necks and antennae of many organisms stabilize via circular, tapering structure.\n\n“Organisms most often use beams that are circular (or elliptical) in cross section, and for these the common engineering handbooks…don’t give such direct solutions. Denny (1988) faced the matter in admirably direct fashion. Some degree of taper, though, is virtually universal, for the branches of trees, for long necks and upheld tails, for archy’s long, thin cockroach antennae as well as for the cat’s whiskers of mehitabel (Marquis 1927).” (Vogel 2003:373)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003.",
+  "function_addressed": [
+    "manage tension",
+    "manage compression",
+    "manage shear"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/circular-tapering-beams-stabilize/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "circular",
+    "tapering",
+    "beams",
+    "stabilize"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

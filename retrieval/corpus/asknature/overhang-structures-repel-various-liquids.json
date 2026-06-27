@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-overhang-structures-repel-various-liquids",
+  "organism_common": "Springtails",
+  "organism_scientific": "",
+  "strategy_summary": "Skin of springtails repels liquids with undercut structures that stabilize air bubbles. Design application: water and oil repellent option for fabric surfaces.",
+  "mechanism": "Skin of springtails repels liquids with undercut structures that stabilize air bubbles.\n\nDesign application: water and oil repellent option for fabric surfaces.\n\nSpringtails are tiny arthropods less than 6mm long. They get their name from their furcula, a tail-like appendage that they can use to launch themselves large distances and out of danger. Springtails live in moist leaf litter and other decaying organic matter where they primarily eat dead plant material and fungi. Springtail habitats are wet and, as these animals respire through their skin, repelling moisture is critically important for their survival. They are evolutionarily ancient and are very well adapted to this challenging environment that is full of oily substances released from decaying matter, as well as potentially harmful microorganisms.\n\nSurface roughness is important for repellency as textured surfaces trap an air bubble (or plastron) at the surface, preventing water and other substances from contacting it directly. Water’s surface tension makes it relatively easy to repel, and many organisms have rough surfaces that function in this way. Springtail skin is remarkable in that it resists a far wider range of substances, including oils and other low surface tension liquids, even when subjected to high pressure.\n\nSpringtail skin is rough across multiple length scales. It has relatively large bumps that are themselves coated in smaller “primary granules”. Primary granules are unique and convoluted structures approximately 250 nm across. Made from even folds in the skin, they are arranged in a regular lattice, forming nano-scale cavities that trap air. The granules have undercut overhangs that orient surface-tension forces in a way that makes the structures exceptionally effective at stabilizing the plastron. This gives springtail skin its incredible repellency.\n\nThe tiny structures that protrude from the skin of springtails preserve an air bubble that prevents substances wetting the surface.\n\nGiant salvinia\n\nThe leaf structure of the Salvinia water fern retains a layer of air when submerged in water due to water-resistant hairs that possess water-attracting tips.\n\nSacred lotus\n\nLeaves of the sacred lotus are self-cleaning thanks to hydrophobic microscale bumps.",
+  "function_addressed": [
+    "protect from fungi",
+    "protect from microbes",
+    "protect from excess liquids",
+    "protect from dirt/solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/overhang-structures-repel-various-liquids/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "overhang",
+    "structures",
+    "repel",
+    "various",
+    "liquids"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

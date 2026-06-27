@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-awns-cause-self-planting",
+  "organism_common": "Spear grass",
+  "organism_scientific": "",
+  "strategy_summary": "Hairs on spear grass awn's result in the grass being able to self-plant into the soil by being hydrophilic and hydrophobic. “Many plants have been described as self planting seeds (Zohary 1937).",
+  "mechanism": "Hairs on spear grass awn's result in the grass being able to self-plant into the soil by being hydrophilic and hydrophobic.\n\n“Many plants have been described as self planting seeds (Zohary 1937). Seedling survivorship of such awned seeds has been shown to be higher than that of de-awned seeds (Simpson 1952; Peart 1979). Also, self planting species have higher establishment than seeds without accessory structures for burial in particular microhabitats, such as areas devoid of litter due to burning (Tothill 1968)…Both the self-planting grasses and Erodium seeds are characterised by hygroscopically-active awns [hairs at the base of the awn increase surface area in contact with the environment]. The seeds move by the decreasing tension (during wetting) [as the awn hairs swell] and increasing tension (during drying) of these awns [as the awn hairs lose moisture].” (Stamp 1984:611)\n\n“The advantages of burial for these seeds may be numerous and complex. Young, Evans & Kay (1975) suggested that for Erodium botryx seeds, which colonize bare areas, burial was important to avoid seed predators, extreme temperatures at the soil surface during the summer and fluctuations in soil moisture during germination in late autumn. Sheldon (1974) found that burial insured radicle penetration, especially in compacted soil. Self-planting Heteropogon contortus seeds had an advantage over other species by avoiding fire, which destroyed the ground litter, and by establishing themselves early, a consequence of increased soil surface temperature after the fire, which the temperature in other areas was unfavourable to germination (Tothill 1969).” (Stamp 1984:619)",
+  "function_addressed": [
+    "sense atmospheric conditions",
+    "distribute liquids",
+    "capture, absorb, or filter liquids",
+    "move in/through gases",
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/awns-cause-self-planting/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "awns",
+    "cause",
+    "self-planting"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-reflectance-causes-white-color",
+  "organism_common": "Cabbage white butterfly",
+  "organism_scientific": "",
+  "strategy_summary": "The wings of the cabbage butterfly are white due to longitudinal ridges and cross-ribs studded with ovoid beads. Image: Didier / toggle icon Image: Dendroica cerulea / toggle icon right arrow right arrow  “The small white, P.",
+  "mechanism": "The wings of the cabbage butterfly are white due to longitudinal ridges and cross-ribs studded with ovoid beads.\n\nImage: Didier / toggle icon Image: Dendroica cerulea / toggle icon right arrow right arrow\n\n“The small white, P. [Pieris] rapae , offers an interesting example of the biology of wing coloration. Both sexes of this butterfly species are rather featureless for human eyes, except for slight differences in the black spots, small wing areas where the wing scales contain melanin. The white color is caused by strongly scattering structures in the wing scales (Stavenga et al., 2004). The reflectance is only high above 450 nm, but it is minor below 400 nm, because the scales of male P. rapae crucivora contain a substantial amount of UV-absorbing pteridins.” (Stavenga and Arikawa 2006:314)\n\n“Fig. 7. Coloration of pierid butterflies…(b) The wing scales are marked by longitudinal ridges and cross-ribs. (c) The cross-ribs are studded with ovoid beads…(d) The wing scales strongly scatter, but due to pteridin pigment , which strongly absorbs in the UV, the reflectance is low in the UV.” (Stavenga and Arikawa 2006:315)",
+  "function_addressed": [
+    "send light signals in the visible spectrum",
+    "modify light/color"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/reflectance-causes-white-color/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "reflectance",
+    "causes",
+    "white",
+    "color"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-leaves-focus-light",
+  "organism_common": "Clubed begonia",
+  "organism_scientific": "",
+  "strategy_summary": "The leaves of begonias maximize photosynthesis in low-light conditions by using clear surface cells to focus light. “Begonias, which also grow on the floor of these Asiatic forests, have an additional trick.",
+  "mechanism": "The leaves of begonias maximize photosynthesis in low-light conditions by using clear surface cells to focus light.\n\n“Begonias, which also grow on the floor of these Asiatic forests, have an additional trick. Some cells in the upper surface of their leaves are transparent and act as tiny lenses, gathering the feeble light and focussing it on to the grains of chlorophyll within.” (Attenborough 1995:48)\n\n“Many understory plants rely on diffuse light for photosynthesis because direct light is usually scattered by upper canopy layers before it strikes the forest floor. There is a considerable gap in the literature concerning the interaction of direct and diffuse light with leaves. Some understory plants have well-developed lens-shaped epidermal cells, which have long been thought to increase the absorption of diffuse light. To assess the role of epidermal cell shape in capturing direct vs. diffuse light, we measured leaf reflectance and transmittance with an integrating sphere system using leaves with flat ( Begonia erythrophylla, Citrus reticulata, and Ficus benjamina ) and lens-shaped epidermal cells ( B. bowerae, Colocasia esculenta, and Impatiens velvetea ). In all species examined, more light was absorbed when leaves were irradiated with direct as opposed to diffuse light. When leaves were irradiated with diffuse light, more light was transmitted and more was reflected in both leaf types, resulting in absorptance values 2–3% lower than in leaves irradiated with direct light. These data suggest that lens-shaped epidermal cells do not aid the capture of diffuse light. Palisade and mesophyll cell anatomy and leaf thickness appear to have more influence in the capture and absorption of light than does epidermal cell shape…Lens cells may then be more important for the focusing of direct light (Vogelmann et al., 1996) or for other reasons such as storing water and improving the hydrophobicity of the leaf surface. The development of these lens-shaped cells in understory tropical species may be primarily related to chance opportunities to exposure to direct light when sun flecks penetrate to the ground level of the forest. In addition, plants with these types of cells typically have an extremely hydrophobic surface, and convexly shaped cells increase water repellency (Wagner et al., 2003; Bhushan and Jung, 2006).” (Brodersen and Vogelmann 2007:1061, 1065)",
+  "function_addressed": [
+    "capture, absorb, or filter energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-focus-light/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "focus",
+    "light"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-dna-densely-packed-without-knots",
+  "organism_common": "Humans",
+  "organism_scientific": "",
+  "strategy_summary": "The genomic DNA of humans is densely packed without knots into individual cells via fractal globule architecture. Human karyotype with color added to distinguish chromosome pairs.",
+  "mechanism": "The genomic DNA of humans is densely packed without knots into individual cells via fractal globule architecture.\n\nHuman karyotype with color added to distinguish chromosome pairs.\n\n“‘We’ve long known that on a small scale, DNA is a double helix … But if the double helix didn’t fold further, the genome in each cell would be two meters long. Scientists have not really understood how the double helix folds to fit into the nucleus of a human cell, which is only about a hundredth of a millimeter in diameter …’\n\n“The researchers report two striking findings. First, the human genome is organized into two separate compartments, keeping active genes separate and accessible while sequestering unused DNA in a denser storage compartment. Chromosomes snake in and out of the two compartments repeatedly as their DNA alternates between active, gene-rich and inactive, gene-poor stretches….\n\n“Second, at a finer scale, the genome adopts an unusual organization known in mathematics as a ‘fractal.’ The specific architecture the scientists found, called a ‘fractal globule,’ enables the cell to pack DNA incredibly tightly — the information density in the nucleus is trillions of times higher than on a computer chip — while avoiding the knots and tangles that might interfere with the cell’s ability to read its own genome. Moreover, the DNA can easily unfold and refold during gene activation, gene repression, and cell replication.” (EurekAlert! 2009)\n\n“We identified an additional level of genome organization that is characterized by the spatial segregation of open and closed chromatin to form two genome-wide compartments. At the megabase scale, the chromatin conformation is consistent with a fractal globule, a knot-free, polymer conformation that enables maximally dense packing while preserving the ability to easily fold and unfold any genomic locus. The fractal globule is distinct from the more commonly used globular equilibrium model.” (Lieberman-Aiden et al. 2009:289)\n\nhttp://www.sciencemag.org/cgi/content/abstract/sci;326/5950/289 http://www.eurekalert.org/pub_releases/2009-10/hu-sdt100209.php",
+  "function_addressed": [
+    "optimize shape/materials",
+    "modify size/shape/mass/volume",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/dna-densely-packed-without-knots/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "dna",
+    "densely",
+    "packed",
+    "without",
+    "knots"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

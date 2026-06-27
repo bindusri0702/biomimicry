@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-body-sheds-dirt-particles",
+  "organism_common": "Small winter stonefly",
+  "organism_scientific": "",
+  "strategy_summary": "The body and eyes of stonefly larvae are protected from sediment particles by a coating of dense hairs and bristles. “In burrowing insect species, a dense cover of bristles and hairs helps to keep the sediment particles away from the body and in the stonefly Capnopsis schiller even the eyes are covered (Fig.",
+  "mechanism": "The body and eyes of stonefly larvae are protected from sediment particles by a coating of dense hairs and bristles.\n\n“In burrowing insect species, a dense cover of bristles and hairs helps to keep the sediment particles away from the body and in the stonefly Capnopsis schiller even the eyes are covered (Fig. 5.6).” (Giller and Malmqvist 1998:115)",
+  "function_addressed": [
+    "protect from dirt/solids",
+    "manage mechanical wear"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/body-sheds-dirt-particles/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "body",
+    "sheds",
+    "dirt",
+    "particles"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

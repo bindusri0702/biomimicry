@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-plant-poison-neutralizes-digestive-juices",
+  "organism_common": "Woolbearing dandelion",
+  "organism_scientific": "",
+  "strategy_summary": "The poison produced by cotton grass protects them from lemmings by neutralizing digestive juices, leading to lemming starvation. “The ability to produce poison may be the cause of one of the most celebrated, almost mythic, events in natural history – the mass suicide of the Norway lemming.",
+  "mechanism": "The poison produced by cotton grass protects them from lemmings by neutralizing digestive juices, leading to lemming starvation.\n\n“The ability to produce poison may be the cause of one of the most celebrated, almost mythic, events in natural history – the mass suicide of the Norway lemming. These little hamster-like rodents of the Arctic tundra increase in numbers year after year until there is a population explosion, and then hordes of them are said to deliberately drown themselves.\n\n“The cause of this extraordinary behaviour may be the fact, recently discovered, that when lemmings start to feed on the cotton grass and sedges that are their main food, the plants begin to produce a poison which neutralises the lemmings’ digestive juices. If the grazing is light, the plants stop doing this after about 30 hours, but if it is intense, as it is when the lemming population reaches its climax, they do so continuously. The effect on the lemmings is not only that they cannot digest their meals. Because they cannot, their bodies produce more and more digestive fluids, draining their physical resources and bringing them even closer to starvation. As a consequence, the more they eat the hungrier they get, and when having stripped the surrounding tundra they reach the edge of the sea or a lake, they swim out into it, in a frenzied attempt to find some food somewhere that will sustain them.” (Attenborough 1995:72)",
+  "function_addressed": [
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/plant-poison-neutralizes-digestive-juices/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "plant",
+    "poison",
+    "neutralizes",
+    "digestive",
+    "juices"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-layers-create-multihued-appearance",
+  "organism_common": "Scarab beetles",
+  "organism_scientific": "",
+  "strategy_summary": "Carapace of beetle appears multihued because of ultrathin layers in a corkscrew orientation. Image: Udo Schmidt / toggle icon  “ Gymnopleurus virens beetles have shells that change from red in the centre to green around the edges or from green to blue…the shells are made of thousands of ultrathin layers, with each…",
+  "mechanism": "Carapace of beetle appears multihued because of ultrathin layers in a corkscrew orientation.\n\nImage: Udo Schmidt / toggle icon\n\n“ Gymnopleurus virens beetles have shells that change from red in the centre to green around the edges or from green to blue…the shells are made of thousands of ultrathin layers, with each successive layer slightly twisted in relation to the one above. ‘It’s a corkscrew effect,’ says Brink.\n\n“This corkscrew structure causes the shell to reflect only that portion of light which has the same corkscrew orientation – known as circularly polarised light. ‘When the corkscrews match, you get astonishingly efficient reflection of almost 100 per cent,’ says Brink.\n\n“The team also found that the shells have defects, in which a layer swings around by 90 degrees. This in turn changes the spacing between the layers, allowing the shell to reflect more than one wavelength of light. These defects combine with the shell’s shape to give it its iridescence.” (New Scientist 2007:17)\n\nBeetle’s beauty lies in imperfection. New Scientist, 4/7/2007, Vol. 194 Issue 2598, p17-17, 1/4p; (AN 27198858)",
+  "function_addressed": [
+    "modify light/color"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/layers-create-multihued-appearance/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "layers",
+    "create",
+    "multihued",
+    "appearance"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

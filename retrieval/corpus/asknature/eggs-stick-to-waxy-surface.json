@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-eggs-stick-to-waxy-surface",
+  "organism_common": "Common asparagus beetle",
+  "organism_scientific": "",
+  "strategy_summary": "Eggs of the asparagus beetle attach firmly to waxy plant surfaces using proteinaceous secretions. “Plant surfaces covered with crystalline epicuticular waxes are known to be anti-adhesive, hardly wettable and preventing insect attachment.",
+  "mechanism": "Eggs of the asparagus beetle attach firmly to waxy plant surfaces using proteinaceous secretions.\n\n“Plant surfaces covered with crystalline epicuticular waxes are known to be anti-adhesive, hardly wettable and preventing insect attachment. But there are insects that are capable of gluing their eggs to these surfaces by means of proteinaceous secretions. In this study, we analysed the bonding region between the eggs of Crioceris asparagi and the plant surface of Asparagus officinalis … Mean pull-off force was 14.7 mN, which is about 8650 times higher than the egg weight … Our results support the hypothesis that the mechanism of insect egg adhesion on micro- and nanostructured hydrophobic plant surfaces is related to the proteinaceous nature of adhesive secretions of insect eggs. The secretion wets superhydrophobic surfaces and after solidifying builds up a composite, consisting of the solidified glue and wax crystals, at the interface between the egg and plant cuticle.” (Voigt and Gorb 2010:895)",
+  "function_addressed": [
+    "attach permanently"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/eggs-stick-to-waxy-surface/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "eggs",
+    "stick",
+    "waxy",
+    "surface"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

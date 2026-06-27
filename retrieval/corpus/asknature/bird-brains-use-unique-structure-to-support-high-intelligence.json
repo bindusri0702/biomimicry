@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-bird-brains-use-unique-structure-to-support-high-intelligence",
+  "organism_common": "Birds",
+  "organism_scientific": "",
+  "strategy_summary": "If you have ever been called “bird brain,” you know that it is not meant as a compliment. However, birds show that they know how to use tools, mimic human speech, and even grieve their dead.",
+  "mechanism": "In the mammalian structure, neurons are arranged into six layers of vertical columns which communicate with each other horizontally and vertically. This allows for more efficient and advanced mental processing. It was previously believed that the clumps of cells, called nuclei, that make up bird brains have less structure and organization than the layered mammalian cortex. However, it is now known that neurons within the DVR are arranged into layers and columns similar to mammalian brains. This suggests that the two regions may function similarly in both organisms.\n\nThe DVR boasts 0.5-2 billion neurons, which is significant when you compare it to the neocortices of other intelligent animals. Put simply, a greater number of neurons in the neocortex allows for better information processing. As a result, the number of neurons in the neocortex is the metric that humans use to claim their intellectual superiority over other animals. Humans have the most in the animal kingdom with approximately 16 billion neurons in their neocortices compared to 1-2 billion in advanced primates such as chimpanzees. The bird DVR, therefore, is on par with some of the most developed neocortices known.\n\nThis finding explains how birds can perform such advanced behaviors, proving that appearances can be misleading. The finding that the DVR has a similar structure to the mammalian neocortex, even while looking different to the naked eye, gives us a clearer view of the diversity of intelligence in the animal kingdom.\n\nAs humans seek to improve the intelligence of built objects and systems, often relying on comparison to the way our own brains work, the avian DVR presents an alternate model for the structuring of artificial networks and other information-processing systems.",
+  "function_addressed": [
+    "learn",
+    "compute"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bird-brains-use-unique-structure-to-support-high-intelligence/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bird",
+    "brains",
+    "unique",
+    "structure",
+    "support",
+    "high"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

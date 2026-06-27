@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-electric-organs-have-many-purposes",
+  "organism_common": "Electric eel",
+  "organism_scientific": "",
+  "strategy_summary": "Electric organs of Amazon electric eels help them to navigate as well as detect and stun prey. “The freshwater species that produces the most powerful electrical discharge of all is the Amazon electric eel ( Electrophorus electricus ).",
+  "mechanism": "Electric organs of Amazon electric eels help them to navigate as well as detect and stun prey.\n\n“The freshwater species that produces the most powerful electrical discharge of all is the Amazon electric eel ( Electrophorus electricus ). Measuring up to 10 feet (3 m), it has three electric organs. Of these, two are used for navigation and prey detection. The third, and largest, is a formidable weapon. Split into two long, lateral halves, it discharges out of its tail, releasing up to 550 volts into its freshwater habitat. The shock stuns its prey, which consists of fishes and frogs, but it is also powerful enough to kill humans and even horses if they are present in the water when the eel discharges.” (Shuker 2001: 53)",
+  "function_addressed": [
+    "navigate through liquid",
+    "modify electric charge",
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/electric-organs-have-many-purposes/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "electric",
+    "organs",
+    "have",
+    "many",
+    "purposes"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

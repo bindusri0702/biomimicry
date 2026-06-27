@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-rock-ant-colonies-calculate-the-quality-of-nest-sites",
+  "organism_common": "Rock ant",
+  "organism_scientific": "",
+  "strategy_summary": "Rock ant colonies find better nests by calculating how much better a new site is on average compared to the old site. Rock ants live throughout Europe and make nests for shelter in the various cracks that form in rocks.",
+  "mechanism": "Rock ant colonies find better nests by calculating how much better a new site is on average compared to the old site.\n\nRock ants live throughout Europe and make nests for shelter in the various cracks that form in rocks. Individual scouts from a colony roam throughout an area near the nest in order to identify other potential nest sites that might be better than the existing one. If a better nest site is found, the entire colony will move to it. Rock ants determine if a potential nest site is superior based on how many scouts gather at the new potential site. If the number of scouts reaches a certain threshold, they will return to the colony and start moving to the new site.\n\nWhat determines whether a new site is better than the old one? Ants will look for a number of features, but they usually prefer nest sites that are darker because it offers more protection from harmful weather. If a new site is darker than the old one, it is relatively easy for ants to decide to make the switch. But what happens when the choice is less obvious? For example, a new site that’s under a tree might be completely dark for 75% of the time on a windy day, and light only 25% of the time. If the old nest site is only moderately dark 100% of the time, how do the ants decide whether to switch sites or not?\n\nThe question is similar to deciding where to go to dinner based on how many people are in two different restaurants. It makes sense to go to the fuller restaurant. But what if you know that one restaurant serves consistently mediocre food, while the other varies in quality between better-than-mediocre and worse? How does one decide then?\n\nRock ants are able to navigate this difficult situation by determining the average quality of a new nest site. If a new nest site is of good quality 75% of the time and poor 25% of the time, they will transfer from an old nest site that is consistently (100%) of mediocre quality. However, if a new nest site is of poor quality 75% of the time and good only 25% of the time, they won’t move. Rock ants are able to calculate the average quality of a variable nest site because more scouts eventually spend more time in nest sites that are of higher quality. Thus, the probability of enough scouts gathering in higher quality sites is greater than in lower quality sites (where scouts leave after shorter periods of time).\n\nRock ant scout leading another scout to a potential new nest site",
+  "function_addressed": [
+    "coordinate by self-organization"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/rock-ant-colonies-calculate-the-quality-of-nest-sites/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "rock",
+    "ant",
+    "colonies",
+    "calculate",
+    "quality",
+    "nest"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

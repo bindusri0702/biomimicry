@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-webs-react-to-electrically-charged-insects",
+  "organism_common": "Garden cross spider",
+  "organism_scientific": "",
+  "strategy_summary": "Threads that make up the orb-web of the cross spider experience deformation when a positively charged insect enters the neutral or negative field through electrostatic attraction. Cross spiders, also known as European garden spiders, belong to a group of spiders that are known for constructing orb-webs.",
+  "mechanism": "Threads that make up the orb-web of the cross spider experience deformation when a positively charged insect enters the neutral or negative field through electrostatic attraction.\n\nCross spiders, also known as European garden spiders, belong to a group of spiders that are known for constructing orb-webs. An orb-web experiences crossing in the center; please see the gallery for an example of an orb-web. It is believed that the silk threads of orb-webs remain at a neutral or slightly negative charge. Insects, such as honeybees, can collect positive charges when flying through the air or interacting with areas of high positive-ion concentration. If an insect develops a positive charge and flies or walks past an orb-web, the opposite charges interact electrostatically causing an immediate attraction. Threads on orb-webs of the cross spider have been observed to deform from their regular shape as a positively charged insect passes by. This may provide insight in a more sustainable way to capture pests in our gardens and maybe someday even our farm fields (without the use of harmful pesticides).To see for yourself, please view the research video",
+  "function_addressed": [
+    "manage impact",
+    "capture, absorb, or filter liquids",
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/webs-react-to-electrically-charged-insects/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "webs",
+    "react",
+    "electrically",
+    "charged",
+    "insects"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

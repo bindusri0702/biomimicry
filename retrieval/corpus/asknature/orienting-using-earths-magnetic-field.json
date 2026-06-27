@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-orienting-using-earths-magnetic-field",
+  "organism_common": "Magnetospirillum gryphiswaldense",
+  "organism_scientific": "",
+  "strategy_summary": "At winter’s end, somewhere in the Arctic, you look around to see the night sky dance with green bands of light that reflect on the snow below, painting the white landscape a deep jade. The aurora, or northern or southern lights, occur when high-energy particles from solar flares smash into gas molecules in our…",
+  "mechanism": "The magnet-directed movement of these aquatic bacteria is called “magnetotaxis.” It doesn’t pull bacteria along geomagnetic field lines like a magnet attracts metal, but only aligns their single-celled bodies with those lines. The bacteria must still wiggle their flagella to move forward or backward.\n\nMagnetite nanoparticles, like those found in magnetotactic bacteria, could become critical components of many nanotechnological innovations. Nanopumps could deliver drugs to specific cells in the body to improve their healing powers. Nanomachines might seek out and destroy individual tumor cells to treat people with cancer. Nanogenerators could create electricity from kinetic energy extracted from water molecules in ocean waves or air molecules in gusting wind.",
+  "function_addressed": [
+    "transform magnetic energy",
+    "navigate through liquid"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/orienting-using-earths-magnetic-field/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bacteria",
+    "ride",
+    "magnetic",
+    "field",
+    "lines"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

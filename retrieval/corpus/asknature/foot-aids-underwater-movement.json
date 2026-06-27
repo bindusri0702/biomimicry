@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-foot-aids-underwater-movement",
+  "organism_common": "Snails and slugs",
+  "organism_scientific": "",
+  "strategy_summary": "The foot of water snails helps them move upside down beneath the water's surface by creating small ripples in the mucus-water interface. A Red Ramshorn Snail  Lymnaea stagnalis  “A UC San Diego engineer has revealed a new mode of propulsion based on how water snails create ripples of slime to crawl upside down beneath…",
+  "mechanism": "The foot of water snails helps them move upside down beneath the water's surface by creating small ripples in the mucus-water interface.\n\nA Red Ramshorn Snail\n\nLymnaea stagnalis\n\n“A UC San Diego engineer has revealed a new mode of propulsion based on how water snails create ripples of slime to crawl upside down beneath the surface.\n\n“Eric Lauga, an assistant professor of mechanical and aerospace engineering at the Jacobs School of Engineering, recently published a paper … that explains how and why water snails can drag themselves across a fluid surface that they can’t even grip.\n\n“Based on Lauga’s research, the secret is in the slime. The main finding of Lauga’s research is that soft surfaces, such as the free surface of a pond or a lake, can be distorted by applying forces; these distortions can be exploited (by an animal, or in the lab) to generate propulsive forces and move. Some freshwater and marine snails crawl by ‘hanging’ from the water surface while secreting a trail of mucus. The snail’s foot wrinkles into little rippling waves, which produces corresponding waves in the mucus layer that it secretes between the foot and the air. Parts of the mucus film get squeezed while other parts are stretched, creating a pressure that pushes the foot forward.” (Jacobs School of Engineering News 2008)",
+  "function_addressed": [
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/foot-aids-underwater-movement/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "foot",
+    "aids",
+    "underwater",
+    "movement"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

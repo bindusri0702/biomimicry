@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-muscles-produce-energy-and-heat",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "Muscles are contractile tissues that produce force and cause motion through a process involving electrical impulses and metabolization of glucose, producing ATP and lactic acid. Longitudinal section of skeletal muscle.",
+  "mechanism": "Muscles are contractile tissues that produce force and cause motion through a process involving electrical impulses and metabolization of glucose, producing ATP and lactic acid.\n\nLongitudinal section of skeletal muscle.\n\nCross section of skeletal muscle.\n\n“The muscle consumes oxygen and fuel that can be transported via a circulation system; the muscle itself supports the chemical reaction that leads to mechanical work; electrochemical circuits can act as nerves, controlling actuation; some energy is stored locally in the muscle itself; and, like natural muscle, the materials studied…contract linearly.” (Madden 2006:1559)",
+  "function_addressed": [
+    "transform thermal energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/muscles-produce-energy-and-heat/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "muscles",
+    "produce",
+    "energy",
+    "heat"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

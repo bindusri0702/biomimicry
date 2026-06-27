@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-symbiosis-enables-growth-in-salty-soil",
+  "organism_common": "Egyptian clover",
+  "organism_scientific": "",
+  "strategy_summary": "Salty soil represents an extremely harsh environment for plant growth. It causes, among other challenges, an osmotic imbalance that prevents water uptake by roots, prevents the uptake of vital nutrients like nitrogen and phosphorous, and prevents the ability to maintain a proper sodium/potassium balance in the plant…",
+  "mechanism": "Certain mycorrhiza allow host plants to grow in soil that would normally be too salty for it in its pure state. For example, the fungal net associated with the berseem clover ( Trifolium alexandrinum ) effectively allows the plant to uptake water, nitrogen, phosphorous, and potassium using a number of biochemical means such as storing excess salt ions in vacuoles (internal storage spaces), putting the breaks on the transport of salt ions within the host plant, and tapping the surrounding soil for nutrients by extending the fungal network through a greater volume of soil than would be possible for the plant roots alone.\n\nAs we continue to develop land and clear it to grow crops, finding fertile areas to farm will become increasingly important. Understanding how nature overcomes challenges to grow plants in high-saline soils as well as other inhospitable environments will help us optimize land-usage. And it might not just be for farming. Perhaps we’d use challenging landscapes to grow plants strictly to absorb carbon dioxide from the atmosphere with the goal of mitigating climate change.",
+  "function_addressed": [
+    "cooperate/compete between different species",
+    "protect from chemicals",
+    "capture, absorb, or filter chemical entities"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/symbiosis-enables-growth-in-salty-soil/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "symbiosis",
+    "enables",
+    "growth",
+    "salty",
+    "soil"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

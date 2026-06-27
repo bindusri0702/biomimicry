@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-hairs-prevent-evaporation",
+  "organism_common": "Arid zone plants",
+  "organism_scientific": "",
+  "strategy_summary": "Hairs on arid zone plants reduce water loss to wind by creating a dense felt. “Another clever device is the dense hair felt which numerous plants of arid zones wear on their surfaces to reduce the loss of moisture to the wind.” (Tributsch 1984:186)",
+  "mechanism": "Hairs on arid zone plants reduce water loss to wind by creating a dense felt.\n\n“Another clever device is the dense hair felt which numerous plants of arid zones wear on their surfaces to reduce the loss of moisture to the wind.” (Tributsch 1984:186)",
+  "function_addressed": [
+    "protect from loss of liquids",
+    "protect from wind"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hairs-prevent-evaporation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hairs",
+    "prevent",
+    "evaporation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

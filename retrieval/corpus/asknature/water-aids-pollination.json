@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-water-aids-pollination",
+  "organism_common": "American eelgrass",
+  "organism_scientific": "",
+  "strategy_summary": "A tethered structure of the eelgrass flower draws in free-sailing male flowers for pollination by forming a dimple on the water surface. “Water celery has long narrow flat leaves that remain below the surface and absorb the oxygen and carbon dioxide they need from that dissolved in water around them.",
+  "mechanism": "A tethered structure of the eelgrass flower draws in free-sailing male flowers for pollination by forming a dimple on the water surface.\n\n“Water celery has long narrow flat leaves that remain below the surface and absorb the oxygen and carbon dioxide they need from that dissolved in water around them. It also exploits water in its pollination techniques. Its flowers are either male or female. The female flower opens its three petals while it is still underwater and then rises up towards the surface on a rapidly lengthening stem. The male bud makes the journey even more swiftly. Before it even opens, and while it is still some distance below the surface, it breaks off its stem and floats upwards. Once on the surface it unfurls its petals and erects twin stamens. With the stamens serving as sails, this tiny vessel is then wafted across the surface of the water…The female flower is also blown by the wind but it is anchored by its stem. As the breeze tugs at it, so its stem pulls it lower in the water, creating a dimple in the surface. The male ship, moving freely, sails into the dimple, toboggans down its slope and collides so violently with the female flower that the pollen is knocked out of its anthers. The female flower, having achieved fertilisation, then closes. Its stem tightens into a corkscrew, pulling it back beneath the surface. And there, safely underwater, it develops its seeds.” (Attenborough 1995:292-293)",
+  "function_addressed": [
+    "pollinate",
+    "regulate reproduction or growth",
+    "distribute solids",
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/water-aids-pollination/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "water",
+    "aids",
+    "pollination"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

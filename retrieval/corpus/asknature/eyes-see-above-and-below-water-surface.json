@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-eyes-see-above-and-below-water-surface",
+  "organism_common": "Foureyed fish",
+  "organism_scientific": "",
+  "strategy_summary": "Split eyes of the four-eyed fish allow it to see above and below the surface of the water simultaneously due to varying thickness in the lens. “Native to Caribbean lagoons, Anableps anableps is commonly known as the four-eyed fish because its two eyes are split by horizontal partitions into two halves, each of which…",
+  "mechanism": "Split eyes of the four-eyed fish allow it to see above and below the surface of the water simultaneously due to varying thickness in the lens.\n\n“Native to Caribbean lagoons, Anableps anableps is commonly known as the four-eyed fish because its two eyes are split by horizontal partitions into two halves, each of which has its own iris and retina. This unique optical construction lets the fish swim at the surface of the water, with the upper half of each eye scanning the air for predatory fish-eating birds, and the lower half peering down below the surface, in search of small fish to feed on…Despite each eye being partitioned, there is only one oval-shaped lens per eye. Because vision through water requires a thicker lens than vision through air, the fish’s eye is ingeniously adapted to fulfill two purposes, with the lower portion of each eye’s lens (through which the fish sees underwater) thicker than the upper portion (through which the fish sees in air).” (Shuker 2001:12-13)",
+  "function_addressed": [
+    "sense light (visible spectrum) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/eyes-see-above-and-below-water-surface/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "eyes",
+    "see",
+    "above",
+    "below",
+    "water",
+    "surface"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

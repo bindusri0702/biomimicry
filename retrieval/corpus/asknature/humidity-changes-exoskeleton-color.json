@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-humidity-changes-exoskeleton-color",
+  "organism_common": "Hercules beetle",
+  "organism_scientific": "",
+  "strategy_summary": "The exoskeleton of the Hercules beetle changes from green to black with increasing humidity using thin film interference by reversible modification of layer thickness. Provided with permission from Marie Rassart, Laboratoire de Physique du Solide, University of Namur, Belgium.",
+  "mechanism": "The exoskeleton of the Hercules beetle changes from green to black with increasing humidity using thin film interference by reversible modification of layer thickness.\n\nProvided with permission from Marie Rassart, Laboratoire de Physique du Solide, University of Namur, Belgium.\n\nProvided with permission from Marie Rassart, Laboratoire de Physique du Solide, University of Namur, Belgium.\n\nPhotos provided for use on AskNature by Seung-Yop Lee of Sogang University.\n\n“The Hercules beetle, Dynastes Hercules [sic] L., can change the colour of its elytra—horny fore-wings—from black to greenish yellow and back again to black all within a few minutes. It does this in a way previously unknown among insects. Apart from the reversible migrations of pigment granules in the iris cells, physiological or rapidly reversible colour changes are very rare in insects. Among beetles, Coptocyclia , Aspidomorpha , and many other Cassidinae can change the colour of their elytra by varying the amount of water in the cuticle and thereby the thickness of the thin films responsible for the interference colours.” (Hinton and Jarman 1972:160)\n\n“The elytra from dry specimens of the hercules beetle, Dynastes hercules appear khaki-green in a dry atmosphere and turn black passively under high humidity levels. New scanning electron images, spectrophotometric measurements and physical modelling are used to unveil the mechanism of this colouration switch. The visible dry-state greenish colouration originates from a widely open porous layer located 3μm below the cuticle surface. The structure of this layer is three-dimensional, with a network of filamentary strings, arranged in layers parallel to the cuticle surface and stiffening an array of strong cylindrical pillars oriented normal to the surface. Unexpectedly, diffraction plays a significant role in the broadband colouration of the cuticle in the dry state. The backscattering caused by this layer disappears when water infiltrates the structure and weakens the refractive index differences.” (Rassart et al. 2008:1)\n\n“The visible dry-state greenish coloration originates from a open porous layer located at 3 μm below the cuticle surface. This layer has three-dimensional photonic crystal structures, which are a network of filamentary strings, arranged in layers parallel to the cuticle surface [Fig. 1d]. In dry state, nanosized holes in the layer are occupied with air (refractive index 1) but the empty holes are filled with water (refractive index 1.33) under high humidity. The change in refractive index with respect to the humidity level induces the variation in the visible color.” (Kim et al. 2010:103701-1)\n\nPhysiological Colour Change in the Hercules Beetle H. E. HINTON & G. M. JARMAN Nature 238, 160-161 (21 July 1972) | doi:10.1038/238160a0; Received 24 December 1971",
+  "function_addressed": [
+    "sense atmospheric conditions",
+    "modify light/color"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/humidity-changes-exoskeleton-color/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "humidity",
+    "changes",
+    "exoskeleton",
+    "color"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

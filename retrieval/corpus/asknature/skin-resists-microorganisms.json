@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-skin-resists-microorganisms",
+  "organism_common": "Long-finned pilot whale",
+  "organism_scientific": "",
+  "strategy_summary": "The skin of pilot whales resists microorganisms thanks to microscopic pores and nanoridges, surrounded by a secreted enzymatic gel which denatures proteins and carbohydrates. “Christoph Baum and a team from the Hanover School of Veterinary Medicine in Germany have discovered that a pilot whale’s skin has a specialised…",
+  "mechanism": "The skin of pilot whales resists microorganisms thanks to microscopic pores and nanoridges, surrounded by a secreted enzymatic gel which denatures proteins and carbohydrates.\n\n“Christoph Baum and a team from the Hanover School of Veterinary Medicine in Germany have discovered that a pilot whale’s skin has a specialised nano-structure that stops the build-up of microscopic organisms such as barnacle larvae. They plan to mimic the idea in an anti-fouling paint. Baum and his team examined freeze-dried samples of pilot whale skin under a cryo-scanning electron microscope. They discovered a surface made up of tiny pores 0.1 micrometres across surrounded by raised ‘nanoridges’. In between the ridges is a rubber-like gel containing enzymes that denature proteins and carbohydrates. The gel, which oozes out of the gaps between skin cells, is replenished as the whale sheds its skin. Baum thinks that organisms such as bacteria and diatoms have trouble sticking to the ridge edges, which provide little purchase. And if they try hanging onto the gel the enzymes will attack them. Without these pioneers, larger creatures such as crustacean or mollusc larvae have a hard time colonising the whale’s skin. The group intends to patent a version of the pilot whale’s skin as a more eco-friendly alternative to existing anti-fouling paints. To copy the skin, Baum plans on using a variety of biodegradable materials.” (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "prevent fracture/rupture",
+    "modify material characteristics",
+    "chemically break down organic compounds",
+    "protect from microbes",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/skin-resists-microorganisms/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "skin",
+    "resists",
+    "microorganisms"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

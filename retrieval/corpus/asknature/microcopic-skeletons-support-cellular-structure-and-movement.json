@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-microcopic-skeletons-support-cellular-structure-and-movement",
+  "organism_common": "Dictyostelium discoideum amoeba",
+  "organism_scientific": "",
+  "strategy_summary": "Cytoskeletons of an amoeba change properties quickly by varying cross-links of actin polymer filaments in response to changing environmental cues. Imagine if our skeletal structure could change in response to immediate circumstance–bones thicken and solidify when supporting heavy loads or become lighter, more airy and…",
+  "mechanism": "Cytoskeletons of an amoeba change properties quickly by varying cross-links of actin polymer filaments in response to changing environmental cues.\n\nImagine if our skeletal structure could change in response to immediate circumstance–bones thicken and solidify when supporting heavy loads or become lighter, more airy and springy when jogging. While we can’t do that, single-celled organisms such as amoeba can. Actin polymer filaments, the basis of cellular skeletons (cytoskeleton), cross-link to each other in different ways to form a variety of network archictectures. Key players in this system are “actin binding protein s” (ABP) that cross-link actin filaments together. The amoeba, Dictyostelium discoideum , uses actin filament and ABPs to form structural materials with different shapes and properties for diverse functions such as locomotion, internal transport of nutrients, and reproduction. To play these various functional roles, actin fiber networks need to be quickly and repeatedly broken down and reformed. One way to control these changes is by varying pH levels. D. discoideum ‘s ABPs contain a high content of the amino acid , histidine, which makes the actin fiber networks susceptible to structural regulation by pH adjustment. The adjustment conditions that effect ABP positioning and concentration allow for the cell to change its cytoskeletal shape and properties in relatively short order.\n\nDictyostelium aggregation\n\nThe types of actin filament networks produced depend on the concentration of the binding proteins that cross-link filaments together. Figure 1 shows a protein cross-linking actin filaments. Figures 2a-d show filament networks produced with increasing protein concentration, respectively: weakly cross linked (2a), composite (2b), bundles (2c), and bundle cluster (2d).",
+  "function_addressed": [
+    "modify material characteristics",
+    "prevent fracture/rupture",
+    "chemically assemble polymers",
+    "regulate cellular processes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/microcopic-skeletons-support-cellular-structure-and-movement/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "microscopic",
+    "skeletons",
+    "support",
+    "cellular",
+    "structure",
+    "movement"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

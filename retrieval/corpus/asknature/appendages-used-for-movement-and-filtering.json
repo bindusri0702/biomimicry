@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-appendages-used-for-movement-and-filtering",
+  "organism_common": "Fairy shrimp",
+  "organism_scientific": "",
+  "strategy_summary": "The appendages of fairy shrimp and water fleas are used for both paddling movement and filter feeding because they are equipped with bristles, allowing them to operate at different Reynolds numbers for different functions. “In a series of studies, Mimi Koehl and her collaborators have looked at (among other things)…",
+  "mechanism": "The appendages of fairy shrimp and water fleas are used for both paddling movement and filter feeding because they are equipped with bristles, allowing them to operate at different Reynolds numbers for different functions.\n\n“In a series of studies, Mimi Koehl and her collaborators have looked at (among other things) the bristle-equipped appendages of tiny crustaceans [such as fairy shrimp and water fleas], as in fig. 6.4. These creatures swim with such appendages, using them as paddles – with a lot of semistagnant water around each bristle, an appendage can serve as a paddle. The creatures also use such appendages as rakes, filtering edible particles from the water around them. That requires the passage of water between the bristles. Paddle or rake? The appendages look pretty much alike. What determines how one can be used is the Reynolds number at which it operates. [Reynolds number is the ratio of inertial forces to viscous forces. An object with a low Reynolds number has difficulty moving across currents in a fluid. One with a high Reynolds number moves more freely.] Viscosity and density are givens; size and speed of motion provide the operative variables. Large and fast lets an appendage rake; small and slow promotes paddling.” (Vogel 2003:124)\n\nWater fleas (like the one seen here) and fairy shrimp are both small aquatic crustaceans of the class Branchiopoda.",
+  "function_addressed": [
+    "optimize shape/materials",
+    "adapt behaviors",
+    "physically assemble structure",
+    "capture, absorb, or filter solids",
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/appendages-used-for-movement-and-filtering/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "appendages",
+    "used",
+    "movement",
+    "filtering"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

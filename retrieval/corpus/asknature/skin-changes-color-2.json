@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-skin-changes-color-2",
+  "organism_common": "Short-horned chameleon",
+  "organism_scientific": "",
+  "strategy_summary": "Pigments and nanoscale structures collaborate to help chameleon change its look. The variety of colors that chameleons can display is produced through a combination of pigment s and structural colors.",
+  "mechanism": "Pigments and nanoscale structures collaborate to help chameleon change its look.\n\nThe variety of colors that chameleons can display is produced through a combination of pigment s and structural colors. Chameleon skin contains different types of chromatophore (color-bearing) cells organized in layers within the skin. The upper layer of skin contains cells with yellow and red pigments, while lower layers contain cells with dark melanin pigment, which appears black or brown. Just below the layer of yellow and red chromatophores is a layer of cells called iridophores (iridescent chromatophores) that produce structural color. Rather than containing pigment, iridophores contain an organized array of transparent, nano-sized crystals that reflect specific wavelengths of light. The reflected light is perceived as color.\n\nThe latest research on color-changing in chameleons reveals that they primarily change color by actively adjusting the spacing between these nanocrystals, which causes different wavelengths of light to be reflected. The crystal structures and pigments in chameleon skin both contribute to the overall color of the skin. For example, when blue light reflects off the crystal layer and travels through the yellow pigment above, the result humans see is the color green.\n\nResearchers are still investigating the function of changing skin color in chameleons, but more recent research suggests that chameleons change color to communicate with one another during social interactions.\n\nCheck out this video by KQED Deep Look to learn more about how chameleons change color, and about how researchers are building synthetic chameleon skin that mimics these lizards’ color-changing mechanism.\n\nThis content marked as “Google Youtube” uses cookies that you chose to keep disabled. Click here to open your preferences and accept cookies. .\n\nImage: Teyssier et al. 2015, doi:10.1038/ncomms7368 / toggle icon Image: Teyssier et al. 2015, doi:10.1038/ncomms7368 / toggle icon Image: Christopher Evans / Flickr / toggle icon Image: kuhnmi / Flickr / toggle icon right arrow right arrow\n\nSichuan University\n\nBio-based film from Sichuan University is made of a combination of polymers and cellulose nanocrystals that makes it both color-changing and flexible.\n\nUniversity of Illinois Urbana-Champaign\n\n3D printing process from University of Illinois, Urbana Champaign uses bottlebrush-shaped polymers to produce multiple colors from the same ink.",
+  "function_addressed": [
+    "modify light/color"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/skin-changes-color-2/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shifting",
+    "crystals",
+    "change",
+    "chameleons",
+    "color"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

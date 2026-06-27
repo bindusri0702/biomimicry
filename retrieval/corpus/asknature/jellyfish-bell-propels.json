@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-jellyfish-bell-propels",
+  "organism_common": "Move in/on Liquids",
+  "organism_scientific": "",
+  "strategy_summary": "The bell of lion’s mane jellyfish contracts in waves causing a jet of water to propel the jellyfish forward. The lion’s mane jellyfish ( Cyanea capillata ) grows to up to 2.3 meters (7 ft) across its bell, making it the largest jellyfish in the world.",
+  "mechanism": "The bell of lion’s mane jellyfish contracts in waves causing a jet of water to propel the jellyfish forward.\n\nThe lion’s mane jellyfish ( Cyanea capillata ) grows to up to 2.3 meters (7 ft) across its bell, making it the largest jellyfish in the world.\n\nLion’s mane jellyfish swim by jet propulsion. When the bell contracts, water is squeezed out, jetting the jellyfish in the opposite direction. On relaxing, fresh water flows back into the bell, enabling efficient feeding.\n\nThe bell is formed of eight lobes. There is a ring of muscle fibers near the center with 16 muscle rays that extend from the ring to the edge of the bell, two in each lobe. The radiating muscle fibers are attached to stiff buttresses, while the bell tissue is tough and elastic.\n\nThe jellyfish swims in several phases. First, the bell is flat or even inverted. Second, the ring of muscle contracts, pulling the edges of the disc down and in and ejecting a jet of water. Third, the radiating muscle fibers contract simultaneously, pulling against the buttresses and bringing the edge of the bell down to as much as 90 degrees from horizontal. Finally, the muscles relax and the elastic upper layer pulls the entire bell up and back to its original flat shape. The jellyfish has a nervous system that ensures all the muscle fibers contract at the right time, and it can control its swimming direction by contracting the radiating muscle fibers unequally.\n\nThe lion’s mane jellyfish is the largest species of jellyfish on the planet and can reach 2.5m across the bell\n\nNorth Carolina State University\n\nSoft robots from North Carolina State University use pre-stressed polymers that quickly release their energy to propel forward.",
+  "function_addressed": [
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/jellyfish-bell-propels/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "contracting",
+    "ring",
+    "muscle",
+    "propels",
+    "body",
+    "forward"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

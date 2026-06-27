@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-fur-keeps-heat-in-and-cold-water-out",
+  "organism_common": "Otters",
+  "organism_scientific": "",
+  "strategy_summary": "Many aquatic mammals face a serious physical challenge: they must stay warm while spending significant periods of time in extremely cold waters. Sea lions, walruses, and true seals have thick layers of blubber to keep them warm, while fur seals have much thinner layers, and otters do not have any blubber at all.",
+  "mechanism": "The pelts of all fur-bearing animals—whether they live on land or in the water—are actually made up of two different types of hair that grow in clusters together: guard hairs and underhairs. Underhairs are shorter and denser, with three or more underhairs growing in a follicle for every one guard hair. Guard hairs are longer, and usually extend out over the surrounding underhairs, creating a protective canopy for them.\n\nUnderstanding how fur keeps aquatic mammals warm could inform the development of insulation and clothing for wet environments and, in particular, for situations where people or objects are moving frequently into and out of water.",
+  "function_addressed": [
+    "maintain homeostasis",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fur-keeps-heat-in-and-cold-water-out/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fur",
+    "keeps",
+    "heat",
+    "cold",
+    "water",
+    "out"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

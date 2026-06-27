@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-reflector-causes-color-and-surface-change",
+  "organism_common": "Tortoise beetle",
+  "organism_scientific": "",
+  "strategy_summary": "The exoskeleton of the tortoise beetle changes color and reflective properties due to a chirped multilayer reflector filled with grooves that fill and empty of fluid to cover and reveal, respectively, the bottommost layer. When gazing upon the golden tortoise beetle one may think they are observing a dew drop on the…",
+  "mechanism": "The exoskeleton of the tortoise beetle changes color and reflective properties due to a chirped multilayer reflector filled with grooves that fill and empty of fluid to cover and reveal, respectively, the bottommost layer.\n\nWhen gazing upon the golden tortoise beetle one may think they are observing a dew drop on the surface of a leaf, for its metallic sheen gives off a reflective glare. One glance away, however, and one may think the beetle has disappeared to be replaced by a red lady beetle. Not to be fooled, this insect is the same one as before! Under the hard, transparent armor of the beetle is an intricate multilayer filled with a pattern of grooves. The layers become thicker farther down the layered column (a structure referred to as a “chirped” multilayer).\n\nMoisture causes humidity to fill these grooves. When the beetle is disturbed, in virtually any manner, the fluid in these grooves is displaced in the top-most parts of the multilayer thus revealing a deep, less-reflective red-color in the bottommost layer. This layer manifests a wide-angle diffusion, lacking the metallic properties that the gold coloring displayed. This type of morphism is explained using the “switchable mirror theory” where random porous patches provide a scattered pattern of space in which moisture may be displaced. This contradicts many well known theories where a “hydraulic mechanism” is used to explain color change when liquid is injected into an area (as opposed to displaced out of an area). The remarkable thing about the golden tortoise beetle is that it is able to toggle between these two very different colors and shading. The full mechanism is not entirely understood, but it is certain that if it could be understood, applications in the textile and sensory areas of development could benefit greatly.",
+  "function_addressed": [
+    "sense light (visible spectrum) from the environment",
+    "sense atmospheric conditions"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/reflector-causes-color-and-surface-change/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "reflector",
+    "causes",
+    "color",
+    "surface",
+    "change"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

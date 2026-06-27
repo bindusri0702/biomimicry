@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-starlings-coordinate-movements-within-a-flock",
+  "organism_common": "European starling",
+  "organism_scientific": "",
+  "strategy_summary": "Starlings stay together within a flock by paying attention to the movements of the seven other birds closest to it  When you are driving in a large group of cars to some destination, you only need to pay attention to the car driving directly ahead of you to stay in the group. But what if you were trying to stay…",
+  "mechanism": "Starlings stay together within a flock by paying attention to the movements of the seven other birds closest to it\n\nWhen you are driving in a large group of cars to some destination, you only need to pay attention to the car driving directly ahead of you to stay in the group. But what if you were trying to stay together with a whole group of cars, flying through the air together? This is what flocks of starlings must do. Starlings fly together in large groups, often every evening, circling through the same portion of sky almost as though for the fun of it. In fact, researchers are not even sure why starlings do these coordinated dances. Starlings are able to stay within inches of other starlings, in groups of hundreds or thousands of individuals, turning at high speeds, without ever colliding. How do they do this?\n\nImage: Biomimicry Institute / Copyright © - All rights reserved toggle icon\n\nStarlings are able to manage these high-performance acrobatics by paying close attention to the speed and direction of the other starlings around them. However, starlings don’t pay attention to all the other birds in the flock at once. A starling just needs to pay attention to the movements of the seven other starlings closest to it. Any fewer, and there’s not enough reliable information for a starling to maintain flying with precision within the flock. Any more, and there’s too much information to process quickly and make real-time decisions. It turns out that seven neighbors is the ideal number, regardless of how large or dense the flock is.\n\nThe way starlings coordinate their behavior with an optimal amount of information has many lessons for people. We have to make decisions often with too much information at our fingertips. How much information is enough? Starlings remind us that there is a balance between having enough good information to make decisions, and learning to filter out the rest.\n\nUniversity of Trieste\n\nEfficient search algorithm from University of Trieste uses a combination of individual and neighboring data to improve the detection of harmful substances.",
+  "function_addressed": [
+    "coordinate by self-organization"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/starlings-coordinate-movements-within-a-flock/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "starlings",
+    "coordinate",
+    "movements",
+    "within",
+    "flock"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

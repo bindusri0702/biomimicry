@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-stalk-structure-improves-feeding-position",
+  "organism_common": "Clonal plumose anemone",
+  "organism_scientific": "",
+  "strategy_summary": "The stalk of a tall sea anemone maximizes the anemone's feeding postion by bending at its narrowest part, just below its crown of tentacles. Clonal plumose anemone, various degrees of bending.",
+  "mechanism": "The stalk of a tall sea anemone maximizes the anemone's feeding postion by bending at its narrowest part, just below its crown of tentacles.\n\nClonal plumose anemone, various degrees of bending.\n\n{{fr|1=Les aquariums}}\n\n“In some cases, nature capitalizes on the way hollow tubes bend. A tall sea anemone, Metridium , has an area of its columnar body just beneath the crown of tentacles that is narrower than anywhere else, as in figure 18.9. The material properties of the stalk don’t vary, but when a gentle water current is present, the stalk bends at this point rather than at the bottom, and the tentacles are exposed broadside to the flow in the best position for feeding on suspended matter (Koehl 1977b). It doesn’t take much narrowing to concentrate the bending–I [the second moment of area], as equation (18.1) shows, depends strongly on radius.” (Vogel 2003:376)",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "modify position"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/stalk-structure-improves-feeding-position/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "stalk",
+    "structure",
+    "improves",
+    "feeding",
+    "position"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

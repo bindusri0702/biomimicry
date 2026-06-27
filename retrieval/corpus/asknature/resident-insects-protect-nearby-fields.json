@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-resident-insects-protect-nearby-fields",
+  "organism_common": "Insects",
+  "organism_scientific": "",
+  "strategy_summary": "Herbivorous insects in hedgerows in Bavaria help protect nearby wheat fields from aphids by attracting generalist predators that feed on them as well as the aphids. “Hedgerows along the borders of fields in Bavaria date back hundreds of years.",
+  "mechanism": "Herbivorous insects in hedgerows in Bavaria help protect nearby wheat fields from aphids by attracting generalist predators that feed on them as well as the aphids.\n\n“Hedgerows along the borders of fields in Bavaria date back hundreds of years. In a land where most forests have been converted to timber plantations, these hedgerows now represent Germany’s most diverse woody vegetation, containing as many as thirty species of woody plants. They also serve as prime habitat for herbivorous insects, most of which are highly specialized feeders that have no interest in nearby crops. Instead, their presence attracts generalist predators and parasites, which not only feast on them but consume aphids in the neighboring grain fields. Because of these insects, northeast Bavaria is one of the few parts of Germany where farmers have no need to spray for wheat aphids.” (Baskin 1997:65)",
+  "function_addressed": [
+    "protect from animals",
+    "biological control of populations, pests, diseases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/resident-insects-protect-nearby-fields/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "resident",
+    "insects",
+    "protect",
+    "nearby",
+    "fields"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

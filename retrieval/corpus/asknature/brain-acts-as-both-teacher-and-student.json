@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-brain-acts-as-both-teacher-and-student",
+  "organism_common": "Zebra finch",
+  "organism_scientific": "",
+  "strategy_summary": "Two brain regions in zebra finches act as \"student\" and \"tutor\" to learn songs efficiently. For zebra finches, music is what determines whether they will keep their genetic legacy alive or be erased from the gene pool.",
+  "mechanism": "Two brain regions in zebra finches act as \"student\" and \"tutor\" to learn songs efficiently.\n\nFor zebra finches, music is what determines whether they will keep their genetic legacy alive or be erased from the gene pool. That makes the month during which a zebra finch learns to sing the song demonstrated by its father the most important month of its life. With such high stakes, finding the perfect tutor is essential. As it turns out, the finch’s own brain might be the best teacher of all. Scientists have found that one part of the brain, deemed the “tutor,” teaches another part of the brain, the “student,” in a coordinated effort to improve performance of the finch’s song.\n\nBirds, like musicians, hone their songs through practice. Zebra finches sing, compare what they hear to a memory of the song, and adjust the parts that are not quite right. The student part of the brain changes its control on the respiratory muscles used to sing to make adjustments to the song. However, it is the tutor part of the brain that decides what these changes should be.\n\nMuch like in humans, each brain region has its own learning style. The criteria that help a region learn best follow a set of rules that facilitate communication between neurons. These rules are vital for learning, and different parts of the brain have different rules. If the tutor region sends information to a student region based on the wrong set of criteria, the performance will be dreadful. It would be like trying to teach in French to a class that only understands Russian.\n\nIn this circuit, however, it is not only the student that learns. The teaching signal must balance its lessons on multiple levels. Sometimes, it is best to correct an erroneous sound immediately. Other times, a broader correction on the song as a whole is more helpful. The tutor part of the brain receives feedback about how well it is teaching and adapts accordingly. Simply put, while the tutor is helping the student learn to sing, the tutor is also learning how to be a more effective instructor. Given the rules that the student region needs to succeed, the teaching signal adapts within those constraints to improve the zebra finch’s song.\n\nWhat works in a zebra finch’s brain can also lead to success in the human classroom. Consistent feedback on the effectiveness of an instructor’s efforts towards a student, and the ability to make adjustments accordingly, can lead to more effective teaching than when only the student’s performance is evaluated, and the teaching method remains static.\n\nAdult zebra finches\n\nZebra finch singing\n\nBirds\n\nBirds evaluate external threats, their previous success, and the success of others in determining where and how to build their nests.",
+  "function_addressed": [
+    "send electrical/magnetic signals",
+    "learn",
+    "encode/decode",
+    "differentiate signal from noise",
+    "transduce/convert signals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/brain-acts-as-both-teacher-and-student/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "feedback",
+    "loop",
+    "brain",
+    "teach",
+    "itself",
+    "quickly"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

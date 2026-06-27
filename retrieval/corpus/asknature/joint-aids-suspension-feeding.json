@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-joint-aids-suspension-feeding",
+  "organism_common": "Gurney's sea pen",
+  "organism_scientific": "",
+  "strategy_summary": "A joint in sea pens enhances suspension feeding by allowing them to twist to face the current. “Twisting about a lengthwise axis only.",
+  "mechanism": "A joint in sea pens enhances suspension feeding by allowing them to twist to face the current.\n\n“Twisting about a lengthwise axis only. This kind of joint, rare in nature, turns up in sea pens ( Ptilosarcus ), which stand unbent on bay bottoms and rotate so they face the current (Best 1988). The ascidian, Styela …does much the same thing (Young and Braithwaite 1980)–and for the same reason, taking advantage of ambient currents for suspension feeding. Pushing up the twistiness-to-bendiness ratio of a cylinder, of course, restricts bending relative to twisting and thus encourages just this kind of specific torsional flexibility, but without an absolute prohibition on hinge action and without a discrete joint.” (Vogel 2003:403)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "manage turbulence"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/joint-aids-suspension-feeding/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "joint",
+    "aids",
+    "suspension",
+    "feeding"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

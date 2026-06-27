@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-lateral-line-system-acts-as-sonar",
+  "organism_common": "Fish",
+  "organism_scientific": "",
+  "strategy_summary": "Neuromasts of the lateral line system of fish help them navigate by sensing their own waves, reflected back from surrounding objects, which are deflected by minute sensory cells embedded in jelly. Rutilus rutilus (common roach), head of adult, Rotterdam, the Netherlands.",
+  "mechanism": "Neuromasts of the lateral line system of fish help them navigate by sensing their own waves, reflected back from surrounding objects, which are deflected by minute sensory cells embedded in jelly.\n\nRutilus rutilus (common roach), head of adult, Rotterdam, the Netherlands. Notice the red eye and the holes in the scales on the lateral line.\n\nRutilus rutilus, some scales of the lateral line\n\n“The lateral line system is a kind of underwater sonar and is very similar to the sonar-based navigation system employed by bats. But instead of listening to ultrasonic squeaks bouncing back from solid objects, the fish is able to feel the movement of water reflected back against its body from objects around it. The lateral line system consists of a horizontal groove running along each flank and onto the head, where it splits into three shorter grooves. Within each groove is a line of tiny sense organs known as neuromasts. A neuromast consists of several minute sensory cells whose hairs are embedded together within a triangular tongue of jelly called a cupula. As a fish swims, its movements create ripples or waves in the water that travel outward until they make contact with an object in the fish’s surroundings, whereupon they bounce back toward the fish. The returning vibrations are deflected by the neuromasts’ cupulae, thereby stimulating nerve connections to the brain, which give the fish sophisticated information about its surroundings. Neuromasts also cover the entire surface of a fish’s skin, and can serve as normal touch receptors, responding to physical contact with objects as well as vibrations.” (Shuker 2001: 34)",
+  "function_addressed": [
+    "navigate through liquid"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/lateral-line-system-acts-as-sonar/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "lateral",
+    "line",
+    "system",
+    "acts",
+    "sonar"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

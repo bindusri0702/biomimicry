@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-compounds-protect-from-extreme-cold",
+  "organism_common": "Antarctic springtail",
+  "organism_scientific": "",
+  "strategy_summary": "The body of Cryptopygus antarcticus functions in extreme cold via anti-freeze compounds. “ Onychiurus arcticus (from the Arctic) uses protective dehydration to survive harsh Arctic winters.",
+  "mechanism": "The body of Cryptopygus antarcticus functions in extreme cold via anti-freeze compounds.\n\n“ Onychiurus arcticus (from the Arctic) uses protective dehydration to survive harsh Arctic winters. This means that water is lost from the body across a diffusion gradient between the animals’ super-cooled body fluids and ice in the surroundings. ‘During this process the body loses all its water and you end up with a normal looking head, and a body which looks like a crumpled up crisp packet when it is fully dehydrated. But add a drop of water and it all goes back to normal!’ explains Dr Clark [Dr. Melody Clark, from the British Antarctic Survey]. Scientists examined the different stages of this process to see which genes were activated.\n\n“ Cryptopygus antarcticus lives in the Antarctic and uses a different mechanism to survive cold temperatures. These creatures accumulate anti-freeze compounds which lower the temperature at which their bodies freeze, meaning they can withstand temperatures as low as minus 30°C. Within this population there is a clear divide into less- and more-cold hardened animals, which has been a puzzle to researchers. However, by looking for differences in gene expression levels between the two populations, scientists think that there could be a link to moulting (this is the process by which arthropods shed their exoskeleton).” (Dugan 2007)\n\nDugan G. 2007 April 2. Natural anti-freeze — how arthropods survive the cold. <http://www.eurekalert.org/pub_releases/2007-04/sfeb-na032907.php>. Accessed 2007 April 2.",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/compounds-protect-from-extreme-cold/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "compounds",
+    "protect",
+    "extreme",
+    "cold"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

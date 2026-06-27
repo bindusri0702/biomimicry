@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-folding-improves-flexibility-and-rigidity",
+  "organism_common": "European hornbeam",
+  "organism_scientific": "",
+  "strategy_summary": "Leaves of the hornbeam tree have a corrugated fold pattern that allows for a balance between flexibility and rigidity. As the sites of photosynthesis , leaves serve a critical function of the plant.",
+  "mechanism": "Leaves of the hornbeam tree have a corrugated fold pattern that allows for a balance between flexibility and rigidity.\n\nAs the sites of photosynthesis , leaves serve a critical function of the plant. However, because of their location on the edges of branches, leaves are also particularly susceptible to damage from the wind. A leaf can mitigate wind damage by bending or folding, which minimizes surface area exposure. However, leaves must also be able to stay flat and rigid, to maximize sun absorption for photosynthesis. Thus, leaves must find a compromise between a flexible state that protects from wind damage, and a rigid state that allows the leaf to maximize surface area exposure.\n\nOne way to achieve this balance is to use a simple corrugation pattern of alternating crest and valley folds, as is found in the leaves of the hornbeam tree. These folds emanate from both sides of the center vein and repeat along the length of the leaf. The valley folds allow space for the leaf to bend in on itself when needed, so as to minimize surface area and exposure to wind damage. The crest folds allow the leaf to sustain a rigid shape when required for photosynthesis. Together, this corrugation pattern allows the leaf to be self-supporting without compromising flexibility.\n\nHornbeam leaves folded as a bud, and fully formed showing their corrugated leaves.\n\nDiagram showing the bi-directional folding capability of the hornbeam leaf, due to its corrugated fold pattern.",
+  "function_addressed": [
+    "modify size/shape/mass/volume"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/folding-improves-flexibility-and-rigidity/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "folding",
+    "improves",
+    "flexibility",
+    "rigidity"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

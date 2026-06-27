@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-blood-cells-protect-from-dehydration",
+  "organism_common": "Dromedary camel",
+  "organism_scientific": "",
+  "strategy_summary": "The red blood cells of the dromedary camel protect it from dehydration because the oval-shaped cells can circulate even in thick blood and can significantly expand during rehydration. The dromedary camel is incredibly well-adapted to hot, arid climates.",
+  "mechanism": "The red blood cells of the dromedary camel protect it from dehydration because the oval-shaped cells can circulate even in thick blood and can significantly expand during rehydration.\n\nThe dromedary camel is incredibly well-adapted to hot, arid climates. The camel can go days without drinking water, surviving extreme dehydration and safely losing 40% of its body weight in water. This ability is, in part, due to uniquely oval red blood cells (which carry oxygen). The long axis of these oval cells is oriented with the flow of blood, enabling the cells to cross over the smallest of blood vessels, even when blood thickens during times of dehydration.\n\nAdditionally, the camel’s red blood cells are capable of expanding up to 240% of their original volume without rupturing; most animals’ cells can expand only 150%. This makes it possible for the camel to drink the necessarily large amount of water to recover from dehydration.",
+  "function_addressed": [
+    "distribute liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/blood-cells-protect-from-dehydration/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "blood",
+    "cells",
+    "protect",
+    "dehydration"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

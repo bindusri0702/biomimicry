@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-enyzme-complexes-burn-hydrocarbons-for-energy",
+  "organism_common": "Pseudomonas putida",
+  "organism_scientific": "",
+  "strategy_summary": "Membrane-bound enzymes produced by the bacteria Pseudomonas putida produce energy from trapped hydrocarbon-based substrates by producing oxygen free radicals that break down the substrates. Hydrocarbon-based substances like gasoline and parrafin wax do not spontaneously combust with air under normal circumstances.",
+  "mechanism": "Membrane-bound enzymes produced by the bacteria Pseudomonas putida produce energy from trapped hydrocarbon-based substrates by producing oxygen free radicals that break down the substrates.\n\nHydrocarbon-based substances like gasoline and parrafin wax do not spontaneously combust with air under normal circumstances. An intense, focused energy input (e.g., a spark) is required to overcome the activation energy for the overall energy-releasing reaction. In some organisms, the oxygen-mediated break down of hydrocarbons and the accompanying release of energy is not activated by intense, focused heat; instead it is activated by enzymes and oxygen free-radicals.\n\nThe bacterium Pseudomonas putida oxidizes various alkanes primarily with a membrane-bound enzyme called AlkB that forms a hydrophobic pocket attractive to hydrocarbon-based substrates. The enzyme converts oxygen to free radicals to break down the trapped substrates. This process is capable of providing net energy input for the bacteria. Potential substrates include propane, n-butane, and other alkanes with carbon lengths between 5 and 13. That includes many hydrocarbon components of crude oil.",
+  "function_addressed": [
+    "modify electron transport",
+    "modify oxidation state",
+    "modify free radical reactivity",
+    "chemically generate flow of electrons (redox)",
+    "chemically break down inorganic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/enyzme-complexes-burn-hydrocarbons-for-energy/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "enyzme",
+    "complexes",
+    "hydrocarbons",
+    "energy"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-clapping-used-for-underwater-movement",
+  "organism_common": "Rough fileclam",
+  "organism_scientific": "",
+  "strategy_summary": "The shells of the rough fileclam aid movement through water via jet propulsion. “When danger threatens, this scallop claps its shells together and darts through the water, like a pair of castanets with a life of their own.” (Downer 2002:14)",
+  "mechanism": "The shells of the rough fileclam aid movement through water via jet propulsion.\n\n“When danger threatens, this scallop claps its shells together and darts through the water, like a pair of castanets with a life of their own.” (Downer 2002:14)",
+  "function_addressed": [
+    "move in/on liquids",
+    "expel liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/clapping-used-for-underwater-movement/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "clapping",
+    "used",
+    "underwater",
+    "movement"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

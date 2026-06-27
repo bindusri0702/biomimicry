@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-nest-sheds-water",
+  "organism_common": "Lesser banded hornet",
+  "organism_scientific": "",
+  "strategy_summary": "Nest of tropical hornet sheds water via conical roof. “The conical shape of the [nest of the] tropical hornet Vespa affinis leads rain water efficiently away from the nest.” (Pallasmaa 1995:12)",
+  "mechanism": "Nest of tropical hornet sheds water via conical roof.\n\n“The conical shape of the [nest of the] tropical hornet Vespa affinis leads rain water efficiently away from the nest.” (Pallasmaa 1995:12)",
+  "function_addressed": [
+    "protect from excess liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/nest-sheds-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "nest",
+    "sheds",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

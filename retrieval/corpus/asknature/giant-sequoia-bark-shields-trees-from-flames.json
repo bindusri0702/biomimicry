@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-giant-sequoia-bark-shields-trees-from-flames",
+  "organism_common": "Giant sequoia",
+  "organism_scientific": "",
+  "strategy_summary": "Giant sequoias ( Sequoiadendron giganteum ) can reach heights of over 300 feet (91 meters) and live for more than 3,000 years, making them some of the tallest and oldest trees on the planet. Native to the western slopes of California’s Sierra Nevada mountains, giant sequoias thrive in montane forests where periodic…",
+  "mechanism": "The bark of the giant sequoia is incredibly thick––sometimes measuring up to two feet––and plays a crucial role in protecting the tree from fire. It consists of two primary layers: a dense inner bark (bast) and a thick outer bark (rhytidome). The outer bark is characterized by a high fiber content arranged in a three-dimensional network, with fibers intersecting at various angles. This intricate layering creates air-filled cavities within the bark, which serve as insulation by dissipating heat and reducing its transfer to the tree’s vital inner tissues.\n\nThe fibrous and spongy nature of the bark further contributes to its poor conductivity, making it an effective barrier against the intense heat of wildfires. When a fire passes through, the outer bark may char, but the heat usually doesn’t reach the living tissue underneath. This means that even during intense wildfires, the tree’s cambium layer (which transports nutrients and allows the tree to grow) remains unharmed.\n\nAnother important feature is the bark’s low flammability. Unlike other trees that produce sticky, flammable resins, giant sequoia bark is dry. When exposed to fire, the bark chars slowly rather than bursting into flames. This slow charring process forms a protective crust that shields the rest of the tree from additional heat.\n\nThe cambium continuously produces new cells that differentiate into inner bark (phloem) and outer bark tissues. When the outer bark is damaged by fire or other environmental factors, the cambium responds by generating new layers of bark over time, effectively sealing wounds and restoring the tree’s defense against future threats. This natural combination of thick insulation, physical toughness, slow-burning material, and self-repair allows these trees to survive––and even benefit from––the fires that are part of their forest ecosystem.\n\nThe fire-resistant bark of the giant sequoia offers powerful inspiration for developing safer, more resilient materials and structures. By mimicking the tree’s thick, fibrous layers and insulating air pockets, we can create building materials that slow heat transfer and resist ignition––valuable traits for homes and infrastructure in wildfire-prone regions. The concept of a protective outer layer that chars slowly and shields what lies beneath could also be applied to a variety of designs. Additionally, the tree’s ability to recover from fire damage by growing new protective layers suggests possibilities for self-healing materials that extend the life and safety of products.",
+  "function_addressed": [
+    "manage mechanical wear",
+    "protect from temperature",
+    "protect from fire"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/giant-sequoia-bark-shields-trees-from-flames/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "giant",
+    "sequoia",
+    "bark",
+    "shields",
+    "trees",
+    "flames"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

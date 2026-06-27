@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-flower-structures-protect-pollen",
+  "organism_common": "Protect From Excess Liquids",
+  "organism_scientific": "",
+  "strategy_summary": "Structures of flowers protect their pollen from rain by various physical structures. Yun-Yun Mao and Shuang-Quan Huang of Wuhan University in China studied the response to rain and water of 80 species of flowers.",
+  "mechanism": "Structures of flowers protect their pollen from rain by various physical structures.\n\nYun-Yun Mao and Shuang-Quan Huang of Wuhan University in China studied the response to rain and water of 80 species of flowers. Their work revealed that many flowers have different shapes and structures to prevent their pollen from getting wet. Other flowers developed waterproof pollen instead.\n\nOf the 80 species studied, 20 produce flowers that completely protect their pollen. Some plants shelter their pollen grains through a change in floral orientation or closing their corolla on rainy days. For example, tulip flowers close their petals rapidly when rains come. Some plants have flowers that droop downward, while others have outlets in the base of the flower that let water quickly drain away. But 44 of the 80 species expose their pollen completely, giving it no protection. Of these species, 13 produce pollen that is highly resistant to water, suggesting they have evolved an alternative way to deal with the rain.\n\nVideo courtesy Moving Art by Louie Schwartzberg\n\nImage: randomix / toggle icon",
+  "function_addressed": [
+    "protect from excess liquids",
+    "modify size/shape/mass/volume",
+    "modify position",
+    "adapt phenotype"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/flower-structures-protect-pollen/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flower",
+    "structures",
+    "protect",
+    "pollen"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

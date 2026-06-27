@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-multiple-legs-allow-sudden-stops",
+  "organism_common": "Insects",
+  "organism_scientific": "",
+  "strategy_summary": "Insects can stop dead without falling over because three legs are always on the ground while moving. “Extra legs do not help an animal to move faster.",
+  "mechanism": "Insects can stop dead without falling over because three legs are always on the ground while moving.\n\n“Extra legs do not help an animal to move faster. The millipede is slow for all its legs – in fact, if it hurries it is liable to trip over its own feet! Insects have six legs and tend to have three of them on land at any given moment while moving; they can therefore stop dead without falling over.” (Foy and Oxford Scientific Films 1982:46)",
+  "function_addressed": [
+    "move in/on solids",
+    "modify speed"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/multiple-legs-allow-sudden-stops/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "multiple",
+    "legs",
+    "allow",
+    "sudden",
+    "stops"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

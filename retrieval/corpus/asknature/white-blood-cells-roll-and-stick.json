@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-white-blood-cells-roll-and-stick",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "White blood cells of mammals roll along blood vessel walls, and anchor when they find an infection or cell damage via cell-adhesion molecules (CAMs) with variable affinity. “Dan Hammer of the Univ.",
+  "mechanism": "White blood cells of mammals roll along blood vessel walls, and anchor when they find an infection or cell damage via cell-adhesion molecules (CAMs) with variable affinity.\n\n“Dan Hammer of the Univ. of Pennsylvania in Philadelphia is studying how white blood cells roll their way through the bloodstream, yet are able to anchor themselves where they are needed. He hopes that if he can devise materials that mimic the cells’ roll-and-stick ability, he’ll be able to devise a new targeted drug-delivery system. White blood cells have surface proteins called selectins that stick out of the cell surface. Fluid pushes the cell along–bonds form in front and are broken in the back, resulting in the cartwheeling motion.” (Courtesy of the Biomimicry Guild)\n\nWatch video",
+  "function_addressed": [
+    "move in/on liquids",
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/white-blood-cells-roll-and-stick/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "white",
+    "blood",
+    "cells",
+    "roll",
+    "stick"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

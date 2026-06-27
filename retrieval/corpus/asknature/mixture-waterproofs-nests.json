@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-mixture-waterproofs-nests",
+  "organism_common": "Chinese paper wasp",
+  "organism_scientific": "",
+  "strategy_summary": "When it comes to building homes, people have a lot in common with wasps. Both use a variety of materials––wood, stone, straw, grass, leaves, and so on––to construct shelters that will protect them from the elements.",
+  "mechanism": "Instead, wasps work with what they have. And they have saliva. The sticky, glue-like substance helps them to build water-resistant nests by forming a quick-drying, glue-like matrix. The saliva is primarily protein with a high proline content. When mixed with the cellulose in plant matter a wasp chews, it dries quickly and irreversibly to a water insoluble, water repellant surface. This allows the wasp to build a nest that will stand up to the rigors of weather and the elements.\n\nThe quick-drying, water-resistant properties of wasp saliva could inspire the creation of more natural adhesives for a variety of applications. Furthermore, the saliva itself, or a similar human-developed substance, could be mixed with plant matter or other materials to create lightweight, highly adaptable building materials for human applications.",
+  "function_addressed": [
+    "chemically break down organic compounds",
+    "protect from excess liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mixture-waterproofs-nests/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mixture",
+    "waterproofs",
+    "nests"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

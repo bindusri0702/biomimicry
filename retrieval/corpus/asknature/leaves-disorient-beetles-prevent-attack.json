@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-leaves-disorient-beetles-prevent-attack",
+  "organism_common": "Garden cucumber",
+  "organism_scientific": "",
+  "strategy_summary": "The leaves of cucumbers prevent infestation by beetles by releasing a chemical that mimics that of female beetles, disorienting the males. “Under normal conditions, for example, a young cucumber plant can disorient many of the small beetles that live on its leaves.",
+  "mechanism": "The leaves of cucumbers prevent infestation by beetles by releasing a chemical that mimics that of female beetles, disorienting the males.\n\n“Under normal conditions, for example, a young cucumber plant can disorient many of the small beetles that live on its leaves. The male beetles need to find mates at one time or another in the summer and, being short-sighted, they do so by sniffing for the distinctive chemical cloud which a female of their species produces. A healthy cucumber–one that’s well spaced from its fellow plants—is quite capable of producing a cunning duplicate of that chemical. It sprays the stuff out all around the male beetle. The insect turns about in place, desperately trying to find the true location of its mate in the rising haze. The male fails to find her, or at least gets delayed, and the cucumber is less likely to be chewed by hordes of baby beetles.” (Bodanis 1992:81)",
+  "function_addressed": [
+    "protect from animals",
+    "send chemical signals (odor, taste, etc.)",
+    "biological control of populations, pests, diseases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-disorient-beetles-prevent-attack/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "disorient",
+    "beetles",
+    "prevent",
+    "attack"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

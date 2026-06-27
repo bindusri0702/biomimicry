@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-quills-resist-buckling",
+  "organism_common": "Porcupine",
+  "organism_scientific": "",
+  "strategy_summary": "Quills of porcupines resist buckling because they are made of a dense outer shell surrounding an elastic, honeycomb-like core. “Thin walled cylindrical shell structures are widespread in nature: examples include porcupine quills, hedgehog spines and plant stems.",
+  "mechanism": "Quills of porcupines resist buckling because they are made of a dense outer shell surrounding an elastic, honeycomb-like core.\n\n“Thin walled cylindrical shell structures are widespread in nature: examples include porcupine quills, hedgehog spines and plant stems. All have an outer shell of almost fully dense material supported by a low density, cellular core. In nature, all are loaded in some combination of axial compression and bending: failure is typically by buckling. Natural structures are often optimized. Here we have investigated and characterized the morphology of several natural tubular structures. Mechanical models recently developed to analyze the elastic buckling of a thin cylindrical shell supported by a soft elastic core (G.N. Karam and L.J. Gibson, Elastic buckling of cylindrical shells with elastic cores, I: Analysis, submitted to Int. J. Solids Structures, 1994 , G.N. Karam and L.J. Gibson, Elastic buckling of cylindrical shells with elastic cores, II: Experiments, submitted to Int. J. Solids Structures, 1994 ) were used to study the mechanical efficiency of these natural structures. It was found that natural structures are often more mechanically efficient than equivalent weight hollow cylinders. Biomimicking of natural cylindrical shell structures may offer the potential to increase the mechanical efficiency of engineering structures.” (Karam and Gibson 1994:113)",
+  "function_addressed": [
+    "prevent buckling"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/quills-resist-buckling/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "quills",
+    "resist",
+    "buckling"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

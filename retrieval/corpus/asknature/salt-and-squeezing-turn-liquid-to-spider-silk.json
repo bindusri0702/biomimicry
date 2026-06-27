@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-salt-and-squeezing-turn-liquid-to-spider-silk",
+  "organism_common": "Spiders",
+  "organism_scientific": "",
+  "strategy_summary": "Perched on a dewy leaf on a warm summer’s dawn, an orb-weaving spider begins her work for the day. Pushing proteins from her body, she produces a fine fiber that sticks to the surface of the leaf.",
+  "mechanism": "At first glance, spinning spider silk thread may not seem a remarkable feat. Microscopy and chemistry have enabled humans to look closer though, and see it for the natural wonder that it is. For one thing, spiders store the protein s that make up the fiber in liquid form inside their bodies, preventing them from hardening into a fiber there. Second, the fiber itself takes on a variety of traits, with variations in thickness, stickiness, stretchiness, and other characteristics depending on how the fiber is “pultruded,” or pulled from a spider’s body as the spider moves away from an end that’s stuck to a surface.\n\nHow do spiders do it? It all has to do with the design of the silk’s protein molecules, the solutions they’re stored in, and the way they’re molded as they pass through a spider’s silk ducts.\n\nWhile silk proteins vary between spider species, they all appear to share a particularly important region called a “salt bridge.” Salt bridges are pairs of protein regions that are oppositely charged and therefore attracted to one another. Salt bridges help to stabilize the proteins and keep them folded. At lower pH levels, the salt bridge becomes unstable, and the protein structure can start to unfold.\n\nWhen the liquid silk is pulled from inside the spider, it goes through the spinning duct, which is a narrow tunnel. Large, folded proteins can’t fit through, so they must be unfolded. As the protein moves through the duct, the enzyme carbonic anhydrase helps to create a pH gradient that is slowly lowered from about 8 to about 5.7 (becoming more acidic). It does this by catalyzing the conversion of carbon dioxide and water into carbonic acid, and vice versa. This reduction in pH causes the salt bridges to come apart. This allows the protein to start unfolding into a more linear configuration that can more easily move through the spinning duct.\n\nThe narrow duct also creates shear forces that physically force the unfolded protein molecules into elongated shapes that can more easily line up in parallel to one another. This is an essential part of the spinning process, as it allows the viscous, protein-filled solution to flow more easily through the spinning duct, reducing the energy requirements for spinning. Some sections of the silk connect many times over with bonds forming between them like rungs between two sides of a ladder (a structure called a “beta sheet”). Other sections only connect end-to-end. The resulting structure is then both very strong and very stretchy, giving the finished silk its famous properties, perfect for capturing dinner.\n\nPotential applications of a spider’s ability to turn a liquid into a durable fiber are all but endless. Most directly, the process could be applied to make thread that can be woven into fabrics for clothing, household goods, and more without the need for high temperatures, harsh chemicals, or other environmentally unfriendly inputs or byproducts.\n\nBecause so many details of the pultrusion process—speed, chemical environment, and more—affect the characteristics of the final product, spider silk production can be also applied to making fibers that conform to very particular specifications necessary for technical uses, such as water filtration. The ability to make a strong fiber that can be readily molded into specific shapes might be applied to making scaffolds for artificial organs.\n\nFinally, the overall process of fiber-making might be programmed into robots, enabling them to use environmental conditions to guide the production of variable fibers with minimal input from humans.",
+  "function_addressed": [
+    "modify ph",
+    "modify material characteristics",
+    "modify phase",
+    "physically assemble structure",
+    "chemically assemble organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/salt-and-squeezing-turn-liquid-to-spider-silk/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "salt",
+    "squeezing",
+    "turn",
+    "liquid",
+    "spider",
+    "silk"
+  ],
+  "is_usual_suspect": true,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

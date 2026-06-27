@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-tissue-provides-neutral-buoyancy",
+  "organism_common": "Ocean sunfish",
+  "organism_scientific": "",
+  "strategy_summary": "The ocean sunfish, also known as Mola mola, is a striking marine creature found in tropical and temperate oceans. With its large, flattened body and prominent dorsal and anal fins, the sunfish has an unconventional shape that defies conventional wisdom about streamlined fish design.",
+  "mechanism": "What enables the sunfish to perform these quick depth changes? It’s all thanks to large deposits of low-density, subcutaneous, gelatinous tissue. This incompressible layer provides neutral buoyancy, allowing the sunfish to move up and down the water column effortlessly. The tissue is made of a gel-like substance that doesn’t compress under pressure, unlike a swim bladder, which would require energy to adjust its volume. By using this gelatinous tissue, the sunfish achieves a stable and energy-efficient buoyancy at all depths.\n\nThe sunfish swims by moving its large dorsal and anal fins laterally in a synchronized manner. This motion generates lift-based thrust, allowing the fish to cruise at speeds of 0.4-0.7 m/s. This mode of swimming which resorts to fins that are not bilaterally symmetrical has not been found in other organisms so far.\n\nAt the same time that it moves forward, the ocean sunfish is also able to undergo substantial vertical movements in the water column. This behavior is facilitated by the fact that the fish is neutrally and stably buoyant independently of the depth, a crucial property that is related to the absence of a swim bladder (the presence of which would otherwise change volume with hydrostatic pressure) and to the water-rich gelatinous tissue deposits.\n\nMarine Engineering:\n\nDesign of submarines and underwater drones that can easily change depths without complex buoyancy adjustments, borrowing from the sunfish’s gel-like tissue concept.\n\nSustainable Energy Systems:\n\nImplementation of buoyancy mechanisms in underwater turbines that can automatically adjust to different water pressures, optimizing energy capture.\n\nMedical Research:\n\nCreation of pressure-resistant implants, inspired by the sunfish’s incompressible tissue, for use in varying atmospheric pressures.\n\nSportswear and Equipment:\n\nDevelopment of diving suits or snorkeling gear that can quickly adapt to different water pressures, mimicking the sunfish’s neutral buoyancy.",
+  "function_addressed": [
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tissue-provides-neutral-buoyancy/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tissue",
+    "provides",
+    "neutral",
+    "buoyancy"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

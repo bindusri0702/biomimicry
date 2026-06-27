@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-larvae-adhere-temporarily-underwater",
+  "organism_common": "Acorn barnacle",
+  "organism_scientific": "",
+  "strategy_summary": "Footprint proteins used by cypris larvae of barnacles allow them to temporarily adhere during pre-settlement exploration via hydrophobic chemical interactions. “Cypris larvae of the barnacle Semibalanus balanoides leave proteinaceous footprints on surfaces during pre-settlement exploration.",
+  "mechanism": "Footprint proteins used by cypris larvae of barnacles allow them to temporarily adhere during pre-settlement exploration via hydrophobic chemical interactions.\n\n“Cypris larvae of the barnacle Semibalanus balanoides leave proteinaceous footprints on surfaces during pre-settlement exploration. These footprints are considered to mediate temporary adhesion of cyprids to substrata and, as such, represent a crucial first step in the colonization of man-made surfaces by barnacles, a process known as biofouling. Interest in this system also stems from the potential for a synthetic reversible adhesion system, based on the strategy used by cyprids … Footprint protein s adhered with greater tenacity to the hydrophobic tip. This may suggest conformational change and denaturing of the protein which would facilitate hydrophobic interaction by enhancing contact forces between -CH 3 functionalized tips and hydrophobic groups in the footprint molecule(s). Neither tip removed proteins from the -NH 2 substratum suggesting that specific chemical interactions, rather than simple wetting phenomena, govern the adhesion of footprint proteins to that surface.” (Phang et al. 2009:616)\n\nhttp://www.informaworld.com/smpp/164470560-43711366/content~db=all~content=a910776630~frm=abslink http://www.informaworld.com/smpp/content~db=all~content=a914173195~frm=titlelink",
+  "function_addressed": [
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/larvae-adhere-temporarily-underwater/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "larvae",
+    "adhere",
+    "temporarily",
+    "underwater"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

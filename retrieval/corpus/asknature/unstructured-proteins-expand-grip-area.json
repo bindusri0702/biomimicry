@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-unstructured-proteins-expand-grip-area",
+  "organism_common": "Tallaganda velvet worm",
+  "organism_scientific": "",
+  "strategy_summary": "The proteins within the Tallaganda velvet worm slime have an expanded grip because their lack of secondary structure prevents them from binding to themselves. Even though the protein s in the tallaganda velvet worm’s only make up 3-5% of the slime, the solid they create still binds the prey effectively.",
+  "mechanism": "The proteins within the Tallaganda velvet worm slime have an expanded grip because their lack of secondary structure prevents them from binding to themselves.\n\nEven though the protein s in the tallaganda velvet worm’s only make up 3-5% of the slime, the solid they create still binds the prey effectively. The proteins make the most of their presence because they can bind over a larger surface area due to their lack of secondary structure. Secondary structures, such as the alpha helix or beta sheet, are what cause a single protein to fold and take a 3-D shape. Without this structure, the tallaganda velvet worm proteins remain linear, so there is more room for neighboring protein strands to latch on and bind to each other. Essentially, it creates a larger available surface for bonds, which makes the resulting structure bind tighter and stronger than would normally be expected for that protein size.\n\nThis strategy was contributed by Rachel Major",
+  "function_addressed": [
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/unstructured-proteins-expand-grip-area/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "unstructured",
+    "proteins",
+    "expand",
+    "grip",
+    "area"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-orb-weaver-web-glue-stays-sticky-when-wet",
+  "organism_common": "Orb-weaver spiders",
+  "organism_scientific": "",
+  "strategy_summary": "Web glue of orb-weaver spiders is elastic and sticky when wet because of moisture-absorbing salts. Orb-weaver spiders construct spiral webs for capturing prey.",
+  "mechanism": "Web glue of orb-weaver spiders is elastic and sticky when wet because of moisture-absorbing salts.\n\nOrb-weaver spiders construct spiral webs for capturing prey. These webs have remarkable physical properties and are capable of withstanding impacts from comparatively large prey insects travelling at high speeds. When an insect hits a web, the strands stretch and deform to absorb the energy without tearing and then rebound to their original position ready for the next impact. In order for prey to remain trapped, the web threads are also coated in a sticky glue with remarkable properties.\n\nOrb-weaver web glue contains glycoprotein s, that is, protein s that have carbohydrate (or sugar) attached to them. These carbohydrate groups mean the glue can form large numbers of hydrogen bonds. Hydrogen bonds are very weak bonds, however, very large numbers of such weak forces can multiply up to form very strong interactions. In the case of orb-weaver web glue, there are lots of hydrogen bonding opportunities on a single glycoprotein, lots of glycoproteins in a single glue droplet, lots of droplets on a web strand, and lots of strands in a web. The combination of so many weak bonds at every hierarchical level results in very strong total interaction between prey and web and ensures potential food is not bounced off as the web rebounds.\n\nAs well as glycoproteins, glue droplets also contain high concentrations of salts. These salts are hygroscopic (they absorb moisture from the atmosphere), keeping the glue proteins wet. This enables the glycoproteins to move around inside the droplet, forming and reforming bonds. As a result, when an impact with a flying insect occurs, the glue also behaves elastically, stretching out and absorbing the impact energy without becoming detached from the web, before rebounding back to the droplet configuration, coating the hapless insect and effectively trapping it.\n\nDifferent species of spider have different salts and salt concentrations in their glue droplets that are tuned to the humidity of their native habitats. Man-made glues become less effective under high humidity, but orb-weaver glues use the salts to tune how much water they absorb from the atmosphere, enabling them to become even more sticky in the presence of moisture.\n\nImage: Gnissah / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon Image: Ianaré Sévi / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon Image: Mark Rosen / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon right arrow right arrow\n\nRelated Content",
+  "function_addressed": [
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/orb-weaver-web-glue-stays-sticky-when-wet/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "glue",
+    "stays",
+    "sticky",
+    "when",
+    "wet"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

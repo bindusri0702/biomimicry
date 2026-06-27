@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-how-elephant-trunks-twist-and-twirl",
+  "organism_common": "Elephants",
+  "organism_scientific": "",
+  "strategy_summary": "Under the scorching sun, an African elephant dips his twisting trunk into a waterhole and slurps up mud. Thousands of muscles guide its delicate dance as it probes every which way.",
+  "mechanism": "Most muscles require bones to support them and joints to cantilever their movements. To raise your forearm from your side, you flex your biceps, which rotates the forearm across the hinge of your elbow.\n\nMuscular organs without bones and joints—like elephant trunks, snake tongues, and octopus arms—are called muscular hydrostats. They support themselves instead with a complex arrangement of muscle fibers. The most important feature of hydrostats, and what enables them to move without bones, is that the volume of water within them stays constant. An elephant trunk is composed almost entirely of water and muscle (which is itself mostly water). Because this volume of water stays constant, when the elephant moves its trunk in one direction, there will automatically be a compensating change in another direction.\n\nElephant trunks contain more than 40,000 muscles while entire human bodies contain fewer than 650. Trunks can lift 770 pounds (350 kg) yet pick up a single tortilla chip without breaking it (as seen in the video above).\n\nThe field of robotics has infinite applications for strong, dexterous movements. Robots that mimic elephant trunks have already been developed to grip fragile objects or serve as a “third-hand” for medical applications. As humans explore Mars and other celestial bodies searching for signs of extraterrestrial life, rovers equipped with robotic elephant arms might be strong enough to clear boulders from pathways yet agile enough to gingerly swab objects for bacteria.",
+  "function_addressed": [
+    "modify size/shape/mass/volume",
+    "transform magnetic energy",
+    "prevent deformation",
+    "manage compression",
+    "manage tension"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/how-elephant-trunks-twist-and-twirl/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "elephant",
+    "trunks",
+    "twist",
+    "twirl"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

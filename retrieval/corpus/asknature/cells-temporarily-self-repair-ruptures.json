@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-cells-temporarily-self-repair-ruptures",
+  "organism_common": "Fig tree",
+  "organism_scientific": "",
+  "strategy_summary": "Cells in the bark of ficus trees temporarily repair ruptures by secreting latex into the wound site which cures upon exposure to air. After a break or tear in its bark, ficus trees secrete pre-made latex at the site of the wound.",
+  "mechanism": "Cells in the bark of ficus trees temporarily repair ruptures by secreting latex into the wound site which cures upon exposure to air.\n\nAfter a break or tear in its bark, ficus trees secrete pre-made latex at the site of the wound. When exposed to air, this complex emulsion coagulates into an elastic polymer that serves several defensive functions including halting any further tearing (i.e., increasing tensile strength) and sealing the wound from infection until cell growth can permanently mend the injury. Thirty minutes after the damage is sustained by the ficus, latex has already coagulated enough at the damage site for about 55% of the materials original, un-wounded tensile strength to be restored. This added strength is maintained for hours or days until cellular growth can restore the materials complete strength (latex protects from further tearing but does not provide stiffness). Even before 30 minutes after the injury, when latex is still largely uncoagulated, it serves to support the mechanical properties of the damaged material perhaps acting like a sticky, glue-like substance.\n\nImage: Wouter Hagens / toggle icon",
+  "function_addressed": [
+    "manage tension",
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/cells-temporarily-self-repair-ruptures/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "cells",
+    "temporarily",
+    "self-repair",
+    "ruptures"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-dome-shape-protects-nest",
+  "organism_common": "Ovenbird",
+  "organism_scientific": "",
+  "strategy_summary": "The ovenbird constructs a free-standing domed nest by adding mud pellets in a set pattern. Video",
+  "mechanism": "The ovenbird constructs a free-standing domed nest by adding mud pellets in a set pattern.\n\nVideo",
+  "function_addressed": [
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/dome-shape-protects-nest/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "dome",
+    "constructed",
+    "without",
+    "framework"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

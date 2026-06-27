@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-gait-increases-speed-efficiency",
+  "organism_common": "Ostrich",
+  "organism_scientific": "",
+  "strategy_summary": "The legs of the ostrich increase maneuverability while decreasing torque loads to their joints due to biomechanical efficiency. “It is easy to appreciate an antelope’s grace as it bounds across the savannah, but how about an ostrich?",
+  "mechanism": "The legs of the ostrich increase maneuverability while decreasing torque loads to their joints due to biomechanical efficiency.\n\n“It is easy to appreciate an antelope’s grace as it bounds across the savannah, but how about an ostrich? At first glance they seem to be unlikely runners, with their huge egg-shaped torsos and skinny legs. However, these birds have evolved to run and manoeuvre at speed to shake off predators…while humans decelerate to prevent over-rotation, on average ostriches generate fewer deceleration forces. In individual cases the birds generated both acceleration and deceleration forces to control their body orientation, but these are reduced because of their body shape with its higher inertia…[The authors] found that as the leg hits the ground, the angle of the leg is very close to the angle of the force. This reduces the torque and produces similar forces to those recorded during straight running. So rather than twisting at the joints, the torque is maintained and ostriches change direction by simply rolling their body into the turn. It is this combination of body shape and behaviour that allows running ostriches to change direction so gracefully.” (Clare 2007:i)\n\n“Our analysis revealed that the majority of the segment motion during running in the ostrich occurs in flexion/extension. Importantly, however, the alignment of the average flexion/extension helical axes of the knee and ankle are rotated externally to the direction of travel (37 degrees and 21 degrees , respectively) so that pure flexion and extension at the knee will act to adduct and adbuct [sic] the tibiotarsus relative to the plane of movement, and pure flexion and extension at the ankle will act to abduct and adduct the tarsometatarsus relative to the plane of movement. This feature of the limb anatomy appears to provide the major lateral (non-sagittal) displacement of the lower limb necessary for steering the swinging limb clear of the stance limb and replaces what would otherwise require greater adduction/abduction and/or internal/external rotation, allowing for less complex joints, musculoskeletal geometry and neuromuscular control. Significant rotation about the joints’ non-flexion/extension axes nevertheless occurs over the running stride. In particular, hip abduction and knee internal/external and varus/valgus motion may further facilitate limb clearance during the swing phase, and substantial non-flexion/extension movement at the knee is also observed during stance.” (Rubenson et al. 2007:2548)",
+  "function_addressed": [
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/gait-increases-speed-efficiency/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "gait",
+    "increases",
+    "speed",
+    "efficiency"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

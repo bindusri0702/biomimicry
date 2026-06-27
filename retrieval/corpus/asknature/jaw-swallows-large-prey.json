@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-jaw-swallows-large-prey",
+  "organism_common": "Python",
+  "organism_scientific": "",
+  "strategy_summary": "The jaws of pythons allow the snakes to swallow huge prey because of their multibar linkages. Burmese Python (Python molurus bivittatus) with open mouth  “We mammals make no great use of multibar linkages, but a lot of other vertebrates depend on them.",
+  "mechanism": "The jaws of pythons allow the snakes to swallow huge prey because of their multibar linkages.\n\nBurmese Python (Python molurus bivittatus) with open mouth\n\n“We mammals make no great use of multibar linkages, but a lot of other vertebrates depend on them. The most famous are snakes that can swallow items of prey whose diameters and cross sections exceed those of themselves. How pythons (genus Python ) manage was carefully analyzed by Frazzetta (1966), who regarded their skull and jaws as linkages with no fewer than eight bars. Such snakes use two such linkages, one on each side of the head, with a lot of flexibility in between. The setup permits the mouth to gape sufficiently to accommodate huge prey, which then get digested at leisure.” (Vogel 2003:400-401)",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "modify size/shape/mass/volume"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/jaw-swallows-large-prey/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "jaw",
+    "swallows",
+    "large",
+    "prey"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

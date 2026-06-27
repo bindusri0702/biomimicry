@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-fronds-change-shape",
+  "organism_common": "Seaweed",
+  "organism_scientific": "",
+  "strategy_summary": "Seaweeds, or macroalgae, often exist in or near the intertidal zone of oceans, where they are subject to very large forces from rapidly flowing tidal and storm currents. Unlike other occupants of intertidal zones, macroalgae are attached to the ocean floor and cannot move to take shelter.",
+  "mechanism": "Intertidal macroalgae solve this problem by changing shape. When currents are mild, they project a large surface area into the water, gently wafting in the waves and collecting energy from the sun. However, when exposed to strong currents, macroalgae bend close to the floor and their fronds are swept into a narrow configuration that does not protrude into the current. Like a cyclist bending low over the handlebars, this more hydrodynamic shape reduces the interaction with the water, reducing stress on the organism and preventing damage and fracture.\n\nAs with seaweed, too much rigidity in a material may lead to fracture or failure in the face of stress. Designing materials that can flex has many applications, including buildings, bridges, airplane wings, and even bioimplants. The ability to bend and change shape could one day result in smart materials that adapt to the whims of nature, changing properties to become more aerodynamic during high winds or becoming more flexible during earthquakes.",
+  "function_addressed": [
+    "move in/on liquids",
+    "attach permanently",
+    "manage turbulence",
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fronds-change-shape/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fronds",
+    "change",
+    "shape",
+    "avoid",
+    "damage"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

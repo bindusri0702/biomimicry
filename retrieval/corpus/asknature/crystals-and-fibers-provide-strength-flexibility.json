@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-crystals-and-fibers-provide-strength-flexibility",
+  "organism_common": "Vertebrates (Mammals, Fish, Birds, Reptiles)",
+  "organism_scientific": "",
+  "strategy_summary": "In our hands, in our legs, around our brains: Bones provide structural support for the bodies of humans and of every other vertebrate, from fish to tigers to birds. It might seem that bone is inflexible, but its basic component is a springy and versatile protein called collagen––found in elastic tissues like skin…",
+  "mechanism": "Enter calcium, the mineral that gives bone its strength and hardness. When bone develops, calcium crystals form in the gaps and bond to the flexible collagen like mortar amid the bricks.\n\nDr. Markus Buehler, a materials engineering professor at the Massachusetts Institute of Technology, compared the stress behavior of ordinary collagen fibrils to mineralized collagen fibrils. Buehler analyzed the stress exerted on bundles of fibrils under the strain of pulling their two ends apart. At first, fibrils with and without minerals both stretch like a rubber band. They don’t stretch as much as a rubber band, but the stress on the tissue increases linearly with the strain of pulling. Keep tugging, however, and the fibrils deform, releasing the tension the way caramel candy does when you stretch it.\n\nBones need to be tough but able to dissipate the forces we put them under. If they couldn’t bend slightly, they’d snap apart every time we jumped or fell. In that regard, bones are like other composite building materials that give man-made structures strength while imparting the flexibility to dissipate energy from wind, earthquakes, and storms. Furthermore, engineering design—like staged molecular slipping—usually includes redundancy so that when small elements fail, the overall structure remains intact.",
+  "function_addressed": [
+    "prevent fracture/rupture",
+    "prevent deformation",
+    "prevent buckling",
+    "manage compression",
+    "manage tension"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/crystals-and-fibers-provide-strength-flexibility/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flexible",
+    "collagen",
+    "fibers",
+    "strong",
+    "minerals",
+    "dissipate"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-fish-thrives-in-freshwater-and-seawater",
+  "organism_common": "Salmon",
+  "organism_scientific": "",
+  "strategy_summary": "Salmon can spend part of their lives in freshwater and part in seawater due to adaptive changes in their physiology. “The Atlantic salmon ( Salmo salar ) begins its life in a river, in the wild mountain streams of Norway or Scotland, hatching from an egg there in springtime.",
+  "mechanism": "Salmon can spend part of their lives in freshwater and part in seawater due to adaptive changes in their physiology.\n\n“The Atlantic salmon ( Salmo salar ) begins its life in a river, in the wild mountain streams of Norway or Scotland, hatching from an egg there in springtime. The salmon usually spends up to four years in the river before beginning the outward phase of its marathon migration as a smolt (a young salmon ready to migrate to the sea), traveling downriver to the ocean. During this period, the smolt’s physiology adapts to enable it to live in seawater.” (Shuker 2001:76)",
+  "function_addressed": [
+    "regulate cellular processes",
+    "maintain homeostasis"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fish-thrives-in-freshwater-and-seawater/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fish",
+    "thrives",
+    "freshwater",
+    "seawater"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

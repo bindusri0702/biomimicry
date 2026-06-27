@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-enzymes-cleave-toxic-quaternary-ammonium-compounds",
+  "organism_common": "Gliocladium roseum",
+  "organism_scientific": "",
+  "strategy_summary": "Enzymes produced by the fungus Gliocladium roseum mediate the break down of a common industrial compound by initiating the biodegredation process. The biologically-mediated breakdown of chemicals specifically designed to resist biologically-mediated breakdown is an obvious challenge.",
+  "mechanism": "Enzymes produced by the fungus Gliocladium roseum mediate the break down of a common industrial compound by initiating the biodegredation process.\n\nThe biologically-mediated breakdown of chemicals specifically designed to resist biologically-mediated breakdown is an obvious challenge. Quaternary ammonium compounds (QACs) have a number of common uses such as wood preservatives, antistatic agents, corrosion inhibitors, and textile softeners. Widespread use is leading to increasing contamination of water and soils. Gliocladium roseum is a fungus capable of secreting enzymes that cleave QACs resulting in by-products that are readily broken down by common enzymes. Laboratory tests have confirmed G. roseum’s ability to grow on QAC-treated wood blocks and decompose the toxic preservative.",
+  "function_addressed": [
+    "catalyze chemical breakdown"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/enzymes-cleave-toxic-quaternary-ammonium-compounds/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "enzymes",
+    "cleave",
+    "toxic",
+    "quaternary",
+    "ammonium",
+    "compounds"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

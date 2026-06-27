@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-stinging-cells-target-prey",
+  "organism_common": "Sea anemones",
+  "organism_scientific": "",
+  "strategy_summary": "Sea anemones are soft, spineless marine animals that mostly stay attached to underwater surfaces. An anemone resembles an upside-down jellyfish: they have a stout cylindrical body topped with a circular array of tentacles surrounding the mouth.",
+  "mechanism": "In the striped anemone, Diadumene lineata , the tentacles specialized for capturing prey are sensitive to specific chemicals that prey produce. For instance, small prey animals like crustaceans and fish are covered in a thin layer of mucus. This mucus contains specific molecules recognized by chemical-sensing cells (chemoreceptors) in the anemone’s tentacles. When mucus activates the chemoreceptors, this triggers a series of cellular activities in and around the cnidocyte that eventually cause the hair-like trigger to lengthen. This lengthening causes the hair to vibrate, or resonate, more readily at lower frequencies, much like how longer strings in a piano play lower notes. The hair-like trigger seems to become more sensitive to lower-frequency movements that match the frequencies at which small prey swim. In the absence of mucus, the hair-like trigger is normally sensitive to higher-frequency movements. The anemone’s chemoreceptors thus fine-tune how cnidocytes respond to physical touch. Cnidocytes are more likely to fire when the object moving through the tentacles is a mucus-covered swimming prey.\n\nTo learn more about how cnidocytes fire in a related stinging creature, check out this related strategy .",
+  "function_addressed": [
+    "respond to signals",
+    "sense chemicals (odor, taste, etc.) from the environment",
+    "sense touch and mechanical forces in a living system",
+    "expel solids",
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/stinging-cells-target-prey/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "stinging",
+    "cells",
+    "target",
+    "prey"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

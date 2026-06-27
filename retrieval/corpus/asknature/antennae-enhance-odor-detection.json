@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-antennae-enhance-odor-detection",
+  "organism_common": "Giant Silkworm moths",
+  "organism_scientific": "",
+  "strategy_summary": "The antennae of silkworm moths increase sensitivity to odors because the shape and structure of sensillae direct air flow through them. “Females [giant silkworm moths] attract males for mating by releasing a volatile attractant chemical, but these moths typically live at very low population densities.",
+  "mechanism": "The antennae of silkworm moths increase sensitivity to odors because the shape and structure of sensillae direct air flow through them.\n\n“Females [giant silkworm moths] attract males for mating by releasing a volatile attractant chemical, but these moths typically live at very low population densities. Males have equipment to smell out females at distances of miles- large, feather-shaped antennae (fig. 6.5) on which some 70 percent of the sensilla are sensitive to nothing other than the females’ perfume–truly an olfactory sensation. A nineteenth-century French entomologist, Jean Henri Fabre, did a few experiments on the phenomenon but still could not believe that any sense of smell could work so well (Teale 1949)!\n\n“In order for an odorant to be picked up from the airstream, air must be made to pass through an antenna.” (Vogel 2003:124-125)",
+  "function_addressed": [
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/antennae-enhance-odor-detection/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "antennae",
+    "enhance",
+    "odor",
+    "detection"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

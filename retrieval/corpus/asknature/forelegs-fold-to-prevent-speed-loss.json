@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-forelegs-fold-to-prevent-speed-loss",
+  "organism_common": "Whirligig beetles",
+  "organism_scientific": "",
+  "strategy_summary": "The forelegs of the whirligig beetle reduce loss of speed by folding during swimming to enhance a fluid-resistant body shape. While the mid and hind legs of the whirligig beetle paddle and steer, its forelegs fold up under its body.",
+  "mechanism": "The forelegs of the whirligig beetle reduce loss of speed by folding during swimming to enhance a fluid-resistant body shape.\n\nWhile the mid and hind legs of the whirligig beetle paddle and steer, its forelegs fold up under its body. Given that the forelegs are much larger than both the mid and hind legs, this folding is especially useful in maintaining an ellipsoid body shape, which minimizes fluid resistance. This enables the beetle to coast longer between strokes while losing less speed because of minimized drag.\n\nThis summary was contributed by Rachel Major",
+  "function_addressed": [
+    "modify size/shape/mass/volume",
+    "store energy",
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/forelegs-fold-to-prevent-speed-loss/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "forelegs",
+    "fold",
+    "prevent",
+    "speed",
+    "loss"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

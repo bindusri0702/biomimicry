@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-duckweed-adsorbs-microplastics-using-surface-adhesion",
+  "organism_common": "Duckweed",
+  "organism_scientific": "",
+  "strategy_summary": "Duckweeds, members of the Lemnoideae subfamily, are tiny, fast-growing aquatic plants that float on the still or slow-moving surfaces of freshwater ponds, wetlands, and lakes. These minimalist plants, which are essentially floating leaves with tiny roots, belong to one of the simplest and most productive plant…",
+  "mechanism": "Duckweeds adsorb microplastics by capturing and holding them on their outer surfaces. Their flat, delicate fronds float where microplastics tend to accumulate: at the water’s surface. From below, their threadlike roots extend into the water column, increasing the surface area that can encounter suspended particles.\n\nMicroplastic adhesion happens through several natural mechanisms. First, the surface of duckweed fronds and roots is not completely smooth, its fine texture increases opportunities for particles to catch. Second, duckweed surfaces host microbial biofilms, which are microscopic communities of bacteria and secretions, that make the plant slightly sticky, increasing how many particles get caught and how long they stay. Finally, electrostatic forces between the plastics and the plant can help hold them together, especially with tiny fragments (under 500 microns).\n\nThe way duckweeds adsorb microplastics by passively capturing particles on their textured, biofilm-covered surfaces offers a model for designing systems that clean water without the use of chemicals or energy-intensive processes. Their flat, floating shape, combined with a high surface-area-to-volume ratio, shows how form alone can enhance contact with pollutants at the water’s surface.\n\nThis strategy has inspired new materials, structures, and technologies that trap small particles through adhesion and gentle flow, suggesting applications in water filtration, pollution sensing, and the development of passive, nature-inspired cleaning technologies for both environmental and industrial settings.",
+  "function_addressed": [
+    "capture, absorb, or filter solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/duckweed-adsorbs-microplastics-using-surface-adhesion/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "duckweed",
+    "adsorbs",
+    "microplastics",
+    "surface",
+    "adhesion"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

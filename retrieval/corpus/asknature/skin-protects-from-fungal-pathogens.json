@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-skin-protects-from-fungal-pathogens",
+  "organism_common": "Winter squash",
+  "organism_scientific": "",
+  "strategy_summary": "Skin of pumpkins helps protect them from fungal pathogens using unique antifungal proteins. The skin of that pumpkin you carve into a Jack-o’-Lantern to scare away ghosts and goblins on Halloween contains a substance that could put a scare into microbes that cause millions of cases of yeast infections in adults and…",
+  "mechanism": "Skin of pumpkins helps protect them from fungal pathogens using unique antifungal proteins.\n\nThe skin of that pumpkin you carve into a Jack-o’-Lantern to scare away ghosts and goblins on Halloween contains a substance that could put a scare into microbes that cause millions of cases of yeast infections in adults and infants each year. Scientists Kyung-Soo Hahm and Yoonkyung Park note that some disease-causing microbes are becoming resistant to existing antibiotics. As a result, scientists worldwide are searching for new antibiotics. Past studies hinted that pumpkin, long used as folk medicine in some countries, might have antibiotic effects.\n\nThe scientists extracted protein s from pumpkin rinds to see if the proteins inhibit the growth of microbes, including Candida albicans (C. albicans). That fungus causes vaginal yeast infections, diaper rash in infants, and other health problems. One protein had powerful effects in inhibiting the growth of C. albicans, in cell culture experiments, with no obvious toxic effects. The pumpkin protein could be developed into a natural medicine for fighting yeast infections in humans, the report suggests. The protein also blocked the growth of several fungi that attack important plant crops and could be useful as an agricultural fungicide.\n\nAdapted from “Pumpkin Skin May Scare Away Germs” (EurekAlert! 2009)\n\nNanomik Biotechnology\n\nMikoks from Nanomik Biotechnology protects crops from fungi by controlling the release of plant defense molecules found in nature.\n\nOregano\n\nVolatile compounds found in oregano destroy fungi by breaking down their cell membranes.",
+  "function_addressed": [
+    "protect from fungi",
+    "biological control of populations, pests, diseases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/skin-protects-from-fungal-pathogens/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "skin",
+    "protects",
+    "fungal",
+    "pathogens"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

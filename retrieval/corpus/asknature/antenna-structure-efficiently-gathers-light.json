@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-antenna-structure-efficiently-gathers-light",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Light harvesting antenna of plants allow for very quantum efficient capture by high pigment density and long excited-state lifetime design. “Light harvesting in photosynthetic organisms is largely an efficient process.",
+  "mechanism": "Light harvesting antenna of plants allow for very quantum efficient capture by high pigment density and long excited-state lifetime design.\n\n“Light harvesting in photosynthetic organisms is largely an efficient process. The first steps of the light phase of photosynthesis , capture of light quanta and primary charge separation processes are particularly well-tuned. In plants, these primary events that take place within the photosystems possess remarkable quantum efficiency, reaching 80% and 100% in photosystems II and I respectively. This paper presents a view on the organisation of a natural light harvesting machine—the antenna of the photosystem II of higher plants. It explains the key principles of biological antenna design and the strategies of adaptation to light environment which have evolved over millions of years. This article argues that the high efficiency of the light harvesting antenna and its control are intimately interconnected owing to the molecular design of the pigment – protein s it is built of, enabling high pigment density combined with the long excited-state lifetime. The protein plays the role of a programmed solvent , accommodating high quantities of pigments, while ensuring their orientations and interaction yields are optimised to efficiently transfer energy to the reaction centres, simultaneously avoiding energy losses due to concentration quenching. The minor group of pigments, the xanthophylls, play a central role in the regulation of light harvesting, defining the antenna efficiency and thus its abilities to simultaneously provide energy to photosystem II and protect itself from excess light damage. Xanthophyll hydrophobicity was found to be a key factor controlling chlorophyll efficiency by modulating pigment–pigment and pigment–protein interactions. Xanthophylls also endow the light harvesting antenna with the remarkable ability to memorise photosystem II light exposure— a light counter principle. Indeed, this type of light harvesting regulation displays hysteretic behaviour, typically observed during electromagnetic induction of ferromagnetic materials, the polarization of ferroelectric materials and the deformation of semi-elastic materials. The photosynthetic antenna is thus a magnificent example of how nature utilises the principles of physics to achieve its goal—extremely efficient, robust, autonomic and yet flexible light harvesting.” (Ruban et al. 2011:1643)",
+  "function_addressed": [
+    "capture, absorb, or filter energy",
+    "modify energy state"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/antenna-structure-efficiently-gathers-light/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "antenna",
+    "structure",
+    "efficiently",
+    "gathers",
+    "light"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

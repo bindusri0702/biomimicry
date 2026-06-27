@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-tongue-gathers-nectar-and-pollen",
+  "organism_common": "Fruit bats",
+  "organism_scientific": "",
+  "strategy_summary": "The long tongues of some fruit bats efficiently scoop up nectar and pollen using brush-like papillae covering the tongues' surface. “Macroglossus means simply big-tongues and the bats that carry that name have a tongue as long as their body with a brush-like surface that enables them to scoop up nectar and pollen in…",
+  "mechanism": "The long tongues of some fruit bats efficiently scoop up nectar and pollen using brush-like papillae covering the tongues' surface.\n\n“Macroglossus means simply big-tongues and the bats that carry that name have a tongue as long as their body with a brush-like surface that enables them to scoop up nectar and pollen in great quantities.” (Attenborough 1995:122)",
+  "function_addressed": [
+    "capture, absorb, or filter solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tongue-gathers-nectar-and-pollen/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tongue",
+    "gathers",
+    "nectar",
+    "pollen"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

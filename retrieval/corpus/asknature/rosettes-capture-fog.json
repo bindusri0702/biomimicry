@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-rosettes-capture-fog",
+  "organism_common": "Flowering Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Despite the relatively harsh conditions of North America’s deserts, a wide range of plants taking many shapes and forms have been able to thrive in these areas. Rosette succulents make up a diverse group of plants that have successfully established in desert ecosystems, especially at the elevations at which clouds…",
+  "mechanism": "Considering their evolutionary history, fog is a relatively new source of water for these plants. Nonetheless, rosette succulents have developed several characteristics to help them make use of this resource.\n\nAgaves, for example, are highly efficient at harvesting water––even from fog and the lightest of rainfalls––thanks to the smooth surface of their leaves created by a waxy outer layer that also serves as a barrier to water loss. The water droplets in fog have a lot of surface area with which to make contact with other surfaces. With this high surface area, and being relatively lightweight, fog droplets are captured by an envelope of slow-moving air that surrounds a leaf and directed along its smooth surface. Species in cloud belts also tend to use that effect, as well as an arrangement of leaves that act like a funnel, to transport harvested water to their roots.\n\nIn higher altitude areas where fog is common, many rosette succulents have evolved to exhibit the “narrow-leaf syndrome.” This is a specific set of traits that can help increase a plant’s efficiency in capturing moisture from fog. Narrow and flexible leaves are better able to catch water droplets and direct their movement to the base, while a longer basal stem helps the plant catch more fog by holding it higher above the ground.\n\nRosette succulents can serve as inspiration for ways we can harvest and store water from alternative, temporary sources like fog, for drinking and other uses.\n\nTheir strategy for removing moisture from the air can also be applied to enclosed spaces in which humidity control is necessary for maintaining livable conditions for people, plants, or animals. Some spaces that could benefit from this technology include indoor swimming pools, ice rinks, and stadiums, as well as large-scale enclosed habitats on land, in the sea, or beyond.",
+  "function_addressed": [
+    "capture, absorb, or filter liquids",
+    "store liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/rosettes-capture-fog/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "capture",
+    "water",
+    "fog"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

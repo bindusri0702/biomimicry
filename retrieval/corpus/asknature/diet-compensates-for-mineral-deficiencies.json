@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-diet-compensates-for-mineral-deficiencies",
+  "organism_common": "Wapiti",
+  "organism_scientific": "",
+  "strategy_summary": "The dietary behavior of some red deer compensates for periods of mineral deficiencies by eating bones of small birds. Red deer stag (Cervus elaphus) with velvet antlers in Glen Torridon, Scotland  A Red deer (Cervus elaphus), in Freyr forest, near Han-sur-Lesse, Belgium.",
+  "mechanism": "The dietary behavior of some red deer compensates for periods of mineral deficiencies by eating bones of small birds.\n\nRed deer stag (Cervus elaphus) with velvet antlers in Glen Torridon, Scotland\n\nA Red deer (Cervus elaphus), in Freyr forest, near Han-sur-Lesse, Belgium.\n\n“On one of Scotland’s western outposts, the island of Rhum in the Inner Hebrides, there are more than 300 red deer ( Cervus elaphus ). Although they are the same species as those found on the Scottish mainland, the red deer of Rhum exhibit a macabre dietary deviation that sets them far apart from others of their species.\n\n“These ostensibly mild-mannered herbivores have acquired a murderous interest in the chicks belonging to the large population of Manx shearwaters ( Puffinus puffinus ) that nest on the ground around this island. Quite simply, the deer frequently bite off the heads of these unfortunate young birds in order to chew their bones. A detailed study, conducted by Glasgow University zoologist Dr. Robert Furness, confirmed the behavior and his findings were reported in 1988.\n\n“The reason for this bizarre activity appears to be that Rhum, which is only a small island, is deficient in certain minerals – in particular calcium and phosphorus – that the deer require to sustain their dietary balance and metabolism. Elsewhere, deer circumvent this problem by chewing their own shed antlers, or even the bones of dead deer. On Rhum, however, which is amply supplied with defenseless shearwater chicks that make easy prey, the red deer have become carnivorous. They kill the birds to supply themselves with bony material to chew on and are therefore able to obtain the minerals they require.” (Shuker 2001:118)",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities",
+    "adapt behaviors"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/diet-compensates-for-mineral-deficiencies/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "diet",
+    "compensates",
+    "mineral",
+    "deficiencies"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-wingtip-feathers-increase-aerodynamic-efficiency",
+  "organism_common": "Birds",
+  "organism_scientific": "",
+  "strategy_summary": "Wingtip feathers in birds are aerodynamically efficient because of their torsional flexibility. The three birds are shown in different types of flight.",
+  "mechanism": "Wingtip feathers in birds are aerodynamically efficient because of their torsional flexibility.\n\nThe three birds are shown in different types of flight. The middle bird is in the downstroke, and its primary flight feathers are positioned to get the full lift. The bird on the left is starting to lift its wings after the downstroke, and the feathers are positioned to decrease resistance. The bird on the right is near the top of the stroke, and its feathers are positioned similar to the one on the left, but about to twist for the downstroke.\n\nNorthern Hawk Owl , Pincourt, Near Montreal, Quebec. 2010.\n\nBald Eagle, Morris Valley Road, Harrison Mills, British Columbia. 2008.\n\nRoseate Spoonbill, Birding Center, Port Aransas, Texas\n\nWing tip devices displayed on this Bombardier Learjet are designed after the wing tips of birds such as eagles\n\n“Nature, by contrast, takes a less disdainful attitude toward torsion–in some applications adequate resistance matters, but in many others function depends on having sufficient torsional flexibility. A bird’s wingtip feathers must twist in one direction during the upstroke of the wings and in the other direction during the downstroke to keep the local wind striking the wing at an appropriate angle to generate lift and thrust … The turning could be done at the base, with a completely inflexible feather; the aerodynamics are improved and material saved if the local flow forces twist the feather by just the right amount.” (Vogel 2003:382)",
+  "function_addressed": [
+    "optimize shape/materials",
+    "modify buoyancy",
+    "protect from wind",
+    "move in/through gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/wingtip-feathers-increase-aerodynamic-efficiency/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "wingtip",
+    "feathers",
+    "increase",
+    "aerodynamic",
+    "efficiency"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

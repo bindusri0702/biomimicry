@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-abdomens-store-nectar",
+  "organism_common": "Honeypot ants",
+  "organism_scientific": "",
+  "strategy_summary": "The bodies of some honey ants are used for liquid storage via their expandable abdomen. They are worker honeypot ants.",
+  "mechanism": "The bodies of some honey ants are used for liquid storage via their expandable abdomen.\n\nThey are worker honeypot ants. During the rainy season, they stuff themselves with nector till their abdomens swell enormously. Other ants then extract nourishment from them.\n\n“In Australia, the honeypot ants collect nectar and force-feed it to workers of a special caste until their abdomens are distended to the size of peas and their skins stretched so thin that they are quite transparent. The workers then hang them up by their forelegs in underground galleries, like living storage jars.” (Attenborough 1979:104)",
+  "function_addressed": [
+    "store liquids",
+    "modify size/shape/mass/volume"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/abdomens-store-nectar/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "abdomens",
+    "store",
+    "nectar"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

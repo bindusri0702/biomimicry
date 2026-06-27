@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-body-surface-gathers-nutrients",
+  "organism_common": "Tapeworms",
+  "organism_scientific": "",
+  "strategy_summary": "The body surface of a tapeworm absorbs nutrients directly from a host's intestines via an absorptive membrane. “Also, whereas flukes have guts, tapeworms have none, so they must absorb their nutrients directly through their body surface from the intestine of their primary host (normally a vertebrate).” (Shuker…",
+  "mechanism": "The body surface of a tapeworm absorbs nutrients directly from a host's intestines via an absorptive membrane.\n\n“Also, whereas flukes have guts, tapeworms have none, so they must absorb their nutrients directly through their body surface from the intestine of their primary host (normally a vertebrate).” (Shuker 2001:166)",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/body-surface-gathers-nutrients/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "body",
+    "surface",
+    "gathers",
+    "nutrients"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

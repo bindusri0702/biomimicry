@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-flowers-selectively-attract-pollinators",
+  "organism_common": "Capture, Absorb, or Filter Organisms",
+  "organism_scientific": "",
+  "strategy_summary": "The flowers of some orchid-flower plants attract dung beetle pollinators by imitating the scent of dung. “Lowiaceae, a family of the Zingiberales, comprise 11 species in the single genus Orchidantha .",
+  "mechanism": "The flowers of some orchid-flower plants attract dung beetle pollinators by imitating the scent of dung.\n\n“Lowiaceae, a family of the Zingiberales, comprise 11 species in the single genus Orchidantha . Here we present the first report on the pollination of Lowiaceae and describe a new system of dung-beetle pollination from Sarawak, Borneo. Orchidantha inouei has a zygomorphic flower located just above the ground. Observations revealed that the plant is visited frequently and is pollinated by scarabaeid dung beetles, mainly members of the genus Onthophagus . All four species of Onthophagus collected on O. inouei have also been caught using traps baited with dung or carrion in Borneo. Onthophagus was presumably attracted to the dung-like odor of the flower. Pollination of O. inouei is different from other examples of beetle pollination in that its flower provides neither reward nor protected space. Dung beetles are excellent at following a particular dung scent. Orchidantha is the only genus that includes species lacking floral nectar. It is interesting that this deception pollination using dung beetles was found in Zingiberales, in which all known species have mutual and specialized relationships with their long-distance, but costly, pollinators—bees, birds, and bats.” (Sakai & Inoue 1999:56)",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "send chemical signals (odor, taste, etc.)"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/flowers-selectively-attract-pollinators/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flowers",
+    "selectively",
+    "attract",
+    "pollinators"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

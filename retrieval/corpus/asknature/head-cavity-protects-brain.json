@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-head-cavity-protects-brain",
+  "organism_common": "Golden-fronted woodpecker",
+  "organism_scientific": "",
+  "strategy_summary": "The subarachnoid cavity of the golden-fronted woodpecker protects its brain from injury through decreased volume of cerebrospinal fluid. [Editor’s Note, 2022: New research from Sam Van Wassenbergh et al.",
+  "mechanism": "The subarachnoid cavity of the golden-fronted woodpecker protects its brain from injury through decreased volume of cerebrospinal fluid.\n\n[Editor’s Note, 2022: New research from Sam Van Wassenbergh et al. suggests woodpeckers’ “cranial skeleton is used as a stiff hammer to enhance pecking performance, and not as a shock-absorbing system,” and that brains are protected from concussions by their small size. A corresponding update to this page and related pages is pending.]\n\nSpecies of woodpeckers, such as the golden-fronted woodpecker, peck with their beak to establish their territories and attract mates. The high-speed pecking motion of the golden-fronted woodpecker causes a tremendous amount of stressed force on the animal. One mechanism that prevents physical and neurological trauma is the combination of the small volume of the woodpecker’s cranial space and the smooth surface area of the brain.Similar to mammals, bird skulls contain a space between the brain’s gray matter and the skull’s vascular tissue, called a subarachnoid cavity. The cavity houses cerebrospinal fluid (CSF) that provides cushioning from minor bumps and jostling, as well as protection from diseases. However, CSF will not protect the brain from strong vibrations or blows, like those experienced by woodpeckers or football players. In these instances, CSF will allow excessive movement of the brain, potentially resulting in bruising and concussions.The woodpecker has proportionally less CSF than other birds, an adaptation to protect its brain during drumming. Less CSF combats the risk of brain injury in two ways. First, the decreased volume makes it more difficult for the brain to be disrupted if the head is struck. Second, with a decreased CSF volume, there is less medium for stress forces to transmit through, therefore reducing the impact on neural tissue.In addition to cavity volume, the surface area of the woodpecker brain is smooth with fewer pronounced peaks and valleys. Therefore, if the skull were to be struck, the impact would be more evenly transmitted around the brain, rather than hitting one point with a greater amount of force.\n\nThis illustration represents a species with a complex brain. The brain has a good number of peaks and valleys. When struck, the site of impact receives a greater amount of force due to its raised ridges. Illustration by Allison Miller.\n\nIn a smooth brained species, such as the golden-fronted woodpecker, the force is distributed more evenly, resulting in a decreased residual impact. Illustration by Allison Miller.\n\nThis strategy was contributed by Allison Miller .\n\nCheck out these related strategies that collectively protect the woodpecker’s brain from impact:\n\nBone protects brain from injury: Golden-fronted woodpecker\n\nBeak shape and material composition protect brain: Golden-fronted woodpecker\n\nSkull protects brain from impact: Golden-fronted woodpecker",
+  "function_addressed": [
+    "manage impact"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/head-cavity-protects-brain/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "head",
+    "cavity",
+    "protects",
+    "brain"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

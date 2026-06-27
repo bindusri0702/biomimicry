@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-pressure-provides-structural-support",
+  "organism_common": "Halloween crab",
+  "organism_scientific": "",
+  "strategy_summary": "The body of the blackback land crab functions during exoskeletal molt using both gas and liquid pressure, or a pneumo-hydrostatic skeleton. “Here we show that whenever its exoskeleton is shed, the blackback land crab Gecarcinus lateralis relies on an unconventional type of hydrostatic skeleton that uses both gas and…",
+  "mechanism": "The body of the blackback land crab functions during exoskeletal molt using both gas and liquid pressure, or a pneumo-hydrostatic skeleton.\n\n“Here we show that whenever its exoskeleton is shed, the blackback land crab Gecarcinus lateralis relies on an unconventional type of hydrostatic skeleton that uses both gas and liquid (a ‘pneumo-hydrostat’). To our knowledge, this is the first experimental evidence for a locomotor skeleton that depends on a gas…The aquatic blue crab Callinectes sapidus maintains mobility by switching to a hydrostatic skeleton 10 — a fluid-based skeleton that is common in soft-bodied invertebrates 11 . Hydrostatic skeletons are arranged so that the force of muscle contraction is transmitted by an essentially incompressible aqueous fluid 11–13 . Muscle contraction increases the pressure in the fluid, causing the deformations or stiffening required for support, movement and locomotion.” (Taylor and Kier 2006:1005)",
+  "function_addressed": [
+    "manage tension",
+    "manage compression"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pressure-provides-structural-support/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pressure",
+    "provides",
+    "structural",
+    "support"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

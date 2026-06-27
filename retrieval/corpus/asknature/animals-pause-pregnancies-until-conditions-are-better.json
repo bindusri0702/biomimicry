@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-animals-pause-pregnancies-until-conditions-are-better",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "Stepping gingerly through the sunlit understory in Northern Iran, a three-year old Western roe deer nibbles the wild rose leaves and other plants amply provided throughout the forest in late May. Having mated back in late July of the previous year, she’s days away now from giving birth to two spotted fawns.",
+  "mechanism": "As for many mammals, embryonic diapause in roe deer begins just a few days after ovulation and pregnancy, when the blastocyst (a ball of dividing cells that has developed for a few days from the fertilized egg) has lost its thick transparent membrane in preparation for implantation into the uterine wall. During the next 5 months, as a result of molecular interactions between the uterus and embryo, the blastocyst will only increase in size by a few millimeters before suddenly resuming normal rapid growth.\n\nDiapause and reactivation in many mammals involves hormonal control, especially circulating levels of prolactin, progesterone and/or oestrogen, or photoperiod and local proteins in the case of roe deer. This pause in development for roe deer allows fertilization to occur during the normal rutting period (late summer) while delaying birth until late spring, when food is abundant and sufficient time exists for young fawns to develop prior to the onset of their first cold winter.\n\nLearning how other mammals successfully preserve their embryos during diapause could help in the development of medical therapies for humans. The successful preservation of embryos is a challenge common to many different assisted reproductive technologies (such as in vitro fertilization), whose current success rate is only around 30%. A greater understanding of embryonic diapause mechanisms in animal models could lead to better assisted reproductive therapies, as well as therapies to delay development in utero for humans, too. A greater understanding of stem cells, the first of which were isolated from diapaused embryos, could also result from such research. Finally, a better grasp of embryonic diapause could help suggest pathways for halting unwanted cell division in humans, potentially useful, for instance, in treating various cancers.",
+  "function_addressed": [],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/animals-pause-pregnancies-until-conditions-are-better/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "embryo",
+    "development",
+    "pauses",
+    "time",
+    "delivery",
+    "ideal"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

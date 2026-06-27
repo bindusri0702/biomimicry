@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-eyes-perceive-uv-polarized-light",
+  "organism_common": "Desert ant",
+  "organism_scientific": "",
+  "strategy_summary": "The compound eyes of the Tunisian desert ant perceive polarized light in the UV spectrum via specialized ommatidia. “Experiments conducted by Zurich University biologist Dr Rüdiger Wehner with the Tunisian desert ant ( Cataglyphis bicolor ) showed that out of the 1,000 ommatidia in each compound eye, 80 per eye are…",
+  "mechanism": "The compound eyes of the Tunisian desert ant perceive polarized light in the UV spectrum via specialized ommatidia.\n\n“Experiments conducted by Zurich University biologist Dr Rüdiger Wehner with the Tunisian desert ant ( Cataglyphis bicolor ) showed that out of the 1,000 ommatidia in each compound eye, 80 per eye are dedicated to receiving polarized light within the ultraviolet wavelength band, and each receives it from a different point in the sky. That is, one ommatidium receives it from 270°, another from 180°, and so on. Within the compound eye, one region, the retinula, is directly sensitive to polarized light.” (Shuker 2001:48-49)",
+  "function_addressed": [
+    "sense light (non-visible spectrum) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/eyes-perceive-uv-polarized-light/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "eyes",
+    "perceive",
+    "polarized",
+    "light"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

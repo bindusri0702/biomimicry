@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-kidneys-filter-impurities",
+  "organism_common": "Humans",
+  "organism_scientific": "",
+  "strategy_summary": "Kidneys of humans filter impurities by use of a dual membrane system. 1.",
+  "mechanism": "Kidneys of humans filter impurities by use of a dual membrane system.\n\n1. 1.Renal pyramid 2. 2.Interlobar artery 3. 3.Renal artery 4. 4.Renal vein 5. 5.Renal hylum 6. 6.Renal pelvis 7. 7.Ureter 8. 8.Minor calyx 9. 9.Renal capsule 10. 10.Inferior renal capsule 11. 11.Superior renal capsule 12. 12.Interlobar vein 13. 13.Nephron 14. 14.Minor calyx 15. 15.Major calyx 16. 16.Renal papilla 17. 17.Renal column\n\n“Using a system based on the human body’s kidney s – the ultimate in water recycling technology – Singapore and Orange County, CA have developed schemes that will use a dual membrane process to recycle domestic waste water (sewage) to levels that approach the quality of distilled water. Like the kidney, these recycling plants use two membranes, one with larger holes to remove micro-organisms such as protozoa and bacteria that cause infection, while the second separates salt from water.” (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "capture, absorb, or filter chemical entities",
+    "capture, absorb, or filter solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/kidneys-filter-impurities/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "kidneys",
+    "filter",
+    "impurities"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

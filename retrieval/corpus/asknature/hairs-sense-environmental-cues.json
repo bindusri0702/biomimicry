@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-hairs-sense-environmental-cues",
+  "organism_common": "Insects",
+  "organism_scientific": "",
+  "strategy_summary": "Socketed hairs of insects detect environmental stimuli through vibration. Portrait of the common wasp Vespula vulgaris depicting the characteristic head markings.",
+  "mechanism": "Socketed hairs of insects detect environmental stimuli through vibration.\n\nPortrait of the common wasp Vespula vulgaris depicting the characteristic head markings.\n\n“Most insects have socketed hairs (sensory setae) scattered over much of the body which vibrate in response to sounds and may also be sensitive to touch, humidity and light. Nocturnal insects, such as cockroaches, are particularly sensitive to sounds via their setae and have been known to shy away from vibrations issued at 3000 cycles per second–way beyond human hearing capabilities. The setae may also play other roles. Locusts use those on the head, between the antennae, to judge the direction and humidity of the breeze, and climb some eminence for this purpose. Subsequently, they may use the information thus gained to fly to areas of low pressure where rain is likely to induce lusher feeding pasture.” (Wootton 1984:48)",
+  "function_addressed": [
+    "sense light (visible spectrum) from the environment",
+    "sense touch and mechanical forces in a living system",
+    "sense sound and other vibrations from the environment",
+    "sense atmospheric conditions"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hairs-sense-environmental-cues/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hairs",
+    "sense",
+    "environmental",
+    "cues"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

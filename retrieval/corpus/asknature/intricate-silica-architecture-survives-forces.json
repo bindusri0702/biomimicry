@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-intricate-silica-architecture-survives-forces",
+  "organism_common": "Fragilariopsis kerguelensis",
+  "organism_scientific": "",
+  "strategy_summary": "Silica-based skeletons of microscopic diatoms offer significant resistance to impact forces due to symmetry, pores, nanospheres, and ribs. “All free-living diatoms differ from other phytoplankton groups in having silicified cell walls in the form of two ‘shells’ (the frustule) of manifold shape and intricate…",
+  "mechanism": "Silica-based skeletons of microscopic diatoms offer significant resistance to impact forces due to symmetry, pores, nanospheres, and ribs.\n\n“All free-living diatoms differ from other phytoplankton groups in having silicified cell walls in the form of two ‘shells’ (the frustule) of manifold shape and intricate architecture… Here we show that the frustules are remarkably strong by virtue of their architecture and the material properties of the diatom silica. We conclude that diatom frustules have evolved as mechanical protection for the cells because exceptional force is required to break them.” (Hamm et al. 2003:841)",
+  "function_addressed": [
+    "manage impact",
+    "manage tension",
+    "manage compression"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/intricate-silica-architecture-survives-forces/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "intricate",
+    "silica",
+    "architecture",
+    "survives",
+    "forces"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

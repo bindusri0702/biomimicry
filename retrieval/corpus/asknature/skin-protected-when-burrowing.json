@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-skin-protected-when-burrowing",
+  "organism_common": "Platypus",
+  "organism_scientific": "",
+  "strategy_summary": "The extensively webbed feet of the platypus are used for burrowing by folding back the webbing to expose the claws for work. This doesnt show the feet as they appear during digging, but you can see how the claws are located so that the webbing can be tucked out of the way.",
+  "mechanism": "The extensively webbed feet of the platypus are used for burrowing by folding back the webbing to expose the claws for work.\n\nThis doesnt show the feet as they appear during digging, but you can see how the claws are located so that the webbing can be tucked out of the way.\n\nSide-view of platypus shows claws for digging on both front and hind feet. Webbing on the front feet can be tucked away to expose claws for digging.\n\n“As well as being an adept swimmer it is also a powerful and industrious burrower, digging extensive tunnels through the river banks sometimes as much as 18 metres long. To do this, it rolls back the webbing of its forefeet into its palms and so frees the claws for work.” (Attenborough 1979:204)\n\nCheck out this related strategy to learn more about how the platypus uses its webbed feet for swimming.",
+  "function_addressed": [
+    "manage mechanical wear",
+    "modify position"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/skin-protected-when-burrowing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "skin",
+    "protected",
+    "when",
+    "burrowing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

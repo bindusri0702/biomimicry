@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-transport-processes-allow-arsenic-hyperaccumulation",
+  "organism_common": "Ladder brake fern",
+  "organism_scientific": "",
+  "strategy_summary": "The Chinese brake fern absorbs and transports toxic arsenic from roots to fronds via cellular transport channels. The Chinese brake fern is able to survive and thrive in toxic arsenic-laden soils.",
+  "mechanism": "The Chinese brake fern absorbs and transports toxic arsenic from roots to fronds via cellular transport channels.\n\nThe Chinese brake fern is able to survive and thrive in toxic arsenic-laden soils. Arsenic is chemically similar to phosphate. The fern uses phosphate ion channels in root cell membranes to absorb and transport the metal to its leaves where it hyperaccumulates and functions as a deterrent to would-be predators.",
+  "function_addressed": [
+    "protect from chemicals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/transport-processes-allow-arsenic-hyperaccumulation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "transport",
+    "processes",
+    "allow",
+    "arsenic",
+    "hyperaccumulation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

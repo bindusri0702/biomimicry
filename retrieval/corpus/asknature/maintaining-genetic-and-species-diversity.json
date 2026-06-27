@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-maintaining-genetic-and-species-diversity",
+  "organism_common": "Black mustard",
+  "organism_scientific": "",
+  "strategy_summary": "In some plant communities, genetic variation among individual plants may depend on the diversity of competitor species, and the conservation of species diversity may also depend on genetic diversity among individuals. “The forces that maintain genetic diversity among individuals and diversity among species are usually…",
+  "mechanism": "In some plant communities, genetic variation among individual plants may depend on the diversity of competitor species, and the conservation of species diversity may also depend on genetic diversity among individuals.\n\n“The forces that maintain genetic diversity among individuals and diversity among species are usually studied separately. Nevertheless, diversity at one of these levels may depend on the diversity at the other. We have combined observations of natural populations, quantitative genetics, and field experiments to show that genetic variation in the concentration of an allelopathic secondary compound in Brassica nigra is necessary for the coexistence of B. nigra and its competitor species. In addition, the diversity of competing species was required for the maintenance of genetic variation in the trait within B. nigra . Thus, conservation of species diversity may also necessitate maintenance of the processes that sustain the genetic diversity of each individual species.” (Lankau and Strauss 2007:1561)",
+  "function_addressed": [
+    "cooperate within the same species",
+    "cooperate/compete between different species",
+    "maintain biodiversity"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/maintaining-genetic-and-species-diversity/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "maintaining",
+    "genetic",
+    "species",
+    "diversity"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

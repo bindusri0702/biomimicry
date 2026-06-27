@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-hairs-help-flight-maneuverability",
+  "organism_common": "Big brown bat",
+  "organism_scientific": "",
+  "strategy_summary": "Tactile hairs in wing membranes of bats serve as flight control organs by providing immediate sensorimotor feedback. “Bats are the only mammals capable of powered flight, and they perform impressive aerial maneuvers like tight turns, hovering, and perching upside down.",
+  "mechanism": "Tactile hairs in wing membranes of bats serve as flight control organs by providing immediate sensorimotor feedback.\n\n“Bats are the only mammals capable of powered flight, and they perform impressive aerial maneuvers like tight turns, hovering, and perching upside down. The bat wing contains five digits, and its specialized membrane is covered with stiff, microscopically small, domed hairs. We provide here unique empirical evidence that the tactile receptors associated with these hairs are involved in sensorimotor flight control by providing aerodynamic feedback. We found that neurons in bat primary somatosensory cortex respond with directional sensitivity to stimulation of the wing hairs with low-speed airflow…the hairs act as an array of sensors to monitor flight speed and/or airflow conditions that indicate stall. Depilation of different functional regions of the bats’ wing membrane altered the flight behavior in obstacle avoidance tasks by reducing aerial maneuverability, as indicated by decreased turning angles and increased flight speed.” (Sterbing-D’Angelo et al. 2011:11291)",
+  "function_addressed": [
+    "sense motion",
+    "sense balance/orientation"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hairs-help-flight-maneuverability/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hairs",
+    "flight",
+    "maneuverability"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

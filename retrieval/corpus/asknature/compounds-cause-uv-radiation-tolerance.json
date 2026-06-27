@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-compounds-cause-uv-radiation-tolerance",
+  "organism_common": "Marine dinoflagellate",
+  "organism_scientific": "",
+  "strategy_summary": "Some marine dinoflagellates are protected from UV radiation via mycosporine-like amino acids (MAAs). “Unlike seaweeds, corals and other sessile organisms, several species of dinoflagellates are known to perform daily vertical migrations [47,48].",
+  "mechanism": "Some marine dinoflagellates are protected from UV radiation via mycosporine-like amino acids (MAAs).\n\n“Unlike seaweeds, corals and other sessile organisms, several species of dinoflagellates are known to perform daily vertical migrations [47,48]. In the field, when dinoflagellate rise to sea surface to photosynthesize at daytime, cells would induce cellular MAA [mycosporine-like amino acids] level to avoid from harmful UVR in sunlight. This daily variation of cellular MAA content accompanied by the daily vertical migration may be one of the biological protective strategies against harmful UVR in the dinoflagellate.” (Taira et al. 2004:154)",
+  "function_addressed": [
+    "protect from light"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/compounds-cause-uv-radiation-tolerance/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "compounds",
+    "cause",
+    "radiation",
+    "tolerance"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

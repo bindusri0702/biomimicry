@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-antennae-sense-heat-of-prey",
+  "organism_common": "Capture, Absorb, or Filter Organisms",
+  "organism_scientific": "",
+  "strategy_summary": "The antennae of Rhodnius bugs detect heat from their potential victims using numerous sensitive, hairlike thermoreceptors. “ Rhodnius bugs are large, blood-sucking insects found throughout the Americas.",
+  "mechanism": "The antennae of Rhodnius bugs detect heat from their potential victims using numerous sensitive, hairlike thermoreceptors.\n\n“ Rhodnius bugs are large, blood-sucking insects found throughout the Americas. They live in close proximity to their victims, in nests or burrows, and detect potential victims — small, warm-blooded creatures such as mice — by sensing their body heat. A Rhodnius bug has its own built-in thermometers on its antennae in the form of numerous exceedingly sensitive hairlike thermoreceptors, which can detect air that has been warmed by its prey’s body heat.” (Shuker 2001:38)",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "sense temperature cues from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/antennae-sense-heat-of-prey/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "antennae",
+    "sense",
+    "heat",
+    "prey"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

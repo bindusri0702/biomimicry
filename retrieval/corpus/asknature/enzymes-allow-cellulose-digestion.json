@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-enzymes-allow-cellulose-digestion",
+  "organism_common": "Bacteria",
+  "organism_scientific": "",
+  "strategy_summary": "Symbiotic bacteria digest cellulose with the help of enzymes. “Those that have become specialist leaf-feeders can only extract nourishment from it by enlisting the aid of a very different kind of living organism–bacteria.",
+  "mechanism": "Symbiotic bacteria digest cellulose with the help of enzymes.\n\n“Those that have become specialist leaf-feeders can only extract nourishment from it by enlisting the aid of a very different kind of living organism–bacteria. They, unlike any animal, can digest cellulose .” (Attenborough 1995: 58)",
+  "function_addressed": [
+    "chemically break down organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/enzymes-allow-cellulose-digestion/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "enzymes",
+    "allow",
+    "cellulose",
+    "digestion"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

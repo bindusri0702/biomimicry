@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-mucus-aids-movement",
+  "organism_common": "Pulmonate",
+  "organism_scientific": "",
+  "strategy_summary": "The mucus produced by terrestrial slugs aids movement due to its viscoelastic nature. “A terrestrial slug doesn’t so much crawl as slide across its world on its belly (technically its foot) leaving behind a trail of slime–its pedal mucus, consisting of water with some polysaccharide and protein .",
+  "mechanism": "The mucus produced by terrestrial slugs aids movement due to its viscoelastic nature.\n\n“A terrestrial slug doesn’t so much crawl as slide across its world on its belly (technically its foot) leaving behind a trail of slime–its pedal mucus, consisting of water with some polysaccharide and protein . It’s neither a cheap nor a rapid way to go, a slug being the very paradigm of sluggishness. It is (or, strictly, was) a mysterious business. Slugs use neither cilia (as push the mucus lining our respiratory passages) nor peristaltic motion (as do, for instance, earthworms). How they propel themselves turns out to depend on that mucus, in particular on viscoelastic behavior more complex than anything we’ve seen so far.\n\nThe key can be seen if, with just the right lighting, one watches from beneath while a slug walks across a glass surface. Some kind of waves pass lengthwise; they’re about a millimeter or so in wavelength and travel at a couple of millimeters per second (fig. 17.7). It certainly looks as if the slug gets around by pushing back on its mucus, and that’s indeed what it does. But consider–that will work for one ‘step’ only. Any operating system that pushes needs to recover if it’s to push again…At strains above 5 or 6 (higher values at higher strain rates), the mucus abruptly yields, transforming in a flash into a gooey liquid with a viscosity of 3-5 pascal-seconds–three thousand to five thousand times the viscosity of pure water. Stress falls abruptly, dropping by half, and the stress-strain curve goes flat and horizontal–stress now depends only on strain rate, as befits a fluid. Thus, the mucus can be pushed upon, propelling the slug forward, but when nudged just beyond that yield stress it turns to liquid. Then a bit of slug can slide forward across it and be ready to push backward again. Meanwhile, and critically, the mucus has to recover, to ‘heal’ back into a viscoelastic solid, which it obligingly does forthwith. In life, a ‘step’ is about a millimeter in length and the mucus layer is about 10 micrometers thick, so the strain gets up to around 100 during the recovery phase of each pedal wave. Beneath a given slug at a given time, all stages of the operation are taking place, with mucus in different states under different points along the animal. All this from Denny and Gosline (1980) and Denny (1984).” (Vogel 2003:362-363)",
+  "function_addressed": [
+    "move in/on solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mucus-aids-movement/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mucus",
+    "aids",
+    "movement"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

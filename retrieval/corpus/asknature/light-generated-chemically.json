@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-light-generated-chemically",
+  "organism_common": "Common eastern firefly",
+  "organism_scientific": "",
+  "strategy_summary": "Few natural phenomena can match the magic of fireflies flashing in the tall grass on a summer’s night. As dusk falls on grassy meadows and forest edges of the eastern and central United States, males of the species Photinus pyralis flit about, flicking on and off bioluminescent lanterns in their abdomens.",
+  "mechanism": "The romantic function of the flash has long been known. What’s more recently been uncovered is a clear understanding of exactly how it happens. Scientists have tracked the trait down to a set of five molecules located in light-producing cells called photocytes that line a firefly’s lantern: luciferin, luciferase, adenosine triphosphate (ATP), nitric oxide (NO), and oxygen.\n\nInsects do not have lungs like humans do, but instead transport oxygen into their bodies through tubes called tracheoles. Oxygen travels through the tracheoles and enters the photocytes, where it binds to mitochondria. Normally the mitochondria would use the oxygen to release energy for regular cellular processes. But when it’s time to glow, fireflies send nitric oxide to bind to the mitochondria instead, freeing up the oxygen to fuel the light show about to begin. The oxygen enters another cellular structure, the peroxisome, and that’s where the fun begins.\n\nBecause fireflies produce light without excess heat, mimicking their methods may help pave the way to developing more energy-efficient artificial light sources. And the mechanism of using the presence of a single molecule (in this case, oxygen) as an on-switch can inspire new ways to alternate between light and darkness over extremely short time periods––an effect that could be useful in display screens and other electronics.\n\nAdditionally, because it needs ATP to glow and ATP is found in microorganisms, the luciferin-luciferase combination has been used to detect the presence of germs in beverages such as soy milk and tea.",
+  "function_addressed": [
+    "send light signals in the visible spectrum",
+    "modify oxidation state",
+    "modify energy state",
+    "modify light/color",
+    "transform radiant energy (light)"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/light-generated-chemically/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "what",
+    "lights",
+    "firefly",
+    "fire"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

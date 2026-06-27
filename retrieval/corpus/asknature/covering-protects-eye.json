@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-covering-protects-eye",
+  "organism_common": "Pied kingfisher",
+  "organism_scientific": "",
+  "strategy_summary": "The eye of the pied kingfisher is protected during high speed water entry via a bony plate. “The pied kingfisher ( Ceryle rudis ), a highly adapted bird who feeds almost exclusively on fish, some crustaceans and aquatic insects, also has a bony plate joined to the prefrontal bone of the skull, which provides a sliding…",
+  "mechanism": "The eye of the pied kingfisher is protected during high speed water entry via a bony plate.\n\n“The pied kingfisher ( Ceryle rudis ), a highly adapted bird who feeds almost exclusively on fish, some crustaceans and aquatic insects, also has a bony plate joined to the prefrontal bone of the skull, which provides a sliding screen in front of the eye for when it plunges into the water.” (Fowler and Miller 2003:254)",
+  "function_addressed": [
+    "manage impact"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/covering-protects-eye/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "covering",
+    "protects",
+    "eye"
+  ],
+  "is_usual_suspect": true,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

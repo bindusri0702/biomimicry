@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-neck-swivels-270-degrees",
+  "organism_common": "Brown-throated sloth",
+  "organism_scientific": "",
+  "strategy_summary": "The head of the three-toed sloth swivels 270 degrees thanks to extra neck vertebrae. Most mammals have to completely turn their bodies around to find out what’s behind them – but not tree sloths.",
+  "mechanism": "The head of the three-toed sloth swivels 270 degrees thanks to extra neck vertebrae.\n\nMost mammals have to completely turn their bodies around to find out what’s behind them – but not tree sloths. Fortunately for sloths, they have extra vertebrae (bones in their spine) that give them almost a 360-degree view of their environment, a powerful defense mechanism for one of nature’s slowest moving creatures.\n\nSloths can have up to three extra neck vertebrae at the base of their neck, closest to the rib cage. These extra vertebrae enable the sloth’s head to achieve a wider range of motion, giving it the ability to swivel its neck up to 270 degrees in either direction, or three-quarters of a complete rotation.\n\nThese extra vertebrae highlight a unique developmental difference between sloths and other mammals. All bones are formed through a process called ossification, and different groups of bones ossify at specific times. In most mammals, the vertebrae that are attached to the rib cage ossify before the formation of neck vertebrae. However, the sloth’s extra neck vertebrae form before the rest of the neck, similar to the rib cage vertebrae. This suggests that the sloth’s extra neck vertebrae are modified rib cage vertebrae.\n\nIt is not known exactly why these extra vertebrae evolved, but this extra range of motion makes it easier for a sloth to spot potential predators and mates, and may provide extra support for its head when hanging upside-down from trees.\n\n1=Three toed sloth at the Dallas World Aquarium\n\n''Bradypus variegatus'' of \"Museu de Zoologia\" of Barcelona",
+  "function_addressed": [
+    "modify position",
+    "optimize shape/materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/neck-swivels-270-degrees/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "neck",
+    "swivels",
+    "degrees"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

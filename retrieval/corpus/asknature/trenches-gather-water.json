@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-trenches-gather-water",
+  "organism_common": "Darkling beetles",
+  "organism_scientific": "",
+  "strategy_summary": "Trenches created by the flying saucer trench beetle collect water because the edges are above the sand surface and perpendicular to fog-bearing wind. “A third method involves uptake of free water directly from fog-moistened sand.",
+  "mechanism": "Trenches created by the flying saucer trench beetle collect water because the edges are above the sand surface and perpendicular to fog-bearing wind.\n\n“A third method involves uptake of free water directly from fog-moistened sand. The most elaborate procedure is used by the genus Lepidochora (Seely and Hamilton, 1976) (Fig. 3 c). These flat, circular, short-legged beetles construct a shallow trench 2-4 mm deep in the moist sand surface during fogs. The ridges of the trench, elevated above the sand surface and oriented perpendicularly to the direction of the fog-bearing wind, attain a higher water content than the undisturbed surrounding sand. The beetles then return along the trench ridge, flattening it as they extract part of this moisture.” (Seely 1979:219-220)\n\nhttp://www.orusovo.com/guidebook/content6.htm http://www.sciencemag.org/cgi/content/abstract/193/4252/484 http://www.springerlink.com/content/x34r526hn5075653/",
+  "function_addressed": [
+    "capture, absorb, or filter liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/trenches-gather-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "trenches",
+    "gather",
+    "water"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

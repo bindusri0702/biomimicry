@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-heart-grows",
+  "organism_common": "Indian python",
+  "organism_scientific": "",
+  "strategy_summary": "Heart of burmese python incurs dramatic growth after a meal by reacting to fatty acids in the snake's plasma. “The Burmese python…frequently goes months without eating and then gorges, sometimes downing an entire deer.",
+  "mechanism": "Heart of burmese python incurs dramatic growth after a meal by reacting to fatty acids in the snake's plasma.\n\n“The Burmese python…frequently goes months without eating and then gorges, sometimes downing an entire deer. To accommodate the sudden rush of sugars, fats, and proteins, its body goes into overdrive. Its metabolism speeds up nearly 40 times, and many of its organs, including its long digestive tract, double in size. Its heart also expands by 40%, presumably to pump greater volumes of blood throughout its body.” (Strain 2011)\n\nResearchers suspect that the cardiac tissue fuels its expansion by burning through three types of nutrients including myristic acid, a common ingredient in many animal fats and other reptile foods.",
+  "function_addressed": [
+    "regulate cellular processes",
+    "modify size/shape/mass/volume"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/heart-grows/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "heart",
+    "grows"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

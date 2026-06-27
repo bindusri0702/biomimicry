@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-chameleons-launch-ballistic-tongues",
+  "organism_common": "Chameleons",
+  "organism_scientific": "",
+  "strategy_summary": "The fast and furious flicks of chameleons’ tongues aren’t a novelty. They’re a key to their survival.",
+  "mechanism": "These awesome ballistic tongues are the result of a remarkable coordinated system of body parts that builds up and quickly releases energy. Here’s how it works.\n\nAt the core of a chameleon tongue is a slim, tubular bone wrapped in thin layers of elastic tissue. Enveloping all of this is a layer of muscle.\n\nThe elastic tissue is made of collagen, a common biological material that gets remarkable stretchiness from its springlike fibers. Half the fibers spiral clockwise and half anticlockwise. Together they form a diagonally crosshatched pattern that looks like the stretchy plastic mesh sleeves used to protect glass bottles.\n\nWhen chameleons sight prey, they get ready, aim, and “load” their tongues by contracting their tongue muscles. The muscles squeeze inward around the collagen fibers, compressing them into tight coils. The fibers are now packed with stored energy, like a jack-in-the-box ready to pop.\n\nThe muscles and compressed collagen layers slide forward along the well-lubricated bone. At its tip, the bone thickness tapers down sharply, expanding the space for the collagen fibers. Suddenly uncompressed, the fibers spring forward, powered by their own momentum. Stored potential energy reverts to kinetic energy, amplifying the tongue’s speed and power. It shoots out at accelerations of 2,590 meters per second squared, or 264 G (faster than a fighter jet), and smashes its sticky tip into its prey within two-hundredths of a second.\n\nChameleons’ highly refined and coordinated tongue system offers intriguing blueprints for scientists to explore ways to engineer projectile-motion mechanical systems and materials that store and release energy more efficiently, generate higher speed and power, and continue to work well in cold temperatures. Such innovations could be used in the fields of ballistics, missile engineering, robotic manipulator equipment, and prosthetic medical devices.",
+  "function_addressed": [
+    "transform mechanical energy",
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/chameleons-launch-ballistic-tongues/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "chameleons",
+    "launch",
+    "ballistic",
+    "tongues"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

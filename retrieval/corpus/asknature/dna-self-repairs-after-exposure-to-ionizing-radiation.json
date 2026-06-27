@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-dna-self-repairs-after-exposure-to-ionizing-radiation",
+  "organism_common": "Rotifers",
+  "organism_scientific": "",
+  "strategy_summary": "Bodies survive extreme exposure to ionization radiation in certain species of Rotifers of class Bdelloidea by repairing DNA. Rotifers of class Bdelloidea are small invertebrates that inhabit temporary aqueous environments (i.e., freshwater pools), mosses, and lichens.",
+  "mechanism": "Bodies survive extreme exposure to ionization radiation in certain species of Rotifers of class Bdelloidea by repairing DNA.\n\nRotifers of class Bdelloidea are small invertebrates that inhabit temporary aqueous environments (i.e., freshwater pools), mosses, and lichens. When these environments dry up, these tiny animals are subject to drought that would likely kill most other species. However, two species of the above class, Adineta vaga and Philodina roseola are not only able to survive such conditions, but are able to reproduce (and thus, thrive) afterwards. Scientists, Gladyshev and Meselson, tested their survival by exposing the species to ionization radiation (IR) and made a comparison of these species to a species of bacteria that avoids desiccation. These researchers believe that survival techniques such as IR resistances are the result of evolutionary divergence from other species thousands of years ago to avoid desiccation; they hypothesize that the animals DNA undergo repair from breakage after the extreme conditions of the environment are removed. Understanding how these animals are capable of being exposed to such extreme conditions and then bouncing back to reproduce may provide clues as to how humans can repair their own DNA after damage or perhaps provide humans with a better way to preserve food that undergoes extreme conditions of transportation.",
+  "function_addressed": [
+    "regulate reproduction or growth",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/dna-self-repairs-after-exposure-to-ionizing-radiation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "dna",
+    "self-repairs",
+    "after",
+    "exposure",
+    "ionizing",
+    "radiation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

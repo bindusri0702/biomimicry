@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-how-flies-survive-freezing",
+  "organism_common": "Goldenrod gall fly",
+  "organism_scientific": "",
+  "strategy_summary": "In fields and gardens around the world, the tips of goldenrods sparkle with tiny pops of yellow along many spindly branches. Over 100 species of these flowers exist, and most grow natively in North America.",
+  "mechanism": "If you’ve ever left a glass bottle full of water in the freezer, you learned the hard way that water expands when it freezes. Living cells are essentially membranes filled with water, and most would rupture (and die) if frozen. So how do gall flies survive?\n\nThe answer depends on how water moves in and out of cells. Water can diffuse across cellular membranes, driven to find an equilibrium between what’s inside the cell and what’s outside. Or water can pass through a class of long snake-like proteins called aquaporins that work like doorways, opening pores through which water can flow.\n\nMuch of science fiction assumes that humans will one day be frozen in pods to endure eons spent in intergalactic travel without aging. While this may or may not be possible in the distant future, there are ways to improve how we freeze human biological material that could actually save many lives right here on Earth.\n\nWith the exception of plasma, most of the components in donated blood cannot be frozen. Although red blood cells can be frozen for emergency use, thawing them is expensive and requires trained staff and specialized equipment.",
+  "function_addressed": [
+    "prevent fracture/rupture",
+    "protect from ice",
+    "maintain homeostasis",
+    "expel liquids",
+    "distribute liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/how-flies-survive-freezing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flies",
+    "survive",
+    "freezing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

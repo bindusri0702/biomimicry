@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-mucus-filters-and-traps-carbon-from-seawater",
+  "organism_common": "Giant Larvacean",
+  "organism_scientific": "",
+  "strategy_summary": "The tiny oceanic creatures called giant larvaceans are “giant” only in comparison to their relatives. New research shows these strange invertebrates have the greatest capacity for filtering seawater of any zooplankton, and so may play an important role in trapping carbon and keeping it from reaching the atmosphere.",
+  "mechanism": "What aren’t simple are their feeding structures––complex filters called “houses” made of mucus that extend far past the body. For most 2-8mm larvacean species, these “houses” can range from 4 to 38 mm (up to 1.5 inches) in diameter, but for the giants of the family, like the Bathochordaeus seen below at 3 to 10 cm (1 to 4 inches), the filtering structures can reach a meter (39 inches) in width. It’s this house structure that enables giant larvaceans to do such an efficient job straining sea water for their tiny food. The wide-meshed outer parts of the filter keep out anything too big to consume, and a smaller inner filter funnels food particles to the mouth via a tube. It’s all powered by the constant motion of the animal’s tail directing water inside and through the house.\n\nUnderstanding how giant larvaceans build such efficient filters, and how they do it so quickly, is a promising area of study. As our understanding of them improves, these amazing structures could inspire designs for new filters and expandable structures, perhaps even opening the doors for easier or more sustained deep-water or space exploration.",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities",
+    "physically break down living materials",
+    "cycle nutrients"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mucus-filters-and-traps-carbon-from-seawater/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mucus",
+    "traps",
+    "carbon",
+    "seawater"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

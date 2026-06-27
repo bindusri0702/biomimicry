@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-glands-remove-salt",
+  "organism_common": "Glaucous-winged gull",
+  "organism_scientific": "",
+  "strategy_summary": "Glands of gulls and other marine birds remove salt from seawater. “These birds (Glaucous-winged Gulls, Larus glaucescens ) drink saline water and eat food with a high salt content and are able to maintain plasma concentration on full strength sea water through efficient salt gland function.” (Hughes 1987:262)  “The…",
+  "mechanism": "Glands of gulls and other marine birds remove salt from seawater.\n\n“These birds (Glaucous-winged Gulls, Larus glaucescens ) drink saline water and eat food with a high salt content and are able to maintain plasma concentration on full strength sea water through efficient salt gland function.” (Hughes 1987:262)\n\n“The secretory mechanism responded to the osmotic concentration of the blood. Addition of osmotically active substances to the blood should induce water to move out of cells into the extracellular compartment. Either the osmotically active material or the expansion it induces in the blood volume (BV) or extracellular fluid volume (ECFV) (or both) might serve as the stimulus for extrarenal excretion of NaCl.” (Hughes 1987:261)",
+  "function_addressed": [
+    "expel solids",
+    "maintain homeostasis"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/glands-remove-salt/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "glands",
+    "remove",
+    "salt"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

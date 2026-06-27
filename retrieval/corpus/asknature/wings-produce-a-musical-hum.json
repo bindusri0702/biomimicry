@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-wings-produce-a-musical-hum",
+  "organism_common": "Hummingbirds",
+  "organism_scientific": "",
+  "strategy_summary": "A hummingbird flits back and forth before flying up to a cluster of bright red cardinal flowers. As it levitates in front of one bloom after the other sipping sweet nectar to replenish the calories it needs to fly, it’s accompanied by the steady, pleasant sound that gives the bird its name in English.",
+  "mechanism": "Most birds flap their wings up and down––opening up on the downstroke to push against the air below, and tucking in on the upstroke to decrease resistance and more easily return to a high point to push down again. The downstroke creates a pressure wave, and that’s what we hear as the periodic woosh. Hummingbirds (and insects) don’t flap up and down. They hold their wings angled to the ground and flap them back and forth in a figure-8 pattern. This pushes against the air below during both parts of the stroke, enabling them to hover in place (like a human treading water) and producing a sound on both halves of the stroke.\n\nWings make an array of noises, depending on what bird or insect is doing the flapping. Some insects use wing noises to attract mates while some birds may interpret flapping frequencies to understand the speed and position of other members of their flock. Some hummingbirds may recognize members of their species solely by hearing their hums. Overpowering human-generated noise can disrupt any of these natural systems.\n\nLearning from the specific harmonic layering produced by hummingbird wing strokes may provide insights on how to alter sounds of all kinds. Quieter or less distracting ship motors, cars, and flying drone vehicles could go a long way to reducing damaging noise pollution. Through such innovations, we might even produce more opportunities for people (and other hummingbirds) to hear a hummingbird’s hum.",
+  "function_addressed": [
+    "modify pressure",
+    "send sound signals",
+    "navigate through air"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/wings-produce-a-musical-hum/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hummingbird",
+    "hums"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-proteins-function-in-saline-environments",
+  "organism_common": "Halophilic archea",
+  "organism_scientific": "",
+  "strategy_summary": "Proteins of halophilic archea resist the denaturing effect of highly saline environments via tightly folded configurations and small accessible surface areas. “ Protein s from halophilic organisms, which live in extreme saline conditions, have evolved to remain folded at very high ionic strengths.",
+  "mechanism": "Proteins of halophilic archea resist the denaturing effect of highly saline environments via tightly folded configurations and small accessible surface areas.\n\n“ Protein s from halophilic organisms, which live in extreme saline conditions, have evolved to remain folded at very high ionic strengths. The surfaces of halophilic proteins show a biased amino acid composition with a high prevalence of aspartic and glutamic acids, a low frequency of lysine, and a high occurrence of amino acids with a low hydrophobic character. Using extensive mutational studies on the protein surfaces, we show that it is possible to decrease the salt dependence of a typical halophilic protein to the level of a mesophilic form and engineer a protein from a mesophilic organism into an obligate halophilic form. NMR studies demonstrate complete preservation of the three-dimensional structure of extreme mutants and confirm that salt dependency is conferred exclusively by surface residues. In spite of the statistically established fact that most halophilic proteins are strongly acidic, analysis of a very large number of mutants showed that the effect of salt on protein stability is largely independent of the total protein charge. Conversely, we quantitatively demonstrate that halophilicity is directly related to a decrease in the accessible surface area.” (Tadeo et al. 2009:e1000257)",
+  "function_addressed": [
+    "physically assemble structure",
+    "modify material characteristics",
+    "protect from chemicals",
+    "protect from loss of liquids",
+    "regulate cellular processes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/proteins-function-in-saline-environments/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "proteins",
+    "function",
+    "saline",
+    "environments"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

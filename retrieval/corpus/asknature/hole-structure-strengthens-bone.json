@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-hole-structure-strengthens-bone",
+  "organism_common": "Horse",
+  "organism_scientific": "",
+  "strategy_summary": "A metacarpal bone of a horse avoids structural weakness caused by a hole via stress-dispersing microstructure. Zebras, horses, and other equine species put substantial stress upon their central forefoot bones, particularly the third metacarpal, with remarkable strength despite having holes in them for blood vessels to…",
+  "mechanism": "A metacarpal bone of a horse avoids structural weakness caused by a hole via stress-dispersing microstructure.\n\nZebras, horses, and other equine species put substantial stress upon their central forefoot bones, particularly the third metacarpal, with remarkable strength despite having holes in them for blood vessels to pass through. The presence of a hole (or foramen) in a structural element offers the potential for it to act as a site of stress concentration and initiation of cracks, yet these foramina do not weaken the bone or act as fracture initiation sites. Hence the foramen in the third metacarpal of equine species has been of interest to engineers to learn how to design openings in structures in a way that avoids cracking.\n\nThe key features investigators have found that minimize cracking at these sites are:\n\ntheir location in regions predominantly experiencing compression\n\ntheir elliptical––rather than round––shape, oriented parallel to the long axis of the bone and the lines of force\n\nthe “softening” of the material discontinuity by increased compliance of the tissue surrounding the opening that shifts peak stresses away from the foramen edge\n\na ring of increased stiffness reinforcing the foramen at some distance from it to absorb those stresses shifted inward from the compliant foramen edge.\n\nMany human-made structures, such as airplane wings, need to have holes in them to accommodate wires, fuel lines, or hydraulic system elements. Hence inspiration from the design of foramina in bones could have wide application.\n\nImage: Jupiterimages Corporation / toggle icon Image: Jurek Durczak / toggle icon right arrow right arrow",
+  "function_addressed": [
+    "distribute energy",
+    "manage compression"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hole-structure-strengthens-bone/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "hole",
+    "structure",
+    "strengthens",
+    "bone"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

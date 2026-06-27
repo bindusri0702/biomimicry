@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-elk-antlers-thwart-breakage",
+  "organism_common": "Elk",
+  "organism_scientific": "",
+  "strategy_summary": "Each autumn, elk descend from the high country and fill the cool air of mountain meadows with the sounds of their high-pitched bugling and the clatter of clashing antlers. Competitors lock together, pushing each other around like sumo wrestlers.",
+  "mechanism": "Antler is one of the toughest known biomaterials. Toughness is resistance to fracture. Strength is resistance to bending. To have one quality generally requires sacrificing some of the other. To achieve balance, elk antlers use the same ingredients as human bone, but the recipe is slightly different. Antlers have fewer hard calcium crystals and higher amounts of pliable collagen, which gives them higher flexibility. This makes antlers much tougher than human bones because they can bend farther before they break. But because they’re more flexible, they are not as strong.\n\nIt’s not just flexibility that helps antler resist fracture. The way its building blocks are organized also helps give it built-in crack resistance. Similar to other kinds of compact bone, the basic components of antlers are cylindrical structures called osteons.\n\nRival elk bulls may have a few bones to pick with each other. Fortunately, inherent plasticity and microfracture toughening protect their antlers during these head-butting battles.\n\nHumans are taking their cue and incorporating these features into customized material designs for specific applications. Researchers recently combined a type of flexible plastic used to make contact lenses with strong fiberglass to create a new material. This so-called “metamaterial” combines toughness with strength, making it suitable to repair or replace injured tendons and ligaments.",
+  "function_addressed": [
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/elk-antlers-thwart-breakage/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "clashing",
+    "elk",
+    "antlers",
+    "thwart",
+    "breakage"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

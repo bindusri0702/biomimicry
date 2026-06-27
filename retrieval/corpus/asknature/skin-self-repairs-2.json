@@ -1,0 +1,22 @@
+{
+  "doc_id": "asn-skin-self-repairs-2",
+  "organism_common": "Kangaroos and relatives",
+  "organism_scientific": "",
+  "strategy_summary": "Skin of kangaroos self-repairs after sun damage using a DNA repair enzyme. “University of Melbourne researchers have found that kangaroos could hold the key to the prevention of skin cancer.",
+  "mechanism": "Skin of kangaroos self-repairs after sun damage using a DNA repair enzyme.\n\n“University of Melbourne researchers have found that kangaroos could hold the key to the prevention of skin cancer.\n\n“The researchers, who teamed up with Austrian scientists from the University of Innsbruck, believe that finding out how kangaroos repair their sun-damaged DNA could be the key to preventing skin cancer.\n\n“Dr Linda Feketeova and Dr Uta Wille from the University of Melbourne are investigating a DNA repair enzyme found in kangaroos and many other organisms but not humans…’Other research teams have proposed a `dream cream’ containing the DNA repair enzyme which you could slap on your skin after a day in the sun.\n\n“‘We are now examining whether this would be feasible by looking at the chemistry behind the (kangaroo) DNA system.’\n\n“Dr Wille, who has been researching the kangaroo link for a number of years, said the DNA’s repair process had resulted in a number of chemical by-products that had never been seen before.\n\n“‘Our plan is to study these products to understand if the DNA repair enzyme could be incorporated into a safe and effective method for skin cancer prevention,’ she said.” (University of Melbourne 2009)",
+  "function_addressed": [
+    "protect from light"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/skin-self-repairs-2/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "skin",
+    "self-repairs"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

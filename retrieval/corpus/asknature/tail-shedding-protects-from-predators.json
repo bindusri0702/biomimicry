@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-tail-shedding-protects-from-predators",
+  "organism_common": "Protect From Animals",
+  "organism_scientific": "",
+  "strategy_summary": "The tail of a lizard helps it escape predators by breaking off at one of the cartilaginous fracture planes within its caudal vertebrae. “The shedding of tails, and sometimes other limbs too, is not uncommon in the natural world.",
+  "mechanism": "The tail of a lizard helps it escape predators by breaking off at one of the cartilaginous fracture planes within its caudal vertebrae.\n\n“The shedding of tails, and sometimes other limbs too, is not uncommon in the natural world. Autotomy, as scientists call it, is a clever means of getting away from predators, which are literally left holding a part of the intended victim’s body. Not only is the victim able to survive the incident, it is able to replace the lost body part. Species from no less than 11 of the 16 classified families of lizard shed their tails in this way. The secret of the process lies in the structure of a typical lizard’s tail. Each of its caudal vertebrae from the sixth onward contains a weak horizontal ‘break’ or fracture plane, which is made of cartilage instead of bone and will snap easily if held. Also, within each vertebra’s fracture plane the blood vessels and nerves are constricted, so that if the tail does snap off, blood loss will be minimal.” (Shuker 2001:131)",
+  "function_addressed": [
+    "protect from animals",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tail-shedding-protects-from-predators/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tail",
+    "shedding",
+    "protects",
+    "predators"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

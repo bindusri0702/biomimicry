@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-leaf-shapes-optimize-sunlight",
+  "organism_common": "Olive tree",
+  "organism_scientific": "",
+  "strategy_summary": "Leaves of olive trees optimize sunlight harvesting by differing in shape and being flexible to changing conditions  In some deciduous trees, the leaves on the exterior of the tree canopy differ from those inside the tree canopy. The exterior leaves are referred to as “sun leaves,” while the interior leaves are “shade…",
+  "mechanism": "Leaves of olive trees optimize sunlight harvesting by differing in shape and being flexible to changing conditions\n\nIn some deciduous trees, the leaves on the exterior of the tree canopy differ from those inside the tree canopy. The exterior leaves are referred to as “sun leaves,” while the interior leaves are “shade leaves.” These leaves have differences in shape, internal anatomy, and chemistry that translate into specialized abilities to use different kinds of solar radiation effectively.\n\nSun leaves are typically smaller, more elongate, and thicker than shade leaves, with more layers of chlorophyll-containing tissues and more extensive internal vascular systems. It is thought that sun leaves are better adapted to capture and use direct solar radiation (when it isn’t too intense to cause heat and other stress-related damage). Their elongate shape is also correlated with higher levels of solar radiation reaching the inner canopy where the shade leaves are located. Shade leaves appear to effectively use diffuse solar radiation, which reaches the inner canopy after having been scattered by other objects, like the outer sun leaves, in the path of direct light. Shade leaves can also be found on the exterior canopy on the side that faces away from the prevailing sun.\n\nIt appears that exterior sun leaf characteristics can change with environmental conditions (they show plasticity), and that their shape in particular can influence the internal canopy environment that shade leaves experience. Plasticity in sun leaves seems to help stabilize inner canopy conditions, buffering it from abiotic stresses. Genetic variation and tree size also affect leaf characteristics, but it seems that whole-tree photosynthesis can be optimized by having sun and shade leaves respond differently to the environment. Sun and shade leaves occur in other species, too. In oaks, external leaves have narrower lobes while the lobes of shade leaves are broader.",
+  "function_addressed": [
+    "adapt phenotype",
+    "modify size/shape/mass/volume",
+    "distribute energy",
+    "capture, absorb, or filter energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaf-shapes-optimize-sunlight/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaf",
+    "shapes",
+    "optimize",
+    "sunlight"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

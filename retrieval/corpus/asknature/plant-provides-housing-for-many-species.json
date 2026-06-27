@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-plant-provides-housing-for-many-species",
+  "organism_common": "Ant plants",
+  "organism_scientific": "",
+  "strategy_summary": "An ant-plant maintains biodiversity through symbiotic relationships with 50 species. Sometimes, a single species of plant or animal can have a huge effect on the other species in an area.",
+  "mechanism": "An ant-plant maintains biodiversity through symbiotic relationships with 50 species.\n\nSometimes, a single species of plant or animal can have a huge effect on the other species in an area. For example, a beaver colony can create slow-water habitat for fish, birds, frogs, otters, and other species. In coastal mangrove forests of Papua New Guinea, in the southwestern Pacific Ocean north of Australia, researchers found that a single species of plant supports dozens of other species.\n\nThis plant species is Hydnophytum moseleyanum . It’s one of many organisms, called epiphytes , that grow on the surfaces of plants. Mosses, ferns, and bromeliads are examples of epiphytes. These organisms use the plant as a way to get higher in the canopy of a forest to gain access to nutrients and moisture from rain or fog, but they rarely harm the plant.\n\nHydnophytum moseleyanum is an ant plant, which is a plant that lives in a mutualistic relationship with ants. In this type of relationship, the plant provides a sheltered place for the ants to live, while the ants provide nutrients to the plant. This kind of ant plant has a swollen stem containing cavities, some smooth and some warty. The ants live in the smooth cavities and deposit wastes in the warty ones. The plant absorbs nutrients from that waste.\n\nHydnophytum moseleyanum and some of the ants associated with it form another type of relationship with other species. It’s called commensalism , where the plant gets nothing from the other species but provides them living space and the moisture within it. The other species probably also get some resources from the ants. Scientists found 50 species living on Hydnophytum moseleyanum , all using the swollen stem. Eleven of those species were ants and the most common were from the genus Philidris, which has the mutualistic relationship with the ant plant.\n\nThe other 39 species include, for example, cockroaches, termites, springtails, sow bugs, crickets, silverfishes, wasps, and even a few crabs and lizards. This combination of mutualism and commensalism appears to play an important role in supporting many organisms and maintaining species diversity in the mangrove forests.\n\nSection through the stem of Hydnophytum moseleyanum\n\nAnt-plant Hydnophytum moseleyanum showing the enlarged stem.\n\nOne of the 50 species found in Hydnophytum moseleyanum.",
+  "function_addressed": [
+    "cooperate/compete between different species",
+    "maintain biodiversity"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/plant-provides-housing-for-many-species/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "plant",
+    "provides",
+    "housing",
+    "many",
+    "species"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

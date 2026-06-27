@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-boreal-forested-peatland-captures-and-stores-carbon-dioxide",
+  "organism_common": "Forest ecosystems",
+  "organism_scientific": "",
+  "strategy_summary": "Plants are made of air. Absorbing carbon dioxide as a gas, they break the invisible molecules apart and knit the atoms together into roots, stems, trunks, and leaves.",
+  "mechanism": "The forested peatlands of North America’s boreal region can be as dense as other types of forests in these areas. This is significant because the less sunlight there is reaching the forest floor, the longer it takes for plants to decompose. In this way, forested peatlands can protect their peat from decomposing fully and releasing stored carbon back into the atmosphere.\n\nWithin forested peatlands, the peat itself does the heavy lifting, storing much more carbon than the trees. In fact, the forested peatlands of boreal regions in eastern Canada can store as much carbon as other wetlands, like fens and bogs, in the same areas. The combined storage capabilities and protection from decomposition create a self-sufficient system for capturing and storing carbon.\n\nNothing lasts forever though, and fire can cut short the long sleep that carbon would otherwise undergo, locked up in the peat. Whether natural or man-made, fires can result in both forests and peatlands releasing their stored carbon and losing some of their ability to continue storing carbon. Since forested peatlands have such high soil moisture, they are less vulnerable to fires and offer more effective, long-term carbon storage than other forests. Only the drier layers of peat at the surface of the soil are impacted by fires, leaving those deeper layers that are storing carbon unharmed. However, rising global temperatures as a result of climate change are causing drying deeper and deeper into the peat, making these areas increasingly vulnerable to fires.\n\nWhile unforested wetlands generally have greater carbon storage capacity, forested peatlands present a compelling alternate model for a sequestering ecosystem, and are worth protecting for their potential role in reducing the impacts of climate change. As humans seek to develop artificial carbon sequestration systems, the diversity of forested peatlands provides examples and inspiration for how to more effectively pull solutions to climate challenges out of thin air.\n\nSee Related Strategy\n\nSaipem\n\nIndustrial Lung by Saipem is a non-toxic carbon capture process that uses a synthetic form of the enzyme carbonic anhydrase.",
+  "function_addressed": [
+    "modify energy state",
+    "chemically break down inorganic compounds",
+    "store chemical entities",
+    "capture, absorb, or filter gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/boreal-forested-peatland-captures-and-stores-carbon-dioxide/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "trees",
+    "peat",
+    "capture",
+    "store",
+    "carbon"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

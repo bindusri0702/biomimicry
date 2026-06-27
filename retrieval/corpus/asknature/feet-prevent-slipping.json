@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-feet-prevent-slipping",
+  "organism_common": "Steam fly",
+  "organism_scientific": "",
+  "strategy_summary": "Feet of insects stick to surfaces using nanometer-thin films of liquid secretions. “Many insects cling to vertical and inverted surfaces with pads that adhere by nanometre-thin films of liquid secretion.",
+  "mechanism": "Feet of insects stick to surfaces using nanometer-thin films of liquid secretions.\n\n“Many insects cling to vertical and inverted surfaces with pads that adhere by nanometre-thin films of liquid secretion. This fluid is an emulsion, consisting of watery droplets in an oily continuous phase. The detailed function of its two-phasic nature has remained unclear. Here we show that the pad emulsion provides a mechanism that prevents insects from slipping on smooth substrates. We discovered that it is possible to manipulate the adhesive secretion in vivo using smooth polyimide substrates that selectively absorb its watery component. While thick layers of polyimide spin-coated onto glass removed all visible hydrophilic droplets, thin coatings left the emulsion in its typical form. Force measurements of stick insect pads sliding on these substrates demonstrated that the reduction of the watery phase resulted in a significant decrease in friction forces. Artificial control pads made of polydimethylsiloxane showed no difference when tested on the same substrates, confirming that the effect is caused by the insects’ fluid-based adhesive system. Our findings suggest that insect adhesive pads use emulsions with non-Newtonian properties, which may have been optimized by natural selection. Emulsions as adhesive secretions combine the benefits of ‘wet’ adhesion and resistance against shear forces.” (Dirks et al. 2009)",
+  "function_addressed": [
+    "attach temporarily"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/feet-prevent-slipping/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "feet",
+    "prevent",
+    "slipping"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

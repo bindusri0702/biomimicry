@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-dead-leaves-insulate-against-fire",
+  "organism_common": "Cape aloe",
+  "organism_scientific": "",
+  "strategy_summary": "The stems of cape aloe resist fire via dead leaf insulation. “Many aloe species in southern Africa have stems clothed with a layer of persistent dead leaves.",
+  "mechanism": "The stems of cape aloe resist fire via dead leaf insulation.\n\n“Many aloe species in southern Africa have stems clothed with a layer of persistent dead leaves. The degree of stem coverage is species-specific. The suggestion that persistent dead leaves have an insulatory function and are adaptive in fire-prone habitat was tested on Aloe ferox . Field surveys demonstrated a significant negative relationship between mortality and degree of stem coverage and laboratory studies confirmed the insulating properties of dead leaves. The distribution of southern African tree aloes supports the prediction that bare-stemmed species would be confined to fire-free habitat whilst fully clothed species would occur in both fire-prone and fire-free habitat.” (Bond 1983:110)",
+  "function_addressed": [
+    "protect from fire"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/dead-leaves-insulate-against-fire/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "dead",
+    "leaves",
+    "insulate",
+    "against",
+    "fire"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

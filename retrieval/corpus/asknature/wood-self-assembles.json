@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-wood-self-assembles",
+  "organism_common": "Chemically Assemble Polymers",
+  "organism_scientific": "",
+  "strategy_summary": "The cell walls of wood in trees self-assemble through structural features, not biochemistry. A better understanding of how the cell wall of wood forms will someday help wood scientists assemble wood-like composites without using trees.",
+  "mechanism": "The cell walls of wood in trees self-assemble through structural features, not biochemistry.\n\nA better understanding of how the cell wall of wood forms will someday help wood scientists assemble wood-like composites without using trees. The current hypothesis is that the cell wall of wood does not require biochemistry to form, but self-assembles spontaneously because of structural features. Researchers are studying this process carefully, in hopes that someday wood-like materials can be produced from other plant-derived molecules. (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "chemically assemble polymers",
+    "chemically assemble organic compounds",
+    "coordinate by self-organization"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/wood-self-assembles/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "wood",
+    "self-assembles"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

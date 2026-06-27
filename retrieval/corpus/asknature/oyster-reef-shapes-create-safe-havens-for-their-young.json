@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-oyster-reef-shapes-create-safe-havens-for-their-young",
+  "organism_common": "Eastern oyster",
+  "organism_scientific": "",
+  "strategy_summary": "Oyster reefs are like underwater forests that provide habitat for hundreds of marine species, including shrimp, flounder, and herring. These forests not only protect, house, and feed marine life, they also help sustain commercial fishing that humans rely on for food.",
+  "mechanism": "Scientists compared naturally thriving reef locations to a restored reef site to study the variables that influence larval success. They found that natural reefs have surfaces that increase the larvae’s ability to attach to and survive on it.\n\nHuman buildings are uniform structures because we design elements like bricks to fit together perfectly. But oyster shells are rough and irregular. They secrete a specialized adhesive to stick to one another, building complex, amorphous structures that climb from the ocean floor up rocks and seawalls. These structures must be sturdy to withstand strong forces from the ocean’s currents.\n\nSee Related Strategy\n\nEastern oyster\n\nOysters build strong but flexible reefs using minerals in a sticky protein web.\n\nOverfishing, coastal development, and disease have ravaged oyster reefs. Globally, as much as 85% have been lost over the past few centuries. Understanding how oysters optimize their reef designs to maximize larval success can improve restoration methods to revive biodiversity in failing reefs. It could also lead to greener concrete for underwater structures, made with compositions and textures that promote larvae attachment and reef growth.\n\nOysters can also inspire ideas beyond reef construction. For example, what can oysters teach us more broadly about the strong currents that cause erosion and weathering of materials in water and other environments as well?",
+  "function_addressed": [
+    "manage turbulence",
+    "coordinate by self-organization",
+    "protect from dirt/solids",
+    "attach permanently"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/oyster-reef-shapes-create-safe-havens-for-their-young/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "oyster",
+    "reef",
+    "shapes",
+    "create",
+    "safe",
+    "havens"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

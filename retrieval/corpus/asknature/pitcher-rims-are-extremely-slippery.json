@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-pitcher-rims-are-extremely-slippery",
+  "organism_common": "Tropical pitcher plants",
+  "organism_scientific": "",
+  "strategy_summary": "Pitcher plants of the genus Nepenthes are stunning tropical plants with a deadly habit. Specialized leaves in this carnivorous plant form a tall pitcher that traps insects and other small prey when they land on the rim of the pitcher and fall in, ending up in a pool of digestive juices.",
+  "mechanism": "Scientists have identified two different, interacting factors that make the rim a low-friction surface: first, it is patterned with a series of micron-sized ridges that run into the pitcher. The ridges are made of overlapping epidermal cells, like roof tiles, that give the surface texture directionality—it’s easier to slide toward the inside of the pitcher than it is to slide the opposite way and escape. Second, when there’s a source of liquid—for instance humidity, rain, or the plant’s own nectar—a thin film forms on the rim’s microtextured surface. This “wetted” surface drastically reduces friction between the plant and insect feet, particularly if movement is toward the inside of the pitcher. Unlike many microtextured plant leaf surfaces that are water repellent (hydrophobic), the pitcher plant rim appears to wet easily, making it a highly effective slippery surface.\n\nThe pitcher plant’s slippery surfaces are inspiring several researchers to develop self-cleaning surfaces, some of which apply the novel concept of staying permanently wet to stay clean.",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pitcher-rims-are-extremely-slippery/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pitcher",
+    "rims",
+    "extremely",
+    "slippery"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-leaves-have-elasticity-shape-memory",
+  "organism_common": "Resurrection fern",
+  "organism_scientific": "",
+  "strategy_summary": "Leaves of the resurrection fern regain shape after dehydration due to hierarchical structure of palisade and spongy layers. Image: s / toggle icon Image: Christine (and John) Fournier / toggle icon right arrow right arrow  “The resurrection fern Polypodium polypodioides has a remarkable elastic reponse, where the fast…",
+  "mechanism": "Leaves of the resurrection fern regain shape after dehydration due to hierarchical structure of palisade and spongy layers.\n\nImage: s / toggle icon Image: Christine (and John) Fournier / toggle icon right arrow right arrow\n\n“The resurrection fern Polypodium polypodioides has a remarkable elastic reponse, where the fast water uptake of the fern upon rehydration is accompanied by a significant reduction in its Young’s modulus. In this letter, we discuss the fern’s elastic response and suggest that by mimicking its structure, one should be able to design materials exhibiting interesting elastic behavior.\n\n“For many years, plants have been a rich information source for designing and optimizing materials and biomimetic systems. For example, Burdock plants had a direct impact on the invention of a novel hooking system, while the lotus leaf has inspired the creation of very hydrophobic surfaces. The elastic response of plants when exposed to external stimuli water, light, etc. is also rather interesting,and emerging biomimetic materials may just take advantage of this. Plant leaves are often stiff while fully hydrated but loose turgor and become soft under dry conditions. If they dry completely up, only the cellular matrix remains, and the leaf appears to be hard and brittle. However, some plants have a conceptually simpler elastic response, where the plant leaf is stiff in the dry state and soft in the wet state. Here, we study the resurrection fern Polypodium polypodioides , which has an amazing ability to take up water while at the same time altering its elasticity from a soft hydrated state to a stiff dehydrated state in order to cope with drought. Moreover, as reported in Ref. 6, the fern can reproducibly switch between a curled-up dry state and a fully extended and soft wet state and is, therefore, a natural shape-memory material.” (Helseth 2008:1)\n\n“The structure of the resurrection fern is hierarchical (see Fig. 5 in Ref. 6), where the smallest elastic units are the plant cells arranged into palisade and spongy layers. Water flows into the layered structures due to capillary pressure, allowing the cells to absorb water as well. An artificial structure aiming at reproducing the elastic reponse of the fern must display a hierarchical structure which mimics that of the plant.” (Helseth 2008:3)",
+  "function_addressed": [
+    "modify size/shape/mass/volume",
+    "store liquids",
+    "capture, absorb, or filter liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-have-elasticity-shape-memory/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "have",
+    "elasticity",
+    "shape",
+    "memory"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

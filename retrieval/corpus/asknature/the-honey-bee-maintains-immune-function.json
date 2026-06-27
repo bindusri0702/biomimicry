@@ -1,0 +1,30 @@
+{
+  "doc_id": "asn-the-honey-bee-maintains-immune-function",
+  "organism_common": "Honeybees",
+  "organism_scientific": "",
+  "strategy_summary": "A well-rounded diet is required to get the nutrients our bodies need to function—this is true as true for humans as it is for any other living thing. In this case, let’s take a closer look at the diet of the honeybee ( Apis mellifera ).",
+  "mechanism": "Immune system maintenance requires a lot of energy and resources, including a consistent supply of protein from pollen. A single source of protein is not enough to fulfill the honeybee’s dietary needs, so a habitat that offers pollen sources from a variety of plants is ideal. A honeybee colony overridden by disease likely does not have access to the food resources it needs to sustain immune function, which can indicate that the bees live in a degraded ecosystem.\n\nThe impact of a diverse diet on the honeybee’s immunity can be measured through its blood cell concentration, fat body content, phenoloxidase activity and glucose oxidase (GOX) activity.\n\nThe first three measures relate to the immune function of individuals. Blood cell concentration and phenoloxidase activity measure a bee’s ability to identify, trap, and remove parasites. Fat bodies are where antimicrobial peptide s are made.\n\nThe fourth measure relates to the colony as a whole. GOX allows a colony to be sterilized through the production of hydrogen peroxide, which has antiseptic properties. These antiseptic products are secreted into honey and other larval food.\n\nExperimentally, it has been shown that increasing the amount of protein in a honeybee’s diet did not significantly improve its immunity, but increasing the diversity of the honeybee’s diet did.\n\nSee Related Innovation\n\nWet prairie ecosystem\n\nGrasses of wet prairies in South Florida thrive by being adapted to fire during the growing season.\n\nThe decline of honey bees has been attributed to many different causes, including susceptibility to disease due to weakened immune systems. The understanding that the diversity of food sources is important for individual and colony immunity can lead to new treatments and management styles to improve the health of honeybees everywhere.\n\nIn addition, the specific chemistry of honeybee health could inspire new therapies for bees, other invertebrates, and other animals as well.\n\nFinally, a closer examination of the interplay between individual and colony immune functions could lead to insights for better management of the health of other communities, including human ones.",
+  "function_addressed": [
+    "protect from microbes",
+    "regulate cellular processes",
+    "distribute solids",
+    "store solids",
+    "capture, absorb, or filter solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/the-honey-bee-maintains-immune-function/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "diverse",
+    "food",
+    "sources",
+    "keep",
+    "honeybees",
+    "healthy"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

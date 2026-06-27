@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-metabolites-make-wood-durable",
+  "organism_common": "Cow-wood",
+  "organism_scientific": "",
+  "strategy_summary": "Tissues of the Bagassa guianensis tree increase its durability due to the presence of metabolites called stilbenoids. “In order to explain the durability of the Moraceae plant family, phytochemistry of Bagassa guianensis was performed…18 secondary metabolites were isolated, including…8 stilbenoids…Previous studies…",
+  "mechanism": "Tissues of the Bagassa guianensis tree increase its durability due to the presence of metabolites called stilbenoids.\n\n“In order to explain the durability of the Moraceae plant family, phytochemistry of Bagassa guianensis was performed…18 secondary metabolites were isolated, including…8 stilbenoids…Previous studies suggest that stilbenoids are responsible for the natural durability of wood.” (Royer et al. 2010: 1708)\n\n“Stilbenes are known as fungicides, termicides and bactericides (Hart and Shrimpton, 1979; Likhitwitayawuid and Sritularak, 2001; Jayasinghe et al., 2004) and may also exhibit antioxidant properties.” (Royer et al. 2010: 1711)",
+  "function_addressed": [
+    "protect from animals",
+    "protect from fungi",
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/metabolites-make-wood-durable/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "metabolites",
+    "make",
+    "wood",
+    "durable"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

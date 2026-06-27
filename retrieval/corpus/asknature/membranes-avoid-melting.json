@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-membranes-avoid-melting",
+  "organism_common": "Methanopyrus",
+  "organism_scientific": "",
+  "strategy_summary": "Membranes of Methanopyrus microbes avoid melting in high heat because they are made up of waxy chemicals instead of ordinary fats. “But hyperthermophiles still have waxy membranes, consist of proteins, and their genes are made of DNA; how do they manage to thrive in such heat?",
+  "mechanism": "Membranes of Methanopyrus microbes avoid melting in high heat because they are made up of waxy chemicals instead of ordinary fats.\n\n“But hyperthermophiles still have waxy membranes, consist of proteins, and their genes are made of DNA; how do they manage to thrive in such heat? Well, as far as their membranes are concerned, there are no ordinary fats that do not melt at 90 to 110° [note: temperatures are in C], and these organisms prove to have instead special waxy chemicals which are not true fats: they have higher melting points. (Digression for those who know organic chemistry: their fat materials (lipids) are not esters but ethers.) Their proteins, too, prove to be naturally more heat-resistant than most, and there is evidence that some are permanently stabilised by chaperonins, others by newly-discovered substances that are not proteins, such as a compound of glycerol and phosphate which is plentiful in the record-breaking Methanopyrus. The problem of how such organisms manage their DNA is still unsolved, because their DNA is much like that of other living things: when extracted it unravels in the 65 to 75° range.” (Postgate 1994:15)",
+  "function_addressed": [
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/membranes-avoid-melting/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "membranes",
+    "avoid",
+    "melting"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

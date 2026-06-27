@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-glassiness-protects-plants-in-drought",
+  "organism_common": "Blue gem plant",
+  "organism_scientific": "",
+  "strategy_summary": "The cells of the blue gem plant survive dry spells thanks to sugar solutions drying to form a glassy substance around chloroplasts. “ Craterostigma plantagineum , a native of Africa…uses its stores of sucrose to ‘vitrify’ the fluid around its chloroplasts.” This glassy substance takes the place of water during dry…",
+  "mechanism": "The cells of the blue gem plant survive dry spells thanks to sugar solutions drying to form a glassy substance around chloroplasts.\n\n“ Craterostigma plantagineum , a native of Africa…uses its stores of sucrose to ‘vitrify’ the fluid around its chloroplasts.” This glassy substance takes the place of water during dry spells, keeping cells from shrinking. (Blankesteijn 1996:18)",
+  "function_addressed": [
+    "protect from loss of liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/glassiness-protects-plants-in-drought/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "glassiness",
+    "protects",
+    "plants",
+    "drought"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

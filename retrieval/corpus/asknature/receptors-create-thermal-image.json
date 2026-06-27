@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-receptors-create-thermal-image",
+  "organism_common": "Capture, Absorb, or Filter Organisms",
+  "organism_scientific": "",
+  "strategy_summary": "Thermoreceptors found in pits in a viper's face provide it with a bifocal thermal image of prey because the fields of thermal sensitivity overlap. Image: Elroy Serrao / toggle icon Image: World of Warmth / toggle icon right arrow right arrow  “The pit viper’s ability to register heat is so sensitive that they can feel…",
+  "mechanism": "Thermoreceptors found in pits in a viper's face provide it with a bifocal thermal image of prey because the fields of thermal sensitivity overlap.\n\nImage: Elroy Serrao / toggle icon Image: World of Warmth / toggle icon right arrow right arrow\n\n“The pit viper’s ability to register heat is so sensitive that they can feel the temperature variation produced by a mouse from 6 inches (15 cm) away. The heat sensors are located in the pit-shaped holes on their faces that give them their name. Positioned on each side of the snake’s head between the eye and nostril, these small, shallow pits point forward, and their tiny, pinhole openings are supplied with a grid of 7,000 nerve endings from a branch of the trigeminal nerve leading to the head and face. Toward the base of this pit is a membrane, similar to the retina of the eye, which has minuscule thermoreceptors, numbering 500-1,500 per square millimeter. Because the fields of sensitivity of the two pits overlap, a pit viper can see heat in stereo. This bifocal thermal vision provides the snake with a fiery infrared image of its prey and enables it to judge how far away it is. The pit viper’s sensory awareness is coupled with quick reactions, allowing it to respond to a heat signal in under 35 milliseconds.” (Shuker 2001:17-18)",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "sense temperature cues from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/receptors-create-thermal-image/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "receptors",
+    "create",
+    "thermal",
+    "image"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

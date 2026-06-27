@@ -1,0 +1,17 @@
+{
+  "doc_id": "asn-silver-ant-reflective-hairs",
+  "organism_common": "Saharan silver ant",
+  "organism_scientific": "Cataglyphis bombycina",
+  "strategy_summary": "The Saharan silver ant forages across desert sand hot enough to kill most animals, staying cool by reflecting incoming sunlight and shedding body heat more efficiently than its surroundings, which lets it survive surface temperatures above 50 degrees Celsius.",
+  "mechanism": "A dense coat of triangular cross-section hairs on the ant's back reflects visible and near-infrared sunlight through total internal reflection, while the same hairs enhance emission in the mid-infrared so the body radiates heat away. The combination passively lowers body temperature by reflecting solar gain and increasing radiative cooling.",
+  "function_addressed": ["regulate temperature", "reflect heat", "dissipate heat"],
+  "environment": "extreme hot desert surface under direct sun",
+  "taxon": "Animalia/Arthropoda/Insecta",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hairs-keep-ant-cool/",
+  "source_tier": "peer_reviewed",
+  "keywords": ["radiative cooling", "reflectance", "infrared emission", "solar reflection", "thermoregulation"],
+  "is_usual_suspect": false,
+  "popularity": 0.35,
+  "provenance": "synthetic"
+}

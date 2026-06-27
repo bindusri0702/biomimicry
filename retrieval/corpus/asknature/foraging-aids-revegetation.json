@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-foraging-aids-revegetation",
+  "organism_common": "Capture, Absorb, or Filter Chemical Entities",
+  "organism_scientific": "",
+  "strategy_summary": "The foraging behavior of bilbies helps revegetate arid landscapes by creating pits that naturally catch plant matter, seeds, and nutrients. “Fertile patches are created and maintained by a combination of physical and biologically-mediated processes including soil disturbance by animals.",
+  "mechanism": "The foraging behavior of bilbies helps revegetate arid landscapes by creating pits that naturally catch plant matter, seeds, and nutrients.\n\n“Fertile patches are created and maintained by a combination of physical and biologically-mediated processes including soil disturbance by animals. We examined the creation of fertile patches by 4 vertebrates, the greater bilby Macrotis lagotis , burrowing bettong Bettongia lesueur , European rabbit Oryctolagus cuniculus , and Gould’s sand goanna Varanus gouldii within dunes, ecotones, and swales in a dunefield in arid South Australia. These animals all create pits when foraging for subterranean food resources. We hypothesized that 1) the effect of pits on litter capture would vary among landscapes and animal species, 2) larger pits would trap more litter and seed, 3) pits would contain more viable seed than the surrounding matrix, and 4) the effect of pits on soil chemistry would vary among animal species, and be greater in landscapes with more finely textured soils. We found that litter was restricted almost exclusively to the pits, and was greater in pits with larger openings. Litter capture was greater in ecotones and dunes than in swales. A total of 1307 seedlings from 46 genera germinated from litter samples taken from the pits, but no seedlings emerged from samples taken from soil surrounding the pits. Foraging pits contained significantly higher levels of total C and N than surrounding soil, and total C and N concentrations were greatest in swales and lowest in dunes. Pits contained ca 55% more mineralisable N that surface soils, and pits constructed by bilbies and bettongs contained half the concentration of mineralisable N as those of rabbits and goannas. Concentrations of mineral N and mineralisable N were also greatest in the swales. Our results demonstrate the importance of animal-created pits as nutrient sinks and sites for seedling establishment, and suggest that changes in the composition of arid zone vertebrates may have resulted in profound changes to nutrient and soil dynamics in arid Australia.” (James et al. 2009:723)\n\nhttp://www3.interscience.wiley.com/journal/122473322/abstract?CRETRY=1&SRETRY=0",
+  "function_addressed": [
+    "capture, absorb, or filter chemical entities",
+    "capture, absorb, or filter solids",
+    "control erosion and sediment",
+    "cycle nutrients",
+    "generate soil/renew fertility"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/foraging-aids-revegetation/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "foraging",
+    "aids",
+    "revegetation"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

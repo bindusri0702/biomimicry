@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-crosslinks-toughen-beak",
+  "organism_common": "Cephalopods",
+  "organism_scientific": "",
+  "strategy_summary": "Beak of squid is hard and stiff because of chemical cross linking  Beaks of squid and other cephalopods are made primarily of chitin—chemically simple long repeating chains of sugars. Although soft when wet, under certain circumstances, chitin fibers can become the stiffest and strongest known non-mineralized material.",
+  "mechanism": "Beak of squid is hard and stiff because of chemical cross linking\n\nBeaks of squid and other cephalopods are made primarily of chitin—chemically simple long repeating chains of sugars. Although soft when wet, under certain circumstances, chitin fibers can become the stiffest and strongest known non-mineralized material. The exceptionally tough chitinous beaks of squid enable them to bite through prey, immobilizing them and preventing them from swimming away.\n\nThe hardness in the tip of the beak is caused by crosslinking the chitin. Two mechanisms for creating cross-links are known in squid beak.\n\nFirst, chitin binding protein s exist in linked pairs. When each protein binds a different chitin fiber, they become locked together, making the chitin less flexible and harder.\n\nSecondly, another type of protein is produced that does not dissolve in water but binds strongly to itself, forming soap-bubble-like aggregates called coacervates. These diffuse into the spaces between the chitin fibers, gradually filling them up and linking together and solidifying to become larger spanning networks throughout the pores in the chitin. Softness in chitin is caused by the presence of water. At the same time as they physically fill all the gaps, coacervates also create chemical cross-links between chitin fibers and remove water. All three factors work together to give squid beak its remarkable toughness.\n\nImage: Smithsonian Institution / Public Domain - No restrictions toggle icon Image: GeSHaFish / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon Image: NOAA/MBARI / Public Domain - No restrictions toggle icon right arrow right arrow",
+  "function_addressed": [
+    "attach permanently",
+    "capture, absorb, or filter organisms",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/crosslinks-toughen-beak/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "crosslinks",
+    "toughen",
+    "beak"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-plant-resists-blister-blight",
+  "organism_common": "Single-stemmed tea tree",
+  "organism_scientific": "",
+  "strategy_summary": "The defense mechanism of tea plants resists blister blight leaf disease in part due to the chemical epicatechin. “Levels of (−)-epicatechin in tea cultivars resistant to blister blight leaf disease were significantly higher than those in susceptible cultivars, while the reverse was true for (−)-epigallocatechin…",
+  "mechanism": "The defense mechanism of tea plants resists blister blight leaf disease in part due to the chemical epicatechin.\n\n“Levels of (−)-epicatechin in tea cultivars resistant to blister blight leaf disease were significantly higher than those in susceptible cultivars, while the reverse was true for (−)-epigallocatechin gallate, suggesting that epicatechin was involved in the resistance mechanism. The content of the methylxanthines, caffeine and theobromine, in the leaf increased in the initial translucent stage of the disease, probably as a defense response to fungal attack. Epicatechin and epigallocatechin levels were less than in healthy tissues at this stage, but increases in the corresponding gallate esters suggested that they were being converted into esters. Although epicatechin and epigallocatechin levels decreased from translucent to mature blister stages, the decrease was not significant. The decrease in levels of epicatechin, epigallocatechin, and their esters on infection and the formation of cyanidin and delphinidin on oxidative depolymerization of the blisters suggests that proanthocyanidins may play a role in the defense mechanism. The high resistance of a purple green leafed cultivar is attributed to the additional catechin source provided by the high levels of anthocyanins present.” (Punyasiri et al. 2005:1315)",
+  "function_addressed": [
+    "protect from fungi"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/plant-resists-blister-blight/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "plant",
+    "resists",
+    "blister",
+    "blight"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

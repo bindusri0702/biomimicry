@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-bones-supporting-beams-provide-strength",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "Thigh bones of birds and mammals withstand strain as size increases by reorganizing internal structure of trabeculae (\"little beams\"). Learn more about the structure of the bone and how one innovator drew inspiration from trabeculae to design prostethic limbs in Tom McKeag’s “Designed…to the Bone” on pages 58-59 of…",
+  "mechanism": "Thigh bones of birds and mammals withstand strain as size increases by reorganizing internal structure of trabeculae (\"little beams\").\n\nLearn more about the structure of the bone and how one innovator drew inspiration from trabeculae to design prostethic limbs in Tom McKeag’s “Designed…to the Bone” on pages 58-59 of Zygote Quarterly :\n\n“Many bones are supported internally by a latticework of trabeculae [Latin: “little beams”; they provide structural support, especially near joints]…We analysed trabecular geometry in the femora of 90 terrestrial mammalian and avian species with body masses ranging from 3 g to 3400 kg. We found that bone volume fraction does not scale substantially with animal size, while trabeculae in larger animals’ femora are thicker, further apart and fewer per unit volume than in smaller animals…[T]rabecular scaling does not alter the bulk stiffness of trabecular bone, but does alter strain within trabeculae under equal applied loads. Allometry of bone’s trabecular tissue may contribute to the skeleton’s ability to withstand load, without incurring the physiological or mechanical costs of increasing bone mass.” (Doube et al. 2011:3067)\n\n“Trabecular bone scales allometrically, within physiological limits to trabecular size. Reorganization of bones’ internal structure might protect trabeculae from increased strains owing to large body size, representing a mass-efficient strategy for maintaining bone strain in a safe range at the trabecular scale. This may represent a new approach to designing cellular solids for engineered structures of differing scale.” (Doube et al. 2011:3072)",
+  "function_addressed": [
+    "manage shear",
+    "prevent buckling",
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bones-supporting-beams-provide-strength/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bones",
+    "supporting",
+    "beams",
+    "provide",
+    "strength"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

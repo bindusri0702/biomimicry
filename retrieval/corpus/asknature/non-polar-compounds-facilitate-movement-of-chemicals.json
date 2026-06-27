@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-non-polar-compounds-facilitate-movement-of-chemicals",
+  "organism_common": "Ground beetles",
+  "organism_scientific": "",
+  "strategy_summary": "Defense chemicals secreted by Ardistomis schaumii beetles can pass directly through the exoskeletons of their foes with the aid of special solvents. Delivering defensive chemicals to a foe is a challenge for all organisms that synthesize such chemicals.",
+  "mechanism": "Defense chemicals secreted by Ardistomis schaumii beetles can pass directly through the exoskeletons of their foes with the aid of special solvents.\n\nDelivering defensive chemicals to a foe is a challenge for all organisms that synthesize such chemicals. Many strategies have evolved in nature including aerosolization, hypodermic injection, etc. Ardistomis schaumii, a species of ground beetle, have developed a delivery method that involves dissolving the defensive chemicals in a solvent called limonene. Limonene, a non-polar solvent, is somehow able to facilitate the transport of polar defensive chemicals through the non-polar exoskeleton of predatory arthropods. Though the precise chemical mechanism is still unclear, the advantage is obvious; A. schaumii can deliver repellants directly into the bodies of their foes rather than attacking sensory organs like many repellants.\n\nThis summary was contributed by Ashley Meyers",
+  "function_addressed": [
+    "protect from animals",
+    "modify solubility (dissolving, emulsifying, precipitating, crystallizing)"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/non-polar-compounds-facilitate-movement-of-chemicals/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "non-polar",
+    "compounds",
+    "facilitate",
+    "movement",
+    "chemicals"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

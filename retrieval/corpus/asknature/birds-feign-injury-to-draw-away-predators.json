@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-birds-feign-injury-to-draw-away-predators",
+  "organism_common": "Plovers",
+  "organism_scientific": "",
+  "strategy_summary": "The natural world is full of organisms with tricks up their sleeves—insects that fool predators with their camouflage, wildcats that imitate the calls of baby monkeys to attract prey, and many others. Shorebirds could possibly top the list of cleverest creatures, due in part to a very peculiar distraction behavior…",
+  "mechanism": "Plovers, such as the piping plover and the Wilson’s plover, are small, sparrow-sized birds that live along coasts and make their nests on sandy beaches. These are not nests like you’d find woven in a tree, but merely small depressions in the sand, sometimes hidden among light grasses but other times completely out in the open—in either case, extremely vulnerable to predators.\n\nHumans already make extensive use of false signaling to protect each other or our assets. As we investigate the nuances of plover distraction performances, we could discover and apply adaptive techniques to make such displays more effective or versatile.\n\nOn a basic level, this could involve the development of more elaborate mechanical “scarecrows” to protect crops and airplanes from detrimental bird activity.\n\nThinking more expansively, applications could be found to improve digital defense strategies working against malicious software.",
+  "function_addressed": [
+    "protect from animals",
+    "adapt behaviors"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/birds-feign-injury-to-draw-away-predators/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "birds",
+    "feign",
+    "injury",
+    "draw",
+    "away",
+    "predators"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

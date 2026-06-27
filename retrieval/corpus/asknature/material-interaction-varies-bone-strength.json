@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-material-interaction-varies-bone-strength",
+  "organism_common": "Mammals",
+  "organism_scientific": "",
+  "strategy_summary": "Bone is a hard material made up mostly of a substance known as collagen. Collagen in bone self-assembles in a staggered, parallel manner to form fibrils.",
+  "mechanism": "Bone is a hard material made up mostly of a substance known as collagen. Collagen in bone self-assembles in a staggered, parallel manner to form fibrils. Between the staggered molecules of collagen, the mineral part of bone fills in. This mineral is known as hydroxyapatite (HAP), and it is a crystalized form of calcium phosphate. The way that HAP orients between collagen molecules alters the way that the bone responds to mechanical tests of its properties. “The HAP crystal platelets nucleate in hole zones, and grow in length along collagen long axis, and in width, along channels influenced by the presence of mineral in the proximity” (Katti et al. 2010). Much of the rest of the space near the surface of bone is occupied by water. Collagen, HAP, and water all interact with one another in varying manners. Researchers struggle to study the mechanical properties of collagen because of the varied responses they get along the surface. The HAP mineral makes the collagen stiffer in some areas and the presence of water (or lack of HAP) makes the collagen less stiff in other places along the surface.",
+  "function_addressed": [
+    "manage mechanical wear"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/material-interaction-varies-bone-strength/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "material",
+    "interaction",
+    "varies",
+    "bone",
+    "strength"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

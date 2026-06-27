@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-vision-without-eyes",
+  "organism_common": "Purple sea urchin",
+  "organism_scientific": "",
+  "strategy_summary": "The body of purple sea urchins may allow spatial vision due to diffuse photoreceptors on the body surface and spines that shield wide-angle light. “Sea urchins don’t seem to have any problems avoiding predators or finding comfortable dark corners to hide in, but they appear to do all this without eyes.",
+  "mechanism": "The body of purple sea urchins may allow spatial vision due to diffuse photoreceptors on the body surface and spines that shield wide-angle light.\n\n“Sea urchins don’t seem to have any problems avoiding predators or finding comfortable dark corners to hide in, but they appear to do all this without eyes. So how do they see? It appears that sea urchins may use the whole surface of their bodies as a compound eye, and the animals’ spines may shield their bodies from light coming from wide angles to enable them to pick out relatively fine visual detail.” (Knight 2010:i-a)\n\nhttp://jeb.biologists.org/cgi/content/short/213/2/i-a?rss=1 http://jeb.biologists.org/cgi/content/abstract/213/2/249 http://jeb.biologists.org/cgi/content/abstract/207/24/4249",
+  "function_addressed": [
+    "sense light (visible spectrum) from the environment",
+    "sense light (non-visible spectrum) from the environment",
+    "sense shape and pattern in a living system"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/vision-without-eyes/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "vision",
+    "without",
+    "eyes"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

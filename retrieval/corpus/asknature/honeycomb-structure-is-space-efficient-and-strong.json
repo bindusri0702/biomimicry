@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-honeycomb-structure-is-space-efficient-and-strong",
+  "organism_common": "Bees and wasps",
+  "organism_scientific": "",
+  "strategy_summary": "The question of why honey bees adapted to building their nests from hexagonal cells has been debated for centuries. In On the Origin of Species , Darwin theorized that natural selection led to “an economy of wax.” Being frugal with wax is wise work for a honey bee given they need to consume approximately eight pounds…",
+  "mechanism": "In a 2019 interview, Thomas Hales—the mathematician who finally proved the conjecture—said that ultimately, “A hexagonal honeycomb is the way to fit the most area with the least perimeter.” From a bee’s perspective, that means storing more honey in a larger volume while spending less energy building a structure to contain it. In other words, Darwin was right.\n\nAnd space-efficiency isn’t the only benefit of building with hexagons. Stacked together, hexagons fill spans in an offset arrangement with six short walls around each “tube,” giving structures a high compression strength. Beehives also dissipate heat well, preventing the waxy structure from melting on hot days. Though few species of wasps store honey, they too build nests using hexagonal cells, taking advantage of these same benefits. Efficiency, strength, and controlled heat loss are all important for human structures as well, so it’s no wonder that honeycombs inspire human design.\n\nScientists and engineers have incorporated hexagonal designs into seemingly endless applications, including light-weight building materials, flexible panels for bridge construction, sound absorption, light diffusion, catalyst design, magnetic shielding, tissue engineering, and even building better surfboards.\n\n“He must be a dull man who can examine the exquisite structure of a comb, so beautifully adapted to its end, without enthusiastic admiration,” wrote Darwin. As we examine these structures more than a century and a half later, we’re still finding new things to admire and emulate .",
+  "function_addressed": [
+    "optimize shape/materials",
+    "preventing melting",
+    "manage compression",
+    "store liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/honeycomb-structure-is-space-efficient-and-strong/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "honeycomb",
+    "structure",
+    "space-efficient",
+    "strong"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

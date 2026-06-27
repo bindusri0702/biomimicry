@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-chewing-through-wood",
+  "organism_common": "Giant harlequin beetle",
+  "organism_scientific": "",
+  "strategy_summary": "Newly developed harlequin beetles escape the trees where they are born by chewing through the wood with large, strong mandibles. “This massive pair of mandibles belongs to a South American harlequin beetle, and is probably used only once in its life.",
+  "mechanism": "Newly developed harlequin beetles escape the trees where they are born by chewing through the wood with large, strong mandibles.\n\n“This massive pair of mandibles belongs to a South American harlequin beetle, and is probably used only once in its life. The harlequin beetle larva lives inside a tree, where it feeds on the wood. Here it pupates, and when the beetle emerges, it has to chew its way to freedom.” (Foy and Oxford Scientific Films 1982:161)",
+  "function_addressed": [
+    "move in/on solids",
+    "physically break down living materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/chewing-through-wood/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "chewing",
+    "through",
+    "wood"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

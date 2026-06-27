@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-fatty-acids-prevent-freezing",
+  "organism_common": "Upland cotton",
+  "organism_scientific": "",
+  "strategy_summary": "Fatty acids in cotton seedlings prevent freezing by changing the composition of the cell membranes. Cotton plants prepare for cold nights by changing the composition of their cell membranes, reports Arnon Rikin and his colleagues at Oklahoma State University in Stillwater.",
+  "mechanism": "Fatty acids in cotton seedlings prevent freezing by changing the composition of the cell membranes.\n\nCotton plants prepare for cold nights by changing the composition of their cell membranes, reports Arnon Rikin and his colleagues at Oklahoma State University in Stillwater. At night, the concentrations of two unsaturated fatty acids in the membrane–linoleic and linolenic–increase. The double carbon bonds in the tails of these fatty acids create a “kink” that keeps fatty acid molecules from packing together too tightly. In effect, the membrane remains fluid, and protein s are readily able to move through. Interestingly, cotton plants exhibit this response even without light cues. That is to say, the adaptation is triggered by an internal clock, rather than by the daily light/dark cycle. (Day 1993; Rikin et al. 1993)",
+  "function_addressed": [
+    "protect from temperature",
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fatty-acids-prevent-freezing/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fatty",
+    "acids",
+    "prevent",
+    "freezing"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

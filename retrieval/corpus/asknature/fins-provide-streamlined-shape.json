@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-fins-provide-streamlined-shape",
+  "organism_common": "Southern bluefin tuna",
+  "organism_scientific": "",
+  "strategy_summary": "Fins of ocean-going fish such as tuna are streamlined because they fit close to the body in depressions and grooves when not needed. [Referring to high-speed ocean-going fish such as tuna, bonito, marlin, and mackerel] “The pectoral and pelvic fins and the dorsal along the crest of the back play no part in propulsion.",
+  "mechanism": "Fins of ocean-going fish such as tuna are streamlined because they fit close to the body in depressions and grooves when not needed.\n\n[Referring to high-speed ocean-going fish such as tuna, bonito, marlin, and mackerel] “The pectoral and pelvic fins and the dorsal along the crest of the back play no part in propulsion. They serve only as rudders, stabilisers or brakes. When the fish is moving at speed and they are not required they are clamped to the fish’s side, fitting exactly into depressions and grooves on the surface. And along the top and bottom edge of the body, on either side of the tail, are tiny triangular blades that serve as spoilers to prevent turbulence.” (Attenborough 1979:120)",
+  "function_addressed": [
+    "modify size/shape/mass/volume",
+    "manage turbulence",
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/fins-provide-streamlined-shape/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fins",
+    "provide",
+    "streamlined",
+    "shape"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

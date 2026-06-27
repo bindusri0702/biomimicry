@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-tails-aid-fast-swimming",
+  "organism_common": "Swordfish",
+  "organism_scientific": "",
+  "strategy_summary": "The tails of swordfish help them swim fast over long distances due to their stiffness and crescent shape. “The fast marathon swimmers of the ocean, like the tunny or the swordfish, have very stiff crescent-shaped tails.",
+  "mechanism": "The tails of swordfish help them swim fast over long distances due to their stiffness and crescent shape.\n\n“The fast marathon swimmers of the ocean, like the tunny or the swordfish, have very stiff crescent-shaped tails. This shape also makes it easier for the fish to change direction suddenly. The tunny is the speediest of the ocean fishes, able to attain 70 kmph.” (Foy and Oxford Scientific Films 1982:188)",
+  "function_addressed": [
+    "move in/on liquids",
+    "modify speed"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tails-aid-fast-swimming/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tails",
+    "aid",
+    "fast",
+    "swimming"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

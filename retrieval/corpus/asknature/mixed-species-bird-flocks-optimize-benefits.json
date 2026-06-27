@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-mixed-species-bird-flocks-optimize-benefits",
+  "organism_common": "Birds",
+  "organism_scientific": "",
+  "strategy_summary": "Simple rules allow mixed-species bird flocks to find food and minimize predation  Seeing bees, crows, or other animals of a single species living together is a common sight. Seeing flocks of birds made up of a mix of species is much rarer and so all the more intriguing.",
+  "mechanism": "Simple rules allow mixed-species bird flocks to find food and minimize predation\n\nSeeing bees, crows, or other animals of a single species living together is a common sight. Seeing flocks of birds made up of a mix of species is much rarer and so all the more intriguing. Researchers have discovered that flocks made up of a mix of species have many advantages. For example, they can locate food patches together but then eat different foods within the patches. This way they balance the need for finding food with the need to reduce competition. Many different species can also monitor risks from predators in different ways and at different times.\n\nBut how do the individuals in each flock of mixed species make decisions that help the flock work well together? Individual birds in a flock of mixed species show a few different tendencies: (1) One tendency is to move from areas with a low density of birds to areas with a higher density of birds. (2) Another tendency is to move from an area with a low density of birds to an area with a medium density. (3) A final tendency is to avoid sites that have less than one-third or more than half of the same species.\n\nThese behavioral rules balance competing interests among the flock. Overall, these rules: (1) Help keep the flock together. (However, if this was the only rule, flocks would all aggregate on one small site, creating too much competition.) (2) Keep the flock together, while reducing both the risk from predators and competition while foraging. (3) Help place birds in sites that are good for foraging and in sites with enough diversity to reduce competition and minimize the risk from predators. Because the third rule is based on flock proportions rather than absolute numbers, these decision making rules can scale with varying flock size.",
+  "function_addressed": [
+    "coordinate by self-organization"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/mixed-species-bird-flocks-optimize-benefits/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "mixed-species",
+    "bird",
+    "flocks",
+    "optimize",
+    "benefits"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

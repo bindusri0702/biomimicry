@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-enzyme-breaks-down-hydrocarbons",
+  "organism_common": "Mycobacterium",
+  "organism_scientific": "",
+  "strategy_summary": "The metabolism of Mycobacterium gilvum can break down polycyclic aromatic hydrocarbons, including pyrene, via the dioxygenase NidAB enzyme. “ Mycobacterium gilvum (previously referred to as Mycobacterium flavescens strain PYR-GCK) has been isolated in the sediment from the Grand Calumet River in Indiana as a strain…",
+  "mechanism": "The metabolism of Mycobacterium gilvum can break down polycyclic aromatic hydrocarbons, including pyrene, via the dioxygenase NidAB enzyme.\n\n“ Mycobacterium gilvum (previously referred to as Mycobacterium flavescens strain PYR-GCK) has been isolated in the sediment from the Grand Calumet River in Indiana as a strain capable of using pyrene as a sole source of carbon and energy. This strain was also capable of metabolizing such polycyclic aromatic hydrocarbons (PAHs) as phenanthrene and fluoranthene, but not naphthalene, chrysene, anthracene, fluorene, or benzo[a]pyrene (Dean-Ross and Cerniglia, 1996). The first step of pyrene degradation is catalysed by the same two-subunit aromatic ring-hydroxylating dioxygenase NidAB as the one found in Mycobacterium vanbaalenii and other PAH-degrading mycobacteria (Brezna et al., 2003). Thus, M. gilvum probably differs from them in the downstream steps of PAH degradation, which now could be deduced through genome comparisons.” (Galperin 2007:1871-1872)",
+  "function_addressed": [
+    "chemically break down organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/enzyme-breaks-down-hydrocarbons/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "enzyme",
+    "breaks",
+    "down",
+    "hydrocarbons"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

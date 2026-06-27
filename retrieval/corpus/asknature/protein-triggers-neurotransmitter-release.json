@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-protein-triggers-neurotransmitter-release",
+  "organism_common": "Animals",
+  "organism_scientific": "",
+  "strategy_summary": "Proteins in nerve cells of animals trigger neurotransmitter release in response to electrochemical signal. Nerve cells are the core components of an animal’s nervous system.",
+  "mechanism": "Proteins in nerve cells of animals trigger neurotransmitter release in response to electrochemical signal.\n\nNerve cells are the core components of an animal’s nervous system. They transmit and process information using a combination of electrical and chemical signals, and are found in all animals with the exception of the simplest, like sponges. Nerve cells have a cell body, dendrites (which receive signals), and an axon (which transmits the signal). The dendrites and axon project from the cell body. Axons branch into blind ends called termini, and axon termini connect to dendrites of other nerves via synapses. When a nerve receives sufficient stimulation from its dendrites, the nerve fires an electrochemical signal along its axon, called the “action potential.”\n\nChemical synapses are the junctions between axon termini on one nerve cell and dendrites on a neighboring cell; they are narrow gaps, or clefts, only 20nm wide. Signals are transmitted across chemical synapses by neurotransmitters—small molecular chemical messengers. When an action potential reaches a chemical synapse, neurotransmitters are quickly released into the synaptic cleft. As they must only enter the cleft in response to an action potential, release is tightly controlled.\n\nNeurotransmitters are made in large quantities in axon termini and packaged into membrane sacs called vesicles. When vesicles fuse with the cell membrane at the synapse, they release their contents into the synaptic cleft. Two proteins, “SNAREs” and “synaptotagmins,” are required for vesicle fusion. SNAREs act like velcro, with some bound to the vesicle and some to the cell membrane. When SNAREs come into contact with each other, they bind tightly, pulling the vesicle close to the cell boundary. Membrane fusion is dependant on the curvature of the membrane and without the action potential, curvature is too shallow for fusion to occur. The other proteins, the synaptotagmins, are also attached to the vesicles. They have large wedge shaped sections that can reach from the vesicle to the cell membrane. In the absence of an action potential, synaptotagmins have the same charge as the cell membrane and they are repelled. However, when the signal reaches the axon termini, calcium ions are released into the cell cytoplasm. Synaptotagmins bind calcium, which is positively charged and neutralises the repulsion. The proteins then embed themselves in the cell membrane creating an area of higher curvature. In combination with the pulling of the SNAREs, this is sufficient for the vesicle and cell membrane to fuse and for the neurotransmitters to be released.\n\nSynaptotagmin activation, vesicle fusion, and neurotransmitter release all occur within 1 ms of the action potential arriving at the axon terminal.\n\nImage: LadyofHats / Public Domain - No restrictions toggle icon Image: Danko Dimchev Georgiev / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon Image: ZEISS Microscopy / CC BY - Creative Commons Attribution alone toggle icon right arrow right arrow",
+  "function_addressed": [
+    "transduce/convert signals",
+    "respond to signals",
+    "differentiate signal from noise",
+    "encode/decode",
+    "compute"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/protein-triggers-neurotransmitter-release/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "protein",
+    "triggers",
+    "neurotransmitter",
+    "release"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

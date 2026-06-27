@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-exoskeleton-absorbs-uv-light",
+  "organism_common": "Corals",
+  "organism_scientific": "",
+  "strategy_summary": "The calcium carbonate exoskeletons of corals may help protect their photosynthetic symbionts by absorbing UV rays. “Many coral reef organisms are photosynthetic or have evolved in tight symbiosis with photosynthetic symbionts.",
+  "mechanism": "The calcium carbonate exoskeletons of corals may help protect their photosynthetic symbionts by absorbing UV rays.\n\n“Many coral reef organisms are photosynthetic or have evolved in tight symbiosis with photosynthetic symbionts. As such, the tissues of reef organisms are often exposed to intense solar radiation in clear tropical waters and have adapted to trap and harness photosynthetically active radiation (PAR). High levels of ultraviolet radiation (UVR) associated with sunlight, however, represent a potential problem in terms of tissue damage …b y measuring UVR and PAR reflectance from intact and ground bare coral skeletons we show that the property of calcium carbonate skeletons to absorb downwelling UVR to a significant extent, while reflecting PAR back to the overlying tissue, has biological advantages … o ur study presents a novel defensive role for coral skeletons and reveals that the strong UVR absorbance by the skeleton can contribute to the ability of corals, and potentially other calcifiers, to thrive under UVR levels that are detrimental to most marine life.” (Reef et al. 2009: e7995 )\n\nhttp://www.ncbi.nlm.nih.gov/pmc/articles/PMC2776492/ http://news.sciencemag.org/sciencenow/2009/11/30-01.html?rss=1",
+  "function_addressed": [
+    "protect from light"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/exoskeleton-absorbs-uv-light/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "exoskeleton",
+    "absorbs",
+    "light"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

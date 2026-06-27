@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-antarctic-crustaceans-use-wax-to-sink-in-water",
+  "organism_common": "Calanoides acutus copepod",
+  "organism_scientific": "",
+  "strategy_summary": "A tiny Antarctic marine crustacean ( Calanoides acutus ) hibernates deep in the ocean during winter where the cold slows its metabolism. Swimming down into the water can take a lot of energy, but this crustacean uses a special material to help.",
+  "mechanism": "Wax is a buoyant material, which means that it normally floats, rather than sinks, in water. Wax floats because it is less dense than the water. The waxy liquid inside the Antarctic crustaceans is a wax ester , which is a mixture of fatty acids and fatty alcohol molecules. These molecules can be broken down and used as energy for muscles and organs. They can also be used to store energy and can be transported throughout the body through the bloodstream. The wax is made up of long chains of carbon atoms attached to each other by single chemical bonds. As the crustacean swims deeper into the water, the wax changes from having single bonds to having double bonds. This change allows the wax molecules to fit together more tightly, which increases their density and makes them heavier.\n\nCreative approaches to buoyancy from species like Antarctic crustaceans could provide submarine, blimp, and robotic designers more options for their work.",
+  "function_addressed": [
+    "move in/on liquids",
+    "modify density",
+    "modify buoyancy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/antarctic-crustaceans-use-wax-to-sink-in-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "wax",
+    "changes",
+    "density",
+    "sink",
+    "float"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

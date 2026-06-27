@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-skin-prevents-water-loss",
+  "organism_common": "Crocodiles and alligators",
+  "organism_scientific": "",
+  "strategy_summary": "The skin of crocodiles and alligators protects against water loss via bony scales called scutes. “Crocodiles and alligators have rather different scales from those of other reptiles.",
+  "mechanism": "The skin of crocodiles and alligators protects against water loss via bony scales called scutes.\n\n“Crocodiles and alligators have rather different scales from those of other reptiles. Called ‘scutes’, they are bony and quite massive, but are not fused together joined to the underlying skeleton, so flexible fast movement is still possible. Each scute develops on its own, and is replaced by layers from below. The scutes are particularly massive on the back, perhaps because this is the area most exposed to the sun and most at risk of drying out…where the scutes are largest, the area of less waterproof skin between is smallest, so large scutes provide a good seal against water loss. Areas of small scutes occur on the sides and around the shoulders and hips, where greater flexibility is needed during movement.” (Foy and Oxford Scientific Films 1982:93)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
+  "function_addressed": [
+    "protect from loss of liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/skin-prevents-water-loss/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "skin",
+    "prevents",
+    "water",
+    "loss"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

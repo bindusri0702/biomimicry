@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-spiral-fibers-strengthen-tree-trunk",
+  "organism_common": "Pines",
+  "organism_scientific": "",
+  "strategy_summary": "The trunks of pine trees withstands wind and snow via spiral growth. Some trees, including the Pondersa pine, Scots pine, and Norway spruce, exhibit a spiral growth pattern in their trunks, branches, and stems.",
+  "mechanism": "The trunks of pine trees withstands wind and snow via spiral growth.\n\nSome trees, including the Pondersa pine, Scots pine, and Norway spruce, exhibit a spiral growth pattern in their trunks, branches, and stems. Some scientists suggest that because spiral-grained materials bend more than straight-grained materials, this spiral composition may help protect trees that grow in areas of high wind from breaking. A tree’s ability to bend and twist in strong winds may reduce drag forces on its limbs and also allow additional weight (such as that from snow) to slide off its branches when they twist in the wind.\n\nWhen tested for the ability to bend before breaking, spiral-grained sticks break under the same force as straight-grained sticks, but spiral-grained samples performed differently than straight ones before breaking. Spiral-grained materials deflect (or bend) more than straight-grained materials. During deflection of straight-grained materials, the side nearest the force is compressed while the opposite side is stretched, putting it under tension. In contrast, spiral-grained materials transfer the compression and tension forces along the spiral to the other side, thereby equalizing the stresses.\n\nBlue arrows show deflection of wind as a result of spiral structure. Green arrows represent nutrients being distributed through the spiral structure to all aspects of the tree.\n\nDownload Strategy PDF\n\nPlants\n\nCellulose fibers in plant stems increase toughness by winding around tubes at an angle",
+  "function_addressed": [
+    "manage shear",
+    "protect from wind"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/spiral-fibers-strengthen-tree-trunk/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "spiral",
+    "fibers",
+    "strengthen",
+    "tree",
+    "trunk"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

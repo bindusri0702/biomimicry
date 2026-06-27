@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-scales-form-protective-armor",
+  "organism_common": "Gar",
+  "organism_scientific": "",
+  "strategy_summary": "The scales of garpike provide protection via hard ganoin covering and lattice arrangement. “Fish scales come in a variety of styles.",
+  "mechanism": "The scales of garpike provide protection via hard ganoin covering and lattice arrangement.\n\n“Fish scales come in a variety of styles. A few very primitive fish, including garpikes, have ganoid scales, diamond-shaped and forming a lattice pattern (diagram a). They are covered with a hard, shiny material called ganoin. Such scales were characteristic of many prehistoric fishes, loading them with cumbersome, inflexible armour plating.” (Foy and Oxford Scientific Films 1982:86)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
+  "function_addressed": [
+    "protect from animals",
+    "physically assemble structure",
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/scales-form-protective-armor/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "scales",
+    "form",
+    "protective",
+    "armor"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

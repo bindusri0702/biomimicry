@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-teeth-resist-compression-and-tension",
+  "organism_common": "Animals",
+  "organism_scientific": "",
+  "strategy_summary": "The teeth of many animals are stiff and resistant to compression due to an outer layer of enamel, but have some resistance to tension due to an inner layer of dentine. “Consider our teeth (Waters [1980] has a good discussion of their properties), crucial to feeding ourselves, subject to stresses and abrasions over…",
+  "mechanism": "The teeth of many animals are stiff and resistant to compression due to an outer layer of enamel, but have some resistance to tension due to an inner layer of dentine.\n\n“Consider our teeth (Waters [1980] has a good discussion of their properties), crucial to feeding ourselves, subject to stresses and abrasions over long periods, and…none too reliable. Enamel, the outer layer on teeth (fig. 16.5a), is very stiff and resistant to compression–handy for biting and chewing–but it takes tension poorly and is exceedingly brittle–stiffness and toughness seem in practice as antithetical here as in the various commercial steels. Dentine, the next layer in (and the bulk of the hard stuff in teeth), is less stiff than enamel but not quite so brittle. An off-axis load might safely develop some substantial tension in the dentine–harder dentine would most likely lead to increased functional fragility. Perhaps there’s a general principle involved–limit the hardest material to small pieces at the site of wear, as we do in making carbide-tipped drills and saws. Teeth crack without enormous provocation–their poor behavior in actual fracture is an unpleasant converse of the hardness needed for trituration. Trade-offs seem unavoidable, although it’s no easy thing at this stage of our understanding to give them proper quantitative expression.” (Vogel 2003:332-333)",
+  "function_addressed": [
+    "manage tension",
+    "manage compression",
+    "manage mechanical wear"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/teeth-resist-compression-and-tension/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "teeth",
+    "resist",
+    "compression",
+    "tension"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

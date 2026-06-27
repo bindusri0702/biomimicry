@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-species-diversity-maintains-grasslands",
+  "organism_common": "Tanzania's Serengeti Plain",
+  "organism_scientific": "",
+  "strategy_summary": "The species diversity of grazers and plants helps maintain grasslands by offering a menu of plants of different palatabilities. “[O]n Tanzania’s Serengeti Plain, grasses are subject to heavy foraging by some of the world’s most spectacular nomadic grazers–about 3 million individuals of twenty-seven species, including…",
+  "mechanism": "The species diversity of grazers and plants helps maintain grasslands by offering a menu of plants of different palatabilities.\n\n“[O]n Tanzania’s Serengeti Plain, grasses are subject to heavy foraging by some of the world’s most spectacular nomadic grazers–about 3 million individuals of twenty-seven species, including wildebeest, zebra, Thomson’s gazelle, buffalo, and topi. Samuel McNaughton of Syracuse University examined the impact of these grazers on grassland productivity over a number of years. He found that diversity was not linked to the most prolific productivity but rather to the most constant productivity. Specifically, good rains and moderate levels of grazing (rather than high plant diversity) produced the lushest grass crop. Nonetheless, the more diverse the plant community, the better it resisted losses to grazers, partly because the species-rich areas included a wide array of plants that certain grazers found unpalatable and therefore avoided eating. The species-rich grasslands also showed greater resilience, rebounding from the effects of grazing and recovering to a full standing crop more quickly at the onset of the rainy season.” (Baskin 1997:146-147)",
+  "function_addressed": [
+    "protect from animals",
+    "manage disturbance in a community",
+    "maintain biodiversity"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/species-diversity-maintains-grasslands/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "species",
+    "diversity",
+    "maintains",
+    "grasslands"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

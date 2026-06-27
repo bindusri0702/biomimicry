@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-pressurized-struts-dissipate-impact",
+  "organism_common": "Pomelo",
+  "organism_scientific": "",
+  "strategy_summary": "Skin of pomelos absorb impact by rupturing fluid-filled struts  The pomelo, or Citrus maxima , is the largest citrus fruit in the world. The fruits usually weigh around 2 kg and occasionally as much as 6 kg, while the trees reach 15 meters in height.",
+  "mechanism": "Skin of pomelos absorb impact by rupturing fluid-filled struts\n\nThe pomelo, or Citrus maxima , is the largest citrus fruit in the world. The fruits usually weigh around 2 kg and occasionally as much as 6 kg, while the trees reach 15 meters in height. Such large fruit falling from such a height are at risk of being damaged by the impact, but to maximize their chances of reproducing, the trees need the fallen fruit to stay good for as long as possible. This gives time to the animals that eat pomelos to find them, carry them away, and spread the eaten seeds. The trees are native to hot and humid regions and any splits in the skin caused by the fall will give access to microorganisms that cause fruit to spoil. To protect from impact, pomelos have a compressible skin 2-3 cms thick. Most citrus fruit have been altered by selective breeding, but the pomelo is one of the three “true” citrus and so its thick skin is due to the need to protect the fruit and not due to human intervention.\n\nThe skin of the pomelo has multiple layers. The outermost layer, called the exocarp, is densely packed with cells. The next layer, which forms the bulk of the peel, is called the mesocarp. Inside the mesocarp is the endocarp, which contains all the seeds and pulp segments of the fruit. The mesocarp, or pith, is the layer primarily responsible for protecting the fruit from impact, and it is an open porous foam. That is, the mesocarp is made of many air cells that are interconnected with each other. When the fruit falls, these air pockets collapse like a cushion, absorbing the energy of impact, protecting the endocarp and exocarp from damage. Unlike a simple foam cushion, the struts that make up the physical structure of the foam mesocarp are fluid-filled and under pressure. Rupturing these struts absorbs even more energy and ensures the pomelo is exceptionally good at surviving a fall.\n\nLayered materials can separate under stress, or become delaminated. When this occurs they lose their physical properties. The layers of the pomelo are not clearly defined. Instead, the exocarp gradually transitions into mesocarp that at first has small air-filled gaps that become gradually larger closer to the center of the fruit. By gradually transitioning from a dense, tough, material to a soft foamy one, the fruit cannot delaminate and its protective nature is preserved.\n\nImage: High Contrast / CC BY - Creative Commons Attribution alone toggle icon Image: Judgefloro / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon right arrow right arrow",
+  "function_addressed": [
+    "manage impact",
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pressurized-struts-dissipate-impact/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pressurized",
+    "struts",
+    "dissipate",
+    "impact"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

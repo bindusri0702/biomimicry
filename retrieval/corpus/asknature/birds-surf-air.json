@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-birds-surf-air",
+  "organism_common": "Pelicans",
+  "organism_scientific": "",
+  "strategy_summary": "It’s low tide and a calm sea early in the morning as a flock of brown pelicans dips low and glides just above the surface of the Atlantic Ocean. The appearance may be graceful, but the real grace is efficiency.",
+  "mechanism": "Pelicans, skimmers, and other birds save energy when gliding across water because of something called the “ground effect,” which increases lift and reduces drag.\n\nStudying methods that birds use to save energy flying can lead to innovations that help airplanes fly more efficiently, reducing fuel consumption and greenhouse gas emissions. Flying drones that survey and study waterways might be designed to glide close to the water to optimize energy and cover farther distances. And in the rising development of electric airplanes, it’s going to be particularly helpful to save as much energy as possible to help battery charges last as long as possible.",
+  "function_addressed": [
+    "move in/through gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/birds-surf-air/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "birds",
+    "surf",
+    "air"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

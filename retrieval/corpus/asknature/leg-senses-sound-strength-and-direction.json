@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-leg-senses-sound-strength-and-direction",
+  "organism_common": "Grasshoppers",
+  "organism_scientific": "",
+  "strategy_summary": "Grasshoppers detect sound and the direction of its source with leg membranes. “Grasshoppers listen with their legs.",
+  "mechanism": "Grasshoppers detect sound and the direction of its source with leg membranes.\n\n“Grasshoppers listen with their legs. They have two slits on the first pair of thighs which lead to deep pockets. The common wall between these forms a membrane which is the equivalent of an eardrum. The angle at which sound strikes the slits affects the strength in which it reaches the drum, so the grasshopper, by waving its legs in the air, can discover the direction from which a call is coming.” (Attenborough 1979:94)",
+  "function_addressed": [
+    "sense sound and other vibrations from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leg-senses-sound-strength-and-direction/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leg",
+    "senses",
+    "sound",
+    "strength",
+    "direction"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

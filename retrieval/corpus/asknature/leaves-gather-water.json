@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-leaves-gather-water",
+  "organism_common": "Albuca",
+  "organism_scientific": "",
+  "strategy_summary": "To botanists, the arid Namaqualand region of South Africa is known as “curly-whirly-country.” The grassy geophytes (perennial plants that bud from underground structures such as bulbs or tubers) there show a wide variety of forms. Many are twisted, form spirals, have wavy edges or pleats, are covered with hairs, or…",
+  "mechanism": "Air commonly contains water in two main forms: as a gas (known as water vapor) and as a liquid in tiny suspended droplets. When air with a lot of water vapor touches a surface that is cooler than itself, the vapor may condense to form liquid droplets as well.\n\nLike the grass in a field or lawn, South African geophytes cool down at night as they release warmth from daylight sun into the rapidly cooling air, creating conditions for dew to condense on their leaves. But they do your lawn grass one better. The extra surface area they have due to their curls and hairs helps them release heat even more quickly. As a result, they are more adept than other leaves at gathering water vapor from the air.\n\nThe curls and whorls and hairs help the geophytes gather fog as well. Water droplets in fog readily attach to surfaces they encounter. But the ability of any particular surface to gather fog droplets depends on what it’s made of, how much area it has, and how it is oriented relative to the source of the moisture. Broad surfaces tend to gather more moisture than narrow ones. And those perpendicular to airflow tend to gather more than those parallel to it. By curling and whirling, the plants increase the variety of orientation in their leaves, improving the odds that fog droplets will encounter and stick to them.\n\nThe presence of the water on the leaves helps the plants in three ways. First, it reduces the amount of water they lose from inside their tissues. Second, some water can be absorbed directly into the leaf tissue. Third, some water drips down onto the ground beneath the plant, where the roots can absorb it and make it available for photosynthesis .\n\nThe structures of South African geophytes offer insights for developing water-collecting devices for human use in regions that experience little rain but have at least intermittently abundant moisture in the air.\n\nThe water-collecting structures these plants have evolved could also provide inspiration for development of structures intended to harvest other substances from air or water. For example, configurations that expand surface area could boost the capacity of devices designed to counter global warming by capturing carbon dioxide from the air. Similarly, equipment designed to harvest microplastics or nanoplastics from air or water could use wavy or hairy structures to enhance their ability to encounter and capture these microscopic pollutants.",
+  "function_addressed": [
+    "capture, absorb, or filter liquids",
+    "store liquids",
+    "distribute liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-gather-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "desert",
+    "plants",
+    "offer",
+    "new",
+    "twist",
+    "gathering"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

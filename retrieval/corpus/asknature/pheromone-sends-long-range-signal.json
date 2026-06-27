@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-pheromone-sends-long-range-signal",
+  "organism_common": "Lampreys",
+  "organism_scientific": "",
+  "strategy_summary": "Special glands in male sea lamprey gills release a bile that acts as a sex pheromone to attract long-distance females. “We show that reproductively mature male sea lampreys release a bile acid that acts as a potent sex pheromone, inducing preference and searching behavior in ovulated female lampreys..the male of this…",
+  "mechanism": "Special glands in male sea lamprey gills release a bile that acts as a sex pheromone to attract long-distance females.\n\n“We show that reproductively mature male sea lampreys release a bile acid that acts as a potent sex pheromone, inducing preference and searching behavior in ovulated female lampreys..the male of this fish species signals both its reproductive status and location to females by secreting a pheromone that can act over long distance.” (Li et al. 2002:138)\n\nExternal anatomy of a lamprey",
+  "function_addressed": [
+    "send chemical signals (odor, taste, etc.)"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/pheromone-sends-long-range-signal/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "pheromone",
+    "sends",
+    "long-range",
+    "signal"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-wiry-tangles-capture-fog",
+  "organism_common": "Thread lichen",
+  "organism_scientific": "",
+  "strategy_summary": "Lichens in the Namib desert capture water from fog due to their wiry, tangled branching structure. “The Namib close to the coast does, however, have one source of moisture that most deserts lack.",
+  "mechanism": "Lichens in the Namib desert capture water from fog due to their wiry, tangled branching structure.\n\n“The Namib close to the coast does, however, have one source of moisture that most deserts lack. Almost every day, a fog rolls in from the sea, billowing across the dunes. On slopes where little else can survive, a lichen grows in a great orange carpet. It forms not thin blisters on rocks but bushy structures several inches high. The fog condenses into droplets that hang on the wiry tangled branches and are swiftly absorbed by the fungal partner before the sun is strong enough to evaporate them. The quantity of water captured is miniscule but it is sufficient to enable the algae, held within the fungal threads, to photosynthesise.” (Attenborough 1995:264-265)",
+  "function_addressed": [
+    "capture, absorb, or filter liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/wiry-tangles-capture-fog/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "wiry",
+    "tangles",
+    "capture",
+    "fog"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-blubber-structure-stores-and-releases-energy",
+  "organism_common": "Harbor porpoise",
+  "organism_scientific": "",
+  "strategy_summary": "Blubber between the porpoise's dorsal fin and tail flukes decreases amount of metabolic energy needed to swim because it is crosshatched with elastic fibers. “This study investigated the functional morphology of the blubber that forms the caudal keels of the harbor porpoise ( Phocoena phocoena ).",
+  "mechanism": "Blubber between the porpoise's dorsal fin and tail flukes decreases amount of metabolic energy needed to swim because it is crosshatched with elastic fibers.\n\n“This study investigated the functional morphology of the blubber that forms the caudal keels of the harbor porpoise ( Phocoena phocoena ). Blubber is a pliant biocomposite formed by adipocytes and structural fibers composed of collagen and elastic fibers. Caudal keels are dorsally and ventrally placed triangular wedges of blubber that define the hydrodynamic profile of the porpoise tail-stock. Mechanical tests on carcasses demonstrate that when keels are bent, they strain nonuniformly along their lengths, with highest strains just caudal to the dorsal fin and lowest at the insertion of the flukes. Therefore, caudal keels undergo nonuniform longitudinal deformation while maintaining a stable, triangular cross-sectional shape. Polarizing and transmitted light microscopy techniques were used to investigate blubber’s 3D fiber architecture along the length of the dorsal keel. The triangular cross-sectional shape of the keel appears to be maintained by structural fibers oriented to act as tensile stays. The construction of the blubber composite is regionally specific: structural fiber densities and diameters are higher in the relatively stiff caudal region of the keel than in the more deformable cranial keel region. The orientations of structural fibers also change along the length of the keel. Cranially, no fibers are oriented along the long axis, whereas a novel population of longitudinally oriented fibers reinforces the keel at the insertion of the flukes. Thus, differences in the distribution and orientation of structural fibers contribute to the regionally specific mechanical properties of the dorsal keel.” (Hamilton et al. 2004: 105)",
+  "function_addressed": [
+    "move in/on liquids",
+    "store energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/blubber-structure-stores-and-releases-energy/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "blubber",
+    "structure",
+    "stores",
+    "releases",
+    "energy"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

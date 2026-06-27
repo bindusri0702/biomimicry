@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-misfit-scales-emit-brighter-light",
+  "organism_common": "Firefly",
+  "organism_scientific": "",
+  "strategy_summary": "The scales of the Phoruris firefly emit more light because misfit between scales increases the number of visible light beams. When a light beam hits a surface, the amount of visible light depends on the angle that the beam takes when approaching that surface.",
+  "mechanism": "The scales of the Phoruris firefly emit more light because misfit between scales increases the number of visible light beams.\n\nWhen a light beam hits a surface, the amount of visible light depends on the angle that the beam takes when approaching that surface. In the case of the Photuris firefly’s scale, a light beam hitting between 40°-90° will reflect more light than it emits. Light beams hitting at 90° or higher will make the light more visible and brighter to the observer. The 10µm long by 3µm high slanting structure creates different angles, repeating 90°, 180°, and 270°, for the light beam to hit at different parts of the scale. This allows the light beam to hit the scale above the 40°-90° region, so that all of the light beams hitting the scale can contribute to the visible light. The emittance of light at multiple angles creates multiple beams from the same original source. These beams add onto each other to contribute to greater brightness.\n\nThis strategy was contributed by Rachel Major",
+  "function_addressed": [
+    "distribute energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/misfit-scales-emit-brighter-light/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "misfit",
+    "scales",
+    "emit",
+    "brighter",
+    "light"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

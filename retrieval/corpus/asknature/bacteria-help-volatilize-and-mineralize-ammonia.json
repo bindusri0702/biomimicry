@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-bacteria-help-volatilize-and-mineralize-ammonia",
+  "organism_common": "Termites",
+  "organism_scientific": "",
+  "strategy_summary": "The gut bacteria of soil-feeding termites help make soil nitrogen available to plants and protect from ammonia toxicity via ammonia volatilization and mineralization. “Volatilization of ammonia [about 10 nmol (g fresh wt.)_1 h_1], either directly by emission from the termite body or indirectly from their feces, led to…",
+  "mechanism": "The gut bacteria of soil-feeding termites help make soil nitrogen available to plants and protect from ammonia toxicity via ammonia volatilization and mineralization.\n\n“Volatilization of ammonia [about 10 nmol (g fresh wt.)_1 h_1], either directly by emission from the termite body or indirectly from their feces, led to NH3 concentrations in the nest atmosphere of C. [ Cubitermes ] ugandensis that were three orders of magnitude above the ambient background – a relative accumulation that is considerably higher than that observed with CH4 and CO2. Together with previous results, these observations document that through their feeding activity and due to the physicochemical and biochemical properties of their digestive system, soil-feeding termites effectively catalyze the transformation of refractory soil organic nitrogen to a plant-available form that is protected from leaching by adsorption to the nest soil. Nitrogen mineralization rates of soil-feeding termites may surpass those effected by tropical earthworms and should contribute significantly to nitrogen fluxes in tropical ecosystems.” (Ji and Brune 2006:267)",
+  "function_addressed": [
+    "protect from chemicals",
+    "cycle nutrients"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bacteria-help-volatilize-and-mineralize-ammonia/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "bacteria",
+    "volatilize",
+    "mineralize",
+    "ammonia"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

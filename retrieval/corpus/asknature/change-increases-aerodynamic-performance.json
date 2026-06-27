@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-change-increases-aerodynamic-performance",
+  "organism_common": "Common swift",
+  "organism_scientific": "",
+  "strategy_summary": "Wings of gliding birds increase aerodynamic performance by continuously changing shape and size. A Common Swift flying in Barcelona, Spain.",
+  "mechanism": "Wings of gliding birds increase aerodynamic performance by continuously changing shape and size.\n\nA Common Swift flying in Barcelona, Spain.\n\nFlock of Common Swift (Apus Apus)\n\n“Gliding birds continually change the shape and size of their wings, presumably to exploit the profound effect of wing morphology on aerodynamic performance. That birds should adjust wing sweep to suit glide speed has been predicted qualitatively by analytical glide models, which extrapolated the wing’s performance envelope from aerodynamic theory. Here we describe the aerodynamic and structural performance of actual swift wings, as measured in a wind tunnel, and on this basis build a semi-empirical glide model. By measuring inside and outside swifts’ behavioural envelope, we show that choosing the most suitable sweep can halve sink speed or triple turning rate. Extended wings are superior for slow glides and turns; swept wings are superior for fast glides and turns. This superiority is due to better aerodynamic performance—with the exception of fast turns. Swept wings are less effective at generating lift while turning at high speeds, but can bear the extreme loads. Finally, our glide model predicts that cost-effective gliding occurs at speeds of 8–10 m s -1 , whereas agility-related figures of merit peak at 15–25 m s -1 . In fact, swifts spend the night (‘roost’) in flight at 8–10 m s -1 (ref. 11), thus our model can explain this choice for a resting behaviour. Morphing not only adjusts birds’ wing performance to the task at hand, but could also control the flight of future aircraft.” (Lentink et al. 2007: 1082)\n\nUniversity of South Australia\n\nSurveillance drones from University of South Australia use tail elevation and thrust to control gliding and hovering.",
+  "function_addressed": [
+    "move in/through gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/change-increases-aerodynamic-performance/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "change",
+    "increases",
+    "aerodynamic",
+    "performance"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

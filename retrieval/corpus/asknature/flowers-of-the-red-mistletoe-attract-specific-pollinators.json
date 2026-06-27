@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-flowers-of-the-red-mistletoe-attract-specific-pollinators",
+  "organism_common": "Red mistletoe",
+  "organism_scientific": "",
+  "strategy_summary": "The flowers of the red mistletoe protect from unwanted visitors by utilizing a pollinator-specific design. Many plants have a symbiotic relationship with birds, where birds extract nectar from the flowers of plants, and while doing so transfer pollen between flowers, helping to cross-pollinate them.",
+  "mechanism": "The flowers of the red mistletoe protect from unwanted visitors by utilizing a pollinator-specific design.\n\nMany plants have a symbiotic relationship with birds, where birds extract nectar from the flowers of plants, and while doing so transfer pollen between flowers, helping to cross-pollinate them.\n\nWhile many plants open their flowers in order to maximize the number of visitors, the red mistletoe of New Zealand has closed flowers that can only be opened by two birds, the tui and the bellbird. When the bird goes to get the nectar the flower “pops” open, showering pollen all over the bird, ensuring that it will carry pollen to the next mistletoe it visits.\n\nThis relationship between the red mistletoe and the tui and bellbird is mutually beneficial. The ripe sealed flower of the mistletoe signals to the birds that the nectar inside has not been eaten by another bird. This reduces the amount of time the birds have to spend foraging. The tui and bellbirds are therefore more likely to visit mistletoes over other plant species, because they know they will consistently receive nectar. This increases the chances of successful cross-pollination for the mistletoe.\n\nThis strategy was contributed by Paige Kuplic and Seth GaleWyrick.\n\nThe Bellbird on red mistletoe\n\nTui, one of New Zealand's native honeyeaters, are important pollinators of native forest flowers.",
+  "function_addressed": [
+    "protect from animals",
+    "cooperate/compete between different species",
+    "pollinate",
+    "disperse seeds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/flowers-of-the-red-mistletoe-attract-specific-pollinators/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "flowers",
+    "red",
+    "mistletoe",
+    "attract",
+    "specific",
+    "pollinators"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

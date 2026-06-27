@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-wing-flexibility-generates-lift",
+  "organism_common": "Pallas's long-tongued bat",
+  "organism_scientific": "",
+  "strategy_summary": "Bats achieve lift at fast speeds by increasing the vertical (top to bottom) length of each wing flap. However, at low speeds, or while hovering to drink nectar, achieving lift is not as easy.",
+  "mechanism": "Flipping its wings keeps the bat airborne by creating pressure differences: above and below the wing, as well as along it. This pressure gradient creates vortices by causing air to move passively from the higher pressure area to the lower pressure area, which stirs up the air. As the wing flips between upside out and inside out during flight, pressure gradients are created that and generate vortices, which counteract air resistance and keep the bat in the air.\n\nThese vortices are created at different points along the wing, from the armpit to the wingtip, as well as at the leading (front) and trailing (back) edges of the wing. At the armpit, weaker vortices are overcome by stronger tip vortices, causing air to circulate along the bottom of the wings and back to the bat’s body. This air circulation creates the lift needed to counteract air resistance acting on the bat.\n\nThe vortex created at the trailing edge is weaker than at the leading edge, creating another pressure gradient. This creates additional vortices that provide their own lift and reinforce the effects of the circulating vortices created by the pressure differences under the wingtip and armpit. In this way, a bat’s wing acts like a flag in the wind. Unlike rigid tree branches or bird wings, flags bend, churning and spinning the air as it passes. Just as a flag flaps and curls on itself in the wind, the wings of Pallas’s long-tongued bats create similar vortices that generate lift.\n\nFlexible wings may not be practical for passenger planes, but investigating flexible wing aerodynamics could help develop technologies for air-lifting materials. For example, instead of using heavy, power-intensive cranes, perhaps efficiently flapping drones could raise and lower materials. Renewable energy sources like wind turbines might generate more power with more dynamic turbines. It’s possible that understanding how bats maneuver their wings could even aid in the design of static elements like roof shingles that need to withstand windy days.",
+  "function_addressed": [
+    "move in/through gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/wing-flexibility-generates-lift/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "wing",
+    "flexibility",
+    "generates",
+    "lift"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-waxy-coat-controls-moisture-loss",
+  "organism_common": "Cockroach",
+  "organism_scientific": "",
+  "strategy_summary": "The cuticle of cockroaches allows temperature-controlled variability of moisture loss via a waxy coat. “It was shown by Ramsay (1935) that the cockroach owes its impermeability to water to a thin and apparently mobile layer of lipoid on its surface.",
+  "mechanism": "The cuticle of cockroaches allows temperature-controlled variability of moisture loss via a waxy coat.\n\n“It was shown by Ramsay (1935) that the cockroach owes its impermeability to water to a thin and apparently mobile layer of lipoid on its surface. At a critical temperature of about 30° C. this lipoid seems to undergo a change of phase, and it then allows water to pass freely through it. This interesting observation has never been confirmed on other insects. It forms the starting-point of the present study.” (Wigglesworth 1945:97)",
+  "function_addressed": [
+    "protect from excess liquids",
+    "protect from loss of liquids",
+    "modify material characteristics"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/waxy-coat-controls-moisture-loss/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "waxy",
+    "coat",
+    "controls",
+    "moisture",
+    "loss"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-sticky-berries-adhere-2",
+  "organism_common": "Mistletoe",
+  "organism_scientific": "",
+  "strategy_summary": "The seeds of European mistletoe pass safely through a bird's gut yet stick to branches where they germinate due to mechanical properties of the cellulosic filaments in their sticky coating. “The only European mistletoe is the strange twin-leaved parasite that once played an important part in human fertility rites…",
+  "mechanism": "The seeds of European mistletoe pass safely through a bird's gut yet stick to branches where they germinate due to mechanical properties of the cellulosic filaments in their sticky coating.\n\n“The only European mistletoe is the strange twin-leaved parasite that once played an important part in human fertility rites, perhaps because in winter its leaves remain green and visibly alive when those of the tree on which it grows have all fallen…Its white berries have flesh that is so extraordinarily sticky that when a bird such as a thrush or a blackbird tries to eat them, they often become stuck to its beak. The bird finds this so irritating that it tries to wipe the berry off by scraping it on to another branch and in doing so, rams it into a crevice. The seed then puts out a root which worms its way into the tree and eventually connects with the vessels within the branch that carry the tree’s sap. And with that as food, it flourishes.” (Attenborough 1995:229-230)\n\n“The results presented in this study illustrate the remarkable characteristics of the cellulose located in the thick cell walls of the viscin tissue from V. album . Initially, the microfibrils of this cellulose are indeed tightly coiled perpendicularly to the viscin cell axes. Due to the hemicelluloses that are also present and when the hydration is sufficient, these cellulose microfibrils are free to move past each other in such a way that the wall of the viscin tissue is able to get deformed upon the slightest stretching action. This deformation can reach extraordinary values of several hundred folds without breakage, each viscin cell giving one tiny cellulose filament having no more than a few microns in width, as opposed to the initial viscin cells that had diameters of several tens of micron. As deduced from diffraction experiments (Figure 9(a)), the orientation of the cellulose in these stretched filaments is unusually high. The combination of this high orientation with the fairly large molecular weight of the corresponding cellulose indicates that these filaments should have high mechanical properties. Their strength must in fact be correlated to the biological function of the viscin tissue, which is to hold firmly the mistletoe seed through the bird guts. When expelled from the bird and dropped on the branch of a tree, the seeds will normally stick to the branch thanks to their hemicellulosic glue. Some of the seeds will even dangle down from the branch, held by the viscin cellulosic filaments. Under the action of the wind, these seeds will be brought back in contact with the branch to which they will adhere for further germination. This phenomenon explains why mistletoe sometimes germinates even at the underlying part of branches.” (Azuma et al. 2000:16)\n\n“As a group, the Australian mistletoes have developed a rather more specialised system of transport than that employed by their European relative. One particular bird, the mistletoe bird, eats little other than mistletoe berries. There are so many species, each with its own fruiting season, that the bird is able to find berries throughout the year and it flies along regular migration routes in order to do so. Its digestive system is specially modified to cope with this diet. For some reason, it processes the berries with remarkable speed so that one will take less than half an hour to travel from entry to exit. When it emerges the seed still has considerable residual stickiness and so remains fastened to the bird’s rear. The defecating bird does not, however, sit transversely across a twig waiting for the mistletoe seed to drop off. Instead, it turns so that its body is aligned along the twig and carefully wipes its bottom on the bark beneath. This fixes the seed to the tree but threads of the seed’s glue still remain attached to the bird’s rear and it has to make three separate sideways jumps along the twig before the connection is finally broken.” (Attenborough 1995:230-231)",
+  "function_addressed": [
+    "attach permanently",
+    "manage mechanical wear"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/sticky-berries-adhere-2/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "sticky",
+    "berries",
+    "adhere"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-tentacles-detect-predators",
+  "organism_common": "Queen scallop",
+  "organism_scientific": "",
+  "strategy_summary": "The tentacles of a queen scallop provide an early warning by detecting chemicals associated with approaching predators. “The eyes are not the [queen scallop’s] only source of warning — the tentacles around the mantle edge are extremely sensitive to certain chemicals, and can probably detect the approach of a starfish…",
+  "mechanism": "The tentacles of a queen scallop provide an early warning by detecting chemicals associated with approaching predators.\n\n“The eyes are not the [queen scallop’s] only source of warning — the tentacles around the mantle edge are extremely sensitive to certain chemicals, and can probably detect the approach of a starfish long before its shadow falls, certainly in time for the scallop to close its valves or leap away.” (Foy and Oxford Scientific Films 1982:118)",
+  "function_addressed": [
+    "protect from animals",
+    "sense chemicals (odor, taste, etc.) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tentacles-detect-predators/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tentacles",
+    "detect",
+    "predators"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

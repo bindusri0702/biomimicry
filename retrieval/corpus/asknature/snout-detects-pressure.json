@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-snout-detects-pressure",
+  "organism_common": "Star-nosed mole",
+  "organism_scientific": "",
+  "strategy_summary": "The snout of talpids can detect pressure and other sensory input thanks to the Eimer's gland, a mechanosensory organ. Learn more about the star-nosed mole’s sensory abilities in Adelheid Fischer’s “The Science of Seeing: It’s the Mix Not The Match That Makes the Magnificent Mole” on page 34 of Zygote Quarterly: …",
+  "mechanism": "The snout of talpids can detect pressure and other sensory input thanks to the Eimer's gland, a mechanosensory organ.\n\nLearn more about the star-nosed mole’s sensory abilities in Adelheid Fischer’s “The Science of Seeing: It’s the Mix Not The Match That Makes the Magnificent Mole” on page 34 of Zygote Quarterly:\n\n“Talpids also possess an Eimer’s gland , a mechanosensory organ present on the rhinarium. This organ is highly sensitive and responds to the onset and offset of pressure, to sustained depression of the epidermis, and to changes in the angle of the stimulation. This organ may be used to detect prey by determining surface texture, and in the star-nosed moles the Eimer’s gland may detect the electrical fields of prey in water.” (Fowler and Miller 2003:304)",
+  "function_addressed": [
+    "sense touch and mechanical forces in a living system"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/snout-detects-pressure/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "snout",
+    "detects",
+    "pressure"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

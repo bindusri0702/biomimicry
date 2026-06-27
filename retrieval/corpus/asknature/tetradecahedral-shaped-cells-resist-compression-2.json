@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-tetradecahedral-shaped-cells-resist-compression-2",
+  "organism_common": "Watercress",
+  "organism_scientific": "",
+  "strategy_summary": "Tetradecahedral-shaped cells allow for maximal packing space while also resisting compression. Watercress is a species of aquatic plant native to Asia and Europe.",
+  "mechanism": "Tetradecahedral-shaped cells allow for maximal packing space while also resisting compression.\n\nWatercress is a species of aquatic plant native to Asia and Europe. It grows in rivers where it is subject to constant pressure from the flow of water, high flow rates after rain, and impact by any debris caught in the current.\n\nOptimally filling a designated space is one of the major challenges of efficient packing. A space is considered to be optimally packed when a maximum number of objects of a designated shape is able to fill a container, with a minimal amount of space between each object. Different shapes offer varied packing efficiencies, depending on the size of the container being filled. Certain packing problems have optimal solutions for different shapes within a given container. For example, there is an optimal packing solution for same-sized circles in a square container.\n\nOne shape that is excellent for packing is a tetradecahedron, which has fourteen faces, eight hexagonal and six square, where all the sides of all the hexagons and all the squares are equal. If soft spheres—like plant cells—are squeezed together in a confined space, they will naturally take on a tetradecahedral shape, because this is the optimal packing configuration. Because the cells in this configuration are packed so tightly together, this packing design is also very compression-resistant.\n\nThe cells that are packed into the stems of watercress plants are tetradecahedral-shaped, which allows the stem to absorb damage from impact more effectively, making the stem less prone to breaking in fast flowing water.\n\nTetradecahedron model shows fourteen faces comprised of eight hexagons and six squares\n\nMouse epidermal cells are tetradecahedron in shape",
+  "function_addressed": [
+    "manage compression"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tetradecahedral-shaped-cells-resist-compression-2/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shape",
+    "cells",
+    "resists",
+    "compression"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-coat-changes-with-the-seasons",
+  "organism_common": "Rock squirrel",
+  "organism_scientific": "",
+  "strategy_summary": "The fur of rock squirrels serves as a source of long-term, seasonal thermoregulation due to changeable hair optics and coat structure. “Physical theory predicts that animals with fur or feather coats can adjust solar heat gain independently of surface coloration or environmental factors by altering coat structure or…",
+  "mechanism": "The fur of rock squirrels serves as a source of long-term, seasonal thermoregulation due to changeable hair optics and coat structure.\n\n“Physical theory predicts that animals with fur or feather coats can adjust solar heat gain independently of surface coloration or environmental factors by altering coat structure or hair optical properties. This hypothesis is tested by examining seasonal changes in the solar heat load transferred to the skin by the pelage of a desert-dwelling mammal, the rock squirrel ( Spermophilus variegatus ). Although coat colour remains constant, solar heat gain at low wind speeds is about 20% greater in winter coats than in summer coats. This change is in an apparently adaptive direction and is predicted to have a major effect on the animal’s heat balance in nature. The determinants of these alterations in solar heat gain are explored using an empirically validated biophysical model and are found to result from changes in hair optics and coat structure. These results suggest the existence of a previously unknown mode of long-term thermoregulation that allows adjustment of solar heat gain without affecting the animal’s external appearance.” (Walsberg 1989:387)",
+  "function_addressed": [
+    "adapt phenotype",
+    "protect from temperature",
+    "maintain homeostasis"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/coat-changes-with-the-seasons/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "coat",
+    "changes",
+    "seasons"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

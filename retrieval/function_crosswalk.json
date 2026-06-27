@@ -1,0 +1,1237 @@
+{
+  "auto_accept": 0.7,
+  "rows": [
+    {
+      "label": "Adapt Behaviors",
+      "group": "Make / modify",
+      "sub_group": "Adapt/optimize",
+      "function": "adapt behaviors",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Adapt Genotype",
+      "group": "Make / modify",
+      "sub_group": "Adapt/optimize",
+      "function": "adapt genotype",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Adapt Phenotype",
+      "group": "Make / modify",
+      "sub_group": "Adapt/optimize",
+      "function": "adapt phenotype",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Attach Permanently",
+      "group": "Move or stay put",
+      "sub_group": "Attach",
+      "function": "permanently",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Attach Temporarily",
+      "group": "Move or stay put",
+      "sub_group": "Attach",
+      "function": "temporarily",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Attach a Functional Group",
+      "group": "Make / modify",
+      "sub_group": "Chemically assemble",
+      "function": "attach a functional group",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Biological Control of Populations, Pests, Diseases",
+      "group": "Sustain ecological community",
+      "sub_group": "Provide ecosystem services",
+      "function": "biological control of populations/pests/diseases",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Capture, Absorb, or Filter Chemical Entities",
+      "group": "Get, store, or distribute resources",
+      "sub_group": "Capture, absorb, or filter",
+      "function": null,
+      "confidence": 1.0,
+      "method": "subgroup_only"
+    },
+    {
+      "label": "Capture, Absorb, or Filter Energy",
+      "group": "Get, store, or distribute resources",
+      "sub_group": "Capture, absorb, or filter",
+      "function": "energy",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Capture, Absorb, or Filter Gases",
+      "group": "Get, store, or distribute resources",
+      "sub_group": "Capture, absorb, or filter",
+      "function": "gases",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Capture, Absorb, or Filter Liquids",
+      "group": "Get, store, or distribute resources",
+      "sub_group": "Capture, absorb, or filter",
+      "function": "liquids",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Capture, Absorb, or Filter Organisms",
+      "group": "Get, store, or distribute resources",
+      "sub_group": "Capture, absorb, or filter",
+      "function": null,
+      "confidence": 1.0,
+      "method": "subgroup_only"
+    },
+    {
+      "label": "Capture, Absorb, or Filter Solids",
+      "group": "Get, store, or distribute resources",
+      "sub_group": "Capture, absorb, or filter",
+      "function": "solids",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Catalyze Chemical Assembly",
+      "group": "Make / modify",
+      "sub_group": "Chemically assemble",
+      "function": "catalyze making of bonds",
+      "confidence": 1.0,
+      "method": "override"
+    },
+    {
+      "label": "Catalyze Chemical Breakdown",
+      "group": "Break down",
+      "sub_group": "Chemically break down",
+      "function": "catalyze breaking of bonds",
+      "confidence": 1.0,
+      "method": "override"
+    },
+    {
+      "label": "Chemically Assemble Inorganic Compounds",
+      "group": "Make / modify",
+      "sub_group": "Chemically assemble",
+      "function": "inorganic compounds",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Chemically Assemble Mineral Crystals",
+      "group": "Make / modify",
+      "sub_group": "Chemically assemble",
+      "function": "mineral crystals",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Chemically Assemble Molecular Devices",
+      "group": "Make / modify",
+      "sub_group": "Chemically assemble",
+      "function": "molecular devices",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Chemically Assemble Organic Compounds",
+      "group": "Make / modify",
+      "sub_group": "Chemically assemble",
+      "function": "organic compounds",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Chemically Assemble Polymers",
+      "group": "Make / modify",
+      "sub_group": "Chemically assemble",
+      "function": "polymers",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Chemically Assemble on Demand",
+      "group": "Make / modify",
+      "sub_group": "Chemically assemble",
+      "function": "on demand",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Chemically Break Down Inorganic Compounds",
+      "group": "Break down",
+      "sub_group": "Chemically break down",
+      "function": "inorganic compounds",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Chemically Break Down Organic Compounds",
+      "group": "Break down",
+      "sub_group": "Chemically break down",
+      "function": "organic compounds",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Chemically Break Down Polymers",
+      "group": "Break down",
+      "sub_group": "Chemically break down",
+      "function": "polymers",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Chemically Generate Flow of Electrons (Redox)",
+      "group": "Make / modify",
+      "sub_group": "Transform/convert energy",
+      "function": "chemically generate flow of electrons",
+      "confidence": 0.833,
+      "method": "auto"
+    },
+    {
+      "label": "Cleave Halogens From Organic Compounds",
+      "group": "Break down",
+      "sub_group": "Chemically break down",
+      "function": "cleave halogens from organic compounds",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Cleave Heavy Metals From Organic Compounds",
+      "group": "Break down",
+      "sub_group": "Chemically break down",
+      "function": "cleave heavy metals from organic compounds",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Coevolve",
+      "group": "Make / modify",
+      "sub_group": "Adapt/optimize",
+      "function": "coevolve",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Compute",
+      "group": "Process information",
+      "sub_group": "Compute",
+      "function": "Compute",
+      "confidence": 1.0,
+      "method": "override"
+    },
+    {
+      "label": "Control Erosion and Sediment",
+      "group": "Sustain ecological community",
+      "sub_group": "Provide ecosystem services",
+      "function": "control erosion and sediment",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Cooperate Within an Ecosystem",
+      "group": "Sustain ecological community",
+      "sub_group": "Cooperate/compete",
+      "function": "within a (eco)system",
+      "confidence": 1.0,
+      "method": "override"
+    },
+    {
+      "label": "Cooperate Within the Same Species",
+      "group": "Sustain ecological community",
+      "sub_group": "Cooperate/compete",
+      "function": "within the same species",
+      "confidence": 1.0,
+      "method": "override"
+    },
+    {
+      "label": "Cooperate/Compete Between Different Species",
+      "group": "Sustain ecological community",
+      "sub_group": "Cooperate/compete",
+      "function": "between different species",
+      "confidence": 1.0,
+      "method": "override"
+    },
+    {
+      "label": "Coordinate Activities",
+      "group": "Sustain ecological community",
+      "sub_group": "Coordinate",
+      "function": "activities",
+      "confidence": 1.0,
+      "method": "override"
+    },
+    {
+      "label": "Coordinate Systems",
+      "group": "Sustain ecological community",
+      "sub_group": "Coordinate",
+      "function": "systems",
+      "confidence": 1.0,
+      "method": "override"
+    },
+    {
+      "label": "Coordinate by Self-Organization",
+      "group": "Sustain ecological community",
+      "sub_group": "Coordinate",
+      "function": "by self-organization",
+      "confidence": 1.0,
+      "method": "override"
+    },
+    {
+      "label": "Cycle Nutrients",
+      "group": "Sustain ecological community",
+      "sub_group": "Provide ecosystem services",
+      "function": "cycle nutrients",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Detoxification/Purification of Air/Water/Waste",
+      "group": "Sustain ecological community",
+      "sub_group": "Provide ecosystem services",
+      "function": "detoxification/purification of air/water/waste",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Differentiate Signal From Noise",
+      "group": "Process information",
+      "sub_group": "Process signals",
+      "function": "differentiate signal from noise",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Disperse Seeds",
+      "group": "Sustain ecological community",
+      "sub_group": "Provide ecosystem services",
+      "function": "disperse seeds",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Distribute Energy",
+      "group": "Get, store, or distribute resources",
+      "sub_group": "Distribute",
+      "function": "energy",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Distribute Gases",
+      "group": "Get, store, or distribute resources",
+      "sub_group": "Distribute",
+      "function": "gases",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Distribute Liquids",
+      "group": "Get, store, or distribute resources",
+      "sub_group": "Distribute",
+      "function": "liquids",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Distribute Solids",
+      "group": "Get, store, or distribute resources",
+      "sub_group": "Distribute",
+      "function": "solids",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Encode/Decode",
+      "group": "Process information",
+      "sub_group": "[En/de]code",
+      "function": "[En/de]code",
+      "confidence": 1.0,
+      "method": "override"
+    },
+    {
+      "label": "Expel Gases",
+      "group": "Move or stay put",
+      "sub_group": "Expel",
+      "function": "gases",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Expel Liquids",
+      "group": "Move or stay put",
+      "sub_group": "Expel",
+      "function": "liquids",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Expel Solids",
+      "group": "Move or stay put",
+      "sub_group": "Expel",
+      "function": "solids",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Generate Soil/Renew Fertility",
+      "group": "Sustain ecological community",
+      "sub_group": "Provide ecosystem services",
+      "function": "generate soil/renew fertility",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Learn",
+      "group": "Process information",
+      "sub_group": "Learn",
+      "function": "Learn",
+      "confidence": 1.0,
+      "method": "override"
+    },
+    {
+      "label": "Maintain Biodiversity",
+      "group": "Sustain ecological community",
+      "sub_group": "Provide ecosystem services",
+      "function": "maintain biodiversity",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Maintain Homeostasis",
+      "group": "Maintain physical integrity",
+      "sub_group": "Regulate physiological processes",
+      "function": "maintain homeostasis",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Manage Chemical Wear",
+      "group": "Maintain physical integrity",
+      "sub_group": "Prevent structural failure",
+      "function": "chemical wear",
+      "confidence": 0.667,
+      "method": "review"
+    },
+    {
+      "label": "Manage Compression",
+      "group": "Maintain physical integrity",
+      "sub_group": "Manage structural forces",
+      "function": "compression",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Manage Disturbance in a Community",
+      "group": "Sustain ecological community",
+      "sub_group": "Provide ecosystem services",
+      "function": "manage disturbance in a community",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Manage Impact",
+      "group": "Maintain physical integrity",
+      "sub_group": "Manage structural forces",
+      "function": "impact",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Manage Mechanical Wear",
+      "group": "Maintain physical integrity",
+      "sub_group": "Prevent structural failure",
+      "function": "mechanical wear",
+      "confidence": 0.667,
+      "method": "review"
+    },
+    {
+      "label": "Manage Shear",
+      "group": "Maintain physical integrity",
+      "sub_group": "Manage structural forces",
+      "function": "shear",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Manage Tension",
+      "group": "Maintain physical integrity",
+      "sub_group": "Manage structural forces",
+      "function": "tension",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Manage Turbulence",
+      "group": "Maintain physical integrity",
+      "sub_group": "Manage structural forces",
+      "function": "turbulence",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Buoyancy",
+      "group": "Make / modify",
+      "sub_group": "Modify physical state",
+      "function": "buoyancy",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Chemical Potential",
+      "group": "Make / modify",
+      "sub_group": "Modify chemical/electrical state",
+      "function": "chemical potential",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Concentration (of Ions, Solutes, Etc.)",
+      "group": "Make / modify",
+      "sub_group": "Modify chemical/electrical state",
+      "function": "concentration",
+      "confidence": 0.333,
+      "method": "review"
+    },
+    {
+      "label": "Modify Conductivity",
+      "group": "Make / modify",
+      "sub_group": "Modify chemical/electrical state",
+      "function": "conductivity",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Density",
+      "group": "Make / modify",
+      "sub_group": "Modify physical state",
+      "function": "density",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Electric Charge",
+      "group": "Make / modify",
+      "sub_group": "Modify chemical/electrical state",
+      "function": "electric charge",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Electron Transport",
+      "group": "Make / modify",
+      "sub_group": "Modify chemical/electrical state",
+      "function": "electron transport",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Energy State",
+      "group": "Make / modify",
+      "sub_group": "Modify chemical/electrical state",
+      "function": "energy state",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Free Radical Reactivity",
+      "group": "Make / modify",
+      "sub_group": "Modify chemical/electrical state",
+      "function": "free-radical reactivity",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Light/Color",
+      "group": "Make / modify",
+      "sub_group": "Modify physical state",
+      "function": "light/color",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Material Characteristics",
+      "group": "Make / modify",
+      "sub_group": "Modify physical state",
+      "function": "material characteristics",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Oxidation State",
+      "group": "Make / modify",
+      "sub_group": "Modify chemical/electrical state",
+      "function": "oxidation state",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify PH",
+      "group": "Make / modify",
+      "sub_group": "Modify chemical/electrical state",
+      "function": "pH",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Phase",
+      "group": "Make / modify",
+      "sub_group": "Modify physical state",
+      "function": "phase",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Position",
+      "group": "Make / modify",
+      "sub_group": "Modify physical state",
+      "function": "position",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Pressure",
+      "group": "Make / modify",
+      "sub_group": "Modify physical state",
+      "function": "pressure",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Reactivity With Water",
+      "group": "Make / modify",
+      "sub_group": "Modify chemical/electrical state",
+      "function": "reactivity with water",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Size/Shape/Mass/Volume",
+      "group": "Make / modify",
+      "sub_group": "Modify physical state",
+      "function": "size/shape/mass/volume",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Solubility (Dissolving, Emulsifying, Precipitating, Crystallizing)",
+      "group": "Make / modify",
+      "sub_group": "Modify chemical/electrical state",
+      "function": "solubility",
+      "confidence": 0.333,
+      "method": "review"
+    },
+    {
+      "label": "Modify Speed",
+      "group": "Make / modify",
+      "sub_group": "Modify physical state",
+      "function": "speed",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Modify Surface Tension",
+      "group": "Make / modify",
+      "sub_group": "Modify chemical/electrical state",
+      "function": "surface tension",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Move in/Through Gases",
+      "group": "Move or stay put",
+      "sub_group": "Move",
+      "function": "in/through gases",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Move in/on Liquids",
+      "group": "Move or stay put",
+      "sub_group": "Move",
+      "function": "in/on liquids",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Move in/on Solids",
+      "group": "Move or stay put",
+      "sub_group": "Move",
+      "function": "in/on solids",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Navigate Over Land",
+      "group": "Process information",
+      "sub_group": "Navigate",
+      "function": "over land",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Navigate Through Air",
+      "group": "Process information",
+      "sub_group": "Navigate",
+      "function": "through air",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Navigate Through Liquid",
+      "group": "Process information",
+      "sub_group": "Navigate",
+      "function": "through liquid",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Navigate Through Solids",
+      "group": "Process information",
+      "sub_group": "Navigate",
+      "function": "through solids",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Optimize Shape/Materials",
+      "group": "Make / modify",
+      "sub_group": "Adapt/optimize",
+      "function": "optimize space/materials",
+      "confidence": 0.5,
+      "method": "review"
+    },
+    {
+      "label": "Physically Assemble Structure",
+      "group": "Make / modify",
+      "sub_group": "Physically assemble",
+      "function": "structure",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Physically Break Down Living Materials",
+      "group": "Break down",
+      "sub_group": "Physically break down",
+      "function": "living materials",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Physically Break Down Non-living Materials",
+      "group": "Break down",
+      "sub_group": "Physically break down",
+      "function": "non-living materials",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Pollinate",
+      "group": "Sustain ecological community",
+      "sub_group": "Provide ecosystem services",
+      "function": "pollinate",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Prevent Buckling",
+      "group": "Maintain physical integrity",
+      "sub_group": "Prevent structural failure",
+      "function": "buckling",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Prevent Deformation",
+      "group": "Maintain physical integrity",
+      "sub_group": "Prevent structural failure",
+      "function": "deformation",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Prevent Fatigue",
+      "group": "Maintain physical integrity",
+      "sub_group": "Prevent structural failure",
+      "function": "fatigue",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Prevent Fracture/Rupture",
+      "group": "Maintain physical integrity",
+      "sub_group": "Prevent structural failure",
+      "function": "fracture/rupture",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Preventing Melting",
+      "group": "Maintain physical integrity",
+      "sub_group": "Prevent structural failure",
+      "function": "melting",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Protect From Animals",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from living threats",
+      "function": "animals",
+      "confidence": 0.667,
+      "method": "review"
+    },
+    {
+      "label": "Protect From Chemicals",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from non-living threats",
+      "function": "chemicals",
+      "confidence": 0.667,
+      "method": "review"
+    },
+    {
+      "label": "Protect From Dirt/solids",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from non-living threats",
+      "function": "dirt/solids",
+      "confidence": 0.75,
+      "method": "auto"
+    },
+    {
+      "label": "Protect From Excess Liquids",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from non-living threats",
+      "function": "excess liquids",
+      "confidence": 0.75,
+      "method": "auto"
+    },
+    {
+      "label": "Protect From Fire",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from non-living threats",
+      "function": "fire",
+      "confidence": 0.667,
+      "method": "review"
+    },
+    {
+      "label": "Protect From Fungi",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from living threats",
+      "function": "fungi",
+      "confidence": 0.667,
+      "method": "review"
+    },
+    {
+      "label": "Protect From Gases",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from non-living threats",
+      "function": "gases",
+      "confidence": 0.667,
+      "method": "review"
+    },
+    {
+      "label": "Protect From Ice",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from non-living threats",
+      "function": "ice",
+      "confidence": 0.667,
+      "method": "review"
+    },
+    {
+      "label": "Protect From Light",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from non-living threats",
+      "function": "light",
+      "confidence": 0.667,
+      "method": "review"
+    },
+    {
+      "label": "Protect From Loss of Gases",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from non-living threats",
+      "function": "loss of gases",
+      "confidence": 0.8,
+      "method": "auto"
+    },
+    {
+      "label": "Protect From Loss of Liquids",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from non-living threats",
+      "function": "loss of liquids",
+      "confidence": 0.8,
+      "method": "auto"
+    },
+    {
+      "label": "Protect From Microbes",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from living threats",
+      "function": "microbes",
+      "confidence": 0.667,
+      "method": "review"
+    },
+    {
+      "label": "Protect From Nuclear Radiation",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from non-living threats",
+      "function": "nuclear radiation",
+      "confidence": 0.75,
+      "method": "auto"
+    },
+    {
+      "label": "Protect From Plants",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from living threats",
+      "function": "plants",
+      "confidence": 0.667,
+      "method": "review"
+    },
+    {
+      "label": "Protect From Temperature",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from non-living threats",
+      "function": "temperature",
+      "confidence": 0.667,
+      "method": "review"
+    },
+    {
+      "label": "Protect From Wind",
+      "group": "Protect from physical harm",
+      "sub_group": "Protect from non-living threats",
+      "function": "wind",
+      "confidence": 0.667,
+      "method": "review"
+    },
+    {
+      "label": "Regulate Atmospheric Chemical/Gas Composition",
+      "group": "Sustain ecological community",
+      "sub_group": "Provide ecosystem services",
+      "function": "regulate atmospheric composition",
+      "confidence": 0.6,
+      "method": "review"
+    },
+    {
+      "label": "Regulate Cellular Processes",
+      "group": "Maintain physical integrity",
+      "sub_group": "Regulate physiological processes",
+      "function": "cellular processes",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Regulate Climate",
+      "group": "Sustain ecological community",
+      "sub_group": "Provide ecosystem services",
+      "function": "regulate climate",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Regulate Hydrological Flows",
+      "group": "Sustain ecological community",
+      "sub_group": "Provide ecosystem services",
+      "function": "regulate hydrological flows",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Regulate Reproduction or Growth",
+      "group": "Maintain physical integrity",
+      "sub_group": "Regulate physiological processes",
+      "function": "reproduction or growth",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Regulate Water Storage",
+      "group": "Sustain ecological community",
+      "sub_group": "Provide ecosystem services",
+      "function": "regulate water storage",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Respond to Signals",
+      "group": "Process information",
+      "sub_group": "Process signals",
+      "function": "respond to signals",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Self-Replicate",
+      "group": "Make / modify",
+      "sub_group": "Reproduce",
+      "function": "self-replicate",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Send Chemical Signals (Odor, Taste, Etc.)",
+      "group": "Process information",
+      "sub_group": "Send signals",
+      "function": "chemical (odor, taste, etc.)",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Send Electrical/Magnetic Signals",
+      "group": "Process information",
+      "sub_group": "Send signals",
+      "function": "electrical/magnetic",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Send Light Signals in the Non-visible Spectrum",
+      "group": "Process information",
+      "sub_group": "Send signals",
+      "function": "light (non-visible spectrum)",
+      "confidence": 0.75,
+      "method": "auto"
+    },
+    {
+      "label": "Send Light Signals in the Visible Spectrum",
+      "group": "Process information",
+      "sub_group": "Send signals",
+      "function": "light (visible spectrum)",
+      "confidence": 0.714,
+      "method": "auto"
+    },
+    {
+      "label": "Send Sound Signals",
+      "group": "Process information",
+      "sub_group": "Send signals",
+      "function": "sound",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Send Vibratory Signals",
+      "group": "Process information",
+      "sub_group": "Send signals",
+      "function": "vibratory",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Sense Atmospheric Conditions",
+      "group": "Process information",
+      "sub_group": "Sense signals / environmental cues",
+      "function": "atmospheric conditions",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Sense Balance/Orientation",
+      "group": "Process information",
+      "sub_group": "Sense signals / environmental cues",
+      "function": "balance/orientation",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Sense Body Awareness",
+      "group": "Process information",
+      "sub_group": "Sense signals / environmental cues",
+      "function": "body awareness",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Sense Chemicals (Odor, Taste, etc.) From the Environment",
+      "group": "Process information",
+      "sub_group": "Sense signals / environmental cues",
+      "function": "chemicals (odor, taste, etc.)",
+      "confidence": 0.625,
+      "method": "review"
+    },
+    {
+      "label": "Sense Disease in a Living System",
+      "group": "Process information",
+      "sub_group": "Sense signals / environmental cues",
+      "function": "disease",
+      "confidence": 0.333,
+      "method": "review"
+    },
+    {
+      "label": "Sense Electricity/Magnetism From the Environment",
+      "group": "Process information",
+      "sub_group": "Sense signals / environmental cues",
+      "function": "electricity/magnetism",
+      "confidence": 0.5,
+      "method": "review"
+    },
+    {
+      "label": "Sense Light (Non-visible Spectrum) From the Environment",
+      "group": "Process information",
+      "sub_group": "Sense signals / environmental cues",
+      "function": "light (non-visible spectrum)",
+      "confidence": 0.625,
+      "method": "review"
+    },
+    {
+      "label": "Sense Light (Visible Spectrum) From the Environment",
+      "group": "Process information",
+      "sub_group": "Sense signals / environmental cues",
+      "function": "light (visible spectrum)",
+      "confidence": 0.571,
+      "method": "review"
+    },
+    {
+      "label": "Sense Motion",
+      "group": "Process information",
+      "sub_group": "Sense signals / environmental cues",
+      "function": "motion",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Sense Shape and Pattern in a Living System",
+      "group": "Process information",
+      "sub_group": "Sense signals / environmental cues",
+      "function": "shape and pattern",
+      "confidence": 0.5,
+      "method": "review"
+    },
+    {
+      "label": "Sense Sound and Other Vibrations From the Environment",
+      "group": "Process information",
+      "sub_group": "Sense signals / environmental cues",
+      "function": "sound and other vibrations",
+      "confidence": 0.625,
+      "method": "review"
+    },
+    {
+      "label": "Sense Temperature Cues From the Environment",
+      "group": "Process information",
+      "sub_group": "Sense signals / environmental cues",
+      "function": "temperature",
+      "confidence": 0.375,
+      "method": "review"
+    },
+    {
+      "label": "Sense Time and Day Length",
+      "group": "Process information",
+      "sub_group": "Sense signals / environmental cues",
+      "function": "time and day length",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Sense Touch and Mechanical Forces in a Living System",
+      "group": "Process information",
+      "sub_group": "Sense signals / environmental cues",
+      "function": "touch and mechanical forces",
+      "confidence": 0.556,
+      "method": "review"
+    },
+    {
+      "label": "Store Chemical Entities",
+      "group": "Get, store, or distribute resources",
+      "sub_group": "Store",
+      "function": "chemical entities",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Store Energy",
+      "group": "Get, store, or distribute resources",
+      "sub_group": "Store",
+      "function": "energy",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Store Gases",
+      "group": "Get, store, or distribute resources",
+      "sub_group": "Store",
+      "function": "gases",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Store Liquids",
+      "group": "Get, store, or distribute resources",
+      "sub_group": "Store",
+      "function": "liquids",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Store Solids",
+      "group": "Get, store, or distribute resources",
+      "sub_group": "Store",
+      "function": "solids",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Transduce/Convert Signals",
+      "group": "Process information",
+      "sub_group": "Process signals",
+      "function": "transduce/convert signals",
+      "confidence": 1.0,
+      "method": "auto"
+    },
+    {
+      "label": "Transform Chemical Energy",
+      "group": "Make / modify",
+      "sub_group": "Transform/convert energy",
+      "function": "chemical energy",
+      "confidence": 0.75,
+      "method": "auto"
+    },
+    {
+      "label": "Transform Electrical Energy",
+      "group": "Make / modify",
+      "sub_group": "Transform/convert energy",
+      "function": "electrical energy",
+      "confidence": 0.75,
+      "method": "auto"
+    },
+    {
+      "label": "Transform Magnetic Energy",
+      "group": "Make / modify",
+      "sub_group": "Transform/convert energy",
+      "function": "magnetic energy",
+      "confidence": 0.75,
+      "method": "auto"
+    },
+    {
+      "label": "Transform Mechanical Energy",
+      "group": "Make / modify",
+      "sub_group": "Transform/convert energy",
+      "function": "mechanical energy",
+      "confidence": 0.75,
+      "method": "auto"
+    },
+    {
+      "label": "Transform Radiant Energy (Light)",
+      "group": "Make / modify",
+      "sub_group": "Transform/convert energy",
+      "function": "radiant energy (light)",
+      "confidence": 0.8,
+      "method": "auto"
+    },
+    {
+      "label": "Transform Thermal Energy",
+      "group": "Make / modify",
+      "sub_group": "Transform/convert energy",
+      "function": "thermal energy",
+      "confidence": 0.75,
+      "method": "auto"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-leaves-and-root-maximize-water-collection",
+  "organism_common": "Desert rhubarb",
+  "organism_scientific": "",
+  "strategy_summary": "The leaves and root of the desert rhubarb maximize water collection by directing rainwater to the plant's base and absorbing water from saturated ground. The desert rhubarb grows in the arid mountains of Jordan and Israel, where average annual rainfall is only 75 millimeters.",
+  "mechanism": "The leaves and root of the desert rhubarb maximize water collection by directing rainwater to the plant's base and absorbing water from saturated ground.\n\nThe desert rhubarb grows in the arid mountains of Jordan and Israel, where average annual rainfall is only 75 millimeters. In an average rainfall episode, up to two thirds of rainwater can evaporate before penetrating the soil. Because of this, most desert plants have shallow roots that collect the remaining surface water before it evaporates further.\n\nThe desert rhubarb sets itself apart by having a sophisticated water collection system that transports and absorbs water deep in the ground. First, rain water collects on the surface of the rhubarb’s leaves. The rhubarb has one to four meter long leaves with a series of successively wider, hydrophobic (meaning “water-fearing”) grooves embedded into its sides. In a sleek system, the grooves funnel rain water down the leaf similar to a system of rivers and creeks down a mountain.\n\nImage: Biomimicry Institute / Copyright © - All rights reserved toggle icon\n\nNext, the collected rainwater pools on the soil at the base of the plant. This small area of soil becomes saturated, allowing water to seep deeper into the soil. In an average rainfall, water penetrates desert soil between one to three centimeters. Pooling around the rhubarb, however, helps water to penetrate over ten centimeters into the ground. This is a comparatively high volume of water collected. In addition, the deeper the water penetrates the soil, the less exposed it is to the sun’s heat, and the less it will evaporate.\n\nLastly, the water is absorbed. The rhubarb has a single, long root that extends down into the desert ground. Compared to the thin shallow root system of its neighbors, the rhubarb root absorbs up to three times as much rainwater. While the single root is still technically collecting surface water, the pooling enabled by the grooved leaves has already brought the water much deeper into the soil.\n\nThis summary was contributed by Allison Miller.\n\nImage: Gideon Pisanty / CC BY - Creative Commons Attribution alone toggle icon",
+  "function_addressed": [
+    "capture, absorb, or filter liquids",
+    "distribute liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaves-and-root-maximize-water-collection/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaves",
+    "root",
+    "maximize",
+    "water",
+    "collection"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

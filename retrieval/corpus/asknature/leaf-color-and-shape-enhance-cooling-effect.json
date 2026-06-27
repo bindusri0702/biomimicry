@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-leaf-color-and-shape-enhance-cooling-effect",
+  "organism_common": "Sand drago",
+  "organism_scientific": "",
+  "strategy_summary": "The cooling effects of shade trees in subtropical regions are most influenced by foliage density and leaf thickness, leaf texture, and leaf color lightness. Shade trees provide a cooling effect by blocking sunlight and increasing air moisture, but not all trees offer equal relief from the heat.",
+  "mechanism": "The cooling effects of shade trees in subtropical regions are most influenced by foliage density and leaf thickness, leaf texture, and leaf color lightness.\n\nShade trees provide a cooling effect by blocking sunlight and increasing air moisture, but not all trees offer equal relief from the heat. Tree species with rough, dense foliage and light colored leaves provide the greatest cooling benefits to their surroundings.\n\nDuring the day, the sun warms the earth as waves of sunlight are absorbed by all that it touches. When sunlight falls on trees, the energy excites atoms in its leaves, triggering photosynthesis and creating heating. Too little heat results in very slow growth, but excess heat can be destructive to temperature sensitive molecules in the plant. Tree species are adapted to their local sunlight regime by producing leaves with varying degrees of reflectiveness; i.e., dark colored leaves absorb the most energy from sunlight, while light colored leaves reflect excess sunlight. For example, conifer forests cover high latitudes where sunlight is limited. By having dark needles, conifers are able to absorb the most energy from sunlight when it is available. In contrast, cacti receive plenty of sunlight in low latitude deserts. To prevent scorching, cacti are light colored to reflect some of the sunlight they receive.\n\nSunlight also heats the ground where it is exposed, causing it to collect the sun’s energy during the day and release the energy as heat at night. This results in an overall heat increase in exposed areas because nighttime cooling is minimized. Shade trees with dense foliage are able to block sunlight from reaching the ground during the day, preventing the ground from collecting energy. Because shaded areas do not release heat at night, ambient temperatures remain cooler on average than exposed areas receiving the same amount of sunlight.\n\nIn addition to general heating, the energy from sunlight also excites water molecules in leaves and transforms them from liquid to vapor, a process called evapotranspiration. Water molecules are unique because they are able to hold a great deal of energy without releasing it as heat. In the vapor state, water molecules have a pronounced cooling effect because they are able to absorb heat from objects they come in contact with, including trees, the ground, and the human body. To maximize this cooling effect, some trees are adapted to allow the greatest amount of evapotranspiration to occur by producing leaves with high surface area. Rough leaves have more surface area than smooth leaves, providing more space for evapotranspiration across the surface of the leaf to occur. This results in greater cooling benefits due to the high humidity surrounding trees with rough leaves.\n\nThis strategy was contributed by Melissa Moore Friedman.\n\nFootstepFloor\n\nThe Fractal Shade from FootstepFloor uses fractal patterns to create well-ventilated sunshade and prevent radiant heat.",
+  "function_addressed": [
+    "protect from light",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/leaf-color-and-shape-enhance-cooling-effect/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "leaf",
+    "color",
+    "shape",
+    "enhance",
+    "cooling",
+    "effect"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

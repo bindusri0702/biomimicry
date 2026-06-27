@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-photosynthesis-makes-useful-organic-compounds-out-of-co2",
+  "organism_common": "Plants",
+  "organism_scientific": "",
+  "strategy_summary": "Photosynthesis in plants makes useful organic compounds out of carbon dioxide through carbon-fixation reactions. The process of photosynthesis in plants involves a series of steps and reactions that use solar energy, water, and carbon dioxide to produce oxygen and organic compounds.",
+  "mechanism": "Photosynthesis in plants makes useful organic compounds out of carbon dioxide through carbon-fixation reactions.\n\nThe process of photosynthesis in plants involves a series of steps and reactions that use solar energy, water, and carbon dioxide to produce oxygen and organic compounds. Carbon dioxide serves as the source of carbon, and it enters the photosynthetic process in a series of reactions called the carbon-fixation reactions (also known as the dark reactions). These reactions follow the energy-transduction reactions (or light reactions) that convert solar energy into chemical energy in the form of ATP and NADPH molecules, which provide energy to drive the carbon-fixation reactions.\n\nCO2 enters most plants through pores (stomata) in the leaf or stem surface. In photosynthetic algae and cyanobacteria , CO2 is taken up from the surrounding water. Once in a photosynthetic cell, CO2 is “fixed” (covalently bonded) to an organic molecule with the help of the enzyme. In many plant species, this initial reaction is catalyzed by the enzyme Rubisco—the world’s most abundant enzyme.\n\nIn a cyclic series of reactions called the Calvin cycle or C3 pathway, the carbon-containing molecule resulting from this first fixation reaction is converted into various compounds using the energy from ATP and NADPH. The products of the Calvin cycle include a simple sugar that is subsequently converted into carbohydrates like glucose , sucrose, and starch, which serve as important energy sources for the plant. The cycle also regenerates molecules of the initial reactant that more CO2 will bond with in another turn of the cycle.\n\nInterest in learning from and applying how plants activate and convert CO2 into useful products is particularly high, as CO2 is abundant in the atmosphere but is chemically stable and requires a large amount of energy to convert into compounds that are useful in industrial processes.\n\nFor more information on other parts of the photosynthetic process, check out these related strategies: Pigment molecules absorb and transfer solar energy: Cooke’s koki’o Catalyst facilitates water-splitting: plants Photosynthesis converts solar energy into chemical energy: plants\n\nWoodsorrel (Oxalis). Picture was taken in the nature reserve Wagenmoos near Udligenswil LU, Switzerland.\n\nNewLight Technologies\n\nAirCarbon from Newlight Technologies uses ocean microorganisms to convert CO2 into PHB, a readily usable bioplastic.\n\nNovomer\n\nNovo22 from Novomer uses carbon dioxide to produce biodegradable plastic polymers.",
+  "function_addressed": [
+    "catalyze chemical breakdown",
+    "chemically assemble organic compounds",
+    "chemically break down inorganic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/photosynthesis-makes-useful-organic-compounds-out-of-co2/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "photosynthesis",
+    "makes",
+    "useful",
+    "organic",
+    "compounds",
+    "out"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

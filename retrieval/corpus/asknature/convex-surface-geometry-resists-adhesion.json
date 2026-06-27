@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-convex-surface-geometry-resists-adhesion",
+  "organism_common": "Protect From Excess Liquids",
+  "organism_scientific": "",
+  "strategy_summary": "Plant leaves resist adhesion of water and dirt due to convex geometry on their surface. Image: Wildfeuer / Wikimedia Commons / toggle icon Image: Lmbuga / Wikimedia Commons / toggle icon right arrow right arrow  “Non-smoothness is a common natural phenomenon in [the] biological world, which has been formed during the…",
+  "mechanism": "Plant leaves resist adhesion of water and dirt due to convex geometry on their surface.\n\nImage: Wildfeuer / Wikimedia Commons / toggle icon Image: Lmbuga / Wikimedia Commons / toggle icon right arrow right arrow\n\n“Non-smoothness is a common natural phenomenon in [the] biological world, which has been formed during the long evolutionary process of living creatures as a stable, self-adaptive system. The non-smooth surfaces of plants, resulting from long interaction between self-growing mechanism and external environment, exert several important functions, such as water repellency, anti-adhesion, and self-cleaning.” (Ren et al. 2007:33)",
+  "function_addressed": [
+    "protect from excess liquids",
+    "protect from dirt/solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/convex-surface-geometry-resists-adhesion/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "convex",
+    "surface",
+    "geometry",
+    "resists",
+    "adhesion"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

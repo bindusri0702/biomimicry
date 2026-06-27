@@ -1,0 +1,29 @@
+{
+  "doc_id": "asn-wild-potatoes-trick-attackers-into-sensing-danger",
+  "organism_common": "Wild potato",
+  "organism_scientific": "",
+  "strategy_summary": "In the never-ending give-and-take between plants and the organisms that feed on them, many have evolved sophisticated methods of deceiving their attackers. The wild potato (Solanum berthaultii), native to Bolivia, defends itself from aphids by emitting a pheromone that mimics the insects’ own alarm pheromone, thereby…",
+  "mechanism": "When attacked by predators, aphids emit a chemical signal that acts as an alarm to other aphids nearby, giving them a head start to flee from the area. The wild potato has adapted to put this behavior to work as a defense of its own. Potato plants expel a pheromone similar enough to the aphid alarm pheromone to have the same effect, causing the destructive insects to disperse. The aphids keep a distance of 1-3 mm. Even entire colonies that have already settled on the plant take off when exposed to this pheromone mimic.\n\nThe wild potato’s defense pheromone is released from two types of tiny hairs on its leaves and stems: the type A hairs, which are shorter and rupture when touched to expel the pheromone, and the type B hairs, which form drops of the pheromone at their tips.\n\nThe cultivated potato, a major food crop, is also fed on by aphids, but unlike its wild relative, it doesn’t have its own pheromone mimic to protect itself. Incorporating the wild potato’s pheromone mimic in pesticides for cultivated potato plants could protect this food staple from aphids (and the viruses they carry), and improve crop production.\n\nIt is worth conducting research on how the wild potato’s glandular hairs release (E)-β-farnesene as well, since it is an unstable and highly volatile compound that dissipates quickly. In addition to giving the cultivated potato and other crop plants the protection afforded by (E)-β-farnesene as a natural pesticide, this research could inform the development of technologies for dispersing (E)-β-farnesene so that its effects are longer-lasting.\n\nSee Related Strategy\n\nDesert locust\n\nThe desert locust becomes social and forms swarms through an increase in serotonin triggered by the presence of other locusts.",
+  "function_addressed": [
+    "respond to signals",
+    "sense touch and mechanical forces in a living system",
+    "chemically assemble organic compounds",
+    "protect from animals"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/wild-potatoes-trick-attackers-into-sensing-danger/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "wild",
+    "potatoes",
+    "trick",
+    "attackers",
+    "sensing",
+    "danger"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

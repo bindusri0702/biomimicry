@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-hormones-regulate-stress",
+  "organism_common": "Vertebrates (Mammals, Fish, Birds, Reptiles)",
+  "organism_scientific": "",
+  "strategy_summary": "A cat’s claws come out. A deer bolts across a field.",
+  "mechanism": "In fight or flight, sensory organs hear a warning noise or detect danger and send impulses to the brain that scream, “Help!” The brain fires nerves connected to adrenal gland s located in the upper portion of the kidney s. Within a few seconds of sensing the danger, these glands pump hormone s into our blood.\n\nEpinephrine (adrenaline) and norepinephrine course into our bloodstream. The hormones dock onto receptors dispersed on tissues throughout the body, unlocking various functions that ready us for battle or departure. Pupils dilate, improving vision. The heart races, blood pressure rises, and breathing rate quickens, increasing oxygen intake and distribution. Blood vessels to noncritical organs constrict while those around the brain and muscles dilate, diverting blood to where it’s needed most. These hormones also cause muscles to tremble, priming them for action. If an animal survives the immediate attack, the fight or flight response abruptly ends, and the body resumes normal function within a couple of minutes.\n\nLonger-term stressors like severe weather, loss of a mate, habitat loss, or exposure to pollution cause the second type of stress response, putting the body in a state of emergency. The emergency response is a bit slower, taking from minutes to hours to ramp up. Also, the effects are longer-lived, lasting from hours to weeks, depending on the duration of the stressor.\n\nAs with fight or flight, hormones drive the emergency response. In this case, the brain sends signals to a different region of the adrenal glands, releasing a group of hormones called glucocorticoids. In fish and mammals, glucocorticoids consist primarily of cortisol, but in reptiles, birds, amphibians, and rodents, the main glucocorticoid is corticosterone. These hormones generally help regulate glucose production, immune system function, and reproduction. They also affect migrating and feeding behaviors.\n\nStudying the stress response in animals, especially chronic stress, could help us design fish farms, zoos, and research facilities to reduce animal stress. Larger cages, natural lighting, and appropriate temperature can all mitigate chronic stress symptoms. Considering behavioral needs such as social interactions and stimulating natural activities can also reduce chronic stress in captivity. Animals provide us much. Learning to reduce their stress in captivity can go a long way toward making our interactions more mutually positive.\n\nAdditionally, we humans are animals like any other, and much of our modern lifestyle involves conditions that are known to activate the emergency stress response: constrained quarters, separation from the natural environment, persistent questions about security or stability. The stress response is nature’s way of drawing attention to harmful conditions. Heeding its message could help us to create better living conditions for people in all levels of society in all sorts of environments, including shelters, office buildings, schools, or apartments, and even lead to better rehabilitation of those in prisons or recovery in hospitals.",
+  "function_addressed": [],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/hormones-regulate-stress/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "fight",
+    "flight",
+    "emergency",
+    "state",
+    "manage",
+    "stress"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

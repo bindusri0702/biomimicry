@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-scales-provide-penetrative-protection",
+  "organism_common": "Striped bass",
+  "organism_scientific": "",
+  "strategy_summary": "Scales on striped bass provide high resistance to penetration due to their double-layer structure. Many bony fish, like the striped bass, receive significant protection from predators through their scales.",
+  "mechanism": "Scales on striped bass provide high resistance to penetration due to their double-layer structure.\n\nMany bony fish, like the striped bass, receive significant protection from predators through their scales. Being only about 0.2 to 0.3 mm thick, these scales are surprisingly tough. They can stop about 3 Newtons (comparatively, a Newton is the weight of an apple falling from a tree) of force from penetrating them. This is achieved with a two-layered structure. Each scale is composed of two equally thick layers: an outer bony layer that’s highly mineralized for sturdy outer protection, and an inner collagen layer that’s softer and less mineralized.\n\nThese two layers work together to prevent the soft body tissues beneath the scales from being punctured. When a predator catches a striped bass in its mouth and starts to bite, the bony layer is the first layer of defense. Able to withstand about 2 Newtons of force, the bony layer withstands most of the biting power. With more bite strength from the predator, the scale cracks in half lengthwise and widthwise, creating four “flaps.” The distribution of forces along the cracks between the flaps helps minimize damage to the underlying soft collagen layer. As the bite continues through the scale, the flaps are pushed down and the lower collagen layer separates from the upper bony layer. While the flaps are being pushed down and continue to contact the collagen layer, they help redistribute the bite forces over their larger area. This results in less damage to the soft collagen layer than if the forces were concentrated at the puncture site. The flaps are so helpful that they increase the overall impact resistance of the scales by 1 Newton.\n\nThe collagen layer also helps resist the bite through the orientation of its fibers. Lying at right angles to each other, the fibers of the collagen layer stretch under pressure. This is similar to how a woven hammock can hold a person, but a bunch of ropes all lying in the same direction cannot. This stops the tooth of the predator from immediately puncturing through. The detachment of the collagen layer from the bony layer also helps, as the predator has to bite further into the organism to penetrate the scale and reach the body tissues underneath. The scales cover most of the striped bass’ body and partially overlap, providing additional protection through extra layers.\n\nCompared to human-made protective covers, this two-layer scale system is surprisingly tough. When compared to two commonly used human polymers, polystyrene and polycarbonate (used in CD cases and safety goggles), a single scale provides more protection. Layering of the scales makes them much stronger than currently used human polymers.\n\nThis summary was contributed by Thomas-McAuley-Biasi.\n\nImage: D Ross Robertson / Public Domain - No restrictions toggle icon\n\nHunan University\n\nProtective equipment from Hunan University has a two layer design that makes it flexible and impact-resistant.",
+  "function_addressed": [
+    "manage impact",
+    "prevent fracture/rupture"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/scales-provide-penetrative-protection/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "scales",
+    "provide",
+    "penetrative",
+    "protection"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

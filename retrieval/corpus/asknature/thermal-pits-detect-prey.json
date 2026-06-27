@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-thermal-pits-detect-prey",
+  "organism_common": "Boas and pythons",
+  "organism_scientific": "",
+  "strategy_summary": "Thermal pits of vipers, pythons and boas detect infrared radiation emitted from prey using protein channels activated by heat. “Snakes possess a unique sensory system for detecting infrared radiation, enabling them to generate a ‘thermal image’ of predators or prey.",
+  "mechanism": "Thermal pits of vipers, pythons and boas detect infrared radiation emitted from prey using protein channels activated by heat.\n\n“Snakes possess a unique sensory system for detecting infrared radiation, enabling them to generate a ‘thermal image’ of predators or prey. Infrared signals are initially received by the pit organ, a highly specialized facial structure that is innervated by nerve fibres of the somatosensory system. How this organ detects and transduces infrared signals into nerve impulses is not known. Here we use an unbiased transcriptional profiling approach to identify TRPA1 channels as infrared receptors on sensory nerve fibres that innervate the pit organ. TRPA1 orthologues from pit-bearing snakes (vipers, pythons and boas) are the most heat-sensitive vertebrate ion channels thus far identified, consistent with their role as primary transducers of infrared stimuli. Thus, snakes detect infrared signals through a mechanism involving radiant heating of the pit organ, rather than photochemical transduction. These findings illustrate the broad evolutionary tuning of transient receptor potential (TRP) channels as thermosensors in the vertebrate nervous system.” (Gracheva et al. 2010:1006)\n\n“Although not as well known for infrared vision as the crotalids, another group of snakes, the boas and pythons, also have heat sensors. Instead of pits, however, these snakes have up to 13 pairs of thermoreceptors arranged around their lips.” (Shuker 2001:18)",
+  "function_addressed": [
+    "capture, absorb, or filter organisms",
+    "sense temperature cues from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/thermal-pits-detect-prey/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "thermal",
+    "pits",
+    "detect",
+    "prey"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

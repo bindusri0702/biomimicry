@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-species-richness-helps-system-respond-to-disturbance",
+  "organism_common": "Ecosystems",
+  "organism_scientific": "",
+  "strategy_summary": "Ecosystems survive biotic and abiotic disturbances by having multiple species that respond in different ways. “Woodward (1993) in his discussion of how many species are required for a functional ecosystem concludes that there is some evidence that if the individual species in an ecosystem exhibit a range of different…",
+  "mechanism": "Ecosystems survive biotic and abiotic disturbances by having multiple species that respond in different ways.\n\n“Woodward (1993) in his discussion of how many species are required for a functional ecosystem concludes that there is some evidence that if the individual species in an ecosystem exhibit a range of different frequency responses (i.e. where the resource requirements for optimal growth vary), then the more species, the greater the frequency richness and ecosystem stability. This implies that the greater the number of crop species the more assured one would be of achieving a harvest. This is consistent with the practices of subsistence farmers. A more assured income is also a prerequisite for a commitment to expenditure associated with maintaining landscape level ecosystem services. From this discussion it is possible to conclude that in an agricultural ecosystem diversity is advantageous, however, it must be planned to meet specified design criteria such as yield, insurance against crop failure or supply ecosystem services which contribute to an avoidance of the harmful effects of rising water tables, salinity, soil erosion and changes in soil structure.” (Main 1999:31)",
+  "function_addressed": [
+    "protect from animals",
+    "manage disturbance in a community"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/species-richness-helps-system-respond-to-disturbance/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "species",
+    "richness",
+    "system",
+    "respond",
+    "disturbance"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

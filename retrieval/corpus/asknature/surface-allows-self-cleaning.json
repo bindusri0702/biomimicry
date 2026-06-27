@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-surface-allows-self-cleaning",
+  "organism_common": "Sacred lotus",
+  "organism_scientific": "",
+  "strategy_summary": "Lotus plants ( Nelumbo nucifera ) stay dirt-free, an obvious advantage for an aquatic plant living in typically muddy habitats, and they do so without using detergent or expending energy. The plant’s cuticle, like that of other plants, is made up of soluble lipids embedded in a polyester matrix – wax – but the degree…",
+  "mechanism": "Lotus leaves, for example, exhibit extensive folding (i.e., papillose epidermal cells) and epicuticular wax crystals jutting out from the plant’s surface, resulting in a roughened microscale surface. As water and air adhere less well than water and solids, roughened surfaces tend to reduce adhesive force on water droplets, as trapped air in the interstitial spaces of the roughened surface result in a reduced liquid-to-solid contact area. This allows the self-attraction of the polar molecule of water to express more fully, causing it to form spheres.\n\nSurface finishes inspired by the self-cleaning mechanism of lotus plants and other organisms (e.g., many large-winged insects) have now been applied to paints, glass, textiles, and more, reducing the need for chemical detergents and costly labor.",
+  "function_addressed": [
+    "protect from excess liquids",
+    "protect from dirt/solids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/surface-allows-self-cleaning/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "surface",
+    "allows",
+    "self-cleaning"
+  ],
+  "is_usual_suspect": true,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

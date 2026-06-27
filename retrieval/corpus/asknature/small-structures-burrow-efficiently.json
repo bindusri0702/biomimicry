@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-small-structures-burrow-efficiently",
+  "organism_common": "Earthworm",
+  "organism_scientific": "",
+  "strategy_summary": "Smaller earthworms exert more force relative to body mass because of the scaling limitations governing hydrostatic structures, thus allowing them to burrow more efficiently. “From the work of Quillin (2000), we have some information on the forces that earthworms can exert against the walls of their burrows.",
+  "mechanism": "Smaller earthworms exert more force relative to body mass because of the scaling limitations governing hydrostatic structures, thus allowing them to burrow more efficiently.\n\n“From the work of Quillin (2000), we have some information on the forces that earthworms can exert against the walls of their burrows. The worms push hard, with radial forces running about seven times the anchoring forces involved in crawling in preexisting burrows or in resisting extraction by a robin. We noted that if membrane thickness remains constant, tolerable pressure (still assuming constant breaking stress) will vary inversely with radius. Pressure, of course, is force divided by area, and thus is proportional to force divided by radius and cylinder length. So outward force per unit body length should be independent of size or, put in the usual terms, it should scale with body mass to the zero power–F [is proportional to] M b 0.4 . If, by contrast, membrane thickness scales with radius, then tolerable pressure remains constant. That implies that outward force should vary directly with radius or with body mass to the one-third–F [is proportional to] M b 0.33 .\n\n“So what does happen? For earthworms ranging from 0.01 to 8 grams, Quillin found that F [is proportional to] M b 0.4 , reasonably close to the assumptions of a thickness proportional to radius and constant material strength. The bigger is the more forceful, but more closely proportional to diameter than to mass, so relative to mass, big worms are wimps. Earthworm hatchlings can push at a monumental 500 times their weight; large adults can push at (only) a still impressive ten times their weight.” (Vogel 2003:411)",
+  "function_addressed": [
+    "move in/on solids",
+    "optimize shape/materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/small-structures-burrow-efficiently/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "small",
+    "structures",
+    "burrow",
+    "efficiently"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-compound-prevents-bacterial-attachment",
+  "organism_common": "Lactobacillus fermentum",
+  "organism_scientific": "",
+  "strategy_summary": "A compound released by Lactobacillus fermentum prevents binding by Staphylococcus aureus bacteria by outcompeting for the pathogen's tissue binding sites. “Applying a harmless bacterium or its products to surgical wounds may thwart infections by the dangerous pathogen Staphylococcus aureus , a major cause of…",
+  "mechanism": "A compound released by Lactobacillus fermentum prevents binding by Staphylococcus aureus bacteria by outcompeting for the pathogen's tissue binding sites.\n\n“Applying a harmless bacterium or its products to surgical wounds may thwart infections by the dangerous pathogen Staphylococcus aureus , a major cause of hospital-acquired infections and one that grows more threatening as the incidence of antibiotic resistance rises…The bacterium, known as Lactobacillus fermentum , seems to exert at least part of its protective effects by secreting a protein that prevents S. aureus from binding to its target cells.” (Strauss 2000:2231-2233)",
+  "function_addressed": [
+    "protect from microbes"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/compound-prevents-bacterial-attachment/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "compound",
+    "prevents",
+    "bacterial",
+    "attachment"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-bubble-allows-breathing-underwater",
+  "organism_common": "Aquatic beetle",
+  "organism_scientific": "",
+  "strategy_summary": "Can an air-breathing beetle be completely submerged and still get enough oxygen to stay alive? It can if it carries its own refillable oxygen tank.",
+  "mechanism": "An inch-long beetle, P. tuberosus is found in fast-flowing streams in western Africa. It lives underwater, clinging to rocks near the surface with its body oriented so its head is pointed upstream. Tiny hairs and other protuberances on its body cause air bubbles to collect as the water flows by. The beetle’s streamlined shape and the position of its legs cause the bubbles to coalesce into a single big bubble that starts at the “elbow” of its forelegs and extends beyond its back end. Because it, like other insects, breathes through tiny holes in its skin, the beetle can take in oxygen from the bubble rather than having to pop to the surface to breathe, much as scuba divers draw air from the tanks on their back while underwater. At the same time, the shape of the insect’s legs and the bumps direct water flow in a way that prevents the bubble from detaching.\n\nBut what happens when the beetle uses up all the air in the bubble? Thanks to the fast-flowing water, it doesn’t. A tenet of physics known as Bernoulli’s principle holds that as the speed of flow of a fluid goes up, the pressure it produces goes down. (This is the same principle used to create lift for airplanes by lowering the pressure around the upper surface of the wings.) As the water flows past the bubble, it has a longer distance to travel than the unimpeded water next to it, so it speeds up, creating a low-pressure zone in the water. That causes the air dissolved in the water to move out of solution and into the bubble.\n\nThe ability to use the movement of water to cause the water to release dissolved air could come in handy in numerous circumstances. For example, it could provide inspiration for those in search of a source of air for submerged combustion devices. And it potentially could open the door to innovative and energy-efficient ways of providing needed air to occupants of underwater settlements in the future.",
+  "function_addressed": [
+    "capture, absorb, or filter gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/bubble-allows-breathing-underwater/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "beetle",
+    "bubble",
+    "serves",
+    "underwater",
+    "lung"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-structures-catch-prey",
+  "organism_common": "Portuguese man-of-war",
+  "organism_scientific": "",
+  "strategy_summary": "The float and tentacles of the Portuguese man-of-war capture prey using synergy for efficient sail-driven trawling. Portuguese man-of-war  Portuguese man-of-war at Miami beach  “The most conspicuous results of this study can be summarized in three points as follows: (i) The tilt angle (from vertical) of a trailing…",
+  "mechanism": "The float and tentacles of the Portuguese man-of-war capture prey using synergy for efficient sail-driven trawling.\n\nPortuguese man-of-war\n\nPortuguese man-of-war at Miami beach\n\n“The most conspicuous results of this study can be summarized in three points as follows: (i) The tilt angle (from vertical) of a trailing tentacle increases with the sailing velocity and decreases with the tentacle diameter. Since the tentacles are of different diameters, trailing causes them to spread fan-like in the vertical plane. The spread angle vanishes both at small and at large trailing speeds. Using plausible figures for the diameters, densities and drag coefficients of the tentacles, the spread angle is estimated as 10–15º at the same speeds the Portuguese man-of-war were observed sailing. (ii) The force needed to trail a tentacle at a given speed decreases as the tilt angle of the tentacle increases. The tentacles bud from the float in such a way that this change in drag sheets out the sail as the tentacles lift up, which serves to keep the sailing speed in that particular range where the tentacles spread best. The Portuguese man-of-war were observed sailing with their sails aligned with the wind in strong winds. (iii) The trim of the sail is very delicate and a minute increase in camber may luff the sail. We believe that these results can be rationalized by adopting a hypothesis that the Portuguese man-of-war has evolved for efficient sail-driven trawling: the tentacles’ spreading obviously increases the likelihood of catching the prey, whereas the Portuguese man-of-war ‘does’ all it possibly can to keep them spread.” (Iosilevskii and Weihs. 2009: 4016)",
+  "function_addressed": [
+    "move in/on liquids",
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/structures-catch-prey/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "structures",
+    "catch",
+    "prey"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

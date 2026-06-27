@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-navigating-without-landmarks",
+  "organism_common": "Rock pigeon",
+  "organism_scientific": "",
+  "strategy_summary": "Homing pigeons navigate without the Sun or other landmarks as guides because they use magnetosensitivity to detect their location. “The most magnetosensitive creatures may be birds — and none more so than homing pigeons.",
+  "mechanism": "Homing pigeons navigate without the Sun or other landmarks as guides because they use magnetosensitivity to detect their location.\n\n“The most magnetosensitive creatures may be birds — and none more so than homing pigeons. Even if deprived of familiar landmarks and sunlight, so that they cannot use the Sun to help them find their way, the pigeons can still return — if their magnetic sense is not tampered with … As yet, no avian magnetoreceptor has been conclusively identified. However, a small but mysterious black-colored structure containing magnetite and nerve fibers is located between the brain’s dura mater (outer membrane) and the skull of pigeons and various migratory passerines. Magnetite packets are also found in the necks of these birds.” (Shuker 2001:45-46)",
+  "function_addressed": [
+    "sense electricity/magnetism from the environment",
+    "navigate through air"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/navigating-without-landmarks/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "navigating",
+    "without",
+    "landmarks"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

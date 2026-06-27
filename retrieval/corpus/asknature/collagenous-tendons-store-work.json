@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-collagenous-tendons-store-work",
+  "organism_common": "Red kangaroo",
+  "organism_scientific": "",
+  "strategy_summary": "Collagenous tendons in the legs of jumping kangaroos allow them to recover work done on the legs in landing by transferring much of the force of the muscles to bones. “What about the biological role of collagenous tendons?",
+  "mechanism": "Collagenous tendons in the legs of jumping kangaroos allow them to recover work done on the legs in landing by transferring much of the force of the muscles to bones.\n\n“What about the biological role of collagenous tendons? They usually run between the ends of a muscle and its attachments to bones, so the force (and shortening) of the muscle is transmitted to the bones. Work is stored–in a running person or hopping kangaroo about 40-50 percent of the work done on a leg in landing is recovered as it pushes off again (Alexander 1983). The leg tendons do most of that storage despite their low mass relative to bones, muscles, or the animal as a whole.” (Vogel 2003: 345)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
+  "function_addressed": [
+    "store energy"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/collagenous-tendons-store-work/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "collagenous",
+    "tendons",
+    "store",
+    "work"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-eyes-allow-clear-vision-in-both-air-and-water",
+  "organism_common": "Whirligig beetles",
+  "organism_scientific": "",
+  "strategy_summary": "Eyes of the whirligig beetle have different surfaces to match the refractive indexes of both air and water. Whirligig beetles have one eye above and one eye below the surface of the water.",
+  "mechanism": "Eyes of the whirligig beetle have different surfaces to match the refractive indexes of both air and water.\n\nWhirligig beetles have one eye above and one eye below the surface of the water.\n\nThe whirligig beetle hunts on the surface of water, with one eye submerged underwater to hunt for prey, while the other eye stays above the water to keep watch for predators. Air and water have different refractive indexes, which affects the focusing of the eye. Most species have eyes adapted to one environment and do not focus well in the other environment. To accommodate this, whirligig beetles have eyes with different structures to match the refractive indexes of both air and water, allowing them to observe objects both under water and above the surface simultaneously, without compromising focusing sensitivity.\n\nThe above water eye is “rough” and covered in bumpy nanostructures arranged in a maze-like pattern, while the underwater eye is smooth. The nanostructures on the rough eye reflect light to match the refractive index of the air to that of the eye. The underwater eyes have a refractive index close to that of the water, so they have a smooth surface that does not require nanostructures.\n\nCorneal surface of whirligig beetle eyes. Overwater eye (a, c, e, g). Underwater eye (b, d, f, h)",
+  "function_addressed": [
+    "sense light (visible spectrum) from the environment"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/eyes-allow-clear-vision-in-both-air-and-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "eyes",
+    "allow",
+    "clear",
+    "vision",
+    "both",
+    "air"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

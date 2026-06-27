@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-adapting-swimming-technique",
+  "organism_common": "Lampreys",
+  "organism_scientific": "",
+  "strategy_summary": "Lampreys adjust their swimming motions as the current changes by using skin sensors. “Leena Patel and her colleagues at the University of Edinburgh in the UK are using a genetic algorithm computer program, which mimics the way natural selection breeds fitter creatures, to improve the way their virtual lamprey swims in…",
+  "mechanism": "Lampreys adjust their swimming motions as the current changes by using skin sensors.\n\n“Leena Patel and her colleagues at the University of Edinburgh in the UK are using a genetic algorithm computer program, which mimics the way natural selection breeds fitter creatures, to improve the way their virtual lamprey swims in different sea conditions. They want to use these swimming motions to boost the efficiency of a novel type of wave-power device – a long, thin, eel-like machine called the Pelamis. However, oscillating machines like this cannot adapt when the wave speed changes. To overcome this, she turned to the lamprey, which uses skin sensors to adjust its swimming motion as the current changes. Lampreys have a cluster of neurons in their spinal cord called a central pattern generator (CPG), which produce signals that drive the muscles to contract rhythmically and make them swim.” (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "sense touch and mechanical forces in a living system",
+    "adapt behaviors",
+    "manage turbulence",
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/adapting-swimming-technique/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "adapting",
+    "swimming",
+    "technique"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

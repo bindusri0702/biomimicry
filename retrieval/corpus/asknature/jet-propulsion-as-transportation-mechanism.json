@@ -1,0 +1,24 @@
+{
+  "doc_id": "asn-jet-propulsion-as-transportation-mechanism",
+  "organism_common": "Salps",
+  "organism_scientific": "",
+  "strategy_summary": "Marine salps move through water by drawing in water through one end of their bodies and forcing it out through the opposite end, a technique known as jet propulsion. Image: Trevor Livingstone / toggle icon Image: Luis Gustavo Lira / toggle icon Image: Ed Bierman / toggle icon right arrow right arrow  “Also called…",
+  "mechanism": "Marine salps move through water by drawing in water through one end of their bodies and forcing it out through the opposite end, a technique known as jet propulsion.\n\nImage: Trevor Livingstone / toggle icon Image: Luis Gustavo Lira / toggle icon Image: Ed Bierman / toggle icon right arrow right arrow\n\n“Also called thaliaceans, salps are small free-swimming marine creatures with gelatinous, semitransparent bodies that move around by means of jet propulsion, drawing in water through an aperture at one end of the body, and then forcing it out through another aperture at the opposite end. The water drawn in is also used for feeding, because while inside the body it is strained through a baglike net of mucus, which traps any tiny algae present. The salp feeds on the algae.” (Shuker 2001:161)",
+  "function_addressed": [
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/jet-propulsion-as-transportation-mechanism/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "jet",
+    "propulsion",
+    "transportation",
+    "mechanism"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-arctic-ground-squirrels-survive-extreme-cold-by-rebuilding-their-brains",
+  "organism_common": "Arctic ground squirrel",
+  "organism_scientific": "",
+  "strategy_summary": "One morning last summer as I sat down on a rise in the tundra, a pint-sized arctic ground squirrel ( Urocitellus parryii ) popped out of a nearby hole in the ground, rose up on its haunches and gave me what can only be described as an icy stare. “I come in peace,” I called in greeting.",
+  "mechanism": "Arctic ground squirrels aren’t just any old run-of-the mill sleepy heads. Little did I know on that sunny day on the tundra that I was looking at an elite athlete, an Olympian of torpor. These critters retreat underground to nests of dry grass, lichen and caribou hair for up to nine—count ‘em, nine—months of the year. In order to survive such long periods with many life-support systems either idling or shut down, the animals venture to the very edge of survival. They undergo such a profound series of physiological changes before re-emerging in late spring.\n\nTopping the squirrels’ impressive resume of biological accomplishments is their capacity to go stone cold. In fact, they hold the world’s record for the lowest core body temperature ever recorded for an animal—a frosty 27 degrees F. “If you put one in your hand, it’s cold. You can’t see them breathe,” says Brian Barnes, a zoology professor at the University of Alaska, Fairbanks, (UAF) who has studied the critters in the lab and in the field around the Toolik Field Station on the North Slope. Despite the fact that the squirrels endure temperatures that would freeze a glass of tap water, their blood remains liquid due to a phenomenon known as supercooling, a process in which particles that nucleate ice and tear fragile tissues are removed from the blood.\n\nBut they don’t maintain these cold temperatures throughout their entire hibernation. Every few weeks the squirrels begin to shiver, which brings their core back up to their usual 99 degrees F. They sustain this temperature for about 12-15 hours before dropping back below freezing again.\n\nWhile they are in the depths of torpor, write Huryn and Hobbie, the animals are essentially brain dead. Indeed, examination of the brains of hibernating squirrels reveals that thousands of neurons, as well as the connecting synapses among neurons, die back drastically. But within a few hours of shivering, the animals exhibit signs of sleep, i.e., organized brain waves and rapid-eye movements. It turns out that the periodic warming spells promote a robust regrowth of the squirrel’s neural architecture such that the number of neurons and their connectors far exceeds those found in the animals during the active spring and summer seasons.\n\nScientists are investigating these and other biological marvels for inspiration in solving a wide array of human health challenges. The brains of hibernating squirrels, for example, show significant deposits of hyperphosphorylated tau, a protein that researchers suspect may help to protect remnant neural synapses during the pruning process in hibernation. The protein may even play a key role in the spectacular regeneration of synapses that occur during the animals’ periodic bouts of arousal. How excess tau is subsequently flushed from the brains of roused animals is of special interest to neuroscientists since a buildup of tau has been linked to a range of neurodegenerative diseases in humans, most notably Alzheimer’s.\n\nBut the ground squirrel’s potential for inspiring medical breakthroughs doesn’t end there. Research by zoologist Barnes and his collaborators, including Kelly Drew, director of the UAF’s Center for Transformative Research in Metabolism, also are examining how the on-again, off-again rhythm of squirrel hibernation might lead to other innovations including advancing organ-transplant methods and improving health outcomes for stroke and heart-attack patients.",
+  "function_addressed": [
+    "regulate cellular processes",
+    "protect from temperature"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/arctic-ground-squirrels-survive-extreme-cold-by-rebuilding-their-brains/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "survive",
+    "frozen",
+    "state",
+    "rebuilding",
+    "brain"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

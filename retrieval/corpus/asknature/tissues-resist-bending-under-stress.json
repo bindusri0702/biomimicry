@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-tissues-resist-bending-under-stress",
+  "organism_common": "Buried sea anemone",
+  "organism_scientific": "",
+  "strategy_summary": "Anemones resist bending because of the high stress resistance of the tissues and the distance of those tissues from the axis of bending. Giant green anemones in the Northern Waters gallery at the New England Aquarium.",
+  "mechanism": "Anemones resist bending because of the high stress resistance of the tissues and the distance of those tissues from the axis of bending.\n\nGiant green anemones in the Northern Waters gallery at the New England Aquarium.\n\nPhoto of Anthopleura xanthogrammica (giant green anemone) at the Vancouver Aquarium, taken July 2005.\n\n“Flexural stiffness is the ability of a beam-like organism to resist bending. The higher the elastic modulus of the organism’s tissues and the greater the distance of those tissues from the axis of bending, the less the organism will bend when loaded.” (Koehl 1977:137-138)",
+  "function_addressed": [
+    "manage impact",
+    "manage shear"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/tissues-resist-bending-under-stress/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "tissues",
+    "resist",
+    "bending",
+    "under",
+    "stress"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

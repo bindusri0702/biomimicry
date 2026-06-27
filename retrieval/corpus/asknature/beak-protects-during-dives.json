@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-beak-protects-during-dives",
+  "organism_common": "Gannets",
+  "organism_scientific": "",
+  "strategy_summary": "Mammals, birds, reptiles, and amphibians are very different in many ways. But one of the traits we share is that we all have holes in our heads.",
+  "mechanism": "Fortunately for gannets, that’s not an issue. As a gannet embryo develops inside its egg, the spaces that in other species would become nares fill in with bone and keratin, creating a smooth, impenetrable surface.\n\nHow does a gannet breathe without functioning nares? The bony structures that shape the sides of the beak where it meets the head create a slight opening between the top and bottom bill. The bird is then able to inhale and exhale through the sides of its mouth when it’s not diving. The main bone forming this structure, the jugal operculum, is not rigidly attached to the skull. As a result, when the bird hits the surface of the water, the force of impact presses the bone against the top bill, like an automatic shut-off valve, temporarily closing the gap.\n\nThe gannet’s approach to excreting excess salt takes a different path from other birds as well. Instead of exiting through the nares, the fluid travels along a channel at the roof of the gannet’s mouth to the tip of its beak, where the bird expels it.\n\nThe compressible bone structure that allows the gannet to breathe freely through the sides of its beak but that rapidly closes upon the bird’s forceful entry into water can provide a useful model for human-made structures that require different permeabilities to environmental liquids or gases under different circumstances.\n\nExamples might include gannett-inspired valves on aircraft, submersible vehicles used for ocean exploration, and offshore equipment for drilling or harvesting the energy of waves or tides.\n\nThe ability to maintain a separation from external liquids or gases during rapid movement also might inform strategies for creating packaging that allows exchanges with external substances, but only under controlled conditions.",
+  "function_addressed": [
+    "protect from excess liquids",
+    "manage impact"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/beak-protects-during-dives/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "beak",
+    "prevents",
+    "water",
+    "uptake",
+    "during",
+    "dives"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

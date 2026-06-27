@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-body-heat-melts-wax-to-form-hexagons",
+  "organism_common": "Honeybees",
+  "organism_scientific": "",
+  "strategy_summary": "Scientists have long believed that honey bees forge their hives into stacked hexagonal cells in order to store the most honey with the least building material (wax). But given that bees have brains the size of grains of sand, how do they make hexagonal hives with such geometric precision?",
+  "mechanism": "To begin with, bees excrete wax through four pairs of glands underneath their abdomens. They chew and knead the wax to shape it, but they also use heat. In 2004, Dr. Christian Pirk, entomologist at the University of Pretoria, found that inside a hive where bees were building, wax measured 15 °F (8 °C) warmer than areas with no active construction.\n\nTo create this rise in temperature, bees decouple their flying muscles from their wings and vibrate the muscles to generate heat. They heat the wax to temperatures over 100 °F (38 °C), lowering its viscosity, and making it easier to mold.\n\nHowever, bees don’t sculpt six neatly-shaped walls. Pirk found this out when he interrupted the building bees by smoking them out of the hive. He took resin casts of the tubes and discovered that the warmer, fresher cells were actually round cylinders while older, cooler cells formed the expected hexagonal prisms. Somehow, as the cylinders cool, they transform into hexagons. [Editor’s Note, 12/2/22: New analysis by Nikhilesh Chawla at Purdue University suggests the cells are actually constructed with straight panels. A corresponding update to this page is pending.]\n\nTo understand this, consider an analogous phenomenon associated with soap bubbles. When two spherical bubbles meet, they join at a flat wall. When a third bubble is added, two additional walls form so that one wall separates each pair of bubbles. The three walls quickly rearrange themselves into a kind of Y-shape with three equal 120-degree angles. According to Joseph Plateau, the Belgian physicist who discovered surface tension, bubble walls seek 120 degrees because, at this angle, the wall surface tensions are all in balance. Now a series of 120-degree angles eventually closes on itself, forming a perfect hexagon. So as more bubbles are added, and more walls balance into 120-degree angles, the array of separate bubbles becomes a tightly packed grid of hexagons.\n\nThe hexagonal shape arises without any constructive action from the bees. Instead, the cooling wax follows a universal tendency of physical forces to seek equilibrium. As humans seek to build more efficiently and sustainably, what can we learn from this method of passive construction?",
+  "function_addressed": [
+    "sense shape and pattern in a living system",
+    "transform thermal energy",
+    "physically assemble structure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/body-heat-melts-wax-to-form-hexagons/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "body",
+    "heat",
+    "melts",
+    "wax",
+    "form",
+    "hexagons"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

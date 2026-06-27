@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-shell-is-minimum-free-energy-structure",
+  "organism_common": "Viruses",
+  "organism_scientific": "",
+  "strategy_summary": "The protein shell of viruses provides maximum internal volume in the most economical conformation by adopting icosahedral symmetry. “There are several reasons why viruses adopt icosahedral symmetry.",
+  "mechanism": "The protein shell of viruses provides maximum internal volume in the most economical conformation by adopting icosahedral symmetry.\n\n“There are several reasons why viruses adopt icosahedral symmetry. One is that triangulating a dome into 20 is the best way of producing a shell of equivalently bonded identical structures. It is the minimum free energy structure.” (Cann 2004)",
+  "function_addressed": [
+    "optimize shape/materials"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/shell-is-minimum-free-energy-structure/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "shell",
+    "minimum",
+    "free",
+    "energy",
+    "structure"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

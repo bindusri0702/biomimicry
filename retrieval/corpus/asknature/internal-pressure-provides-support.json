@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-internal-pressure-provides-support",
+  "organism_common": "Chilean nightshade",
+  "organism_scientific": "",
+  "strategy_summary": "Cellular structure of potato creates high internal pressure. The cellular structure of a potato holds high internal pressure, which is exerted evenly on the internal surface of the potato skin.",
+  "mechanism": "Cellular structure of potato creates high internal pressure.\n\nThe cellular structure of a potato holds high internal pressure, which is exerted evenly on the internal surface of the potato skin. (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "maintain homeostasis",
+    "modify pressure"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/internal-pressure-provides-support/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "internal",
+    "pressure",
+    "provides",
+    "support"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

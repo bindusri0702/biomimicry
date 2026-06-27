@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-plumage-releases-air-to-propel-body-out-of-water",
+  "organism_common": "Emperor penguin",
+  "organism_scientific": "",
+  "strategy_summary": "In the stark, frozen territories of Antarctica, the Emperor penguin stands as the tallest and heaviest of all penguin species, clothed in a striking tuxedo of black and white plumage. Beyond its distinctive appearance, this penguin exhibits a remarkable adaptation for exiting the icy waters: a balletic leap, made…",
+  "mechanism": "The Emperor penguin has mastered what might be termed a biological technology akin to a torpedo launch system. After grooming its dense feathers to trap air, the penguin dives deep, sometimes up to 20 meters below the surface. Here, the real mechanics come into play: as it ascends, it systematically compresses its feathers to release the trapped air as micro-bubbles. This action forms a sleek, lubricating coat around its body, drastically reducing water resistance. Nearly all of the penguin’s muscular effort in swimming is then translated into forward and upward motion, allowing the bird to break the water’s surface with enough momentum to vault onto the ice without having to scramble slowly, and to risk becoming easy prey for leopard seals.\n\nThe Emperor penguin’s air-trapping feather structure offers a blueprint for cutting-edge designs in both marine engineering and dive gear. By replicating the feather’s ability to trap and strategically release air, engineers could develop marine vessels with external surfaces designed to reduce hydrodynamic drag in a similar manner. For divers, incorporating micro-fabric technologies that emulate the penguin’s plumage could minimize resistance, enhancing speed and efficiency in the water, or could help to control buoyancy. Such innovations could lead to more energy-efficient transportation and performance-enhancement in sports as well as human exploration of undersea environments.\n\nThis summary was originally contributed by Ashley Meyers.",
+  "function_addressed": [
+    "move in/on liquids",
+    "modify speed"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/plumage-releases-air-to-propel-body-out-of-water/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "plumage",
+    "traps",
+    "releases",
+    "air",
+    "aquatic",
+    "launch"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,28 @@
+{
+  "doc_id": "asn-electric-organ-stuns-prey-deters-attackers",
+  "organism_common": "Electric catfish",
+  "organism_scientific": "",
+  "strategy_summary": "The murky waters of rivers in Western Africa can make it hard for a fish to find prey, scare off competitors, and interact with members of its own kind. Some species have evolved a shocking workaround: an organ that produces pulses of electricity that can be used for navigating, communicating, and capturing prey.",
+  "mechanism": "The electric catfish ( Malapterurus electricus ) has a particularly notable pair of electric organs, one on either side of its body. On each side of the fish, a single giant nerve fiber runs from the spinal cord to the edge of a thin layer of tissue overlaying the muscle beneath the skin. This layer consists of millions of flat cells (“electroplaques”) overlapping each other. A single stalk emerges from each cell and connects with a nerve, providing what scientists think is a synchronizing function that enables numerous nerves and electroplaque cells to act in concert to discharge electricity at the same time. The individual discharges are in the range of 100–400 volts, the same order of magnitude as that which characterizes the electricity in our homes.\n\nThe fish uses the concentrated charge in five distinct ways, each with a characteristic pattern of rapid-fire pulses of electricity.. It gives off a long train of rapid discharges when it is attacking and capturing prey. It produces fewer, more bunched-up pulses when encountering fish of other species that might require defense or attack behavior. It uses a short, rapid release of electricity when surprised or to startle prey. It uses short, single bursts of electricity to detect or attract prey. And a long train of discharges that starts fast but slows down helps it communicate with other members of its own species.\n\nThe unique structure of the electric catfish’s electric organ, with its millions of stacked cells with stalks connecting to neurons, allows the fish to both create a large charge and vary it from one situation to another. This capability to synchronize and customize the use of electricity in this way could potentially prove valuable insights for meeting a range of human needs, including enhancing the quality of video transmission, improving the efficiency of renewable energy sources, and even fine-tuning precision surgery.",
+  "function_addressed": [
+    "modify electric charge",
+    "protect from animals",
+    "capture, absorb, or filter organisms"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/electric-organ-stuns-prey-deters-attackers/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "electric",
+    "organ",
+    "produces",
+    "strong",
+    "customizable",
+    "shocks"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

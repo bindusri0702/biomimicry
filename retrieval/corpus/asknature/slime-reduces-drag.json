@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-slime-reduces-drag",
+  "organism_common": "Fish",
+  "organism_scientific": "",
+  "strategy_summary": "Skin of fish reduces drag by being covered by a slime layer of complex proteins, polysaccharides, and bacteria. “The external layer of mucus on fish was investigated as a drag reducing polymer .",
+  "mechanism": "Skin of fish reduces drag by being covered by a slime layer of complex proteins, polysaccharides, and bacteria.\n\n“The external layer of mucus on fish was investigated as a drag reducing polymer . Comparing velocity profiles for water flow over rainbow trout ( Salmo gairdneri ) and wax models of trout with and without hydrodynamically smooth surfaces revealed that the integumental mucous secretion can significantly reduce the rate of momentum transfer through the boundary layer. The difference in momentum transfer is expressed as a reduction in friction drag…” (Daniel 1981:376)\n\n“Several conditions must be satisfied for mucus to act as a drag reducer and for my treatment of velocity gradients to be valid: (1) Mucus must consist, in part, of polymers soluble in water and with molecular weights exceeding 50,000 (White and Hemmings, 1976). (2) There must be turbulent or pulsed laminar flow about the fish (Driels and Ayyash, 1976). And (3) the density and viscosity of the fluid from the surface of the fish outwards must be constant.” (Daniel 1981:380)\n\n“Mechanisms involved in utilizing the slime to achieve good swimming efficiency include transition delay, and turbulent flow drag reduction, in addition to the recently discovered drag reduction in pulsed laminar flow of polymer solutions…Both theory and experiment indicate the transient laminar shear flows show reduced wall shear stress in polymer solutions. Hence, the possibility exists that small fish with low length Reynolds number s can utilize polymers to reduce drag, as well as the larger fish with high Reynolds numbers and turbulent flow.” (Hoyt 1975:653)",
+  "function_addressed": [
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/slime-reduces-drag/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "slime",
+    "reduces",
+    "drag"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

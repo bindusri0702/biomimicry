@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-food-availability-regulates-foraging-speed",
+  "organism_common": "Red harvester ant",
+  "organism_scientific": "",
+  "strategy_summary": "Antennal contact behavior of harvester ants communicates food availability through feedback based on rate of coming and going. A particular species of harvester ants ( Pogonomyrmex barbatus ) follows a carefully articulated algorithm to supply their colony with food.",
+  "mechanism": "Antennal contact behavior of harvester ants communicates food availability through feedback based on rate of coming and going.\n\nA particular species of harvester ants ( Pogonomyrmex barbatus ) follows a carefully articulated algorithm to supply their colony with food. Unlike most species of insects/ants that utilize dynamical networks such as pheromone trails to regulate colony interaction, this species uses a rate-based method to monitor food foraging. These harvester ants collect food as individuals (as opposed to species that work collectively). When food is plentiful, the foragers return to the nest more quickly thus triggering more foraging ants to leave the nest. However, if food is scarce and the foragers begin returning empty-handed, the search for food slows and may even cease completely. The rate of coming and going for these ants can be observed through mathematical calculations.\n\nRecently, Stanford researchers have related an algorithm that predicts foraging behavior based on food availability to a computer algorithm used in the Transmission Control Protocol (an internet management tool for data congestion). These ants have been utilizing a complex mathematical equation for centuries to avoid network congestion within their nests. Standford researcher, Dr. Deborah Gordon, believes that the algorithm used by the harvester ants is the first of many more complex dynamic behaviors to be uncovered and that further research on such colonies could provide insight on how to better manage complex systems such as the internet.\n\nLearn more about communication within ant colonies and the evolution of collective behavior in this pair of iBiology video lectures by Dr. Deborah Gordon: “ Local Interactions Determine Collective Behavior ,” and “ The Evolution of Collective Behavior .”\n\nThis content marked as “Google Youtube” uses cookies that you chose to keep disabled. Click here to open your preferences and accept cookies. .\n\nThis content marked as “Google Youtube” uses cookies that you chose to keep disabled. Click here to open your preferences and accept cookies. .\n\nVideo content © 2015 - 2006 iBiology · CC BY-NC-ND 3.0 license\n\nImage: Bob Peterson / lickr / toggle icon",
+  "function_addressed": [
+    "navigate over land",
+    "sense motion"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/food-availability-regulates-foraging-speed/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "food",
+    "availability",
+    "regulates",
+    "foraging",
+    "speed"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

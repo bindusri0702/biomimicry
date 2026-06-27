@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-microtopographic-relief-fosters-diversity",
+  "organism_common": "Wetland ecosystems",
+  "organism_scientific": "",
+  "strategy_summary": "Wetlands create diversity by having microtopographic relief that creates microhabitats for plants and animals. “At the macroscale (Fig.",
+  "mechanism": "Wetlands create diversity by having microtopographic relief that creates microhabitats for plants and animals.\n\n“At the macroscale (Fig. 5.2), the most widespread plant communities form the matrix within which microscale plant communities are often embedded. At the microscale, micro-topographic relief, for example, hummocks in Sphagnum -dominated peatlands (Fig. 5.3), or openings created by disturbances, for example, animal feeding activities, allow species and animals to persist that otherwise would not be present in the macroscale plant community (Wheeler 1999). A series of plant communities found along an environmental gradient are referred to as a coenocline. Coenoclines can be found at both the macro- and microscale in wetlands (Figs 5.2 & 5.3).” (van der Valk 2006:88)",
+  "function_addressed": [
+    "manage disturbance in a community",
+    "maintain biodiversity"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/microtopographic-relief-fosters-diversity/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "microtopographic",
+    "relief",
+    "fosters",
+    "diversity"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

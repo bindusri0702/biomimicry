@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-selective-strategies-aid-competitive-success",
+  "organism_common": "Mangroves",
+  "organism_scientific": "",
+  "strategy_summary": "Mangrove forests successfully compete for resources by exhibiting both r-selected (pioneer) and K-selected (competitive) attributes. “Succession is part of the normal dynamics of many forest types: the chance appearance of gaps, rapidly colonised by opportunistic ‘weeds’ which are progressively ousted by…",
+  "mechanism": "Mangrove forests successfully compete for resources by exhibiting both r-selected (pioneer) and K-selected (competitive) attributes.\n\n“Succession is part of the normal dynamics of many forest types: the chance appearance of gaps, rapidly colonised by opportunistic ‘weeds’ which are progressively ousted by slower-growing but more competitive species until a mature forest reappears…Some of the differences and similarities between mangroves and their non-mangrove counterparts are shown in Table 2.4. The comparisons suggest that mangroves resemble (r-selected) pioneer species in their reproductive characteristics, but as adult trees they behave more as mature-phase competitive (K-selected) species. This observation, that mangroves contrive to have their cake and eat it (Tomlinson 1986) should prove a fruitful insight into the dynamics of mangrove forests.” (Hogarth 1999:45)\n\nHogarth, PJ. 1999. The biology of mangroves. Oxford: Oxford University Press. 228 p. NOTE: Table 2.4 lists and compares 17 character and 7 community features of pioneer, mature, and mangrove forests. This would be useful for further investigation into r-",
+  "function_addressed": [
+    "regulate reproduction or growth",
+    "cooperate within an ecosystem"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/selective-strategies-aid-competitive-success/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "selective",
+    "strategies",
+    "aid",
+    "competitive",
+    "success"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

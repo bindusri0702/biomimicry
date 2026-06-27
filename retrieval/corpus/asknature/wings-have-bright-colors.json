@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-wings-have-bright-colors",
+  "organism_common": "African swallowtail",
+  "organism_scientific": "",
+  "strategy_summary": "Wings of African swallowtail butterflies have brilliant colors thanks to a combination of nanoscale structures and pigments. “A certain African swallowtail, Papilo nireus , owes its gaudiness to the same combination of a photonic crystal and a reflector.",
+  "mechanism": "Wings of African swallowtail butterflies have brilliant colors thanks to a combination of nanoscale structures and pigments.\n\n“A certain African swallowtail, Papilo nireus , owes its gaudiness to the same combination of a photonic crystal and a reflector. Only in this case the structures are made of natural cuticle material in the scales in the wing. This butterfly is unusual in that it combines nanoscale structures and a fluorescent pigment . The pigment fills the holes in the crystal. The wavelength of light produced when it fluoresces precisely matches the crystal’s regularity, so the light can propagate only up, out of the crystal, or down, where it strikes another cuticle layer that acts as a reflector. So all of the light is directed toward the viewer, making the markings startlingly bright.” (Courtesy of the Biomimicry Guild)",
+  "function_addressed": [
+    "modify light/color",
+    "send light signals in the visible spectrum"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/wings-have-bright-colors/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "wings",
+    "have",
+    "bright",
+    "colors"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

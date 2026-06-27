@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-circular-competition-benefits-community",
+  "organism_common": "Escherichia coli",
+  "organism_scientific": "",
+  "strategy_summary": "In nature, competition usually means dominant species exclude others. If species are to keep from wiping each other out, they need to have something that helps to equalize them.",
+  "mechanism": "In the children’s game of rock-paper-scissors, rock smashes scissors, scissors cut paper, and paper covers rock. There can always be different winners and losers, but no one person can win outright every time. Scientists have found species in nature that also compete this way, including some lizards and plants. One example involves three strains of the bacteria E. coli that scientists have nicknamed C, S, and R (see illustration).\n\nThere are many ways in nature to cooperate rather than compete. Learning from the rock-paper-scissors strategy, we might want to try maintaining stable relationships with others who we usually think of as competitors. By using a ‘give-and-take’ strategy and not over-using resources, everyone in the relationship can prosper.",
+  "function_addressed": [
+    "protect from microbes",
+    "cooperate/compete between different species"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/circular-competition-benefits-community/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "circular",
+    "competition",
+    "benefits",
+    "community"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

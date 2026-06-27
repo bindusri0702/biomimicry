@@ -1,0 +1,27 @@
+{
+  "doc_id": "asn-spiders-surf-on-electric-fields",
+  "organism_common": "Spiders",
+  "organism_scientific": "",
+  "strategy_summary": "You may have heard of “jumping” spiders, but did you know that some spiders have been found over two miles high in the sky and a thousand miles out to sea? How do they get there?",
+  "mechanism": "To begin its journey, a spider crawls to an exposed point, raises its abdomen, shoots out a couple strands of silk, and then jets away. For a long time it was thought the spider was simply carried off on wind currents. However, the physics just didn’t make sense: spiders “balloon” like this when the wind is low, and light air currents couldn’t explain the impressive velocity with which they take flight. Furthermore, spiders can’t shoot out much silk on their own; some external force had to be pulling it from their spinnerets. Now we know: spiders can sense and surf on electric charges in the Earth’s atmosphere.\n\nFor most current human flight applications, electric repulsion and attraction aren’t strong enough to overcome the force of the Earth’s gravity. However, nanotechnology, 3D printing, and other advances are producing sophisticated machinery of remarkably small sizes and light weights. On these scales, “flying spider” technology could create exciting opportunities for development.\n\nIf we think of all the human-designed products that utilize wind, how many could be shrunken and engineered to use electrical currents in the atmosphere?",
+  "function_addressed": [
+    "sense electricity/magnetism from the environment",
+    "modify electric charge",
+    "move in/through gases"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/spiders-surf-on-electric-fields/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "spiders",
+    "fly",
+    "riding",
+    "electric",
+    "currents"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

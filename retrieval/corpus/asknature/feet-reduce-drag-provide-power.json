@@ -1,0 +1,25 @@
+{
+  "doc_id": "asn-feet-reduce-drag-provide-power",
+  "organism_common": "Move in/on Liquids",
+  "organism_scientific": "",
+  "strategy_summary": "The webbed foot of a duck reduces drag when folded as the foot is brought forward, and provides power when stretched taut and pushed against the water on a backward stroke. “Swimming animals often have webbed feet specially tailored to their chosen method of locomotion, though the bone structures vary considerably…The…",
+  "mechanism": "The webbed foot of a duck reduces drag when folded as the foot is brought forward, and provides power when stretched taut and pushed against the water on a backward stroke.\n\n“Swimming animals often have webbed feet specially tailored to their chosen method of locomotion, though the bone structures vary considerably…The skin on a duck’s foot, though quite leathery, is flexible enough to be folded when the foot is brought forward through the water, causing minimal drag; but it is strong enough to be stretched taut and pushed against the water on the backward stroke. The duck has four toes, arranged like those of most other birds into three forward-pointing toes and one pointing backwards; the forward three toes are joined by a web of skin, but the back toe is free so they can perch.” (Foy and Oxford Scientific Films 1982:181-182)",
+  "function_addressed": [
+    "move in/on liquids"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/feet-reduce-drag-provide-power/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "feet",
+    "reduce",
+    "drag",
+    "provide",
+    "power"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

@@ -1,0 +1,23 @@
+{
+  "doc_id": "asn-cellulose-digested-for-fuel",
+  "organism_common": "Protozoa",
+  "organism_scientific": "",
+  "strategy_summary": "Mixotricha protozoans digest cellulose for termite metabolism. “Termites harbor in their digestive system protozoa called mixotrichs that are critical to their ability to get energy by digesting cellulose .” (Vogel 1998:29)  Vogel S.",
+  "mechanism": "Mixotricha protozoans digest cellulose for termite metabolism.\n\n“Termites harbor in their digestive system protozoa called mixotrichs that are critical to their ability to get energy by digesting cellulose .” (Vogel 1998:29)\n\nVogel S. Cats’ paws and catapults: mechanical worlds of nature and people. New York: Norton; 1998.",
+  "function_addressed": [
+    "chemically break down organic compounds"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/cellulose-digested-for-fuel/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "cellulose",
+    "digested",
+    "fuel"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}

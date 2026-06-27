@@ -1,0 +1,26 @@
+{
+  "doc_id": "asn-scale-creates-broadband-diffuse-silver-reflectivity",
+  "organism_common": "Modify Light/Color",
+  "organism_scientific": "",
+  "strategy_summary": "Wings of the butterfly Argyrophorus argenteus creates silver color via sub-micron thick scales that scatter light and create a range of periodicities parallel to the scale surface. “The butterfly Argyrophorus argenteus …appears to have overcome the design challenge associated with creating an efficient broadband…",
+  "mechanism": "Wings of the butterfly Argyrophorus argenteus creates silver color via sub-micron thick scales that scatter light and create a range of periodicities parallel to the scale surface.\n\n“The butterfly Argyrophorus argenteus …appears to have overcome the design challenge associated with creating an efficient broadband reflection using very limited reflector thickness.” (Vukusic 2009:S194)\n\n“It is the quasi-random variation in colour between these neighbouring bands and along each band’s length, concurrent with their close juxtaposition, which creates the overall broadband silver appearance of the butterfly’s wings…It is a structural design that not only coherently scatters visible light to produce colour but it simultaneously presents a range of periodicities that run parallel to the scale surface. It is this range that results in the scatter of a broad band of wavelengths and the production of its macroscopic silver hue through additive colour mixing.” (Vukusic 2009:S198)\n\n“Its unusual colour appearance arises from a sub-micron thickness scale design that creates broadband diffuse silver reflectivity by multi-colour addition. This is achieved by incorporation of a unique design variation into its constituent multilayer reflector, one in which the required range of periodicities lies in the direction that is parallel to the surface rather than perpendicular to it as is the case with the much more common forms of natural broadband reflectors. Biomimetically, this A. argenteus scale design offers the basis for ultra-thin synthetic broadband reflectors, across a range of wavelength bands not limited only to visible wavelengths.” (Vukusic 2009:S200)",
+  "function_addressed": [
+    "modify light/color"
+  ],
+  "environment": "",
+  "taxon": "",
+  "scale": "organismal",
+  "source_url": "https://asknature.org/strategy/scale-creates-broadband-diffuse-silver-reflectivity/",
+  "source_tier": "science_journalism",
+  "keywords": [
+    "scale",
+    "creates",
+    "broadband",
+    "diffuse",
+    "silver",
+    "reflectivity"
+  ],
+  "is_usual_suspect": false,
+  "popularity": 0.3,
+  "provenance": "fetched"
+}
