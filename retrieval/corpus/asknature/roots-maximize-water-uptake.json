@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-roots-maximize-water-uptake",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "Roots of plants maximize water uptake by adapting their orientation to the environment. This photo shows both the above and below ground structures that are important for transpiration and movement of water.",
   "mechanism": "Roots of plants maximize water uptake by adapting their orientation to the environment.\n\nThis photo shows both the above and below ground structures that are important for transpiration and movement of water.\n\n“To find water, a plant has to position its roots with just as much precision as it arranges its leaves. If moisture is in very short supply, then a plant may have to drive a tap root deep into the ground to reach the water table. Some desert plants have had to develop root systems that are far deeper than they are tall and extend laterally a very long way beyond the furthest extent of their foliage. Even if the environment is well-watered, a plant may still need to compete with others for this essential commodity, so it positions a network of roots within a few inches of the soil surface, where it can gather the rain water before others can.” (Attenborough 1995:48-51)",
   "function_addressed": [
     "capture, absorb, or filter liquids",
     "optimize shape/materials"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "capture-absorb-or-filter::liquids"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/roots-maximize-water-uptake/",
-  "source_tier": "science_journalism",
   "keywords": [
     "roots",
     "maximize",
     "water",
     "uptake"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

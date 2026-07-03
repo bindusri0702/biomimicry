@@ -1,20 +1,27 @@
 {
   "doc_id": "asn-underground-storage-swelling-enables-regeneration",
   "organism_common": "Store Chemical Entities",
-  "organism_scientific": "",
   "strategy_summary": "The lignotuber of Eucalyptus kochii plenissima allows it to regenerate after being destroyed by storing energy reserves and potential bud-forming sites. When a tree or shrub is cut down or destroyed by either another organism or a destructive natural force, such as fire, the plant itself is usually killed.",
-  "mechanism": "The lignotuber of Eucalyptus kochii plenissima allows it to regenerate after being destroyed by storing energy reserves and potential bud-forming sites.\n\nWhen a tree or shrub is cut down or destroyed by either another organism or a destructive natural force, such as fire, the plant itself is usually killed. For Eucalyptus kochii plenissima, however, this is not the case. Due to a special root adaption called a lignotuber, absent in most other plants, this species can regenerate after the aboveground part is destroyed.\n\nA lignotuber is a special swelling at the top of the plant’s root system (which sits mostly submerged below ground). It contains starch, sugars, nutrients, and “meristematic foci” (read on for more about this). These contents enable the plant to regrow its shoots. The key to the process, however, lies in the meristematic foci. Resembling little pimples, meristematic foci are similar to stem cells, with undifferentiated cells and tissue that ultimately grow and change into new shoots.\n\nThe meristematic foci, however, cannot act alone, and this is where the starch, sugars, and nutrients within the lignotuber come into play. The nutrients and sugars are broken down and used by the plant to grow and regenerate. The starch is used for respiration, just as it was used by the plant before the leaves were destroyed. Respiration brings in carbon dioxide, which is necessary for the plant to function, just as humans need oxygen.\n\nTo increase the energy available to the plant for shoot regeneration, Eucalyptus kochii plenissima sheds most of its root system. By shedding unnecessary roots and leaving only the structural roots needed to anchor the plant, the energy previously used to maintain the extensive root system is made available to regenerate the parts above ground. Thus, the lignotuber of Eucalyptus kochii plenissima acts almost like a plant seed, containing all of the necessary cells, tissue, and energy reserves needed to regrow the damaged plant.\n\nThis summary was contributed by Thomas McAuley-Biasi.\n\nEucalyptus kochii growing west of Dalwallinu, Western Australia",
+  "mechanism": "The lignotuber of Eucalyptus kochii plenissima allows it to regenerate after being destroyed by storing energy reserves and potential bud-forming sites.\n\nWhen a tree or shrub is cut down or destroyed by either another organism or a destructive natural force, such as fire, the plant itself is usually killed. For Eucalyptus kochii plenissima, however, this is not the case. Due to a special root adaption called a lignotuber, absent in most other plants, this species can regenerate after the aboveground part is destroyed.\n\nA lignotuber is a special swelling at the top of the plant’s root system (which sits mostly submerged below ground). It contains starch, sugars, nutrients, and “meristematic foci” (read on for more about this). These contents enable the plant to regrow its shoots. The key to the process, however, lies in the meristematic foci. Resembling little pimples, meristematic foci are similar to stem cells, with undifferentiated cells and tissue that ultimately grow and change into new shoots.\n\nThe meristematic foci, however, cannot act alone, and this is where the starch, sugars, and nutrients within the lignotuber come into play. The nutrients and sugars are broken down and used by the plant to grow and regenerate. The starch is used for respiration, just as it was used by the plant before the leaves were destroyed. Respiration brings in carbon dioxide, which is necessary for the plant to function, just as humans need oxygen.\n\nTo increase the energy available to the plant for shoot regeneration, Eucalyptus kochii plenissima sheds most of its root system. By shedding unnecessary roots and leaving only the structural roots needed to anchor the plant, the energy previously used to maintain the extensive root system is made available to regenerate the parts above ground. Thus, the lignotuber of Eucalyptus kochii plenissima acts almost like a plant seed, containing all of the necessary cells, tissue, and energy reserves needed to regrow the damaged plant.\n\nEucalyptus kochii growing west of Dalwallinu, Western Australia",
   "function_addressed": [
     "store chemical entities",
     "protect from animals",
     "protect from fire",
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "physically-assemble::structure",
+    "protect-from-living-threats::animals",
+    "protect-from-non-living-threats::fire",
+    "store::chemical-entities"
+  ],
+  "subgroup_keys": [
+    "physically-assemble",
+    "protect-from-living-threats",
+    "protect-from-non-living-threats",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/underground-storage-swelling-enables-regeneration/",
-  "source_tier": "science_journalism",
   "keywords": [
     "underground",
     "storage",
@@ -22,7 +29,5 @@
     "enables",
     "regeneration"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

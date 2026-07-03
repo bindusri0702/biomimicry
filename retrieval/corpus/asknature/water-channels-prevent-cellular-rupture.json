@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-water-channels-prevent-cellular-rupture",
   "organism_common": "Staphylococcus",
-  "organism_scientific": "",
   "strategy_summary": "Proteins embedded in the membranes of Staphylococcus aureus bacteria open up to form relief channels in response to extreme internal water pressure. Certain conditions, such as exposure to a sudden downpour, can cause the influx of large amounts of water into a living cell.",
   "mechanism": "Proteins embedded in the membranes of Staphylococcus aureus bacteria open up to form relief channels in response to extreme internal water pressure.\n\nCertain conditions, such as exposure to a sudden downpour, can cause the influx of large amounts of water into a living cell. Like an overfilled balloon, the cell will rupture and die if it’s not able to relieve the pressure. Many bacteria have evolved pressure-sensitive relief channels that allow water to flow out of the cell in response to increased pressure on the cell membrane. Under these extreme conditions, Staphylococcus aureus bacteria produce a compound made up of four proteins. As the pressure on the membrane increases nearly to the breaking point, the proteins arrange themselves into a pore allowing water and dissolved material to exit the cell.",
   "function_addressed": [
     "modify pressure",
     "sense touch and mechanical forces in a living system"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::pressure",
+    "sense-signals-environmental-cues::touch-and-mechanical-forces"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/water-channels-prevent-cellular-rupture/",
-  "source_tier": "science_journalism",
   "keywords": [
     "water",
     "channels",
@@ -20,7 +23,5 @@
     "cellular",
     "rupture"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

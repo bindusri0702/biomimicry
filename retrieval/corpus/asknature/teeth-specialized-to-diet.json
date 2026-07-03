@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-teeth-specialized-to-diet",
   "organism_common": "Kangaroos and relatives",
-  "organism_scientific": "",
   "strategy_summary": "The teeth of different macropod species are adjusted to their diet through specializations that address their specific mechanical digestion needs, including crushing and shearing. “All wombat teeth are open-rooted.",
   "mechanism": "The teeth of different macropod species are adjusted to their diet through specializations that address their specific mechanical digestion needs, including crushing and shearing.\n\n“All wombat teeth are open-rooted. Macropod dentition varies with diet. Potoroos and bettongs consume invertebrates, fruit, and seeds. They have large premolars and a straight molar row with all teeth in occlusion. Molars are adapted for crushing. Browsing macropods- such as pademelons, tree kangaroos, quokkas ( Setonix brachyurus ), and swamp wallabies ( Wallabia bicolor ) – still have a straight molar row, but the premolars are smaller and the molars can both shear and crush. The grazing macropods have a vestigial premolar and curved molar row with only the first two molars being in occlusion at any one time. The molars are adapted for shearing. This group, along with elephants and manatees, exhibits the phenomenon of molar progression. As the anterior two molars are worn, they are shed with the posterior molars moving forward, for a total of four molars. The exception is the nabarlek ( Peradorcas concinna ), which has an unlimited supply of molars.” (Fowler and Miller 2003:289)",
   "function_addressed": [
     "manage mechanical wear",
     "physically break down living materials"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "physically-break-down::living-materials",
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "physically-break-down",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/teeth-specialized-to-diet/",
-  "source_tier": "science_journalism",
   "keywords": [
     "teeth",
     "specialized",
     "diet"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

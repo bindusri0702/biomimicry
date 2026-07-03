@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-leaf-structure-retains-air-layer-underwater",
   "organism_common": "Giant salvinia",
-  "organism_scientific": "",
   "strategy_summary": "The leaf structure of the Salvinia water fern retains a layer of air when submerged in water due to water-resistant hairs that possess water-attracting tips. The floating water fern, Salvinia, is a unique plant in that it retains pockets of dry air when fully submerged in water.",
-  "mechanism": "The leaf structure of the Salvinia water fern retains a layer of air when submerged in water due to water-resistant hairs that possess water-attracting tips.\n\nThe floating water fern, Salvinia, is a unique plant in that it retains pockets of dry air when fully submerged in water. This capability, which provides the plant with buoyancy, is owed to the surface structure of its leaves.\n\nThe water fern’s leaves are covered in tiny hairs grouped to look like miniature wire cooking whisks. Each hair is coated in hydrophobic (water-repelling) wax crystals from its base not quite to its tip. The very tip of each hair lacks hydrophobic wax and is hydrophilic, which means it attracts water molecules. It is these hydrophilic tips that help retain air pockets when the plant is submerged. They enable the trapping of a thin layer of air between the leaf surface and the water that they attract.\n\nThe whisk shape maximizes the surface area between individual hairs, providing more space for water molecules to “sit” upon. These water molecules are pinned on the tips of the hairs, thus reducing the impact of instabilities in the surrounding water. By having a large surface of hydrophilic hairs, water forms a boundary that aids in reducing drag as the plant moves in the fluid environment by creating less water-plant interaction between hairs.\n\nThis combination of hydrophilic patches on hydrophobic surfaces is known as the “Salvinia Effect.” It is responsible for retaining an air layer underwater on the fern’s leaves for up to several weeks.\n\nThis summary was contributed by Ashley Meyers.\n\nSpringtails\n\nSkin of springtails repels liquids with undercut structures that stabilize air bubbles.\n\nAIRCOAT project\n\nAIRCOAT is a marine coating that prevents biofouling and reduces friction by creating a layer of air along the hull.",
+  "mechanism": "The leaf structure of the Salvinia water fern retains a layer of air when submerged in water due to water-resistant hairs that possess water-attracting tips.\n\nThe floating water fern, Salvinia, is a unique plant in that it retains pockets of dry air when fully submerged in water. This capability, which provides the plant with buoyancy, is owed to the surface structure of its leaves.\n\nThe water fern’s leaves are covered in tiny hairs grouped to look like miniature wire cooking whisks. Each hair is coated in hydrophobic (water-repelling) wax crystals from its base not quite to its tip. The very tip of each hair lacks hydrophobic wax and is hydrophilic, which means it attracts water molecules. It is these hydrophilic tips that help retain air pockets when the plant is submerged. They enable the trapping of a thin layer of air between the leaf surface and the water that they attract.\n\nThe whisk shape maximizes the surface area between individual hairs, providing more space for water molecules to “sit” upon. These water molecules are pinned on the tips of the hairs, thus reducing the impact of instabilities in the surrounding water. By having a large surface of hydrophilic hairs, water forms a boundary that aids in reducing drag as the plant moves in the fluid environment by creating less water-plant interaction between hairs.\n\nThis combination of hydrophilic patches on hydrophobic surfaces is known as the “Salvinia Effect.” It is responsible for retaining an air layer underwater on the fern’s leaves for up to several weeks.\n\nSpringtails\n\nSkin of springtails repels liquids with undercut structures that stabilize air bubbles.\n\nAIRCOAT project\n\nAIRCOAT is a marine coating that prevents biofouling and reduces friction by creating a layer of air along the hull.",
   "function_addressed": [
     "capture, absorb, or filter gases",
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::gases",
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/leaf-structure-retains-air-layer-underwater/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaf",
     "structure",
@@ -21,7 +24,5 @@
     "layer",
     "underwater"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

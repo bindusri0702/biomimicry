@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-leaves-adapt-to-dry-hot-conditions",
   "organism_common": "Kukumakranka plant",
-  "organism_scientific": "",
   "strategy_summary": "Leaves of the Kukumakranka plant adapt to dry, hot conditions and continue photosynthesis by keeping their stomata open. Plants “breathe” or respire through their leaves by tiny adjustable openings in the leaves called stomata.",
-  "mechanism": "Leaves of the Kukumakranka plant adapt to dry, hot conditions and continue photosynthesis by keeping their stomata open.\n\nPlants “breathe” or respire through their leaves by tiny adjustable openings in the leaves called stomata. The stomata enable carbon dioxide gas to enter the plant for photosynthesis . Oxygen and water vapor exit the leaves through stomata, as well. In many plants, when the outside temperature is warm and water evaporates more readily, plants close their stomata to prevent excessive water loss. Closing the stomata, however, can disrupt plant growth by preventing carbon dioxide from entering the leaves and thereby reducing photosynthesis.\n\nA plant in South Africa called Kukumakranka ( Gethyllis villosa ) appears to have adaptation s within its leaves to help it survive the hot and semi-arid climate. G. villosa seems to keep many of its stomata open even in dry conditions, which helps the plant to continue to photosynthesize throughout the day. Exactly why G. villosa can maintain open stomata and not suffer from excessive water loss is currently unknown; however, researchers hypothesize that leaf chemistry and adaptations in the stomata help in the plant’s ability to adjust its response to dry conditions. An ability to continue to photosynthesize in warmer conditions could be beneficial as climate change influences the region.",
+  "mechanism": "Leaves of the Kukumakranka plant adapt to dry, hot conditions and continue photosynthesis by keeping their stomata open.\n\nPlants “breathe” or respire through their leaves by tiny adjustable openings in the leaves called stomata. The stomata enable carbon dioxide gas to enter the plant for photosynthesis. Oxygen and water vapor exit the leaves through stomata, as well. In many plants, when the outside temperature is warm and water evaporates more readily, plants close their stomata to prevent excessive water loss. Closing the stomata, however, can disrupt plant growth by preventing carbon dioxide from entering the leaves and thereby reducing photosynthesis.\n\nA plant in South Africa called Kukumakranka ( Gethyllis villosa ) appears to have adaptation s within its leaves to help it survive the hot and semi-arid climate. G. villosa seems to keep many of its stomata open even in dry conditions, which helps the plant to continue to photosynthesize throughout the day. Exactly why G. villosa can maintain open stomata and not suffer from excessive water loss is currently unknown; however, researchers hypothesize that leaf chemistry and adaptations in the stomata help in the plant’s ability to adjust its response to dry conditions. An ability to continue to photosynthesize in warmer conditions could be beneficial as climate change influences the region.",
   "function_addressed": [
     "regulate cellular processes",
     "adapt phenotype"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-phenotype",
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/leaves-adapt-to-dry-hot-conditions/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaves",
     "adapt",
@@ -20,7 +23,5 @@
     "hot",
     "conditions"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

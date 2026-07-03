@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-eye-lens-proteins-adapted-for-clarity-in-extreme-cold",
   "organism_common": "Giant Antarctic cod",
-  "organism_scientific": "",
   "strategy_summary": "The eye lens of the Antarctic toothfish avoids cold-cataracts at temperatures cold enough to freeze sea water by maintaining the right concentration of three isoforms of crytallin proteins. Protein s are the workhorses of life, and they are very fashion conscious.",
-  "mechanism": "The eye lens of the Antarctic toothfish avoids cold-cataracts at temperatures cold enough to freeze sea water by maintaining the right concentration of three isoforms of crytallin proteins.\n\nProtein s are the workhorses of life, and they are very fashion conscious. That is, proteins are large molecules with elaborate carbon-chain frames decorated with a variety of chemical accessories. But nothing will work right if every fold, every dangling accessory, and every chemical undergarment is not in its proper position. They’re fussy about temperature, too. Taken out of their comfort zone, they’re a disorganized, dysfunctional mess. Egg white proteins are a common example. In their comfort zone, egg albumin, dressed to the nines, is clear and fluid. Turn up the heat and she loses her cool, turning opaque and solid. Eye lenses are also made up largely of proteins, particularly three forms of crystallin (alpha, beta, and gamma crystallin). When all is well, lenses are clear, but too hot or too cold, these proteins lose their finesse and turn opaque. But not the eye of the giant nototheniid fish, Dissostichus mawsoni , an Antarctic toothfish living in the coldest marine environment–the Antarctic region of the Southern Ocean–where water temperatures are perennially at or near the freezing point of seawater (-2°C, 28.4°F). Its eye lens remains clear at this freezing temperature and even as cold as -12°C (10.4°F). Although science does not know for sure how toothfish lenses remain clear, the relative concentration of the gamma isoform of crystallin protein in the toothfish lens appears to be key in its ability to maintain optical clarity at temperatures cold enough to freeze sea water solid.\n\nComparison of the behavior of two isoforms of crystallin protein, found in the cow lens (A) and the toothfish lens (B).",
+  "mechanism": "The eye lens of the Antarctic toothfish avoids cold-cataracts at temperatures cold enough to freeze sea water by maintaining the right concentration of three isoforms of crytallin proteins.\n\nProtein s are the workhorses of life, and they are very fashion conscious. That is, proteins are large molecules with elaborate carbon-chain frames decorated with a variety of chemical accessories. But nothing will work right if every fold, every dangling accessory, and every chemical undergarment is not in its proper position. They’re fussy about temperature, too. Taken out of their comfort zone, they’re a disorganized, dysfunctional mess. Egg white proteins are a common example. In their comfort zone, egg albumin, dressed to the nines, is clear and fluid. Turn up the heat and she loses her cool, turning opaque and solid. Eye lenses are also made up largely of proteins, particularly three forms of crystallin (alpha, beta, and gamma crystallin). When all is well, lenses are clear, but too hot or too cold, these proteins lose their finesse and turn opaque. But not the eye of the giant nototheniid fish, Dissostichus mawsoni, an Antarctic toothfish living in the coldest marine environment–the Antarctic region of the Southern Ocean–where water temperatures are perennially at or near the freezing point of seawater (-2°C, 28.4°F). Its eye lens remains clear at this freezing temperature and even as cold as -12°C (10.4°F). Although science does not know for sure how toothfish lenses remain clear, the relative concentration of the gamma isoform of crystallin protein in the toothfish lens appears to be key in its ability to maintain optical clarity at temperatures cold enough to freeze sea water solid.\n\nComparison of the behavior of two isoforms of crystallin protein, found in the cow lens (A) and the toothfish lens (B).",
   "function_addressed": [
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/eye-lens-proteins-adapted-for-clarity-in-extreme-cold/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eye",
     "lens",
@@ -20,7 +21,5 @@
     "clarity",
     "extreme"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

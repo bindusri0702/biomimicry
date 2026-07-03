@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-smoke-stimulates-germination",
   "organism_common": "Fire-adapted ecosystems",
-  "organism_scientific": "",
   "strategy_summary": "Flowers in post-fire habitats are stimulated to germinate by chemical substrates in smoke. “Western Australia is famous for the beauty of the small flowers that cover the ground at the beginning of the rainy season…Many smaller bushes also contribute to the splendour of the spring displays.",
   "mechanism": "Flowers in post-fire habitats are stimulated to germinate by chemical substrates in smoke.\n\n“Western Australia is famous for the beauty of the small flowers that cover the ground at the beginning of the rainy season…Many smaller bushes also contribute to the splendour of the spring displays. But rain is not the only necessary cue. Flowering is also greatly influenced by previous fires. Chemical substrates in the smoke produced by the fire impregnate the surface layers of the soil. When, perhaps months later, rain does fall, it dissolves these chemicals and washes them down more deeply into the ground where they reach the dormant seeds. It is these substances that are the essential triggers for germination. Water by itself is not enough. Nor is this phenomenon limited to Australia. Seeds from African heathland plants have the same requirement.” (Attenborough 1995:191-193)",
   "function_addressed": [
     "manage disturbance in a community"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::manage-disturbance-in-a-community"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/smoke-stimulates-germination/",
-  "source_tier": "science_journalism",
   "keywords": [
     "smoke",
     "stimulates",
     "germination"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

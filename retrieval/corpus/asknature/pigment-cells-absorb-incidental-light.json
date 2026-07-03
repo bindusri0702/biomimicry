@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-pigment-cells-absorb-incidental-light",
   "organism_common": "Insects",
-  "organism_scientific": "",
   "strategy_summary": "Retractable pigments in insect ommatidia adjust vision to fit conditions. Flesh fly, (Sarcophagidae), Austins Ferry, Tasmania, Australia  Head of a fly (Calliphoridae)  “Each ommatidium…consists of several basic parts.",
-  "mechanism": "Retractable pigments in insect ommatidia adjust vision to fit conditions.\n\nFlesh fly, (Sarcophagidae), Austins Ferry, Tasmania, Australia\n\nHead of a fly (Calliphoridae)\n\n“Each ommatidium…consists of several basic parts. There is a layer of transparent cuticle on the outside, which allows light into a lens beneath it. This is usually surrounded by cells containing ‘scattering pigment’ which absorbs scattered or incidental light rays, so that the only light entering the ommatidium is directly parallel to its axis. This beam of light is directed by the lens down the narrow visual centre or rhabdom where it reacts with pigment , stimulating the nerve cells that surround the rhabdom. The nerve cells pass the message to the optical centre in the insect’s ‘brain’ where it is interpreted…The ommatidia of different insects are varied. They may even be of different sizes within a single compound eye. The scattering pigment reduces the total amount of light entering the eye, so insects active by day may find themselves blind at dusk when the light is lower and more diffused. Nocturnal insects, however, often have the ability to withdraw the scattering pigment from their eyes at night in order to absorb every scrap of available light and to allow light from many of the lens facets to focus on a single light-sensitive rhabdom, thus increasing the effective aperture of the lens system. Many moths go even further, possessing (like cats and some other animals) a kind of mirror – the tapetum – at the back of the eye: this reflects light back through the retinal cells, so every beam of light is used twice over.” (Foy and Oxford Scientific Films 1982:122-123)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
+  "mechanism": "Retractable pigments in insect ommatidia adjust vision to fit conditions.\n\nFlesh fly, (Sarcophagidae), Austins Ferry, Tasmania, Australia\n\nHead of a fly (Calliphoridae)\n\n“Each ommatidium…consists of several basic parts. There is a layer of transparent cuticle on the outside, which allows light into a lens beneath it. This is usually surrounded by cells containing ‘scattering pigment’ which absorbs scattered or incidental light rays, so that the only light entering the ommatidium is directly parallel to its axis. This beam of light is directed by the lens down the narrow visual centre or rhabdom where it reacts with pigment, stimulating the nerve cells that surround the rhabdom. The nerve cells pass the message to the optical centre in the insect’s ‘brain’ where it is interpreted…The ommatidia of different insects are varied. They may even be of different sizes within a single compound eye. The scattering pigment reduces the total amount of light entering the eye, so insects active by day may find themselves blind at dusk when the light is lower and more diffused. Nocturnal insects, however, often have the ability to withdraw the scattering pigment from their eyes at night in order to absorb every scrap of available light and to allow light from many of the lens facets to focus on a single light-sensitive rhabdom, thus increasing the effective aperture of the lens system. Many moths go even further, possessing (like cats and some other animals) a kind of mirror – the tapetum – at the back of the eye: this reflects light back through the retinal cells, so every beam of light is used twice over.” (Foy and Oxford Scientific Films 1982:122-123)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
   "function_addressed": [
     "capture, absorb, or filter energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/pigment-cells-absorb-incidental-light/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sidelined",
     "eye",
@@ -20,7 +21,5 @@
     "light",
     "absorption"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-how-oily-mucus-prevents-dehydration",
   "organism_common": "Waxy monkey tree frogs",
-  "organism_scientific": "",
   "strategy_summary": "After their skin is disturbed, waxy monkey tree frogs secrete lipids and mucus then wipe their bodies to restore the skin's impenetrability. “All parts of the body skin possess lipid glands (as well as mucus and granular glands) and consequently the action of wiping cannot be simply to spread the lipid.",
   "mechanism": "After their skin is disturbed, waxy monkey tree frogs secrete lipids and mucus then wipe their bodies to restore the skin's impenetrability.\n\n“All parts of the body skin possess lipid glands (as well as mucus and granular glands) and consequently the action of wiping cannot be simply to spread the lipid. Wiping must have a grooming function and combined with the secretions of the integumentary glands repairs the skin surface and makes the skin impenetrable.” (Blaylock et al. 1976:294, 283)",
   "function_addressed": [
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/how-oily-mucus-prevents-dehydration/",
-  "source_tier": "science_journalism",
   "keywords": [
     "oily",
     "mucus",
     "prevents",
     "dehydration"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

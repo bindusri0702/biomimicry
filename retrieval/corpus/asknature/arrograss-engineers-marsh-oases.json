@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-arrograss-engineers-marsh-oases",
   "organism_common": "Arrowgrass",
-  "organism_scientific": "",
   "strategy_summary": "Cast your eyes across a flat expanse of marshland and you might notice it’s dotted with little isles of tall grasses swaying in the breeze. These isles are created by the plants that inhabit them: seaside arrowgrass.",
   "mechanism": "To avoid getting waterlogged, arrowgrass grows a shallow system of roots that spread outward near or above the surface of the surrounding water. As the arrowgrass dies and decomposes, it builds up a pile of nutrient-rich matter atop the roots. The roots continue to spread out around the center, expanding the elevated rings. They can reach up to 2 feet (60 centimeters) high and 6 feet (2 meters) wide.\n\nThe elevated rings provide ground for airborne seeds to settle and also catch seeds that float by. The porous root structure below allows oxygen to get in, which enhances plant growth. It also drains out salty water that would drown and kill plants. The arrowgrass plots become tiny isles that provide nutrients and shelter for a variety of plants to flourish.\n\nMost living things evolve abilities to adapt to their environments. But some, like arrowgrass and beavers, are “ecosystem engineers” that modify their environment to better suit their needs. This is known as “niche construction.”\n\nMore and more, scientists are keeping these ideas in mind as they look for ways to conserve endangered habitats and the organisms in them. They can protect essential ecosystem engineer species or devise strategies that mimic the essential functions that the species perform. As climate change threatens to raise global sea levels, arrowgrass-like strategies can help keep plants above water and stabilize salt marsh ecosystems. Theys can also inspire nature-based approaches for raising ground above water or flood levels, or otherwise managing landscapes in sustainable and eco-friendly ways.",
   "function_addressed": [
     "generate soil/renew fertility",
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::generate-soil-renew-fertility",
+    "provide-ecosystem-services::maintain-biodiversity"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/arrograss-engineers-marsh-oases/",
-  "source_tier": "science_journalism",
   "keywords": [
     "arrowgrass",
     "engineers",
     "marsh",
     "oases"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

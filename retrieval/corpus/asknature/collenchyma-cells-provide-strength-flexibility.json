@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-collenchyma-cells-provide-strength-flexibility",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "Collenchyma cells in vascular plants support growing parts due to flexible cellulosic walls, which lignify once growth has ceased. “In addition to the ‘mechanical’ cells – fibres and lignified parenchyma – a third cell type has mechanical functions.",
   "mechanism": "Collenchyma cells in vascular plants support growing parts due to flexible cellulosic walls, which lignify once growth has ceased.\n\n“In addition to the ‘mechanical’ cells – fibres and lignified parenchyma – a third cell type has mechanical functions. This is collenchyma. Collenchyma cells have walls which during their development and extension are mainly cellulosic. They grow with the surrounding tissue as it expands or lengthens. They are more flexible than fibres, and if they remain unlignified, as they might in association with leaf veins or midribs, or in leaf stalks (petioles), they allow for a high degree of flexibility in the organ itself. Often, after growth in length of stems has occurred, and more mechanical rigidity is an advantage, we find that the collenchyma cells become lignified, and function more as fibres.” (Cutler 2005:105)",
   "function_addressed": [
     "manage compression"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/collenchyma-cells-provide-strength-flexibility/",
-  "source_tier": "science_journalism",
   "keywords": [
     "collenchyma",
     "cells",
@@ -19,7 +20,5 @@
     "strength",
     "flexibility"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

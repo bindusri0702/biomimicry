@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-skin-exhibits-low-friction",
   "organism_common": "Sandfish skink",
-  "organism_scientific": "",
   "strategy_summary": "Skin of the sandfish skink exhibits abrasion resistance and low friction when moving through sand due to proteinaceous scales. “The sandfish is a lizard having the remarkable ability to move in desert sand in a swimming-like fashion.",
   "mechanism": "Skin of the sandfish skink exhibits abrasion resistance and low friction when moving through sand due to proteinaceous scales.\n\n“The sandfish is a lizard having the remarkable ability to move in desert sand in a swimming-like fashion. The most outstanding adaptations to this mode of life are the low friction behaviour and the extensive abrasion resistance of the sandfish skin against sand, outperforming even steel. We investigated the topography, the composition and the mechanical properties of sandfish scales. These consist of glycosylated keratins with high amount of sulphur but no hard inorganic material, such as licates or lime.” (Baumgartner 2007:1)",
   "function_addressed": [
     "move in/on solids",
     "manage mechanical wear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-solids",
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "move",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/skin-exhibits-low-friction/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skin",
     "exhibits",
     "low",
     "friction"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

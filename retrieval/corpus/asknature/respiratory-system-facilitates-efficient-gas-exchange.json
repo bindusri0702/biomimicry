@@ -1,20 +1,27 @@
 {
   "doc_id": "asn-respiratory-system-facilitates-efficient-gas-exchange",
   "organism_common": "Birds",
-  "organism_scientific": "",
   "strategy_summary": "The avian respiratory system is notably different from the mammalian respiratory system, in both its structure and its ability to exchange gas as efficiently as possible. It consists of paired lungs, which contain static structures with surfaces for gas exchange, and connected air sacs, which expand and contract…",
-  "mechanism": "The avian respiratory system is notably different from the mammalian respiratory system, in both its structure and its ability to exchange gas as efficiently as possible.\n\nIt consists of paired lungs, which contain static structures with surfaces for gas exchange, and connected air sacs, which expand and contract causing air to move through the static lungs. A breath of oxygen-rich inhaled air remains in the respiratory system for two complete inhalation and exhalation cycles before it is fully spent and exhaled out the body.\n\nWhen fresh air is first inhaled through a bird’s nares (nostrils), it travels through the trachea (a large tube extending from the throat), which splits into left and right primary bronchi (called “mesobronchi,” with each bronchus leading to a lung). The inhaled air travels down each primary bronchus and then divides: some air enters the lungs where gas exchange occurs, while the remaining air fills the posterior (rear) air sacs. Then, during the first exhalation, the fresh air in the posterior sacs enters the lungs and undergoes gas exchange. The spent air in the lungs is displaced by this incoming air and flows out the body through the trachea. During the second inhalation, fresh air again enters both the posterior sacs and the lungs. Spent air in the lungs is again displaced by incoming air, but it cannot exit through the trachea because fresh air is flowing inward. Instead, the spent air from the lungs enters anterior (forward) air sacs. Then, during the second exhalation, the spent air in the anterior sacs and in the lungs flows out through the trachea, and fresh air in the posterior sacs enters the lungs for gas exchange.",
+  "mechanism": "The avian respiratory system is notably different from the mammalian respiratory system, in both its structure and its ability to exchange gas as efficiently as possible.\n\nIt consists of paired lungs, which contain static structures with surfaces for gas exchange, and connected air sacs, which expand and contract causing air to move through the static lungs. A breath of oxygen-rich inhaled air remains in the respiratory system for two complete inhalation and exhalation cycles before it is fully spent and exhaled out the body.\n\nWhen fresh air is first inhaled through a bird’s nares (nostrils), it travels through the trachea (a large tube extending from the throat), which splits into left and right primary bronchi (called “mesobronchi,” with each bronchus leading to a lung). The inhaled air travels down each primary bronchus and then divides: some air enters the lungs where gas exchange occurs, while the remaining air fills the posterior (rear) air sacs. Then, during the first exhalation, the fresh air in the posterior sacs enters the lungs and undergoes gas exchange. The spent air in the lungs is displaced by this incoming air and flows out the body through the trachea. During the second inhalation, fresh air again enters both the posterior sacs and the lungs. Spent air in the lungs is again displaced by incoming air, but it cannot exit through the trachea because fresh air is flowing inward. Instead, the spent air from the lungs enters anterior (forward) air sacs. Then, during the second exhalation, the spent air in the anterior sacs and in the lungs flows out through the trachea, and fresh air in the posterior sacs enters the lungs for gas exchange.\n\nThis pattern of airflow through the respiratory system creates unidirectional (one-way) flow of fresh air over the gas exchange surfaces in the lungs. Furthermore, fresh air passes over the gas exchange surfaces during both inhalation and exhalation, resulting in a constant supply of fresh air enabling the bird to experience a near-continuous state of gas exchange within the lungs. This contrasts with mammalian lungs, which experience bidirectional (two-way) airflow over the gas exchange surfaces.\n\nThe efficiency of the avian respiratory system is owed in part to its unidirectional nature and in part to the structure of its parabronchial system (the smaller passages within the lungs). The air capillaries in the walls of the parabronchial system have a much larger overall surface area than that found in the mammalian respiratory system. The greater surface area allows a greater proportion of oxygen from each breath to be exchanged for carbon dioxide from the blood and tissues.\n\nThis summary features contributions from Alex Uhrich.",
   "function_addressed": [
     "optimize shape/materials",
     "expel gases",
     "distribute gases",
     "store gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "distribute::gases",
+    "expel::gases",
+    "store::gases"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "distribute",
+    "expel",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/respiratory-system-facilitates-efficient-gas-exchange/",
-  "source_tier": "science_journalism",
   "keywords": [
     "air",
     "sacs",
@@ -23,7 +30,5 @@
     "birds",
     "respiratory"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

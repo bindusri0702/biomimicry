@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-chemicals-reveal-foes",
   "organism_common": "Carpenter ant",
-  "organism_scientific": "",
   "strategy_summary": "Carpenter ants identify intruders based on the scent of cuticular chemicals not present on nest-mates. For colony-based social insects, distinguishing nest-mates from non-nest-mates is important for maintaining the evolutionary fitness of the colony.",
   "mechanism": "Carpenter ants identify intruders based on the scent of cuticular chemicals not present on nest-mates.\n\nFor colony-based social insects, distinguishing nest-mates from non-nest-mates is important for maintaining the evolutionary fitness of the colony. Colony members must help only nest-mates and ensure non-nest-mates aren’t allowed to threaten the resources of the colony. Carpenter ants were long thought to distinguish nest-mates from non-nest-mates by comparing the chemical signature of suspect ants with their own. However, the biochemical mechanism is actually much simpler than that. Carpenter ants secrete a variety of hydrocarbons on their cuticles. The hydrocarbons include many complexly branched molecules that can form an almost limitless number of unique structures. The specific hydrocarbon structures and relative abundances thereof are unique to each colony (due to shared diet) and act as a shared chemical fingerprint for nest-mates. Ants detect the hydrocarbon signature of other ants using their antennae and use it to determine if they are friends or foes. Instead of both checking for the presence of friendly-type hydrocarbons and checking for the presence of foreign-type hydrocarbons, the ants simply respond to chemical signatures that contain new elements not previously habituated to. In other words, they do not identify nest-mates; they only identify non-nest-mates. Since nest-mates consume the same specific diet and share food with each other, they develop the same cuticular hydrocarbon fingerprint.\n\nIn a simple form of learning, the antennal lobes become desensitized by near-constant exposure to nest-mate fingerprints and response to it is reduced. However, the reception of a signature that contains additional compounds not previously habituated to (e.g., that of a non-nest-mate) initiates the olfactory receptor response fully and causes aggresive behavior. This mechanism explains why insects with practically no hydrocarbon fingerprint (i.e., certain colony parasites and young workers) do not elicit a response in guard ants. To put it simply, carpenter ants don’t distinguish nest-mates by comparing fingerprint similarity, they do so instead by determining whether or not a fingerprint fits within the pattern of the habituated signature. The neurological basis is perhaps best understood by human analogy. When constantly exposed to an odor, one becomes accustomed to it and may not be able to detect its presence. Nonetheless, even after being habituated to that specific odor, it is possible to notice the presence of a new one.",
   "function_addressed": [
     "sense chemicals (odor, taste, etc.) from the environment",
     "respond to signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "process-signals::respond-to-signals",
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "process-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/chemicals-reveal-foes/",
-  "source_tier": "science_journalism",
   "keywords": [
     "chemicals",
     "reveal",
     "foes"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

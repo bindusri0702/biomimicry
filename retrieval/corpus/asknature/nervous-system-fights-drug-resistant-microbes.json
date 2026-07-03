@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-nervous-system-fights-drug-resistant-microbes",
   "organism_common": "American cockroach",
-  "organism_scientific": "",
   "strategy_summary": "Nervous system tissues of cockroaches protect them from drug-resistant microbes via unique antimicrobial chemicals. “A study of locust and cockroach brains has found a number of chemicals which can kill bugs like MRSA.",
   "mechanism": "Nervous system tissues of cockroaches protect them from drug-resistant microbes via unique antimicrobial chemicals.\n\n“A study of locust and cockroach brains has found a number of chemicals which can kill bugs like MRSA.\n\n“Scientists hope these could become a powerful new weapon to boost the dwindling arsenal of antibiotics used to treat severe bacterial infections …\n\n“The researchers discovered nine different chemicals in the brains of locusts and cockroaches, which all had anti microbrial properties strong enough to kill 90% of MRSA (Methicillin-resistant Staphylococcus aureus ) while not harming human cells.” (Rutherford 2010)",
   "function_addressed": [
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/nervous-system-fights-drug-resistant-microbes/",
-  "source_tier": "science_journalism",
   "keywords": [
     "nervous",
     "system",
@@ -19,7 +20,5 @@
     "drug-resistant",
     "microbes"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

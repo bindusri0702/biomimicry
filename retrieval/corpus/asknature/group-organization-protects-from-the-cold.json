@@ -1,26 +1,29 @@
 {
   "doc_id": "asn-group-organization-protects-from-the-cold",
   "organism_common": "Emperor penguin",
-  "organism_scientific": "",
   "strategy_summary": "Emperor penguins breed during the cold Antarctic winter, where temperatures can reach -30C and below. To conserve energy and protect themselves from the cold, they adopt a behavioral strategy of huddling close together in large groups.",
-  "mechanism": "Within a huddle, emperor penguins shift their position in a wavelike movement. Every 30-60 seconds a penguin will move, triggering neighboring penguins to also move. These actions/reactions result in a wave of movements across the huddle, which over time leads to large scale movement of the huddle. This can increase the size of the huddle, by allowing smaller huddles to eventually join together. These small movements also affect the organization of the huddle by increasing the density, from creating a more orderly arrangement as each penguin finds their ideal position.",
+  "mechanism": "Within a huddle, emperor penguins shift their position in a wavelike movement. Every 30-60 seconds a penguin will move, triggering neighboring penguins to also move. These actions/reactions result in a wave of movements across the huddle, which over time leads to large scale movement of the huddle. This can increase the size of the huddle, by allowing smaller huddles to eventually join together. These small movements also affect the organization of the huddle by increasing the density, from creating a more orderly arrangement as each penguin finds their ideal position.\n\nOver time, huddles grow larger as individual penguins join or other huddles join together, causing the penguins to be more tightly packed together, which can sometimes cause the penguins to get too hot. When they need to get rid of the excess heat, the penguins leave the huddle in an abrupt breakup. This relatively slow increase in huddle size followed by rapid separation is a behavior that further allows them to regulate their exposure to unwanted temperature.\n\nLens of Time: Huddle Masters | bioGraphic",
   "function_addressed": [
     "cooperate within the same species",
     "coordinate by self-organization",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-the-same-species",
+    "coordinate::by-self-organization",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "coordinate",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/group-organization-protects-from-the-cold/",
-  "source_tier": "science_journalism",
   "keywords": [
     "group",
     "organization",
     "protects",
     "cold"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

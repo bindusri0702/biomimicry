@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-wing-scales-help-camouflage-from-sonar",
   "organism_common": "Send Sound Signals",
-  "organism_scientific": "",
   "strategy_summary": "The scales on moth wings help camouflage them from predatory bats because their uneven shape prevents the bats' sonar from detecting them clearly. Under this relatively highly magnified scanning electron micrographic (SEM) view, some of the wondrous ultrastructural shapes found on the surface of an unidentified white…",
   "mechanism": "The scales on moth wings help camouflage them from predatory bats because their uneven shape prevents the bats' sonar from detecting them clearly.\n\nUnder this relatively highly magnified scanning electron micrographic (SEM) view, some of the wondrous ultrastructural shapes found on the surface of an unidentified white moth were revealed. This moth, discovered deceased in the Decatur, Georgia suburbs, was a member of the Phylum Arthropoda, Order Lepidoptera. At this level of magnification, 1388X, the proximal strut of one single scale could be seen as it inserted into its exoskeletal pore, while another scale was entirely extracted from its insertion site. Imagery such as this brings to life, the incredible microscopic beauty, which goes unseen, but is abundant all around us.\n\n“The moth’s first defense again comes from those fuzzy scales it has all over its body. To us they just seem ungainly, a mistake. But because of their uneven shape, they give the bat only a fuzzy outline on its sonar scope.” (Bodanis 1992:169)",
   "function_addressed": [
@@ -9,18 +8,22 @@
     "modify size/shape/mass/volume",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::size-shape-mass-volume",
+    "protect-from-living-threats::animals",
+    "send-signals::sound"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "protect-from-living-threats",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/wing-scales-help-camouflage-from-sonar/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wing",
     "scales",
     "camouflage",
     "sonar"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

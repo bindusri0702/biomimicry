@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-wing-scales-aid-thermoregulation",
   "organism_common": "Maintain Homeostasis",
-  "organism_scientific": "",
-  "strategy_summary": "The wing scales of a green birdwing butterfly help regulate body heat by using a honeycomb structure to enhance black pigments found in the wings. Image: David Bygott / toggle icon  “At the other extreme are butterflies like Ornithoptera priamus –‘ultrablack,’ [Peter] Vukusic calls it.",
-  "mechanism": "The wing scales of a green birdwing butterfly help regulate body heat by using a honeycomb structure to enhance black pigments found in the wings.\n\nImage: David Bygott / toggle icon\n\n“At the other extreme are butterflies like Ornithoptera priamus –‘ultrablack,’ [Peter] Vukusic calls it. Again, structure is key. Its honeycombed wing scales absorb more light than would a smooth surface, so the black pigment looks blacker still. The hue helps regulate body heat and makes other wing colors stand out in mating displays.” (Holland 2007:30)\n\n“In our previous studies, we have already discovered that structurally assisted blackness is a common phenomenon in black butterfly wings and furthermore an ideal structure for improving the blackness. Compared with the porous structures in other species of butterflies, the structure in the cover scales of the black wings of butterfly Ornithoptera goliath is mainly comprised of adjacent inverse V-type ridges, which can effectively reduce reflection, while at the same time keep transmission at a relatively low level. However, limited by the optical properties of the natural chitin/melanin composite, the effect of the structure in producing black materials is far from fully exploited.” (Zhao et al. 2010:877)",
+  "strategy_summary": "The wing scales of a green birdwing butterfly help regulate body heat by using a honeycomb structure to enhance black pigments found in the wings. “At the other extreme are butterflies like Ornithoptera priamus –‘ultrablack,’ [Peter] Vukusic calls it.",
+  "mechanism": "The wing scales of a green birdwing butterfly help regulate body heat by using a honeycomb structure to enhance black pigments found in the wings.\n\n“At the other extreme are butterflies like Ornithoptera priamus –‘ultrablack,’ [Peter] Vukusic calls it. Again, structure is key. Its honeycombed wing scales absorb more light than would a smooth surface, so the black pigment looks blacker still. The hue helps regulate body heat and makes other wing colors stand out in mating displays.” (Holland 2007:30)\n\n“In our previous studies, we have already discovered that structurally assisted blackness is a common phenomenon in black butterfly wings and furthermore an ideal structure for improving the blackness. Compared with the porous structures in other species of butterflies, the structure in the cover scales of the black wings of butterfly Ornithoptera goliath is mainly comprised of adjacent inverse V-type ridges, which can effectively reduce reflection, while at the same time keep transmission at a relatively low level. However, limited by the optical properties of the natural chitin/melanin composite, the effect of the structure in producing black materials is far from fully exploited.” (Zhao et al. 2010:877)",
   "function_addressed": [
     "maintain homeostasis",
     "modify light/color"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/wing-scales-aid-thermoregulation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wing",
     "scales",
     "aid",
     "thermoregulation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

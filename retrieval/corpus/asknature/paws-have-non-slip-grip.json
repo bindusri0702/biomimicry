@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-paws-have-non-slip-grip",
   "organism_common": "Polar bear",
-  "organism_scientific": "",
   "strategy_summary": "The paws of polar bears grip ice well due to the rough surface of their pads. to be defined  '''en:''' A Polar Bear floating at the <a href=http://commons.wikimedia.org/w/index.php?title=Henry_Doorly_Zoo&action=edit&redlink=1 class=new title=Henry Doorly Zoo (page does not exist)>Henry Doorly Zoo</a> in <a…",
   "mechanism": "The paws of polar bears grip ice well due to the rough surface of their pads.\n\nto be defined\n\n'''en:''' A Polar Bear floating at the <a href=http://commons.wikimedia.org/w/index.php?title=Henry_Doorly_Zoo&action=edit&redlink=1 class=new title=Henry Doorly Zoo (page does not exist)>Henry Doorly Zoo</a> in <a href=http://commons.wikimedia.org/wiki/Omaha,_Nebraska title=Omaha, Nebraska>Omaha, Nebraska</a>.\n\n“A polar bear spends the winter living on sea ice—ice formed when the ocean freezes. But the bear has no trouble keeping its footing on slippery ground. Its paws are perfect for getting around on a slick, cold surface. Rough pads give it a nonslip grip, and thick fur between the pads keeps the bear’s feet warm. It uses the sharp, curved claws on its front paws like hooks to climb onto the ice from the water. Polar bears’ claws also help them dig in the ice when they hunt seals.” (Kranking 2001)",
   "function_addressed": [
     "move in/on solids",
     "protect from ice"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-solids",
+    "protect-from-non-living-threats::ice"
+  ],
+  "subgroup_keys": [
+    "move",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/paws-have-non-slip-grip/",
-  "source_tier": "science_journalism",
   "keywords": [
     "paws",
     "have",
     "non-slip",
     "grip"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

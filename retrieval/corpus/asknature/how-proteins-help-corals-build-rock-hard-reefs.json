@@ -1,19 +1,23 @@
 {
   "doc_id": "asn-how-proteins-help-corals-build-rock-hard-reefs",
   "organism_common": "Corals",
-  "organism_scientific": "",
   "strategy_summary": "Some of the most extensive structures on Earth are made not by humans or beavers or other big builders, but by countless generations of tiny creatures beneath the surface of the sea. Each coral individual contributes to the reef that large populations of them form, helping to provide a vast home to an abundance of…",
-  "mechanism": "Corals start their lives as floating larvae called planulae. When they settle down, they take on a baglike polyp form and begin their work.\n\nFirst, a set of protein s containing collagens, laminins, fibronectin, and USOMP13 form a scaffold. Second, molecules called coral acid-rich proteins (CARP) attach to the collagens, pull calcium carbonate from the water, and shape it into a needlelike form called aragonite.\n\nThe corals then combine these aragonite crystals with sugars, fats, and more than a hundred kinds of proteins—at least one of which is similar to a protein that helps shape human bones. The organic molecules act like cement, gluing bits of aragonite together to form the literally rock-hard surface we know as coral skeletons. These structures provide some protection from predators for the invertebrate engineers that make them, and provide surfaces that other corals can attach to.\n\nCorals’ capacity to make uniquely shaped, durable structures using a well-organized combination of minerals and organic molecules could find countless applications in the pursuit of engineering that respects, protects, and emulates nature. Scientists and engineers growing prosthetic bone could use the spatial arrangements coral researchers have uncovered as an inspiration for enhancing strength and durability of prosthetics. Materials scientists and engineers could use the spatial arrangements as a guide for creating a range of durable materials. This in turn could be applied to developing buildings and other infrastructure, consumer goods, packaging, cars, trucks, and airplanes, just to name just a few.",
+  "mechanism": "Corals start their lives as floating larvae called planulae. When they settle down, they take on a baglike polyp form and begin their work.\n\nFirst, a set of protein s containing collagens, laminins, fibronectin, and USOMP13 form a scaffold. Second, molecules called coral acid-rich proteins (CARP) attach to the collagens, pull calcium carbonate from the water, and shape it into a needlelike form called aragonite.\n\nThe corals then combine these aragonite crystals with sugars, fats, and more than a hundred kinds of proteins—at least one of which is similar to a protein that helps shape human bones. The organic molecules act like cement, gluing bits of aragonite together to form the literally rock-hard surface we know as coral skeletons. These structures provide some protection from predators for the invertebrate engineers that make them, and provide surfaces that other corals can attach to.\n\nThe organic molecules act like cement, gluing bits of aragonite together to form the literally rock-hard surface we know as coral skeletons.\n\nCorals’ capacity to make uniquely shaped, durable structures using a well-organized combination of minerals and organic molecules could find countless applications in the pursuit of engineering that respects, protects, and emulates nature. Scientists and engineers growing prosthetic bone could use the spatial arrangements coral researchers have uncovered as an inspiration for enhancing strength and durability of prosthetics. Materials scientists and engineers could use the spatial arrangements as a guide for creating a range of durable materials. This in turn could be applied to developing buildings and other infrastructure, consumer goods, packaging, cars, trucks, and airplanes, just to name just a few.",
   "function_addressed": [
     "chemically assemble mineral crystals",
     "chemically assemble molecular devices",
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::mineral-crystals",
+    "chemically-assemble::molecular-devices",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/how-proteins-help-corals-build-rock-hard-reefs/",
-  "source_tier": "science_journalism",
   "keywords": [
     "proteins",
     "corals",
@@ -21,7 +25,5 @@
     "rock-hard",
     "reefs"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

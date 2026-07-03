@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-%ce%b2-carotene-protects-from-solar-radiation",
   "organism_common": "Halophile algae",
-  "organism_scientific": "",
   "strategy_summary": "Dunaliella salina algae protect themselves from the effects of solar ultraviolet radiation by producing immense quantities of β-carotene to quench the damaging effects of reactive oxygen radicals. Dunaliella salina algae is bombarded with the full brunt of solar UV (ultraviolet) radiation and has evolved a novel…",
-  "mechanism": "Dunaliella salina algae protect themselves from the effects of solar ultraviolet radiation by producing immense quantities of β-carotene to quench the damaging effects of reactive oxygen radicals.\n\nDunaliella salina algae is bombarded with the full brunt of solar UV (ultraviolet) radiation and has evolved a novel mechanism for defending itself from the radiation’s damaging effects. More than 8% of its dry body mass is β-carotene, more than any other organism that produces the compound. The algae produces β-carotene in response to UV stress and localizes it to lipid droplets within its chloroplasts. In that location it is able to absorb and neutralize the damaging oxygen radicals produced from excessive UV and sun exposure.\n\nImage: World Imaging / toggle icon",
+  "mechanism": "Dunaliella salina algae protect themselves from the effects of solar ultraviolet radiation by producing immense quantities of β-carotene to quench the damaging effects of reactive oxygen radicals.\n\nDunaliella salina algae is bombarded with the full brunt of solar UV (ultraviolet) radiation and has evolved a novel mechanism for defending itself from the radiation’s damaging effects. More than 8% of its dry body mass is β-carotene, more than any other organism that produces the compound. The algae produces β-carotene in response to UV stress and localizes it to lipid droplets within its chloroplasts. In that location it is able to absorb and neutralize the damaging oxygen radicals produced from excessive UV and sun exposure.",
   "function_addressed": [
     "protect from light"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::light"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/%ce%b2-carotene-protects-from-solar-radiation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "carotene",
     "protects",
     "solar",
     "radiation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

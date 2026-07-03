@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-smoke-detection-induces-seed-germination",
   "organism_common": "Lettuce",
-  "organism_scientific": "",
   "strategy_summary": "Smoke-derived compounds called karrikinolides stimulate germination. Since fires usually destroy all of the foliage in a given location, the time immediately after a fire is an optimum growing period for seedlings whose access to sunlight would otherwise be blocked by leaves of larger plants.",
   "mechanism": "Smoke-derived compounds called karrikinolides stimulate germination.\n\nSince fires usually destroy all of the foliage in a given location, the time immediately after a fire is an optimum growing period for seedlings whose access to sunlight would otherwise be blocked by leaves of larger plants. Because of this, some plant seeds have evolved mechanisms for sensing smoke associated with local fires. Grand Rapid lettuce germinates in response to the presence of low concentrations of karrikinolides present in the smoke from burning vegetation.",
   "function_addressed": [
     "regulate reproduction or growth",
     "respond to signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "process-signals::respond-to-signals",
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "process-signals",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/smoke-detection-induces-seed-germination/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fire",
     "creates",
@@ -21,7 +24,5 @@
     "plant",
     "grow"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

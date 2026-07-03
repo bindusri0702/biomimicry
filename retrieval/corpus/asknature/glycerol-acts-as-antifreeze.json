@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-glycerol-acts-as-antifreeze",
   "organism_common": "Parasitoid wasp",
-  "organism_scientific": "",
   "strategy_summary": "The blood of a parasitic wasp protects from freezing via glycerol. “Glycerol acts as an effective antifreeze compound in the blood of some insects, rising in concentration in larvae of the parasitic wasp Bracon cephi before the onset of winter, and falling again in spring.” (Shuker 2001:110)",
   "mechanism": "The blood of a parasitic wasp protects from freezing via glycerol.\n\n“Glycerol acts as an effective antifreeze compound in the blood of some insects, rising in concentration in larvae of the parasitic wasp Bracon cephi before the onset of winter, and falling again in spring.” (Shuker 2001:110)",
   "function_addressed": [
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/glycerol-acts-as-antifreeze/",
-  "source_tier": "science_journalism",
   "keywords": [
     "glycerol",
     "acts",
     "antifreeze"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

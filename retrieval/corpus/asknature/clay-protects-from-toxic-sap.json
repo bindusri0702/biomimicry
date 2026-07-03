@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-clay-protects-from-toxic-sap",
   "organism_common": "Protect From Chemicals",
-  "organism_scientific": "",
   "strategy_summary": "Macaws survive ingesting toxic hura seeds because they eat clay. Head of the Blue-and-yellow Macaw in the Weltvogelpark Walsrode near Walsrode, Lower Saxony, Germany  Head of the Blue-and-yellow Macaw in the Weltvogelpark Walsrode near Walsrode, Lower Saxony, Germany  “The hura tree protects its explosive fruits with…",
   "mechanism": "Macaws survive ingesting toxic hura seeds because they eat clay.\n\nHead of the Blue-and-yellow Macaw in the Weltvogelpark Walsrode near Walsrode, Lower Saxony, Germany\n\nHead of the Blue-and-yellow Macaw in the Weltvogelpark Walsrode near Walsrode, Lower Saxony, Germany\n\n“The hura tree protects its explosive fruits with a sap so toxic that it will raise great red welts if it touches human skin and even blind those who get it into their eyes. The macaws, however, are not put off. Long before the fruits are ripe, the birds rip them apart, pods, seeds and all, and then, after a meal that would have poisoned others, they fly to particular places on a river bank where they can gnaw out and swallow a special clay which detoxifies their meal.” (Attenborough 1995:32-35)",
   "function_addressed": [
     "protect from chemicals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::chemicals"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/clay-protects-from-toxic-sap/",
-  "source_tier": "science_journalism",
   "keywords": [
     "clay",
     "protects",
     "toxic",
     "sap"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

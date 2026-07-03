@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-seeds-survive-long-sea-voyages",
   "organism_common": "Coconut",
-  "organism_scientific": "",
   "strategy_summary": "The seeds of coconut palms survive long sea voyages because they are enclosed in nutrient-rich, water-filled protective shells. Coconut Palm (Cocos nucifera) and fruit.",
   "mechanism": "The seeds of coconut palms survive long sea voyages because they are enclosed in nutrient-rich, water-filled protective shells.\n\nCoconut Palm (Cocos nucifera) and fruit.\n\n“Some trees send their seeds, not by air, but by sea. The most famous of all is the coconut palm. It dispatches its seed inside a hard shell that contains everything needed for a long voyage. Inside there is a supply of rich food, the so-called meat, and a half-a-pint or so of water. On the outside, it is fitted with a fibre float that keeps it on the surface of the water. This survival package serves it so well that coconut palms have colonised beaches throughout the tropics.” (Attenborough 1995:21)\n\nFloating coconut\n\nLongitudinal section of Cocos nucifera fruit, showing endosperm",
   "function_addressed": [
@@ -9,11 +8,17 @@
     "manage mechanical wear",
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::mechanical-wear",
+    "protect-from-non-living-threats::excess-liquids",
+    "provide-ecosystem-services::disperse-seeds"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure",
+    "protect-from-non-living-threats",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/seeds-survive-long-sea-voyages/",
-  "source_tier": "science_journalism",
   "keywords": [
     "seeds",
     "survive",
@@ -21,7 +26,5 @@
     "sea",
     "voyages"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

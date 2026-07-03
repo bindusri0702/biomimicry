@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-enzymes-catalyze-reversible-reactions",
   "organism_common": "Micromonospora",
-  "organism_scientific": "",
   "strategy_summary": "Glycosyltransferase enzymes produced by Micromonospora echinospora bacteria reversibly catalyze complex organic reactions between sugars and other molecules. Conventional industrial techniques for glycosylating organic compounds rely upon multi-step organic synthesis reactions; these reactions usually require toxic…",
   "mechanism": "Glycosyltransferase enzymes produced by Micromonospora echinospora bacteria reversibly catalyze complex organic reactions between sugars and other molecules.\n\nConventional industrial techniques for glycosylating organic compounds rely upon multi-step organic synthesis reactions; these reactions usually require toxic reagents and solvents and are not readily reversible. Glycosyltransferase enzymes represent a superior way to perform the same task. Not only do they not require toxic compounds, they also perform the reaction in one reversible step. The ramifications of this reversibility are that the relative abundance of the modified and un-modified forms of the compound can be regulated via addition or removal of the different forms.",
   "function_addressed": [
     "chemically assemble organic compounds",
     "catalyze chemical assembly"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::catalyze-making-of-bonds",
+    "chemically-assemble::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/enzymes-catalyze-reversible-reactions/",
-  "source_tier": "science_journalism",
   "keywords": [
     "enzymes",
     "catalyze",
     "reversible",
     "reactions"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

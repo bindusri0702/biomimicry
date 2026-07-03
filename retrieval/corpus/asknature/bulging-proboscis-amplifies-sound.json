@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-bulging-proboscis-amplifies-sound",
   "organism_common": "Send Sound Signals",
-  "organism_scientific": "",
   "strategy_summary": "The proboscis of the male elephant seal amplifies calls by bulging using a combination of air, blood, and muscle. “Another species in which the male sports an exaggerated nose is the elephant seal, largest of all seals at 5-6 m long and up to 3500 kg in weight.",
   "mechanism": "The proboscis of the male elephant seal amplifies calls by bulging using a combination of air, blood, and muscle.\n\n“Another species in which the male sports an exaggerated nose is the elephant seal, largest of all seals at 5-6 m long and up to 3500 kg in weight. The huge, bulging nose of the mature male is used during the breeding season, when the seals gather in vast herds on the shores of California or the South Atlantic islands. The proboscis of the mature male bulges with the combined efforts of blood, muscle and air, and amplifies his defiant bellowing at other males.” (Foy and Oxford Scientific Films 1982:136)",
   "function_addressed": [
     "send sound signals",
     "modify size/shape/mass/volume"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::size-shape-mass-volume",
+    "send-signals::sound"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/bulging-proboscis-amplifies-sound/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bulging",
     "proboscis",
     "amplifies",
     "sound"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

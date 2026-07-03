@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-protein-turns-sunlight-into-vivid-color",
   "organism_common": "Mushroom anemone",
-  "organism_scientific": "",
   "strategy_summary": "Turn plain sunlight into vibrant color? These pancake-shaped coral relatives found in the Indian and Pacific oceans are on it.",
   "mechanism": "Behind this ability are extremely long molecules known as fluorescent protein s that are folded into a shape that looks a little like a plate of spaghetti, with two tubelike sections, called beta barrels, sitting on top of it. Inside each of the beta barrels is a special stretch of protein called a chromophore . The chromophore’s unique configuration allows it to absorb a photon—a packet of energy—from the sun and use that energy to produce a pulse of red light. The beta barrels shield the chromophore from other molecules that could steal the energy before the chromophore can use it to create the fluorescent protein’s signature glow.\n\nThere are many very similar molecules that corals (and other marine creatures) produce, in colors that include red, cyan, green-yellow, and purple-blue. No one knows for sure, but scientists have speculated that the proteins might protect the corals from sunburn. They might help the corals contribute to a partnership with algae that capture light energy and share it with the coral. They might signal something about the coral to other animals. They also might help the corals deal with stress by destroying molecules that could harm them.\n\nDiscosoma’s glowing reputation holds potential benefit for humans as well. Many conventional fabric dyes are toxic or cause cancer or mutations. They can pollute the environment, reducing water quality in lakes and streams and harming plants and beneficial microbes in the soil. In contrast, fluorescent proteins can biodegrade into simple molecules such as carbon, hydrogen, and oxygen found in all living things.\n\nIf manufacturers could incorporate these molecules into the molecules that make fibers, they could use those fibers to make textiles that are colorful without requiring harmful dyes. The colorful proteins could be designed to readily degrade when their useful life is over into friendly molecules.\n\nAs our ability to synthesize proteins and incorporate them into other molecules has advanced, it is now possible to use Discosoma’s design as a basis for producing environmentally friendly textiles with a range of built-in colors.",
   "function_addressed": [
@@ -10,11 +9,18 @@
     "send light signals in the visible spectrum",
     "send light signals in the non-visible spectrum"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "protect-from-non-living-threats::chemicals",
+    "send-signals::light-non-visible-spectrum",
+    "send-signals::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "protect-from-non-living-threats",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/protein-turns-sunlight-into-vivid-color/",
-  "source_tier": "science_journalism",
   "keywords": [
     "protein",
     "turns",
@@ -22,7 +28,5 @@
     "vivid",
     "color"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

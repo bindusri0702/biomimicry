@@ -1,24 +1,24 @@
 {
   "doc_id": "asn-leaves-protect-from-the-elements",
   "organism_common": "Protect From Loss of Liquids",
-  "organism_scientific": "",
   "strategy_summary": "The leaves of conifers protect from drought, snow and cold by employing unique design elements, including a needle shape, thick waxy rinds, and pores set in deep grooves in the needles. New shoots of Abies nordmanniana  White fir (Abies concolor) leaves  Pine Branch Rime, Mackie Road, Coldstream, British Columbia, 7…",
   "mechanism": "The leaves of conifers protect from drought, snow and cold by employing unique design elements, including a needle shape, thick waxy rinds, and pores set in deep grooves in the needles.\n\nNew shoots of Abies nordmanniana\n\nWhite fir (Abies concolor) leaves\n\nPine Branch Rime, Mackie Road, Coldstream, British Columbia, 7 February, 2012\n\n“Some species of tree, even outside the balmy climates of the tropics, manage to produce a kind of leaf that can survive both drought and cold. Conifers do so. Many of them grow branches that, instead of rising upwards towards the sky, slope gently downwards. In consequence, snow tends to slide off them and does not accumulate into huge loads that might break them. Their leaves are not flat and broad but needle-shaped. They have a thick waxy rind, very little freezable sap, and pores that are set in the bottom of a deep groove running the length of the needle.” (Attenborough 1995:88-89)",
   "function_addressed": [
     "protect from loss of liquids",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-liquids",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/leaves-protect-from-the-elements/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaves",
     "protect",
     "elements"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

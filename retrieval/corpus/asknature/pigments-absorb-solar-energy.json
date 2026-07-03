@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-pigments-absorb-solar-energy",
   "organism_common": "Oriental hornet",
-  "organism_scientific": "",
   "strategy_summary": "Pigments in the oriental hornet’s cuticle absorb solar energy that is turned into electrical energy. Typically, wasps and hornets are more active during the early morning as they begin their daily activities.",
-  "mechanism": "Pigments in the oriental hornet’s cuticle absorb solar energy that is turned into electrical energy.\n\nTypically, wasps and hornets are more active during the early morning as they begin their daily activities. In contrast, the oriental hornet is most active during the middle of the day. It is a social insect that nests underground and correlates its digging activity with the intensity of the sunlight.\n\nAs it turns out, there is a good reason why these hornets tend to work in direct sunlight. These hornets have an outer layer (cuticle) that actually allows them to absorb sunlight. The brown and yellow colors of the oriental hornet not only serve to warn potential predators, but also contain pigment s that harvest solar energy. The banded sections have multiple layers that get successively thinner and sandwich the pigments. The brown cuticle has about 30 layers while the yellow cuticle has roughly 15. Scientists have found that the outer brown layer is covered in grooves that act almost like gratings that help trap light, allowing the rays to funnel inward for better absorption. The outer yellow layer is covered in oval-shaped bumps that increase effective surface area for absorption. Both of these areas exhibit antireflection and light-trapping properties, enhancing the absorption of light in the cuticle. The role of the layers getting successively thinner is still under investigation.\n\nThe sunlight that these hornets capture is likely converted into electrical energy. There exists a voltage between the inner and outer layers of the yellow stripe that increases in response to illumination. The harvested energy may be used in physical activity (digging or flight) and temperature regulation. It even seems to provide enough energy to carry out metabolic functions similar to the liver (producing or filtering enzymes and sugars). The enzymatic activity in these regions has been shown to decrease when the hornet is exposed to light, allowing it to conserve its energy.\n\nThis summary was contributed by Leon Wang.",
+  "mechanism": "Pigments in the oriental hornet’s cuticle absorb solar energy that is turned into electrical energy.\n\nTypically, wasps and hornets are more active during the early morning as they begin their daily activities. In contrast, the oriental hornet is most active during the middle of the day. It is a social insect that nests underground and correlates its digging activity with the intensity of the sunlight.\n\nAs it turns out, there is a good reason why these hornets tend to work in direct sunlight. These hornets have an outer layer (cuticle) that actually allows them to absorb sunlight. The brown and yellow colors of the oriental hornet not only serve to warn potential predators, but also contain pigment s that harvest solar energy. The banded sections have multiple layers that get successively thinner and sandwich the pigments. The brown cuticle has about 30 layers while the yellow cuticle has roughly 15. Scientists have found that the outer brown layer is covered in grooves that act almost like gratings that help trap light, allowing the rays to funnel inward for better absorption. The outer yellow layer is covered in oval-shaped bumps that increase effective surface area for absorption. Both of these areas exhibit antireflection and light-trapping properties, enhancing the absorption of light in the cuticle. The role of the layers getting successively thinner is still under investigation.\n\nThe sunlight that these hornets capture is likely converted into electrical energy. There exists a voltage between the inner and outer layers of the yellow stripe that increases in response to illumination. The harvested energy may be used in physical activity (digging or flight) and temperature regulation. It even seems to provide enough energy to carry out metabolic functions similar to the liver (producing or filtering enzymes and sugars). The enzymatic activity in these regions has been shown to decrease when the hornet is exposed to light, allowing it to conserve its energy.",
   "function_addressed": [
     "modify electric charge",
     "modify electron transport",
@@ -11,18 +10,24 @@
     "transform electrical energy",
     "chemically assemble mineral crystals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::mineral-crystals",
+    "modify-chemical-electrical-state::electric-charge",
+    "modify-chemical-electrical-state::electron-transport",
+    "transform-convert-energy::chemically-generate-flow-of-electrons",
+    "transform-convert-energy::electrical-energy"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "modify-chemical-electrical-state",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/pigments-absorb-solar-energy/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pigments",
     "absorb",
     "solar",
     "energy"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

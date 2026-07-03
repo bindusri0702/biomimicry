@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-tube-feet-assist-locomotion-feeding",
   "organism_common": "Echinoderms (Sea Stars, Sea Urchins)",
-  "organism_scientific": "",
   "strategy_summary": "The tube feet of echinoderms move and handle food using a hydraulic system. “Something similar happens in echinoderm tube feet–small, soft, unjointed, and exceedingly numerous organs used for locomotion, handling food, and similar functions, noticeable when a starfish creeps up the glass wall of an aquarium.",
   "mechanism": "The tube feet of echinoderms move and handle food using a hydraulic system.\n\n“Something similar happens in echinoderm tube feet–small, soft, unjointed, and exceedingly numerous organs used for locomotion, handling food, and similar functions, noticeable when a starfish creeps up the glass wall of an aquarium. The walls of these organs have, like nematodes, longitudinal muscles and connective tissue fibers in crossed-helical arrays, as in figure 20.4. Their fiber angles are high–about 67 degrees for fully extended feet–so tube feet also lie on the left side of the curve of figure 20.2. Contraction of muscle tries to shorten a foot and increase that angle still further, pushing it downward on the curve. The high fiber angle minimizes fattening of the tube foot, so contraction should produce little actual shortening and considerable pressure rise. That is, unless the system can expel fluid.\n\n“But the system does expel fluid, so things get more complex than in nematodes. Above each tube foot is a bulbous chamber, the ampulla, equipped with circular muscles and reinforcing fibers at right angles to that muscle. So contraction of foot muscle forces fluid into the ampulla, extending its muscle. That couples the muscle of foot and ampulla in a hydraulically linked antagonism (McCurley and Kier 1995) much like muscles on opposite sides of a bending nematode … The whole thing hooks onto the water-vascular system of pipes, so its overall volume can vary. At the same time, a one-way flap valve prevents contraction of either foot or ampullary muscle from simply forcing water back into those pipes (Maerkel and Roeser 1992).” (Vogel 2003:414)\n\nThis video from Shape of Life uses animations to describe the anatomy of a sea star and, beginning at 1:20, how the hydraulic system of tube feet allows it to move.",
   "function_addressed": [
@@ -11,11 +10,20 @@
     "move in/on liquids",
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::solids",
+    "modify-physical-state::position",
+    "move::in-on-liquids",
+    "move::in-on-solids",
+    "transform-convert-energy::mechanical-energy"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "modify-physical-state",
+    "move",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/tube-feet-assist-locomotion-feeding/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tube",
     "feet",
@@ -23,7 +31,5 @@
     "locomotion",
     "feeding"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

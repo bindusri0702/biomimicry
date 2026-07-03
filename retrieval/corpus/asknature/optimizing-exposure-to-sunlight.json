@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-optimizing-exposure-to-sunlight",
   "organism_common": "Stony corals",
-  "organism_scientific": "",
   "strategy_summary": "Reef corals optimize the amount of light available to the algae they host by branching in patterns similar to those found in plants. “Why, then, do reef corals grow into such plant-like shapes?",
-  "mechanism": "Reef corals optimize the amount of light available to the algae they host by branching in patterns similar to those found in plants.\n\n“Why, then, do reef corals grow into such plant-like shapes? Because, although the polyps are not themselves plants, they have plants within them. The cells in the inner layers of the polyp’s tissues contain tiny cells of an alga, complete with their grains of photosynthesising chlorophyll . And the polyp looks after its captives very well indeed, building its stony cup in a shape that ensures that they can get all the light they need.\n\nAlgae very similar to those in the corals float free in the open ocean. But very few can live in the seas around coral reefs for these waters, though rich in dissolved oxygen, are very poor in nutrients. Algae, like any other plants, need nitrates and phosphates, and that is exactly what the coral polyps, like any other animal, excrete in their waste-products. So those algae that are tucked away in the polyp’s tissues, are provided with all the raw materials they need in order to flourish, yet are safe from the raids of hungry vegetarian grazers.\n\nBut the polyps extract a high rent from their lodgers. They secrete a digestive solution within their cells that weakens the skins of the algae and causes them to leak. Some 80% of all the food photosynthesised by the algae passes out of them and into the polyp’s cells. The polyps are, as a consequence, so well-nourished that they have sufficient energy to spend on building their protective limestone skeletons. And the algae perform a further service. They manufacture a chemical that acts like a high-factor sun-cream shielding both themselves and their polyp hosts from the injurious ultra-violet rays, which in these tropical waters are very strong indeed.” (Attenborough 1995:200-201)",
+  "mechanism": "Reef corals optimize the amount of light available to the algae they host by branching in patterns similar to those found in plants.\n\n“Why, then, do reef corals grow into such plant-like shapes? Because, although the polyps are not themselves plants, they have plants within them. The cells in the inner layers of the polyp’s tissues contain tiny cells of an alga, complete with their grains of photosynthesising chlorophyll. And the polyp looks after its captives very well indeed, building its stony cup in a shape that ensures that they can get all the light they need.\n\nAlgae very similar to those in the corals float free in the open ocean. But very few can live in the seas around coral reefs for these waters, though rich in dissolved oxygen, are very poor in nutrients. Algae, like any other plants, need nitrates and phosphates, and that is exactly what the coral polyps, like any other animal, excrete in their waste-products. So those algae that are tucked away in the polyp’s tissues, are provided with all the raw materials they need in order to flourish, yet are safe from the raids of hungry vegetarian grazers.\n\nBut the polyps extract a high rent from their lodgers. They secrete a digestive solution within their cells that weakens the skins of the algae and causes them to leak. Some 80% of all the food photosynthesised by the algae passes out of them and into the polyp’s cells. The polyps are, as a consequence, so well-nourished that they have sufficient energy to spend on building their protective limestone skeletons. And the algae perform a further service. They manufacture a chemical that acts like a high-factor sun-cream shielding both themselves and their polyp hosts from the injurious ultra-violet rays, which in these tropical waters are very strong indeed.” (Attenborough 1995:200-201)",
   "function_addressed": [
     "capture, absorb, or filter energy",
     "optimize shape/materials"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "capture-absorb-or-filter::energy"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/optimizing-exposure-to-sunlight/",
-  "source_tier": "science_journalism",
   "keywords": [
     "optimizing",
     "exposure",
     "sunlight"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

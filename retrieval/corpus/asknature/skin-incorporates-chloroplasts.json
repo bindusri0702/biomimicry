@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-skin-incorporates-chloroplasts",
   "organism_common": "Sap-sucking sea slugs",
-  "organism_scientific": "",
   "strategy_summary": "As you walk through a field on a clear, blue-sky day, the grasses, shrubs, and trees around you are busy soaking up the sunshine and using it to make the food they need to thrive. Did you ever wish you could do the same?",
-  "mechanism": "E. chlorotica slugs live in saltwater marshes along the East Coast of North America. After hatching from an egg, one will float around in the brackish water for three weeks or so. Then, when it encounters a patch of the alga Vaucheria litorea , it stops floating and starts feeding instead. But this isn’t any old meal.\n\nRather than chomp down on the entire alga, the slug punctures the cell with its radular tooth, and sucks out the juicy insides. In the process, it extracts the algae’s sunlight-trapping organelles, known as chloroplasts. The cells of the slug’s digestive tract then engulf the chloroplasts, carrying them into their insides. Even though they are no longer associated with their native organism, the chloroplasts continue to capture the energy of the sun. The slug then uses the resulting fixed carbon and energy to power its own cellular processes.\n\nThe ability to redirect the output of plants’ photosynthetic machinery could be applied to developing new approaches to capturing solar energy for human use. It raises the question of whether humans and/or livestock might be able to one day incorporate such organelles in their own cells, reducing the need for food and the adverse environmental impacts of agriculture.",
+  "mechanism": "E. chlorotica slugs live in saltwater marshes along the East Coast of North America. After hatching from an egg, one will float around in the brackish water for three weeks or so. Then, when it encounters a patch of the alga Vaucheria litorea , it stops floating and starts feeding instead. But this isn’t any old meal.\n\nRather than chomp down on the entire alga, the slug punctures the cell with its radular tooth, and sucks out the juicy insides. In the process, it extracts the algae’s sunlight-trapping organelles, known as chloroplasts. The cells of the slug’s digestive tract then engulf the chloroplasts, carrying them into their insides. Even though they are no longer associated with their native organism, the chloroplasts continue to capture the energy of the sun. The slug then uses the resulting fixed carbon and energy to power its own cellular processes.\n\nAfter harvesting chloroplasts in this way for a week or so, the now bright-green slug has adopted enough of the organelles that it can go the rest of its life—nine months or more—without needing to consume any more food.\n\nAfter harvesting chloroplasts in this way for a week or so, the now bright-green slug has adopted enough of the organelles that it can go the rest of its life—nine months or more—without needing to consume any more food. But it’s not only about energy. The green color of the chloroplasts also helps the slug blend into the green algal bed and avoid predators. And if a predator does attack, the slug is protected by a mucus layer and chemical defenses built in part from the carbon byproducts produced by the chloroplasts.\n\nIt’s not easy being green: In order to reap the benefits of the chloroplasts, the slug needs to be able to position them near the surface of its body where sunlight can reach them. It needs to be able to produce any proteins the chloroplasts need to replace those that break or wear out. And it needs to avoid launching an immune reaction against the foreign bodies while still being able to protect itself against real invaders. Scientists are still trying to figure out exactly how E. chlorotica is able to accomplish all of this.\n\nThe ability to redirect the output of plants’ photosynthetic machinery could be applied to developing new approaches to capturing solar energy for human use. It raises the question of whether humans and/or livestock might be able to one day incorporate such organelles in their own cells, reducing the need for food and the adverse environmental impacts of agriculture.",
   "function_addressed": [
     "capture, absorb, or filter organisms",
     "capture, absorb, or filter energy",
@@ -11,11 +10,18 @@
     "maintain homeostasis",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "protect-from-living-threats::animals",
+    "regulate-physiological-processes::cellular-processes",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "protect-from-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/skin-incorporates-chloroplasts/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sea",
     "slugs",
@@ -23,7 +29,5 @@
     "sunlight",
     "food"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-shivering-muscles-produce-heat",
   "organism_common": "Bumblebee",
-  "organism_scientific": "",
   "strategy_summary": "The thoracic flight muscles of Arctic bumblebees generate heat by shivering. “The major cold weather adaptations of bumblebees in general, and of the arctic bees in particular, however, are the mechanisms that allow them to raise their body temperatures and to be active when the weather forces other insects into a…",
   "mechanism": "The thoracic flight muscles of Arctic bumblebees generate heat by shivering.\n\n“The major cold weather adaptations of bumblebees in general, and of the arctic bees in particular, however, are the mechanisms that allow them to raise their body temperatures and to be active when the weather forces other insects into a deep torpor. The shivering of their flight muscles generates heat in the thorax up to 60 degrees F above the air temperature. Like all other bumblebees so far investigated, arctic bumblebees require a flight muscle temperature of at least 86 degrees F in order to fly. But flight is clumsy at such muscle temperatures, and fast-flying bees need to heat up to at least 95 degrees F. Being able to shiver, to heat up, and to fly so early in the season means being able to go out and bring back nectar and pollen to the colony. This allows colonies to grow during the cold nights as well as during the days.” (Heinrich 1990:52)",
   "function_addressed": [
     "transform mechanical energy",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature",
+    "transform-convert-energy::mechanical-energy"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/shivering-muscles-produce-heat/",
-  "source_tier": "science_journalism",
   "keywords": [
     "shivering",
     "muscles",
     "produce",
     "heat"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

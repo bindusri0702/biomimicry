@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-branches-protect-by-breaking",
   "organism_common": "Staghorn coral",
-  "organism_scientific": "",
   "strategy_summary": "Branches of Caribbean stony coral protect the core colony by programmed breakage. “The Caribbean stony coral Acropora cervicornis forms long, slim branches (a stress increasing shape) supported by brittle skeletal material.",
   "mechanism": "Branches of Caribbean stony coral protect the core colony by programmed breakage.\n\n“The Caribbean stony coral Acropora cervicornis forms long, slim branches (a stress increasing shape) supported by brittle skeletal material. We can predict that these corals would break in rapid water flow, yet we find that they thrive on wave-swept forereefs. A. cervicornis do often break, but the broken-off pieces survive and grow. Such ‘programmed breakage’ and growth appears to be the main mechanism of asexual reproduction and dispersal of A. cervicornis colonies…Furthermore, when bits of an organism or colony break off, the flow forces on the whole structure can be reduced, hence partial breakage can prevent total destruction.” (Koehl 1984:67)",
   "function_addressed": [
     "manage turbulence"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::turbulence"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/branches-protect-by-breaking/",
-  "source_tier": "science_journalism",
   "keywords": [
     "branches",
     "protect",
     "breaking"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-fibers-reinforce-hydrostatic-structures",
   "organism_common": "Common to all organisms",
-  "organism_scientific": "",
   "strategy_summary": "In the natural world, many organisms rely on water-filled structures to provide support and maintain their shape. These structures, called hydrostatic skeletons (or hydroskeletons), are found in a wide range of plants and animals.",
-  "mechanism": "At the heart of the hydrostatic skeleton’s function is the combination of internal pressure and helical fiber reinforcement. In many organisms, such as worms and squids, muscles contract against the fluid-filled cavity, generating pressure that helps the body maintain its shape. The surrounding fibers are arranged in a helical pattern, wrapping around the pressurized core like the fibers of a woven basket or a coiled spring. This helical structure is not unique to a single species or group; it appears in various life forms across plants and animals.\n\nIn plants, the young stems of herbaceous species like sunflowers have internal water pressure that allows them to remain upright without woody tissue. Helically arranged fibers in their stems reinforce the plant, preventing the stem from buckling or collapsing under pressure. This arrangement is also put to prominent use in the body walls of various soft-bodied animals, such as flatworms, roundworms, and mollusks.\n\nThe common thread in all these systems is the arrangement of fibers in a helical pattern. This configuration offers both flexibility and strength, as it allows the structure to resist deformation when pressure is applied. The variation in materials—collagen in animals, cellulose in plants—demonstrates how different organisms achieve similar mechanical outcomes using the resources available to them.\n\nThe helical fiber arrangement found in natural hydrostatic skeletons offers promising insights for human engineering and design. For example, soft robotics could benefit from mimicking these structures to create flexible, pressure-resistant bodies that can adapt to changing environments. Medical devices, such as stents or soft prosthetics, could use helical fiber reinforcement to maintain shape and function without relying on rigid structures, providing comfort and durability.\n\nIn architecture and structural engineering, applying the principles of helical reinforcement could lead to more flexible and resilient materials that withstand internal and external pressures. Sustainable design strategies could draw inspiration from the way these natural systems use available materials, avoiding reliance on toxic substances or energy-intensive processes. By studying the ubiquitous yet elegant design of hydrostatic skeletons, humans can create innovative, sustainable technologies that harmonize with nature’s principles.",
+  "mechanism": "At the heart of the hydrostatic skeleton’s function is the combination of internal pressure and helical fiber reinforcement. In many organisms, such as worms and squids, muscles contract against the fluid-filled cavity, generating pressure that helps the body maintain its shape. The surrounding fibers are arranged in a helical pattern, wrapping around the pressurized core like the fibers of a woven basket or a coiled spring. This helical structure is not unique to a single species or group; it appears in various life forms across plants and animals.\n\nIn plants, the young stems of herbaceous species like sunflowers have internal water pressure that allows them to remain upright without woody tissue. Helically arranged fibers in their stems reinforce the plant, preventing the stem from buckling or collapsing under pressure. This arrangement is also put to prominent use in the body walls of various soft-bodied animals, such as flatworms, roundworms, and mollusks.\n\nThe common thread in all these systems is the arrangement of fibers in a helical pattern. This configuration offers both flexibility and strength, as it allows the structure to resist deformation when pressure is applied. The variation in materials—collagen in animals, cellulose in plants—demonstrates how different organisms achieve similar mechanical outcomes using the resources available to them.\n\nThe helical fiber arrangement found in natural hydrostatic skeletons offers promising insights for human engineering and design. For example, soft robotics could benefit from mimicking these structures to create flexible, pressure-resistant bodies that can adapt to changing environments. Medical devices, such as stents or soft prosthetics, could use helical fiber reinforcement to maintain shape and function without relying on rigid structures, providing comfort and durability.\n\nIn architecture and structural engineering, applying the principles of helical reinforcement could lead to more flexible and resilient materials that withstand internal and external pressures. Sustainable design strategies could draw inspiration from the way these natural systems use available materials, avoiding reliance on toxic substances or energy-intensive processes. By studying the ubiquitous yet elegant design of hydrostatic skeletons, humans can create innovative, sustainable technologies that harmonize with nature’s principles.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "manage compression"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/fibers-reinforce-hydrostatic-structures/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fibers",
     "reinforce",
     "hydrostatic",
     "structures"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

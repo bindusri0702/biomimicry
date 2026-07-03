@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-dolphins-learn-new-behaviors-from-their-peers",
   "organism_common": "Bottlenose dolphin",
-  "organism_scientific": "",
   "strategy_summary": "Think of the last time you learned something from a friend. Was it a game?",
-  "mechanism": "The hip new foraging technique is called “shelling.” A dolphin chases a fish into a large shell (such as that of a sea snail), carries the shell up to the surface of the water using its snout, or rostrum, then dumps the water out of the shell in such a way that the fish falls right into the dolphin’s open mouth. This is only the second reported case of tool usage in dolphins. The other technique, called “sponging,” is where a dolphin carries a sea sponge on the tip of its rostrum and uses it to sift through rocks and broken coral on the seafloor. The poking and prodding stirs up fish that normally hide amongst the sediments and debris, and the sponge, worn like a protective glove, prevents the dolphins’ rostra from being scraped up in the process. Interestingly, knowledge of the sponging technique tends to be passed on consistently from mother to child. Statistical analysis of shelling, on the other hand, indicated that an estimated 57% of dolphins learned the technique through “social transmission,” from peers or older non-parent individuals.\n\nA dispersed approach to information sharing could have many applications for human activity. Encouraging students’ ability to help teach each other could create more dynamic or efficient educational systems especially in communities with fewer adult teachers available. This approach also has implications for designing faster, more resilient, or more responsive computer systems and networks.",
+  "mechanism": "The hip new foraging technique is called “shelling.” A dolphin chases a fish into a large shell (such as that of a sea snail), carries the shell up to the surface of the water using its snout, or rostrum, then dumps the water out of the shell in such a way that the fish falls right into the dolphin’s open mouth. This is only the second reported case of tool usage in dolphins. The other technique, called “sponging,” is where a dolphin carries a sea sponge on the tip of its rostrum and uses it to sift through rocks and broken coral on the seafloor. The poking and prodding stirs up fish that normally hide amongst the sediments and debris, and the sponge, worn like a protective glove, prevents the dolphins’ rostra from being scraped up in the process. Interestingly, knowledge of the sponging technique tends to be passed on consistently from mother to child. Statistical analysis of shelling, on the other hand, indicated that an estimated 57% of dolphins learned the technique through “social transmission,” from peers or older non-parent individuals.\n\nWhen environmental conditions are stable, animals will rely on the wisdom of their parents or other elders in their group. When there is rapid environmental change, however, it may carry more of an advantage to become more experimental.\n\nBiologists have theorized that when environmental conditions are stable, animals will rely on the wisdom of their parents or other elders in their group. This is a safe bet, since older generations have more experience, and have had time to test out various behaviors. When there is rapid environmental change, however, it may carry more of an advantage to become more experimental, since the elders’ techniques may be outdated given the new circumstances.\n\nThe shelling behavior and social learning of bottlenose dolphins provides support for this theory. In 2011 there was a severe marine heatwave that caused catastrophic ecological damage in Shark Bay, the home of these bottlenose dolphins, and scientists saw a marked increase in shelling behavior in the years after.\n\nA dispersed approach to information sharing could have many applications for human activity. Encouraging students’ ability to help teach each other could create more dynamic or efficient educational systems especially in communities with fewer adult teachers available. This approach also has implications for designing faster, more resilient, or more responsive computer systems and networks.\n\n[mwai_chatbot_v2]",
   "function_addressed": [
     "learn",
     "cooperate within the same species",
@@ -11,11 +10,20 @@
     "protect from dirt/solids",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-behaviors",
+    "cooperate-compete::within-the-same-species",
+    "learn::learn",
+    "protect-from-non-living-threats::dirt-solids"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "capture-absorb-or-filter",
+    "cooperate-compete",
+    "learn",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/dolphins-learn-new-behaviors-from-their-peers/",
-  "source_tier": "science_journalism",
   "keywords": [
     "peer-to-peer",
     "learning",
@@ -23,7 +31,5 @@
     "innovations",
     "rapidly"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

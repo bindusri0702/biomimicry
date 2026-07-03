@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-proteins-facilitate-iron-iii-reduction",
   "organism_common": "Shewanella",
-  "organism_scientific": "",
   "strategy_summary": "The cell membranes of Shewanella bacteria living in oxygen-free environments allow minerals to do the electro-chemical work of oxygen via a series of membrane-bound iron-reducing proteins. Organisms need to break down (oxidize) their food in order to obtain energy and/or the building blocks required for cellular…",
   "mechanism": "The cell membranes of Shewanella bacteria living in oxygen-free environments allow minerals to do the electro-chemical work of oxygen via a series of membrane-bound iron-reducing proteins.\n\nOrganisms need to break down (oxidize) their food in order to obtain energy and/or the building blocks required for cellular processes such as building muscle. Oxygen was long believed to be the only oxidizing agent that would allow an organism to efficiently metabolize nutrients. Certain bacteria, like Shewenella, that live in oxygen-free environments have instead evolved the ability to use minerals as oxidizers for metabolism instead of oxygen. In fact, they can do this while the insoluble mineral remains outside the cell.\n\nLike many processes in nature, oxidation leverages a balance between opposing forces, which in this case, is the taking and giving up of electrons — the substance being oxidized gives up one or more electrons that are, in turn, taken up by the oxidizing agent (a substance that has accepted electrons is said to be “reduced”). Chemically speaking, all participants are satisfied in the end. But in order for the exchange of electrons to occur, there has to be a pathway for them to flow between the oxidizing agent and the substance being oxidized, just like a cord acts as a pathway for the electrons-in-waiting in an electric socket to reach a light bulb in a lamp. Most organisms, including humans, bring the oxidizing agent (the oxygen we inhale) and the substance to be oxidized (the nutrients in the food we consume) together inside our cells to facilitate the oxidation-reduction (redox) reaction. Remarkably, rather than “inhaling” iron oxide, Shewenella passes the electrons along a series of proteins that extend from inside the cell, through the inner and outer cellular membranes and into the space outside the cell where the electrons are taken up by the insoluble metal mineral thereby completing the redox reaction.",
   "function_addressed": [
@@ -9,11 +8,16 @@
     "modify oxidation state",
     "modify electron transport"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-chemical-electrical-state::electron-transport",
+    "modify-chemical-electrical-state::oxidation-state",
+    "transform-convert-energy::chemically-generate-flow-of-electrons"
+  ],
+  "subgroup_keys": [
+    "modify-chemical-electrical-state",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/proteins-facilitate-iron-iii-reduction/",
-  "source_tier": "science_journalism",
   "keywords": [
     "proteins",
     "facilitate",
@@ -21,7 +25,5 @@
     "iii",
     "reduction"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

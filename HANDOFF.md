@@ -17,8 +17,8 @@ The full four-stage spiral runs end-to-end, offline-deterministic by default:
   human gate after every stage (`interrupt()`), `MemorySaver` checkpointer.
 - **LLM** via LiteLLM ([llm.py](llm.py)) — `gemini/gemini-2.5-flash` default; deterministic
   offline stub auto-engages with no API key.
-- **Offline RAG** ([retrieval/](retrieval/)) — pluggable `Retriever` factory, pure-python
-  BM25 backend, embedding backend (untested), corpus loader + **4 synthetic seed docs**.
+- **Weaviate RAG** ([retrieval/](retrieval/)) — `Retriever` factory + `WeaviateRetriever`
+  (BGE-M3 vectors, function-filtered hybrid search), corpus loader + ingest/build scripts.
 - **All evaluation metrics** per stage ([metrics.py](metrics.py)); bio→neutral
   [lexicon.py](lexicon.py); citation ledger + spiral log.
 - Demo driver ([demo.py](demo.py)) resolves all gates; programmatic override runs with
@@ -46,7 +46,7 @@ The full four-stage spiral runs end-to-end, offline-deterministic by default:
 |---|------|-------|---------------------|
 | P1-1 | **LiveRetriever.** Online retrieval behind the existing factory: httpx + AskNature fetch/parse, OpenAlex/Semantic Scholar/Crossref for scholarly (NOT Scholar scraping), EurekAlert/ScienceDaily RSS; write results into the corpus cache. Domain→tier rubric for `credibility_screener`. | new `retrieval/live.py`; `retrieval/base.py` `get_retriever()` | `BIOMIMICRY_RETRIEVAL=live` retrieves real strategies; node code unchanged; results cached and re-used. |
 | P1-2 | **Backward transitions / Revision Reasoner.** Router honors `revision_request` but **no node sets it and no stage clears it → infinite-loop risk**. Add logic to raise a revision (e.g., Discover finds nothing relevant → revise Biologize) and have the target stage clear `revision_request`. | [orchestrator.py](orchestrator.py); each `stages/*.py` finalize | A seeded `revision_request` routes backward exactly once, the target clears it, the spiral then proceeds forward; logged in `spiral_log`. |
-| P1-3 | **EmbeddingRetriever: validate + persist.** Implemented but never run; recomputes doc vectors every init. Add a persisted vector cache and test cosine ranking parity with BM25. | [retrieval/embedding.py](retrieval/embedding.py) | With a key + `BIOMIMICRY_RETRIEVAL=embedding`, retrieval ranks sensibly; vectors cached to disk, not recomputed. |
+| P1-3 | _Resolved._ Retrieval is now served exclusively by `WeaviateRetriever` (BGE-M3 hybrid search); the BM25 lexical and LiteLLM embedding backends were removed. | [retrieval/weaviate_store.py](retrieval/weaviate_store.py) | — |
 | P1-4 | **Challenge Brief persistence.** No save/load. Persist the final brief + `citation_ledger` + `spiral_log` to JSON; support resuming/inspecting a run. | new `persistence.py` or in `demo.py` | A completed run writes a single brief JSON; reloading reproduces the delivered strategies + full provenance. |
 | P1-5 | **LLM robustness.** `complete_json` has a parse fallback but no retry on malformed JSON / rate limits / transient errors. Add bounded retry + backoff (LiteLLM supports it) and a schema re-ask. | [llm.py](llm.py) | Inject a malformed response → one retry recovers; rate-limit error backs off rather than crashing the spiral. |
 
@@ -85,7 +85,7 @@ deterministic). Any non-determinism is a bug (unsorted set emitted, `Date.now`-s
 
 ### L3 — Unit tests (to be written, P0-4)
 Target coverage:
-- **Retriever** ([retrieval/lexical.py](retrieval/lexical.py)): cooling query ranks termite/silver-ant > lotus; water query ranks lotus top; empty query → `[]`.
+- **Retriever** ([retrieval/weaviate_store.py](retrieval/weaviate_store.py)): function-filtered hybrid search returns relevant strategies; filter relaxation (leaf → sub-group → unfiltered) fires when a filtered query underflows; empty query handled.
 - **Corpus** ([retrieval/corpus.py](retrieval/corpus.py)): valid docs load; a malformed doc raises with its path; bad `scale`/`source_tier`/`provenance` rejected; duplicate `doc_id` rejected.
 - **Lexicon** ([lexicon.py](lexicon.py)): `neutralize` replaces multi-word before single-word; `detect_jargon` flags organism tokens but not `GENERIC_DESCRIPTORS` ("water"/"silver").
 - **Metrics** ([metrics.py](metrics.py)): each `*_metrics` handles empty input (no divide-by-zero); `_simpson`, `mechanism_completeness`, novelty penalty correct.
@@ -168,7 +168,7 @@ pip install -r biomimicry/requirements.txt
 python -m biomimicry.demo                 # offline, deterministic — see the whole spiral
 python -m biomimicry.demo --interactive    # drive the human gates yourself
 ```
-- Add corpus docs: drop `*.json` into `retrieval/corpus/` (schema = `StrategyDoc`); they load automatically.
-- Go online: `export GEMINI_API_KEY=...; export BIOMIMICRY_OFFLINE=0` (and `BIOMIMICRY_RETRIEVAL=embedding` for semantic retrieval).
-- Tunables (models, tiers, BM25 params, ranker weights, thresholds) live in [config.py](config.py).
+- Add corpus docs: drop `*.json` into `retrieval/corpus/` (schema = `StrategyDoc`), then re-run `retrieval/build_weaviate.py` to ingest + embed them into the Weaviate collection.
+- Retrieval needs `WEAVIATE_URL` + `WEAVIATE_API_KEY` (and `GEMINI_API_KEY` for the LLM) in `biomimicry/.env`.
+- Tunables (models, tiers, Weaviate search mode / hybrid alpha / filter level, ranker weights, thresholds) live in [config.py](config.py).
 - To add/extend a stage, mirror an existing `stages/*.py`: nodes → `build_<stage>_subgraph()` (compile **without** a checkpointer) → wire in [orchestrator.py](orchestrator.py).

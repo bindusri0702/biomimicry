@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-communities-prevent-asbestos-dispersion",
   "organism_common": "Plant/lichen community",
-  "organism_scientific": "",
   "strategy_summary": "Communities of plants and lichens limit dispersion of asbestos mine fibers by spontaneous colonization due to xerophytism, metal tolerance, and pioneerism. “Plant and lichen phytosociological studies describe the different dynamic stages of colonization.",
-  "mechanism": "Communities of plants and lichens limit dispersion of asbestos mine fibers by spontaneous colonization due to xerophytism, metal tolerance, and pioneerism.\n\n“Plant and lichen phytosociological studies describe the different dynamic stages of colonization. This approach has been applied to the Balangero asbestos mine, the most important of Western Europe up to 1990, which is a potential source for the air-dispersion of carcinogenic fibres. Vegetation relevés and maps have shown that plants and lichens develop spontaneously on the asbestos-rich substrates. Early colonization stages with low-covering hyperaccumulators, such as Thlaspi sylvium and Minuartia laricifolia , and with Thymus alpestris and T. cfr. humifusus , are followed, some decades later, by mature plant communities, which completely cover the asbestos-rich debris, thereby limiting the dispersion of fibres. Lichen colonization, even when limited to low covering early stages with pioneer crustose species, such as Scoliciosporum umbrinum and Candelariella vitellina , and young foliose thalli of Xanthoparmelia tinctina , is important whenever asbestos veins are exposed on serpentinite blocks and walls. Plants and lichens can be considered as bioattenuation (spontaneous bioremediation) agents in ecological recovery.” (Favero-Longo et al. 2006:190)",
+  "mechanism": "Communities of plants and lichens limit dispersion of asbestos mine fibers by spontaneous colonization due to xerophytism, metal tolerance, and pioneerism.\n\n“Plant and lichen phytosociological studies describe the different dynamic stages of colonization. This approach has been applied to the Balangero asbestos mine, the most important of Western Europe up to 1990, which is a potential source for the air-dispersion of carcinogenic fibres. Vegetation relevés and maps have shown that plants and lichens develop spontaneously on the asbestos-rich substrates. Early colonization stages with low-covering hyperaccumulators, such as Thlaspi sylvium and Minuartia laricifolia, and with Thymus alpestris and T. cfr. humifusus, are followed, some decades later, by mature plant communities, which completely cover the asbestos-rich debris, thereby limiting the dispersion of fibres. Lichen colonization, even when limited to low covering early stages with pioneer crustose species, such as Scoliciosporum umbrinum and Candelariella vitellina, and young foliose thalli of Xanthoparmelia tinctina, is important whenever asbestos veins are exposed on serpentinite blocks and walls. Plants and lichens can be considered as bioattenuation (spontaneous bioremediation) agents in ecological recovery.” (Favero-Longo et al. 2006:190)",
   "function_addressed": [
     "detoxification/purification of air/water/waste"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::detoxification-purification-of-air-water-waste"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/communities-prevent-asbestos-dispersion/",
-  "source_tier": "science_journalism",
   "keywords": [
     "communities",
     "prevent",
     "asbestos",
     "dispersion"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

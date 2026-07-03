@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-inner-ear-cells-convert-sound-signal-to-electrical-current",
   "organism_common": "Vertebrates (Mammals, Fish, Birds, Reptiles)",
-  "organism_scientific": "",
   "strategy_summary": "Ion channels in inner-ear receptor cells switch electrical conductivity depending on lateral deflection of the sensors where they are located. Used with permission from the Wellcome Trust, http://images.wellcome.ac.uk.",
   "mechanism": "Ion channels in inner-ear receptor cells switch electrical conductivity depending on lateral deflection of the sensors where they are located.\n\nUsed with permission from the Wellcome Trust, http://images.wellcome.ac.uk. License: UK CC-NC-ND 2.0. No cropping is allowed. Colour-enhanced, close-up image of stereocilia on the outer hair cells of the cochlea. When the stereocilia are deflected by sound, the fine tip links that connect them are stretched. This causes ion channels to open allowing potassium and calcium ions to flow into the cell. This in turn sets off nerve signals that carry the sound information to the brain. If the tip links fail to function properly, sound signals will not be transferred to the brain and deafness will result. Conversely, if the ion channels remain open, signals will be constantly flowing to the brain. This may help to explain tinnitus. Scanning electron microscope.\n\nScheme of a mammalian cochlear inner hair cell. Experimental results indicate that there are only one or two transduction channels close to the tip of each stereocilium. K+ influx through open transduction channels causes depolarization inside the hair cell, repolarization occurs then because of K+ outflux through the lateral cell body membrane. Reprinted with permission from Rattay, F, Gebeshuber, IC; Gitter AH. The mammalian auditory hair cell: a simple electric circuit model. Journal of the Acoustical Society of America. 103(3): 1558-1565, 1998.. Copyright [1998], Acoustical Society of America.\n\n“In vertebrates, hair cells are found in all peripheral structures used in hearing and balance. They play the key role in the mechano-electrical transduction mechanism. Inner hair cells (IHC) and outer hair cells (OHC) are found in the mammalian cochlea. Figure 1 [available in Gallery] schematically illustrates a typical inner hair cell. The apical part of the cell including the hairs (stereocilia) enters the endolymphatic fluid, which is characterized by its high electrical potential and its high K+-ion concentration. The stereocilia of one hair cell are connected through tip links and lateral links. The transmembrane voltage of 270 mV for OHC and 240 mV for IHC is mainly caused by the K+-ion concentration gradient between cell body and cortilymph. Current influx that changes the receptor potential occurs mainly through the transduction channels of the stereocilia: stereociliary displacement to the lateral side of the cochlea causes an increase of transduction channel open probability and hence depolarization of the receptor potential, whereas stereociliary displacement to the medial side results in a decrease of the transduction channel open probability and hence hyperpolarization.” (Rattay et al. 1998:1558)",
   "function_addressed": [
     "modify conductivity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-chemical-electrical-state::conductivity"
+  ],
+  "subgroup_keys": [
+    "modify-chemical-electrical-state"
+  ],
   "source_url": "https://asknature.org/strategy/inner-ear-cells-convert-sound-signal-to-electrical-current/",
-  "source_tier": "science_journalism",
   "keywords": [
     "inner-ear",
     "cells",
@@ -20,7 +21,5 @@
     "signal",
     "electrical"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

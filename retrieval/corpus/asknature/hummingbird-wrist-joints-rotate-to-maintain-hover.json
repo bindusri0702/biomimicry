@@ -1,20 +1,25 @@
 {
   "doc_id": "asn-hummingbird-wrist-joints-rotate-to-maintain-hover",
   "organism_common": "Hummingbirds",
-  "organism_scientific": "",
   "strategy_summary": "The hummingbird ( Apodiformes ) is able to drink the nectar of flowers while steadily hovering in mid air by flapping its wings over 80 times per second. Hummingbirds are able to achieve this amazing feat by moving the air around their wings more efficiently than other birds.",
-  "mechanism": "Birds are able to fly by flapping their wings up and down, which creates ‘lift.’ This is because the shape of the wing creates a lower pressure above and a higher pressure below, ‘lifting’ the bird upwards. When birds flap their wings, the downstroke creates the lift, while the upstroke prepares the bird for the next downstroke. Insects, on the other hand, are able to use both their upstroke and downstroke to create lift because they are able to twist their wings at their flexible joints, which increases their aerodynamic efficiency. Most birds are unable to do this because their muscle and skeletal joints are configured to allow a repeatable back and forth motion. However, similar to the insect, the hummingbird is able to rotate its wings back to front at the wrist joint to create lift during both the downward and upward stroke. The hummingbird is able to maintain its hover due to the constant lift force created.\n\nUnlike birds flapping their wings to generate lift, when humans fly, we typically burn fossil fuels in combustion engines to provide the force needed. Understanding how hummingbirds achieve such efficient flight may improve how we navigate the skies, possibly leading to designs that need far less energy than current technologies. Hummingbird flight might inspire a new wave of highly efficient unmanned drone aircraft, improving our ability to use them to accomplish hazardous tasks like inspecting power lines.",
+  "mechanism": "Birds are able to fly by flapping their wings up and down, which creates ‘lift.’ This is because the shape of the wing creates a lower pressure above and a higher pressure below, ‘lifting’ the bird upwards. When birds flap their wings, the downstroke creates the lift, while the upstroke prepares the bird for the next downstroke. Insects, on the other hand, are able to use both their upstroke and downstroke to create lift because they are able to twist their wings at their flexible joints, which increases their aerodynamic efficiency. Most birds are unable to do this because their muscle and skeletal joints are configured to allow a repeatable back and forth motion. However, similar to the insect, the hummingbird is able to rotate its wings back to front at the wrist joint to create lift during both the downward and upward stroke. The hummingbird is able to maintain its hover due to the constant lift force created.\n\nHummingbird Flight : Learn how scientists discovered hummingbirds’ unique wrist-joint action.\n\nThe rotation in the wrist joint of the hummingbird can be compared to the human wrist controlling a kayak paddle. When a kayaker moves forward, they rotate their wrists so that the paddle is tilted forward and down to push the water backwards. If the kayaker wants to stay in one place, they will rotate the paddle to push the water forwards and continuously alternate the strokes. The physical mechanism in the hummingbird is the rotation at the wrist, similar to the kayakers ability to adjust the paddle and stay in one place.\n\nUnlike birds flapping their wings to generate lift, when humans fly, we typically burn fossil fuels in combustion engines to provide the force needed. Understanding how hummingbirds achieve such efficient flight may improve how we navigate the skies, possibly leading to designs that need far less energy than current technologies. Hummingbird flight might inspire a new wave of highly efficient unmanned drone aircraft, improving our ability to use them to accomplish hazardous tasks like inspecting power lines.",
   "function_addressed": [
     "modify position",
     "modify speed",
     "modify buoyancy",
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::buoyancy",
+    "modify-physical-state::position",
+    "modify-physical-state::speed",
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/hummingbird-wrist-joints-rotate-to-maintain-hover/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hummingbird",
     "wrist",
@@ -23,7 +28,5 @@
     "maintain",
     "hover"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

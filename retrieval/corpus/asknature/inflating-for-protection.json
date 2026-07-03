@@ -1,23 +1,24 @@
 {
   "doc_id": "asn-inflating-for-protection",
   "organism_common": "Porcupine fish",
-  "organism_scientific": "",
   "strategy_summary": "The skin of a porcupine fish protects from predators via embedded spines that erect when the fish inflates using sips of water. “Another responsive packaging idea comes from porcupine fish.",
   "mechanism": "The skin of a porcupine fish protects from predators via embedded spines that erect when the fish inflates using sips of water.\n\n“Another responsive packaging idea comes from porcupine fish. Their spines are set into the skin, erecting only when the fish is threatened. To trigger the inflation, they sip tiny gulps of water. A package that started to fall might be induced to puff up in the same way with air, bouncing on spines when it hit the ground.” (Biomimicry Guild unpublished report)\n\nUniversity of Colorado Boulder\n\nPufferBot from the University of Colorado Boulder has a protective shield that prevents dangerous collisions.",
   "function_addressed": [
     "protect from animals",
     "modify size/shape/mass/volume"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::size-shape-mass-volume",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/inflating-for-protection/",
-  "source_tier": "science_journalism",
   "keywords": [
     "inflating",
     "protection"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

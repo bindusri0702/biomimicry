@@ -1,24 +1,21 @@
 {
   "doc_id": "asn-venom-induces-paralysis-in-prey",
   "organism_common": "Cloth-of-gold cone",
-  "organism_scientific": "",
-  "strategy_summary": "Conus victoriae cone snails catch food by injecting a potent venom that renders prey paralyzed. Venom produced by the cone snail, Conus victoriae , contain proteins that induce paralysis in prey.",
-  "mechanism": "Conus victoriae cone snails catch food by injecting a potent venom that renders prey paralyzed.\n\nVenom produced by the cone snail, Conus victoriae , contain proteins that induce paralysis in prey. The conotoxin is more than two orders of magnitude more potent than the current leading drug for neuropathic pain. These toxins can be models for use as analgesics for treating neuropathic pain in humans at lower concentrations. Conventional analgesics have many downsides including their gradual loss of effectiveness, their potential for creating addiction and abuse, and their harmful side effects.\n\nListen to Podcast .\n\nWatch These Snails Stab and Swallow Fish Whole\n\nA Textile cone snail (Conus textile)\n\nUniversity of Utah\n\nInsulin from marine cone snail venom has a unique structure that enables it to more rapidly control blood sugar.",
+  "strategy_summary": "Conus victoriae cone snails catch food by injecting a potent venom that renders prey paralyzed. Venom produced by the cone snail, Conus victoriae, contain proteins that induce paralysis in prey.",
+  "mechanism": "Conus victoriae cone snails catch food by injecting a potent venom that renders prey paralyzed.\n\nVenom produced by the cone snail, Conus victoriae, contain proteins that induce paralysis in prey. The conotoxin is more than two orders of magnitude more potent than the current leading drug for neuropathic pain. These toxins can be models for use as analgesics for treating neuropathic pain in humans at lower concentrations. Conventional analgesics have many downsides including their gradual loss of effectiveness, their potential for creating addiction and abuse, and their harmful side effects.\n\nListen to Podcast.\n\nWatch These Snails Stab and Swallow Fish Whole\n\nA Textile cone snail (Conus textile)\n\nUniversity of Utah\n\nInsulin from marine cone snail venom has a unique structure that enables it to more rapidly control blood sugar.",
   "function_addressed": [
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/venom-induces-paralysis-in-prey/",
-  "source_tier": "science_journalism",
   "keywords": [
     "venom",
     "induces",
     "paralysis",
     "prey"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

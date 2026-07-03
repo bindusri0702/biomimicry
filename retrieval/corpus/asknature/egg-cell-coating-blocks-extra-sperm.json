@@ -1,20 +1,26 @@
 {
   "doc_id": "asn-egg-cell-coating-blocks-extra-sperm",
   "organism_common": "Mammals",
-  "organism_scientific": "",
   "strategy_summary": "Coat surrounding egg cell of mammals rapidly hardens to block extra sperm. In mammals, fertilization of the ovum (egg cell) by sperm usually occurs within the fallopian tube (the duct connecting the ovary to the uterus) of the female.",
-  "mechanism": "Coat surrounding egg cell of mammals rapidly hardens to block extra sperm.\n\nIn mammals, fertilization of the ovum (egg cell) by sperm usually occurs within the fallopian tube (the duct connecting the ovary to the uterus) of the female. The ovum and the sperm each contain half the DNA required to produce a viable embryo. When a sperm and ovum fuse, the resulting cell contains two copies of each chromosome. Polyspermy is the fusion of more than one sperm with a single ovum. When this happens, there are extra copies of all the chromosomes in the cell and the fertilized egg is usually not viable. In order to prevent this, mammalian egg cells undergo a rapid surface change called a cortical reaction following fertilization. The cortical reaction prevents other sperm from fusing.\n\nMammalian ova are covered in a thick coating that sperm must burrow through to reach the cell membrane. This, together with other large-scale anatomical features, slow sperm down, meaning only the strongest reach the egg, and in relatively small numbers. The first sperm to reach the membrane of the egg cell fuses with it, releasing its DNA payload along with signalling factors. One factor, an enzyme called PLCζ, is thought to be important for triggering the cortical reaction.\n\nPLCζ triggers the release of calcium ions from stores within the egg cell. The calcium washes through the cell to the membrane, where it triggers the release of cortical vesicles. Cortical vesicles are membrane-bound sacs containing a cocktail of reactive chemicals and enzymes. Once released into the space between the membrane and the coating, they simultaneously clip the tips of sperm receptors on the cell surface, preventing more sperm from binding, and crosslink the thick coating of the egg, setting it like concrete and making it impossible for late arrivals to burrow through.\n\nImage: LadyofHats / Public Domain - No restrictions toggle icon right arrow right arrow",
+  "mechanism": "Coat surrounding egg cell of mammals rapidly hardens to block extra sperm.\n\nIn mammals, fertilization of the ovum (egg cell) by sperm usually occurs within the fallopian tube (the duct connecting the ovary to the uterus) of the female. The ovum and the sperm each contain half the DNA required to produce a viable embryo. When a sperm and ovum fuse, the resulting cell contains two copies of each chromosome. Polyspermy is the fusion of more than one sperm with a single ovum. When this happens, there are extra copies of all the chromosomes in the cell and the fertilized egg is usually not viable. In order to prevent this, mammalian egg cells undergo a rapid surface change called a cortical reaction following fertilization. The cortical reaction prevents other sperm from fusing.\n\nMammalian ova are covered in a thick coating that sperm must burrow through to reach the cell membrane. This, together with other large-scale anatomical features, slow sperm down, meaning only the strongest reach the egg, and in relatively small numbers. The first sperm to reach the membrane of the egg cell fuses with it, releasing its DNA payload along with signalling factors. One factor, an enzyme called PLCζ, is thought to be important for triggering the cortical reaction.\n\nPLCζ triggers the release of calcium ions from stores within the egg cell. The calcium washes through the cell to the membrane, where it triggers the release of cortical vesicles. Cortical vesicles are membrane-bound sacs containing a cocktail of reactive chemicals and enzymes. Once released into the space between the membrane and the coating, they simultaneously clip the tips of sperm receptors on the cell surface, preventing more sperm from binding, and crosslink the thick coating of the egg, setting it like concrete and making it impossible for late arrivals to burrow through.",
   "function_addressed": [
     "modify material characteristics",
     "chemically break down polymers",
     "catalyze chemical breakdown",
     "regulate reproduction or growth"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::catalyze-breaking-of-bonds",
+    "chemically-break-down::polymers",
+    "modify-physical-state::material-characteristics",
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down",
+    "modify-physical-state",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/egg-cell-coating-blocks-extra-sperm/",
-  "source_tier": "science_journalism",
   "keywords": [
     "egg",
     "cell",
@@ -23,7 +29,5 @@
     "extra",
     "sperm"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

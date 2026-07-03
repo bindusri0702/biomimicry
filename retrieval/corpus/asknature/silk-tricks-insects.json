@@ -1,23 +1,20 @@
 {
   "doc_id": "asn-silk-tricks-insects",
   "organism_common": "Capture, Absorb, or Filter Organisms",
-  "organism_scientific": "",
   "strategy_summary": "The webs of some spiders trick and catch prey via UV-colored silk. “But while UV vision helps many species of insect, it can also be used to trick them.",
   "mechanism": "The webs of some spiders trick and catch prey via UV-colored silk.\n\n“But while UV vision helps many species of insect, it can also be used to trick them. Several species of spider, for example, include UV-colored sheets of silk in their webs, which insects mistake for nectar guides or for escape routes from dense vegetation, only to be lethally snared by the web’s sticky coating.” (Shuker 2001:21)",
   "function_addressed": [
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/silk-tricks-insects/",
-  "source_tier": "science_journalism",
   "keywords": [
     "silk",
     "tricks",
     "insects"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

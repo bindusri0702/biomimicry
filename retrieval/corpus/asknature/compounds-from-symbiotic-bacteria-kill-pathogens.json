@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-compounds-from-symbiotic-bacteria-kill-pathogens",
   "organism_common": "Eurasian hoopoe",
-  "organism_scientific": "",
   "strategy_summary": "The Eurasian hoopoe ( Upupa epops ), known for its striking feathers and unique crown, has a special way of keeping its plumage healthy. This bird, which lives in open woodlands, grasslands, and other habitats across Europe, Asia, and North Africa, faces threats from harmful bacteria that can break down its feathers.",
-  "mechanism": "The hoopoe’s uropygial gland contains bacteria called Enterococcus faecalis , which produce special compounds known as bacteriocins. These compounds are like natural antibiotics, and they work to kill harmful microbes such as Bacillus licheniformis . This harmful bacterium is common in the wild and produces an enzyme that breaks down keratin, the tough protein that makes up most of a feather. If left unchecked, B. licheniformis can weaken feathers, making it harder for birds to fly, stay warm, or attract mates.\n\nWhen a hoopoe preens itself, it spreads the oily secretion from its uropygial gland onto its feathers. This oil carries the bacteriocins, which attack the harmful bacteria by breaking open their cells, stopping them from producing the enzymes that degrade keratin. Laboratory experiments have shown that feathers treated with the hoopoe’s bacteria or their bacteriocins stay much healthier than untreated feathers exposed to B. licheniformis . The protection extends not only to the feathers but also to pure keratin, demonstrating the powerful effects of these natural chemicals.\n\nThis protective system is especially important during the nesting season, when hoopoes face a higher risk of infections. Females stay in the nest for long periods while incubating eggs, and the nest environment can become dirty and humid—conditions that encourage bacterial growth. By relying on their bacterial partners, hoopoes ensure their feathers stay intact, which is critical for their survival and their chicks’ development.\n\nThe hoopoe’s clever use of bacteria offers valuable lessons for humans. By studying how these natural bacteriocins work, scientists could develop new, eco-friendly ways to fight harmful microbes. For example, we could create safer alternatives to synthetic antibiotics, which often cause environmental harm. Industries like farming, textile preservation, and even medicine could benefit from treatments inspired by the hoopoe’s strategy, such as coatings to protect materials from bacterial damage or new ways to keep wounds clean and free of infection. The hoopoe’s partnership with bacteria shows how nature’s innovations can inspire solutions to some of our biggest challenges.",
+  "mechanism": "The hoopoe’s uropygial gland contains bacteria called Enterococcus faecalis , which produce special compounds known as bacteriocins. These compounds are like natural antibiotics, and they work to kill harmful microbes such as Bacillus licheniformis . This harmful bacterium is common in the wild and produces an enzyme that breaks down keratin, the tough protein that makes up most of a feather. If left unchecked, B. licheniformis can weaken feathers, making it harder for birds to fly, stay warm, or attract mates.\n\nWhen a hoopoe preens itself, it spreads the oily secretion from its uropygial gland onto its feathers. This oil carries the bacteriocins, which attack the harmful bacteria by breaking open their cells, stopping them from producing the enzymes that degrade keratin. Laboratory experiments have shown that feathers treated with the hoopoe’s bacteria or their bacteriocins stay much healthier than untreated feathers exposed to B. licheniformis . The protection extends not only to the feathers but also to pure keratin, demonstrating the powerful effects of these natural chemicals.\n\nThis protective system is especially important during the nesting season, when hoopoes face a higher risk of infections. Females stay in the nest for long periods while incubating eggs, and the nest environment can become dirty and humid—conditions that encourage bacterial growth. By relying on their bacterial partners, hoopoes ensure their feathers stay intact, which is critical for their survival and their chicks’ development.\n\nThe hoopoe’s clever use of bacteria offers valuable lessons for humans. By studying how these natural bacteriocins work, scientists could develop new, eco-friendly ways to fight harmful microbes. For example, we could create safer alternatives to synthetic antibiotics, which often cause environmental harm. Industries like farming, textile preservation, and even medicine could benefit from treatments inspired by the hoopoe’s strategy, such as coatings to protect materials from bacterial damage or new ways to keep wounds clean and free of infection. The hoopoe’s partnership with bacteria shows how nature’s innovations can inspire solutions to some of our biggest challenges.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "protect from microbes",
     "cooperate/compete between different species"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::between-different-species",
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/compounds-from-symbiotic-bacteria-kill-pathogens/",
-  "source_tier": "science_journalism",
   "keywords": [
     "compounds",
     "symbiotic",
@@ -20,7 +23,5 @@
     "kill",
     "pathogens"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

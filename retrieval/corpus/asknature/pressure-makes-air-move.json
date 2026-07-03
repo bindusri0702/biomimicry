@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-pressure-makes-air-move",
   "organism_common": "Black mangrove",
-  "organism_scientific": "",
   "strategy_summary": "Underwater roots of mangroves move air via changes in gas pressure. “Simple physical diffusion through the lenticels and along the aerenchyma is probably the main mode of gas movement in mangrove roots, but it may be supplemented by mass flow […] There is a more convincing interpretation of the observed pressure…",
   "mechanism": "Underwater roots of mangroves move air via changes in gas pressure.\n\n“Simple physical diffusion through the lenticels and along the aerenchyma is probably the main mode of gas movement in mangrove roots, but it may be supplemented by mass flow […] There is a more convincing interpretation of the observed pressure changes which provide a mechanism for the mass flow of air into a root to supplement diffusion. Lenticels are hydrophobic, so that while a root is covered by water they are in effect closed: neither air nor water can enter. Respiration removes oxygen from the air spaces and produces carbon dioxide. Because it is highly soluble in water, the carbon dioxide does not replace the volume of oxygen removed, and gas pressure within the root is therefore reduced. This is confirmed by direct measurement of gas composition in a submerged Avicennia root. After a root is covered by the tide, oxygen within it falls, carbon dioxide levels do not increase to compensate, and pressure falls. When the tide recedes and the lenticels are again open, air is sucked in (Scholander et al. 1955).” (Hogarth 1999:9-10)",
   "function_addressed": [
     "distribute gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::gases"
+  ],
+  "subgroup_keys": [
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/pressure-makes-air-move/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pressure",
     "makes",
     "air",
     "move"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

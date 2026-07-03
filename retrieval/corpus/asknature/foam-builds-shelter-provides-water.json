@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-foam-builds-shelter-provides-water",
   "organism_common": "Reinwardt's gliding frog",
-  "organism_scientific": "",
   "strategy_summary": "Nests of flying frogs protect eggs and tadpoles due to protective foam that dissolves to create an interior pool of water. “Japanese flying frogs ( Rhacophorus reinwardti ), for their part, produce their beautiful pneumatic foam houses by whipping up foam with their hind legs during copulation.",
   "mechanism": "Nests of flying frogs protect eggs and tadpoles due to protective foam that dissolves to create an interior pool of water.\n\n“Japanese flying frogs ( Rhacophorus reinwardti ), for their part, produce their beautiful pneumatic foam houses by whipping up foam with their hind legs during copulation. The water is gradually released from the foam of the nest wrapped inside plant leaves, and provides the young with an enclosed miniature pool. Finally the bottom of the foam nest breaks and the young frogs fall into water beneath their nesting branch.” (Pallasmaa 1995:22)",
   "function_addressed": [
     "modify size/shape/mass/volume",
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::size-shape-mass-volume",
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/foam-builds-shelter-provides-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "foam",
     "builds",
@@ -20,7 +23,5 @@
     "provides",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

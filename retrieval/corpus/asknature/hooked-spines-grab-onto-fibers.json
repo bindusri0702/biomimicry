@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-hooked-spines-grab-onto-fibers",
   "organism_common": "Lesser burdock",
-  "organism_scientific": "",
   "strategy_summary": "It’s happened to many of us: returning from a walk or a hike, we notice prickly seeds, or burrs, attached to our pants, our shoes, maybe even our dog’s fur. We pick them off and throw them on the ground, where they have the chance to grow into a whole new plant.",
-  "mechanism": "The fruit of lesser burdock is a round head about three-quarters of an inch (2 cm) wide, with purple petals, covered in long, flexible, spines that end in curved hooks. The spines and the petals form a globular casing around the seeds at the interior of the flower head.\n\nThe plant blooms between July and October, following the summer months of its original European habitat. As the seeds ripen, the flower dries, and the entire seed casing will separate easily from its stalk. The hooked spines attach easily to the skin, fur, or even feathers of passing animals, which then transport the seeds whither the animals wander. When eventually the animals rub the burrs off their coats, the seeds separate and disperse to the soil.\n\nBy falling along the paths of their animal hosts, the seeds are also more likely to be planted in soil that has been freshly manured, offering them higher odds of successfully germinating and growing into mature plants. Conversely, these hooks are so tenacious that birds, bats, and other small animals have found themselves caught by the hooked spines and unable to exert enough force to pull away from the plant.\n\nLesser burdock served as the inspiration and model for the invention of Velcro, which reproduces the attachment strategy by using two strips of fabric: one which resembles the spines with curved hooks, and one which resembles animal fur with thousands of tiny loops. When the two fabrics meet, they adhere to each other in a secure but removable manner, allowing them to be reused.\n\nGeorges de Mestral, a Swiss engineer, spent eight years attempting to replicate the plant’s adhesive powers after experiencing the seeds attach to his pants and his dog on a walk through the woods in 1941. Nearly a century later, the lesser burdock’s approach to adhesive hooks has improved human endeavors as commonplace as fastening a child’s shoes and as extraordinary as bracing equipment on the International Space Station.",
+  "mechanism": "The fruit of lesser burdock is a round head about three-quarters of an inch (2 cm) wide, with purple petals, covered in long, flexible, spines that end in curved hooks. The spines and the petals form a globular casing around the seeds at the interior of the flower head.\n\nThe plant blooms between July and October, following the summer months of its original European habitat. As the seeds ripen, the flower dries, and the entire seed casing will separate easily from its stalk. The hooked spines attach easily to the skin, fur, or even feathers of passing animals, which then transport the seeds whither the animals wander. When eventually the animals rub the burrs off their coats, the seeds separate and disperse to the soil.\n\nBy falling along the paths of their animal hosts, the seeds are also more likely to be planted in soil that has been freshly manured, offering them higher odds of successfully germinating and growing into mature plants. Conversely, these hooks are so tenacious that birds, bats, and other small animals have found themselves caught by the hooked spines and unable to exert enough force to pull away from the plant.\n\nThe hooked spines attach easily to the skin, fur, or even feathers of passing animals, which then transport the seeds whither the animals wander.\n\nLesser burdock served as the inspiration and model for the invention of Velcro, which reproduces the attachment strategy by using two strips of fabric: one which resembles the spines with curved hooks, and one which resembles animal fur with thousands of tiny loops. When the two fabrics meet, they adhere to each other in a secure but removable manner, allowing them to be reused.\n\nGeorges de Mestral, a Swiss engineer, spent eight years attempting to replicate the plant’s adhesive powers after experiencing the seeds attach to his pants and his dog on a walk through the woods in 1941. Nearly a century later, the lesser burdock’s approach to adhesive hooks has improved human endeavors as commonplace as fastening a child’s shoes and as extraordinary as bracing equipment on the International Space Station.",
   "function_addressed": [
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/hooked-spines-grab-onto-fibers/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hooked",
     "spines",
     "grab",
     "fibers"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

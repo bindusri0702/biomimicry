@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-signal-directs-sperm",
   "organism_common": "Ferns",
-  "organism_scientific": "",
   "strategy_summary": "The sperm of ferns detect unfertilized archegonia via a malate signal. “In higher plants, we find positive chemotaxis in fern sperms, which respond to a malate signal from unfertilized archegonia.” (Bar-Cohen 2006:474)  Bar-Cohen Y.",
   "mechanism": "The sperm of ferns detect unfertilized archegonia via a malate signal.\n\n“In higher plants, we find positive chemotaxis in fern sperms, which respond to a malate signal from unfertilized archegonia.” (Bar-Cohen 2006:474)\n\nBar-Cohen Y. Biomimetics: biologically inspired technologies. Bar-Cohen Y, editor. Boca Raton, FL: CRC/Taylor & Francis; 2006. 527 p.",
   "function_addressed": [
     "send chemical signals (odor, taste, etc.)",
     "sense chemicals (odor, taste, etc.) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::chemical-odor-taste-etc",
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "send-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/signal-directs-sperm/",
-  "source_tier": "science_journalism",
   "keywords": [
     "signal",
     "directs",
     "sperm"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

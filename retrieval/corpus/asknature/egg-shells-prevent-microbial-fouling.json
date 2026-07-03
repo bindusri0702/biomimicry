@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-egg-shells-prevent-microbial-fouling",
   "organism_common": "White rock shell",
-  "organism_scientific": "",
   "strategy_summary": "The eggs of the white rock shell snail ward off microbial attack with a series of physical, mechanical, and potentially chemical defenses  Multicellular marine organisms face a constant onslaught of microbes and other small organisms seeking structures upon which to adhere. Whether they are fungi, algae…",
   "mechanism": "The eggs of the white rock shell snail ward off microbial attack with a series of physical, mechanical, and potentially chemical defenses\n\nMulticellular marine organisms face a constant onslaught of microbes and other small organisms seeking structures upon which to adhere. Whether they are fungi, algae, biofilm-forming pathogens, or other lifeforms, they lead to biofouling on the surface of the larger organism that can cause serious complications. The white rock shell ( Dicathais orbita ), a type of sea snail, produces eggs with remarkable anti-fouling adaptations. In early stages of development, the exterior of the egg capsule is covered in uniform ridges separated by 1 – 5 microns. Unlike irregular nano-textures observed on the surfaces of eggs from other marine organisms, ridges that are regularly-spaced sufficiently close together are believed to minimize potential contact points for fouling organisms, making it harder for them to attach and settle. Over time, however, bacteria will attach and take root on the surface of the egg capsules. To combat this inevitable biofouling, later stage eggs shed their exterior crust completely to reveal a fresh layer underneath. After this shedding of the outer layer, lipophilic (lipid-loving) droplets are extruded from pores on the egg surface and seem to exert some kind of antiseptic effect. This series of anti-fouling steps keeps biofilms and parasitic microbes from harming the egg until it is developed enough to hatch.",
   "function_addressed": [
     "protect from plants",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes",
+    "protect-from-living-threats::plants"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/egg-shells-prevent-microbial-fouling/",
-  "source_tier": "science_journalism",
   "keywords": [
     "egg",
     "shells",
@@ -20,7 +22,5 @@
     "microbial",
     "fouling"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

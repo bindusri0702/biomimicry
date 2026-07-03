@@ -1,26 +1,27 @@
 {
   "doc_id": "asn-ridged-surfaces-resist-biofouling",
   "organism_common": "Common mussel",
-  "organism_scientific": "",
   "strategy_summary": "Ridged surfaces on mussel shells resist biofouling by disrupting attachment. Man-made surfaces that spend extended periods of time submerged in marine waters (like ship hulls) frequently become fouled with attached organisms looking for a place to settle.",
-  "mechanism": "Ridged surfaces on mussel shells resist biofouling by disrupting attachment.\n\nMan-made surfaces that spend extended periods of time submerged in marine waters (like ship hulls) frequently become fouled with attached organisms looking for a place to settle. In contrast, the surfaces of many marine organisms stay relatively clean in the same waters. One such example are intertidal mussels ( Mytilus edulis and M. galloprovincialis ), and biologists think their anti-fouling ability comes in part from the structure of a special external layer on their shells.\n\nThe outer layer of the mussels’ shells, the periostracum, is a strong but pliable material mainly composed of protein , which protects them from predators that might bore into their shells. The periostracum also appears to protect the mussel from smaller settling organisms. The shell’s surface topography consists of a repeating pattern of ripples ~1-2 μm wide and ~1.5 μm tall. In experiments, the intact intertidal mussel shells had the lowest level of fouling compared to other species of bivalves with either smooth or more randomly structured shell surfaces, synthetic molds of mussel shells, and smooth and sanded synthetic surfaces. Furthermore, the mussel shell has a high level of fouling release (ease of removal) for organisms that do end up attaching to the shell. Researchers studying various shell surfaces and their microtopographies found that the “waviness” (overall texture) of the surface correlates with both fouling resistance and fouling release.\n\nThe exact mechanism by which the blue mussel’s surface structure deters attachment is being studied, but the leading hypothesis is that the space between surface ridges is small enough that most fouling organisms cannot attach properly. However, because synthetic replicas aren’t as resistant to fouling as natural, intact mussel shells, it is likely that multiple strategies including surface chemistry and self-replenishment act together to reduce fouling.\n\nAdapted from Bers AV; Prendergast GS; Zürn CM; Hansson L; Head RM; Thomason JC. A comparative study of the anti-settlement properties of mytilid shells. Biology Letters. 2006. 2(1): 88–91, by permission of the Royal Society.",
+  "mechanism": "Ridged surfaces on mussel shells resist biofouling by disrupting attachment.\n\nMan-made surfaces that spend extended periods of time submerged in marine waters (like ship hulls) frequently become fouled with attached organisms looking for a place to settle. In contrast, the surfaces of many marine organisms stay relatively clean in the same waters. One such example are intertidal mussels ( Mytilus edulis and M. galloprovincialis ), and biologists think their anti-fouling ability comes in part from the structure of a special external layer on their shells.\n\nThe outer layer of the mussels’ shells, the periostracum, is a strong but pliable material mainly composed of protein, which protects them from predators that might bore into their shells. The periostracum also appears to protect the mussel from smaller settling organisms. The shell’s surface topography consists of a repeating pattern of ripples ~1-2 μm wide and ~1.5 μm tall. In experiments, the intact intertidal mussel shells had the lowest level of fouling compared to other species of bivalves with either smooth or more randomly structured shell surfaces, synthetic molds of mussel shells, and smooth and sanded synthetic surfaces. Furthermore, the mussel shell has a high level of fouling release (ease of removal) for organisms that do end up attaching to the shell. Researchers studying various shell surfaces and their microtopographies found that the “waviness” (overall texture) of the surface correlates with both fouling resistance and fouling release.\n\nThe exact mechanism by which the blue mussel’s surface structure deters attachment is being studied, but the leading hypothesis is that the space between surface ridges is small enough that most fouling organisms cannot attach properly. However, because synthetic replicas aren’t as resistant to fouling as natural, intact mussel shells, it is likely that multiple strategies including surface chemistry and self-replenishment act together to reduce fouling.\n\nAdapted from Bers AV; Prendergast GS; Zürn CM; Hansson L; Head RM; Thomason JC. A comparative study of the anti-settlement properties of mytilid shells. Biology Letters. 2006. 2(1): 88–91, by permission of the Royal Society.",
   "function_addressed": [
     "protect from animals",
     "protect from plants",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals",
+    "protect-from-living-threats::microbes",
+    "protect-from-living-threats::plants"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/ridged-surfaces-resist-biofouling/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ridged",
     "surfaces",
     "resist",
     "biofouling"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-plant-cells-transform-and-sequester-selenium-compounds",
   "organism_common": "Desert princesplume",
-  "organism_scientific": "",
   "strategy_summary": "Cells in the leaves of the prince's plume mustard protect it from toxic organic selenium by detoxifying and sequestering it at the edges of its leaves where it performs a pest control function. Selenium is a necessary nutrient in low quantities for plants and animals, but it rapidly becomes highly toxic with increased…",
-  "mechanism": "Cells in the leaves of the prince's plume mustard protect it from toxic organic selenium by detoxifying and sequestering it at the edges of its leaves where it performs a pest control function.\n\nSelenium is a necessary nutrient in low quantities for plants and animals, but it rapidly becomes highly toxic with increased doses. In animals, it is associated with numerous neurological, physiological, and congenital diseases. In plants, it causes reduced growth, necrosis, inefficient photosynthesis , and the accumulation of harmful free radicals. Some plants, however, like the prince’s plume mustard, hyperaccumulate and sequester selenium compounds by modifying its chemical state and physical location. These organisms can tolerate levels of selenium that kill most other plants. When the mustard’s cells detect higher concentration of the reactive oxygen species (ROS) selenium produces, they begin producing more ROS scavengers and enzymes that generate cysteine compounds. These enzymes incorporate sulfur into useful cysteine, but selenium competes for their activity and results in the erroneous generation of toxic selenocysteine (SeCys). But other enzymes produced by the plant tack on a methyl group to SeCys rendering it nontoxic. Transporter protein s then shuttle and sequester the methylated selenium compound at the edges of leaves where it not only poses no threat to the rest of the plant, it actually serves to repel would-be predators.",
+  "mechanism": "Cells in the leaves of the prince's plume mustard protect it from toxic organic selenium by detoxifying and sequestering it at the edges of its leaves where it performs a pest control function.\n\nSelenium is a necessary nutrient in low quantities for plants and animals, but it rapidly becomes highly toxic with increased doses. In animals, it is associated with numerous neurological, physiological, and congenital diseases. In plants, it causes reduced growth, necrosis, inefficient photosynthesis, and the accumulation of harmful free radicals. Some plants, however, like the prince’s plume mustard, hyperaccumulate and sequester selenium compounds by modifying its chemical state and physical location. These organisms can tolerate levels of selenium that kill most other plants. When the mustard’s cells detect higher concentration of the reactive oxygen species (ROS) selenium produces, they begin producing more ROS scavengers and enzymes that generate cysteine compounds. These enzymes incorporate sulfur into useful cysteine, but selenium competes for their activity and results in the erroneous generation of toxic selenocysteine (SeCys). But other enzymes produced by the plant tack on a methyl group to SeCys rendering it nontoxic. Transporter protein s then shuttle and sequester the methylated selenium compound at the edges of leaves where it not only poses no threat to the rest of the plant, it actually serves to repel would-be predators.",
   "function_addressed": [
     "modify oxidation state",
     "modify electron transport",
@@ -11,11 +10,19 @@
     "chemically generate flow of electrons (redox)",
     "chemically assemble organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::organic-compounds",
+    "modify-chemical-electrical-state::concentration",
+    "modify-chemical-electrical-state::electron-transport",
+    "modify-chemical-electrical-state::oxidation-state",
+    "transform-convert-energy::chemically-generate-flow-of-electrons"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "modify-chemical-electrical-state",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/plant-cells-transform-and-sequester-selenium-compounds/",
-  "source_tier": "science_journalism",
   "keywords": [
     "plant",
     "cells",
@@ -24,7 +31,5 @@
     "selenium",
     "compounds"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

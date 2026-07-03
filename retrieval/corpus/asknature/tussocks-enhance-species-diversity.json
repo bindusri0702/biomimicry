@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-tussocks-enhance-species-diversity",
   "organism_common": "Uptight sedge",
-  "organism_scientific": "",
   "strategy_summary": "Tussocks of Carex stricta sedges in meadows enhance species diversity by providing multiple micro-habitats and undergoing seasonal changes in composition. “ Carex stricta dominates sedge meadows in southern Wisconsin, USA.",
   "mechanism": "Tussocks of Carex stricta sedges in meadows enhance species diversity by providing multiple micro-habitats and undergoing seasonal changes in composition.\n\n“ Carex stricta dominates sedge meadows in southern Wisconsin, USA. In contrast with invasive species that dominate as monotypes, C. stricta supports a diversity of co-occurring species by forming tussocks. Concerns about diversity loss and the potential to restore species-rich tussocks led us to ask how tussocks foster high species richness and affect composition…We conclude that tussocks enhance species richness in three ways, by increasing surface area, by providing multiple micro-habitats, and by undergoing seasonal changes in composition. Our detailed data on plant-diversity support by large tussocks form a benchmark for tussock meadow conservation, as well as a target for restoration of degraded meadows…In one bare restoration site, we used hands and shovels to form approximately 200 dirt mounds (artificial tussocks). Plots with mounds had twice as many species as plots without mounds (Peach 2005). Created micro-topography could also enhance the water quality improvement and flood control functions of restored wetlands (Tweedy and Evans 2001). If cost-effective methods of mimicking tussocks could be found, the addition of surface area and multiple micro-habitats could increase species richness.” (Peach and Zedler 2006:322, 334)",
   "function_addressed": [
@@ -9,18 +8,21 @@
     "regulate climate",
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-a-eco-system",
+    "provide-ecosystem-services::maintain-biodiversity",
+    "provide-ecosystem-services::regulate-climate"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/tussocks-enhance-species-diversity/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tussocks",
     "enhance",
     "species",
     "diversity"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

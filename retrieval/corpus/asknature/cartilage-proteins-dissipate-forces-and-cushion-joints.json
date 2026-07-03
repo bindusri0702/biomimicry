@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-cartilage-proteins-dissipate-forces-and-cushion-joints",
   "organism_common": "Domestic cattle",
-  "organism_scientific": "",
   "strategy_summary": "Cartilage in the joints of cows protect from compressive forces due to repulsion between negative charges of cartilage molecules, as well as attractive forces between these same molecules near the peak of the compressive force. The molecules that make up cartilage were long believed to be characterized by repulsive…",
-  "mechanism": "Cartilage in the joints of cows protect from compressive forces due to repulsion between negative charges of cartilage molecules, as well as attractive forces between these same molecules near the peak of the compressive force.\n\nThe molecules that make up cartilage were long believed to be characterized by repulsive intermolecular forces in order to grant the material its springy nature. In fact, the highly negatively charged compounds that make up much of the structure of cartilage are extremely repulsive to each other. However, recent research has demonstrated that some adhesive forces in one of those compounds (aggrecans) may be significant factors in dissipating compressive force. In particular, the tendency of the aggrecans to stick together under compressive force, then come apart moments after represents a major compression-dissipation system.\n\nImage: Daniel Schwen / toggle icon",
+  "mechanism": "Cartilage in the joints of cows protect from compressive forces due to repulsion between negative charges of cartilage molecules, as well as attractive forces between these same molecules near the peak of the compressive force.\n\nThe molecules that make up cartilage were long believed to be characterized by repulsive intermolecular forces in order to grant the material its springy nature. In fact, the highly negatively charged compounds that make up much of the structure of cartilage are extremely repulsive to each other. However, recent research has demonstrated that some adhesive forces in one of those compounds (aggrecans) may be significant factors in dissipating compressive force. In particular, the tendency of the aggrecans to stick together under compressive force, then come apart moments after represents a major compression-dissipation system.",
   "function_addressed": [
     "manage compression"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/cartilage-proteins-dissipate-forces-and-cushion-joints/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cartilage",
     "proteins",
@@ -20,7 +21,5 @@
     "cushion",
     "joints"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-proteins-cause-ice-nucleation",
   "organism_common": "Pseudomonas syringae",
-  "organism_scientific": "",
   "strategy_summary": "The cells of Pseudomonas syringae, a plant pathogen, can cause ice nucleation via specific surface proteins. “ P.",
   "mechanism": "The cells of Pseudomonas syringae, a plant pathogen, can cause ice nucleation via specific surface proteins.\n\n“ P. syringae is one of the few plant pathogens known to be disseminated up into clouds (Jayaweera and Flanagan, 1982; Sands et al., 1982). It is also scrubbed from the air during rain (Constantinidou et al., 1990). Many strains of this bacterium are ice nucleation-active (Lindow, 1983), are known to survive freezing as well as induce freezing, and it has been suggested that they might even have a role in inciting rainfall via their ice nucleation activity (Morris et al., 2004).” (Morris et al. 2007:85)\n\n“Antifreeze protein s (AFPs) inhibit the growth of ice, whereas ice-nucleation proteins (INPs) promote its formation…Although several organisms have been identified as having ice-nucleation activity, the best characterized by biochemical methods are the bacterial INPs. Of these INPs, that of Pseudomonas syringae is often used as a representative protein.” (Graether and Jia 2001:1169)",
   "function_addressed": [
     "modify phase"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::phase"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/proteins-cause-ice-nucleation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "proteins",
     "cause",
     "ice",
     "nucleation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

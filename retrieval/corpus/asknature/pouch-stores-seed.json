@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-pouch-stores-seed",
   "organism_common": "Clark's nutcracker",
-  "organism_scientific": "",
   "strategy_summary": "The throat of the Clark's nutcracker can temporarily store up to 150 small seeds thanks to an expandable pouch. Expand and collapse: Many of life’s containers are flexible, like the throat pouch of the Clark’s nutcracker that expands to hold 150 pine-nut-sized seeds, or the pelican pouch that scoops 3 gallons of…",
   "mechanism": "The throat of the Clark's nutcracker can temporarily store up to 150 small seeds thanks to an expandable pouch.\n\nExpand and collapse: Many of life’s containers are flexible, like the throat pouch of the Clark’s nutcracker that expands to hold 150 pine-nut-sized seeds, or the pelican pouch that scoops 3 gallons of seawater, then returns to shape. What if we could design a juice bottle that would fill up like a sturdy balloon, then collapse to a small disk when its liquid is gone? You could store it in your pocket as a go-cup, or send hundreds back to the manufacturer in a single envelope.",
   "function_addressed": [
     "store solids",
     "modify size/shape/mass/volume"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::size-shape-mass-volume",
+    "store::solids"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/pouch-stores-seed/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pouch",
     "stores",
     "seed"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-mud-dauber-wasps-compact-soil-using-vibratory-tapping-to-build-strong-durable-nests",
   "organism_common": "Mud dauber wasp",
-  "organism_scientific": "",
   "strategy_summary": "The black and yellow mud dauber ( Sceliphron caementarium ) is a solitary wasp found across North America, easily recognized by its slender body and striking yellow-and-black markings. Unlike social wasps, mud daubers work alone to build nests of mud for each generation of offspring.",
-  "mechanism": "Mud dauber wasps construct nests by collecting small balls of moist soil using their mandibles and forelegs. Once transported to the nest site, each soil ball is pressed into place and then vibrated repeatedly by tapping motions of the wasp’s legs and mandibles. This vibratory compaction method packs soil particles more tightly, increasing the density and strength of the nest walls. Scientists have measured that the resulting nests are hard and very stiff, achieving dry densities comparable to soil samples compacted in laboratory “Proctor” tests—a standard method in civil engineering. The wasps preferentially collect well-graded soils rich in silt and small amounts of clay. Clay minerals act as natural cement, binding particles and increasing strength once the soil dries. Moreover, the nests maintain low moisture content, promoting capillary cohesion (a kind of natural “stickiness”) that further stabilizes the structure. Despite the small size and low weight of the wasps, the mechanical performance of their nests rivals that of engineered soil compaction processes, demonstrating remarkable natural ingenuity.\n\nMud dauber wasps inspire new ways of thinking about sustainable soil construction and engineering. Their vibratory compaction technique offers clues for developing low-energy, low-equipment methods to stabilize soils in construction, especially in remote or resource-limited regions. The wasps’ ability to select and mix particle sizes for optimal packing could inspire algorithms for material selection in additive manufacturing or 3D printing with soils. Their natural use of minimal moisture and natural cementing agents suggests pathways toward greener, less water-intensive earth-building technologies. By studying the mud dauber’s precise engineering, humans might create infrastructure that’s lighter, stronger, and more sustainable—building not only walls but bridges to nature-inspired innovation.",
+  "mechanism": "Mud dauber wasps construct nests by collecting small balls of moist soil using their mandibles and forelegs. Once transported to the nest site, each soil ball is pressed into place and then vibrated repeatedly by tapping motions of the wasp’s legs and mandibles. This vibratory compaction method packs soil particles more tightly, increasing the density and strength of the nest walls. Scientists have measured that the resulting nests are hard and very stiff, achieving dry densities comparable to soil samples compacted in laboratory “Proctor” tests—a standard method in civil engineering. The wasps preferentially collect well-graded soils rich in silt and small amounts of clay. Clay minerals act as natural cement, binding particles and increasing strength once the soil dries. Moreover, the nests maintain low moisture content, promoting capillary cohesion (a kind of natural “stickiness”) that further stabilizes the structure. Despite the small size and low weight of the wasps, the mechanical performance of their nests rivals that of engineered soil compaction processes, demonstrating remarkable natural ingenuity.\n\nMud dauber wasps inspire new ways of thinking about sustainable soil construction and engineering. Their vibratory compaction technique offers clues for developing low-energy, low-equipment methods to stabilize soils in construction, especially in remote or resource-limited regions. The wasps’ ability to select and mix particle sizes for optimal packing could inspire algorithms for material selection in additive manufacturing or 3D printing with soils. Their natural use of minimal moisture and natural cementing agents suggests pathways toward greener, less water-intensive earth-building technologies. By studying the mud dauber’s precise engineering, humans might create infrastructure that’s lighter, stronger, and more sustainable—building not only walls but bridges to nature-inspired innovation.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "modify material characteristics",
     "modify density",
@@ -11,11 +10,18 @@
     "modify size/shape/mass/volume",
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::density",
+    "modify-physical-state::material-characteristics",
+    "modify-physical-state::pressure",
+    "modify-physical-state::size-shape-mass-volume",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/mud-dauber-wasps-compact-soil-using-vibratory-tapping-to-build-strong-durable-nests/",
-  "source_tier": "science_journalism",
   "keywords": [
     "vibratory",
     "tapping",
@@ -24,7 +30,5 @@
     "durable",
     "nests"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

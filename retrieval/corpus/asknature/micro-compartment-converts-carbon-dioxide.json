@@ -1,26 +1,29 @@
 {
   "doc_id": "asn-micro-compartment-converts-carbon-dioxide",
   "organism_common": "Cyanobacteria",
-  "organism_scientific": "",
   "strategy_summary": "Carbonic anhydrases in cyanobacteria interconvert CO2 and bicarbonate by entrapping proteins in confined micro-compartment. With global warming becoming such a prevalent issue in the world, research concerning the conversion of carbon dioxide is a hot topic.",
-  "mechanism": "Carbonic anhydrases in cyanobacteria interconvert CO2 and bicarbonate by entrapping proteins in confined micro-compartment.\n\nWith global warming becoming such a prevalent issue in the world, research concerning the conversion of carbon dioxide is a hot topic. Researchers have recently studied the conversion of carbon dioxide to bicarbonate in cyanobacteria . In the cells of these bacteria there are micro-compartments (carboxysomes) that contain a large amount of protein s (i.e., enzymes). Two particular proteins, rubisco and carbonic anhydrase (CA), catalyze (or induce/speed up the process) the conversion of CO2 to bicarbonate. When carbon dioxide enters the cell, the enzyme rubisco fixes the molecule to a sugar (ribulose-1,5 bisphosphate) which causes the formation of two new molecules (please see illustration below for diagram of process). Without the presence of CAs, this fixation process is tedious and much slower. However, large amounts of CAs can increase the reaction rate 1000-fold, thus yielding a much greater amount of CO2 to be fixed by rubisco. Yu and his research team conclude that this fast catalyzation is due to the fact that the process takes place in such a small area with a large concentration of proteins. Their research involved creating a nano-environment capable of entrapping large amounts of protein to induce conversion of carbon dioxide. Their results provide insight to the possibility of biomimetically converting CO2 through confining a large amount of specific proteins to a small space.The chemical reaction for the catalyzation done by carbonic anhydrase is:H2CO3 —(carbonic anhydrase)–> H2O+CO2 The CO2produced by this reaction is what is then converted to bicarbonate through fixation by rubisco.",
+  "mechanism": "Carbonic anhydrases in cyanobacteria interconvert CO2 and bicarbonate by entrapping proteins in confined micro-compartment.\n\nWith global warming becoming such a prevalent issue in the world, research concerning the conversion of carbon dioxide is a hot topic. Researchers have recently studied the conversion of carbon dioxide to bicarbonate in cyanobacteria. In the cells of these bacteria there are micro-compartments (carboxysomes) that contain a large amount of protein s (i.e., enzymes). Two particular proteins, rubisco and carbonic anhydrase (CA), catalyze (or induce/speed up the process) the conversion of CO2 to bicarbonate. When carbon dioxide enters the cell, the enzyme rubisco fixes the molecule to a sugar (ribulose-1,5 bisphosphate) which causes the formation of two new molecules (please see illustration below for diagram of process). Without the presence of CAs, this fixation process is tedious and much slower. However, large amounts of CAs can increase the reaction rate 1000-fold, thus yielding a much greater amount of CO2 to be fixed by rubisco. Yu and his research team conclude that this fast catalyzation is due to the fact that the process takes place in such a small area with a large concentration of proteins. Their research involved creating a nano-environment capable of entrapping large amounts of protein to induce conversion of carbon dioxide. Their results provide insight to the possibility of biomimetically converting CO2 through confining a large amount of specific proteins to a small space.The chemical reaction for the catalyzation done by carbonic anhydrase is:H2CO3 —(carbonic anhydrase)–> H2O+CO2 The CO2produced by this reaction is what is then converted to bicarbonate through fixation by rubisco.",
   "function_addressed": [
     "modify concentration (of ions, solutes, etc.)",
     "catalyze chemical breakdown",
     "capture, absorb, or filter energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "chemically-break-down::catalyze-breaking-of-bonds",
+    "modify-chemical-electrical-state::concentration"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "chemically-break-down",
+    "modify-chemical-electrical-state"
+  ],
   "source_url": "https://asknature.org/strategy/micro-compartment-converts-carbon-dioxide/",
-  "source_tier": "science_journalism",
   "keywords": [
     "micro-compartment",
     "converts",
     "carbon",
     "dioxide"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

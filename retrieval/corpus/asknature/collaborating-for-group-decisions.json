@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-collaborating-for-group-decisions",
   "organism_common": "Honeybees",
-  "organism_scientific": "",
   "strategy_summary": "Honeybees collaborate when foraging, selecting a new hive through knowledge sharing. Honeybee swarm  Swarm of bees in the air shortly before landing on a tree  “Researchers at the Univ.",
   "mechanism": "Honeybees collaborate when foraging, selecting a new hive through knowledge sharing.\n\nHoneybee swarm\n\nSwarm of bees in the air shortly before landing on a tree\n\n“Researchers at the Univ. of Illinois at Urbana-Champaign, led by principal researcher Feniosky Pena-Mora, are looking at ways to improve human collaboration during disaster relief efforts. They are attempting to draw inspiration from the collaboration patterns that honeybees use in their decision-making process when selecting a new hive or foraging, ants’ behavior when they are under threat, and how infectious diseases spread among human populations. The team includes biological, computer, and social scientists, and civil engineers. The team believes that civil engineers should be a fourth group of first-responders at disaster relief efforts involving critical physical infrastructures. The researchers will develop ad hoc communication networks to spread critical information among first responders, similar to how a virus spreads. Models of collaboration based on study of ants and bees may be useful in understanding the basic principles and best practices when developing strategies to coordinate knowledge sharing in chaotic social settings.” (Courtesy of the Biomimicry Guild)",
   "function_addressed": [
     "cooperate within the same species",
     "coordinate by self-organization"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-the-same-species",
+    "coordinate::by-self-organization"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "coordinate"
+  ],
   "source_url": "https://asknature.org/strategy/collaborating-for-group-decisions/",
-  "source_tier": "science_journalism",
   "keywords": [
     "collaborating",
     "group",
     "decisions"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

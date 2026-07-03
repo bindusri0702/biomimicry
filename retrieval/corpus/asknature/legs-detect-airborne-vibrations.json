@@ -1,19 +1,22 @@
 {
   "doc_id": "asn-legs-detect-airborne-vibrations",
   "organism_common": "Spiders",
-  "organism_scientific": "",
   "strategy_summary": "All animals eat—but first, they have to find their food. For predators, that means being able to detect the presence, location, and movement of their often-elusive prey.",
-  "mechanism": "Each of a spider’s legs has at least 20 (and potentially more than 100) sensory structures called trichobothria. Each consists of a thin hair of varying length and thickness embedded in a membrane at the bottom of a cup-shaped base. Below the membrane, the hair connects to three or four nerve cells.\n\nThe hypersensitivity to touch and vibrations modeled by trichobothria’s system of a long thin receptor suspended in a flexible membrane could be emulated at varying scales using different materials to detect different kinds of signals. At a large scale, they could help analyze underwater currents or detect the presence or activity of sea life. At the micro scale they could provide alternative options for sound detection in a variety of products.\n\nIn addition, a spider’s ability to use information gathered from and synthesized by a network of many sensors to detect the location and motion of an object could be used to improve our ability to do the same. Manned or unmanned aircraft could adapt the strategy for greater sensitivity to environmental clues to avoid collisions with birds, and ground vehicles could use it to improve maneuvers such as parallel parking or backing up. The sensory capacity might be built into wearable devices or clothing to make it possible to detect motion beyond the range of vision.",
+  "mechanism": "Each of a spider’s legs has at least 20 (and potentially more than 100) sensory structures called trichobothria. Each consists of a thin hair of varying length and thickness embedded in a membrane at the bottom of a cup-shaped base. Below the membrane, the hair connects to three or four nerve cells.\n\nBecause of variations in size and location, each trichobothrium provides unique information about the location and movement of the prey in relation to the spider.\n\nWhen an insect flies nearby, it sets the air around it in motion. The movement of the air—even the vibrations from sound—sets the hairs moving, too. Since each hair is suspended in a flexible membrane (instead of being held tight at the base), even the slightest movement is conducted right to the nerves.\n\nBecause of variations in size and location, each trichobothrium provides unique information about the location and movement of the prey in relation to the spider. In a split second, the nervous system is able to combine the information from the many trichobothria into a clear picture of where and when the spider needs to strike in order to capture its meal.\n\nThe hypersensitivity to touch and vibrations modeled by trichobothria’s system of a long thin receptor suspended in a flexible membrane could be emulated at varying scales using different materials to detect different kinds of signals. At a large scale, they could help analyze underwater currents or detect the presence or activity of sea life. At the micro scale they could provide alternative options for sound detection in a variety of products.\n\nIn addition, a spider’s ability to use information gathered from and synthesized by a network of many sensors to detect the location and motion of an object could be used to improve our ability to do the same. Manned or unmanned aircraft could adapt the strategy for greater sensitivity to environmental clues to avoid collisions with birds, and ground vehicles could use it to improve maneuvers such as parallel parking or backing up. The sensory capacity might be built into wearable devices or clothing to make it possible to detect motion beyond the range of vision.",
   "function_addressed": [
     "sense touch and mechanical forces in a living system",
     "sense sound and other vibrations from the environment",
     "sense motion"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::motion",
+    "sense-signals-environmental-cues::sound-and-other-vibrations",
+    "sense-signals-environmental-cues::touch-and-mechanical-forces"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/legs-detect-airborne-vibrations/",
-  "source_tier": "science_journalism",
   "keywords": [
     "spiders",
     "leg",
@@ -22,7 +25,5 @@
     "flying",
     "food"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-internal-leaf-surface-increases-gas-exchange",
   "organism_common": "Distribute Gases",
-  "organism_scientific": "",
   "strategy_summary": "The internal structure of a leaf increases gas exchange by providing a much greater surface area than is found externally. orangers d'andalousie - Granada  Close-up of thorn on a blood orange tree.",
   "mechanism": "The internal structure of a leaf increases gas exchange by providing a much greater surface area than is found externally.\n\norangers d'andalousie - Granada\n\nClose-up of thorn on a blood orange tree.\n\nMy beautiful picture\n\n“A tree…has a lot of very obvious leaf surface. In fact, gas exchange between the photosynthetic cells of leaves and the atmosphere occurs at the walls of tortuous internal passages, so the functional surface area is from ten to more than thirty times greater than meets the eye. For an orange tree with two thousand leaves, the outer surface was measured as 200 square meters; but the internal surface for gas exchange is thirty times greater–6,000 square meters or 0.6 hectares (1.5 acres).” (Vogel 2003: 47)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
   "function_addressed": [
     "distribute gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::gases"
+  ],
+  "subgroup_keys": [
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/internal-leaf-surface-increases-gas-exchange/",
-  "source_tier": "science_journalism",
   "keywords": [
     "internal",
     "leaf",
@@ -20,7 +21,5 @@
     "gas",
     "exchange"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-guard-cells-regulate-gas-and-moisture-exchange",
   "organism_common": "Plants",
-  "organism_scientific": "",
-  "strategy_summary": "Guard cells use osmotic pressure to open and close stomata, allowing plants to regulate the amount of water and solutes within them. In order for plants to produce energy and maintain cellular function, their cells undergo the highly intricate process of photosynthesis .",
-  "mechanism": "Guard cells use osmotic pressure to open and close stomata, allowing plants to regulate the amount of water and solutes within them.\n\nIn order for plants to produce energy and maintain cellular function, their cells undergo the highly intricate process of photosynthesis . Critical in this process is the stoma. Stomata (multiple stoma) are located on the outermost cellular layer of leaves, stems, and other plant parts. An open stoma manages the process of photosynthesis by allowing for the uptake of carbon dioxide and water, and for the release of oxygen––a byproduct of photosynthesis that is no longer needed by the cell.\n\nWhile an open stoma is necessary for the plant to undergo photosynthesis, it comes with a negative side effect: water loss. Over 95% of a plant’s water loss occurs through the stoma via water vapor. Therefore, a delicate balance must be maintained that allows gases to pass between cells, and does not put the plant at risk for dehydration.\n\nImage: The Biomimicry Institute / Follow @biomimicryinstitute on Instagram / Copyright © - All rights reserved toggle icon\n\nThis problem is mitigated with guard cells. Guard cells are a pair of two cells that surround each stoma opening. To open, the cells are triggered by one of many possible environmental or chemical signals. These can include strong sunlight or higher than average levels of carbon dioxide inside the cell. In response to these signals, the guard cells take in sugars, potassium, and chloride ions (i.e., solutes) through their membranes. An increase in solutes induces an influx of water across the guard cell membrane. As the volume of the guard cells increase, they “inflate” into two kidney-bean-like shapes. As they expand, they reveal the stoma opening in the center of the two guard cells (similar to a hole in the center of a doughnut). Once fully expanded, the stoma is open and gases can move between the cell and external environment.\n\nThe stoma’s pore closes in the opposite manner. Excess loss of water through the stoma, such as during a drought, triggers chemical reactions that signal water and ions to leave the guard cells. As solutes exit the guard cells, the pair “deflates,” subsequently closing the stoma like two flat balloons.\n\nThis summary was contributed by Allison Miller.\n\nSearch Search: How Does Nature ... ?",
+  "strategy_summary": "Guard cells use osmotic pressure to open and close stomata, allowing plants to regulate the amount of water and solutes within them. In order for plants to produce energy and maintain cellular function, their cells undergo the highly intricate process of photosynthesis.",
+  "mechanism": "Guard cells use osmotic pressure to open and close stomata, allowing plants to regulate the amount of water and solutes within them.\n\nIn order for plants to produce energy and maintain cellular function, their cells undergo the highly intricate process of photosynthesis. Critical in this process is the stoma. Stomata (multiple stoma) are located on the outermost cellular layer of leaves, stems, and other plant parts. An open stoma manages the process of photosynthesis by allowing for the uptake of carbon dioxide and water, and for the release of oxygen––a byproduct of photosynthesis that is no longer needed by the cell.\n\nWhile an open stoma is necessary for the plant to undergo photosynthesis, it comes with a negative side effect: water loss. Over 95% of a plant’s water loss occurs through the stoma via water vapor. Therefore, a delicate balance must be maintained that allows gases to pass between cells, and does not put the plant at risk for dehydration.\n\nThis problem is mitigated with guard cells. Guard cells are a pair of two cells that surround each stoma opening. To open, the cells are triggered by one of many possible environmental or chemical signals. These can include strong sunlight or higher than average levels of carbon dioxide inside the cell. In response to these signals, the guard cells take in sugars, potassium, and chloride ions (i.e., solutes) through their membranes. An increase in solutes induces an influx of water across the guard cell membrane. As the volume of the guard cells increase, they “inflate” into two kidney-bean-like shapes. As they expand, they reveal the stoma opening in the center of the two guard cells (similar to a hole in the center of a doughnut). Once fully expanded, the stoma is open and gases can move between the cell and external environment.\n\nThe stoma’s pore closes in the opposite manner. Excess loss of water through the stoma, such as during a drought, triggers chemical reactions that signal water and ions to leave the guard cells. As solutes exit the guard cells, the pair “deflates,” subsequently closing the stoma like two flat balloons.\n\nSearch Search: How Does Nature...?",
   "function_addressed": [
     "regulate cellular processes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/guard-cells-regulate-gas-and-moisture-exchange/",
-  "source_tier": "science_journalism",
   "keywords": [
     "guard",
     "cells",
     "function"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-lack-of-wing-scales-enhances-camouflage",
   "organism_common": "Clearwing butterflies",
-  "organism_scientific": "",
   "strategy_summary": "The wings of a clearwing butterfly provide camouflage because they lack scales, allowing whatever background the butterfly has landed on to show through its wings. “Some butterfly scales are modified into short spiky points, others into long, fine hairs.",
   "mechanism": "The wings of a clearwing butterfly provide camouflage because they lack scales, allowing whatever background the butterfly has landed on to show through its wings.\n\n“Some butterfly scales are modified into short spiky points, others into long, fine hairs. In some butterflies, especially those known as the clearwings, parts of the wing carry few or no scales, or scales reduced to tiny bristles. The effect of this is to camouflage the insect by allowing its background — such as the flower on which it is feeding — to show through the wings.” (Foy and Oxford Scientific Films 1982:99-100)",
   "function_addressed": [
@@ -11,11 +10,20 @@
     "physically assemble structure",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "modify-physical-state::light-color",
+    "modify-physical-state::material-characteristics",
+    "physically-assemble::structure",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "modify-physical-state",
+    "physically-assemble",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/lack-of-wing-scales-enhances-camouflage/",
-  "source_tier": "science_journalism",
   "keywords": [
     "lack",
     "wing",
@@ -23,7 +31,5 @@
     "enhances",
     "camouflage"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

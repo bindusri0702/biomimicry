@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-lunar-cycle-triggers-reproduction",
   "organism_common": "Pacific palolo worm",
-  "organism_scientific": "",
   "strategy_summary": "The reproductive cycle of the Pacific palolo worm is synchronized via lunar cycle detection. “The Pacific palolo worm ( Eunice viridis ) and its West Indian relative ( E.",
   "mechanism": "The reproductive cycle of the Pacific palolo worm is synchronized via lunar cycle detection.\n\n“The Pacific palolo worm ( Eunice viridis ) and its West Indian relative ( E. fucata ) exhibit one of the most incredible examples of reproductive behavior on record, which is intimately linked to the lunar cycle. These two annelid species are polychaete worms, and normally remain secure within tubes excavated by them in coral or under rocks, with their heads at the open end of their tubes – until the breeding season, that is.\n\n“When this period approaches, the rear half of each worm transforms dramatically, developing fast-growing reproductive organs. The worm itself reverses its position within its tube, so that it is now pointing head-down, with its highly modified posterior half-projecting out of the tube. Once the reproductive organs are fully developed, the posterior body half breaks off from the rest of the worm (which remains inside its tube but realigns itself so that its head is at the tube’s open end again), and swims up toward the sea’s surface – almost as if it were a separate animal in its own right. Indeed, it has even developed a pair of eyes to assist it in locating the surface.\n\n“As it swims, the worm’s posterior body half undergoes a further transformation, its internal structures and segmentation breaking down, so that when it reaches the surface it is nothing more than a writhing bag of either sperm or eggs (the sexes are separate in these species). At the surface, the bag bursts, releasing its contents – and, bearing in mind that millions of palolo worms have all undergone this radical metamorphosis at precisely the same time, the sea is soon awash with a mass of sperm and eggs, yielding a vast bout of communal, random fertilization. What makes these worms’ reproductive behavior even more extraordinary is the exact nature of this event’s timing. It occurs twice a year on the neap tides of the last quarter moon in October and November for the Pacific species, and the third quarter moon in June and July for the West Indian species of palolo worm.” (Shuker 2001:94-95)",
   "function_addressed": [
     "regulate reproduction or growth",
     "sense time and day length"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::reproduction-or-growth",
+    "sense-signals-environmental-cues::time-and-day-length"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/lunar-cycle-triggers-reproduction/",
-  "source_tier": "science_journalism",
   "keywords": [
     "lunar",
     "cycle",
     "triggers",
     "reproduction"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

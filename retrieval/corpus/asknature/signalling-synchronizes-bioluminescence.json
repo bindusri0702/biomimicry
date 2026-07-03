@@ -1,21 +1,16 @@
 {
   "doc_id": "asn-signalling-synchronizes-bioluminescence",
   "organism_common": "Vibrio fischeri",
-  "organism_scientific": "",
   "strategy_summary": "Members of Vibrio fisheri bacterial colonies synchronize bioluminescent light production via a cell-to-cell signalling mechanism known as quorum sensing. “Although this species can be found in open seawater, it also occupies an unusual ecological niche; V.",
   "mechanism": "Members of Vibrio fisheri bacterial colonies synchronize bioluminescent light production via a cell-to-cell signalling mechanism known as quorum sensing.\n\n“Although this species can be found in open seawater, it also occupies an unusual ecological niche; V. fischeri is a symbiont, which colonizes the light-producing organ of certain marine fish and squid…Although the potential benefits to the host of having a mobile biological ‘light bulb’ are superficially obvious (attracting prey, repelling predators etc.), the question of precisely how V. fischeri produces light, and why this only occurs at high cell densities, occupied researchers for several years. The problem was all-the-more intriguing since the bacteria within the light organ apparently coordinate their efforts to produce light; the transition to light production is sharp, and involves a concerted effort on behalf of the whole population. A key breakthrough came when Hastings and colleagues discovered that cell–cell signalling lies at the heart of this remarkable biological switch. 12,13 ” (Welch et al. 2005:197)",
   "function_addressed": [],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [],
   "source_url": "https://asknature.org/strategy/signalling-synchronizes-bioluminescence/",
-  "source_tier": "science_journalism",
   "keywords": [
     "signalling",
     "synchronizes",
     "bioluminescence"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

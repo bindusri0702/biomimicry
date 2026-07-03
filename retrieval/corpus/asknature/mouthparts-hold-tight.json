@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-mouthparts-hold-tight",
   "organism_common": "Sheep tick",
-  "organism_scientific": "",
   "strategy_summary": "Mouthparts of tick hold tight using a combined ratchet and barb mechanism  Ticks are a familiar nuisance for anyone that enjoys hiking. Like all blood-feeding parasites, they can become considerably more than a nuisance when they carry and transmit infectious diseases such as Lyme disease.",
-  "mechanism": "Mouthparts of tick hold tight using a combined ratchet and barb mechanism\n\nTicks are a familiar nuisance for anyone that enjoys hiking. Like all blood-feeding parasites, they can become considerably more than a nuisance when they carry and transmit infectious diseases such as Lyme disease. Unlike other biting insects, which bite quickly and leave before they can be discovered, ticks can hold onto their prey for days at a time, increasing dramatically in size during that time from their blood meal. To stay in place for such a long time, most ticks secrete a cement like substance from their mouthparts after biting, but one species, the sheep tick Ixodes ricinus doesn’t produce cement and it must hold on with physical force alone. This is more challenging than it might appear, as mouthparts specialized for insertion and feeding will be a different shape to those specialized for grip. Sheep ticks get around this problem with a combined ratchet and barb.\n\nThe mouthparts of sheep ticks include a two-part insertion needle with a jointed barbed tip. Insertion and attachment is a multi-step process where the tick first sweeps the skin with the tip to find a suitable point for insertion and then pushes through the skin’s surface. At first, the two halves of the insertion needle push in alternately, with the barbed hooks on the tip of one side forming the anchor against which the other pushes deeper into the tissue. Once in past a certain depth, the tick switches to a breast-stroke like movement, where the jointed tips first thrust in and then spread out, pulling the rest of the mouthpart in behind them. Once fully inserted, the barbs stay spread, anchoring the tick in place.\n\nHere’s an animation showing sheep tick insertion in a host:\n\nThis content marked as “Google Youtube” uses cookies that you chose to keep disabled. Click here to open your preferences and accept cookies. .\n\n© 2013 Richter et al. Published by the Royal Society. All rights reserved.\n\n© 2013 Richter et al. Published by the Royal Society. All rights reserved.\n\n© 2013 Richter et al. Published by the Royal Society. All rights reserved.",
+  "mechanism": "Mouthparts of tick hold tight using a combined ratchet and barb mechanism\n\nTicks are a familiar nuisance for anyone that enjoys hiking. Like all blood-feeding parasites, they can become considerably more than a nuisance when they carry and transmit infectious diseases such as Lyme disease. Unlike other biting insects, which bite quickly and leave before they can be discovered, ticks can hold onto their prey for days at a time, increasing dramatically in size during that time from their blood meal. To stay in place for such a long time, most ticks secrete a cement like substance from their mouthparts after biting, but one species, the sheep tick Ixodes ricinus doesn’t produce cement and it must hold on with physical force alone. This is more challenging than it might appear, as mouthparts specialized for insertion and feeding will be a different shape to those specialized for grip. Sheep ticks get around this problem with a combined ratchet and barb.\n\nThe mouthparts of sheep ticks include a two-part insertion needle with a jointed barbed tip. Insertion and attachment is a multi-step process where the tick first sweeps the skin with the tip to find a suitable point for insertion and then pushes through the skin’s surface. At first, the two halves of the insertion needle push in alternately, with the barbed hooks on the tip of one side forming the anchor against which the other pushes deeper into the tissue. Once in past a certain depth, the tick switches to a breast-stroke like movement, where the jointed tips first thrust in and then spread out, pulling the rest of the mouthpart in behind them. Once fully inserted, the barbs stay spread, anchoring the tick in place.\n\nHere’s an animation showing sheep tick insertion in a host:\n\nThis content marked as “Google Youtube” uses cookies that you chose to keep disabled. Click here to open your preferences and accept cookies..\n\n© 2013 Richter et al. Published by the Royal Society. All rights reserved.\n\n© 2013 Richter et al. Published by the Royal Society. All rights reserved.\n\n© 2013 Richter et al. Published by the Royal Society. All rights reserved.",
   "function_addressed": [
     "attach temporarily",
     "capture, absorb, or filter liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "capture-absorb-or-filter::liquids"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/mouthparts-hold-tight/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mouthparts",
     "hold",
     "tight"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

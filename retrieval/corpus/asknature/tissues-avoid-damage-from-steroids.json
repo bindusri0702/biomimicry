@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-tissues-avoid-damage-from-steroids",
   "organism_common": "Arctic ground squirrel",
-  "organism_scientific": "",
   "strategy_summary": "Tissues of Arctic ground squirrels are protected from damage by suppressing androgen receptors except in muscles. When Arctic ground squirrels are getting ready to hibernate they not only add fat, they also build up muscle.",
   "mechanism": "Tissues of Arctic ground squirrels are protected from damage by suppressing androgen receptors except in muscles.\n\nWhen Arctic ground squirrels are getting ready to hibernate they not only add fat, they also build up muscle. They do it without suffering the harmful effects that high levels of testosterone and other anabolic steroids usually cause.\n\nArctic ground squirrels increase their anabolic steroid levels and keep them high not just during the spring mating season, but during the summer and fall. These high levels of androgens help both males and females to increase lean body mass (i.e., muscle) by about 25 percent in the months leading up to winter hibernation – mass which is then consumed as they hibernate. To avoid the damaging effects of these high levels, they seem to suppress androgen receptors in all tissues except muscle.",
   "function_addressed": [
     "regulate cellular processes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/tissues-avoid-damage-from-steroids/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tissues",
     "avoid",
     "damage",
     "steroids"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

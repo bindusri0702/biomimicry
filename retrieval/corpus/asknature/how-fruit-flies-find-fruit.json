@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-how-fruit-flies-find-fruit",
   "organism_common": "Common fruit fly",
-  "organism_scientific": "",
   "strategy_summary": "There may be in your home right now a creature that is the marvel and envy of aeronautical engineers and computer scientists alike. Place a blueberry anywhere in your kitchen, and you will likely soon find the diminutive and intrepid fruit fly ( Drosophila melanogaster ) hovering nearby.",
-  "mechanism": "Insects like fruit flies initially determine the location of a food source using olfactory information. The plumes of odor that emanate from a food source do not typically flow out in a cartoonish stream. Air currents and turbulence break up the plume into smaller, more short-lived filaments. An insect then must infer the food source location amidst a background of many other unrelated smells.\n\nInsects follow a characteristic set of behaviors to help them use this sporadic olfactory information to locate a food source. Upon first detecting a filament of odor, they turn and move upwind, toward the source. When the odor filament ends, they begin moving laterally, across the direction of wind flow. Once they detect another filament, they move upwind again, homing in whiff by whiff. In this way, they use an accumulation of small experiences to build towards an ultimate determination of the food source.\n\nWorking with incomplete information is the norm in the real world. Creating computational programs that effectively model navigation by insects could have far-ranging applications in human technologies that aim to navigate in similarly-constrained situations. For example, this could be helpful in rescue operations, or searching for sources of pollution, where information is incomplete and time is critical.\n\nSee Related Innovation\n\nUniversity of Cologne\n\nA network model from the University of Cologne integrates fast, parallel processing with recognition of experience to enable an artificial agent to learn more efficiently.",
+  "mechanism": "Insects like fruit flies initially determine the location of a food source using olfactory information. The plumes of odor that emanate from a food source do not typically flow out in a cartoonish stream. Air currents and turbulence break up the plume into smaller, more short-lived filaments. An insect then must infer the food source location amidst a background of many other unrelated smells.\n\nInsects follow a characteristic set of behaviors to help them use this sporadic olfactory information to locate a food source. Upon first detecting a filament of odor, they turn and move upwind, toward the source. When the odor filament ends, they begin moving laterally, across the direction of wind flow. Once they detect another filament, they move upwind again, homing in whiff by whiff. In this way, they use an accumulation of small experiences to build towards an ultimate determination of the food source.\n\nWorking with incomplete information is the norm in the real world. Creating computational programs that effectively model navigation by insects could have far-ranging applications in human technologies that aim to navigate in similarly-constrained situations. For example, this could be helpful in rescue operations, or searching for sources of pollution, where information is incomplete and time is critical.\n\nUniversity of Cologne\n\nA network model from the University of Cologne integrates fast, parallel processing with recognition of experience to enable an artificial agent to learn more efficiently.",
   "function_addressed": [
     "sense chemicals (odor, taste, etc.) from the environment",
     "navigate through air"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "navigate::through-air",
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "navigate",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/how-fruit-flies-find-fruit/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fruit",
     "flies",
     "follow",
     "scent"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

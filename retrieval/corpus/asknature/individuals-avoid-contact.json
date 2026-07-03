@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-individuals-avoid-contact",
   "organism_common": "Mosquitofish",
-  "organism_scientific": "",
   "strategy_summary": "Fish move synchronously in shoal by reacting dynamically to the nearest neighbor fish. Large groups of mosquitofish can move together with little physical contact between individuals.",
   "mechanism": "Fish move synchronously in shoal by reacting dynamically to the nearest neighbor fish.\n\nLarge groups of mosquitofish can move together with little physical contact between individuals. This is because the individual fish coordinate their acceleration and deceleration. The fish accelerate toward a neighbor that is far away from or behind them, and decelerate when a neighbor is directly in front of them.",
   "function_addressed": [
@@ -9,17 +8,21 @@
     "respond to signals",
     "navigate through liquid"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "coordinate::by-self-organization",
+    "navigate::through-liquid",
+    "process-signals::respond-to-signals"
+  ],
+  "subgroup_keys": [
+    "coordinate",
+    "navigate",
+    "process-signals"
+  ],
   "source_url": "https://asknature.org/strategy/individuals-avoid-contact/",
-  "source_tier": "science_journalism",
   "keywords": [
     "individuals",
     "avoid",
     "contact"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

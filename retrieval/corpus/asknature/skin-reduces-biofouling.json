@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-skin-reduces-biofouling",
   "organism_common": "Sharks",
-  "organism_scientific": "",
   "strategy_summary": "The scales of shark skin may influence attachment of fouling microorganisms via shape and surface topography. The ocean is full of floating microorganisms looking for a surface to collect and grow on.",
   "mechanism": "The scales of shark skin may influence attachment of fouling microorganisms via shape and surface topography.\n\nThe ocean is full of floating microorganisms looking for a surface to collect and grow on. Objects submerged in water can become covered by unwanted films of bacteria or larger organisms such as algae and barnacles. This is referred to as biofouling. Biofouling can negatively impact an organism’s health and performance, and many marine organisms have mechanisms to resist biofouling. Sharks have long caught the attention of scientists because unlike other large marine animals, they seem to rarely suffer from biofouling.\n\nBiofouling begins when microorganisms make a transition between their free-floating form to their attached, stationary lifestyle. Called initial attachment, these organisms cling to the surface via weak and reversible forces. Initial attachment gives way to irreversible attachment when these organisms chemically bind to the surface by secreting an adhesive substance. It is best to avoid irreversible attachment by preventing initial settlement in the first place.\n\nShark skin is made up of microscopic scales that are triangular in shape and generally 200-500 μm long, with fine regularly spaced (30–100 μm) ridges aligned along the body axis. Previous studies have demonstrated that the scales can alter the flow of water closest to the skin and potentially reduce drag on the body ( more info here ). The same mechanism could help prevent biofouling since fast flowing water near the skin’s surface would reduce the time microorganisms have to settle on the surface as well as help wash away any that do settle. Another hypothesis is that the shark scale’s microscopic shape and surface topography deter the settlement of microorganisms. This idea has yet to be experimentally tested on real shark skin, but is based on studies of shark skin replicas and simple models that show certain microorganisms prefer colonizing particular groove widths and depths. More experimental research is needed to determine exactly how shark scales influence microorganism attachment.\n\nAlthough these mechanisms are still being examined in the organism itself, shark dermal denticles have inspired a successful commercial antifouling product called Sharklet AF™. Inspired by the microgrooves on each denticle, studies show this antifouling solution to be effective at impeding the settlement of algae, barnacles and bacteria ( more info here ).\n\nSharklet Technologies\n\nSharklet from Sharklet Technologies has diamond shaped micropatterns that inhibit bacterial growth without using antibiotics.",
   "function_addressed": [
@@ -9,17 +8,19 @@
     "protect from plants",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals",
+    "protect-from-living-threats::microbes",
+    "protect-from-living-threats::plants"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/skin-reduces-biofouling/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skin",
     "reduces",
     "biofouling"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

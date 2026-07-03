@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-cells-produce-polyester-2",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Bacterial cells produce polyester granuals in water at ambient temperature and pressure via enzymatic self-assembly. Bacterial bioplastics are polyesters produced naturally by certain bacteria.",
   "mechanism": "Bacterial cells produce polyester granuals in water at ambient temperature and pressure via enzymatic self-assembly.\n\nBacterial bioplastics are polyesters produced naturally by certain bacteria. These polyesters serve as carbon stores when carbon is plentiful but limited supplies of other nutrients make continued growth and reproduction impossible. Bacteria perform this feat at ambient temperatures and pressures in water. By contrast, industrial polyester manufacturing processes may require some added heat, pressure changes, and/or organic solvents. Although polyesters are not soluble in water, bacteria are able to store small polyester granules in their watery cellular environment by coating each granule with water-soluble protein s.\n\nThe variety of polymer s that these bacteria produce is quite broad. In addition, the enzymes responsible for polyester polymerization are so flexible that they can theoretically catalyze the polymerization of any simple organic molecule that contains the appropriate hydroxyl (OH) and carboxyl (COOH) groups needed to form an “ester” bond.\n\n1) Enzymes secreted by microbes facilitate the formation of “ester” bonds between organic molecules at normal temperatures and pressures (the process is called a “dehydration” reaction because water is a by-product of bond formation). 2) More starting material is joined to the compound via ester bonds, hence the term polyester. 3) Microbes store their polyester granules in water for later use as an energy and carbon source.",
   "function_addressed": [
@@ -10,17 +9,21 @@
     "chemically assemble on demand",
     "catalyze chemical assembly"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::catalyze-making-of-bonds",
+    "chemically-assemble::on-demand",
+    "chemically-assemble::polymers",
+    "chemically-break-down::catalyze-breaking-of-bonds"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/cells-produce-polyester-2/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cells",
     "produce",
     "polyester"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

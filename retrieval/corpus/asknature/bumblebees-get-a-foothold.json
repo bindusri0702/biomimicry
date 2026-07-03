@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-bumblebees-get-a-foothold",
   "organism_common": "Sharp-leaved cancerwort",
-  "organism_scientific": "",
   "strategy_summary": "The petals of flowers attract pollinators by providing non-slip surfaces via conical epidermal cells. “Approximately 80% of angiosperms produce petals with similar conical epidermal cells (Kay et al.",
   "mechanism": "The petals of flowers attract pollinators by providing non-slip surfaces via conical epidermal cells.\n\n“Approximately 80% of angiosperms produce petals with similar conical epidermal cells (Kay et al. 1981), and numerous suggestions as to their function have been made. These include the possibilities that they enhance petal colour, act as a direct tactile cue, increase the temperature of the flower, influence scent production or release, or influence the wettability of the flower surface (Kay et al. 1981; Kevan and Lane 1985).” (Dyer et al. 2007:46)\n\n“The plant surface is by default flat, and development away from this default is thought to have some function of evolutionary advantage. Although the functions of many plant epidermal cells have been described, the function of conical epidermal cells, a defining feature of petals in the majority of insect-pollinated flowers, has not. The location and frequency of conical cells have led to speculation that they play a role in attracting animal pollinators. Snapdragon ( Antirrhinum ) mutants lacking conical cells have been shown to be discriminated against by foraging bumblebees. Here we investigated the extent to which a difference in petal surface structure influences pollinator behavior through touch-based discrimination…We show that foraging bumblebees are able to discriminate between different surfaces via tactile cues alone. We find that bumblebees use color cues to discriminate against flowers that lack conical cells—but only when flower surfaces are presented at steep angles, making them difficult to manipulate. This facilitation of physical handling is a likely explanation for the prevalence of conical epidermal petal cells in most flowering plants.” (Whitney et al. 2009:948)",
   "function_addressed": [
     "respond to signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "process-signals::respond-to-signals"
+  ],
+  "subgroup_keys": [
+    "process-signals"
+  ],
   "source_url": "https://asknature.org/strategy/bumblebees-get-a-foothold/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bumblebees",
     "get",
     "foothold"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-sensitivity-encourages-return-to-hive-before-storm",
   "organism_common": "Bees",
-  "organism_scientific": "",
   "strategy_summary": "Bees protect themselves from approaching storms by sensing electromagnetic waves. “Bees, for instance, are very responsive to electrical discharges in the air that occur just before a thunderstorm, ultimately causing lightning, which in turn generates electromagnetic waves.",
   "mechanism": "Bees protect themselves from approaching storms by sensing electromagnetic waves.\n\n“Bees, for instance, are very responsive to electrical discharges in the air that occur just before a thunderstorm, ultimately causing lightning, which in turn generates electromagnetic waves. These waves stimulate bees to return swiftly to their hives and remain inside until the storm is over.” (Shuker 2001:64)",
   "function_addressed": [
     "sense atmospheric conditions",
     "sense electricity/magnetism from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::atmospheric-conditions",
+    "sense-signals-environmental-cues::electricity-magnetism"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/sensitivity-encourages-return-to-hive-before-storm/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sensitivity",
     "encourages",
@@ -21,7 +23,5 @@
     "before",
     "storm"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

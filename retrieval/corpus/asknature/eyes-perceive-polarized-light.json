@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-eyes-perceive-polarized-light",
   "organism_common": "Sense Light (Non-visible Spectrum) From the Environment",
-  "organism_scientific": "",
   "strategy_summary": "The eyes of horseshoe crabs reduce glare from sunlight because they contain an area that can perceive polarized light. Horseshoe Crabs mating  Horseshoe crab - Limulus polyphemus - Limulidae - 55 cm (Dorsal view)  “The first aquatic species shown to be able to perceive polarized light was the horseshoe crab ( Limulus…",
   "mechanism": "The eyes of horseshoe crabs reduce glare from sunlight because they contain an area that can perceive polarized light.\n\nHorseshoe Crabs mating\n\nHorseshoe crab - Limulus polyphemus - Limulidae - 55 cm (Dorsal view)\n\n“The first aquatic species shown to be able to perceive polarized light was the horseshoe crab ( Limulus polyphemus ), a sea-dwelling chelicerate arthropod whose compound eyes were found by Dr T. H. Waterman in 1950 to contain an area that could analyze light polarization. Since then, Waterman’s continuing studies have revealed that many aquatic insects, crustaceans, fishes, and even mollusks such as squid and octopuses exhibit similar abilities that allow them to reduce glare or dazzling reflections caused by bright sunlight, just as we do by wearing polarized sunglasses.” (Shuker 2001:49)",
   "function_addressed": [
     "sense light (non-visible spectrum) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::light-non-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/eyes-perceive-polarized-light/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eyes",
     "perceive",
     "polarized",
     "light"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

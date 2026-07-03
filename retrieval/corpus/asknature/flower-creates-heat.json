@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-flower-creates-heat",
   "organism_common": "Split leaf philodendron",
-  "organism_scientific": "",
   "strategy_summary": "The flower of the philodendron produces heat by metabolizing stored lipids. Infrared image of a waterlilly, producing warmth while opening.",
-  "mechanism": "The flower of the philodendron produces heat by metabolizing stored lipids.\n\nInfrared image of a waterlilly, producing warmth while opening.\n\nAn infrared image of a lotus flower, you can see the warmth on the bottom of the flower.\n\n“Night-flowering philodendrons heat up to more than 38 degrees C in order to attract scarab beetles.” (Forsyth 1992: 56)\n\n“The all-time champ in heat production is a familiar plant to gardeners here in South Florida. It is another aroid, Philodendron selloum , a common landscape plant from Brazil. Its big, dissected leaves are its most attractive feature, so few people realize that this species produces flowers. Although its spathe and spadix are fairly large, they are borne on very short stalks at the base of the leaves. During the evening, the spadix of E [sic] selloum heats up, reaching its peak at about 7 p.m., at which time it may be 45° or 46°C (ca. 115°F), or as much as 30°C above ambient temperature! Philodendron selloum is remarkable not only for the feverish high temperature which it attains, but also for the way in which it generates the heat. Most heat-generating plants do so by hydrolyzing stored starch – by burning carbohydrates, so to speak. But the metabolic process in E. [sic] selloum is different. This plant metabolizes stored lipids, i.e., it burns fat. JennyCraig, take note. Lipids store more energy than carbohydrates — about twice as much — and allow the Philodendron to achieve its record temperature.” (Zona 2000)",
+  "mechanism": "The flower of the philodendron produces heat by metabolizing stored lipids.\n\nInfrared image of a waterlilly, producing warmth while opening.\n\nAn infrared image of a lotus flower, you can see the warmth on the bottom of the flower.\n\n“Night-flowering philodendrons heat up to more than 38 degrees C in order to attract scarab beetles.” (Forsyth 1992: 56)\n\n“The all-time champ in heat production is a familiar plant to gardeners here in South Florida. It is another aroid, Philodendron selloum, a common landscape plant from Brazil. Its big, dissected leaves are its most attractive feature, so few people realize that this species produces flowers. Although its spathe and spadix are fairly large, they are borne on very short stalks at the base of the leaves. During the evening, the spadix of E [sic] selloum heats up, reaching its peak at about 7 p.m., at which time it may be 45° or 46°C (ca. 115°F), or as much as 30°C above ambient temperature! Philodendron selloum is remarkable not only for the feverish high temperature which it attains, but also for the way in which it generates the heat. Most heat-generating plants do so by hydrolyzing stored starch – by burning carbohydrates, so to speak. But the metabolic process in E. [sic] selloum is different. This plant metabolizes stored lipids, i.e., it burns fat. JennyCraig, take note. Lipids store more energy than carbohydrates — about twice as much — and allow the Philodendron to achieve its record temperature.” (Zona 2000)",
   "function_addressed": [
     "transform thermal energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "transform-convert-energy::thermal-energy"
+  ],
+  "subgroup_keys": [
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/flower-creates-heat/",
-  "source_tier": "science_journalism",
   "keywords": [
     "flower",
     "creates",
     "heat"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

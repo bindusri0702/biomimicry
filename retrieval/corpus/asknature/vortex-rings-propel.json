@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-vortex-rings-propel",
   "organism_common": "Moon jellyfish",
-  "organism_scientific": "",
   "strategy_summary": "Moon jellyfish move efficiently through water by creating complex vortex rings in the wake of their motion. “Through his research, Dabiri has observed that moon jellyfish don’t move through water simply by using jet propulsion.",
   "mechanism": "Moon jellyfish move efficiently through water by creating complex vortex rings in the wake of their motion.\n\n“Through his research, Dabiri has observed that moon jellyfish don’t move through water simply by using jet propulsion. Instead, they create complex vortex rings in the wake of their motion that allow them propel themselves forward. Cracking the code to how jellyfish create these currents has the potential to inform the development of future propulsion models. On the horizon are possible advances in underwater transportation or medical technologies administered through the blood stream.” (Halverson 2011:1)\n\nThis video, from Shape of Life, depicts the life cycle of moon jellies from tiny polyps to adults. You can see an adult jelly's swimming behavior at 2:00.",
   "function_addressed": [
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/vortex-rings-propel/",
-  "source_tier": "science_journalism",
   "keywords": [
     "vortex",
     "rings",
     "propel"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

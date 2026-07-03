@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-cuticle-hole-detects-strain-and-load-changes",
   "organism_common": "Urban bluebottle blowfly",
-  "organism_scientific": "",
   "strategy_summary": "Exoskeleton of insects detects strain and load change via campaniform sensilla. “In insects, the campaniform sensillum is a hole extending through the cuticle arranged such that its shape changes in response to loads.",
   "mechanism": "Exoskeleton of insects detects strain and load change via campaniform sensilla.\n\n“In insects, the campaniform sensillum is a hole extending through the cuticle arranged such that its shape changes in response to loads. The shape change is rotated through 90° by the suspension of a bell-shaped cap whose deflection is detected by a cell beneath the cuticle. It can be sensitive to displacements of the order of 1 nm. The essential morphology [is] a hole formed in a plate of fibrous composite material.” (Vincent et al. 2007:63)\n\n“A campaniform sensillum (figure 1) is a kind of strain sensor found in insects, e.g. the blowfly ( Calliphora vicina ). The campaniform sensillum is basically an opening in the cuticle (with a size of 5–10 μm in diameter for the circular shape one) covered by membrane layers. The shape of the opening is generally ellipse and sometimes almost circular. Deformation in the insect’s cuticular layer is sensed by the campaniform sensillum using mechanical coupling, transduction and an encoding mechanism to transfer the environmental information to the insect’s nervous system. Previous work by one of the authors (JFVV) showed that the mechanical coupling mechanism was resolved into discrete components: a cap surrounded by a collar, a joint membrane and an annulus-shaped socket septum with a spongy compliant zone (the spongy cuticle). The coupling mechanism is a mechanical linkage which transforms the stimulus into two deformations in different directions: monoaxial transverse compression of the dendritic tip of a sensory neuron cell, which acts as a transducer, and vertical displacement of the cap. The natural campaniform sensilla, regardless of the high Young modulus of the exocuticle layer of the insect (k ≈ 109 Nm−2), can still detect changes. These sensors are as sensitive to displacement in that stiff structure as the receptors in the human ear are to sound [8]. This sensitivity is among others due to their unique membrane-in-recess microstructure. The membrane located inside a blind hole amplifies the strain.” (Wicaksono et al. 2005:S72)",
   "function_addressed": [
     "sense touch and mechanical forces in a living system"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::touch-and-mechanical-forces"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/cuticle-hole-detects-strain-and-load-changes/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cuticle",
     "hole",
@@ -20,7 +21,5 @@
     "load",
     "changes"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

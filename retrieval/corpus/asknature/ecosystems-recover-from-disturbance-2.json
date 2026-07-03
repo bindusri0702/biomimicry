@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-ecosystems-recover-from-disturbance-2",
   "organism_common": "Forest ecosystems",
-  "organism_scientific": "",
   "strategy_summary": "Forests and other ecosystems can return to their predisturbance composition and struture through the presence of biological legacies, mobile links, and support areas. This shows a burned forest with regrowth coming from legacy roots underground or seed bank.",
   "mechanism": "Forests and other ecosystems can return to their predisturbance composition and struture through the presence of biological legacies, mobile links, and support areas.\n\nThis shows a burned forest with regrowth coming from legacy roots underground or seed bank.\n\nDesign principle abstracted from this strategy: After disturbance of a system, recovery is aided when legacies, mobile links, and nearby support areas are present.\n\nThis sketch of a potential system for providing shelters after a natural disaster was done by Biomimicry Specialist students during a quick design challenge, using this AskNature strategy.",
   "function_addressed": [
     "manage disturbance in a community"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::manage-disturbance-in-a-community"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/ecosystems-recover-from-disturbance-2/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ecosystems",
     "recover",
     "disturbance"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

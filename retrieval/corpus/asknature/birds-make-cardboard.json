@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-birds-make-cardboard",
   "organism_common": "Australian scrub-bird",
-  "organism_scientific": "",
   "strategy_summary": "Nests of Australian scrub-birds are lined with masticated wet plant material that dries into a cardboard substance. “The Australian scrub-birds ( Atrichornis ) line their nests with masticated wet plant material which dries into a substance resembling cardboard.” (Pallasmaa 1995:20)",
   "mechanism": "Nests of Australian scrub-birds are lined with masticated wet plant material that dries into a cardboard substance.\n\n“The Australian scrub-birds ( Atrichornis ) line their nests with masticated wet plant material which dries into a substance resembling cardboard.” (Pallasmaa 1995:20)",
   "function_addressed": [
     "modify material characteristics"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::material-characteristics"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/birds-make-cardboard/",
-  "source_tier": "science_journalism",
   "keywords": [
     "birds",
     "make",
     "cardboard"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

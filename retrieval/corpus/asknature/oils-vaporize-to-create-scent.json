@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-oils-vaporize-to-create-scent",
   "organism_common": "Modify Phase",
-  "organism_scientific": "",
   "strategy_summary": "Oils in the titan arum plant are volatilized to release its unique scent by raising the internal temperature. “To produce its perfume, the plant [titan arum] raises its internal temperature several degrees above that of its surroundings and vaporises oils secreted in its heart.” (Attenborough 1995:140)",
   "mechanism": "Oils in the titan arum plant are volatilized to release its unique scent by raising the internal temperature.\n\n“To produce its perfume, the plant [titan arum] raises its internal temperature several degrees above that of its surroundings and vaporises oils secreted in its heart.” (Attenborough 1995:140)",
   "function_addressed": [
     "modify phase"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::phase"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/oils-vaporize-to-create-scent/",
-  "source_tier": "science_journalism",
   "keywords": [
     "oils",
     "vaporize",
     "create",
     "scent"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

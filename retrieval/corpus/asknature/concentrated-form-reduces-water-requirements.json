@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-concentrated-form-reduces-water-requirements",
   "organism_common": "Capture, Absorb, or Filter Liquids",
-  "organism_scientific": "",
   "strategy_summary": "The jelly mass that holds the eggs of many frogs reduces internal water requirements because it is secreted in a concentrated form, which then takes up water from the external environment. “As far as I know, all extracellular mucuses and gels are secreted in concentrated form and then take up water–a conspicuous…",
   "mechanism": "The jelly mass that holds the eggs of many frogs reduces internal water requirements because it is secreted in a concentrated form, which then takes up water from the external environment.\n\n“As far as I know, all extracellular mucuses and gels are secreted in concentrated form and then take up water–a conspicuous example is the jelly mass in which the eggs of a frog are suspended. When swollen, the mass is typically larger than the volume of the gravid female. Slime production by hagfish, according to John Gosline, provides an even more spectacular case.” (Vogel 2003:444)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
   "function_addressed": [
     "capture, absorb, or filter liquids",
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids",
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/concentrated-form-reduces-water-requirements/",
-  "source_tier": "science_journalism",
   "keywords": [
     "concentrated",
     "form",
@@ -20,7 +23,5 @@
     "water",
     "requirements"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

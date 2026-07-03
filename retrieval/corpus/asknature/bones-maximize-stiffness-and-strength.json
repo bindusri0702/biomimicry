@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-bones-maximize-stiffness-and-strength",
   "organism_common": "Birds",
-  "organism_scientific": "",
   "strategy_summary": "The bones of birds maximize stiffness and strength relative to weight by increasing density. “The skeletons of birds are universally described as lightweight as a result of selection for minimizing the energy required for flight.",
   "mechanism": "The bones of birds maximize stiffness and strength relative to weight by increasing density.\n\n“The skeletons of birds are universally described as lightweight as a result of selection for minimizing the energy required for flight. From a functional perspective, the weight (mass) of an animal relative to its lift-generating surfaces is a key determinant of the metabolic cost of flight. The evolution of birds has been characterized by many weight-saving adaptations that are reflected in bone shape, many of which strengthen and stiffen the skeleton. Although largely unstudied in birds, the material properties of bone tissue can also contribute to bone strength and stiffness. In this study, I calculated the density of the cranium, humerus and femur in passerine birds, rodents and bats by measuring bone mass and volume using helium displacement. I found that, on average, these bones are densest in birds, followed closely by bats. As bone density increases, so do bone stiffness and strength. Both of these optimization criteria are used in the design of strong and stiff, but lightweight, manmade airframes. By analogy, increased bone density in birds and bats may reflect adaptations for maximizing bone strength and stiffness while minimizing bone mass and volume. These data suggest that both bone shape and the material properties of bone tissue have played important roles in the evolution of flight. They also reconcile the conundrum of how bird skeletons can appear to be thin and delicate, yet contribute just as much to total body mass as do the skeletons of terrestrial mammals” (Dumont 2010)\n\nhttp://www.sciencedaily.com/releases/2010/03/100322112103.htm http://rspb.royalsocietypublishing.org/content/early/2010/03/13/rspb.2010.0117.abstract?sid=b3f2f52a-a7ed-4778-bacc-2c7b1b289557",
   "function_addressed": [
@@ -10,18 +9,24 @@
     "physically assemble structure",
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "modify-physical-state::material-characteristics",
+    "move::in-through-gases",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "modify-physical-state",
+    "move",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/bones-maximize-stiffness-and-strength/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bones",
     "maximize",
     "stiffness",
     "strength"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

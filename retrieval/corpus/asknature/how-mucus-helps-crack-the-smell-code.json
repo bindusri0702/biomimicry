@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-how-mucus-helps-crack-the-smell-code",
   "organism_common": "Humans",
-  "organism_scientific": "",
   "strategy_summary": "Hiking through the Black Hills in South Dakota, you come upon a stand of tall pine trees. They could be ponderosa pines, but it’s hard to tell just by looking from the ground.",
-  "mechanism": "Most of the air we breathe through our nose isn’t smelled at all—it proceeds straight to the lungs and gives us the oxygen we need. On its way though, some of it passes over a small region in the top of the nasal cavity called the nasal epithelium.\n\nThe air around the ponderosa pines contains some molecules released by the trees’ bark. When we sniff it, some of those molecules are absorbed into a layer of mucus that coats the nasal epithelium. Air flow through the nasal cavity can actually impact the efficiency that molecules absorb into the mucus. The harder we sniff, the more molecules reach the mucus, and the stronger we sense an odor.\n\nWe already use detectors to identify airborne chemical dangers such as the presence of carbon monoxide and ammonia gases. However, often each technology is limited to “smelling” just one or a few molecules because they require a particular type of sensor. Mimicking the full array of scent detectors behind how we and other animals smell could lead to artificial intelligence that can sense thousands, or maybe millions, of smells.\n\nRefrigerators might be outfitted with sensors that identify food spoilage to prevent illness. Instead of training people and search dogs to find illegal drugs or explosives, detectors placed around airports could do the work. Ecological monitors could smell the pheromones of animal species to track their locations and migration patterns. Imagine how many lives could be saved if a hand-held device simply smelled cancer tumors?",
+  "mechanism": "Most of the air we breathe through our nose isn’t smelled at all—it proceeds straight to the lungs and gives us the oxygen we need. On its way though, some of it passes over a small region in the top of the nasal cavity called the nasal epithelium.\n\nThe air around the ponderosa pines contains some molecules released by the trees’ bark. When we sniff it, some of those molecules are absorbed into a layer of mucus that coats the nasal epithelium. Air flow through the nasal cavity can actually impact the efficiency that molecules absorb into the mucus. The harder we sniff, the more molecules reach the mucus, and the stronger we sense an odor.\n\nThe mucus itself has several functions important to the sense of smell. For one, it protects the epithelium from drying out. It also contains protein s that bind with odor molecules. In part, these proteins help absorb hydrophobic molecules that would otherwise be repelled by the moist membrane. Mucus proteins also degrade molecules to clear the way for new scents to arrive. And these proteins transport molecules to special nerve cells called receptor cells, where the actual “smelling” begins.\n\nThere, the odor-causing molecules bind with the nerve cells, which directly connect to the olfactory bulb of the brain just above them. While we can register five types of taste (sweet, sour, salt, bitter, and umami), we have more than 100 million olfactory receptor cells that fall into about 400 types.\n\nScientists believe that each type of receptor cell is tuned to recognize certain molecules. Receptors of the same type “plug into” the same junction (called a glomerulus) in the olfactory bulb. Scientists think that each scent activates specific patterns of receptor cells, which then stimulate a unique combination of glomeruli—like how combinations of letters spell different words—to tell the brain what it’s smelling.\n\nMore recent science shows that the glomeruli don’t “spell” words based solely on the structures of the original odor molecules. In 2010, researchers found that enzymes in the mucus convert some molecules into other forms before they bind with receptor cells. Specifically, they found that mucus enzymes change some odor-causing molecules that contain aldehydes and ester s into acids and alcohols. As a result, smell signals sent to the brain represent a combination of the original and mucus-altered molecules.\n\nWe already use detectors to identify airborne chemical dangers such as the presence of carbon monoxide and ammonia gases. However, often each technology is limited to “smelling” just one or a few molecules because they require a particular type of sensor. Mimicking the full array of scent detectors behind how we and other animals smell could lead to artificial intelligence that can sense thousands, or maybe millions, of smells.\n\nRefrigerators might be outfitted with sensors that identify food spoilage to prevent illness. Instead of training people and search dogs to find illegal drugs or explosives, detectors placed around airports could do the work. Ecological monitors could smell the pheromones of animal species to track their locations and migration patterns. Imagine how many lives could be saved if a hand-held device simply smelled cancer tumors?",
   "function_addressed": [
     "sense chemicals (odor, taste, etc.) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/how-mucus-helps-crack-the-smell-code/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mucus",
     "crack",
     "smell",
     "code"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

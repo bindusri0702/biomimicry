@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-individuals-share-information",
   "organism_common": "Red harvester ant",
-  "organism_scientific": "",
   "strategy_summary": "Every day, as a matter of routine, ants around the world do something that humans find extraordinarily difficult, if not impossible: They carry out elaborate, coordinated activities, such as finding food and caring for offspring, without any single ant being in charge. Rather, the direction of their activities emerges…",
   "mechanism": "Red harvester ants, Pogonomyrmex barbatus , have some lessons to share. Native to the southwestern U.S. and Mexico, these seed-eaters adapt to unpredictable and widely varying food supplies through a fascinating division of labor. Early in the morning, patrollers set out from the bare-ground anthill to assess the availability of food. When they return, they touch antennae with foragers waiting in the chamber of the nest closest to the entrance. If they take too long to return, the forager ants don’t bother to go seed hunting but rather rely on their previously gathered underground stash to sustain them for the day. If the patrollers return quickly enough with food in jaw, foragers get the abundance message and set out to gather seeds.\n\nSimilarly, the rate at which foragers return and touch antennae with other foragers determines whether and how quickly additional foragers deploy. This system allows them to maximize the benefits of foraging and minimize the cost of spending time and energy on activities with little return for the colony.\n\nThis leads to the question: What’s the best way for the various categories of ants to communicate with each other to convey the messages to all involved as quickly as possible? Researchers studying the red harvester discovered that not every ant has an equal chance of being contacted by another ant. Rather, the path each ant takes and its location in the entrance to the anthill is correlated with interaction frequency. As a result, some ants end up becoming information hubs, interacting far more frequently than average with other ants. Feeding this pattern into a model, the researchers discovered that this “hub” strategy makes information flow faster than if the interactions among ants were more evenly distributed.\n\nKnowing the fastest way to spread something through a network is extremely valuable in today’s connected world. This lesson already is being applied and has still more potential in realms such as speeding computing, improving emergency response, enhancing communication in an organization, or even helping control air traffic. Conversely, it also can improve our ability to develop strategies to slow the spread of diseases and invasive species.\n\nLearn more about collective behavior in ants and other organisms:",
   "function_addressed": [
@@ -9,11 +8,17 @@
     "coordinate by self-organization",
     "respond to signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "compute::compute",
+    "coordinate::by-self-organization",
+    "process-signals::respond-to-signals"
+  ],
+  "subgroup_keys": [
+    "compute",
+    "coordinate",
+    "process-signals"
+  ],
   "source_url": "https://asknature.org/strategy/individuals-share-information/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ant",
     "colonies",
@@ -21,7 +26,5 @@
     "information",
     "flow"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

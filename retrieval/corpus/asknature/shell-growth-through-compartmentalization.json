@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-shell-growth-through-compartmentalization",
   "organism_common": "Chambered nautilus",
-  "organism_scientific": "",
   "strategy_summary": "To a beachgoer, a seashell is often simply an object of beauty. To a mathematician it may be an object of intrigue or inspiration.",
-  "mechanism": "The solution for the chambered nautilus (Nautilus pompilius) is simple and elegant. When it gets too large for its existing space, the (ultimately) volleyball-size nautilus adds on to the open end of its shell, expanding the diameter in a spiral configuration. And, in a remarkable and timely example of repurposing, it does not abandon its old space. Rather, it closes it off with a wall, creating a chamber that it uses to help stay buoyant as its body gets heavier.\n\nNautiluses live in the South Pacific, hundreds of meters beneath the surface of the ocean. They make their shell by mixing sugars, proteins, calcium, and other minerals, then adding the resulting crystallized material to the lip of the existing shell. But that’s not all. Every 150 days or so, a nautilus forms a membrane at its tail end that separates almost all of its body from the older portion of the shell. The one exception is a tube-shaped appendage called a siphuncle that extends back through the previously constructed chambers.\n\nWhen first formed, a chamber is filled with fluid. But over time, as the growing nautilus adds bulk, the siphuncle sucks the fluid from the chamber. As a result, the shell becomes more buoyant, counterbalancing the added weight of the living animals to maintain neutral buoyancy (a condition of neither sinking nor rising).\n\nOver the course of its life, a nautilus might add up to 30 chambers. In addition to gradually adjusting for its own increasing weight, it also can add or remove fluid from the old chambers more quickly to compensate for sudden changes such as a hefty meal or a sudden loss of part of its shell.\n\nWhat lessons might we learn from the nautilus? The strategy of making and using closed chambers to take on and jettison a liquid already is used, and might be further applied, to regulate the position of submarines, drilling rigs, electricity-generating turbines and other manmade objects underwater.\n\nPerhaps more universally applicable and generally beneficial, however, is this takeaway: It’s not always necessary (or even beneficial) to throw something away when it is no longer suitable for its original purpose. Rather, we might do well to consider whether an existing structure might be retained, added to, and ultimately repurposed to provide a new and valuable benefit.",
+  "mechanism": "The solution for the chambered nautilus (Nautilus pompilius) is simple and elegant. When it gets too large for its existing space, the (ultimately) volleyball-size nautilus adds on to the open end of its shell, expanding the diameter in a spiral configuration. And, in a remarkable and timely example of repurposing, it does not abandon its old space. Rather, it closes it off with a wall, creating a chamber that it uses to help stay buoyant as its body gets heavier.\n\nNautiluses live in the South Pacific, hundreds of meters beneath the surface of the ocean. They make their shell by mixing sugars, proteins, calcium, and other minerals, then adding the resulting crystallized material to the lip of the existing shell. But that’s not all. Every 150 days or so, a nautilus forms a membrane at its tail end that separates almost all of its body from the older portion of the shell. The one exception is a tube-shaped appendage called a siphuncle that extends back through the previously constructed chambers.\n\nWhen first formed, a chamber is filled with fluid. But over time, as the growing nautilus adds bulk, the siphuncle sucks the fluid from the chamber. As a result, the shell becomes more buoyant, counterbalancing the added weight of the living animals to maintain neutral buoyancy (a condition of neither sinking nor rising).\n\nOver the course of its life, a nautilus might add up to 30 chambers. In addition to gradually adjusting for its own increasing weight, it also can add or remove fluid from the old chambers more quickly to compensate for sudden changes such as a hefty meal or a sudden loss of part of its shell.\n\nOver the course of its life, a nautilus might add up to 30 chambers.\n\nWhat lessons might we learn from the nautilus? The strategy of making and using closed chambers to take on and jettison a liquid already is used, and might be further applied, to regulate the position of submarines, drilling rigs, electricity-generating turbines and other manmade objects underwater.\n\nPerhaps more universally applicable and generally beneficial, however, is this takeaway: It’s not always necessary (or even beneficial) to throw something away when it is no longer suitable for its original purpose. Rather, we might do well to consider whether an existing structure might be retained, added to, and ultimately repurposed to provide a new and valuable benefit.",
   "function_addressed": [
     "optimize shape/materials",
     "modify position",
@@ -11,18 +10,24 @@
     "modify size/shape/mass/volume",
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "modify-physical-state::density",
+    "modify-physical-state::position",
+    "modify-physical-state::size-shape-mass-volume",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "modify-physical-state",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/shell-growth-through-compartmentalization/",
-  "source_tier": "science_journalism",
   "keywords": [
     "shell",
     "grows",
     "adding",
     "chambers"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

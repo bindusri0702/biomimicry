@@ -1,19 +1,23 @@
 {
   "doc_id": "asn-hydrofoil-shaped-bill-draws-prey-closer",
   "organism_common": "Spoonbills",
-  "organism_scientific": "",
   "strategy_summary": "The hydrofoil-shaped bill of the spoonbill draws aquatic prey closer by generating swirling flows. Spoonbills are large wading birds with a distinct bill shape.",
-  "mechanism": "The hydrofoil-shaped bill of the spoonbill draws aquatic prey closer by generating swirling flows.\n\nSpoonbills are large wading birds with a distinct bill shape. As the name suggests, the bill is long with a wider rounded end. Spoonbills catch their food in shallow water, where they eat fish, crustaceans, and insects that can be floating in the water or on the muddy bottom. Like many birds, the spoonbill uses its bill to grasp directly at prey that is visible and within reach; however, it also appears to have a strategy for drawing prey that it might not even see closer.\n\nAs the spoonbill walks through shallow water, it dips its head down and sweeps its bill from side to side in an arc through the water. The top of the bill is rounded while the bottom is nearly flat. In cross section, this shape is called a hydrofoil (or airfoil if it moves through air–more commonly known as a wing). As a hydrofoil moves through the water, water flowing over the rounded top of the hydrofoil travels faster than water flowing under the flatter bottom. This occurs because the water has to meet at the end of the hydrofoil at the same time (law of conservation of mass). This difference in flow speeds above and below the hydrofoil generates an upward force much like an airplane wing generates lift in air. At the same time, the difference in flow results in areas of swirling water at the tips of the hydrofoil. This swirling water is called a tip vortex, and it’s what researchers believe the spoonbill uses to gather prey.\n\nAs the spoonbill’s hydrofoil-shaped bill sweeps through the water, it generates a force and a bill-tip vortex. This vortex can stir up and draw small prey off the bottom of the shallow water or stimulate mobile prey to move in the water column. Once near the spoonbill’s mouth, it can then sense and capture the prey with its bill.\n\nThis strategy was contributed by Dimitri Smirnoff and Philip Samuel.\n\nRoseate Spoonbill - Myakka River State Park.",
+  "mechanism": "The hydrofoil-shaped bill of the spoonbill draws aquatic prey closer by generating swirling flows.\n\nSpoonbills are large wading birds with a distinct bill shape. As the name suggests, the bill is long with a wider rounded end. Spoonbills catch their food in shallow water, where they eat fish, crustaceans, and insects that can be floating in the water or on the muddy bottom. Like many birds, the spoonbill uses its bill to grasp directly at prey that is visible and within reach; however, it also appears to have a strategy for drawing prey that it might not even see closer.\n\nAs the spoonbill walks through shallow water, it dips its head down and sweeps its bill from side to side in an arc through the water. The top of the bill is rounded while the bottom is nearly flat. In cross section, this shape is called a hydrofoil (or airfoil if it moves through air–more commonly known as a wing). As a hydrofoil moves through the water, water flowing over the rounded top of the hydrofoil travels faster than water flowing under the flatter bottom. This occurs because the water has to meet at the end of the hydrofoil at the same time (law of conservation of mass). This difference in flow speeds above and below the hydrofoil generates an upward force much like an airplane wing generates lift in air. At the same time, the difference in flow results in areas of swirling water at the tips of the hydrofoil. This swirling water is called a tip vortex, and it’s what researchers believe the spoonbill uses to gather prey.\n\nAs the spoonbill’s hydrofoil-shaped bill sweeps through the water, it generates a force and a bill-tip vortex. This vortex can stir up and draw small prey off the bottom of the shallow water or stimulate mobile prey to move in the water column. Once near the spoonbill’s mouth, it can then sense and capture the prey with its bill.\n\nRoseate Spoonbill - Myakka River State Park.",
   "function_addressed": [
     "move in/on liquids",
     "capture, absorb, or filter organisms",
     "distribute liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::liquids",
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "distribute",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/hydrofoil-shaped-bill-draws-prey-closer/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hydrofoil-shaped",
     "bill",
@@ -21,7 +25,5 @@
     "prey",
     "closer"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

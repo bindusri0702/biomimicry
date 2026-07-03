@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-nanoparticles-block-uv-light",
   "organism_common": "Common ivy",
-  "organism_scientific": "",
   "strategy_summary": "Organic nanoparticles secreted by English ivy rootlets absorb and scatter ultraviolet light thanks to large surface-to-volume ratio and uniformity. “Zhang, an associate professor of biomedical engineering at the University of Tennessee, Knoxville, along with his research team and collaborators, has found that ivy…",
-  "mechanism": "Organic nanoparticles secreted by English ivy rootlets absorb and scatter ultraviolet light thanks to large surface-to-volume ratio and uniformity.\n\n“Zhang, an associate professor of biomedical engineering at the University of Tennessee, Knoxville, along with his research team and collaborators, has found that ivy nanoparticles may protect skin from UV radiation at least four times better than the metal-based sunblocks found on store shelves today…”Zhang speculated the greenery’s hidden power lay within a yellowish material secreted by the ivy…It also has the ability to soak up and disperse light which is integral to sunscreens.\n\n“‘Nanoparticles exhibit unique physical and chemical properties due to large surface-to-volume ratio which allows them to absorb and scatter light,’ Zhang said. ‘Titanium dioxide and zinc oxide are currently used for sunscreen for the same reason, but the ivy nanoparticles are more uniform than the metal-based nanoparticles, and have unique material properties, which may help to enhance the absorption and scattering of light, and serve better as a sun-blocker.’” (EurekAlert! 2010)\n\nImage: caribb / toggle icon Image: caribb / toggle icon right arrow right arrow",
+  "mechanism": "Organic nanoparticles secreted by English ivy rootlets absorb and scatter ultraviolet light thanks to large surface-to-volume ratio and uniformity.\n\n“Zhang, an associate professor of biomedical engineering at the University of Tennessee, Knoxville, along with his research team and collaborators, has found that ivy nanoparticles may protect skin from UV radiation at least four times better than the metal-based sunblocks found on store shelves today…”Zhang speculated the greenery’s hidden power lay within a yellowish material secreted by the ivy…It also has the ability to soak up and disperse light which is integral to sunscreens.\n\n“‘Nanoparticles exhibit unique physical and chemical properties due to large surface-to-volume ratio which allows them to absorb and scatter light,’ Zhang said. ‘Titanium dioxide and zinc oxide are currently used for sunscreen for the same reason, but the ivy nanoparticles are more uniform than the metal-based nanoparticles, and have unique material properties, which may help to enhance the absorption and scattering of light, and serve better as a sun-blocker.’” (EurekAlert! 2010)",
   "function_addressed": [
     "protect from light"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::light"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/nanoparticles-block-uv-light/",
-  "source_tier": "science_journalism",
   "keywords": [
     "nanoparticles",
     "block",
     "light"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

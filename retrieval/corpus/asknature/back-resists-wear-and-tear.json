@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-back-resists-wear-and-tear",
   "organism_common": "Deathstalker scorpion",
-  "organism_scientific": "",
   "strategy_summary": "The exoskeleton of the desert scorpion resists wear due to multiple coupling effects of surface morphology, material, and flexibility. Eating a cricket  Deathstalker  “The desert scorpion ( Leiurus quinquestriatus ), which is a typical animal dwelling in sandy deserts, is taken as the research object.",
   "mechanism": "The exoskeleton of the desert scorpion resists wear due to multiple coupling effects of surface morphology, material, and flexibility.\n\nEating a cricket\n\nDeathstalker\n\n“The desert scorpion ( Leiurus quinquestriatus ), which is a typical animal dwelling in sandy deserts, is taken as the research object. Generally, most deserts have strong windy conditions, but scorpions, which are subjected to such blustery conditions, only suffer minor scratches, proving that they have developed high wear resistance ability. The adaptability of desert scorpion is attributed to the natural selection, which happened over millions of years of evolution. Previous studies on the desert scorpion showed that the dorsal surface of mesosoma was the major area subjected to sand erosion. The mechanism of its sand erosion resistance was investigated. The anti-erosion trend characteristics and mechanism of desert scorpion’s surface under the dynamic effects of gas/solid mixed media were studied, especially the comprehensive influence of surface morphology, microstructure, creature flexibility and many other factors were studied also. The results showed that erosion resistance of desert scorpion back is a result of multiple coupling effects. Surface morphology, material, and flexibility are biological coupling elements which play an important role in resisting erosion for the back of desert scorpion.” (Han et al. 2010:S50-S51)",
   "function_addressed": [
     "protect from dirt/solids",
     "manage mechanical wear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::mechanical-wear",
+    "protect-from-non-living-threats::dirt-solids"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/back-resists-wear-and-tear/",
-  "source_tier": "science_journalism",
   "keywords": [
     "back",
     "resists",
     "wear",
     "tear"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

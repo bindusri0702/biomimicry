@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-body-surfaces-reflect-light-to-create-colors",
   "organism_common": "Jewel beetles",
-  "organism_scientific": "",
   "strategy_summary": "The body surfaces of jewel beetles and other beetles create colors by reflecting lights at different wavelengths. “The Buprestid beetles … as well as many ground-beetles (Carabidae), are different again in that the body surface producing the colour is hardened and quite permanent and sculptured into subtly varying…",
-  "mechanism": "The body surfaces of jewel beetles and other beetles create colors by reflecting lights at different wavelengths.\n\n“The Buprestid beetles … as well as many ground-beetles (Carabidae), are different again in that the body surface producing the colour is hardened and quite permanent and sculptured into subtly varying shapes that reflect light at different wavelengths – blue, purple, green, bronze, silver and gold. The purple flush on the elytra of the ground-beetle, Carabus violaceus , is due to this cause, as are the metallic marks on various butterfly pupae.” (Wootton 1984:140)\n\nright arrow right arrow\n\nMushroom anemone\n\nProteins made by Discosoma mushroom anemones produce color by using the sun’s energy to generate specific wavelengths of light.",
+  "mechanism": "The body surfaces of jewel beetles and other beetles create colors by reflecting lights at different wavelengths.\n\n“The Buprestid beetles … as well as many ground-beetles (Carabidae), are different again in that the body surface producing the colour is hardened and quite permanent and sculptured into subtly varying shapes that reflect light at different wavelengths – blue, purple, green, bronze, silver and gold. The purple flush on the elytra of the ground-beetle, Carabus violaceus, is due to this cause, as are the metallic marks on various butterfly pupae.” (Wootton 1984:140) Mushroom anemone\n\nProteins made by Discosoma mushroom anemones produce color by using the sun’s energy to generate specific wavelengths of light.",
   "function_addressed": [
     "modify light/color",
     "send light signals in the visible spectrum"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "send-signals::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/body-surfaces-reflect-light-to-create-colors/",
-  "source_tier": "science_journalism",
   "keywords": [
     "body",
     "surfaces",
@@ -21,7 +24,5 @@
     "create",
     "colors"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

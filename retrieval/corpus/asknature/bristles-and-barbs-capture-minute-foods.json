@@ -1,18 +1,19 @@
 {
   "doc_id": "asn-bristles-and-barbs-capture-minute-foods",
   "organism_common": "Capture, Absorb, or Filter Organisms",
-  "organism_scientific": "",
   "strategy_summary": "Suspension-feeding appendages of Calanoid copepods capture minute particles and organisms from the surrounding water with the help of attached bristles and barbs. “Many aquatic animals feed on small particles that they remove from the surrounding water using suspension-feeding appendages…Calanoid copepods are small…",
   "mechanism": "Suspension-feeding appendages of Calanoid copepods capture minute particles and organisms from the surrounding water with the help of attached bristles and barbs.\n\n“Many aquatic animals feed on small particles that they remove from the surrounding water using suspension-feeding appendages…Calanoid copepods are small (of the order of millimeters in length) planktonic crustaceans that can be extremely abundant in oceans and lakes…the spectrum of particles removed from the water by different copepods varies. A feeding copepod propels a current of water past itself by flapping four pairs of appendages; this is the ‘scanning current’. When a parcel of water containing a food particle nears a copepod, the animal actively captures that water and particle using another pair of appendages, the second maxillae…short appendages bearing long bristles, called ‘setae’. The setae are studded with barbs, called ‘setules’. During capture motion, the second maxillae fling apart, thereby sucking water between them, and then squeeze back together again over the water. During the squeeze, the only escape route for the water is between the setae of the second maxillae. Particles retained within the basked formed by the squeezing second maxillae are then combed into the mouth by another pair of appendages.” (Koehl 1983:1, 3, 4)",
   "function_addressed": [
     "capture, absorb, or filter organisms",
     "capture, absorb, or filter solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::solids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/bristles-and-barbs-capture-minute-foods/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bristles",
     "barbs",
@@ -20,7 +21,5 @@
     "minute",
     "foods"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

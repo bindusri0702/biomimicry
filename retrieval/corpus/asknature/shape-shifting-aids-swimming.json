@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-shape-shifting-aids-swimming",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Body of bacteria moves through water by shape-shifting. “On the scale of a bacterium, water is as viscous as treacle.",
   "mechanism": "Body of bacteria moves through water by shape-shifting.\n\n“On the scale of a bacterium, water is as viscous as treacle. This makes swimming difficult because a simple symmetrical stroke gets you nowhere: the recovery stroke pushes you as far back as the first part of the stroke pulled you forward. So these bacteria adopt different geometrical shapes during the first and second parts of the stroke to maximise the forward movement. Swimming robots and moving parts in nanomachines are already engineered in this way.” (Hogan 2003:24)\n\nSanta Clara University\n\nRobotic swimmer from Santa Clara University uses a \"push-me-pull-you\" technique to propel forward.",
   "function_addressed": [
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/shape-shifting-aids-swimming/",
-  "source_tier": "science_journalism",
   "keywords": [
     "shape-shifting",
     "aids",
     "swimming"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

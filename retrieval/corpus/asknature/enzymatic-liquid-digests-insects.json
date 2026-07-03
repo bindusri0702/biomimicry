@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-enzymatic-liquid-digests-insects",
   "organism_common": "Green pitcher plant",
-  "organism_scientific": "",
   "strategy_summary": "Liquid found in trumpet pitcherplants digests insects enzymatically. “In the southern part of the United States, another member of the same family, the trumpet pitcher, has elaborated this simple structure.",
   "mechanism": "Liquid found in trumpet pitcherplants digests insects enzymatically.\n\n“In the southern part of the United States, another member of the same family, the trumpet pitcher, has elaborated this simple structure. The hood at the top is much bigger and so vividly coloured that it might be mistaken at first sight for a flower…Nectar glands cover these hoods so densely that they glisten. Additional glands are scattered rather more thinly all over the outer surface of the trumpet itself. And the liquid within is more potent than the Venezuelan marsh pitchers, for it is quite capable by itself of digesting insects without any help from bacteria.” (Attenborough 1995:74-76)",
   "function_addressed": [
     "chemically break down organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/enzymatic-liquid-digests-insects/",
-  "source_tier": "science_journalism",
   "keywords": [
     "enzymatic",
     "liquid",
     "digests",
     "insects"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-electron-flow-generates-heat",
   "organism_common": "Sacred lotus",
-  "organism_scientific": "",
   "strategy_summary": "The sacred lotus attracts pollinators by producing heat through a nonphosphorylating electron transport pathway that releases energy by electron flow through an alternative respiratory pathway. This infrared images combined with a regular image in greyscale shows the warmth produced at the beginning of the…",
   "mechanism": "The sacred lotus attracts pollinators by producing heat through a nonphosphorylating electron transport pathway that releases energy by electron flow through an alternative respiratory pathway.\n\nThis infrared images combined with a regular image in greyscale shows the warmth produced at the beginning of the openingceremony.\n\nThis infrared images from a lotus flower, top-down, shows the warmth produced inside the flower while opening. As there was no sunlight during the capturing of the images the warmth is produced by the flower itself.\n\nThe alternative pathway of respiration, catalysed by the Alternative Oxidase (AOX), is responsible for heat production in the sacred lotus ( Nelumbo nucifera).\n\n“We report results from in vivo measurements, using oxygen isotope discrimination techniques, of fluxes through the alternative and cytochrome respiratory pathways in thermogenic plant tissue, the floral receptacle of the sacred lotus ( Nelumbo nucifera ). Fluxes through both pathways were measured in thermoregulating flowers undergoing varying degrees of thermogenesis in response to ambient temperature. Significant increases in alternative pathway flux were found in lotus receptacles with temperatures 16 o C to 20 o C above ambient, but not in those with lesser amounts of heating. Alternative pathway flux in the hottest receptacles was 75% of the total respiratory flux. In contrast, fluxes through the cytochrome pathway did not change significantly during thermogenesis. These data support the hypothesis that increased flux through the alternative pathway is responsible for heating in the lotus and that it is unlikely that uncoupling proteins, which would have produced increased fluxes through the cytochrome pathway, contribute significantly to heating in this tissue. Comparisons of actual flux, with capacity determined using inhibitors, suggested that the alternative pathway was operating at close to maximum capacity in heating tissues of lotus. However, in nonheating tissues the inhibitor data significantly overestimated the alternative pathway flux. This confirms that isotopic measurements are necessary for accurate determination of fluxes through the two pathways.” (Watling et al. 2006:1367)",
   "function_addressed": [
     "transform thermal energy",
     "send light signals in the non-visible spectrum"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::light-non-visible-spectrum",
+    "transform-convert-energy::thermal-energy"
+  ],
+  "subgroup_keys": [
+    "send-signals",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/electron-flow-generates-heat/",
-  "source_tier": "science_journalism",
   "keywords": [
     "electron",
     "flow",
     "generates",
     "heat"
   ],
-  "is_usual_suspect": true,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

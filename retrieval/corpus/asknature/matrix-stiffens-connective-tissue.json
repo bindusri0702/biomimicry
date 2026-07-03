@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-matrix-stiffens-connective-tissue",
   "organism_common": "Manage Compression",
-  "organism_scientific": "",
   "strategy_summary": "The connective tissue of sponges is a matrix stiffened by embedded spicules. “Putting small pieces of brittle material into a pliant matrix gives a composite called a ‘filled polymer’–it amounts to a kind of random array of mechanisms.",
   "mechanism": "The connective tissue of sponges is a matrix stiffened by embedded spicules.\n\n“Putting small pieces of brittle material into a pliant matrix gives a composite called a ‘filled polymer’–it amounts to a kind of random array of mechanisms. Koehl (1982) looked into the extent to which the connective tissues of animals that had embedded spicules behaved like proper filled polymer s–embedded spicules are fairly widespread, not just in sponges, but in some coelenterates, echinoderms, mollusks (the chitons), arthropods (stalked barnacles), and ascidians. She took isolated animal spicules of various kinds and concentrations, embedded them in gelatin (raspberry flavored), and performed various mechanical manipulations on the products. Since the normal function of spicules is to stiffen tissue (although we’re still considering relatively unstiff structures), she used that as a criterion of effectiveness. Even a relatively small proportion of spicules dramatically increases stiffness; more spicules or more elongate or irregularly shaped spicules give more stiffness, and small spicules are more effective than are large ones for a given added mass. One factor that matters a lot is the area of contact between spicules and matrix, not unlike other composites. So whether the spicules are in a specific framework or in a random array, roughly the same rules seem to apply.” (Vogel 2003:399-400)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
   "function_addressed": [
     "manage compression",
     "modify material characteristics"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "modify-physical-state::material-characteristics"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/matrix-stiffens-connective-tissue/",
-  "source_tier": "science_journalism",
   "keywords": [
     "matrix",
     "stiffens",
     "connective",
     "tissue"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,26 +1,30 @@
 {
   "doc_id": "asn-wings-work-in-unison",
   "organism_common": "Insects",
-  "organism_scientific": "",
   "strategy_summary": "Insects with two pairs of wings have them work in unison by attaching the wings in various ways, with hooks, folds, or catches. ?",
-  "mechanism": "Insects with two pairs of wings have them work in unison by attaching the wings in various ways, with hooks, folds, or catches.\n\n? Black-tailed Skimmer (Orthetrum cancellatum) - top view\n\nButterfly Polyommatus icarus, Belgium (natural reserve Furfooz) .\n\nThe pairs of wings on two-winged insects work in unison, as seen on this Widow Skimmer\n\n“[I]n those insects with two pairs of fully operative wings, both are commonly linked together so that they work in unison. Linking devices vary widely. In butterflies and some moths, the upper and lower wings perform as one because of an overlapping fold on the hind edge of the forewing, which thus pushes the hindwing with it on the down stroke. In others there is a more elaborate coupling device consisting of a spine, or frenulum, on one wing which is held by a catch or a group of bristles (retinaculum) on the other. Bees and wasps have an even more elaborate series of hooks and catches on their wing margins.” (Wootton 1984:36)",
+  "mechanism": "Insects with two pairs of wings have them work in unison by attaching the wings in various ways, with hooks, folds, or catches.\n\n? Black-tailed Skimmer (Orthetrum cancellatum) - top view\n\nButterfly Polyommatus icarus, Belgium (natural reserve Furfooz).\n\nThe pairs of wings on two-winged insects work in unison, as seen on this Widow Skimmer\n\n“[I]n those insects with two pairs of fully operative wings, both are commonly linked together so that they work in unison. Linking devices vary widely. In butterflies and some moths, the upper and lower wings perform as one because of an overlapping fold on the hind edge of the forewing, which thus pushes the hindwing with it on the down stroke. In others there is a more elaborate coupling device consisting of a spine, or frenulum, on one wing which is held by a catch or a group of bristles (retinaculum) on the other. Bees and wasps have an even more elaborate series of hooks and catches on their wing margins.” (Wootton 1984:36)",
   "function_addressed": [
     "adapt behaviors",
     "modify position",
     "attach temporarily",
     "attach permanently"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-behaviors",
+    "attach::permanently",
+    "attach::temporarily",
+    "modify-physical-state::position"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "attach",
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/wings-work-in-unison/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wings",
     "work",
     "unison"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

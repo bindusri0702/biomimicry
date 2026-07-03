@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-compounds-repel-slugs",
   "organism_common": "Broom fork-moss",
-  "organism_scientific": "",
   "strategy_summary": "Tissues of Dicranum moss repel herbivorous slugs by responding to damage with chemical compounds called oxylipins. “[S]nails don’t like all plants in the same way — they shun moss.",
   "mechanism": "Tissues of Dicranum moss repel herbivorous slugs by responding to damage with chemical compounds called oxylipins.\n\n“[S]nails don’t like all plants in the same way — they shun moss. Why is that so?…What spoils the snails’ appetite for moss are oxylipins. ‘These are compounds which are formed from unsaturated fatty acids by pathways involving oxidation when the moss is being damaged,’ Prof. Pohnert explains.” (ScienceDaily 2010)\n\n“The defensive properties of oxylipins from the moss Dicranum scoparium are far more active than required to fend off herbivory by a common slug.” (Rempt & Pohnert 2010:4755)\n\nhttp://www3.interscience.wiley.com/journal/123500854/abstract?CRETRY=1&SRETRY=0 http://www.sciencedaily.com/releases/2010/06/100610104551.htm",
   "function_addressed": [
     "protect from animals",
     "send chemical signals (odor, taste, etc.)"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals",
+    "send-signals::chemical-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/compounds-repel-slugs/",
-  "source_tier": "science_journalism",
   "keywords": [
     "compounds",
     "repel",
     "slugs"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

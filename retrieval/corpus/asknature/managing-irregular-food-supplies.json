@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-managing-irregular-food-supplies",
   "organism_common": "Crossbills",
-  "organism_scientific": "",
   "strategy_summary": "Crossbills respond to irregular food supplies by periodically spreading from their regular foraging locations great distances in search of new abundant food sources. Red Crossbill (Male), Cabin Lake Viewing Blinds, Deschutes National Forest, Near Fort Rock Oregon, 2006.",
-  "mechanism": "Crossbills respond to irregular food supplies by periodically spreading from their regular foraging locations great distances in search of new abundant food sources.\n\nRed Crossbill (Male), Cabin Lake Viewing Blinds, Deschutes National Forest, Near Fort Rock Oregon, 2006.\n\nRed Crossbills (Male) , Cabin Lake Viewing Blinds, Deschutes National Forest, Near Fort Rock, Oregon, 2006\n\n“By its very nature, irruption is common among birds, especially certain northern species. It is often associated with irregular food supplies, such as seeds, fruit, and prey that are abundant at some times and not at others. Crossbills, for instance, periodically irrupt in response to a scarcity of conifer seeds within their normal distribution range in the conifer forests of the northern hemisphere. These birds will travel great distances beyond this range during years in which food is scarce … Several northern birds of prey, notably such species as the snowy owl ( Nyctea scandiaca ), short-eared owl ( Asio flammeus ), North American great horned owl ( Bubo virginianus ), rough-legged buzzard ( Buteo lagopus ), and goshawk ( Accipiter gentilis ), undergo comparable irruptions during those years in which their prey’s numbers are at their lowest ebb within their species’ normal cycle of abundance-rarity. Moreover, because during previous years when prey was abundant the owls’ birth rate increased, so their population now has to live on less prey. The birds are thus forced to leave their traditional grounds in search of food.” (Shuker 2001:82-83)",
+  "mechanism": "Crossbills respond to irregular food supplies by periodically spreading from their regular foraging locations great distances in search of new abundant food sources.\n\nRed Crossbill (Male), Cabin Lake Viewing Blinds, Deschutes National Forest, Near Fort Rock Oregon, 2006.\n\nRed Crossbills (Male), Cabin Lake Viewing Blinds, Deschutes National Forest, Near Fort Rock, Oregon, 2006\n\n“By its very nature, irruption is common among birds, especially certain northern species. It is often associated with irregular food supplies, such as seeds, fruit, and prey that are abundant at some times and not at others. Crossbills, for instance, periodically irrupt in response to a scarcity of conifer seeds within their normal distribution range in the conifer forests of the northern hemisphere. These birds will travel great distances beyond this range during years in which food is scarce … Several northern birds of prey, notably such species as the snowy owl ( Nyctea scandiaca ), short-eared owl ( Asio flammeus ), North American great horned owl ( Bubo virginianus ), rough-legged buzzard ( Buteo lagopus ), and goshawk ( Accipiter gentilis ), undergo comparable irruptions during those years in which their prey’s numbers are at their lowest ebb within their species’ normal cycle of abundance-rarity. Moreover, because during previous years when prey was abundant the owls’ birth rate increased, so their population now has to live on less prey. The birds are thus forced to leave their traditional grounds in search of food.” (Shuker 2001:82-83)",
   "function_addressed": [
     "capture, absorb, or filter energy",
     "adapt behaviors"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-behaviors",
+    "capture-absorb-or-filter::energy"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/managing-irregular-food-supplies/",
-  "source_tier": "science_journalism",
   "keywords": [
     "managing",
     "irregular",
     "food",
     "supplies"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

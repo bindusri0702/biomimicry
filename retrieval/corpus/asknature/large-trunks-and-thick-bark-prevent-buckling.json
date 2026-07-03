@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-large-trunks-and-thick-bark-prevent-buckling",
   "organism_common": "Bottle tree",
-  "organism_scientific": "",
   "strategy_summary": "The large trunk and thick outer bark allow baobab trees to grow tall while resisting buckling. The thick trunks of baobab trees give them a distinct appearance.",
   "mechanism": "The large trunk and thick outer bark allow baobab trees to grow tall while resisting buckling.\n\nThe thick trunks of baobab trees give them a distinct appearance. One species, Adansonia digitata, grows up to 25m tall and can reach a diameter of 10m. The Baobab’s large trunk size has long been thought of as a way to increase water storage, since the climate where they grow can have extended periods without rainfall. Studies examining trunk water usage during the dry season show conservative use of its stored water, as it has also been shown that drawing from the trunk water negatively affects the tree’s structural integrity. Moderate water use, however, is compensated for by its trunk geometry and outer bark.\n\nBaobab wood is characteristically soft and less dense than other types of wood, and the water content in the trunk is so high that the amount of solid wood in a given volume is as low as 5% in some species. The large amount of water within the inner wood directly affects the wood’s stiffness by affecting the cell turgor pressure, which is the pressure exerted by water inside a cell against the cell wall. The more water pushing against the cell wall, the greater the turgor pressure and the more rigid the cell becomes; with less water, the cell becomes flaccid. This in turn affects the overall stability of the tree, particularly the possibility of it buckling under the weight of its own mass during water shortages. Reported instances show that a large withdrawal of water has actually caused trees to collapse. In contrast, the water content of the thick outer bark remains constant throughout the year, which may help compensate for moderate use of water from the rest of the trunk.\n\nThe height of the Baobab tree and lack of material stiffness in its wood could cause the tree to collapse under its own weight, if it had a smaller trunk diameter similar to that of other trees. Instead, its large trunk compensates and allows the tree to grow to the same height and with the same resistance to buckling as other studied trees. Increasing trunk diameter directly increases its strength against buckling, which would cost more energy to construct for trees with denser wood. Testing of the baobab’s low-density wood has shown that the energy to construct such a large trunk is not more than other trees of the same height. Additionally, the trunk has a thick outer bark which helps increase its overall stiffness.\n\nBaobab (Adansonia digitata), picture taken at Tarangire Nationalpark, Tanzania\n\nGrandidiers Baobab, picture taken near Morondava, Madagascar",
   "function_addressed": [
     "manage compression",
     "prevent buckling"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "prevent-structural-failure::buckling"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/large-trunks-and-thick-bark-prevent-buckling/",
-  "source_tier": "science_journalism",
   "keywords": [
     "large",
     "trunks",
@@ -21,7 +24,5 @@
     "prevent",
     "buckling"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

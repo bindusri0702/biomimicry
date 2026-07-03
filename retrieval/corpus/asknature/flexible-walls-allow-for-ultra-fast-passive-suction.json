@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-flexible-walls-allow-for-ultra-fast-passive-suction",
   "organism_common": "Swollen bladderwort",
-  "organism_scientific": "",
   "strategy_summary": "Flexible trap walls of the bladderwort allow for ultra-fast passive suction by relying on the release of stored elastic energy. “Carnivorous aquatic Utricularia species catch small prey animals using millimetre-sized underwater suction traps…Suction takes place after mechanical triggering and is owing to a release of…",
   "mechanism": "Flexible trap walls of the bladderwort allow for ultra-fast passive suction by relying on the release of stored elastic energy.\n\n“Carnivorous aquatic Utricularia species catch small prey animals using millimetre-sized underwater suction traps…Suction takes place after mechanical triggering and is owing to a release of stored elastic energy in the trap body accompanied by a very fast opening and closing of a trapdoor, which otherwise closes the trap entrance watertight…We found that this unique trapping mechanism conducts suction in less than a millisecond and therefore ranks among the fastest plant movements known. Fluid acceleration reaches very high values, leaving little chance for prey animals to escape. We discovered that the door deformation is morphologically predetermined, and actually performs a buckling/unbuckling process, including a complete trapdoor curvature inversion. This process…is highly reproducible: the traps are autonomously repetitive as they fire spontaneously after 5–20 h and reset actively to their ready-to-catch condition.” (Vincent et al. 2011: 2909)\n\n“The lenticular Utricularia trap…works with a two-phase mechanism. During the first slow phase…internal glands actively pump water out of the trap interior, so that elastic energy is stored in the trap body owing to a lower internal hydrostatic pressure…A flexible door with protruding trigger hairs closes the entrance watertight. Prey animals can stimulate these hairs and thereby launch the second, ultra-fast phase, which runs passively because of a mechanical conversion of elastic energy into kinetic energy. The triggering results in door opening, trap wall relaxation and water (and thereby prey) influx due to the sudden increase of the trap volume (figure 1c). After the door is closed, the prey is dissolved by digestive enzymes secreted by quadrifid glands, and nutrients are absorbed by the plant. Both phases together form a repeatable ‘active slow deflation–passive fast suction’ sequence.” (Vincent et al. 2011:2909)",
   "function_addressed": [
@@ -9,11 +8,15 @@
     "capture, absorb, or filter liquids",
     "store energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids",
+    "store::energy"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/flexible-walls-allow-for-ultra-fast-passive-suction/",
-  "source_tier": "science_journalism",
   "keywords": [
     "flexible",
     "walls",
@@ -22,7 +25,5 @@
     "passive",
     "suction"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

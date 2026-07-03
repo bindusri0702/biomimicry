@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-rolling-locomotion-used-for-hilly-terrain",
   "organism_common": "Mount Lyell salamander",
-  "organism_scientific": "",
   "strategy_summary": "The body of the Mount Lyell salamander is protected from impacts by acting rubbery. “On the steep slopes of California’s Sierra Nevada mountain range, the Mount Lyell salamander achieves a similar rock ‘n’ roll lifestyle.",
   "mechanism": "The body of the Mount Lyell salamander is protected from impacts by acting rubbery.\n\n“On the steep slopes of California’s Sierra Nevada mountain range, the Mount Lyell salamander achieves a similar rock ‘n’ roll lifestyle. When disturbed, or when it needs to descend, the amphibian curls its head under its back legs, wraps its tail along its body, and tucks its legs in. It not only looks like a black tire, it behaves like one. Rolling over and over, it bowls down any slope with ease, its rubbery body absorbing the impact of bounces.” (Downer 2002:23)",
   "function_addressed": [
     "move in/on solids",
     "manage impact"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::impact",
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/rolling-locomotion-used-for-hilly-terrain/",
-  "source_tier": "science_journalism",
   "keywords": [
     "rolling",
     "locomotion",
@@ -20,7 +23,5 @@
     "hilly",
     "terrain"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

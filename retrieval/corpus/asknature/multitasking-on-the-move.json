@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-multitasking-on-the-move",
   "organism_common": "Pseudoscorpion",
-  "organism_scientific": "",
   "strategy_summary": "One species of pseudoscorpion fights for mating privileges while emigrating to a new tree on a harlequin beetle. “A beetle’s belly may seem an unlikely place for a sexual playground, but that is precisely what it is for the pseudoscorpions of Central and South America.",
   "mechanism": "One species of pseudoscorpion fights for mating privileges while emigrating to a new tree on a harlequin beetle.\n\n“A beetle’s belly may seem an unlikely place for a sexual playground, but that is precisely what it is for the pseudoscorpions of Central and South America. These creatures make their homes in the wood of decaying fig trees. They travel to fresh trees by hitching a ride under the wings of a giant harlequin beetle. But a free ride is by no means all that pseudoscorpions get from their beetle host. In flight, they use the beetles as a mobile mating ground, pursuing the objects of their desire back and forth across the beetle’s abdomen.\n\n“David Zeh and Jeanne Zeh of the Smithsonian Tropical Research Institute in Panama have studied this peculiar relationship between beetle and pseudoscorpion ( Cordylochernes scorpioides ). They discovered that as harlequin beetles ( Acrocinus longimanus ) emerge from the rotting wood of fig trees, they attract scores of pseudoscorpions eager to be flown to newly rotting trees (Behavioral Ecology and Sociobiology, vol 30, p 135). ‘Both males and females compete to board the beetles,’ say the researchers.\n\n“Most of the emigrating females are sexually receptive, so males are intensely keen to retain a toehold on the beetle’s belly. As the beetle flies towards its destination, in search of mates or trees suitable for egg-laying, the male scorpions on its belly fight among themselves to establish ‘mobile mating territories’. The bigger males fare best in the competition, shoving smaller males off the beetles before mating, say the Zehs.” (Vines 1992)",
   "function_addressed": [
@@ -9,16 +8,19 @@
     "adapt behaviors",
     "optimize shape/materials"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-behaviors",
+    "adapt-optimize::optimize-space-materials",
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/multitasking-on-the-move/",
-  "source_tier": "science_journalism",
   "keywords": [
     "multitasking",
     "move"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-tongue-picks-up-liquid",
   "organism_common": "Hummingbirds",
-  "organism_scientific": "",
   "strategy_summary": "Flapping its wings dozens of times per second, a hummingbird flits up to a flower. It inserts its beak into the bloom, then, faster than the eye can see, flicks its long, forked tongue in and out, gathering up the energy-rich nectar inside.",
-  "mechanism": "A hummingbird’s tongue is long and skinny, with two forks tipped by lots of hairlike structures, called lamellae. The lamellae are positioned on the inward-facing part of the forks, and are smaller closer to the tip, giving the tongue a cone shape when closed.\n\nWhen the bird maneuvers its beak into a blossom, it sticks out its pointy tongue into the pool of nectar at the base. The two parts of the tongue spread apart, and twist so the lamellae face outward. The lamellae extend, taking up the liquid much as your toothbrush takes up water when you rinse it. Then, as the hummingbird pulls the tongue back into its beak, the blades rotate into their original cone-shaped position and trap the nectar between the two forks, carrying it with the tongue into the bird’s mouth. The entire process takes around 1/20th of a second.\n\nThis innovative strategy for moving fluids has a number of possible applications in design and engineering. It could inspire faster, more efficient strategies for mopping up liquids, from cleaning up oil spills to helping floors dry faster after cleaning. Knowledge of the principles behind it also might lead to faster and less energy-demanding ways to move water and fuels through pipelines. The approach might also be adapted to orchestrate self-assembly of structures or to create microscopic tools that tap the forces of nature to rotate.",
+  "mechanism": "A hummingbird’s tongue is long and skinny, with two forks tipped by lots of hairlike structures, called lamellae. The lamellae are positioned on the inward-facing part of the forks, and are smaller closer to the tip, giving the tongue a cone shape when closed.\n\nWhen the bird maneuvers its beak into a blossom, it sticks out its pointy tongue into the pool of nectar at the base. The two parts of the tongue spread apart, and twist so the lamellae face outward. The lamellae extend, taking up the liquid much as your toothbrush takes up water when you rinse it. Then, as the hummingbird pulls the tongue back into its beak, the blades rotate into their original cone-shaped position and trap the nectar between the two forks, carrying it with the tongue into the bird’s mouth. The entire process takes around 1/20th of a second.\n\nThe process has several advantages over capillary action. First, the amount of nectar gathered in each cycle is not limited by the size of the tube formed by the tongue. Second, the hairs on the tongue can gather nectar even when there’s not much there, as opposed to capillary action, which requires a minimum amount to be effective. The best part of all? The separation and rejoining of the two tongue blades and the furling and unfurling of the lamellae doesn’t require the expenditure of any energy from the hummingbird. Rather, they are an automatic result of the way the lamellae are configured, combined with the physical forces that act upon them in the process of entering and leaving the liquid. This means that it’s not only a slick trick, it’s an energy-efficient process as well.\n\nThis innovative strategy for moving fluids has a number of possible applications in design and engineering. It could inspire faster, more efficient strategies for mopping up liquids, from cleaning up oil spills to helping floors dry faster after cleaning. Knowledge of the principles behind it also might lead to faster and less energy-demanding ways to move water and fuels through pipelines. The approach might also be adapted to orchestrate self-assembly of structures or to create microscopic tools that tap the forces of nature to rotate.",
   "function_addressed": [
     "capture, absorb, or filter liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/tongue-picks-up-liquid/",
-  "source_tier": "science_journalism",
   "keywords": [
     "shape-shifting",
     "tongue",
@@ -20,7 +21,5 @@
     "nectar",
     "gathering"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

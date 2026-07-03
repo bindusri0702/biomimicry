@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-african-wild-dogs-use-versatile-voting-system",
   "organism_common": "African wild dog",
-  "organism_scientific": "",
   "strategy_summary": "Have you ever been with a group of friends trying to decide what to do? It’s not always easy coming to a decision, because not everyone in the group always feels like doing the same thing.",
   "mechanism": "African wild dogs decide whether to stay or go by voting. They don’t vote by casting a ballot, or raising a hand (paw?), but instead vote using a sound, an abrupt exhale, a little like a sneeze. How many votes it takes to decide to go depends on who starts the sneezing. If a dominant individual sneezes first, then it only takes a few more sneezes by the rest of the dogs for the group to rally and go. If a different (non-dominant) individual sneezes first, the group can still decide to go, but it takes many more sneezes by other group members to make this happen.\n\nSome flexibility in decision-making processes can be useful. Even when a group has leaders, leaders may not always take action, or they may not understand what the rest of the group really needs or wants. Flexibility allows leaders to be overruled when enough other members of a group agree on a different course of action.",
   "function_addressed": [
     "coordinate by self-organization"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "coordinate::by-self-organization"
+  ],
+  "subgroup_keys": [
+    "coordinate"
+  ],
   "source_url": "https://asknature.org/strategy/african-wild-dogs-use-versatile-voting-system/",
-  "source_tier": "science_journalism",
   "keywords": [
     "african",
     "wild",
@@ -20,7 +21,5 @@
     "voting",
     "system"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

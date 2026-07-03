@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-sonar-adjusts-to-surroundings",
   "organism_common": "Big brown bat",
-  "organism_scientific": "",
   "strategy_summary": "Sonar of big brown bats enables navigation of dense or cluttered landscapes via frequency shifting. “Researchers monitored big brown bats (Eptesicus fuscus) in a flight chamber using both microphones and thermal-infrared video cameras…  “By using more than one frequency for consecutive calls, the bats could better…",
   "mechanism": "Sonar of big brown bats enables navigation of dense or cluttered landscapes via frequency shifting.\n\n“Researchers monitored big brown bats (Eptesicus fuscus) in a flight chamber using both microphones and thermal-infrared video cameras…\n\n“By using more than one frequency for consecutive calls, the bats could better understand which call an echo was coming in from, and therefore, where the object was.\n\n“’They’ve evolved this so they can fly in clutter,’ James Simmons, a professor of neuroscience at Brown University and coauthor of the study, said in a prepared statement. ‘Otherwise, they’d bump into trees and branches.’” (Harmon 2010)\n\nWatch video here (scroll down on in the article to the video)",
   "function_addressed": [
     "sense sound and other vibrations from the environment",
     "navigate through air"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "navigate::through-air",
+    "sense-signals-environmental-cues::sound-and-other-vibrations"
+  ],
+  "subgroup_keys": [
+    "navigate",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/sonar-adjusts-to-surroundings/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sonar",
     "adjusts",
     "surroundings"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

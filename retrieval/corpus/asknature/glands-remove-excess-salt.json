@@ -1,27 +1,31 @@
 {
   "doc_id": "asn-glands-remove-excess-salt",
   "organism_common": "Mangroves",
-  "organism_scientific": "",
   "strategy_summary": "With a water supply as close to infinite as it gets, an ocean shore seems like the perfect place for a plant to put down roots. And that’s exactly what a mangrove does.",
-  "mechanism": "The many and diverse species of mangroves have evolved various strategies for coping with this toxic treasure. Some avoid taking up sodium and chloride, the ions that make up salt, in the first place. Some take up the ions, accumulate them in older leaves, and shed them with the leaves. . And some species take in the ions but pump them right back out into the environmentin much higher concentration than seawater through glands on their leaves.\n\nThose that use this last strategy draw salty water through their veins from roots to leaves. In the leaves, the salt ions move out of the veins and into the tissues surrounding them. The leaves contain clusters of specialized cells known as salt glands that are adjacent to the world outside. The glands are also located near the veins. They are almost completely surrounded by a thick, waterproof coat called a cuticle.\n\nAgricultural practices and sea-level rise due to climate change are causing soils to become salty in some places. Mangroves’ mechanism for concentrating and excreting salt could provide models for giving crops the ability to tolerate increased salt levels.\n\nThe ability to concentrate contaminants and move them from one place to another also could provide ideas for improving our ability to remove salt from ocean water to make it potable. More generally, it could inspire ways to move ions from one place to another and collect them for further transport, with implications for building better batteries, removing pollutants from soils, and more.",
+  "mechanism": "The many and diverse species of mangroves have evolved various strategies for coping with this toxic treasure. Some avoid taking up sodium and chloride, the ions that make up salt, in the first place. Some take up the ions, accumulate them in older leaves, and shed them with the leaves. . And some species take in the ions but pump them right back out into the environmentin much higher concentration than seawater through glands on their leaves.\n\nThose that use this last strategy draw salty water through their veins from roots to leaves. In the leaves, the salt ions move out of the veins and into the tissues surrounding them. The leaves contain clusters of specialized cells known as salt glands that are adjacent to the world outside. The glands are also located near the veins. They are almost completely surrounded by a thick, waterproof coat called a cuticle.\n\nThe leaves contain clusters of specialized cells known as salt glands that are adjacent to the world outside.\n\nScientists are not completely sure how the gland s collect and eventually excrete sodium and chloride, but here’s what they think.\n\nTransporter molecules move the ions out of the tissues between the veins and salt glands into tunnels between cells. When sodium and chloride reach the salt gland, the tunnels function as one-way streets, moving the ions into the gland.\n\nFirst, proton pumps (H+-ATPases) use chemical energy from the energy-transporting molecule ATP to drive protons into a compartment and establish a proton concentration gradient. The process of the protons then flowing passively back down to their area of lower concentration releases energy that an ion exchanger uses to move sodium ions to a compartment already high in sodium.The cuticle prevents the sodium and chloride from leaking back into the other plant tissues.\n\nSome of the ions squeeze out of the plant through its cell membranes. But most collect in the salt gland in tiny bubbles called microvacuoles. The microvacuoles move toward the edge of the gland that is adjacent to the outside world. There they fuse with the membrane and pop open on the outside, releasing the salt back into the environment.\n\nAgricultural practices and sea-level rise due to climate change are causing soils to become salty in some places. Mangroves’ mechanism for concentrating and excreting salt could provide models for giving crops the ability to tolerate increased salt levels.\n\nThe ability to concentrate contaminants and move them from one place to another also could provide ideas for improving our ability to remove salt from ocean water to make it potable. More generally, it could inspire ways to move ions from one place to another and collect them for further transport, with implications for building better batteries, removing pollutants from soils, and more.",
   "function_addressed": [
     "modify concentration (of ions, solutes, etc.)",
     "protect from chemicals",
     "maintain homeostasis",
     "capture, absorb, or filter chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-chemical-electrical-state::concentration",
+    "protect-from-non-living-threats::chemicals",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "modify-chemical-electrical-state",
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/glands-remove-excess-salt/",
-  "source_tier": "science_journalism",
   "keywords": [
     "glands",
     "remove",
     "excess",
     "salt"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

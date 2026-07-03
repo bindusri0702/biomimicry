@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-brainless-slime-molds-both-learn-and-teach",
   "organism_common": "Physarum polycephalum slime mold",
-  "organism_scientific": "",
   "strategy_summary": "Neither animal nor plant, the slime mold Physarum polycephalum is a large-scale single-celled organism that lives in damp forests. At a glance it may look like a splash of paint, but patient observation reveals it creeping across surfaces by oozing forward in fingerlike projections.",
   "mechanism": "The setup of the experiment was simple: A group of slime molds was taught to cross a bridge without salt. Next, half of those slime molds were exposed to a bridge with salt. They were repelled at first, but eventually crossed anyway. The other half were not exposed to a salt bridge.\n\nWhen both groups were later given a chance to cross a salt bridge, the slime molds that had experience with a salt bridge traveled across the “yuck” to get to the “yum” more quickly than the others. Then, when a slime mold that had learned to tolerate the salt in order to reach the treat merged with another slime mold, the second slime mold also readily crossed the salt bridge—even after being separated from its partner—as long as the two had been together longer than an hour and had formed a connecting structure between them.\n\nHow slime molds learn and share learning is still a mystery. Some scientists think it might be related to how genes are expressed, to the structure of the veins, or to how chemicals interact within the slime. But even though we don’t know how it works, this ability to learn without a brain offers valuable insights for innovation. Researchers have turned to slime mold for help solving difficult computational problems such as finding shortest paths and building better networks. And efforts to design artificial intelligence and machine learning systems can use the bright but brainless creature as inspiration for developing new approaches to learning—and sharing knowledge—without the need for a central hub.",
   "function_addressed": [
     "learn",
     "cooperate within the same species"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-the-same-species",
+    "learn::learn"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "learn"
+  ],
   "source_url": "https://asknature.org/strategy/brainless-slime-molds-both-learn-and-teach/",
-  "source_tier": "science_journalism",
   "keywords": [
     "information",
     "gained",
@@ -21,7 +24,5 @@
     "without",
     "brains"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

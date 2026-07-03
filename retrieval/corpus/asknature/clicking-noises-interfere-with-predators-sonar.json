@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-clicking-noises-interfere-with-predators-sonar",
   "organism_common": "Grote's bertholdia moth",
-  "organism_scientific": "",
   "strategy_summary": "Clicking noises released by the tiger moth interfere with predatory bat sonar signals by distorting the echo signature. Tiger moths are common prey for bats, which use sonar (echolocation) vibrations to locate them; the bats rely on sonar echoes bouncing off of a prey’s body to determine its position.",
   "mechanism": "Clicking noises released by the tiger moth interfere with predatory bat sonar signals by distorting the echo signature.\n\nTiger moths are common prey for bats, which use sonar (echolocation) vibrations to locate them; the bats rely on sonar echoes bouncing off of a prey’s body to determine its position. In addition to flight, tiger moths have developed another mechanism to avoid being eaten: sonar jamming. When a tiger moth detects a sonar signal, it releases a series of ultrasonic clicks that mix with the echoing signals the bat requires to locate it.\n\nMoths are able to effectively distinguish between false and actual predatory threats based on the pulse interval and intensity of the bat’s sonar.",
   "function_addressed": [
@@ -9,11 +8,17 @@
     "send sound signals",
     "sense sound and other vibrations from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals",
+    "send-signals::sound",
+    "sense-signals-environmental-cues::sound-and-other-vibrations"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "send-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/clicking-noises-interfere-with-predators-sonar/",
-  "source_tier": "science_journalism",
   "keywords": [
     "clicking",
     "noises",
@@ -21,7 +26,5 @@
     "predators",
     "sonar"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

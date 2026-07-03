@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-branching-pattern-enhances-exchange-and-transport",
   "organism_common": "Cypress",
-  "organism_scientific": "",
   "strategy_summary": "Branches of cypress trees and other organisms enhance exchange of matter with the environment and internal transport by using fractal branching structures. “The natural plant with branched fractal structures possesses large specific surface area (for scrambling the space to enhance the exchange of matters with…",
   "mechanism": "Branches of cypress trees and other organisms enhance exchange of matter with the environment and internal transport by using fractal branching structures.\n\n“The natural plant with branched fractal structures possesses large specific surface area (for scrambling the space to enhance the exchange of matters with environments), and well connectivity (for prompting the transport of those inside the structures).” (Wang et al. 2005:488)",
   "function_addressed": [
     "distribute liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::liquids"
+  ],
+  "subgroup_keys": [
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/branching-pattern-enhances-exchange-and-transport/",
-  "source_tier": "science_journalism",
   "keywords": [
     "branching",
     "pattern",
@@ -19,7 +20,5 @@
     "exchange",
     "transport"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

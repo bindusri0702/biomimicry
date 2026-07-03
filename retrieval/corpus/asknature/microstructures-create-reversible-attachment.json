@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-microstructures-create-reversible-attachment",
   "organism_common": "Dragonflies and damselflies",
-  "organism_scientific": "",
   "strategy_summary": "The neck attachment of a dragonfly's head protects it from mechanical stresses by arresting it using microstructures that create friction. Two kinds of top and bottom microtrichia, separated on the top and attached on the bottom.",
   "mechanism": "The neck attachment of a dragonfly's head protects it from mechanical stresses by arresting it using microstructures that create friction.\n\nTwo kinds of top and bottom microtrichia, separated on the top and attached on the bottom. Artist: Meghan Hanson Powers. Copyright: All rights reserved by Biomimicry Institute.\n\nArrow shows location of dragonfly arrestor mechanism. Artist: Meghan Hanson Powers. Copyright: All rights reserved by Biomimicry Institute.",
   "function_addressed": [
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/microstructures-create-reversible-attachment/",
-  "source_tier": "science_journalism",
   "keywords": [
     "microstructures",
     "create",
     "reversible",
     "attachment"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

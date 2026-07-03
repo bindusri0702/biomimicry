@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-swim-bladders-diffuse-gas",
   "organism_common": "Ray-finned fishes",
-  "organism_scientific": "",
   "strategy_summary": "Swim bladders of fish fill or empty by diffusing gas across a membrane. “Soon [fish] species appeared which could fill their air-bags by diffusing gas into them from the blood rather than by rising to the surface and swallowing air.",
   "mechanism": "Swim bladders of fish fill or empty by diffusing gas across a membrane.\n\n“Soon [fish] species appeared which could fill their air-bags by diffusing gas into them from the blood rather than by rising to the surface and swallowing air. In some cases the tube connecting the bag to the gut became no more than a solid thread. So the fish acquired a swim-bladder. The techniques of swimming were now revolutionized. By diffusing gas in or out of the bladder or expelling it directly through the connecting tube, a fish could accurately control its level in the water. Its pectoral fins, freed from the job of providing lift, could be used to give great refinement to the fishes’ control of movement, and their swimming skills reached near-perfection.” (Attenborough 1979:118)\n\n“But the swimbladder must be filled from dissolved gases in the blood, and it must not lose gas through redissolution into the blood. So secretion of gas from blood into swimbladder faces a big barrier, and swimbladder gas will all too readily go into solution in the fish’s blood and thence out into the ocean. Two devices stand in the way. First, a layer in the swimbladder wall provides a very effective barrier to the passage of oxygen (Lapennas and Schmidt-Nielsen 1977). Second, blood leaving the so-called gas gland in the wall of the swimbladder passes through an exchanger (fig.5.2) in which blood leaving the swimbladder loses excess dissolved gas specifically to blood moving toward the swimbladder (Scholander 1954).” (Vogel 2003: 99-100)",
   "function_addressed": [
     "move in/on liquids",
     "distribute gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::gases",
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/swim-bladders-diffuse-gas/",
-  "source_tier": "science_journalism",
   "keywords": [
     "swim",
     "bladders",
     "diffuse",
     "gas"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

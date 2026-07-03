@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-a-flexible-body-allows-the-earthworm-to-burrow-through-soil",
   "organism_common": "Earthworm",
-  "organism_scientific": "",
   "strategy_summary": "Earthworms are commonly found in healthy soils, whether it’s your backyard or a grassland. They are soft, slimy tube-shaped organisms without a skeleton or limbs.",
-  "mechanism": "The soft, flexible body of the earthworm is divided into segments, which allows it to easily move through the soil to find food. The earthworm’s body is also known as a hydrostatic skeleton, which is a flexible skeleton filled with fluid. A common earthworm (L. terrestris ) can range from 110-200 mm in length with anywhere from 135-150 segments in its body. Each segment of the worm’s body contains muscles that work independently of every other segment. The internal walls separate the segments and are lined with circular and longitudinal muscles. Circular muscles are wrapped around the circumference of each segment Longitudinal muscles extend down the length of each segment. The muscles create a soft barrier between segments, allowing the segments to be controlled independently. Inside each segment, there is fluid that holds the segment’s shape. As the earthworm burrows, it squeezes into tightly packed soil. This creates a high-pressure environment that could damage the worm. However, the fluid inside the segments helps prevent damage to the earthworm. Fluid cannot change volume because the molecules in the fluid are very close together. The high-pressure environment cannot press the molecules even closer, thus maintaining the earthworm’s shape.\n\nAn earthworm has a special ability to crawl through tight spaces. Humans have designed robots to mimic this crawling motion. These robots could be made to burrow deep underground and distribute materials or test underground conditions quickly without the need to dig large holes.\n\nThis strategy was contributed by Sue White and edited by Natalie Chen.",
+  "mechanism": "The soft, flexible body of the earthworm is divided into segments, which allows it to easily move through the soil to find food. The earthworm’s body is also known as a hydrostatic skeleton, which is a flexible skeleton filled with fluid. A common earthworm (L. terrestris ) can range from 110-200 mm in length with anywhere from 135-150 segments in its body. Each segment of the worm’s body contains muscles that work independently of every other segment. The internal walls separate the segments and are lined with circular and longitudinal muscles. Circular muscles are wrapped around the circumference of each segment Longitudinal muscles extend down the length of each segment. The muscles create a soft barrier between segments, allowing the segments to be controlled independently. Inside each segment, there is fluid that holds the segment’s shape. As the earthworm burrows, it squeezes into tightly packed soil. This creates a high-pressure environment that could damage the worm. However, the fluid inside the segments helps prevent damage to the earthworm. Fluid cannot change volume because the molecules in the fluid are very close together. The high-pressure environment cannot press the molecules even closer, thus maintaining the earthworm’s shape.\n\nDuring an earthworm’s movement, circular and longitudinal muscles take turns contracting. To move forward, circular muscles in the front of the body contract. Contracting those muscles makes the segments thinner and longer, allowing the worm to reach forward. The earthworm also relies on anchors, called setae, which are short stiff hairs that can hold onto the soil. Setae extend out of the skin and hold the front of its body to the soil. Once anchored, longitudinal muscles in the front of the body contract. Contracting those muscles makes the segments shorter and fatter. The front of the body shortens, pulling the back of the body forward. Then setae from the front of the body retract and the setae in the back of the body anchor to the soil. The process repeats itself as the earthworm makes its way through the soil. The movement of the earthworm is wave-like, as muscles take turns lengthening and then shortening.\n\nTo watch a video of an earthworm in action, see this video from Encyclopedia Britannica, or the video from Shape of Life embedded below.\n\nAn earthworm has a special ability to crawl through tight spaces. Humans have designed robots to mimic this crawling motion. These robots could be made to burrow deep underground and distribute materials or test underground conditions quickly without the need to dig large holes.",
   "function_addressed": [
     "optimize shape/materials",
     "prevent buckling",
@@ -11,11 +10,20 @@
     "distribute gases",
     "distribute liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "distribute::gases",
+    "distribute::liquids",
+    "manage-structural-forces::compression",
+    "prevent-structural-failure::buckling"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "distribute",
+    "manage-structural-forces",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/a-flexible-body-allows-the-earthworm-to-burrow-through-soil/",
-  "source_tier": "science_journalism",
   "keywords": [
     "flexible",
     "body",
@@ -24,7 +32,5 @@
     "burrow",
     "through"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

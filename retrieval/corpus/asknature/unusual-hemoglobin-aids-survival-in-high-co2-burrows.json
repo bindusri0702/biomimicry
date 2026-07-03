@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-unusual-hemoglobin-aids-survival-in-high-co2-burrows",
   "organism_common": "Eastern mole",
-  "organism_scientific": "",
   "strategy_summary": "Blood of the eastern mole is able to rid the body of large quantities of carbon dioxide because of amino acid substitutions in hemoglobin creating a salt bridge. In most cases, animals that live strictly in low oxygen environments (e.g., underground or at high altitudes) produce hemoglobin with a higher oxygen binding…",
   "mechanism": "Blood of the eastern mole is able to rid the body of large quantities of carbon dioxide because of amino acid substitutions in hemoglobin creating a salt bridge.\n\nIn most cases, animals that live strictly in low oxygen environments (e.g., underground or at high altitudes) produce hemoglobin with a higher oxygen binding affinity. Paradoxically, the eastern mole, which lives exclusively in underground burrows with low oxygen and high carbon dioxide levels, produces low-oxygen affinity hemoglobin. Its hemoglobin contains several amino acid substitutions that, among other effects, causes an internal salt-bridge to form preventing an increase in oxygen-binding affinity, but more importantly for the eastern mole, increases its affinity for binding carbon dioxide. If not, the eastern mole would experience hypercapnia (high carbon dioxide blood levels) which could be detrimental or fatal in its high-carbon dioxide environment.",
   "function_addressed": [
@@ -9,11 +8,17 @@
     "distribute gases",
     "modify chemical potential"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::gases",
+    "distribute::gases",
+    "modify-chemical-electrical-state::chemical-potential"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "distribute",
+    "modify-chemical-electrical-state"
+  ],
   "source_url": "https://asknature.org/strategy/unusual-hemoglobin-aids-survival-in-high-co2-burrows/",
-  "source_tier": "science_journalism",
   "keywords": [
     "unusual",
     "hemoglobin",
@@ -22,7 +27,5 @@
     "high-co",
     "burrows"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

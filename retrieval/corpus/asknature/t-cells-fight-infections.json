@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-t-cells-fight-infections",
   "organism_common": "Mammals",
-  "organism_scientific": "",
   "strategy_summary": "The immune system of our body fights infections by creating T cells. The author of the cited paper focuses on how the immune system can be emulated for fighting internet spam.",
   "mechanism": "The immune system of our body fights infections by creating T cells.\n\nThe author of the cited paper focuses on how the immune system can be emulated for fighting internet spam.\n\nWatch Video",
   "function_addressed": [
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/t-cells-fight-infections/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cells",
     "fight",
     "infections"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

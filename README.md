@@ -29,11 +29,12 @@ export BIOMIMICRY_MODEL=gemini/gemini-2.5-flash   # or anthropic/claude-opus-4-8
 | File | Role |
 |------|------|
 | `state.py` | `SpiralState` — the shared Challenge Brief read/written by all stages; pydantic payload models; append-only log reducer |
-| `llm.py` | LiteLLM wrapper (`complete_json`) + offline stub |
+| `llm.py` | LiteLLM wrapper (`complete`, restricts output to a pydantic schema); raises if no API key |
+| `schemas.py` | Pydantic response schemas — one per LLM task, used to restrict + validate output |
 | `taxonomy.py` | Biomimicry Taxonomy reference + `align()` (token-overlap; swap for embeddings) |
 | `lexicon.py` | Bio-to-neutral substitution table + jargon detection (Term Neutralizer) |
 | `metrics.py` | Heuristic scorers + Define / Biologize / Discover / Abstract evaluation metrics |
-| `retrieval/` | Pluggable `Retriever` factory, BM25 offline backend, embedding backend, corpus loader + synthetic seed docs |
+| `retrieval/` | `Retriever` factory + Weaviate backend (BGE-M3 vectors, hybrid + function-filtered search), corpus loader + ingest/build scripts |
 | `stages/define.py` | Define subgraph: 5 sub-components, metrics, human gate, finalize |
 | `stages/biologize.py` | Biologize subgraph: 6 sub-components, metrics, human gate, finalize |
 | `stages/discover.py` | Discover subgraph: 6 sub-components (RAG), metrics, human gate, finalize |
@@ -69,7 +70,7 @@ function_decomposer → context_mapper → taxonomy_aligner → hdn_generator
 - **Metrics:** function coverage ratio, taxonomy alignment confidence, HDN biological
   sensibility, framing diversity index, flip-pair coherence.
 
-## Stage 3 — Discover → Challenge Brief v3 (offline RAG)
+## Stage 3 — Discover → Challenge Brief v3 (Weaviate RAG)
 
 ```
 search_query_builder → multi_source_retriever → organism_profile_builder
@@ -77,21 +78,20 @@ search_query_builder → multi_source_retriever → organism_profile_builder
    → compute_metrics → human_gate → finalize
 ```
 
-- **Retrieval** goes through `retrieval.get_retriever()` (mirrors the `LLM` factory):
-  default `OfflineRetriever` = dependency-free **BM25** over `retrieval/corpus/`;
-  `EmbeddingRetriever` (LiteLLM) activates only on `BIOMIMICRY_RETRIEVAL=embedding` + a
-  key. A future `LiveRetriever` (httpx + AskNature/OpenAlex/RSS) drops in via the factory
-  with **zero node-code change**.
-- **Corpus** = JSON `StrategyDoc`s. Seeded with 4 synthetic docs modeled on real AskNature
-  strategies (`provenance:"synthetic"` + real URL). Drop a large real corpus into
-  `retrieval/corpus/` and it loads unchanged (`load_corpus` validates each doc).
+- **Retrieval** goes through `retrieval.get_retriever()` (mirrors the `LLM` factory) and is
+  served by `WeaviateRetriever`: local **BGE-M3** dense vectors (1024-dim, L2-normalized) over a
+  Weaviate Cloud collection, with **function-filtered hybrid search** (pre-filter on canonical
+  function/sub-group keys, then BM25 + vector fusion). Needs `WEAVIATE_URL` + `WEAVIATE_API_KEY`.
+- **Corpus** = JSON `StrategyDoc`s under `retrieval/corpus/` — the *source data* ingested into
+  the Weaviate collection by `retrieval/build_weaviate.py` (which embeds each doc with BGE-M3 and
+  resolves function keys). Add `*.json` docs and re-run the build to grow the index.
 - **Guardrail:** `citation_ledger_writer` logs every screened model (URL, organism,
   `doc_id`, provenance) — biological claims trace to a real source, never hallucinated.
 - **Metrics:** HDN relevance, taxonomic diversity, scale diversity, source credibility,
   mechanism completeness, novelty index (usual-suspects penalized unless on-target).
 
-To extend the corpus, add `*.json` files; to go online, set `GEMINI_API_KEY` and
-`BIOMIMICRY_RETRIEVAL=embedding`. BM25 params, tiers, and ranker weights live in `config.py`.
+Search mode, hybrid alpha, filter granularity, and the embedding model live in `config.py`
+(`WEAVIATE_SEARCH_MODE`, `HYBRID_ALPHA`, `FUNCTION_FILTER_LEVEL`, `E5_MODEL`).
 
 ## Stage 4 — Abstract → Design strategies (Challenge Brief v4)
 

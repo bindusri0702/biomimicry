@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-fins-allow-bidirectional-movement",
   "organism_common": "African freshwater electric eel",
-  "organism_scientific": "",
-  "strategy_summary": "Undulations of the tail and dorsal fins of the African freshwater electric eel allow for smooth bidirectional movement through the water. Image: Student of Marjan Eggermont at University of Calgary Schulich School of Engineering / toggle icon Image: Wiki-Harfus / CC BY SA - Creative Commons Attribution + ShareAlike…",
-  "mechanism": "Undulations of the tail and dorsal fins of the African freshwater electric eel allow for smooth bidirectional movement through the water.\n\nImage: Student of Marjan Eggermont at University of Calgary Schulich School of Engineering / toggle icon Image: Wiki-Harfus / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon right arrow right arrow\n\n“In addition to forward undulatory swimming, Gymnarchus niloticus can swim via undulations of the dorsal fin while the body axis remains straight; furthermore, it swims forward and backward in a similar way, which indicates that the undulation of the dorsal fin can simultaneously provide bidirectional propulsive and maneuvering forces with the help of the tail fin.” (Li et al. 2005:115)",
+  "strategy_summary": "Undulations of the tail and dorsal fins of the African freshwater electric eel allow for smooth bidirectional movement through the water. “In addition to forward undulatory swimming, Gymnarchus niloticus can swim via undulations of the dorsal fin while the body axis remains straight; furthermore, it swims forward and…",
+  "mechanism": "Undulations of the tail and dorsal fins of the African freshwater electric eel allow for smooth bidirectional movement through the water.\n\n“In addition to forward undulatory swimming, Gymnarchus niloticus can swim via undulations of the dorsal fin while the body axis remains straight; furthermore, it swims forward and backward in a similar way, which indicates that the undulation of the dorsal fin can simultaneously provide bidirectional propulsive and maneuvering forces with the help of the tail fin.” (Li et al. 2005:115)",
   "function_addressed": [
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/fins-allow-bidirectional-movement/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fins",
     "allow",
     "bidirectional",
     "movement"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

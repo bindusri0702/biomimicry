@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-leaves-protect-from-pathogens",
   "organism_common": "Thale cress",
-  "organism_scientific": "",
   "strategy_summary": "Leaves of thale cress protect the plant from pathogenic microorganisms by interrupting the cellular signals that otherwise keep the stoma open and vulnerable to bacterial invasion. Plants rely on complex innate immune systems to make up for their lack of adaptive systems.",
-  "mechanism": "Leaves of thale cress protect the plant from pathogenic microorganisms by interrupting the cellular signals that otherwise keep the stoma open and vulnerable to bacterial invasion.\n\nPlants rely on complex innate immune systems to make up for their lack of adaptive systems. They use complex signaling cascades that can detect and respond to bacterial and fungal pathogens both inside and outside their cells. One type of response is for the plant to close their stoma–the small openings on its leaves–which denies the pathogen entry points into the plant. The RIN4 protein has recently been shown to be instrumental in this process. Under normal circumstances, proteins embedded in the cell membrane send signals to RIN4 to keep stoma opened. When chemical signals from pathogenic microbes are detected, these signals stop and the stoma close.\n\nImage: Dandelion and Burdock / toggle icon",
+  "mechanism": "Leaves of thale cress protect the plant from pathogenic microorganisms by interrupting the cellular signals that otherwise keep the stoma open and vulnerable to bacterial invasion.\n\nPlants rely on complex innate immune systems to make up for their lack of adaptive systems. They use complex signaling cascades that can detect and respond to bacterial and fungal pathogens both inside and outside their cells. One type of response is for the plant to close their stoma–the small openings on its leaves–which denies the pathogen entry points into the plant. The RIN4 protein has recently been shown to be instrumental in this process. Under normal circumstances, proteins embedded in the cell membrane send signals to RIN4 to keep stoma opened. When chemical signals from pathogenic microbes are detected, these signals stop and the stoma close.",
   "function_addressed": [
     "protect from microbes",
     "sense disease in a living system"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes",
+    "sense-signals-environmental-cues::disease"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/leaves-protect-from-pathogens/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaves",
     "protect",
     "pathogens"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-insect-olfactory-receptors-allow-for-precise-sensing",
   "organism_common": "Insects",
-  "organism_scientific": "",
   "strategy_summary": "Insects’ precise sensing ability is vital for their survival, allowing them to thrive in diverse environments, from dense forests to arid deserts. In particular, insects rely heavily on their sense of smell to navigate their surroundings, locate food, find mates, perceive danger, and more.",
-  "mechanism": "Insect odorant receptors help them to detect, quantify, and process specific chemical stimuli in three dimensions. When molecules from the air—like those from food or flowers—reach an insect’s antennae, they enter small openings and bind to the receptors. This binding sends signals to the insect’s brain, telling it what the scent is and how to respond.\n\nEach odorant receptor is designed to recognize certain types of molecules, allowing insects to distinguish between different smells with incredible precision. For example, some receptors might only detect the smell of a flower, while others pick up on the scent of a predator or a pheromone from another member of their species. Even in environments filled with many competing smells, insects can quickly focus on the most important ones, thanks to their acutely tuned sensory system.\n\nMimicking the functionality and precision of insect odorant receptors can revolutionize sensing by adding a whole new class of sensors. Applications include detecting harmful pollutants in the air, identifying diseases through scent markers in human breath, and enhancing food safety by spotting spoilage chemicals. Researchers are continuing to explore how insights from these natural chemical detectors can be applied to biosensors useful to a range of industries.",
+  "mechanism": "Insect odorant receptors help them to detect, quantify, and process specific chemical stimuli in three dimensions. When molecules from the air—like those from food or flowers—reach an insect’s antennae, they enter small openings and bind to the receptors. This binding sends signals to the insect’s brain, telling it what the scent is and how to respond.\n\nEach odorant receptor is designed to recognize certain types of molecules, allowing insects to distinguish between different smells with incredible precision. For example, some receptors might only detect the smell of a flower, while others pick up on the scent of a predator or a pheromone from another member of their species. Even in environments filled with many competing smells, insects can quickly focus on the most important ones, thanks to their acutely tuned sensory system.\n\nMimicking the functionality and precision of insect odorant receptors can revolutionize sensing by adding a whole new class of sensors. Applications include detecting harmful pollutants in the air, identifying diseases through scent markers in human breath, and enhancing food safety by spotting spoilage chemicals. Researchers are continuing to explore how insights from these natural chemical detectors can be applied to biosensors useful to a range of industries.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "sense chemicals (odor, taste, etc.) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/insect-olfactory-receptors-allow-for-precise-sensing/",
-  "source_tier": "science_journalism",
   "keywords": [
     "insect",
     "olfactory",
@@ -20,7 +21,5 @@
     "precise",
     "sensing"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

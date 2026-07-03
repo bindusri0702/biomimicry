@@ -1,19 +1,24 @@
 {
   "doc_id": "asn-two-egg-pigments-drive-parasite-arms-race",
   "organism_common": "Birds",
-  "organism_scientific": "",
   "strategy_summary": "In many cultures, eggs symbolize life, renewal, and rebirth. So, it’s not surprising that decorating eggs is one of the oldest forms of human art, dating back at least 60,000 years.",
-  "mechanism": "On the other hand, some brood parasites coevolve with a specific host species. Dr. Mary Caswell Stoddard, assistant professor of sensory ecology, evolution, and behavior at Princeton University, describes this coevolutionary competition as an “arms race,” where color is often the weapon of choice.\n\nSome evolve plumage or other traits that cause hatched fledglings to resemble their hosts. Others mimic host egg colors, wielding the same two pigments that all birds use to dye their eggshells—biliverdin, which is blue-green, and protoporphyn IX, which is rusty brown. But the hosts can fight back with evolutionary countermeasures.\n\nStoddard says that these tint tactics evolve slowly. “Often we’re talking hundreds or thousands of years. These are long-timescale processes,” she said. But recent research indicates some species may be able to adapt more rapidly, changing colors within about 50 years.\n\nIn addition to the benefits of improving our understanding of evolution, Stoddard said this research lights her fire because, despite the great diversity of color signals that exist in nature, these are unique. “These eggs are such extraordinary mimics in some cases, it is a reminder of just how impressive evolution can be at generating novel and beautiful colors and patterns,” she said. “And in this case, it’s for deception.”",
+  "mechanism": "On the other hand, some brood parasites coevolve with a specific host species. Dr. Mary Caswell Stoddard, assistant professor of sensory ecology, evolution, and behavior at Princeton University, describes this coevolutionary competition as an “arms race,” where color is often the weapon of choice.\n\nSome evolve plumage or other traits that cause hatched fledglings to resemble their hosts. Others mimic host egg colors, wielding the same two pigments that all birds use to dye their eggshells—biliverdin, which is blue-green, and protoporphyn IX, which is rusty brown. But the hosts can fight back with evolutionary countermeasures.\n\nStoddard says that these tint tactics evolve slowly. “Often we’re talking hundreds or thousands of years. These are long-timescale processes,” she said. But recent research indicates some species may be able to adapt more rapidly, changing colors within about 50 years.\n\nTo illustrate how species coevolve egg-coloring, consider the color clash between cuckoo finches and tawny-flanked prinias. First, female cuckoo finches grew adept at sneaking eggs into prinia nests. Then, prinias learned to recognize egg invaders and reject them. In response, finches ramped up their trickery, mimicking the color of prinia eggs. In turn, prinias evolved egg designs with new colors, spots, and patterns into a kind of signature that helped them identify their own eggs. Upping the ante again, finches began forging those signatures. Some prinias appear to be winning the conflict with a relatively new shade of green eggshells that finches haven’t yet matched.\n\nWhile cuckoo finches targeted a single species, the common cuckoo tackled this challenge by diversifying egg appearances across multiple host species. This one species has divided into dozens of genetically distinct female races that each undergo a separate color competition with their preferred host. The races are thought to exist only among females because the genes that control egg color are likely found on the female sex chromosome, passing from mother to daughter. Though female cuckoos belong to distinct races, they are the same species and look identical. “The only difference,” Stoddard said, “is that Cuckoo 1 will always lay a white egg with brown speckles, Cuckoo 2 will always lay a blue egg, and Cuckoo 3 will always lay an olive-colored egg,” with each hue matching a specific host.\n\nIn addition to the benefits of improving our understanding of evolution, Stoddard said this research lights her fire because, despite the great diversity of color signals that exist in nature, these are unique. “These eggs are such extraordinary mimics in some cases, it is a reminder of just how impressive evolution can be at generating novel and beautiful colors and patterns,” she said. “And in this case, it’s for deception.”",
   "function_addressed": [
     "protect from animals",
     "modify light/color",
     "coevolve"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::coevolve",
+    "modify-physical-state::light-color",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "modify-physical-state",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/two-egg-pigments-drive-parasite-arms-race/",
-  "source_tier": "science_journalism",
   "keywords": [
     "two",
     "egg",
@@ -22,7 +27,5 @@
     "parasite",
     "arms"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

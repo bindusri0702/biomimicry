@@ -1,26 +1,28 @@
 {
   "doc_id": "asn-fiber-arrangement-is-highly-efficient",
   "organism_common": "Fish-pole bamboo",
-  "organism_scientific": "",
   "strategy_summary": "Fibers in stems of bamboo use materials efficiently because of their arrangement  Bamboo is a strong and flexible composite. Like wood, it gets much of its strength from cellulose fiber-wrapped vascular bundles arranged vertically and embedded in an amorphous matrix.",
-  "mechanism": "Fibers in stems of bamboo use materials efficiently because of their arrangement\n\nBamboo is a strong and flexible composite. Like wood, it gets much of its strength from cellulose fiber-wrapped vascular bundles arranged vertically and embedded in an amorphous matrix. The bundles serve dual functions as transport vessels and reinforcement for the stem. Trees and other woody plants are solid cylinders with the strong vascular bundles evenly arranged throughout. Bamboo, however, forms hollow tubes. Cross-sections through the tube walls show that the vascular bundles are arranged in a density gradient. At the inner surface of the tube wall, the bamboo tissue is predominantly matrix, while the proportion of strong vascular bundles increases towards the outer edge. The outside edge is where the stresses are strongest and so the plant optimizes material use by placing the toughest materials where they are most needed.\n\nImage: annieo76 / CC BY - Creative Commons Attribution alone toggle icon Image: Sato M, Inoue A, Shima H Bamboo-inspired optimal design for functionally graded hollow cylinders. PLoS ONE. 2017. 12(5): e0175029. http://www.dx.doi.org/10.1371/journal.pone.0175029 / CC BY - Creative Commons Attribution alone toggle icon right arrow right arrow\n\nBamboo\n\nThe stems of many plants may resist buckling by including transverse bulkheads that prevent ovalization.\n\nBamboo\n\nFibers of bamboo and trees provide toughness by their simple structure of fiber-reinforced composites",
+  "mechanism": "Fibers in stems of bamboo use materials efficiently because of their arrangement\n\nBamboo is a strong and flexible composite. Like wood, it gets much of its strength from cellulose fiber-wrapped vascular bundles arranged vertically and embedded in an amorphous matrix. The bundles serve dual functions as transport vessels and reinforcement for the stem. Trees and other woody plants are solid cylinders with the strong vascular bundles evenly arranged throughout. Bamboo, however, forms hollow tubes. Cross-sections through the tube walls show that the vascular bundles are arranged in a density gradient. At the inner surface of the tube wall, the bamboo tissue is predominantly matrix, while the proportion of strong vascular bundles increases towards the outer edge. The outside edge is where the stresses are strongest and so the plant optimizes material use by placing the toughest materials where they are most needed.\n\nBamboo\n\nThe stems of many plants may resist buckling by including transverse bulkheads that prevent ovalization.\n\nBamboo\n\nFibers of bamboo and trees provide toughness by their simple structure of fiber-reinforced composites",
   "function_addressed": [
     "manage tension",
     "manage compression",
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::tension",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/fiber-arrangement-is-highly-efficient/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fiber",
     "arrangement",
     "highly",
     "efficient"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

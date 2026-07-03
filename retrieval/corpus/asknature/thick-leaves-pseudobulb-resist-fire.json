@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-thick-leaves-pseudobulb-resist-fire",
   "organism_common": "Store Liquids",
-  "organism_scientific": "",
   "strategy_summary": "The Victorian orchid resists fire via tough, thick leaves and a pseudobulb water storage organ. “ Dendrobium speciosum is the largest Victorian orchid and occurs in small isolated colonies on exposed rocky outcrops.",
   "mechanism": "The Victorian orchid resists fire via tough, thick leaves and a pseudobulb water storage organ.\n\n“ Dendrobium speciosum is the largest Victorian orchid and occurs in small isolated colonies on exposed rocky outcrops. It is often found in Eucalyptus forest above rivers and creeks. These forests suffered severe damage in the March fires and D. speciosum took a real beating, despite its fire-resistant features of tough thick leaves and large water reserve in bulky pseudobulbs.” (Adams and Lawson 1984:282-286)",
   "function_addressed": [
     "store liquids",
     "protect from fire"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::fire",
+    "store::liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/thick-leaves-pseudobulb-resist-fire/",
-  "source_tier": "science_journalism",
   "keywords": [
     "thick",
     "leaves",
@@ -20,7 +23,5 @@
     "resist",
     "fire"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

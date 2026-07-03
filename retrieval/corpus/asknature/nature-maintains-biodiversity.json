@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-nature-maintains-biodiversity",
   "organism_common": "Ecosystems",
-  "organism_scientific": "",
   "strategy_summary": "Natural ecosystems react to low biodiversity levels by exploiting unused or poorly used resources to increase biodiversity. “In the case of skeleton weed biodiversity was inadvertently increased by the accidental introduction and then deliberately increased in the hope of achieving an effective biological control.",
   "mechanism": "Natural ecosystems react to low biodiversity levels by exploiting unused or poorly used resources to increase biodiversity.\n\n“In the case of skeleton weed biodiversity was inadvertently increased by the accidental introduction and then deliberately increased in the hope of achieving an effective biological control. In one sense the foregoing are simply weeds or pests in another they are modern examples of the response of nature to reduced biodiversity or the availability of unexploited or poorly exploited resources. MacArthur (1972) argued that when production is left unused, the system is open to invasion. In the present case I am viewing resources in a wider context but the principle is the same. In terms of biodiversity, nature is doing what it has always done, namely restoration following a decline. The mimicry is two sided. We may be mimicking nature, but nature sees cultivated crops as mimics of resource rich, species poor environments resulting from extinctions and reacts as it has done to these events in the past. This conclusion offers little hope that a permanent or universal solution can be found to the question of how much biodiversity is enough to prevent invasions, pests and diseases and that manipulation by the farmer will always be necessary.” (Main 1999:35)\n\nSahara Forest Project\n\nSahara Forest Project creates a saltwater value chain to generate electricity, produce freshwater, and revegetate desert lands.",
   "function_addressed": [
@@ -9,17 +8,19 @@
     "biological control of populations, pests, diseases",
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::biological-control-of-populations-pests-diseases",
+    "provide-ecosystem-services::maintain-biodiversity",
+    "provide-ecosystem-services::manage-disturbance-in-a-community"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/nature-maintains-biodiversity/",
-  "source_tier": "science_journalism",
   "keywords": [
     "nature",
     "maintains",
     "biodiversity"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

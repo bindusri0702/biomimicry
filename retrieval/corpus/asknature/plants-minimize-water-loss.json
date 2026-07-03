@@ -1,26 +1,29 @@
 {
   "doc_id": "asn-plants-minimize-water-loss",
   "organism_common": "Coordinate by Self-Organization",
-  "organism_scientific": "",
   "strategy_summary": "Plants in arid ecosystems self-organize to minimize water loss and aid plant and seed survival. “The vegetation of arid ecosystems displays scale-free, self-organized spatial patterns.",
-  "mechanism": "Plants in arid ecosystems self-organize to minimize water loss and aid plant and seed survival.\n\n“The vegetation of arid ecosystems displays scale-free, self-organized spatial patterns. Monitoring of such patterns could provide warning signals of the occurrence of sudden shifts towards desert conditions…Scanlon et al. 4 (page 209) and Kéfi et al. 5 (page 213) explore the problem of how vegetation in semi-arid ecosystems is organized in space and time. These studies point the way to how forecasting might be achieved. They involve analyses of the size distribution of vegetated patches in the Kalahari Desert 4, and in three different areas of the Mediterranean basin 5 , and they cover different spatial scales and types of vegetation…The authors also identify the origin of the mechanism underlying self-organization: a process of ‘local facilitation’ among plants, set against the background of overall control by water availability. Water is the limiting resource, but short-range interactions among plants involve positive effects that are a necessary condition for power laws to exist. The plants create a local environment that minimizes water run-off and facilitates the survival of other plants and seeds (Fig. 1).” (Solé 2007:151-153)",
+  "mechanism": "Plants in arid ecosystems self-organize to minimize water loss and aid plant and seed survival.\n\n“The vegetation of arid ecosystems displays scale-free, self-organized spatial patterns. Monitoring of such patterns could provide warning signals of the occurrence of sudden shifts towards desert conditions…Scanlon et al. 4 (page 209) and Kéfi et al. 5 (page 213) explore the problem of how vegetation in semi-arid ecosystems is organized in space and time. These studies point the way to how forecasting might be achieved. They involve analyses of the size distribution of vegetated patches in the Kalahari Desert 4, and in three different areas of the Mediterranean basin 5, and they cover different spatial scales and types of vegetation…The authors also identify the origin of the mechanism underlying self-organization: a process of ‘local facilitation’ among plants, set against the background of overall control by water availability. Water is the limiting resource, but short-range interactions among plants involve positive effects that are a necessary condition for power laws to exist. The plants create a local environment that minimizes water run-off and facilitates the survival of other plants and seeds (Fig. 1).” (Solé 2007:151-153)",
   "function_addressed": [
     "coordinate by self-organization",
     "cooperate/compete between different species",
     "regulate water storage"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::between-different-species",
+    "coordinate::by-self-organization",
+    "provide-ecosystem-services::regulate-water-storage"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "coordinate",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/plants-minimize-water-loss/",
-  "source_tier": "science_journalism",
   "keywords": [
     "plants",
     "minimize",
     "water",
     "loss"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

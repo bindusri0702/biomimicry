@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-plants-survive-repeated-drying-and-rehydration",
   "organism_common": "Lesser clubmoss plants",
-  "organism_scientific": "",
-  "strategy_summary": "The cells of lesser clubmoss plants prevent deformation during repeated dehydration via small vacuoles filled with mechanical mixtures called colloids. “Some plants, for example, in the genus Selaginella , can repeatedly dry and rehydrate without structural damage.",
-  "mechanism": "The cells of lesser clubmoss plants prevent deformation during repeated dehydration via small vacuoles filled with mechanical mixtures called colloids.\n\n“Some plants, for example, in the genus Selaginella , can repeatedly dry and rehydrate without structural damage. They avoid critical cell deformations during severe dehydration by using vacuoles of smaller size that are filled with tannin colloids instead of ions. Upon dehydration these colloids undergo minimal volume changes (Walter, 1956). Nature itself points here to the interesting alternative of replacing crystallizing small molecules with larger-sized colloids. ” (Bar-Cohen 2006:476)\n\nBar-Cohen Y. Biomimetics: biologically inspired technologies. Bar-Cohen Y, editor. Boca Raton, FL: CRC/Taylor & Francis; 2006. 527 p.",
+  "strategy_summary": "The cells of lesser clubmoss plants prevent deformation during repeated dehydration via small vacuoles filled with mechanical mixtures called colloids. “Some plants, for example, in the genus Selaginella, can repeatedly dry and rehydrate without structural damage.",
+  "mechanism": "The cells of lesser clubmoss plants prevent deformation during repeated dehydration via small vacuoles filled with mechanical mixtures called colloids.\n\n“Some plants, for example, in the genus Selaginella, can repeatedly dry and rehydrate without structural damage. They avoid critical cell deformations during severe dehydration by using vacuoles of smaller size that are filled with tannin colloids instead of ions. Upon dehydration these colloids undergo minimal volume changes (Walter, 1956). Nature itself points here to the interesting alternative of replacing crystallizing small molecules with larger-sized colloids. ” (Bar-Cohen 2006:476)\n\nBar-Cohen Y. Biomimetics: biologically inspired technologies. Bar-Cohen Y, editor. Boca Raton, FL: CRC/Taylor & Francis; 2006. 527 p.",
   "function_addressed": [
     "prevent deformation",
     "prevent fatigue"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::deformation",
+    "prevent-structural-failure::fatigue"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/plants-survive-repeated-drying-and-rehydration/",
-  "source_tier": "science_journalism",
   "keywords": [
     "plants",
     "survive",
@@ -20,7 +22,5 @@
     "drying",
     "rehydration"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

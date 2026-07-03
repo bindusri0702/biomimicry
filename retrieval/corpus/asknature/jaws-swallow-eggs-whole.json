@@ -1,26 +1,28 @@
 {
   "doc_id": "asn-jaws-swallow-eggs-whole",
   "organism_common": "Colubrid snakes",
-  "organism_scientific": "",
-  "strategy_summary": "The jaws of a snake found in Africa allow it to subsist solely on eggs, which it can swallow whole thanks to multibar linkages. “The members of another genus of snake, Dasypeltis , of quite a different lineage (colubrids rather than boids) eat only eggs, which they swallow whole and break in their esophagi.",
-  "mechanism": "The jaws of a snake found in Africa allow it to subsist solely on eggs, which it can swallow whole thanks to multibar linkages.\n\n“The members of another genus of snake, Dasypeltis , of quite a different lineage (colubrids rather than boids) eat only eggs, which they swallow whole and break in their esophagi. The eggs, like python prey, exceed the snakes’ cross sections. Eggs don’t fight back, and these oophagous snakes construct lighter skulls. But their bones are more firmly attached, and their impressive gape depends on a jaw with three hinge points along its length on each side (Gans 1974). (Vogel 2003:401) Watch video",
+  "strategy_summary": "The jaws of a snake found in Africa allow it to subsist solely on eggs, which it can swallow whole thanks to multibar linkages. “The members of another genus of snake, Dasypeltis, of quite a different lineage (colubrids rather than boids) eat only eggs, which they swallow whole and break in their esophagi.",
+  "mechanism": "The jaws of a snake found in Africa allow it to subsist solely on eggs, which it can swallow whole thanks to multibar linkages.\n\n“The members of another genus of snake, Dasypeltis, of quite a different lineage (colubrids rather than boids) eat only eggs, which they swallow whole and break in their esophagi. The eggs, like python prey, exceed the snakes’ cross sections. Eggs don’t fight back, and these oophagous snakes construct lighter skulls. But their bones are more firmly attached, and their impressive gape depends on a jaw with three hinge points along its length on each side (Gans 1974). (Vogel 2003:401) Watch video",
   "function_addressed": [
     "prevent fracture/rupture",
     "modify size/shape/mass/volume",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::size-shape-mass-volume",
+    "prevent-structural-failure::fracture-rupture"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "modify-physical-state",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/jaws-swallow-eggs-whole/",
-  "source_tier": "science_journalism",
   "keywords": [
     "jaws",
     "swallow",
     "eggs",
     "whole"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-squirting-toxins-protect-from-predators",
   "organism_common": "Puss moth",
-  "organism_scientific": "",
   "strategy_summary": "Tail filaments of Puss Moth caterpillars protect from predators by squirting formic acid. Puss Moth (Cerura vinula) caterpillar showing 'face' and tail filaments  Puss Moth (Cerura vinula) caterpillar  Puss Moth (Cerura vinula) caterpillar with tail filaments visible  “The pussmoth caterpillar browses head-down on…",
   "mechanism": "Tail filaments of Puss Moth caterpillars protect from predators by squirting formic acid.\n\nPuss Moth (Cerura vinula) caterpillar showing 'face' and tail filaments\n\nPuss Moth (Cerura vinula) caterpillar\n\nPuss Moth (Cerura vinula) caterpillar with tail filaments visible\n\n“The pussmoth caterpillar browses head-down on leaves. Its body colour is exactly that of its food plant, but if an intruder shakes the branch, and alarms it, the caterpillar suddenly lifts its head from its meal, exposing a scarlet face. Simultaneously it protrudes a pair of blood-red filaments from its tail and squirts formic acid.” (Attenborough 1979:91)",
   "function_addressed": [
     "expel liquids",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "expel::liquids",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "expel",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/squirting-toxins-protect-from-predators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "squirting",
     "toxins",
     "protect",
     "predators"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

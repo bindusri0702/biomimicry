@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-skin-aids-gliding",
   "organism_common": "Gliding possums",
-  "organism_scientific": "",
   "strategy_summary": "Gliding possums have been known to glide up to 100 meters with the aid of a downhill slope, as well as 50 meters over flattened terrain. Sugar gliders and squirrel gliders can reach up to 50 meters, while yellow-bellied gliders are able to cover distances of up to 140 meters in one leap.",
-  "mechanism": "Gliding possums are able to drift between trees due to a “gliding membrane”- a thin sheet of skin that stretches between the wrists and ankles on both sides of the body. Gliding through the air allows these mammals to reach distant food resources, escape predators, and return to nests. This allows the possum to save more energy and time than it would if it was foraging on the ground.\n\nTo begin gliding, possums leap from high up in a tree, and spread out their limbs to pull the membrane taught. This increases the total surface area, which increases lift and decreases drag, allowing the possum to stay in the air for longer. The leap begins at a downward angle, but as the possum picks up speed, the angle of flight flattens out. The possum’s prehensile tip on its tail acts as a rudder, steering its body towards the desired location. As the possum begins to land, it brings its hind legs closer to its body, making a ‘nose-up’ position, to finally land on all fours.\n\nAir travel contributes about 12 % of transportation emissions in the U.S. The more planes glide, the less fuel they consume. Learning how possums sail through the air could lead to technologies that increase an airplane’s ability to glide and lower greenhouse gas emissions.\n\nThis strategy was contributed by Cynthia Fishman and Brittany Longpre.",
+  "mechanism": "Gliding possums are able to drift between trees due to a “gliding membrane”- a thin sheet of skin that stretches between the wrists and ankles on both sides of the body. Gliding through the air allows these mammals to reach distant food resources, escape predators, and return to nests. This allows the possum to save more energy and time than it would if it was foraging on the ground.\n\nTo begin gliding, possums leap from high up in a tree, and spread out their limbs to pull the membrane taught. This increases the total surface area, which increases lift and decreases drag, allowing the possum to stay in the air for longer. The leap begins at a downward angle, but as the possum picks up speed, the angle of flight flattens out. The possum’s prehensile tip on its tail acts as a rudder, steering its body towards the desired location. As the possum begins to land, it brings its hind legs closer to its body, making a ‘nose-up’ position, to finally land on all fours.\n\nGlider Flight: See gliders in action and learn about the advantages this technique offers.\n\nAir travel contributes about 12 % of transportation emissions in the U.S. The more planes glide, the less fuel they consume. Learning how possums sail through the air could lead to technologies that increase an airplane’s ability to glide and lower greenhouse gas emissions.",
   "function_addressed": [
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/skin-aids-gliding/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skin",
     "aids",
     "gliding"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

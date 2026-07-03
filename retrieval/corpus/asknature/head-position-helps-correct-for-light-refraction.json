@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-head-position-helps-correct-for-light-refraction",
   "organism_common": "Western reef heron",
-  "organism_scientific": "",
-  "strategy_summary": "The head of the reef heron corrects for light refraction at the water's surface by adjusting position and keeping a constant relationship between real and apparent prey depth. Image: Charlesjsharp / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon Image: Frans Vandewalle / CC BY NC - Creative Commons…",
-  "mechanism": "The head of the reef heron corrects for light refraction at the water's surface by adjusting position and keeping a constant relationship between real and apparent prey depth.\n\nImage: Charlesjsharp / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon Image: Frans Vandewalle / CC BY NC - Creative Commons Attribution + Noncommercial toggle icon right arrow right arrow\n\n“Storks are highly successful fishermen, and have been for at least 50 million years. Only now are their numbers seriously threatened as their wetland habitats are drained or polluted. The black stork is found across Europe and Asia from Spain to China, and is rather a shy bird, nesting on cliffs or in tall forest trees. The stork seeks its prey while standing in water, and seizes it with the long pointed beak. Its eyes are directed slightly forward, giving it a certain degree of binocular vision, and it seems well able to allow for the effect of light refraction at the water surface when lining up its beak on the fish. It is thought that the relative angle of its eyes and beak assist in this.” (Foy and Oxford Scientific Films 1982:156)",
+  "strategy_summary": "The head of the reef heron corrects for light refraction at the water's surface by adjusting position and keeping a constant relationship between real and apparent prey depth. “Storks are highly successful fishermen, and have been for at least 50 million years.",
+  "mechanism": "The head of the reef heron corrects for light refraction at the water's surface by adjusting position and keeping a constant relationship between real and apparent prey depth.\n\n“Storks are highly successful fishermen, and have been for at least 50 million years. Only now are their numbers seriously threatened as their wetland habitats are drained or polluted. The black stork is found across Europe and Asia from Spain to China, and is rather a shy bird, nesting on cliffs or in tall forest trees. The stork seeks its prey while standing in water, and seizes it with the long pointed beak. Its eyes are directed slightly forward, giving it a certain degree of binocular vision, and it seems well able to allow for the effect of light refraction at the water surface when lining up its beak on the fish. It is thought that the relative angle of its eyes and beak assist in this.” (Foy and Oxford Scientific Films 1982:156)",
   "function_addressed": [
     "sense light (visible spectrum) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/head-position-helps-correct-for-light-refraction/",
-  "source_tier": "science_journalism",
   "keywords": [
     "head",
     "position",
@@ -19,7 +20,5 @@
     "light",
     "refraction"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

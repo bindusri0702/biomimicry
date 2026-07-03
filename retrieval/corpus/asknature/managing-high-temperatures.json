@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-managing-high-temperatures",
   "organism_common": "Tenrecs",
-  "organism_scientific": "",
-  "strategy_summary": "Tenrecs survive hot summer weather by entering a state of dormancy called estivation. Image: Meghan Murphy, Smithsonian's National Zoo / toggle icon  “Certain mammals are known to estivate.",
-  "mechanism": "Tenrecs survive hot summer weather by entering a state of dormancy called estivation.\n\nImage: Meghan Murphy, Smithsonian's National Zoo / toggle icon\n\n“Certain mammals are known to estivate. Perhaps the best-known examples are tenrecs – Madagascan insectivores related to hedgehogs. During the abnormally hot summer weather, they enter a state of inactivity resembling hibernation. Moreover, when outside temperatures plummet, they undergo true hibernation, becoming stiff and cold to the touch. This behavior has been noted on a number of occasions with captive zoo specimens of tenrecs maintained in countries with cooler average temperatures than that of their tropical Madagascan homeland.” (Shuker 2001:105)\n\n“Prior to the start of the Austral winter (May to September) they eat more and lay down fat reserves within their bodies in order to hibernate, which they usually do in burrows with the entrance plugged with soil. The long-tailed or shrew tenrecs (Microgale) also store fat in their tails, and in Dobson’s shrew tenrec (Microgale dobsoni) the nomad weight of 1 1/2 ounces (46 g) is almost doubled by the fat stored for hibernation. Madagascan winters are quitter mild, and could be termed the cool, dry season rather than winter. In the highlands at 4,100 feet (1,250 m) the temperature averages 59° F (15° C) in the dry season, just a few degrees lower than summer levels, but the vegetation, and consequently the food supplies, suffer from lack of rain and the tenrecs become dormant in their burrows…Dormant tenrecs dug out of their burrows were cold to the touch, had a very low breathing rate, and had neither food in their stomach or feces in the intestine. Even when active the tenrecs have a variable body temperature that ranges from 75.2° F (24°C) to 95°F (35°C). This is considerable lower than other mammals, which average 98.6°F (37°C), and the tenrec shares with the sloths the title of the most cold-blooded mammal. The body temperature of hibernating tenrecs is usually just 1.8° F (1°C) above the ambient temperature…These tenrecs also experience a daily temperature range of several degrees between their active and rest periods during the spring and summer, and they also estivate during the hottest times of the year.” (Roots 2006: 191)",
+  "strategy_summary": "Tenrecs survive hot summer weather by entering a state of dormancy called estivation. “Certain mammals are known to estivate.",
+  "mechanism": "Tenrecs survive hot summer weather by entering a state of dormancy called estivation.\n\n“Certain mammals are known to estivate. Perhaps the best-known examples are tenrecs – Madagascan insectivores related to hedgehogs. During the abnormally hot summer weather, they enter a state of inactivity resembling hibernation. Moreover, when outside temperatures plummet, they undergo true hibernation, becoming stiff and cold to the touch. This behavior has been noted on a number of occasions with captive zoo specimens of tenrecs maintained in countries with cooler average temperatures than that of their tropical Madagascan homeland.” (Shuker 2001:105)\n\n“Prior to the start of the Austral winter (May to September) they eat more and lay down fat reserves within their bodies in order to hibernate, which they usually do in burrows with the entrance plugged with soil. The long-tailed or shrew tenrecs (Microgale) also store fat in their tails, and in Dobson’s shrew tenrec (Microgale dobsoni) the nomad weight of 1 1/2 ounces (46 g) is almost doubled by the fat stored for hibernation. Madagascan winters are quitter mild, and could be termed the cool, dry season rather than winter. In the highlands at 4,100 feet (1,250 m) the temperature averages 59° F (15° C) in the dry season, just a few degrees lower than summer levels, but the vegetation, and consequently the food supplies, suffer from lack of rain and the tenrecs become dormant in their burrows…Dormant tenrecs dug out of their burrows were cold to the touch, had a very low breathing rate, and had neither food in their stomach or feces in the intestine. Even when active the tenrecs have a variable body temperature that ranges from 75.2° F (24°C) to 95°F (35°C). This is considerable lower than other mammals, which average 98.6°F (37°C), and the tenrec shares with the sloths the title of the most cold-blooded mammal. The body temperature of hibernating tenrecs is usually just 1.8° F (1°C) above the ambient temperature…These tenrecs also experience a daily temperature range of several degrees between their active and rest periods during the spring and summer, and they also estivate during the hottest times of the year.” (Roots 2006: 191)",
   "function_addressed": [
     "maintain homeostasis",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/managing-high-temperatures/",
-  "source_tier": "science_journalism",
   "keywords": [
     "deep",
     "sleep",
     "beat",
     "heat"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

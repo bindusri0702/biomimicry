@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-catapulting-transports-worms",
   "organism_common": "Nematodes",
-  "organism_scientific": "",
   "strategy_summary": "In the soil, beneath our feet, there is a hidden world of miniature creatures engaged in a struggle for survival. Among them are nematodes, tiny worms that use a clever trick to help them find their next meal: they jump.",
-  "mechanism": "When a nematode wants to jump, it first bends its body into a U-shape. The two ends of the U are prone to straighten out due to the animal’s slightly stiff outer layer, but they are held together by the surface tension of the thin water layer surrounding it. When the surface tension finally breaks, the released tension sends the nematode hurtling through the (admittedly small expanse of) air.\n\nThis two-step process of forming and contracting a loop allows the nematode to store enough energy to make a significant jump. On average, a nematode can jump a distance of 4.8mm and a height of 3.9mm.\n\nThe mechanism that enables nematodes to jump could be adapted for use at different scales and with different materials. For example, it could be used to create a textile that responds to changes in surface tension. Such a textile could be used in a variety of products, including clothing and upholstery.",
+  "mechanism": "When a nematode wants to jump, it first bends its body into a U-shape. The two ends of the U are prone to straighten out due to the animal’s slightly stiff outer layer, but they are held together by the surface tension of the thin water layer surrounding it. When the surface tension finally breaks, the released tension sends the nematode hurtling through the (admittedly small expanse of) air.\n\nThis two-step process of forming and contracting a loop allows the nematode to store enough energy to make a significant jump. On average, a nematode can jump a distance of 4.8mm and a height of 3.9mm.\n\nThe mechanism that enables nematodes to jump could be adapted for use at different scales and with different materials. For example, it could be used to create a textile that responds to changes in surface tension. Such a textile could be used in a variety of products, including clothing and upholstery.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "modify solubility (dissolving, emulsifying, precipitating, crystallizing)",
     "modify surface tension",
@@ -11,17 +10,24 @@
     "store energy",
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-chemical-electrical-state::solubility",
+    "modify-chemical-electrical-state::surface-tension",
+    "move::in-through-gases",
+    "store::energy",
+    "transform-convert-energy::mechanical-energy"
+  ],
+  "subgroup_keys": [
+    "modify-chemical-electrical-state",
+    "move",
+    "store",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/catapulting-transports-worms/",
-  "source_tier": "science_journalism",
   "keywords": [
     "catapulting",
     "transports",
     "worms"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

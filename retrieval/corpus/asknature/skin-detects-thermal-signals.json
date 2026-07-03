@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-skin-detects-thermal-signals",
   "organism_common": "Sense Temperature Cues From the Environment",
-  "organism_scientific": "",
-  "strategy_summary": "The skin of the blacktip reef shark enables it to locate prey via a gel that detects thermoelectric signals. Image: Luc Viatour / Wikimedia commons / toggle icon Image: Luc Viatour / Wikimedia commons / toggle icon Image: Klaus Stiefel / toggle icon right arrow right arrow  “[T]he thermoelectric properties of an…",
-  "mechanism": "The skin of the blacktip reef shark enables it to locate prey via a gel that detects thermoelectric signals.\n\nImage: Luc Viatour / Wikimedia commons / toggle icon Image: Luc Viatour / Wikimedia commons / toggle icon Image: Klaus Stiefel / toggle icon right arrow right arrow\n\n“[T]he thermoelectric properties of an extracellular gel… from the electrosensors of sharks… develops significant voltages in response to tiny temperature gradients. This bulk property of the gel indicates that temperature can be translated into electrical information without the need for ion channels, a sensitivity that may help sharks to locate thermal fronts as feeding areas.” (Brown 2003:495)",
+  "strategy_summary": "The skin of the blacktip reef shark enables it to locate prey via a gel that detects thermoelectric signals. “[T]he thermoelectric properties of an extracellular gel… from the electrosensors of sharks… develops significant voltages in response to tiny temperature gradients.",
+  "mechanism": "The skin of the blacktip reef shark enables it to locate prey via a gel that detects thermoelectric signals.\n\n“[T]he thermoelectric properties of an extracellular gel… from the electrosensors of sharks… develops significant voltages in response to tiny temperature gradients. This bulk property of the gel indicates that temperature can be translated into electrical information without the need for ion channels, a sensitivity that may help sharks to locate thermal fronts as feeding areas.” (Brown 2003:495)",
   "function_addressed": [
     "sense temperature cues from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::temperature"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/skin-detects-thermal-signals/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skin",
     "detects",
     "thermal",
     "signals"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

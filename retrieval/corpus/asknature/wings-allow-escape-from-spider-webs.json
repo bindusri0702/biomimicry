@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-wings-allow-escape-from-spider-webs",
   "organism_common": "Butterflies and moths",
-  "organism_scientific": "",
   "strategy_summary": "The wings of butterflies and moths help them escape spider webs and other predators because they have scales that easily detach. Some of the scales have detached and at one end is the narrow protuberance that fits into the socket.",
   "mechanism": "The wings of butterflies and moths help them escape spider webs and other predators because they have scales that easily detach.\n\nSome of the scales have detached and at one end is the narrow protuberance that fits into the socket.\n\nSome of the scales have detached and at one end is the narrow protuberance that fits into the socket.\n\nScalar patterning of a butterflys wing magnified 96x. Note the shingle-like pattern of the wing, which promotes heightened aerodynamic lift during the insects flight.\n\n“Because butterflies and moths are always at risk of flying into spiderwebs, their wings are covered with detachable scales. When these insects are caught in a web or held in the grasp of a predator, the scales pull away freely and thus enable the moth or butterfly to slip away.” (Forsyth 1992:12)\n\nThomas Eisner writes about testing how spider webs hold prey by dropping various insects onto the webs. “Most did not have a chance. It was the moths that seemed most consistently able to escape. They fluttered vigorously the moment we put them into an orb, but as a rule they were detained only momentarily. Some bounced off the web without sticking at all. Others, which did not change direction upon impact, slid momentarily over the web’s surface, only to flutter free when they reached the edge. They all left impact marks on the webs where scales became detached to the viscid strands. Moth scars we came to call such telltale sites, and soon learned that they were common.” (Eisner 2003:218-220) [In the photographs of p. 219 of this book, he shows wing scales of a moth and empty sockets left after the scales detached.]",
   "function_addressed": [
     "expel solids",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "expel::solids",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "expel",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/wings-allow-escape-from-spider-webs/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wings",
     "allow",
@@ -20,7 +23,5 @@
     "spider",
     "webs"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

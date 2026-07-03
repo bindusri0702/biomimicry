@@ -1,19 +1,22 @@
 {
   "doc_id": "asn-enzymes-catalyze-cellulose-breakdown-at-high-temperatures",
   "organism_common": "Archaeans",
-  "organism_scientific": "",
   "strategy_summary": "Enzymes produced by extremophile archaeabacteria can catalyze the breakdown of cellulose to glucose because they continue to function even under extremely hot, salty conditions. Researchers have recently isolated the same cellulase enzyme from a number of strains of archaeabacteria found in a hot spring in Nevada.",
-  "mechanism": "Enzymes produced by extremophile archaeabacteria can catalyze the breakdown of cellulose to glucose because they continue to function even under extremely hot, salty conditions.\n\nResearchers have recently isolated the same cellulase enzyme from a number of strains of archaeabacteria found in a hot spring in Nevada. The enzyme is able to catalyze the breakdown of cellulose to glucose at high temperatures (above 100 degrees C), and function under a wide range of harsh conditions including the presence of detergents, high salinity, and high ionic content.\n\nImage: Jim Peaco, National Park Service / toggle icon",
+  "mechanism": "Enzymes produced by extremophile archaeabacteria can catalyze the breakdown of cellulose to glucose because they continue to function even under extremely hot, salty conditions.\n\nResearchers have recently isolated the same cellulase enzyme from a number of strains of archaeabacteria found in a hot spring in Nevada. The enzyme is able to catalyze the breakdown of cellulose to glucose at high temperatures (above 100 degrees C), and function under a wide range of harsh conditions including the presence of detergents, high salinity, and high ionic content.",
   "function_addressed": [
     "catalyze chemical breakdown",
     "chemically break down polymers",
     "chemically break down organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::catalyze-breaking-of-bonds",
+    "chemically-break-down::organic-compounds",
+    "chemically-break-down::polymers"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/enzymes-catalyze-cellulose-breakdown-at-high-temperatures/",
-  "source_tier": "science_journalism",
   "keywords": [
     "enzymes",
     "catalyze",
@@ -22,7 +25,5 @@
     "high",
     "temperatures"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

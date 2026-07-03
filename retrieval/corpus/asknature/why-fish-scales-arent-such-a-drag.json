@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-why-fish-scales-arent-such-a-drag",
   "organism_common": "Fish",
-  "organism_scientific": "",
   "strategy_summary": "Airplanes, submarines, and cars are designed with smooth materials because they have less drag than rough ones. Right?",
-  "mechanism": "Professor Christoph Bruecker and graduate student Muthukumar Muthuramalingam at City University of London conducted two studies that indicate the roughness of fish scales doesn’t act like typical roughness of other materials. Although shape and size vary across species, fish scales are essentially rows of overlapping seashell-shaped bumps. The peaks of the bumpy scales create wakes of slower water behind them. The overlapping sides of scales form valleys where most of the water rushes through. So as a fish swims, it has alternating bands of “low flow” behind the scale peaks and “high flow” behind the valleys.\n\nIncorporating scales into material designs might also help humans consume less fuel. Scaled coatings in pipes could reduce friction loss along pipelines. Etching scales onto the surfaces of airplanes, submarines, and cars could also improve fuel efficiency and lower greenhouse gas emissions. Many think there is no bigger fish to fry than addressing climate change. Fish scales might just help.",
+  "mechanism": "Professor Christoph Bruecker and graduate student Muthukumar Muthuramalingam at City University of London conducted two studies that indicate the roughness of fish scales doesn’t act like typical roughness of other materials. Although shape and size vary across species, fish scales are essentially rows of overlapping seashell-shaped bumps. The peaks of the bumpy scales create wakes of slower water behind them. The overlapping sides of scales form valleys where most of the water rushes through. So as a fish swims, it has alternating bands of “low flow” behind the scale peaks and “high flow” behind the valleys.\n\nIt’s this streaked pattern that prevents scales from behaving like a typical rough surface because it keeps the flow across the fish even, like the gentle flow of a creek. Physicists call this a “laminar” flow, meaning the fluid is all flowing in parallel streams, or laminations, instead of swirling and interfering. Its opposite—turbulent flow—is like a gushing river that froths around rocks, swirling and mixing. It makes sense that it would be easier for a fish to swim against the current of a lapping creek than that of a rushing river. But this research isn’t about how laminar or turbulent the body of water is. It’s about the flow right next to a swimming fish’s skin, in an area called “the boundary layer.”\n\nBruecker explains a fish swimming in an ocean would not disturb water 100 feet away, and neither does that faraway water contribute to the friction the fish has to overcome to move forward. Even water a few inches away has little impact. It’s the critical millimeters-thick volume of water right against a fish’s skin that causes drag.\n\nIf the flow in this thin boundary layer becomes turbulent, Bruecker says the friction drag increases nearly five-fold. So the scales are keeping drag low by maintaining an even, laminar flow across the fish’s body. In one experiment, the researchers used dye to visualize flow across a flat, smooth plate and compared it to a scaled surface. Across the smooth plate, the flow quickly decayed into turbulent swirling and mixing because no structures were present to even it out. In contrast, red streaks across the scaled surface indicated a laminar profile was preserved over a much longer distance than the smooth plate. Of course, as a fish swims faster and faster, the flow will eventually become turbulent. But scales delay the transition.\n\nFishing around for more details, the scientists found that it’s not just the shape of the scales, but their size that determines the flow in the boundary layer. To even out the flow, scale bump heights must be low relative to the boundary layer thickness. If scales extended too far, they would act like a traditional rough surface, mixing water and adding drag. So faster swimmers, which have thinner boundary layers, need smaller scale heights. The researchers think this could explain why some fast swimmers, such as tuna, have smaller scales than slower swimmers like carp.\n\nOne of the research’s key findings was that delaying the transition to turbulent flow across scaled surfaces can reduce drag up to 27% compared to smooth surfaces. Why is that important to a fish? “It’s all about saving locomotional energy,” Bruecker says. More efficient swimming enables fish to cover longer distances with less food.\n\nIncorporating scales into material designs might also help humans consume less fuel. Scaled coatings in pipes could reduce friction loss along pipelines. Etching scales onto the surfaces of airplanes, submarines, and cars could also improve fuel efficiency and lower greenhouse gas emissions. Many think there is no bigger fish to fry than addressing climate change. Fish scales might just help.",
   "function_addressed": [
     "move in/on liquids",
     "manage turbulence"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::turbulence",
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/why-fish-scales-arent-such-a-drag/",
-  "source_tier": "science_journalism",
   "keywords": [
     "why",
     "fish",
@@ -21,7 +24,5 @@
     "such",
     "drag"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

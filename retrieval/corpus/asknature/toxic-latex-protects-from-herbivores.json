@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-toxic-latex-protects-from-herbivores",
   "organism_common": "Milkweed",
-  "organism_scientific": "",
   "strategy_summary": "Any broken part of milkweeds wards off herbivores via a poisonous latex that it exudes. Photograph of a flower head on the Butterfly Weed (Asclepias tuberosa en ) plant.",
   "mechanism": "Any broken part of milkweeds wards off herbivores via a poisonous latex that it exudes.\n\nPhotograph of a flower head on the Butterfly Weed (Asclepias tuberosa en ) plant. These flowers are the typical fully orange-colored flowers that are most typical of the species.\n\nFlowers and sap of Common Milkweed, self made picture taken summer of 2008.\n\n“Milkweed gets its name from a poisonous latex that exudes from its broken stem. This is so toxic that it can give a small animal a heart attack.” (Attenborough 1995:70-71)",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/toxic-latex-protects-from-herbivores/",
-  "source_tier": "science_journalism",
   "keywords": [
     "toxic",
     "latex",
     "protects",
     "herbivores"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

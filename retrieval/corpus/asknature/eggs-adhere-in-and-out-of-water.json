@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-eggs-adhere-in-and-out-of-water",
   "organism_common": "Attach Temporarily",
-  "organism_scientific": "",
   "strategy_summary": "The eggs of the midwife toad stick to the male toad's legs in and out of water via sticky egg strings. “After the pair lays and fertilizes strings of twenty to sixty eggs, the father thrusts his legs through the egg mass.",
   "mechanism": "The eggs of the midwife toad stick to the male toad's legs in and out of water via sticky egg strings.\n\n“After the pair lays and fertilizes strings of twenty to sixty eggs, the father thrusts his legs through the egg mass. The sticky egg strings adhere to him, and he stumbles around for the next few weeks with the eggs entwined around his thighs and waist. Periodically he dips into shallow water, ensuring the eggs don’t shrivel up and die. When the tadpoles are nearly ready to hatch, they flip about in their egg capsules. The wriggling of the twenty to sixty embryos likely tickles the male’s body and stimulates him to hop to a pond.” (Crump 2005:53)\n\nCrump, M. 2005. Headless Males Make Great Lovers & Other Unusual Natural Histories. University of Chicago Press, Chicago, IL. 199 pp.",
   "function_addressed": [
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/eggs-adhere-in-and-out-of-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eggs",
     "adhere",
     "out",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

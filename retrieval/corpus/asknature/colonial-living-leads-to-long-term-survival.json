@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-colonial-living-leads-to-long-term-survival",
   "organism_common": "Ascomycetes (Sac fungi)",
-  "organism_scientific": "",
   "strategy_summary": "Free-living ascomycetes survive unfavorable conditions by forming pseudo tissue-like microcolonies. “The capacity to survive long periods of suspended metabolism allows free-living ascomycetes to remain as colonies made up of pseudo tissue-like microcolonies comprising 100–500 cells for several decades until…",
   "mechanism": "Free-living ascomycetes survive unfavorable conditions by forming pseudo tissue-like microcolonies.\n\n“The capacity to survive long periods of suspended metabolism allows free-living ascomycetes to remain as colonies made up of pseudo tissue-like microcolonies comprising 100–500 cells for several decades until conditions favourable to further growth return.” (Gorbushina 2007:1620)",
   "function_addressed": [
     "protect from fungi",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::fungi",
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/colonial-living-leads-to-long-term-survival/",
-  "source_tier": "science_journalism",
   "keywords": [
     "colonial",
     "living",
@@ -20,7 +22,5 @@
     "long-term",
     "survival"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

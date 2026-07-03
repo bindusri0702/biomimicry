@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-powdery-wax-allows-for-efficient-waste-removal",
   "organism_common": "Poplar spiral gall aphid",
-  "organism_scientific": "",
   "strategy_summary": "Powdery wax secreted by aphids makes sticky honeydew waste manageable by coating it and creating non-stick “liquid marbles.”  Gall-dwelling aphids are insects that make their home in a potentially sticky situation. They live inside plant galls, which are enlarged and hollow outgrowths on stems or leaves that form in…",
   "mechanism": "Powdery wax secreted by aphids makes sticky honeydew waste manageable by coating it and creating non-stick “liquid marbles.”\n\nGall-dwelling aphids are insects that make their home in a potentially sticky situation. They live inside plant galls, which are enlarged and hollow outgrowths on stems or leaves that form in response to chemical cues from the aphids. The gall provides both food and protection for the insect, but living in an enclosed space presents unique challenges that their free-living relatives don’t experience.\n\nAphids feed on sugar-rich sap from their host plant and excrete a viscous, sugary liquid called honeydew. They must dispose of this sticky waste product or risk becoming covered in it. Honeydew is particularly hard to handle at small length scales, where surface tension dominates over gravitational forces. If the sticky substance spreads, it can drown the aphid or present an ideal environment for the growth of harmful pathogens. Free-living aphids can fling the honeydew away or move to another location, but gall-dwelling aphids have to use another strategy to manage their waste.\n\nThe poplar spiral gall aphid ( Pemphigus spyrothecae ) is one species of social aphid that lives in colonies in spiral-shaped galls on black poplar. This aphid secretes a powdery, hydrophobic (water-repelling) wax from special cells on the outer surface of its abdomen. The wax is initially secreted as small threads that arrange into skeins about 10-20 μm in diameter, which then break down into a fine filamentous powder. It has yet to be fully characterized, but comprises a mixture of compounds similar to candle wax. This powder coats the gall’s interior walls, creating a microtextured surface that, due to its physical structure and chemical composition, is hydrophobic. When an aphid excretes honeydew, the droplet is coated in wax strands it produces at the same time. The droplets are then covered with additional powdery wax as they get moved around inside the gall. Wax-coated droplets don’t stick to the aphid or gall walls, and can be disposed of simply by rolling them out of the gall opening.\n\nThe wax-covered honeydew droplets form spheres of liquid called “liquid marbles” that can easily roll around on a smooth surface and not wet it. In addition, because the honeydew is kept in small discrete droplets and not allowed to coalesce into bigger drops, the marbles roll faster and take less time to move. Together, the aphid colony creates a non-stick microhabitat with an effective and efficient waste-removal system.\n\nAdapted from Pike N; Richard D; Foster W; Mahadevan L. How aphids lose their marbles. Proc. R. Soc. Lond. B. 2002. 269(1497): 1211-1215, by permission of the Royal Society.",
   "function_addressed": [
     "distribute liquids",
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::liquids",
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/powdery-wax-allows-for-efficient-waste-removal/",
-  "source_tier": "science_journalism",
   "keywords": [
     "powdery",
     "wax",
@@ -21,7 +24,5 @@
     "waste",
     "removal"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

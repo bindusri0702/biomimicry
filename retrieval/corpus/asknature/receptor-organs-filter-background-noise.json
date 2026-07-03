@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-receptor-organs-filter-background-noise",
   "organism_common": "Elephant fishes",
-  "organism_scientific": "",
   "strategy_summary": "Receptor organs in the skin of weakly electric fishes filter out background noise and enable communication using cells as capacitors. Weakly electric fishes can both generate and sense electric fields.",
-  "mechanism": "Receptor organs in the skin of weakly electric fishes filter out background noise and enable communication using cells as capacitors.\n\nWeakly electric fishes can both generate and sense electric fields. Changes in the electric field around the fish provide information on its surroundings, including whether there are prey, predators, or potential mates nearby. Being able to perceive their surroundings with an electric sense is helpful for these fishes that are typically active at night and live in murky streams and rivers.\n\nA weakly electric fish can sense low and high frequency signals. The Earth’s electromagnetic field and all living organisms moving in the water contribute to a constant, very low frequency electrical field. Weakly electric fishes, however, can actively generate high frequency electric signals using specialized electric organs. These high frequency signals often vary in rate and intensity, and they are used for navigation and communication.\n\nTo detect information from the high frequency signals while filtering out the low frequency background signals, weakly electric fish use special electro-sensitive organs called tuberous receptor organs. The organ consists of a small chamber connected to the surface of the skin with a pore. Electro-sensitive cells sit at the base of the chamber. The tube leading from the surface pore to the receptor cells is partially blocked by skin cells, which appear to function like a capacitor: they offer a high resistance to constant low frequency electrical signals, but little resistance to varying high frequency signals. The folding pattern of the lining inside the tuberous organ further reduces resistance to high frequency signals. The result is that high frequency signals easily pass through to the receptor cells.\n\nTuberous receptor organs are especially sensitive or “tuned” to the peak frequency of signals coming from other weakly electric fishes. This enables weakly electric fish to focus in on detailed electrical communications from other electric fishes.\n\nImage: OpenCage photo lib / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon Image: Jmvgpartner / CC BY - Creative Commons Attribution alone toggle icon Image: Vassil / Public Domain - No restrictions toggle icon right arrow right arrow\n\nElephantnose fish\n\nThe elongated chin on the elephantnose fish helps it hunt in murky water by sensing electric signals.",
+  "mechanism": "Receptor organs in the skin of weakly electric fishes filter out background noise and enable communication using cells as capacitors.\n\nWeakly electric fishes can both generate and sense electric fields. Changes in the electric field around the fish provide information on its surroundings, including whether there are prey, predators, or potential mates nearby. Being able to perceive their surroundings with an electric sense is helpful for these fishes that are typically active at night and live in murky streams and rivers.\n\nA weakly electric fish can sense low and high frequency signals. The Earth’s electromagnetic field and all living organisms moving in the water contribute to a constant, very low frequency electrical field. Weakly electric fishes, however, can actively generate high frequency electric signals using specialized electric organs. These high frequency signals often vary in rate and intensity, and they are used for navigation and communication.\n\nTo detect information from the high frequency signals while filtering out the low frequency background signals, weakly electric fish use special electro-sensitive organs called tuberous receptor organs. The organ consists of a small chamber connected to the surface of the skin with a pore. Electro-sensitive cells sit at the base of the chamber. The tube leading from the surface pore to the receptor cells is partially blocked by skin cells, which appear to function like a capacitor: they offer a high resistance to constant low frequency electrical signals, but little resistance to varying high frequency signals. The folding pattern of the lining inside the tuberous organ further reduces resistance to high frequency signals. The result is that high frequency signals easily pass through to the receptor cells.\n\nTuberous receptor organs are especially sensitive or “tuned” to the peak frequency of signals coming from other weakly electric fishes. This enables weakly electric fish to focus in on detailed electrical communications from other electric fishes.\n\nElephantnose fish\n\nThe elongated chin on the elephantnose fish helps it hunt in murky water by sensing electric signals.",
   "function_addressed": [
     "sense electricity/magnetism from the environment",
     "differentiate signal from noise"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "process-signals::differentiate-signal-from-noise",
+    "sense-signals-environmental-cues::electricity-magnetism"
+  ],
+  "subgroup_keys": [
+    "process-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/receptor-organs-filter-background-noise/",
-  "source_tier": "science_journalism",
   "keywords": [
     "receptor",
     "organs",
@@ -20,7 +23,5 @@
     "background",
     "noise"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

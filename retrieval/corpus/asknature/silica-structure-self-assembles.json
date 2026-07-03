@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-silica-structure-self-assembles",
   "organism_common": "Chemically Assemble Mineral Crystals",
-  "organism_scientific": "",
   "strategy_summary": "Cell clusters associated with the surface of the giant basal growing spicule of the glass sponge release silica for controlled circumferential growth. Monorhaphis chuni sponges have evolved the genes to synthesize giant basal spicule that are nearly 3 meters long.",
   "mechanism": "Cell clusters associated with the surface of the giant basal growing spicule of the glass sponge release silica for controlled circumferential growth.\n\nMonorhaphis chuni sponges have evolved the genes to synthesize giant basal spicule that are nearly 3 meters long. The sponge’s cells absorb minute traces of silicic acid from sea water and use it to produce a monolithic amorphous silica rod by concentric deposition. Sclerocytes (a type of cell) form rings around a nascent spicule and produce a protein called silicatein to convert silicic acid to amorphous silica. Each ring is only 10 microns wide but repeated cycles result in the macroscopic structure that supports the sponge above the sea floor.",
   "function_addressed": [
@@ -9,17 +8,20 @@
     "physically assemble structure",
     "chemically assemble inorganic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::inorganic-compounds",
+    "chemically-assemble::mineral-crystals",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/silica-structure-self-assembles/",
-  "source_tier": "science_journalism",
   "keywords": [
     "silica",
     "structure",
     "self-assembles"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-skeletal-construction-provides-shock-absorption",
   "organism_common": "Capture, Absorb, or Filter Energy",
-  "organism_scientific": "",
   "strategy_summary": "The skeleton of a cat allows it to absorb shocks to its forelimbs because it has no direct skeletal connection between its collarbone and vertebral column. Photo is of a cheetah chasing a lure at the Cincinnati Zoo Mast Farm Picnic & Cheetah Run.",
   "mechanism": "The skeleton of a cat allows it to absorb shocks to its forelimbs because it has no direct skeletal connection between its collarbone and vertebral column.\n\nPhoto is of a cheetah chasing a lure at the Cincinnati Zoo Mast Farm Picnic & Cheetah Run.\n\n“Cats have no direct skeletal connection through a collarbone between the bones of their forelimbs (pectoral girdle) and those of their vertebral columns. In effect, they have shock-mounted forelimbs, which cushion a landing after a jump. None of these schemes reduce the extremes of velocity one bit; what they reduce are the velocity gradients.” (Vogel 2003:77)",
   "function_addressed": [
     "capture, absorb, or filter energy",
     "manage impact"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "manage-structural-forces::impact"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/skeletal-construction-provides-shock-absorption/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skeletal",
     "construction",
@@ -20,7 +23,5 @@
     "shock",
     "absorption"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

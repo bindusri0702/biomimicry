@@ -1,17 +1,16 @@
 {
   "doc_id": "asn-malaria-vector-chosen-as-preferred-prey",
   "organism_common": "East African jumping spider",
-  "organism_scientific": "",
   "strategy_summary": "The sensory system of an East African jumping spider is able to select blood-filled malarial mosquitoes as its preferred prey based on its superior vision. “That an East African predator might single out malaria vectors as preferred prey is of considerable interest.",
-  "mechanism": "The sensory system of an East African jumping spider is able to select blood-filled malarial mosquitoes as its preferred prey based on its superior vision.\n\n“That an East African predator might single out malaria vectors as preferred prey is of considerable interest. Not only is malaria the world’s most important insect-borne threat to public health [1,2], but it is especially in sub-Sahara Africa that Plasmodium falciparum and lethal malaria are prevalent [2,3,4,5]. Vectors of human malaria all belong to a particular mosquito genus, Anopheles [1,6,7]. Here we consider Evarcha culicivora , an East African jumping spider [Salticidae]. This species is known only from the vicinity of Lake Victoria in East Africa [8], a region where, even by African standards, the impact of malaria is especially severe [2,9,10]. Innate preference for blood-carrying female mosquitoes was shown for all active size classes of E. culicivora in an earlier study [11], but finer-grain preference for specifically Anopheles was not investigated. Here we show that, when sated, both large and small individuals of E. culicivora single out Anopheles as their preferred prey, and small juveniles of this predator prefer Anopheles even when fasted.” (Nelson and Jackson 2006:1)",
+  "mechanism": "The sensory system of an East African jumping spider is able to select blood-filled malarial mosquitoes as its preferred prey based on its superior vision.\n\n“That an East African predator might single out malaria vectors as preferred prey is of considerable interest. Not only is malaria the world’s most important insect-borne threat to public health [1,2], but it is especially in sub-Sahara Africa that Plasmodium falciparum and lethal malaria are prevalent [2,3,4,5]. Vectors of human malaria all belong to a particular mosquito genus, Anopheles [1,6,7]. Here we consider Evarcha culicivora, an East African jumping spider [Salticidae]. This species is known only from the vicinity of Lake Victoria in East Africa [8], a region where, even by African standards, the impact of malaria is especially severe [2,9,10]. Innate preference for blood-carrying female mosquitoes was shown for all active size classes of E. culicivora in an earlier study [11], but finer-grain preference for specifically Anopheles was not investigated. Here we show that, when sated, both large and small individuals of E. culicivora single out Anopheles as their preferred prey, and small juveniles of this predator prefer Anopheles even when fasted.” (Nelson and Jackson 2006:1)",
   "function_addressed": [
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/malaria-vector-chosen-as-preferred-prey/",
-  "source_tier": "science_journalism",
   "keywords": [
     "malaria",
     "vector",
@@ -19,7 +18,5 @@
     "preferred",
     "prey"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

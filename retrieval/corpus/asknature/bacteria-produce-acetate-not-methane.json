@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-bacteria-produce-acetate-not-methane",
   "organism_common": "Kangaroos and relatives",
-  "organism_scientific": "",
   "strategy_summary": "Digestive system of kangaroos have bacteria that produce acetate instead of methane. “Like cows and sheep, kangaroos produce hydrogen when they digest grass.",
   "mechanism": "Digestive system of kangaroos have bacteria that produce acetate instead of methane.\n\n“Like cows and sheep, kangaroos produce hydrogen when they digest grass. But instead of converting it into methane, bacteria in the stomachs of kangaroos produce a substance called acetate which the roos can use as a further energy source.” (Hadfield 2002: 21)",
   "function_addressed": [
     "chemically break down polymers"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::polymers"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/bacteria-produce-acetate-not-methane/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bacteria",
     "produce",
@@ -19,7 +20,5 @@
     "not",
     "methane"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

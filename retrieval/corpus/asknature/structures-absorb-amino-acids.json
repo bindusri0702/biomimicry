@@ -1,24 +1,21 @@
 {
   "doc_id": "asn-structures-absorb-amino-acids",
   "organism_common": "Potbelly airplant",
-  "organism_scientific": "",
   "strategy_summary": "The leaves of the potbelly airplant actively take up amino acids from solution via specialized epidermal hair-like structures. “Under dry conditions, the upper dead cells of the trichome form a cup-like shape with the rim composed of slightly curled wing cells (Fig.",
   "mechanism": "The leaves of the potbelly airplant actively take up amino acids from solution via specialized epidermal hair-like structures.\n\n“Under dry conditions, the upper dead cells of the trichome form a cup-like shape with the rim composed of slightly curled wing cells (Fig. 1). When wetted, these cells rapidly absorb water and the wing cells flatten against the surface of surrounding epidermal cells. All water entry into the plant follows a route from the wing cells through the ring and central disc cells to the living dome and foot cells…Histo-autoradiographic studies using labeled amino acids indicate that living stalk cells of T. [Tillandsia] paucifolia trichomes may be capable of taking up dissolved free amino acids from extrafoliar solutions.” (Nyman et al. 1987:682)\n\nNyman LP, Davis JP, O’Dell S J, Arditti J, Stephens GC, Benzing DH. Active Uptake of Amino Acids by Leaves of an Epiphytic Vascular Plant, Tillandsia paucifolia (Bromeliaceae). Plant Physiol 1987;83(3):681-684.",
   "function_addressed": [
     "capture, absorb, or filter chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/structures-absorb-amino-acids/",
-  "source_tier": "science_journalism",
   "keywords": [
     "structures",
     "absorb",
     "amino",
     "acids"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

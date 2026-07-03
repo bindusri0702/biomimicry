@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-electrogenic-bacteria-transform-mineral-landscapes",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "In oxygen-poor environments, such as lake beds and wetlands, certain bacteria have developed a unique way to “breathe” minerals. These organisms are called electrogenic bacteria, and they derive energy by breaking down minerals like iron oxides.",
-  "mechanism": "Electrogenic bacteria perform a process known as extracellular electron transfer, which enables them to “breathe” solids like iron minerals and electrodes. In the most famous example, specific electrogens, called iron-reducing bacteria, break down iron-containing minerals and convert the iron into a form that can dissolve in water. While most living things rely on oxygen to help release energy from their food, these bacteria replace oxygen when it is scarce and use iron minerals instead.\n\nThe process works because the bacteria have special proteins on their surfaces that allow them to interact directly with iron in minerals. These highly-conductive proteins help transfer electrons from the bacteria to the iron compounds, breaking them apart.\n\nAs the iron dissolves, other metals trapped in the minerals, such as copper, nickel, and cobalt, can also be released into the water. For the bacteria, this dissolution process exposes more fresh iron that they can use to breathe.\n\nThe ability of electrogenic bacteria to breathe solids enables diverse applications from microbial fuel cells, to environmental remediation and cleanup, to mineral processing. Their natural mechanisms can thus be harnessed for a wide range of nature-based solutions.",
+  "mechanism": "Electrogenic bacteria perform a process known as extracellular electron transfer, which enables them to “breathe” solids like iron minerals and electrodes. In the most famous example, specific electrogens, called iron-reducing bacteria, break down iron-containing minerals and convert the iron into a form that can dissolve in water. While most living things rely on oxygen to help release energy from their food, these bacteria replace oxygen when it is scarce and use iron minerals instead.\n\nThe process works because the bacteria have special proteins on their surfaces that allow them to interact directly with iron in minerals. These highly-conductive proteins help transfer electrons from the bacteria to the iron compounds, breaking them apart.\n\nAs the iron dissolves, other metals trapped in the minerals, such as copper, nickel, and cobalt, can also be released into the water. For the bacteria, this dissolution process exposes more fresh iron that they can use to breathe.\n\nThe ability of electrogenic bacteria to breathe solids enables diverse applications from microbial fuel cells, to environmental remediation and cleanup, to mineral processing. Their natural mechanisms can thus be harnessed for a wide range of nature-based solutions.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "chemically break down inorganic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::inorganic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/electrogenic-bacteria-transform-mineral-landscapes/",
-  "source_tier": "science_journalism",
   "keywords": [
     "electrogenic",
     "bacteria",
@@ -19,7 +20,5 @@
     "mineral",
     "landscapes"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

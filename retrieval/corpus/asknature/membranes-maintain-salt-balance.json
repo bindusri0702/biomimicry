@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-membranes-maintain-salt-balance",
   "organism_common": "Crab-eating frog",
-  "organism_scientific": "",
   "strategy_summary": "Membranes of crab-eating frog tadpoles allow them to survive in salt water via active ion transport. ''Fejervarya cancrivora'', from Darmaga, Bogor, West <a href=http://commons.wikimedia.org/wiki/Java title=Java>Java</a>  ''Fejervarya cancrivora'', from Darmaga, Bogor, West <a…",
   "mechanism": "Membranes of crab-eating frog tadpoles allow them to survive in salt water via active ion transport.\n\n''Fejervarya cancrivora'', from Darmaga, Bogor, West <a href=http://commons.wikimedia.org/wiki/Java title=Java>Java</a>\n\n''Fejervarya cancrivora'', from Darmaga, Bogor, West <a href=http://commons.wikimedia.org/wiki/Java title=Java>Java</a>\n\n“Tadpoles are effective osmoregulators: that is, they maintain their internal osmotic concentration relatively constant over a wide range of external salinities (Fig. 3.3). This is probably achieved by the active transport of ions out of the body at high environmental salinity, and by the retention of ions and elimination of water when the surrounding salinity is lower than that of the body fluids. Whatever the physiological mechanisms involved, young tadpoles can survive in concentrations of 40 per cent that of sea water (14 parts per thousand, ppt) and older ones to 50 percent sea water or higher. At 80 percent sea water (28 ppt) approximately 50 per cent of tadpoles still survive, and some still live at greater ion concentrations than that of full sea water (Gordon and Tucker 1965).” (Hogarth 1999:63)",
   "function_addressed": [
     "maintain homeostasis"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/membranes-maintain-salt-balance/",
-  "source_tier": "science_journalism",
   "keywords": [
     "membranes",
     "maintain",
     "salt",
     "balance"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

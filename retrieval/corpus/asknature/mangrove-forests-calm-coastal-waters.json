@@ -1,19 +1,23 @@
 {
   "doc_id": "asn-mangrove-forests-calm-coastal-waters",
   "organism_common": "Mangrove forest",
-  "organism_scientific": "",
   "strategy_summary": "Roots of red mangrove forests protect coastal shorelines by absorbing energy from waves. Climate change is bringing stronger and more intense storms to coastal areas across the world.",
-  "mechanism": "Roots of red mangrove forests protect coastal shorelines by absorbing energy from waves.\n\nClimate change is bringing stronger and more intense storms to coastal areas across the world. Powerful storm surges and other types of large waves carry enormous amounts of energy. When they wash up on a shoreline, they can cause rapid erosion, major damage to buildings, and loss of human life. Mangrove forests can protect shorelines from damage by powerful waves. The forests’ layered architecture helps to slow down and scatter wave energy so that it loses power before it reaches the shore.\n\nThis content marked as “Google Youtube” uses cookies that you chose to keep disabled. Click here to open your preferences and accept cookies. .\n\nAlso called mangrove swamps, these dense ecosystems occur in tropical and sub-tropical coastal waters. They are dominated by tree and shrub species that have unusual root shapes. For example, “prop roots,” or “stilt roots,” look like multiple legs branching out from the base of the tree trunk, anchoring the tree in the soil. Other species have “knee roots” emerging like bent knees from the soil. They anchor the tree and also help the main roots, nestled in oxygen poor soils, to get oxygen. A third type of roots are tall finger-shaped growths poking out of the soil near the main plant. These are called pneumatophores, and also aid in gas exchange. A wave rolling into a mangrove forest at high speed is met by a dense tangle of obstacles and it loses more and more energy as it gets sliced up by all the hurdles in its path. Scientists found that a wave can lose up to two-thirds of its energy after moving just 100 meters into a mangrove forest. The further it travels through the mangrove forest, the more energy it loses. The special root structures create so much friction and drag on the water that when the wave finally reaches the shoreline it has often been reduced to a gentle ripple.\n\nImage: Morgane Rae / Copyright © - All rights reserved toggle icon\n\nWithout mangrove forests, waves from coastal storms reach the shore with more intensity.\n\nHow much the wave slows down depends on how high it is, of course. Because the obstacles of the mangrove forest are close to the ground, they might not have as much of an effect on higher, more powerful waves. The forest canopy, however, can have the same type of effect as the mangrove roots on an incoming wave. Waves that are high enough to reach the height of the canopy – with its thick trunks, sprawling branches, and numerous leaves – get broken up and dissipated much the same way that shallow waves do. Overall, the dense mangrove ecosystem and forest canopy can be very beneficial to shoreline communities by helping to protect them during storms.\n\nAerial view of a coastal mangrove forest in Thailand.",
+  "mechanism": "Roots of red mangrove forests protect coastal shorelines by absorbing energy from waves.\n\nClimate change is bringing stronger and more intense storms to coastal areas across the world. Powerful storm surges and other types of large waves carry enormous amounts of energy. When they wash up on a shoreline, they can cause rapid erosion, major damage to buildings, and loss of human life. Mangrove forests can protect shorelines from damage by powerful waves. The forests’ layered architecture helps to slow down and scatter wave energy so that it loses power before it reaches the shore.\n\nThis content marked as “Google Youtube” uses cookies that you chose to keep disabled. Click here to open your preferences and accept cookies..\n\nAlso called mangrove swamps, these dense ecosystems occur in tropical and sub-tropical coastal waters. They are dominated by tree and shrub species that have unusual root shapes. For example, “prop roots,” or “stilt roots,” look like multiple legs branching out from the base of the tree trunk, anchoring the tree in the soil. Other species have “knee roots” emerging like bent knees from the soil. They anchor the tree and also help the main roots, nestled in oxygen poor soils, to get oxygen. A third type of roots are tall finger-shaped growths poking out of the soil near the main plant. These are called pneumatophores, and also aid in gas exchange. A wave rolling into a mangrove forest at high speed is met by a dense tangle of obstacles and it loses more and more energy as it gets sliced up by all the hurdles in its path. Scientists found that a wave can lose up to two-thirds of its energy after moving just 100 meters into a mangrove forest. The further it travels through the mangrove forest, the more energy it loses. The special root structures create so much friction and drag on the water that when the wave finally reaches the shoreline it has often been reduced to a gentle ripple.\n\nWithout mangrove forests, waves from coastal storms reach the shore with more intensity.\n\nHow much the wave slows down depends on how high it is, of course. Because the obstacles of the mangrove forest are close to the ground, they might not have as much of an effect on higher, more powerful waves. The forest canopy, however, can have the same type of effect as the mangrove roots on an incoming wave. Waves that are high enough to reach the height of the canopy – with its thick trunks, sprawling branches, and numerous leaves – get broken up and dissipated much the same way that shallow waves do. Overall, the dense mangrove ecosystem and forest canopy can be very beneficial to shoreline communities by helping to protect them during storms.\n\nAerial view of a coastal mangrove forest in Thailand.",
   "function_addressed": [
     "capture, absorb, or filter solids",
     "regulate hydrological flows",
     "control erosion and sediment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::solids",
+    "provide-ecosystem-services::control-erosion-and-sediment",
+    "provide-ecosystem-services::regulate-hydrological-flows"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/mangrove-forests-calm-coastal-waters/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mangrove",
     "forests",
@@ -21,7 +25,5 @@
     "coastal",
     "waters"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,19 +1,23 @@
 {
   "doc_id": "asn-amazonian-fish-has-tough-scales-to-protect-from-predators",
   "organism_common": "Manage Impact",
-  "organism_scientific": "",
   "strategy_summary": "Arapaima fish scales are extremely tough because they are made of tissue arranged in the Bouligand structure  In order to survive in the piranha infested waters of the Amazon, the arapaima fish has evolved armor-like scales. The scales have two layers: A hard outer layer that protects from the teeth of hungry…",
-  "mechanism": "Arapaima fish scales are extremely tough because they are made of tissue arranged in the Bouligand structure\n\nIn order to survive in the piranha infested waters of the Amazon, the arapaima fish has evolved armor-like scales. The scales have two layers: A hard outer layer that protects from the teeth of hungry predators, and a soft underlayer that is flexible enough to “bounce back” and recover its shape if an attack occurs.\n\nThe hard and soft layers in the scales work together to provide a resilient barrier that can endure a predator attack with almost no damage, making these scales some of the toughest on Earth. The secret to these scales is in how these two layers are attached. The layers are connected by collagen, a connective tissue found in all animals. In humans, collagen in the skin helps it stay firm and elastic. In the arapaima fish scales, collagen connects the hard, outer layer to the soft inner layer in an important pattern called the Bouligand structure. This structure has also been found in the shells of lobsters, beetles, and crabs and is the key to what makes these shells so strong.\n\nThe Bouligand structure looks like a spiral staircase, with fibers arranged in a twisting, helical pattern. The arapaima fish scale has many of these spiral staircases arranged next to each other. This arrangement makes the scales strong, flexible, and resistant to cracking. If a piranha attacks a fish without scales like these, it’s teeth would easily crack its scales and allow the piranha to penetrate the soft body of the fish underneath. However when an arapaima fish is bitten by a piranha, the Bouligand structure helps distribute the attack from the teeth by allowing the force to travel through these “spiral staircases”. This spreads out the force of the attack over a larger area, helping to relieve the impact. During an attack, there may be a small crack in the fish scale, but the Bouligand structure keeps the small crack from growing large enough that the piranha’s teeth can break through.\n\nThe arrangement of the collagen in this ‘spiral staircase’ is the reason the Amazonian fish scales are so tough to crack. Understanding this structure could lead to the invention of lightweight materials for armor that protects against explosions, or stronger frames for cars.\n\nImage: T.Voekler / CC BY - Creative Commons Attribution alone toggle icon right arrow right arrow\n\nRMIT University\n\n3D printed concrete from RMIT University is constructed with helicoid layers to increase strength.",
+  "mechanism": "Arapaima fish scales are extremely tough because they are made of tissue arranged in the Bouligand structure\n\nIn order to survive in the piranha infested waters of the Amazon, the arapaima fish has evolved armor-like scales. The scales have two layers: A hard outer layer that protects from the teeth of hungry predators, and a soft underlayer that is flexible enough to “bounce back” and recover its shape if an attack occurs.\n\nThe hard and soft layers in the scales work together to provide a resilient barrier that can endure a predator attack with almost no damage, making these scales some of the toughest on Earth. The secret to these scales is in how these two layers are attached. The layers are connected by collagen, a connective tissue found in all animals. In humans, collagen in the skin helps it stay firm and elastic. In the arapaima fish scales, collagen connects the hard, outer layer to the soft inner layer in an important pattern called the Bouligand structure. This structure has also been found in the shells of lobsters, beetles, and crabs and is the key to what makes these shells so strong.\n\nThe Bouligand structure looks like a spiral staircase, with fibers arranged in a twisting, helical pattern. The arapaima fish scale has many of these spiral staircases arranged next to each other. This arrangement makes the scales strong, flexible, and resistant to cracking. If a piranha attacks a fish without scales like these, it’s teeth would easily crack its scales and allow the piranha to penetrate the soft body of the fish underneath. However when an arapaima fish is bitten by a piranha, the Bouligand structure helps distribute the attack from the teeth by allowing the force to travel through these “spiral staircases”. This spreads out the force of the attack over a larger area, helping to relieve the impact. During an attack, there may be a small crack in the fish scale, but the Bouligand structure keeps the small crack from growing large enough that the piranha’s teeth can break through.\n\nThe arrangement of the collagen in this ‘spiral staircase’ is the reason the Amazonian fish scales are so tough to crack. Understanding this structure could lead to the invention of lightweight materials for armor that protects against explosions, or stronger frames for cars.\n\nRMIT University\n\n3D printed concrete from RMIT University is constructed with helicoid layers to increase strength.",
   "function_addressed": [
     "manage impact",
     "prevent deformation",
     "prevent fracture/rupture"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::impact",
+    "prevent-structural-failure::deformation",
+    "prevent-structural-failure::fracture-rupture"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/amazonian-fish-has-tough-scales-to-protect-from-predators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "amazonian",
     "fish",
@@ -22,7 +26,5 @@
     "scales",
     "protect"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

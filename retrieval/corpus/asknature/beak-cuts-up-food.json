@@ -1,24 +1,24 @@
 {
   "doc_id": "asn-beak-cuts-up-food",
   "organism_common": "Trogons and quetzals",
-  "organism_scientific": "",
   "strategy_summary": "The beak of trogon birds is used in part for securing food and cutting it up thanks to serrated cutting edges. Trogon personatus  “Trogon is Greek for ‘to gnaw or eat’ and refers to the structure and function of the beak.",
   "mechanism": "The beak of trogon birds is used in part for securing food and cutting it up thanks to serrated cutting edges.\n\nTrogon personatus\n\n“Trogon is Greek for ‘to gnaw or eat’ and refers to the structure and function of the beak. The cutting edges of the maxilla and/or mandible are variably serrated among most New World species and probably aid in securing live prey or large fruit. These serrations, along with the decurved tip of the bill (present in all species), are also useful in cutting food items into smaller pieces.” (Fowler 2003:246)",
   "function_addressed": [
     "capture, absorb, or filter organisms",
     "physically break down living materials"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "physically-break-down::living-materials"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "physically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/beak-cuts-up-food/",
-  "source_tier": "science_journalism",
   "keywords": [
     "beak",
     "cuts",
     "food"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

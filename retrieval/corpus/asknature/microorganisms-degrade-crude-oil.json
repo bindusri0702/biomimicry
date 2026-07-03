@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-microorganisms-degrade-crude-oil",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Bacteria degrade crude oil more quickly when working in multi-species consortiums. “The data reported here supported the premise that faster rate of degradation of HCs is achieved by the action of assemblages of pure strains of microorganisms with overall broad enzymatic capabilities rather than by a single versatile…",
   "mechanism": "Bacteria degrade crude oil more quickly when working in multi-species consortiums.\n\n“The data reported here supported the premise that faster rate of degradation of HCs is achieved by the action of assemblages of pure strains of microorganisms with overall broad enzymatic capabilities rather than by a single versatile organisms.” (Adebusoye et al. 2007:1158)",
   "function_addressed": [
     "chemically break down organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/microorganisms-degrade-crude-oil/",
-  "source_tier": "science_journalism",
   "keywords": [
     "microorganisms",
     "degrade",
     "crude",
     "oil"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

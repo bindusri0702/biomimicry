@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-hormones-regulate-stress-insects",
   "organism_common": "Insects",
-  "organism_scientific": "",
   "strategy_summary": "Perhaps because we don’t always notice them, it can be easy to forget the value bugs bring. Many birds, mammals, fish, and reptiles depend on insects for food, making them an integral part of a vast food chain.",
-  "mechanism": "Humans have a “fight or flight” mechanism driven primarily by adrenaline , a hormone classified as a biogenic amine . Insects also produce biogenic amine hormones as their first line of defense to an immediate threat. In humans, the fight or flight response diverts oxygen and blood from less urgent functions to muscles, priming them for action. In insects, these hormones alter metabolism to supply muscles with immediate energy, also mobilizing them to battle or escape from a predator.\n\nHumans and other vertebrates use glucocorticoid hormones to weather longer-lasting stressors. Insects use a related class of hormones, called ecdysiotropins, but other hormones also help them survive extreme conditions. In most cases, these hormones work together to shift metabolism and sustain energy demands. Adipokinetic hormone, for example, provides added energy to wing muscles during stress flight.\n\nEven though insects have a different stress response than humans and other animals, studying it is important because of the role insects play in ecosystems around the world. We depend on the contributions they make, and multiple lines of evidence point to insect populations and diversity plummeting all over. In areas where species are threatened, perhaps we can develop methods that adjust their metabolisms to help them thrive in the face of global warming and other human-caused environmental stressors. We may even abandon the use of toxic pesticides, and instead develop land treatments that influence hormones and behavior in more life-friendly ways.",
+  "mechanism": "Humans have a “fight or flight” mechanism driven primarily by adrenaline , a hormone classified as a biogenic amine . Insects also produce biogenic amine hormones as their first line of defense to an immediate threat. In humans, the fight or flight response diverts oxygen and blood from less urgent functions to muscles, priming them for action. In insects, these hormones alter metabolism to supply muscles with immediate energy, also mobilizing them to battle or escape from a predator.\n\nHumans and other vertebrates use glucocorticoid hormones to weather longer-lasting stressors. Insects use a related class of hormones, called ecdysiotropins, but other hormones also help them survive extreme conditions. In most cases, these hormones work together to shift metabolism and sustain energy demands. Adipokinetic hormone, for example, provides added energy to wing muscles during stress flight.\n\nHowever, ecdysiotropins and other hormones that influence stress also affect normal insect growth. Adding to the complexity, growing insects undergo metamorphosis—molting or transforming from larva to pupa or from nymph to adult, depending on the type of insect. It’s not yet well understood how stress affects insects in different life stages, and scientists have observed a range of responses. For example, the same injury caused premature molting in younger caterpillars but delayed molting in older ones. Also, some stressors slow growth, while others accelerate it.\n\nWe need bugs, but multiple lines of evidence point to insect populations and diversity plummeting all over.\n\nEven though insects have a different stress response than humans and other animals, studying it is important because of the role insects play in ecosystems around the world. We depend on the contributions they make, and multiple lines of evidence point to insect populations and diversity plummeting all over. In areas where species are threatened, perhaps we can develop methods that adjust their metabolisms to help them thrive in the face of global warming and other human-caused environmental stressors. We may even abandon the use of toxic pesticides, and instead develop land treatments that influence hormones and behavior in more life-friendly ways.",
   "function_addressed": [
     "protect from animals",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/hormones-regulate-stress-insects/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hormones",
     "regulate",
@@ -20,7 +23,5 @@
     "response",
     "stress"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

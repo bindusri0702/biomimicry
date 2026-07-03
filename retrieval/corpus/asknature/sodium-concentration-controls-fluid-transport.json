@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-sodium-concentration-controls-fluid-transport",
   "organism_common": "Mammals",
-  "organism_scientific": "",
   "strategy_summary": "Cilia are tiny hair-like tufts on the surface of cells. They are found in many eukaryotes, from single-celled organisms to large animals.",
   "mechanism": "Beating cilia have two distinct phases: a power stroke that moves liquid forward, and a return stroke that prepares them for the next power stroke. Cilia rely on the surrounding liquid to sweep particles along with the flow. Without the appropriate quantity or consistency of liquid, the cilia cannot generate currents. As a result, transport can be regulated by controlling the liquid. In the oviduct, for example, liquid is only present during ovulation.\n\nIn order to alter the quantity and consistency of the liquid bathing the cilia, water must pass through the membranes of the cells that line the tissue. Water passes passively through the cell membrane depending on the concentration of salts on each side. Salt transport is tightly controlled by the cell and these ions cannot easily pass through the membrane. Water will pass through a semi-permeable membrane like that of the cell until the concentration of salts is the same on each side. In this way, if there is a higher concentration of salt on one side, water will move towards that side until the concentrations are balanced. Cells take advantage of this to regulate the amount of liquid that is bathing cilia. By actively pumping sodium ions into the space, they draw water out of the cell and bathe the cilia, promoting their action and allowing transport. To switch off cilia, cells pump sodium ions back inside the cell, drawing the water out of the space and preventing their action.\n\nSeveral elements are at work in this strategy which could be useful to guide human innovation. There is the use of fluctuating bristles to control the movement of fluid (or the movement of a body through a fluid). There is the release of water to change the quality of the surrounding liquid to improve effectiveness of the beating cilia. Finally, there is the active pumping of sodium which controls the release of that water molecularly, without squeezing or pumping the water itself. Such techniques at a small scale could be used to propel nanomachines through the body for medical procedures. At a large scale, they could be used in specific locations and patterns to alter the hydrodynamics around parts of water-going vessels.",
   "function_addressed": [
@@ -11,11 +10,19 @@
     "regulate reproduction or growth",
     "regulate cellular processes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes",
+    "protect-from-non-living-threats::dirt-solids",
+    "protect-from-non-living-threats::excess-liquids",
+    "regulate-physiological-processes::cellular-processes",
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/sodium-concentration-controls-fluid-transport/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sodium",
     "concentration",
@@ -23,7 +30,5 @@
     "fluid",
     "transport"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

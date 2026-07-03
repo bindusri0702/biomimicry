@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-eyes-manage-glare",
   "organism_common": "Protect From Light",
-  "organism_scientific": "",
   "strategy_summary": "Red droplets in the cone cells of kingfisher eyes may allow sight through water or glare by acting as chromatic filters. Sacred Kingfisher.",
   "mechanism": "Red droplets in the cone cells of kingfisher eyes may allow sight through water or glare by acting as chromatic filters.\n\nSacred Kingfisher. Taken in Victoria, Australia in November 2008\n\nBelted Kingfisher, Blackie Spit Park, Crescent Beach, British Columbia\n\n“Kingfishers have specialized eyes and excellent eyesight. The retina of each eye has two fovea. The cone cells have a high proportion of red droplets, which may act as chromatic filters, allowing sight through the surface of the water.” (Fowler and Miller 2003: 254)",
   "function_addressed": [
     "protect from light",
     "sense light (visible spectrum) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::light",
+    "sense-signals-environmental-cues::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/eyes-manage-glare/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eyes",
     "manage",
     "glare"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

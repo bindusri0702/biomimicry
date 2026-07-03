@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-how-immune-systems-identify-real-threats",
   "organism_common": "Animals",
-  "organism_scientific": "",
   "strategy_summary": "It can be easy to think of your immune system as generally inactive, waiting to spring into action when a major infection comes on, but it is in fact never at rest. Daily, the immune system is assessing the danger of foreign particles: flower pollen, carpet bits you inhale, harmless bacteria on surfaces you touch…",
-  "mechanism": "Microbes and chemicals that are a threat to our bodies share a feature that harmless ones do not: they cause cell death. When a cell dies due to an attack, the contents of that cell pour out, flowing into the fluids between other cells. Some of these molecules normally found inside cells and their derivatives then serve a new purpose: they can function as signals, triggering a response from the still healthy cells that comprise our immune system. In this way, an immune system can distinguish between dangerous and non-dangerous microbes, and minimize overreacting to foreign particles that actually are no threat.\n\nFor example, as pathogenic microbes injure and destroy cells inside a mammal, the genetic material in these cells (RNA and DNA) begins to fall apart. Genetic material contains large amounts of a molecule called purine. Liberated from genes, purine loses an electron (oxidizes) to form a new compound, uric acid. Thus, during infection, large amounts of uric acid are produced by cells dying from infection, and that acid pours into the extracellular matrix. This sets off a chain reaction in which the uric acid stimulates dendritic cells to become more numerous and more active. These activated dendritic cells then travel to lymph nodes where they alert immune cells such as T cells that an infection is underway. The T cells then travel to the infection site to attack the pathogenic microbe.\n\nAn immune response to harmless foreign particles would keep the body in a near-constant state of immune activity, use unnecessary energy, and be more susceptible to autoimmune disorders. The “dead cell alert” process helps ensure that the immune system doesn’t become active simply due to the presence of a foreign particle. Foreign matter and evidence of cell death are both needed to trigger an immune response.\n\nKnowing what triggers our immune system response can open up opportunities for moderating that response, such as developing interventions which change the level of triggering molecules in our bodies. In addition, we, like our immune systems, can use these triggers to help diagnose the presence of dangerous infections. A new medical bandage, inspired by the immune system response to dangerous microbes, has capsules filled with fluorescent dyes embedded in it. When toxins from dangerous bacteria are present, they break down the capsule walls and release the fluorescent dye, creating a quick and easy way for doctors to detect infections forming on a wound.\n\nSee Related Innovation\n\nUniversity of Bath\n\nSmartwound from the Jenkins Group at the University of Bath is a bandage with a special gel matrix that alerts the user when an infection has occurred.",
+  "mechanism": "Microbes and chemicals that are a threat to our bodies share a feature that harmless ones do not: they cause cell death. When a cell dies due to an attack, the contents of that cell pour out, flowing into the fluids between other cells. Some of these molecules normally found inside cells and their derivatives then serve a new purpose: they can function as signals, triggering a response from the still healthy cells that comprise our immune system. In this way, an immune system can distinguish between dangerous and non-dangerous microbes, and minimize overreacting to foreign particles that actually are no threat.\n\nFor example, as pathogenic microbes injure and destroy cells inside a mammal, the genetic material in these cells (RNA and DNA) begins to fall apart. Genetic material contains large amounts of a molecule called purine. Liberated from genes, purine loses an electron (oxidizes) to form a new compound, uric acid. Thus, during infection, large amounts of uric acid are produced by cells dying from infection, and that acid pours into the extracellular matrix. This sets off a chain reaction in which the uric acid stimulates dendritic cells to become more numerous and more active. These activated dendritic cells then travel to lymph nodes where they alert immune cells such as T cells that an infection is underway. The T cells then travel to the infection site to attack the pathogenic microbe.\n\nAn immune response to harmless foreign particles would keep the body in a near-constant state of immune activity, use unnecessary energy, and be more susceptible to autoimmune disorders. The “dead cell alert” process helps ensure that the immune system doesn’t become active simply due to the presence of a foreign particle. Foreign matter and evidence of cell death are both needed to trigger an immune response.\n\nKnowing what triggers our immune system response can open up opportunities for moderating that response, such as developing interventions which change the level of triggering molecules in our bodies. In addition, we, like our immune systems, can use these triggers to help diagnose the presence of dangerous infections. A new medical bandage, inspired by the immune system response to dangerous microbes, has capsules filled with fluorescent dyes embedded in it. When toxins from dangerous bacteria are present, they break down the capsule walls and release the fluorescent dye, creating a quick and easy way for doctors to detect infections forming on a wound.\n\nUniversity of Bath\n\nSmartwound from the Jenkins Group at the University of Bath is a bandage with a special gel matrix that alerts the user when an infection has occurred.",
   "function_addressed": [
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/how-immune-systems-identify-real-threats/",
-  "source_tier": "science_journalism",
   "keywords": [
     "immune",
     "systems",
@@ -19,7 +20,5 @@
     "real",
     "threats"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

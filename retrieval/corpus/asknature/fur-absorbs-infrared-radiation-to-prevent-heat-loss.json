@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-fur-absorbs-infrared-radiation-to-prevent-heat-loss",
   "organism_common": "Polar bear",
-  "organism_scientific": "",
   "strategy_summary": "North of the Arctic circle, where polar bears roam, temperatures can drop to –58°F (–50°C) on a blustery day. But these massive creatures are barely fazed by the chill.",
-  "mechanism": "The coat is made up of two distinct layers: a short and dense underfur layer next to the skin, and an outer layer of longer and coarser guard hairs.\n\nThe guard hairs appear white, but are actually made up of a light-scattering translucent cylinder surrounding a chambered core. This sophisticated structure not only absorbs heat from the environment but also prevents the heat that radiates from the bear’s body from easily escaping into the air around it.\n\nIndigenous people of the far north have long relied on clothing made from polar bear fur to keep themselves warm. In addition to using the fur itself, we might take inspiration from the unique interior structure of the individual hairs to design synthetic fibers and textiles for cold-weather wear that hold heat better than conventional ones. Other temperature-related applications might include boosting the efficiency and flexibility of solar thermal collectors; improving building insulation for heating or cooling; and designing containers to keep the temperatures of food and medicine in safe ranges during transport or in areas where refrigeration is unavailable.\n\nIf we consider more generally the concept of altering the transmission of electromagnetic radiation, further adaptations of the concepts might include enhancing solar photovoltaic performance, customizing greenhouse lighting for optimizing plant growth; and providing smart lighting for homes.",
+  "mechanism": "The coat is made up of two distinct layers: a short and dense underfur layer next to the skin, and an outer layer of longer and coarser guard hairs.\n\nThe guard hairs appear white, but are actually made up of a light-scattering translucent cylinder surrounding a chambered core. This sophisticated structure not only absorbs heat from the environment but also prevents the heat that radiates from the bear’s body from easily escaping into the air around it.\n\nWhen sunlight hits the hair, the outside reflects a small amount back into the environment, giving the bear a bright white appearance. Most of the light, however, travels through the translucent sheath, where it hits and is reflected by the core. Depending on the angle at which the light hits the core, it bounces around within the hair or it bounces out to another hair, where the process is repeated.\n\nSome of the light energy transforms into heat in the process. Some of it bounces deeper and deeper into the bear’s coat until it finally is absorbed by the bear’s black skin, which re-radiates it as heat. The tightly packed inner fur holds the heat close to the animal, helping to keep it warm.\n\nMany animals that live in cold climates have hair with a hollow core. In polar bear hair, the core’s chambers add extra insulating value. As a result, when the bear encounters an increase in the temperature around it—say, by entering water hovering near 32°F (0°C)—the chambered core can absorb the additional heat and hold it for longer than a hollow-cored hair might.\n\nIndigenous people of the far north have long relied on clothing made from polar bear fur to keep themselves warm. In addition to using the fur itself, we might take inspiration from the unique interior structure of the individual hairs to design synthetic fibers and textiles for cold-weather wear that hold heat better than conventional ones. Other temperature-related applications might include boosting the efficiency and flexibility of solar thermal collectors; improving building insulation for heating or cooling; and designing containers to keep the temperatures of food and medicine in safe ranges during transport or in areas where refrigeration is unavailable.\n\nIf we consider more generally the concept of altering the transmission of electromagnetic radiation, further adaptations of the concepts might include enhancing solar photovoltaic performance, customizing greenhouse lighting for optimizing plant growth; and providing smart lighting for homes.",
   "function_addressed": [
     "protect from temperature",
     "capture, absorb, or filter energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/fur-absorbs-infrared-radiation-to-prevent-heat-loss/",
-  "source_tier": "science_journalism",
   "keywords": [
     "see-through",
     "fur",
@@ -20,7 +23,5 @@
     "light",
     "heat"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

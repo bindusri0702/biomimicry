@@ -1,19 +1,23 @@
 {
   "doc_id": "asn-immune-system-is-fortified",
   "organism_common": "Common fruit fly",
-  "organism_scientific": "",
   "strategy_summary": "From the largest whale to the tiniest bacterium, hunger and disease are two of life’s biggest threats. Both play a role in a unique survival strategy of the fruit fly ( Drosophila melanogaster ).",
-  "mechanism": "Hunger creates stress for an organism by reducing the amount of energy available for keeping its organs and tissues humming along. This reduced energy in turn makes the organism more vulnerable to invasion by bacteria and other illness-causing organisms—similar to the way humans are more likely to make mistakes when we’re tired or distracted by problems we’re trying to solve or difficulties we’re trying to deal with.\n\nIt’s easy to imagine that the right response when times get tough is to slow down other activities and focus on the stress. The fruit fly’s innate system for ramping up defense mechanisms under stress provides a template for using stress as a signal that it’s time to take preemptive actions to minimize the adverse consequences that might emerge from the stressed conditions. By responding to conditions that signal a potential increase in vulnerability, the fly preemptively fortifies itself against potential enemies.\n\nThe take-home lesson for humans: Rather than focusing exclusively on dealing with immediate sources of stress, also be mindful of what other, future stresses the current challenge might catalyze and take preventive actions to avoid being buried in an avalanche of snowballing stresses down the road.",
+  "mechanism": "Hunger creates stress for an organism by reducing the amount of energy available for keeping its organs and tissues humming along. This reduced energy in turn makes the organism more vulnerable to invasion by bacteria and other illness-causing organisms—similar to the way humans are more likely to make mistakes when we’re tired or distracted by problems we’re trying to solve or difficulties we’re trying to deal with.\n\nThe fruit fly reduces the risk of having one difficulty (hunger) lead to another (infection) by starting a cause-and-effect chain reaction of its own.\n\nThe fruit fly reduces the risk of having one difficulty (hunger) lead to another (infection) by starting a cause-and-effect chain reaction of its own. At the center of this operation is a category of molecules known as antimicrobial peptide s, or AMPs. Unlike many immune system actors, these molecules are not tailored to specific pathogens. Rather, they attack and kill whatever bacteria they encounter, wherever they encounter them, by demolishing their cell walls. Since some bacteria are beneficial, you don’t want AMPs around everywhere, all of the time. But they’re a valuable asset to be able to produce when absolutely needed.\n\nWhen hunger reduces the energy level within cells, levels of insulin , also drop. This signals a chemical known as FOXO to enter the cell’s nucleus. Once in the nucleus, FOXO turns on the genes that make AMPs. These newly minted AMPs are then available to destroy pathogens, should any try to take advantage of the fly’s hunger-induced vulnerability.\n\nWhile this is all well documented among fruit flies specifically, AMPs are found in many plants and animals, including humans. A similar mechanism could come into play when we are stressed, too.\n\nIt’s easy to imagine that the right response when times get tough is to slow down other activities and focus on the stress. The fruit fly’s innate system for ramping up defense mechanisms under stress provides a template for using stress as a signal that it’s time to take preemptive actions to minimize the adverse consequences that might emerge from the stressed conditions. By responding to conditions that signal a potential increase in vulnerability, the fly preemptively fortifies itself against potential enemies.\n\nThe take-home lesson for humans: Rather than focusing exclusively on dealing with immediate sources of stress, also be mindful of what other, future stresses the current challenge might catalyze and take preventive actions to avoid being buried in an avalanche of snowballing stresses down the road.",
   "function_addressed": [
     "protect from microbes",
     "maintain homeostasis",
     "regulate cellular processes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes",
+    "regulate-physiological-processes::cellular-processes",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/immune-system-is-fortified/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hungry",
     "fruit",
@@ -21,7 +25,5 @@
     "fight",
     "infection"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

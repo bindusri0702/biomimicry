@@ -1,24 +1,24 @@
 {
   "doc_id": "asn-venom-destroys-fungi",
   "organism_common": "Protect From Fungi",
-  "organism_scientific": "",
   "strategy_summary": "The venom of the thick-tailed scorpion protect it from fungal parasites by containing antifungal, antimicrobial proteins that work synergistically when applied to its own body. Fungal infections represent major threats to agriculture.",
   "mechanism": "The venom of the thick-tailed scorpion protect it from fungal parasites by containing antifungal, antimicrobial proteins that work synergistically when applied to its own body.\n\nFungal infections represent major threats to agriculture. In fact, pathogenic fungi are responsible for 35% of all crop loss worldwide. Developing new fungicides is of paramount importance. Tityus discrepans scorpions are extremely susceptible to fungal infections because of their habitat. In order to cope, they spray themselves with their own venom. The complex mixture contains numerous compounds with antifungal and antimicrobial properties. Some function by interfering with fungal cell wall development and others by altering membrane permeability. The synergistic effect of all of the antifungal proteins acting in concert makes the venom a potent fungicide.\n\nOregano\n\nVolatile compounds found in oregano destroy fungi by breaking down their cell membranes.",
   "function_addressed": [
     "protect from fungi",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::fungi",
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/venom-destroys-fungi/",
-  "source_tier": "science_journalism",
   "keywords": [
     "venom",
     "destroys",
     "fungi"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

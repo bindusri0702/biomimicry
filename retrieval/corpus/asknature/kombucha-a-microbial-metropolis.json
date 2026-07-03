@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-kombucha-a-microbial-metropolis",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Kombucha is a slightly bubbly, sweet-and-sour, fermented tea drink that is reputed (though clinically unproven) to be healthful. It originated in East Asia more than 2,000 years ago, but in recent decades has become popular in the West.",
   "mechanism": "To make a new batch of kombucha (much like making sourdough), people put a sample of existing kombucha into sweetened tea, giving the microorganisms a new supply of sugar to feed on.\n\nFirst, the yeast, which are a type of fungi, use the sugars and nutrients in the tea to grow. In this process, called fermentation, they turn carbon into carbon dioxide gas, creating the fizz, and produce alcohol as a byproduct, which usually creates the buzz in other fermented drinks.\n\nToo much alcohol can be harmful to bacteria and yeast, but the bacteria in kombucha get rid of it. They use alcohol to grow, converting it into acids, such as acetic acid (vinegar), which gives kombucha its sour taste. The acids in turn inhibit the growth of competing bacteria that could be harmful to both the SCOBY and the kombucha drinkers.\n\nTo deter invaders further, the bacteria also use excess sugars to make long, thin fibers of cellulose —the same substance that plants and trees use as structural material. The fibers rise to the top of the brew, depositing layers that glom into a big multilayered biofilm called a pellicle. The pellicle is the characteristic rubbery-looking layer on top of brewing kombucha. It’s often simply referred to as “SCOBY” itself because it contains enough microorganisms to serve as a starter for new batches of kombucha (hence its other name, “mother”). The pellicle acts as a protective shield that blocks out competitors and keeps the microbial community from drying out. It may even offer protection from harmful ultraviolet rays.\n\nEmbedded in this floating biofilm, the bacteria can maintain access to oxygen near the top of the brew that they need to do their metabolic business. The cellulose also serves as a storehouse of material that the bacteria and yeast can convert back to sugar when needed. When yeast die, they in turn release vitamins and nutrients that are recycled by the microbial community.\n\nAll in all, the various microorganisms in kombucha coexist and cooperate to create a cycle of nutrients and a physical structure that ensure their mutual survival.\n\nThough the general recipe for kombucha is well known, each brew comes from an individual “mother.” Each is a unique SCOBY with a singular combination of various species of yeasts and bacteria (and perhaps even viruses)—many of whose identities and activities remain unknown. SCOBYs can interact in different ways to produce different outcomes.\n\nScientists are exploring the inner workings of different SCOBYs to learn the intricacies of how they operate to see if they can manipulate them to create other useful products. These might include kombucha drinks that have more healthful properties or different tastes. Similar research could enhance other fermented foods made with SCOBYs, such as sourdough, kefir, and cheeses.\n\nOther exciting targets for research are SCOBY-generated biofilms. Their fibers are much thinner than those made by plants, but they are strong and hold much more water. SCOBY biofilms are being tested to make new eco-friendly, biocompatible materials for wound dressings, sustainable living water-filtration systems, cosmetics, paper, and textiles for clothing.\n\nOn a more abstract level, those single-celled critters could offer us multicellular humans a few lessons on balancing conflict and cooperation within communities.",
   "function_addressed": [
@@ -9,17 +8,21 @@
     "coordinate systems",
     "cooperate/compete between different species"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::organic-compounds",
+    "cooperate-compete::between-different-species",
+    "coordinate::systems"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "cooperate-compete",
+    "coordinate"
+  ],
   "source_url": "https://asknature.org/strategy/kombucha-a-microbial-metropolis/",
-  "source_tier": "science_journalism",
   "keywords": [
     "kombucha",
     "microbial",
     "metropolis"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

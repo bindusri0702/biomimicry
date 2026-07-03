@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-suspending-reproduction-conserves-energy",
   "organism_common": "Insects",
-  "organism_scientific": "",
   "strategy_summary": "The reproductive or growth cycles of many insects are suspended until conditions are favorable via diapause, a hibernation-like mechanism. “Juvenile insects often undergo a period of suspended development and growth which may be accompanied by a decrease in their metabolic rate.",
   "mechanism": "The reproductive or growth cycles of many insects are suspended until conditions are favorable via diapause, a hibernation-like mechanism.\n\n“Juvenile insects often undergo a period of suspended development and growth which may be accompanied by a decrease in their metabolic rate. This is known as diapause. It also occurs in adult insects that survive the winter (often referred to as overwintering), such as various species of butterfly and beetle. In these cases the diapause can be thought of as a hibernation mechanism…During overwintering diapause, fertilized eggs that were produced during the fall by the females are retained internally, and their development is halted, while still at an early stage, until the spring. Then, once the adult insects have emerged from this torpid state, their eggs ripen and are laid.” (Shuker 2001:109)",
   "function_addressed": [
     "regulate reproduction or growth",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/suspending-reproduction-conserves-energy/",
-  "source_tier": "science_journalism",
   "keywords": [
     "suspending",
     "reproduction",
     "conserves",
     "energy"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

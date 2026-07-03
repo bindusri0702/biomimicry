@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-bodies-stay-warm-in-cold-water",
   "organism_common": "Skipjack tuna",
-  "organism_scientific": "",
-  "strategy_summary": "Bodies of skipjack tuna stay warmer because of counter-current heat exchange system. Image: NOAA / toggle icon  “Tunas are extraordinary fishes.",
-  "mechanism": "Bodies of skipjack tuna stay warmer because of counter-current heat exchange system.\n\nImage: NOAA / toggle icon\n\n“Tunas are extraordinary fishes. This paper concerns one of the features that makes them extraordinary: the counter-current heat exchanger. The evolution of this device permits tuna to achieve body temperatures much greater than ambient water temperature. For example, the muscle temperature of large bluefin tuna can be as much as 20 °C above ambient water temperature (Carey et al. 1971) and the muscle temperature of small skipjack tuna (2 kg) can be as much as 9 °C above ambient (Stevens & Fry, 1971). The body temperature of other fishes is at most 2 °C above ambient (Stevens & Fry, 1970) because metabolic heat is efficiently transferred from the venous blood to surrounding water at the gills (Fig. 1). To maintain a large temperature excess, tuna have had to make a tremendous anatomical investment and construct a thermal barrier between venous blood and the gills. The present paper describes this thermal barrier, the counter-current heat exchanger of skipjack tuna.” (Stevens 1973:145)",
+  "strategy_summary": "Bodies of skipjack tuna stay warmer because of counter-current heat exchange system. “Tunas are extraordinary fishes.",
+  "mechanism": "Bodies of skipjack tuna stay warmer because of counter-current heat exchange system.\n\n“Tunas are extraordinary fishes. This paper concerns one of the features that makes them extraordinary: the counter-current heat exchanger. The evolution of this device permits tuna to achieve body temperatures much greater than ambient water temperature. For example, the muscle temperature of large bluefin tuna can be as much as 20 °C above ambient water temperature (Carey et al. 1971) and the muscle temperature of small skipjack tuna (2 kg) can be as much as 9 °C above ambient (Stevens & Fry, 1971). The body temperature of other fishes is at most 2 °C above ambient (Stevens & Fry, 1970) because metabolic heat is efficiently transferred from the venous blood to surrounding water at the gills (Fig. 1). To maintain a large temperature excess, tuna have had to make a tremendous anatomical investment and construct a thermal barrier between venous blood and the gills. The present paper describes this thermal barrier, the counter-current heat exchanger of skipjack tuna.” (Stevens 1973:145)",
   "function_addressed": [
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/bodies-stay-warm-in-cold-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bodies",
     "stay",
@@ -19,7 +20,5 @@
     "cold",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

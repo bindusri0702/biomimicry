@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-transport-proteins-respond-to-nutrient-concentration",
   "organism_common": "Aspergillus nidulans",
-  "organism_scientific": "",
   "strategy_summary": "A transport protein in Aspergillus nidulans maintains the right concentration of nitrogen compounds within cells by actively responding to the presence of nutrient sources. Too much of a good thing is no good.",
   "mechanism": "A transport protein in Aspergillus nidulans maintains the right concentration of nitrogen compounds within cells by actively responding to the presence of nutrient sources.\n\nToo much of a good thing is no good. Even microorganisms must know when to stop absorbing nutrients from their environment before they reach toxic concentrations. The fungus, Aspergillus nidulans, developed a clever strategy centered around a membrane-bound transport protein called UapA that functions to import nitrogen sources, including uric acid and xanthine, into the cell. Once the cell is satiated with enough uric acid and xanthine, UapA is sent to the cell’s recycling machinery where it’s broken down to its constituent building block amino acid s for use elsewhere. Curiously, it is the presence of uric acid and xanthine that trigger UapA to transport them into the cell in the first place, and it is these same compounds that mark UapA for recycling once the cell’s nitrogen requirements have been satisfied.\n\nUric acid and xanthine promote increased synthesis of UapA to facilitate their transport into the cell, but then induce break down of UapA once they are inside the cell. While the mechanisms are not yet fully understood, it appears that something inherent in the transportation of uric acid or xanthin across the cell membrane leads to subtle conformational changes in the shape of UapA, thereby signaling the cell to begin breaking it apart. It is attractive to hypothesize that the purpose of this unusual inhibitory pathway is to serve as a negative-feedback loop to prevent over accumulation of uric acid that may result in cellular damage. That may in fact be the case, but other pieces of evidence, including the low toxicity of uric acid to the fungus, shed doubt on the concept. As such, the precise reasons for this evolutionary adaptation remain unknown.",
   "function_addressed": [
@@ -10,11 +9,17 @@
     "regulate cellular processes",
     "capture, absorb, or filter chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::cellular-processes",
+    "regulate-physiological-processes::maintain-homeostasis",
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "regulate-physiological-processes",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/transport-proteins-respond-to-nutrient-concentration/",
-  "source_tier": "science_journalism",
   "keywords": [
     "transport",
     "proteins",
@@ -22,7 +27,5 @@
     "nutrient",
     "concentration"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

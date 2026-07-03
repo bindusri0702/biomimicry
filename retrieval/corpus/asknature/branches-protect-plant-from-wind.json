@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-branches-protect-plant-from-wind",
   "organism_common": "Polar willow",
-  "organism_scientific": "",
   "strategy_summary": "Stems and branches of Arctic willow protect from strong winds via horizontal growth. “A species of willow developed that does not grow vertically upwards, like its European and American relatives.",
   "mechanism": "Stems and branches of Arctic willow protect from strong winds via horizontal growth.\n\n“A species of willow developed that does not grow vertically upwards, like its European and American relatives. To do so would be to risk being flattened by the ferocious Arctic wind. Instead, it grows horizontally, keeping close to the ground. Even in the most favourable circumstances it seldom exceeds four inches in height. But it may become as long as some of its southern relatives are tall. When you walk across a carpet of such prostrate trees, you are, in effect, walking over a woodland canopy.” (Attenborough 1995:249)",
   "function_addressed": [
     "protect from wind"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::wind"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/branches-protect-plant-from-wind/",
-  "source_tier": "science_journalism",
   "keywords": [
     "branches",
     "protect",
     "plant",
     "wind"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

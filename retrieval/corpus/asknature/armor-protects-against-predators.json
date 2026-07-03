@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-armor-protects-against-predators",
   "organism_common": "Three-spined stickleback",
-  "organism_scientific": "",
   "strategy_summary": "It’s not easy being a small fish in a big ocean filled with hungry predators. But the marine threespine stickleback (Gasterosteus aculeatus) has found a way to survive the onslaught of neighbors looking for a seafood dinner.",
   "mechanism": "First, rather than relying on a single type of protection, the armor uses both movable spines and fixed plates to provide both stability and flexibility to adapt to circumstances.\n\nEach plate also varies in thickness from one end to the other. That means that even though the plates overlap, they produce uniformly thick protection rather than leaving thinner, more vulnerable spots in the sections where just one plate is present\n\nThe plates have bumps and indentations that fit together where they overlap. This maintains the overall integrity of the armor while also allowing the plates to shift positions relative to each other as the fish moves.\n\nThe bottom-facing plates on the pelvic girdle interlink, creating a structure that’s flexible for easy movement when the fish is not threatened but can lock into a more rigid, protective position during an attack.\n\nThe individual lateral plates are layered, with a lightweight porous middle layer sandwiched between two denser surfaces. This helps make them stiff, strong, and lightweight all at the same time.\n\nFinally, the lateral plates have a bumpy outside surface. This not only may make the armor tougher to penetrate than a smooth surface would (perhaps by increasing surface area and causing the force of a predator’s bite to be distributed through the tissue), but also likely reduces drag and shear stress , allowing the fish to swim with minimal energy cost.\n\nInterestingly, in places where sticklebacks have spread inland to inhabit freshwater, the number of plates and density of minerals within them tend to decline. The adaptive value of this is not completely clear, but scientists speculate it may have to do with differences in predation, mineral availability, or other variables between the two types of environments.\n\nEach of the six principles offers valuable insights for designing materials and products that resist abrasion, puncture, and other onslaughts. For instance, the texture of the surface of the plates can inform the construction of aircraft, watercraft, and motor vehicles, which need to be both durable and streamlined. Similarly, the sandwich-like configuration can inform the design of underground pipelines, which need to resist penetration by rocks but also be lightweight for transportation and installation. And the durability and flexibility offered by the interlocking plates might inspire new designs for helmets and other protective gear for sports.\n\nPerhaps the most important lessons of all have to do with the value of not putting all of one’s defensive eggs in one basket, and with adapting to circumstances. By combining a variety of strategies and adapting to different environments, the marine threespine stickleback can ward off a range of onslaughts from different predators at the least cost to itself—a valuable lesson in general for coping with an often unpredictable world.",
   "function_addressed": [
@@ -11,11 +10,18 @@
     "manage compression",
     "manage impact"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::impact",
+    "prevent-structural-failure::deformation",
+    "prevent-structural-failure::fracture-rupture",
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/armor-protects-against-predators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "shapes",
     "materials",
@@ -24,7 +30,5 @@
     "against",
     "penetration"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

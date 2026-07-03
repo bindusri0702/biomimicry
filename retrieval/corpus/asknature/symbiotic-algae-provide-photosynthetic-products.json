@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-symbiotic-algae-provide-photosynthetic-products",
   "organism_common": "Spotted salamander",
-  "organism_scientific": "",
   "strategy_summary": "The many specific examples of symbiosis in Nature, such as between honeybees and flowers, can lead us to overlook the even more sweeping symbiosis that exists between animals and plants in general. All animals rely on photosynthesizing organisms to split water molecules and provide us with the vital oxygen we need to…",
   "mechanism": "Spotted salamanders range across the eastern and southern parts of North America, where they spend the majority of their lives underground. They emerge briefly in the spring to breed, laying their eggs in vernal pools pocketing the forest floor. Inside the tissues and cells of these salamander egg capsules exist a very different species, an algae known as Oophila amblystomatis . Normally, such a foreign organism would likely be eliminated by the salamander’s immune system, but the immune system’s lack of development in eggs may have made this unique symbiosis possible.\n\nWhen sunlight strikes the Oophila cells they photosynthesize, producing oxygen and carbohydrates, both of which are provided directly to the salamander embryonic tissue. This oxygen and carbohydrate help spotted salamander embryos survive better. Salamander embryos with Oophila die less frequently while developing, metamorphose more rapidly into juveniles, and are larger upon hatching than embryos lacking Oophila algae. Meanwhile, the Oophila algae are thought to benefit from nitrogenous wastes produced from the salamander’s cells.\n\nIn agriculture and aquaculture, the salamander-algae model inspires integrated cultivation systems. Here, plants and animals mutually benefit, enhancing growth rates while reducing the need for fertilizers and artificial oxygenation. This approach could revolutionize food production, making it more sustainable and efficient.\n\nAdvances in biotechnology could stem from understanding how the salamander’s immune system tolerates beneficial foreign cells. This knowledge has potential applications in human medicine, possibly leading to new treatments that manage immune responses or develop bio-therapeutics.\n\nThe spotted salamander’s symbiosis also informs architectural and urban planning, suggesting designs that incorporate biological elements for air purification, energy production, or waste management. These “living” buildings could create more self-sufficient and environmentally friendly urban spaces.\n\nThis example of natural synergy highlights the importance of harmonious interactions within ecosystems. It serves as a powerful reminder of the benefits of working in collaboration with nature, guiding us towards a future where human innovation is aligned with ecological sustainability.",
   "function_addressed": [
@@ -10,11 +9,16 @@
     "capture, absorb, or filter gases",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "capture-absorb-or-filter::gases",
+    "cooperate-compete::between-different-species"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "cooperate-compete"
+  ],
   "source_url": "https://asknature.org/strategy/symbiotic-algae-provide-photosynthetic-products/",
-  "source_tier": "science_journalism",
   "keywords": [
     "algae",
     "make",
@@ -22,7 +26,5 @@
     "embryos",
     "solar-powered"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

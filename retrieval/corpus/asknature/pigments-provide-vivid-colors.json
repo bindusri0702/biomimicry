@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-pigments-provide-vivid-colors",
   "organism_common": "Turacos and allies",
-  "organism_scientific": "",
   "strategy_summary": "The plumage of turacos gains its vivid green and red coloration from unique, copper-based pigments. “Turacos have two unique, copper-based pigment s: turacoverdin (green) and turacin (red).",
   "mechanism": "The plumage of turacos gains its vivid green and red coloration from unique, copper-based pigments.\n\n“Turacos have two unique, copper-based pigment s: turacoverdin (green) and turacin (red). Turacoverdin is the more physiologically extensive pigment; its prevalence can be correlated to lushness of habitat.” (Fowler and Miller 2003:232)",
   "function_addressed": [
     "modify light/color"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/pigments-provide-vivid-colors/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pigments",
     "provide",
     "vivid",
     "colors"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

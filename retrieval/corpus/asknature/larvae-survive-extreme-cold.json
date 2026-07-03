@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-larvae-survive-extreme-cold",
   "organism_common": "Red cucujid",
-  "organism_scientific": "",
   "strategy_summary": "“Larvae of the freeze-avoiding beetle Cucujus clavipes puniceus (Coleoptera: Cucujidae) in Alaska have mean supercooling points in winter of –35 to –42°C, with the lowest super cooling point recorded for an individual of –58°C. We previously noted that some larvae did not freeze when cooled to –80°C, and we speculated…",
   "mechanism": "“Larvae of the freeze-avoiding beetle Cucujus clavipes puniceus (Coleoptera: Cucujidae) in Alaska have mean supercooling points in winter of –35 to –42°C, with the lowest super cooling point recorded for an individual of –58°C. We previously noted that some larvae did not freeze when cooled to –80°C, and we speculated that these larvae vitrified. Here we present evidence through differential scanning calorimetry that C. c.puniceus larvae transition into a glass-like state at temperatures <–58°C and can avoid freezing to at least –150°C. This novel finding adds vitrification to the list of insect overwintering strategies. While overwintering beneath the bark of fallen trees, C. c. puniceus larvae may experience low ambient temperatures of around –40°C (and lower) when microhabitatis un-insulated because of low snow cover … Finally, we provide direct evidence that Cucujus from Wiseman, Alaska, survive temperatures to –100°C.” (Sformo et al. 2010:502)\n\nhttp://jeb.biologists.org/cgi/content/abstract/213/3/502?ijkey=fc7a42aab923c45ae5a1079e953aa3cc6d883c2d&keytype2=tf_ipsecsha",
   "function_addressed": [
     "protect from temperature",
     "modify phase"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::phase",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/larvae-survive-extreme-cold/",
-  "source_tier": "science_journalism",
   "keywords": [
     "larvae",
     "survive",
     "extreme",
     "cold"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

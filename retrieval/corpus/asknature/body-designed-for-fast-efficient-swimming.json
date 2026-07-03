@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-body-designed-for-fast-efficient-swimming",
   "organism_common": "Short-finned mako shark",
-  "organism_scientific": "",
   "strategy_summary": "The bodies of shortfin mako sharks and some tuna are designed for fast, efficient swimming thanks to internalized red muscle associated with a force-transmission system. “Through distinct evolutionary pathways lamnid sharks and tunas have converged on the same mechanical design principle, that of having internalized…",
   "mechanism": "The bodies of shortfin mako sharks and some tuna are designed for fast, efficient swimming thanks to internalized red muscle associated with a force-transmission system.\n\n“Through distinct evolutionary pathways lamnid sharks and tunas have converged on the same mechanical design principle, that of having internalized red muscle associated with a highly derived force-transmission system, two features that form the basis for their thunniform swimming mode. Our study shows that not only have the physical demands of the external environment sculpted the body shapes of large pelagic cruisers, but also the internal physiology and morphology of their complex locomotor systems has been finetuned over the course of their evolution.” (Donley et al. 2004:64)",
   "function_addressed": [
     "modify speed",
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::speed",
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/body-designed-for-fast-efficient-swimming/",
-  "source_tier": "science_journalism",
   "keywords": [
     "body",
     "designed",
@@ -20,7 +23,5 @@
     "efficient",
     "swimming"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

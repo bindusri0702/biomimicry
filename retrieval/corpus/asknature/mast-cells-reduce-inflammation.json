@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-mast-cells-reduce-inflammation",
   "organism_common": "Mammals",
-  "organism_scientific": "",
   "strategy_summary": "Mast cells of mammals reduce long-term inflammation by secreting a protein known as interleukin-10. “Allergic contact dermatitis, such as in response to poison ivy or poison oak, and chronic low-dose ultraviolet B irradiation can damage the skin.",
   "mechanism": "Mast cells of mammals reduce long-term inflammation by secreting a protein known as interleukin-10.\n\n“Allergic contact dermatitis, such as in response to poison ivy or poison oak, and chronic low-dose ultraviolet B irradiation can damage the skin. Mast cells produce proinflammatory mediators that are thought to exacerbate these prevalent acquired immune or innate responses. Here we found that, unexpectedly, mast cells substantially limited the pathology associated with these responses, including infiltrates of leukocytes, epidermal hyperplasia and epidermal necrosis. Production of interleukin 10 by mast cells contributed to the anti-inflammatory or immunosuppressive effects of mast cells in these conditions. Our findings identify a previously unrecognized function for mast cells and mast cell–derived interleukin 10 in limiting leukocyte infiltration, inflammation and tissue damage associated with immunological or innate responses that can injure the skin.” (Grimbaldeston et al. 2007:1095)",
   "function_addressed": [
     "maintain homeostasis"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/mast-cells-reduce-inflammation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mast",
     "cells",
     "reduce",
     "inflammation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

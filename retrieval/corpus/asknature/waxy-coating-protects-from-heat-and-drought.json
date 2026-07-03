@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-waxy-coating-protects-from-heat-and-drought",
   "organism_common": "Protect From Loss of Liquids",
-  "organism_scientific": "",
-  "strategy_summary": "The stems of euphorbias protect from heat and drought via their hard waxy surface. Image: Qwertzy2 / toggle icon  “On the ground around them grow numerous fat, spiny leafless plants that any non-botanist could be forgiven for calling — without hesitation and even perhaps a certain amount of pride in his expertise —…",
-  "mechanism": "The stems of euphorbias protect from heat and drought via their hard waxy surface.\n\nImage: Qwertzy2 / toggle icon\n\n“On the ground around them grow numerous fat, spiny leafless plants that any non-botanist could be forgiven for calling — without hesitation and even perhaps a certain amount of pride in his expertise — cacti. Only if they are in flower might you suspect that they are not. Then a botanist would notice that the numbers of petals and anthers are quite different from those of cacti. These are euphorbias, members of one of the largest of all families of flowering plants with over seven thousand species. In Europe, its common representatives are dog’s mercury and spurge. In South America, euphorbias grow into trees and shrubs, among them the rubber tree and the manioc plant. In African forests, its members include the castor oil bush. And in African deserts they become cacti look-alikes…The cactus family is, in fact, exclusively American, with hundreds of different species growing in deserts from Canada to Chile. The reason that members of these two families resemble one another so closely is that similar conditions of heat and drought have stimulated the same physical response. Both abandon their leaves at an early stage, since these inevitably lose a great deal of water, and both carry out their photosynthesis under the hard waxy surface of their stems which are green with chlorophyll . Both store water in a bloated pillar-like trunk. And both defend that water from robbers by armouring their trunks with sharp spines.” (Attenborough 1995:272-275)",
+  "strategy_summary": "The stems of euphorbias protect from heat and drought via their hard waxy surface. “On the ground around them grow numerous fat, spiny leafless plants that any non-botanist could be forgiven for calling — without hesitation and even perhaps a certain amount of pride in his expertise — cacti.",
+  "mechanism": "The stems of euphorbias protect from heat and drought via their hard waxy surface.\n\n“On the ground around them grow numerous fat, spiny leafless plants that any non-botanist could be forgiven for calling — without hesitation and even perhaps a certain amount of pride in his expertise — cacti. Only if they are in flower might you suspect that they are not. Then a botanist would notice that the numbers of petals and anthers are quite different from those of cacti. These are euphorbias, members of one of the largest of all families of flowering plants with over seven thousand species. In Europe, its common representatives are dog’s mercury and spurge. In South America, euphorbias grow into trees and shrubs, among them the rubber tree and the manioc plant. In African forests, its members include the castor oil bush. And in African deserts they become cacti look-alikes…The cactus family is, in fact, exclusively American, with hundreds of different species growing in deserts from Canada to Chile. The reason that members of these two families resemble one another so closely is that similar conditions of heat and drought have stimulated the same physical response. Both abandon their leaves at an early stage, since these inevitably lose a great deal of water, and both carry out their photosynthesis under the hard waxy surface of their stems which are green with chlorophyll. Both store water in a bloated pillar-like trunk. And both defend that water from robbers by armouring their trunks with sharp spines.” (Attenborough 1995:272-275)",
   "function_addressed": [
     "protect from loss of liquids",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-liquids",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/waxy-coating-protects-from-heat-and-drought/",
-  "source_tier": "science_journalism",
   "keywords": [
     "waxy",
     "coating",
@@ -20,7 +22,5 @@
     "heat",
     "drought"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

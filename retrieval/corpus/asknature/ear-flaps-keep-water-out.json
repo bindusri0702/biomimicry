@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-ear-flaps-keep-water-out",
   "organism_common": "Otters",
-  "organism_scientific": "",
   "strategy_summary": "The ears of otters protect from water via ear-flaps. “Among aquatic mammals such as the otter, the ear-flap can be pressed down to close the ear to water.” (Foy and Oxford Scientific Films 1982:167)  Foy S, Oxford Scientific Films.",
   "mechanism": "The ears of otters protect from water via ear-flaps.\n\n“Among aquatic mammals such as the otter, the ear-flap can be pressed down to close the ear to water.” (Foy and Oxford Scientific Films 1982:167)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
   "function_addressed": [
     "move in/on liquids",
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids",
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "move",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/ear-flaps-keep-water-out/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ear",
     "flaps",
@@ -20,7 +23,5 @@
     "water",
     "out"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

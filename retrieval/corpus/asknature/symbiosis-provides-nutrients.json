@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-symbiosis-provides-nutrients",
   "organism_common": "Insects",
-  "organism_scientific": "",
   "strategy_summary": "A balanced diet is unknown to periodical cicadas. These insects live for more than a decade underground, sucking only sap from plant roots.",
   "mechanism": "Millions of years ago, harmless bacteria invaded the cells of cicadas’ ancestors. These bacteria evolved into two species, Candidatus Sulcia muelleri and Candidatus Hodgkinia cicadicola that only live inside specialized cells called bacteriocytes found in the cicada’s body. The cicadas provide the bacteria with the molecules (mainly water with a few carbohydrates and other nutrients) the cicadas gather from root sap. The bacteria disassemble those molecules into smaller molecules. Then they reassemble them into the 10 amino acids cicadas need to live and grow, and they do so in a very complementary manner: Candidatus Sulcia muelleri produces eight of the needed molecules, and Candidatus Hodgkinia cicadicola handily manufactures the other two, as well as additional essential vitamins such as B12. The cicadas harvest the resulting amino acids, leaving the bacteria with enough of what they need to thrive, too.\n\nBefore a female cicada lays her eggs, some of the bacteria move into the oocytes, or egg cells. That allows them to colonize—and eventually feed—the next generation of underground sapsuckers.\n\nThe mutually beneficial relationship between cicadas and bacteria suggest opportunities for improving the nutritional value of food by bringing bacteria into the picture. For instance, it might suggest a strategy for incorporating protein building blocks into laboratory-grown meat substitutes. Or it might be adapted for engineering food plants such as carrots or potatoes that currently do not provide all of the amino acids we need so that they can become a nutritionally complete protein source, reducing the demand for meat and the environmental costs of producing it.\n\nThe notion of cooperating and providing mutual benefits for mutual gain also offers a valuable lesson for life in general. What might at first glance appear to be a competitor or adversary can, when embraced under the right conditions, be a partner in making life better for all involved.",
   "function_addressed": [
@@ -10,11 +9,17 @@
     "adapt genotype",
     "capture, absorb, or filter chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-genotype",
+    "adapt-optimize::coevolve",
+    "cooperate-compete::between-different-species"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "capture-absorb-or-filter",
+    "cooperate-compete"
+  ],
   "source_url": "https://asknature.org/strategy/symbiosis-provides-nutrients/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bacterial",
     "chefs",
@@ -22,7 +27,5 @@
     "food",
     "cicadas"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

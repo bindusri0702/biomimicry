@@ -1,26 +1,28 @@
 {
   "doc_id": "asn-glue-protects-from-insect-bites",
   "organism_common": "Crucifix toad",
-  "organism_scientific": "",
   "strategy_summary": "The skin of Australian frogs of the genus Notaden protects from insect bites via a secreted glue, which gums up insect mouthparts. “Two species of Australian frogs secret a sticky substance over their skin to protect themselves from biting insects.",
-  "mechanism": "The skin of Australian frogs of the genus Notaden protects from insect bites via a secreted glue, which gums up insect mouthparts.\n\n“Two species of Australian frogs secret a sticky substance over their skin to protect themselves from biting insects. The glue jams up the insects’ jaws, causes them to stick to the frogs’ skin, and the frogs can later eat the stuck insects. Mike Tyler, an environmental biologist from the University of Adelaide who discovered the skin glue, teamed up with orthopaedic surgeon George Murrell of the University of New South Wales to test the glue in sheep with torn knee cartilage. They found that the glue hardens within seconds and sticks well, even in moist environments. When set, it is flexible and has a porous structure that should make it permeable to gas and nutrients, which would encourage healing. When used on the sheep, it worked well at holding damaged knee cartilage together. Working with colleagues at the Commonwealth Scientific and Industrial Research Organisation in Melbourne, the scientists have characterized a key component of the glue and are now developing a genetically engineered version of this protein .” (Courtesy of the Biomimicry Guild)\n\nAustralia",
+  "mechanism": "The skin of Australian frogs of the genus Notaden protects from insect bites via a secreted glue, which gums up insect mouthparts.\n\n“Two species of Australian frogs secret a sticky substance over their skin to protect themselves from biting insects. The glue jams up the insects’ jaws, causes them to stick to the frogs’ skin, and the frogs can later eat the stuck insects. Mike Tyler, an environmental biologist from the University of Adelaide who discovered the skin glue, teamed up with orthopaedic surgeon George Murrell of the University of New South Wales to test the glue in sheep with torn knee cartilage. They found that the glue hardens within seconds and sticks well, even in moist environments. When set, it is flexible and has a porous structure that should make it permeable to gas and nutrients, which would encourage healing. When used on the sheep, it worked well at holding damaged knee cartilage together. Working with colleagues at the Commonwealth Scientific and Industrial Research Organisation in Melbourne, the scientists have characterized a key component of the glue and are now developing a genetically engineered version of this protein.” (Courtesy of the Biomimicry Guild)\n\nAustralia",
   "function_addressed": [
     "protect from animals",
     "capture, absorb, or filter organisms",
     "attach permanently"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "capture-absorb-or-filter",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/glue-protects-from-insect-bites/",
-  "source_tier": "science_journalism",
   "keywords": [
     "glue",
     "protects",
     "insect",
     "bites"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

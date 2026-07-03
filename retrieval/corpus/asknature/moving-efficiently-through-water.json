@@ -1,27 +1,31 @@
 {
   "doc_id": "asn-moving-efficiently-through-water",
   "organism_common": "Animals",
-  "organism_scientific": "",
   "strategy_summary": "Aquatic organisms move effectively through water by maximizing propulsion efficiency. A Smalltooth sawfish (Pristis pectinata) swimming in the Ocean Voyager tank of the Georgia Aquarium on 23rd January, 2006.",
-  "mechanism": "Aquatic organisms move effectively through water by maximizing propulsion efficiency.\n\nA Smalltooth sawfish (Pristis pectinata) swimming in the Ocean Voyager tank of the Georgia Aquarium on 23rd January, 2006. This photo was taken by myself with a Canon 5D and 24-105mm f/4L IS.\n\nMotsugo(Stone moroko), Pseudorasbora parva, Collected from Hamamatsu, Shizuoka, Japan and later photographed an aquarium.\n\n“It [the Froude propulsion efficiency] says that for highest efficiency, the velocity of the fluid issuing from the propulsive unit–paddle, propeller, jet, or whatever–should be as close as possible to the velocity of the craft…Clearly the way to maximize Froude propulsion efficiency consists of moving the largest possible mass-per-time ( m/t ) of fluid and giving it the least possible increase in speed ( v 2 -v 1 ). In practical terms that means maximizing S , the cross section of the propulsive flow stream.”\n\nWhile the Froud efficiencies “vary in quality and involve differenty underlying assumptions and simplifications, the picture that emerges is satisfyingly consistent with our expectations.”\n\n“* Moving water with undulating body, beating wing, or swinging tail beats squeezing water out of a jet, as anticipated. A squid may jet fast, but when it wants to go far, it’s more likely to use its fins.\n\n“* The same undulating devices do better than systems that move water back-wards with a paddling system, with its alternating power and recovery strokes. We’ll return to this comparison between ‘lift-based’ and ‘drag-based’ propulsion in chapter 13.\n\n“*Bigger (or at least moderate size) is better than smaller. Except for one questionable datum for a bacterial flagellum, no creature below about a centimeter in length does better than η f = 0.5. The pernicious effects of low Reynolds number (chapter 11) cannot be denied.\n\n“*The broad hydrozoan medusae (essentially small jellyfish) may use jet propulsion, but they do it by pushing out an especially large volume (relative to their own) through a wide aperture. So they have a much higher m and lower v 2 than the other jetters, and thus evade most of the difficulty inherent in equations (7.5) and (7.6).” (Vogel 2003:142-143)",
+  "mechanism": "Aquatic organisms move effectively through water by maximizing propulsion efficiency.\n\nA Smalltooth sawfish (Pristis pectinata) swimming in the Ocean Voyager tank of the Georgia Aquarium on 23rd January, 2006. This photo was taken by myself with a Canon 5D and 24-105mm f/4L IS.\n\nMotsugo(Stone moroko), Pseudorasbora parva, Collected from Hamamatsu, Shizuoka, Japan and later photographed an aquarium.\n\n“It [the Froude propulsion efficiency] says that for highest efficiency, the velocity of the fluid issuing from the propulsive unit–paddle, propeller, jet, or whatever–should be as close as possible to the velocity of the craft…Clearly the way to maximize Froude propulsion efficiency consists of moving the largest possible mass-per-time ( m/t ) of fluid and giving it the least possible increase in speed ( v 2 -v 1 ). In practical terms that means maximizing S, the cross section of the propulsive flow stream.”\n\nWhile the Froud efficiencies “vary in quality and involve differenty underlying assumptions and simplifications, the picture that emerges is satisfyingly consistent with our expectations.”\n\n“* Moving water with undulating body, beating wing, or swinging tail beats squeezing water out of a jet, as anticipated. A squid may jet fast, but when it wants to go far, it’s more likely to use its fins.\n\n“* The same undulating devices do better than systems that move water back-wards with a paddling system, with its alternating power and recovery strokes. We’ll return to this comparison between ‘lift-based’ and ‘drag-based’ propulsion in chapter 13.\n\n“*Bigger (or at least moderate size) is better than smaller. Except for one questionable datum for a bacterial flagellum, no creature below about a centimeter in length does better than η f = 0.5. The pernicious effects of low Reynolds number (chapter 11) cannot be denied.\n\n“*The broad hydrozoan medusae (essentially small jellyfish) may use jet propulsion, but they do it by pushing out an especially large volume (relative to their own) through a wide aperture. So they have a much higher m and lower v 2 than the other jetters, and thus evade most of the difficulty inherent in equations (7.5) and (7.6).” (Vogel 2003:142-143)",
   "function_addressed": [
     "adapt behaviors",
     "optimize shape/materials",
     "manage turbulence",
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-behaviors",
+    "adapt-optimize::optimize-space-materials",
+    "manage-structural-forces::turbulence",
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "manage-structural-forces",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/moving-efficiently-through-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "moving",
     "efficiently",
     "through",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

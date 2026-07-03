@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-snake-sounds-like-bull",
   "organism_common": "Bull snakes and relatives",
-  "organism_scientific": "",
   "strategy_summary": "A snake is slinking across a grassy meadow when a red-tailed hawk swoops from the sky to try to catch it. In response, the snake lets out a loud bellowing sound that earns it the name of “bull snake.”  No other genus of snake is known to make such a sound.",
-  "mechanism": "When a bull snake, gopher snake, or pine snake (all members of the genus Pituophis ) is attacked or frightened it makes two defensive noises. Both noises result from when the snake forces air through its larynx while exhaling, similar to how humans can only speak while exhaling.\n\nScientists recorded bull snake defensive noises in an acoustic chamber and analyzed their characteristics. They found that the snakes bellow usually during the first or second exhalation. The bellow is characterized by a high amplitude (louder-sounding) burst of sound followed by a longer period of low-amplitude (quieter) and constant-frequency sound that resembles a hiss.\n\nStudying how snakes vocalize and amplify their sound could lead to devices that amplify sound through their structure, as opposed to through electronic means. Warning systems that alert people to natural disasters might one day use structural elements to efficiently carry sound further. Or perhaps they could lead to a revolution in hearing aid design.",
+  "mechanism": "When a bull snake, gopher snake, or pine snake (all members of the genus Pituophis ) is attacked or frightened it makes two defensive noises. Both noises result from when the snake forces air through its larynx while exhaling, similar to how humans can only speak while exhaling.\n\nScientists recorded bull snake defensive noises in an acoustic chamber and analyzed their characteristics. They found that the snakes bellow usually during the first or second exhalation. The bellow is characterized by a high amplitude (louder-sounding) burst of sound followed by a longer period of low-amplitude (quieter) and constant-frequency sound that resembles a hiss.\n\nVideo: Pituophis snake bellowing\n\nThe researchers found that bull snakes also hiss during their third or fourth exhalation, which resembles the second portion of the bellow in its low amplitude and constant frequency.\n\nVideo: Pituophis snake hissing\n\nPituophis snakes have a few unique anatomical features that help create these sounds. For one, these snakes are the only known animals to have a single vocal cord. Other animals have paired vocal cords made of smooth muscle tissue that vibrate and constrict to change the pitch of the sounds they make.\n\nWhereas human vocal cords are paired and vertically oriented, bull snakes and their relatives have a single cord that is oriented horizontally across the top portion of the larynx. The bellowing likely occurs when air flows over the tensed vocal cord, causing it to vibrate.\n\nThe scientists also found that another piece of tissue, called the epiglottal keel, had a minor role in the bellow. The keel is an oblong and stiff piece of tissue that sits in the path of the air flow and divides it like a boulder might split a river into two streams. When the snakes partially close their mouths, it’s like having a bigger boulder dividing a river that forces the water (or air with the snakes) down narrower paths. Having more air pass through partially obstructed paths amplifies the sound of the bellow’s initial burst.\n\nStudying how snakes vocalize and amplify their sound could lead to devices that amplify sound through their structure, as opposed to through electronic means. Warning systems that alert people to natural disasters might one day use structural elements to efficiently carry sound further. Or perhaps they could lead to a revolution in hearing aid design.",
   "function_addressed": [
     "send sound signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::sound"
+  ],
+  "subgroup_keys": [
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/snake-sounds-like-bull/",
-  "source_tier": "science_journalism",
   "keywords": [
     "snakes",
     "bellow",
     "like",
     "bulls"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

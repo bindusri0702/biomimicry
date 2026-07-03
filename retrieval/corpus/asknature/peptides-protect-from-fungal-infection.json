@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-peptides-protect-from-fungal-infection",
   "organism_common": "African clawed frog",
-  "organism_scientific": "",
   "strategy_summary": "Peptides on the skin of African clawed frog protect from fungal infection by having a semiselective binding nature to bacterial pathogen cells affording each peptide the ability to bind to a variety of pathogens. Amphibians are constantly beset with microbial pathogens.",
   "mechanism": "Peptides on the skin of African clawed frog protect from fungal infection by having a semiselective binding nature to bacterial pathogen cells affording each peptide the ability to bind to a variety of pathogens.\n\nAmphibians are constantly beset with microbial pathogens. In particular, the chytrid fungus Batrachochytrium dendrobatidis is known to infect over 350 species of frogs and has lead to widespread declines in many populations. The pathogen infects the mouths of larvae and the skin of adults leading to osmotic imbalance, salt loss, and eventually death.\n\nThe African clawed frog has evolved skin secretions that render it immune to the fungus. The toad secretes many compounds in its skin mucus including the peptides magainin-1, magainin-2, and PGLa. When exposed to the outer membrane of fungal cells, these peptides self-assemble into structures that interrupt the normal protective functioning of the membrane leading to fungal death. This strategy is also quite effective against a broad variety of microbes including many that are resistant to antibiotics. What is remarkable is that magainin and PGLa alone are relatively weak antimicrobial agents; however, when combined, they exhibit synergy which increases their antimicrobial effectiveness more than 30 fold.",
   "function_addressed": [
     "protect from fungi",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::fungi",
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/peptides-protect-from-fungal-infection/",
-  "source_tier": "science_journalism",
   "keywords": [
     "peptides",
     "protect",
     "fungal",
     "infection"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-larvae-survive-in-digestive-liquids",
   "organism_common": "Flesh flies",
-  "organism_scientific": "",
   "strategy_summary": "The larvae of flesh flies live in the water trap of pitcher plants and withstand the digestive enzyme juices meant to break down organisms. “Consider the pitcher plant, carnivorous, or meat-eating plant found in Canadian bogs … A flesh fly larva lives in the water trap, as does a mosquito and a midge, and they are all…",
   "mechanism": "The larvae of flesh flies live in the water trap of pitcher plants and withstand the digestive enzyme juices meant to break down organisms.\n\n“Consider the pitcher plant, carnivorous, or meat-eating plant found in Canadian bogs … A flesh fly larva lives in the water trap, as does a mosquito and a midge, and they are all adapted to withstand the digestive enzymes that the plant excretes to break down the terrestrial insects it captures in the water trap. Each insect occupies a different position in the water trap. Most important, none of the insects can live anywhere else but in these exact spots.” (Forsyth 1992:39)",
   "function_addressed": [
     "protect from chemicals",
     "manage chemical wear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::chemical-wear",
+    "protect-from-non-living-threats::chemicals"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/larvae-survive-in-digestive-liquids/",
-  "source_tier": "science_journalism",
   "keywords": [
     "larvae",
     "survive",
     "digestive",
     "liquids"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

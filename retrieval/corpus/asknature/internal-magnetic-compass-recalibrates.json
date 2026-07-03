@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-internal-magnetic-compass-recalibrates",
   "organism_common": "Large mouse-eared bat",
-  "organism_scientific": "",
   "strategy_summary": "The internal magnetic compass of greater mouse-eared bats can be calibrated with directional reference from the setting sun. “Recent evidence suggests that bats can detect the geomagnetic field, but the way in which this is used by them for navigation to a home roost remains unresolved.",
   "mechanism": "The internal magnetic compass of greater mouse-eared bats can be calibrated with directional reference from the setting sun.\n\n“Recent evidence suggests that bats can detect the geomagnetic field, but the way in which this is used by them for navigation to a home roost remains unresolved. The geomagnetic field may be used by animals both to indicate direction and to locate position. In birds, directional information appears to be derived from an interaction of the magnetic field with either the sun or the stars, with some evidence suggesting that sunset/sunrise provides the primary directional reference by which a magnetic compass is calibrated daily. We demonstrate that homing greater mouse-eared bats ( Myotis myotis ) calibrate a magnetic compass with sunset cues by testing their homing response after exposure to an altered magnetic field at and after sunset. Magnetic manipulation at sunset resulted in a counterclockwise shift in orientation compared with controls, consistent with sunset calibration of the magnetic field, whereas magnetic manipulation after sunset resulted in no change in orientation. Unlike in birds, however, the pattern of polarization was not necessary for the calibration. For animals that occupy ecological niches where the sunset is rarely observed, this is a surprising finding. Yet it may indicate the primacy of the sun as an absolute geographical reference not only for birds but also within other vertebrate taxa.” (Holland et al. 2010:6941)\n\nhttp://www.scientificamerican.com/blog/post.cfm?id=bats-retune-echolocation-and-use-su-2010-03-29 http://www.pnas.org/content/early/2010/03/23/0912477107.abstract",
   "function_addressed": [
     "sense balance/orientation",
     "navigate through air"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "navigate::through-air",
+    "sense-signals-environmental-cues::balance-orientation"
+  ],
+  "subgroup_keys": [
+    "navigate",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/internal-magnetic-compass-recalibrates/",
-  "source_tier": "science_journalism",
   "keywords": [
     "internal",
     "magnetic",
     "compass",
     "recalibrates"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

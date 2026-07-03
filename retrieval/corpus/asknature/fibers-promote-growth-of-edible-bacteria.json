@@ -1,17 +1,16 @@
 {
   "doc_id": "asn-fibers-promote-growth-of-edible-bacteria",
   "organism_common": "Yeti crab",
-  "organism_scientific": "",
   "strategy_summary": "Harnessing the power of the sun to produce energy is at the root of most food chains on Earth. Through photosynthesis , plants combine light energy with water and carbon dioxide and convert it to sugars and oxygen, creating the lush, green world around us.",
   "mechanism": "Cold seeps occur where gases diffuse through shallow openings in the shifting seafloor. One of these gases is methane, which some bacteria can harness to produce food through chemo synthesis.\n\nUsing a deep sea submersible, scientists discovered the yeti crab at a methane seep off the coast of Costa Rica. They watched as the crabs waved their claws back and forth over the methane seep, and seemed to push away, rather than prey on, small shrimp around them. Intrigued, the researchers collected a few crabs and brought them back to the lab to investigate further.\n\nBy examining stomach contents and chemicals in their tissue, the researchers confirmed that the crabs feed primarily on these bacteria, though they may also supplement this diet with other organisms swept from the seafloor.\n\nUsing behavioral and physical adaptations, the crabs facilitate the growth and harvesting of these bacteria. Specialized hairs, called setae, are found along the bodies of crabs, taking various forms depending on their specific location. Unlike with other crab species, the claws of yeti crabs are densely covered in specialized bristle-like setae. These provide a base for the methane-fixing bacteria to grow on. The claw-waving action appears to help the bacteria grow by increasing access to nutrients from the methane seep and oxygen in the water column. The crabs can then scrape the bacteria off their claws using other more comb-like setae near their mouths.\n\nThe yeti crab’s adaptation to a harsh and resource-limited environment offers a model for sustainable human systems. With behavioral and physical adaptations, the crab is able to harness a plentiful resource to produce food, creating abundance in a landscape otherwise void of the nutrients needed to support life.\n\nMethane gas doesn’t just occur naturally at deep sea vents––it is also a common by-product of human activities, including landfill creation and livestock farming. Once released into the atmosphere, it acts as a potent greenhouse gas 84 times stronger than carbon dioxide. This is why most of the methane produced at human-made facilities is burned, or “flared,” which converts it to carbon dioxide, although it is sometimes captured and used to generate electricity.\n\nHarnessing this methane gas has the potential to use a waste by-product for sustainable agriculture. Research is already underway in this field, with efforts to produce high-protein food by drying methane-fixing bacteria to produce feed pellets. These pellets could then be fed to livestock or farmed fish, with a greatly reduced water and land footprint compared to more conventional sources of feed like soy or wheat.\n\nThe key to the sustainability of this method is to use methane that is being released from other human sources, which focuses on reducing waste at the source. With its clever adaptations, the yeti crab could provide clues for more effective ways to harness an under-utilized resource to help address pressing issues of food security, land use change, and water scarcity around the world.",
   "function_addressed": [
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/fibers-promote-growth-of-edible-bacteria/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fibers",
     "promote",
@@ -19,7 +18,5 @@
     "edible",
     "bacteria"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

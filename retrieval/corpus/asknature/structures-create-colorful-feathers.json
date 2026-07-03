@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-structures-create-colorful-feathers",
   "organism_common": "Kingfishers",
-  "organism_scientific": "",
   "strategy_summary": "Bird feathers come in literally all colors of the rainbow––and even some we can’t see. Some are produced by pigments, chemicals within the feathers that absorb or reflect different wavelengths of light differently.",
-  "mechanism": "The feathers of common kingfishers, like those of other birds, are made up of a main stem, called a rachis, from which individual barbs branch off. However, kingfishers add a twist by having two distinct types of barbs. Both types have a thin outer layer called a cortex. But inside, they differ, and these differences produce different colors by different methods.\n\nOne type of barb, found on the bird’s chest, is made up of hollow cells with tiny granules of pigment inside. The granules selectively absorb short-wavelength blue light, giving the feathers an orange hue. The barb cells are also irregularly spaced, which randomizes the direction of incoming light and scatters the long-wavelength red light.\n\nThe bird’s back and tail feature a second type of barb. This type is made up of cells that are spongy with a small bubble inside. The spongy tissue reflects short-wavelength blue light in many directions, producing bluish iridescence. The sponginess differs from the back to the tail reflecting different wavelengths of light and creating the appearance of cyan and blue, respectively. Beneath the spongy cells are other cells that use a pigment to absorb light that bounces in their direction, helping the blue colors to “pop” by removing other “competing” wavelengths from the picture.\n\nOn top of all of this, the cortex of the blue feathers varies minutely in thickness, and serves as a thin film that reflects light across the entire visible light spectrum. This adds additional shimmer to the overall look.\n\nColor is one of the fundamental tools humans use to communicate, signal, and decorate. Apparel designers, paint manufacturers, and others in the business of color could apply the kingfishers’ strategy of mixing chemical and structural coloration to produce a range of effects with aesthetic as well as very practical applications.",
+  "mechanism": "The feathers of common kingfishers, like those of other birds, are made up of a main stem, called a rachis, from which individual barbs branch off. However, kingfishers add a twist by having two distinct types of barbs. Both types have a thin outer layer called a cortex. But inside, they differ, and these differences produce different colors by different methods.\n\nOne type of barb, found on the bird’s chest, is made up of hollow cells with tiny granules of pigment inside. The granules selectively absorb short-wavelength blue light, giving the feathers an orange hue. The barb cells are also irregularly spaced, which randomizes the direction of incoming light and scatters the long-wavelength red light.\n\nThe bird’s back and tail feature a second type of barb. This type is made up of cells that are spongy with a small bubble inside. The spongy tissue reflects short-wavelength blue light in many directions, producing bluish iridescence. The sponginess differs from the back to the tail reflecting different wavelengths of light and creating the appearance of cyan and blue, respectively. Beneath the spongy cells are other cells that use a pigment to absorb light that bounces in their direction, helping the blue colors to “pop” by removing other “competing” wavelengths from the picture.\n\nOn top of all of this, the cortex of the blue feathers varies minutely in thickness, and serves as a thin film that reflects light across the entire visible light spectrum. This adds additional shimmer to the overall look.\n\nThe spongy tissue reflects short-wavelength blue light in many directions, producing bluish iridescence.\n\nColor is one of the fundamental tools humans use to communicate, signal, and decorate. Apparel designers, paint manufacturers, and others in the business of color could apply the kingfishers’ strategy of mixing chemical and structural coloration to produce a range of effects with aesthetic as well as very practical applications.",
   "function_addressed": [
     "modify light/color"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/structures-create-colorful-feathers/",
-  "source_tier": "science_journalism",
   "keywords": [
     "kingfishers",
     "mix",
@@ -20,7 +21,5 @@
     "striking",
     "color"
   ],
-  "is_usual_suspect": true,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

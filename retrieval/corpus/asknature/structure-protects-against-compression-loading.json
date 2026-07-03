@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-structure-protects-against-compression-loading",
   "organism_common": "Branching corals",
-  "organism_scientific": "",
   "strategy_summary": "The structure of staghorn coral is just one example of a natural branched system that protects against compression loading using scaled struts joined in a common lattice. “In nature we notice trees, branching corals, and other fairly stiff items.",
   "mechanism": "The structure of staghorn coral is just one example of a natural branched system that protects against compression loading using scaled struts joined in a common lattice.\n\n“In nature we notice trees, branching corals, and other fairly stiff items. In these systems, all of the struts join in a common lattice, and no motion is permissible at joints–they’re simple, statically determined systems. If our systems branch, they’re usually equipped with lots of triangular elements, although some crude cases (frame houses) use an array of mechanisms braced against any possible deformations by a structural skin of plywood or something similar. In nature, more often than not, the branches of a system diverge without rejoining, although struts are sometimes joined into trusses–the arms of some sand dollar larvae and some bones in the wings of large birds have already been mentioned.” (Vogel 2003:437)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
   "function_addressed": [
     "manage compression"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/structure-protects-against-compression-loading/",
-  "source_tier": "science_journalism",
   "keywords": [
     "structure",
     "protects",
@@ -19,7 +20,5 @@
     "compression",
     "loading"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

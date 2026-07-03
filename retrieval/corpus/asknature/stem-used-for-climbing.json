@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-stem-used-for-climbing",
   "organism_common": "Move in/on Solids",
-  "organism_scientific": "",
   "strategy_summary": "The stems of honeysuckles help them climb by winding around the thicker stems of plants competing for the same light. “Almost every element of plant anatomy, it seems, can be turned into some kind of climbing device.",
   "mechanism": "The stems of honeysuckles help them climb by winding around the thicker stems of plants competing for the same light.\n\n“Almost every element of plant anatomy, it seems, can be turned into some kind of climbing device. The cheese plant climbs with its roots, sending them out from its nodes, the places on its stem from which leaves normally spring, and wrapping them around the trunk of its host. European ivy sprouts roots all along the underside of its stems. They are so thin that they can cling to any tiny rugosity. Honeysuckle uses its own stem, winding it around the thicker stem of others. The glory lilies of tropical Africa and Asia have elongated the tips of their leaves into little mobile wires with which they hook themselves on to any support they can find.” (Attenborough 1995:161)",
   "function_addressed": [
@@ -9,17 +8,20 @@
     "attach permanently",
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently",
+    "attach::temporarily",
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/stem-used-for-climbing/",
-  "source_tier": "science_journalism",
   "keywords": [
     "stem",
     "used",
     "climbing"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

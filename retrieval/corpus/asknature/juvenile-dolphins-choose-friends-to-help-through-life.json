@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-juvenile-dolphins-choose-friends-to-help-through-life",
   "organism_common": "Bottlenose dolphin",
-  "organism_scientific": "",
   "strategy_summary": "How do our early years help to prepare us for the demands of adulthood? While some species reach sexual maturity at a young age and produce many offspring, dolphins (like humans and other large social species such as elephants) have a prolonged development stage in early life.",
-  "mechanism": "As adults, female dolphins care for (and feed) offspring for 3-4 years. In contrast, adult male dolphins spend more time socializing in groups with other males, and aren’t involved in raising the young. This leads each sex to require a different set of skills needed to succeed as adults.\n\nMore than just a period for learning, dolphins use their extended juvenile years to build community and friendships that will last throughout their lives. Understanding this can have great benefit for conservationists and habitat preservation. For example, when we know that members of a species need social relationships with unrelated members, we are better able to plan and manage protected areas and aquarium habitats.",
+  "mechanism": "As adults, female dolphins care for (and feed) offspring for 3-4 years. In contrast, adult male dolphins spend more time socializing in groups with other males, and aren’t involved in raising the young. This leads each sex to require a different set of skills needed to succeed as adults.\n\nDolphins share foraging strategies with their friends, demonstrating the importance of the social bonds developed throughout their lives.\n\nIn both males and females, dolphins choose their friends carefully, spending more time with these individuals and strengthening these bonds throughout their lives. For males, this helps them form alliances that boost their success in securing a mate. Some males have been found to maintain these strong friendships for more than 30 years.\n\nYoung females spend significantly more time foraging than males. This helps to prepare them for the future high energy demands of pregnancy and raising a calf. As adults, females tend to group with other females and their offspring, which provides some protection to the calves while also facilitating the sharing of information.\n\nResearchers have observed dolphins sharing knowledge about creative ways to use tools to capture fish prey. One of these strategies, first observed in the Shark Bay dolphins in 1984, involves a dolphin holding a sea sponge in its mouth to protect its nose while rooting through the sandy sea floor. This method enables dolphins to find bottom-dwelling fish that hide in the sand. This sponge-tool method is passed down from mothers primarily to their female calves—a textbook example of generational knowledge transfer.\n\nDolphins also appear to share these foraging strategies with their friends, further demonstrating the importance of the social bonds developed throughout their lives.\n\nJuvenile females seem to understand that these friendships are important to develop, and spend time bonding with unrelated females who share these creative foraging strategies. When females share this type of information with each other, they can boost the survival of their calves as well.\n\nMore than just a period for learning, dolphins use their extended juvenile years to build community and friendships that will last throughout their lives. Understanding this can have great benefit for conservationists and habitat preservation. For example, when we know that members of a species need social relationships with unrelated members, we are better able to plan and manage protected areas and aquarium habitats.",
   "function_addressed": [
     "cooperate within the same species"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-the-same-species"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete"
+  ],
   "source_url": "https://asknature.org/strategy/juvenile-dolphins-choose-friends-to-help-through-life/",
-  "source_tier": "science_journalism",
   "keywords": [
     "juvenile",
     "friendships",
     "throughout",
     "life"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-organ-changes-enable-long-migration",
   "organism_common": "Bar-tailed godwit",
-  "organism_scientific": "",
   "strategy_summary": "The eastern bar-tailed godwit is a wading bird that undertakes an annual migration from Alaska to New Zealand. This 6,800 mile (11,000 km) journey is one of the longest migrations undertaken by any bird.",
-  "mechanism": "In order to survive the long journey, the godwit builds up huge amounts of fat to sustain it on its flight. In order to provide itself with enough room to house all of this extra fuel, yet also keep its weight down for flying, the godwit absorbs up to 25 percent of the tissue comprising its liver , kidney s, and alimentary canal. Only when the bird completes its migration are these organs reformed in their entirety.\n\nThe ability to absorb and then rebuild tissue from organs could be used to help humans survive long-distance space travel. By absorbing and then rebuilding tissue from organs, astronauts could reduce the amount of space and resources required for a long-distance space mission.",
+  "mechanism": "In order to survive the long journey, the godwit builds up huge amounts of fat to sustain it on its flight. In order to provide itself with enough room to house all of this extra fuel, yet also keep its weight down for flying, the godwit absorbs up to 25 percent of the tissue comprising its liver , kidney s, and alimentary canal. Only when the bird completes its migration are these organs reformed in their entirety.\n\nThe ability to absorb and then rebuild tissue from organs could be used to help humans survive long-distance space travel. By absorbing and then rebuilding tissue from organs, astronauts could reduce the amount of space and resources required for a long-distance space mission.\n\n“A grotesque phenomenon known as autophagy or autocannibalism, in which an animal eats portions of its own body, can be used as an aid to migration. Intriguingly, the eastern bar-tailed godwit ( Limosa lapponica baueri ), a wading bird, exhibits a similar but more subtle behavior that appears to assist its long-distance migration. As revealed in 1998 by Groningen University researcher Dr. Theunis Piersma and Dr. Robert Gill from the U.S. Geological Survey, before setting out on its 6,800 mile (11,000 km) migration from Alaska to New Zealand, this bird builds up huge amounts of fat to sustain it on its flight. In order to provide itself with enough room to house all of this extra fuel, yet also keep its weight down for flying, the godwit absorbs up to 25 percent of the tissue comprising its liver, kidneys, and alimentary canal. Only when the bird completes its migration are these organs reformed in their entirety. This is the first time that partial organ absorption and subsequent reconstitution has been documented in a species of migratory bird.” (Shuker 2001:71)",
   "function_addressed": [
     "adapt phenotype"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-phenotype"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize"
+  ],
   "source_url": "https://asknature.org/strategy/organ-changes-enable-long-migration/",
-  "source_tier": "science_journalism",
   "keywords": [
     "organ",
     "changes",
@@ -19,7 +20,5 @@
     "long",
     "migration"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

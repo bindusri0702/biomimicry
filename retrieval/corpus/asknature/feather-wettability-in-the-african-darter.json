@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-feather-wettability-in-the-african-darter",
   "organism_common": "African darter",
-  "organism_scientific": "",
   "strategy_summary": "The African darter ( Anhinga rufa ) is a unique water bird native to sub-Saharan Africa, where it thrives in freshwater lakes, rivers, and swamps. Known for its remarkable diving skills, the darter hunts fish underwater with ease.",
-  "mechanism": "The African darter’s feathers are adapted to serve a dual purpose: reducing buoyancy while underwater and allowing immediate flight after emerging. This is achieved through the unique structure of their feathers.\n\nThe darter’s feathers are divided into two main types: body feathers and flight feathers (wing and tail feathers). Body feathers have more open space between their barbs and barbules, making them easily soaked and weighed down by water. When submerged, these feathers become fully saturated with water, which reduces buoyancy and aids in underwater hunting by allowing the bird to stay submerged and maneuver easily.\n\nIn contrast, the darter’s wing and tail feathers are designed to resist water penetration. The feathers have a much tighter micro-arrangement of barbs and barbules. The barbules’ close spacing holds water on the surface via capillary action, creating a barrier that prevents water from soaking into the flight feathers. It also requires greater pressure for water to push past this defense. This resistance ensures that these feathers remain relatively dry, allowing the bird to attain sufficient lift and stability for immediate flight after emerging from water.\n\nIn comparison to the darter’s unique feather wettability, other water birds like the double-crested cormorant have feathers that are less wettable overall. Cormorants have a more uniform feather structure across their body, wings, and tail, with a focus on water repellency to maintain buoyancy and ease of movement in both air and water. This difference in feather structure between darters and cormorants underscores the darter’s unique adaptation to its hunting strategy and habitat.\n\nThe African darter’s feather structure offers intriguing insights for human innovation. For instance, developing water-resistant and buoyant textiles that mimic the dual nature of darter feathers can lead to swimwear and diving suits that balance buoyancy and water resistance. Such textiles could help divers control their buoyancy and streamline their movements underwater.\n\nThe immediate flight capability of darters emerging from water could also inspire engineers to design surfaces for aircraft and vehicles that manage water efficiently, reducing drag and enhancing performance in wet conditions.\n\nOverall, the darter’s feather structure demonstrates how natural designs can achieve high functionality without synthetic chemicals. This principle can guide the development of sustainable materials that are both efficient and environmentally friendly.",
+  "mechanism": "The African darter’s feathers are adapted to serve a dual purpose: reducing buoyancy while underwater and allowing immediate flight after emerging. This is achieved through the unique structure of their feathers.\n\nThe darter’s feathers are divided into two main types: body feathers and flight feathers (wing and tail feathers). Body feathers have more open space between their barbs and barbules, making them easily soaked and weighed down by water. When submerged, these feathers become fully saturated with water, which reduces buoyancy and aids in underwater hunting by allowing the bird to stay submerged and maneuver easily.\n\nIn contrast, the darter’s wing and tail feathers are designed to resist water penetration. The feathers have a much tighter micro-arrangement of barbs and barbules. The barbules’ close spacing holds water on the surface via capillary action, creating a barrier that prevents water from soaking into the flight feathers. It also requires greater pressure for water to push past this defense. This resistance ensures that these feathers remain relatively dry, allowing the bird to attain sufficient lift and stability for immediate flight after emerging from water.\n\nIn comparison to the darter’s unique feather wettability, other water birds like the double-crested cormorant have feathers that are less wettable overall. Cormorants have a more uniform feather structure across their body, wings, and tail, with a focus on water repellency to maintain buoyancy and ease of movement in both air and water. This difference in feather structure between darters and cormorants underscores the darter’s unique adaptation to its hunting strategy and habitat.\n\nThe African darter’s feather structure offers intriguing insights for human innovation. For instance, developing water-resistant and buoyant textiles that mimic the dual nature of darter feathers can lead to swimwear and diving suits that balance buoyancy and water resistance. Such textiles could help divers control their buoyancy and streamline their movements underwater.\n\nThe immediate flight capability of darters emerging from water could also inspire engineers to design surfaces for aircraft and vehicles that manage water efficiently, reducing drag and enhancing performance in wet conditions.\n\nOverall, the darter’s feather structure demonstrates how natural designs can achieve high functionality without synthetic chemicals. This principle can guide the development of sustainable materials that are both efficient and environmentally friendly.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "move in/on liquids",
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids",
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "move",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/feather-wettability-in-the-african-darter/",
-  "source_tier": "science_journalism",
   "keywords": [
     "feather",
     "wettability",
     "african",
     "darter"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

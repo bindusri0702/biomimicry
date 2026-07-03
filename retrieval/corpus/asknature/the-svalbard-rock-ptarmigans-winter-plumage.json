@@ -1,20 +1,27 @@
 {
   "doc_id": "asn-the-svalbard-rock-ptarmigans-winter-plumage",
   "organism_common": "Rock ptarmigan",
-  "organism_scientific": "",
   "strategy_summary": "The Svalbard rock ptarmigan ( Lagopus muta hyperborea ) is the northernmost land bird, inhabiting the high Arctic year-round. This bird is renowned for remarkable adaptations that enable survival in the extreme cold and harsh conditions of the Arctic winter.",
-  "mechanism": "The ptarmigan undergoes significant morphological changes in its plumage from summer to winter. During the winter, the bird’s plumage becomes denser and the individual feathers heavier, longer, and downier. This increased feather density and mass is crucial for insulation against the cold. On the bottom of the feet, the number and size of feathers increases dramatically, resulting in a 2.5-fold increase in feather density and a 6-fold increase in mass density between summer and winter. This transformation effectively reduces the proportion of bare skin in contact with the ground from 44% to 0%.\n\nThe dense feathering on the Svalbard rock ptarmigan’s feet acts as a natural set of snowshoes. With their long, downy barbs, the additional feathers significantly enlarge the surface area of the feet, helping to keep the bird from sinking into the snow. This “snowshoe effect” is critical for survival, as it allows the ptarmigan to move more efficiently on soft snow, conserving energy during the long Arctic winter.\n\nFurthermore, the increased feather density and mass trap a layer of air and provide thermal insulation, reducing heat loss. Though the arrangement of veins and arteries in the bird’s legs help regulate foot temperature with or without the feathers.\n\nBy mimicking the ptarmigan’s feathering strategy, designers may be able to develop alternative forms of snowshoe-like devices for keeping ourselves or other objects moving efficiently on deep, powdery snow. Additionally, this adaptation could inspire innovations in materials and clothing designed for cold environments, enhancing both mobility and warmth for use in extreme winter conditions.",
+  "mechanism": "The ptarmigan undergoes significant morphological changes in its plumage from summer to winter. During the winter, the bird’s plumage becomes denser and the individual feathers heavier, longer, and downier. This increased feather density and mass is crucial for insulation against the cold. On the bottom of the feet, the number and size of feathers increases dramatically, resulting in a 2.5-fold increase in feather density and a 6-fold increase in mass density between summer and winter. This transformation effectively reduces the proportion of bare skin in contact with the ground from 44% to 0%.\n\nThe dense feathering on the Svalbard rock ptarmigan’s feet acts as a natural set of snowshoes. With their long, downy barbs, the additional feathers significantly enlarge the surface area of the feet, helping to keep the bird from sinking into the snow. This “snowshoe effect” is critical for survival, as it allows the ptarmigan to move more efficiently on soft snow, conserving energy during the long Arctic winter.\n\nFurthermore, the increased feather density and mass trap a layer of air and provide thermal insulation, reducing heat loss. Though the arrangement of veins and arteries in the bird’s legs help regulate foot temperature with or without the feathers.\n\nBy mimicking the ptarmigan’s feathering strategy, designers may be able to develop alternative forms of snowshoe-like devices for keeping ourselves or other objects moving efficiently on deep, powdery snow. Additionally, this adaptation could inspire innovations in materials and clothing designed for cold environments, enhancing both mobility and warmth for use in extreme winter conditions.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "optimize shape/materials",
     "modify size/shape/mass/volume",
     "protect from temperature",
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "modify-physical-state::size-shape-mass-volume",
+    "move::in-on-solids",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "modify-physical-state",
+    "move",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/the-svalbard-rock-ptarmigans-winter-plumage/",
-  "source_tier": "science_journalism",
   "keywords": [
     "svalbard",
     "rock",
@@ -22,7 +29,5 @@
     "winter",
     "plumage"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

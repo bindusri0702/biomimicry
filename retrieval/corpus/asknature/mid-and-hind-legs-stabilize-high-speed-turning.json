@@ -1,19 +1,24 @@
 {
   "doc_id": "asn-mid-and-hind-legs-stabilize-high-speed-turning",
   "organism_common": "Whirligig beetles",
-  "organism_scientific": "",
   "strategy_summary": "The mid and hind legs of whirligig beetle stabilize turning while maintaining speed due to specialized lengths and points of attachment. The whirligig beetle swims quickly atop water, yet it still excels in making sharp turns.",
-  "mechanism": "The mid and hind legs of whirligig beetle stabilize turning while maintaining speed due to specialized lengths and points of attachment.\n\nThe whirligig beetle swims quickly atop water, yet it still excels in making sharp turns. This is due to a specialized leg structure that suggests the main role of its hind legs is propulsion. In contrast, the primary function of its middle legs is stability control, maintaining a given path during swimming.\n\nThe beetle’s hind legs are longer and have denser swimming hairs (called laminae) than its middle legs, providing the hind legs greater contact with the water that enables them to generate greater thrust. Additionally, the hind legs are attached lower on the beetle’s abdomen than its middle legs. This increases the distance between the beetle’s center of mass and the point at which the greatest force is generated against the water; in turn, the hind legs produce an increase in angular velocity, allowing the beetle to quickly change orientation in the water. To maintain a stable path, the middle legs balance out this angular velocity.\n\nThis strategy was contributed by Rachel Major",
+  "mechanism": "The mid and hind legs of whirligig beetle stabilize turning while maintaining speed due to specialized lengths and points of attachment.\n\nThe whirligig beetle swims quickly atop water, yet it still excels in making sharp turns. This is due to a specialized leg structure that suggests the main role of its hind legs is propulsion. In contrast, the primary function of its middle legs is stability control, maintaining a given path during swimming.\n\nThe beetle’s hind legs are longer and have denser swimming hairs (called laminae) than its middle legs, providing the hind legs greater contact with the water that enables them to generate greater thrust. Additionally, the hind legs are attached lower on the beetle’s abdomen than its middle legs. This increases the distance between the beetle’s center of mass and the point at which the greatest force is generated against the water; in turn, the hind legs produce an increase in angular velocity, allowing the beetle to quickly change orientation in the water. To maintain a stable path, the middle legs balance out this angular velocity.",
   "function_addressed": [
     "modify position",
     "distribute energy",
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::energy",
+    "modify-physical-state::position",
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "modify-physical-state",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/mid-and-hind-legs-stabilize-high-speed-turning/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mid",
     "hind",
@@ -22,7 +27,5 @@
     "high-speed",
     "turning"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

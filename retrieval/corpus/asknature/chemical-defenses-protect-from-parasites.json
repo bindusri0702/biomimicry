@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-chemical-defenses-protect-from-parasites",
   "organism_common": "Tobacco",
-  "organism_scientific": "",
   "strategy_summary": "The leaves of tobacco protect from parasitic insects by releasing a chemical signal, inducing production in adjacent cells of a compound toxic to invertebrates. When cells within a tobacco leaf are touched by an external force, stretch receptors cause them to release calcium ions.",
-  "mechanism": "The leaves of tobacco protect from parasitic insects by releasing a chemical signal, inducing production in adjacent cells of a compound toxic to invertebrates.\n\nWhen cells within a tobacco leaf are touched by an external force, stretch receptors cause them to release calcium ions. The signal spreads into adjacent cells in a propagating wave triggering the release of more calcium ions and the subsequent production of a chemical called GABA. Tobacco leaf parasites that ingest GABA suffer tremors, excitablilty, paralysis, and death.\n\nImage: Taber Andrew Bain / toggle icon",
+  "mechanism": "The leaves of tobacco protect from parasitic insects by releasing a chemical signal, inducing production in adjacent cells of a compound toxic to invertebrates.\n\nWhen cells within a tobacco leaf are touched by an external force, stretch receptors cause them to release calcium ions. The signal spreads into adjacent cells in a propagating wave triggering the release of more calcium ions and the subsequent production of a chemical called GABA. Tobacco leaf parasites that ingest GABA suffer tremors, excitablilty, paralysis, and death.",
   "function_addressed": [
     "protect from animals",
     "sense touch and mechanical forces in a living system"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals",
+    "sense-signals-environmental-cues::touch-and-mechanical-forces"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/chemical-defenses-protect-from-parasites/",
-  "source_tier": "science_journalism",
   "keywords": [
     "chemical",
     "defenses",
     "protect",
     "parasites"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

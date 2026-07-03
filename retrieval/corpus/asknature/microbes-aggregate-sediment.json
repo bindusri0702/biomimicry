@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-microbes-aggregate-sediment",
   "organism_common": "Cyanobacteria",
-  "organism_scientific": "",
-  "strategy_summary": "Cyanobacteria grow large layered clumps of rock and algae, called stromatolites, by trapping sediment in mucus and filaments. Image: C.",
-  "mechanism": "Cyanobacteria grow large layered clumps of rock and algae, called stromatolites, by trapping sediment in mucus and filaments.\n\nImage: C. Eeckhout / toggle icon Image: C. Eeckhout / toggle icon right arrow right arrow\n\n“Half dead, half alive, stromatolites represent a partnership between microorganisms and rock. The spongy coating is made of cyanobacterial filaments that secrete a sticky mucus. Grains of sediment get trapped in the mucus and stick together to form a crust of rock. As the filaments grow longer, they trap more sediment and add a new layer to the exterior. What’s left on the inside is dead zone.” (Monastersky 1998:74)",
+  "strategy_summary": "Cyanobacteria grow large layered clumps of rock and algae, called stromatolites, by trapping sediment in mucus and filaments. “Half dead, half alive, stromatolites represent a partnership between microorganisms and rock.",
+  "mechanism": "Cyanobacteria grow large layered clumps of rock and algae, called stromatolites, by trapping sediment in mucus and filaments.\n\n“Half dead, half alive, stromatolites represent a partnership between microorganisms and rock. The spongy coating is made of cyanobacterial filaments that secrete a sticky mucus. Grains of sediment get trapped in the mucus and stick together to form a crust of rock. As the filaments grow longer, they trap more sediment and add a new layer to the exterior. What’s left on the inside is dead zone.” (Monastersky 1998:74)",
   "function_addressed": [
     "capture, absorb, or filter solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::solids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/microbes-aggregate-sediment/",
-  "source_tier": "science_journalism",
   "keywords": [
     "microbes",
     "aggregate",
     "sediment"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

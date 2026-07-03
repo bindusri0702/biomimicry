@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-birds-surf-air",
   "organism_common": "Pelicans",
-  "organism_scientific": "",
   "strategy_summary": "It’s low tide and a calm sea early in the morning as a flock of brown pelicans dips low and glides just above the surface of the Atlantic Ocean. The appearance may be graceful, but the real grace is efficiency.",
-  "mechanism": "Pelicans, skimmers, and other birds save energy when gliding across water because of something called the “ground effect,” which increases lift and reduces drag.\n\nStudying methods that birds use to save energy flying can lead to innovations that help airplanes fly more efficiently, reducing fuel consumption and greenhouse gas emissions. Flying drones that survey and study waterways might be designed to glide close to the water to optimize energy and cover farther distances. And in the rising development of electric airplanes, it’s going to be particularly helpful to save as much energy as possible to help battery charges last as long as possible.",
+  "mechanism": "Pelicans, skimmers, and other birds save energy when gliding across water because of something called the “ground effect,” which increases lift and reduces drag.\n\nVideo: Pelicans gliding over the ocean\n\nWhen a bird glides, it stretches its wings outward and rides the wind, saving the energy it would otherwise use to flap. In this “fixed-wing” mode of flight, some of the air that flows under the wing impacts it and washes downward, pushing the wing (and bird) upward. In addition, the curvature of the wing causes the air above it to move faster and drop in pressure, also contributing to the lift. Near the tips of the wings, the higher-pressure air below is able to push up into the region of lower pressure above and create swirling vortices. Both downwash and the vortices increase drag, adding to the amount of energy required to stay airborne.\n\nWhen birds fly just above the water, the relative effects of these forces change. Because there is less room for downwash to disperse, it compresses the air between the wing and the surface, creating a cushion of even higher pressure that increases lift. There is also less space for vortices to form, decreasing drag.\n\nStudying methods that birds use to save energy flying can lead to innovations that help airplanes fly more efficiently, reducing fuel consumption and greenhouse gas emissions. Flying drones that survey and study waterways might be designed to glide close to the water to optimize energy and cover farther distances. And in the rising development of electric airplanes, it’s going to be particularly helpful to save as much energy as possible to help battery charges last as long as possible.",
   "function_addressed": [
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/birds-surf-air/",
-  "source_tier": "science_journalism",
   "keywords": [
     "birds",
     "surf",
     "air"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

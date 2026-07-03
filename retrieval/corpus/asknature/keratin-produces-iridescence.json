@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-keratin-produces-iridescence",
   "organism_common": "Rock pigeon",
-  "organism_scientific": "",
   "strategy_summary": "Feather barbules of the rock pigeon produce iridescence by light interference in the keratin layer. “We found that both green and purple barbules are composed of an outer keratin cortex layer surrounding a medullary layer.",
   "mechanism": "Feather barbules of the rock pigeon produce iridescence by light interference in the keratin layer.\n\n“We found that both green and purple barbules are composed of an outer keratin cortex layer surrounding a medullary layer. The thickness of the keratin cortex layer shows a distinct difference between green and purple barbules. Green barbules vary colors from green to purple with the observing angle changed from normal to oblique, while purple barbules from purple to green in an opposite way. Both the experimental and theoretical results suggest that structural colors in green and purple neck feathers should originate from the interference in the top keratin cortex layer, while the structure beyond acts as a poor mirror.” (Yin et al. 2006:1)",
   "function_addressed": [
     "modify light/color"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/keratin-produces-iridescence/",
-  "source_tier": "science_journalism",
   "keywords": [
     "keratin",
     "produces",
     "iridescence"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

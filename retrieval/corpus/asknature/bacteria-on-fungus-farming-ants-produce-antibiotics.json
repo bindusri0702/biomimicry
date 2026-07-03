@@ -1,20 +1,26 @@
 {
   "doc_id": "asn-bacteria-on-fungus-farming-ants-produce-antibiotics",
   "organism_common": "Leafcutter ants",
-  "organism_scientific": "",
   "strategy_summary": "Bacteria growing on ants produce constantly changing antibiotics that invading fungi cannot develop resistance to. In nature, species work with each other to build long-lasting relationships.",
-  "mechanism": "Bacteria growing on ants produce constantly changing antibiotics that invading fungi cannot develop resistance to.\n\nIn nature, species work with each other to build long-lasting relationships. One example is the relationship between a fungus-growing ant, fungi, and bacteria. Fungus-growing ants grow a garden of fungi. The ants provide the fungi with food and an ideal habitat to grow, and in turn the fungus is a food source for the ants. Special bacteria living on the ants help protect the fungi from outside threats, such as other invading fungi. This three-way relationship is mutually beneficial . This means that two or more species work together to help each other and that the relationship has a positive benefit for everyone.\n\nWhere Are the Ants Carrying All Those Leaves?\n\nFrom time to time, bad fungi will try to invade the ant’s fungi garden. However, the ants cannot eat these fungi, so they would not benefit. Two species of bacteria live on the ant and receive food from the ant. In turn, they make a variety of antibiotic compounds that can stop the growth of these bad fungi. The bacteria can make a variety of different antibiotics by using different parts of their DNA. DNA provides instructions that tells the cells what kinds of compounds to make. The bacteria constantly use different parts of the instructions so that the antibiotic is always different. As a result, the bad fungi cannot develop a defense fast enough. To visualize this, imagine that the bad fungi need to produce a perfect key to open the gate to the ant’s fungi garden. To stop this from happening, the bacteria only need to make small changes to the key slot to stop the bad fungi from opening the gate. As a result, the bad fungi are rarely able to develop a defense against the antibiotics.\n\nHumans can develop infections caused by bacteria. To treat the infections, doctors give antibiotics consisting of only one compound to kill the bacteria. Over time, the bacteria can learn to protect themselves and become resistant to the antibiotic. Therefore, humans could apply fungus-farming ant’s strategy by making small changes to the antibiotics that will make it more difficult for the bacteria to develop resistance.\n\nThe fungal nest of a leafcutter ant colony.",
+  "mechanism": "Bacteria growing on ants produce constantly changing antibiotics that invading fungi cannot develop resistance to.\n\nIn nature, species work with each other to build long-lasting relationships. One example is the relationship between a fungus-growing ant, fungi, and bacteria. Fungus-growing ants grow a garden of fungi. The ants provide the fungi with food and an ideal habitat to grow, and in turn the fungus is a food source for the ants. Special bacteria living on the ants help protect the fungi from outside threats, such as other invading fungi. This three-way relationship is mutually beneficial. This means that two or more species work together to help each other and that the relationship has a positive benefit for everyone.\n\nWhere Are the Ants Carrying All Those Leaves?\n\nFrom time to time, bad fungi will try to invade the ant’s fungi garden. However, the ants cannot eat these fungi, so they would not benefit. Two species of bacteria live on the ant and receive food from the ant. In turn, they make a variety of antibiotic compounds that can stop the growth of these bad fungi. The bacteria can make a variety of different antibiotics by using different parts of their DNA. DNA provides instructions that tells the cells what kinds of compounds to make. The bacteria constantly use different parts of the instructions so that the antibiotic is always different. As a result, the bad fungi cannot develop a defense fast enough. To visualize this, imagine that the bad fungi need to produce a perfect key to open the gate to the ant’s fungi garden. To stop this from happening, the bacteria only need to make small changes to the key slot to stop the bad fungi from opening the gate. As a result, the bad fungi are rarely able to develop a defense against the antibiotics.\n\nHumans can develop infections caused by bacteria. To treat the infections, doctors give antibiotics consisting of only one compound to kill the bacteria. Over time, the bacteria can learn to protect themselves and become resistant to the antibiotic. Therefore, humans could apply fungus-farming ant’s strategy by making small changes to the antibiotics that will make it more difficult for the bacteria to develop resistance.\n\nThe fungal nest of a leafcutter ant colony.",
   "function_addressed": [
     "biological control of populations, pests, diseases",
     "manage disturbance in a community",
     "cooperate/compete between different species",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::between-different-species",
+    "protect-from-living-threats::microbes",
+    "provide-ecosystem-services::biological-control-of-populations-pests-diseases",
+    "provide-ecosystem-services::manage-disturbance-in-a-community"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "protect-from-living-threats",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/bacteria-on-fungus-farming-ants-produce-antibiotics/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bacteria",
     "fungus",
@@ -23,7 +29,5 @@
     "produce",
     "antibiotics"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

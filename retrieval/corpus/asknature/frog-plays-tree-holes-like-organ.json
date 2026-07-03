@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-frog-plays-tree-holes-like-organ",
   "organism_common": "Bornean tree-hole frog",
-  "organism_scientific": "",
   "strategy_summary": "In a Malaysian rainforest, a male tree-hole frog wriggles inside a water-filled tree hollow, getting ready to call a mate. His call is a single-note pulse, and the louder it sounds, the farther it will reach, increasing the likelihood that a female will hear and respond to it.",
-  "mechanism": "Like other frogs, the tree-hole frog uses vocal cords and a vocal sac to croak. Instead of expelling exhaled air like most other animals do when they make noise, frogs pass exhaling air across their vocal cords, then into their vocal sacs. The vocal sac itself is a natural sound amplifier, vibrating like the top of a kettle drum to transfer the sound of its call into the air.\n\nBut tree-hole frogs don’t simply rely on their own anatomy to amplify sound. They also use their watery holes as echo chambers. The frogs adjust the pitch of their calls until they find the resonant frequency of their surroundings.\n\nThe resonant frequency is the frequency at which a substance vibrates at its highest amplitude. For example, when the frequency of sound matches the resonant frequency of a wineglass, the glass vibrates so hard that it breaks.\n\nLearning how tree-hole frogs use their surroundings to boost sound could lead to improved architectural designs that incorporate acoustics. Schools for hearing-impaired children could be designed to naturally amplify sound. Electronic devices such as televisions and audio players could be designed to use less energy by amplifying sound based on the resonance of their locations.",
+  "mechanism": "Like other frogs, the tree-hole frog uses vocal cords and a vocal sac to croak. Instead of expelling exhaled air like most other animals do when they make noise, frogs pass exhaling air across their vocal cords, then into their vocal sacs. The vocal sac itself is a natural sound amplifier, vibrating like the top of a kettle drum to transfer the sound of its call into the air.\n\nBut tree-hole frogs don’t simply rely on their own anatomy to amplify sound. They also use their watery holes as echo chambers. The frogs adjust the pitch of their calls until they find the resonant frequency of their surroundings.\n\nThe resonant frequency is the frequency at which a substance vibrates at its highest amplitude. For example, when the frequency of sound matches the resonant frequency of a wineglass, the glass vibrates so hard that it breaks.\n\nVideo: Using resonance to break a wine glass\n\nPipe organs form a particular note by forcing air through a pipe of a specific diameter and length, which causes the pipe to vibrate at its resonant frequency. If a tree-hole frog sat inside the pipe of a pipe organ and adjusted his pitch to match the pipe’s resonant frequency, the pipe would vibrate along with the frog’s vocal sac, boosting the sound volume. In a sense, a tree-hole frog plays a tree hole like a pipe organ.\n\nVideo: Tree-hole frog calling\n\nOne thing that affects the resonant frequency of a tree hole is the amount of water inside it. When scientists put a male tree-hole frog in a tube and slowly drained water from it, the frog continually tweaked his call to match the changing resonant frequency. Furthermore, when the frog found the resonant frequency, his croaks were longer in duration with fewer breaks in between, suggesting that when the amplifying effect is found, it’s worth the energetic cost to increase the chances of finding a mate.\n\nLearning how tree-hole frogs use their surroundings to boost sound could lead to improved architectural designs that incorporate acoustics. Schools for hearing-impaired children could be designed to naturally amplify sound. Electronic devices such as televisions and audio players could be designed to use less energy by amplifying sound based on the resonance of their locations.",
   "function_addressed": [
     "send sound signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::sound"
+  ],
+  "subgroup_keys": [
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/frog-plays-tree-holes-like-organ/",
-  "source_tier": "science_journalism",
   "keywords": [
     "frog",
     "plays",
@@ -20,7 +21,5 @@
     "like",
     "pipe"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

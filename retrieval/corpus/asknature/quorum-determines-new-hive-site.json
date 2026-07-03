@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-quorum-determines-new-hive-site",
   "organism_common": "Bees",
-  "organism_scientific": "",
   "strategy_summary": "Honeybees in a colony select a new hive location via quorum. Humans aren’t the only ones who vote in important elections.",
   "mechanism": "Honeybees in a colony select a new hive location via quorum.\n\nHumans aren’t the only ones who vote in important elections. A successful honeybee hive can contain tens of thousands of bees and may eventually become overcrowded due to limited space. When this happens, the colony splits in two and one group of bees leaves the hive in a swarm, clustering together outside until the group can find a new place to live. How do thousands of bees agree on a new location for a hive? The decision is important, because once agreed upon, the new colony will invest all of its energy into making the new location a success.\n\nTo find a location for a new hive, “scout” bees investigate possible sites. Then each scout returns to the swarm and communicates how promising the site it visited is by performing a “waggle dance.” In a waggle dance, a bee shakes or vibrates while walking forward in a wave pattern, then circles back and repeats the process. The faster a bee vibrates, the more promising it thinks the site it explored is. At the same time, the orientation of the bee’s movements conveys the newly proposed hive’s direction, and the time or linear distance over which the bee waggles in each cycle conveys the distance to the new hive. Based upon the relative vigor of each bee’s dance, other scouts locate and assess the more strongly recommended locations.\n\nAs soon as the number of bees at any given potential site reaches about 15, this group returns to the swarm, spreading through it to signal a final decision to relocate to that site. As a result, the swarm follows and sets up its hive in this chosen location.\n\nStudying how honeybees and other species make decisions could provide insights into how humans could make better group decisions too.\n\n1=A swam of ''Apis mellifera'' (<a href=http://en.wikipedia.org/wiki/European_honey_bee class=extiw title=w:European honey bee>European honey bees</a>).\n\nBienen mit Brut (Eier und Maden) - Bees with brood (eggs and larvae)\n\nRoutific\n\nRoute optimization software from Routific uses an algorithm that helps delivery trucks calculate more efficient routes.\n\nEncycle\n\nSwarmLogic from Encycle uses a unique algorithm that allows power-consuming appliances to communicate with each other and save energy.",
   "function_addressed": [
     "cooperate within the same species"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-the-same-species"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete"
+  ],
   "source_url": "https://asknature.org/strategy/quorum-determines-new-hive-site/",
-  "source_tier": "science_journalism",
   "keywords": [
     "quorum",
     "determines",
@@ -19,7 +20,5 @@
     "hive",
     "site"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

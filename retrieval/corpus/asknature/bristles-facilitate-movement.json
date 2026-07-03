@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-bristles-facilitate-movement",
   "organism_common": "Segmented worms",
-  "organism_scientific": "",
   "strategy_summary": "In the soil beneath our feet, an unlikely champion is busy at work, churning through the earth and aerating the soil as it goes. The earthworm is a humble creature, but its contributions to the health of the planet are many.",
-  "mechanism": "Earthworms move by stretching and squeezing alternate parts of their long, cylindrical trunk. Each region of stretch or squeeze is then moved rearward. This system of movement is called peristalsis.\n\nIn order for peristalsis to be effective, the trunk needs some device so it slides more easily forward than rearward.\n\nFor earthworms, setae, short rearward-pointing bristles, provide that crucial asymmetry. The setae are located in rows along the length of the earthworm’s body. As the earthworm moves, the setae grab the ground and help the worm to inch forward. At the same time, the setae brush backwards against the soil, helping to loosen it and aerate the earth.\n\nThe setae of the earthworm could be emulated for use in a variety of applications. They could be adapted for use to help loosen compacted soil, making it easier to till or excavate. Setae-inspired structures could also be used to help aerate soil.\n\nIn addition, setae could be a model for use in other situations that require maneuvering through tight spaces, such as search and rescue missions. Artificial setae could be used to help a rover move over rough terrain, or to help a rescue worker move through a collapsed building.",
+  "mechanism": "Earthworms move by stretching and squeezing alternate parts of their long, cylindrical trunk. Each region of stretch or squeeze is then moved rearward. This system of movement is called peristalsis.\n\nIn order for peristalsis to be effective, the trunk needs some device so it slides more easily forward than rearward.\n\nFor earthworms, setae, short rearward-pointing bristles, provide that crucial asymmetry. The setae are located in rows along the length of the earthworm’s body. As the earthworm moves, the setae grab the ground and help the worm to inch forward. At the same time, the setae brush backwards against the soil, helping to loosen it and aerate the earth.\n\nThe setae of the earthworm could be emulated for use in a variety of applications. They could be adapted for use to help loosen compacted soil, making it easier to till or excavate. Setae-inspired structures could also be used to help aerate soil.\n\nIn addition, setae could be a model for use in other situations that require maneuvering through tight spaces, such as search and rescue missions. Artificial setae could be used to help a rover move over rough terrain, or to help a rescue worker move through a collapsed building.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/bristles-facilitate-movement/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bristles",
     "facilitate",
     "movement"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

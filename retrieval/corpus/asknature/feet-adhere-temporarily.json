@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-feet-adhere-temporarily",
   "organism_common": "Black bean aphid",
-  "organism_scientific": "",
   "strategy_summary": "The feet of aphids appear to adhere to surfaces using capillary adhesion. 1=Anaglyph SEM image of Aphis fabae, magnification 50x",
   "mechanism": "The feet of aphids appear to adhere to surfaces using capillary adhesion.\n\n1=Anaglyph SEM image of Aphis fabae, magnification 50x",
   "function_addressed": [
@@ -9,17 +8,21 @@
     "attach temporarily",
     "send sound signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "move::in-on-solids",
+    "send-signals::sound"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "move",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/feet-adhere-temporarily/",
-  "source_tier": "science_journalism",
   "keywords": [
     "feet",
     "adhere",
     "temporarily"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

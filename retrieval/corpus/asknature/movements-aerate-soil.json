@@ -1,25 +1,27 @@
 {
   "doc_id": "asn-movements-aerate-soil",
   "organism_common": "Short-beaked echidna",
-  "organism_scientific": "",
   "strategy_summary": "The echidna respires while buried underground by using its snout to move the soil around its head, enabling access to the air trapped between soil particles. “Short-beaked echidnas have an impressive ability to submerge completely into soil or sand and remain there, cryptic, for long periods.",
-  "mechanism": "The echidna respires while buried underground by using its snout to move the soil around its head, enabling access to the air trapped between soil particles.\n\n“Short-beaked echidnas have an impressive ability to submerge completely into soil or sand and remain there, cryptic, for long periods. This poses questions about how they manage their respiration, cut off from a free flow of gases…it was noticed that echidnas often showed periodic movements of the anterior part of the body, as if such movements were a deliberate effort to flush the tidal air space surrounding their nostrils. These ‘flushing movements’ were subsequently found to temporarily increase the levels of interstitial oxygen in the soil around the head region. Flushing movements were more frequent while V O 2 was higher during the burrowing process, and also in substrate with lower f a . We conclude that oxygen supply to buried echidnas is maintained by diffusion through the soil augmented by periodic flushing movements, which ventilate the tidal airspace that surrounds the nostrils.” (Waugh et al. 2006:938)\n\nInitially similar in appearance to a common hedgehog, the short-beaked echidna has many unique or extremely rare characteristics, including being one of the few egg-laying mammals.",
+  "mechanism": "The echidna respires while buried underground by using its snout to move the soil around its head, enabling access to the air trapped between soil particles.\n\n“Short-beaked echidnas have an impressive ability to submerge completely into soil or sand and remain there, cryptic, for long periods. This poses questions about how they manage their respiration, cut off from a free flow of gases…it was noticed that echidnas often showed periodic movements of the anterior part of the body, as if such movements were a deliberate effort to flush the tidal air space surrounding their nostrils. These ‘flushing movements’ were subsequently found to temporarily increase the levels of interstitial oxygen in the soil around the head region. Flushing movements were more frequent while V O 2 was higher during the burrowing process, and also in substrate with lower f a. We conclude that oxygen supply to buried echidnas is maintained by diffusion through the soil augmented by periodic flushing movements, which ventilate the tidal airspace that surrounds the nostrils.” (Waugh et al. 2006:938)\n\nInitially similar in appearance to a common hedgehog, the short-beaked echidna has many unique or extremely rare characteristics, including being one of the few egg-laying mammals.",
   "function_addressed": [
     "protect from dirt/solids",
     "protect from loss of gases",
     "distribute gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::gases",
+    "protect-from-non-living-threats::dirt-solids",
+    "protect-from-non-living-threats::loss-of-gases"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/movements-aerate-soil/",
-  "source_tier": "science_journalism",
   "keywords": [
     "movements",
     "aerate",
     "soil"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

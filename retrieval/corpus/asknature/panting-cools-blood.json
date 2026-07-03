@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-panting-cools-blood",
   "organism_common": "Reindeer",
-  "organism_scientific": "",
   "strategy_summary": "The tongue of the reindeer or caribou cools blood heading to the brain under duress by being high vascularized. “The reindeer ( Rangifer tarandus ) is an Arctic animal that has adapted to annual changes of 80°C in ambient temperature by growing a fur of excellent insulation value in the autumn to be shed in the…",
   "mechanism": "The tongue of the reindeer or caribou cools blood heading to the brain under duress by being high vascularized.\n\n“The reindeer ( Rangifer tarandus ) is an Arctic animal that has adapted to annual changes of 80°C in ambient temperature by growing a fur of excellent insulation value in the autumn to be shed in the following spring. That together with a reduction of surface temperature caused by vascular changes (Johnsen et al., 1985b) and an efficient nasal heat exchange mechanism (Blix and Johnsen, 1983) result in a 30°C reduction in lower critical temperature from summer to winter (Nilssen et al., 1984a). The animal, so equipped to withstand cold, consequently has few avenues of heat loss in winter and runs the risk of hyperthermia during exercise when metabolic heat production rises rapidly with running speed (Nilssen et al., 1984b)…We have observed that moderately heat-stressed reindeer pant, first with the mouth closed, but, under severe heat stress, they resort to open-mouth panting (OMP) to dissipate heat from their big and richly vascularized tongue…We propose that reindeer regulate body and, particularly, brain temperature under heavy heat loads by a combination of panting, at first through the nose, but later, when the heat load and the minute volume requirements increase due to exercise, primarily through the mouth and that they eventually resort to selective brain cooling.” (Blix et al. 2011:3850,3855)",
   "function_addressed": [
     "maintain homeostasis",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/panting-cools-blood/",
-  "source_tier": "science_journalism",
   "keywords": [
     "panting",
     "cools",
     "blood"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

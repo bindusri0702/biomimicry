@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-skin-mucus-prevent-abrasion",
   "organism_common": "Tusk",
-  "organism_scientific": "",
   "strategy_summary": "The skin of blennies prevents abrasion through tough skin and secreted mucus. Australian blenny (Ecsenius axelrodi) in East Timor.",
   "mechanism": "The skin of blennies prevents abrasion through tough skin and secreted mucus.\n\nAustralian blenny (Ecsenius axelrodi) in East Timor.\n\nSalaria pavo (Risso, 1810). Peacock blenny male. This funny predatory fish was caught in the Black sea. Wet matter was used as a background to prevent damage to its skin. After very short photosession the fish was released back to the sea. This fish is able to change colour, like a chameleon. Geogoding of the location at which it was caught and photographed are the same.\n\n“The skin of intertidal fishes is generally tough, and so it can withstand repeated scraping against the substratum. Some of the fishes (such as blennies and clingfishes) have no scales; in others (such as gunnels and pricklebacks) the scales are greatly reduced and in still others (the gobies) they are attached very firmly. Many of the fishes secrete large amounts of mucus, which may provide lubrication in confined spaces.” (Horn and Gibson 1988:60-61)",
   "function_addressed": [
     "manage mechanical wear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/skin-mucus-prevent-abrasion/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skin",
     "mucus",
     "prevent",
     "abrasion"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

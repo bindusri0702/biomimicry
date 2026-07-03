@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-weak-interfaces-make-material-tough",
   "organism_common": "Black-lip pearl shell",
-  "organism_scientific": "",
   "strategy_summary": "Layers of weak and stretchy organic material between brittle mineral layers in nacre make the whole composite tough by managing cracks. Nacre (also known as mother-of-pearl) is the shiny biological material that lines the inner surface of many mollusc shells.",
-  "mechanism": "Layers of weak and stretchy organic material between brittle mineral layers in nacre make the whole composite tough by managing cracks.\n\nNacre (also known as mother-of-pearl) is the shiny biological material that lines the inner surface of many mollusc shells. It consists of approximately 95% inorganic minerals (calcium carbonate) and 5% organic material (a mix of proteins and polysaccharides, including chitin). Inorganic minerals make materials hard and stiff, which is important for supportive or protective structures like shells; however, they also typically make materials brittle and relatively easy to fracture (man-made glass is an example of a brittle material).\n\nNacre’s specific composition and construction make it tough and resistant to catastrophic failure that can result from spreading cracks. Here, higher toughness means that a greater amount of energy is needed to fracture or break the material. Hard microscale mineral layers in nacre are “glued” together by relatively soft nanoscale organic layers. The arrangement is much like staggered layers of bricks that are held together by mortar in a brick wall. When a crack starts in the nacre (say from a predatory attack), it quickly encounters the organic layers that are easy to stretch compared to the mineral layers. The cause behind the organic material’s stretchiness can vary among nacres from different species; one mechanism involves wavy or folded fibers that straighten out before experiencing any significant tension.\n\nThe overall effect is that the stretchy organic layers provide avenues for deflecting cracks and absorbing and dissipating energy. Cracks can be controlled and stopped before spreading through the whole shell and causing serious damage. Counterintuitively, built-in areas of weakness on the microscale make the whole material tougher on the macroscale.\n\nImage: the paleobear / Flickr / toggle icon\n\nDurham University\n\nProteus from Durham University is a non-cuttable material made of a ceramic spheres within a flexible aluminum structure that interferes with cutting tools.",
+  "mechanism": "Layers of weak and stretchy organic material between brittle mineral layers in nacre make the whole composite tough by managing cracks.\n\nNacre (also known as mother-of-pearl) is the shiny biological material that lines the inner surface of many mollusc shells. It consists of approximately 95% inorganic minerals (calcium carbonate) and 5% organic material (a mix of proteins and polysaccharides, including chitin). Inorganic minerals make materials hard and stiff, which is important for supportive or protective structures like shells; however, they also typically make materials brittle and relatively easy to fracture (man-made glass is an example of a brittle material).\n\nNacre’s specific composition and construction make it tough and resistant to catastrophic failure that can result from spreading cracks. Here, higher toughness means that a greater amount of energy is needed to fracture or break the material. Hard microscale mineral layers in nacre are “glued” together by relatively soft nanoscale organic layers. The arrangement is much like staggered layers of bricks that are held together by mortar in a brick wall. When a crack starts in the nacre (say from a predatory attack), it quickly encounters the organic layers that are easy to stretch compared to the mineral layers. The cause behind the organic material’s stretchiness can vary among nacres from different species; one mechanism involves wavy or folded fibers that straighten out before experiencing any significant tension.\n\nThe overall effect is that the stretchy organic layers provide avenues for deflecting cracks and absorbing and dissipating energy. Cracks can be controlled and stopped before spreading through the whole shell and causing serious damage. Counterintuitively, built-in areas of weakness on the microscale make the whole material tougher on the macroscale.\n\nDurham University\n\nProteus from Durham University is a non-cuttable material made of a ceramic spheres within a flexible aluminum structure that interferes with cutting tools.",
   "function_addressed": [
     "manage compression",
     "prevent fracture/rupture"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "prevent-structural-failure::fracture-rupture"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/weak-interfaces-make-material-tough/",
-  "source_tier": "science_journalism",
   "keywords": [
     "weak",
     "interfaces",
@@ -20,7 +23,5 @@
     "material",
     "tough"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

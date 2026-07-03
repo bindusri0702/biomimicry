@@ -1,25 +1,27 @@
 {
   "doc_id": "asn-rind-resists-rotting",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "Pollen grains of flowering plants are protected because of a stable, rot-resistant outer rind. Pollen from a variety of common plants: sunflower (Helianthus annuus), morning glory Ipomoea purpurea, hollyhock (Sildalcea malviflora), lily (Lilium auratum), primrose (Oenothera fruticosa) and castor bean (Ricinus…",
-  "mechanism": "Pollen grains of flowering plants are protected because of a stable, rot-resistant outer rind.\n\nPollen from a variety of common plants: sunflower (Helianthus annuus), morning glory Ipomoea purpurea, hollyhock (Sildalcea malviflora), lily (Lilium auratum), primrose (Oenothera fruticosa) and castor bean (Ricinus communis). The image is magnified some x500, so the bean shaped grain in the bottom left corner is about 50 ?m long.\n\nScanning electron microscope image of pollen grains from Helianthus annuus (common sunflower).",
+  "mechanism": "Pollen grains of flowering plants are protected because of a stable, rot-resistant outer rind.\n\nPollen from a variety of common plants: sunflower (Helianthus annuus), morning glory Ipomoea purpurea, hollyhock (Sildalcea malviflora), lily (Lilium auratum), primrose (Oenothera fruticosa) and castor bean (Ricinus communis). The image is magnified some x500, so the bean shaped grain in the bottom left corner is about 50?m long.\n\nScanning electron microscope image of pollen grains from Helianthus annuus (common sunflower).",
   "function_addressed": [
     "protect from fungi",
     "protect from microbes",
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::fungi",
+    "protect-from-living-threats::microbes",
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/rind-resists-rotting/",
-  "source_tier": "science_journalism",
   "keywords": [
     "rind",
     "resists",
     "rotting"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,23 +1,24 @@
 {
   "doc_id": "asn-mechanisms-help-thermoregulation",
   "organism_common": "Yellow bumblebee",
-  "organism_scientific": "",
   "strategy_summary": "The body of bumblebees maintains a regular temperature via counter-current heat exchange and a heat-shunting mechanism. This infrared image shows the surfacetemperature of a bumble bee  “1.",
   "mechanism": "The body of bumblebees maintains a regular temperature via counter-current heat exchange and a heat-shunting mechanism.\n\nThis infrared image shows the surfacetemperature of a bumble bee\n\n“1. The narrow passage within the petiole between thorax and abdomen is anatomically constructed so that counter-current exchange should retain heat in the thorax despite blood flow to and from the cool abdomen.\n\n“2. However, the counter-current heat exchanger can be physiologically circumvented. Exogenously heated bumblebees prevented overheating of the thorax by shunting heat into the abdomen. They also regurgitated fluid, which helped to reduce head temperature but had little effect on thoracic temperature.\n\n“3. Temperature increases in the ventrum of the abdomen occurred in steps exactly coinciding with the beats of the ventral diaphragm, and with the abdominal ‘ventilatory’ pumping movements when these were present. The ability to prevent overheating of the thorax by transport of heat to the abdomen was abolished when the heart was made inoperative.\n\n“4. At low thoracic temperatures the ventral diaphragm beat at a wide range of rates and with varying interbeat intervals, while the heart beat at a high frequency relative to the ventral diaphragm, but at a very low amplitude. However, when thoracic temperature exceeded 43 °C the amplitudes of both were high, and the interbeat intervals as well as the beating frequencies of the two pulsatile organs became identical in any one bee. Furthermore, heated bees engaged in vigorous abdominal pumping at the same frequency as that of their heart and ventral diaphragm pulsations.\n\n“5. The results indicate that the anatomical counter-current heat exchanger is reduced or eliminated during heat stress by ‘chopping’ the blood flow into pulses, and the blood pulses are shunted through the petiole alternately by way of a switch mechanism.” (Heinrich 1976:561)",
   "function_addressed": [
     "protect from temperature",
     "maintain homeostasis"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/mechanisms-help-thermoregulation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mechanisms",
     "thermoregulation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

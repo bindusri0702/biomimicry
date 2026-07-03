@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-sex-of-offspring-controlled-2",
   "organism_common": "Regulate Reproduction or Growth",
-  "organism_scientific": "",
   "strategy_summary": "The reproductive tract of the female mantled howler monkey has electrical conditions that are altered to determine the sex of their offspring via medicinal plants. “Even more remarkable, studies in the 1990s by zoologist Dr.",
   "mechanism": "The reproductive tract of the female mantled howler monkey has electrical conditions that are altered to determine the sex of their offspring via medicinal plants.\n\n“Even more remarkable, studies in the 1990s by zoologist Dr. K. Glander of Duke University suggest that females of South America’s mantled howler monkey ( Alouatta palliata ) may be actively employing pharmacological methods to determine the sex of their offspring. Glander noticed that the sex of a given female’s offspring seemed to be directly related to the plants she had been eating at the time of mating. And the plants in turn controlled the electrical conditions present in the female’s reproductive tract, either attracting or repelling those sperm carrying the male sex (Y) chromosome, which are believed to possess different electrical charges from those sperm carrying the female sex (X) chromosome.” (Shuker 2001:215-216)",
   "function_addressed": [
     "regulate reproduction or growth"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/sex-of-offspring-controlled-2/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sex",
     "offspring",
     "controlled"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

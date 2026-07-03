@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-compounds-cause-uv-tolerance",
   "organism_common": "Rhodoturula yeasts",
-  "organism_scientific": "",
   "strategy_summary": "Rhodoturula yeasts are protected from UV radiation via the UV-absorbing compound mycosporine-glutaminol-glucoside. “The UV sunscreen and antioxidant properties attributed to mycosporines (Young and Patterson, 1982; Gorbushina, 2003) suggest a photoprotective function of these compounds in nature.",
   "mechanism": "Rhodoturula yeasts are protected from UV radiation via the UV-absorbing compound mycosporine-glutaminol-glucoside.\n\n“The UV sunscreen and antioxidant properties attributed to mycosporines (Young and Patterson, 1982; Gorbushina, 2003) suggest a photoprotective function of these compounds in nature. Indeed, the high concentrations of myc-glm-glu observed in the two Rhodotorula species (up to 0.5% dry weight) after induction with UVR, supports the idea that synthesis of this secondary metabolite is important to obtain protection from UV stress.” (Sommaruga et al. 2004:1080)",
   "function_addressed": [
     "protect from light"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::light"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/compounds-cause-uv-tolerance/",
-  "source_tier": "science_journalism",
   "keywords": [
     "compounds",
     "cause",
     "tolerance"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

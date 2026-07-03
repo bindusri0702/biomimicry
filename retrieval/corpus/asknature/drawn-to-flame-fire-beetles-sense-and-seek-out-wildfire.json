@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-drawn-to-flame-fire-beetles-sense-and-seek-out-wildfire",
   "organism_common": "Melanophila fire beetle",
-  "organism_scientific": "",
   "strategy_summary": "In the quiet shadows of conifer forests, the Melanophila beetle waits––not for calm, but for fire. While most flee from flame, this beetle is drawn to it.",
-  "mechanism": "Fire beetles of the genus Melanophila possess a rare and astonishing sensory ability: they can detect infrared radiation––heat itself––from vast distances, often exceeding 20 kilometers. These beetles are almost never seen in untouched forests, but as soon as fire sweeps through a stand of conifers, they arrive in swarms. This extraordinary behavior is made possible by a pair of specialized infrared (IR) sensory organs located on their thorax, near the base of their legs.\n\nEach IR organ is densely packed with tiny, dome-shaped structures called sensilla. At the base of each sensillum lies a sensory nerve cell. When infrared radiation from a fire reaches the beetle, it is absorbed by the outer cuticle of these domes. The absorbed energy heats the small, water-filled interior of each sensillum. As the water expands from the heat, it causes the dome to physically deform. This deformation mechanically activates the nerve cell at its base, sending a signal to the beetle’s central nervous system. In essence, Melanophila beetles “feel” fire at a distance––not through vision or smell, but through exquisitely sensitive mechanical detection of heat-induced expansion.\n\nThis system gives the beetles what functions like a biological thermal camera, allowing them to locate fresh burn sites ideal for laying their eggs. The larvae thrive in charred wood, which offers reduced competition and fewer predators. By wiring their reproductive strategy to a precise environmental trigger, fire, these beetles turn disaster into opportunity, cycling life forward from the ashes.\n\nThe sensory adaptations of Melanophila fire beetles could inspire a new generation of wildfire detection technologies. By studying the beetle’s infrared sensors, engineers might design low-power, highly sensitive heat detectors that can be deployed in remote forests to detect fires in their earliest stages. Their ability to locate heat sources across vast distances also holds promise for improving compact thermal imaging systems, distributed sensor networks, and autonomous fire-seeking drones. As climate change accelerates the frequency and severity of wildfires, nature’s own fire-chasers may hold the blueprint for tools that help us live more safely alongside fire.",
+  "mechanism": "Fire beetles of the genus Melanophila possess a rare and astonishing sensory ability: they can detect infrared radiation––heat itself––from vast distances, often exceeding 20 kilometers. These beetles are almost never seen in untouched forests, but as soon as fire sweeps through a stand of conifers, they arrive in swarms. This extraordinary behavior is made possible by a pair of specialized infrared (IR) sensory organs located on their thorax, near the base of their legs.\n\nEach IR organ is densely packed with tiny, dome-shaped structures called sensilla. At the base of each sensillum lies a sensory nerve cell. When infrared radiation from a fire reaches the beetle, it is absorbed by the outer cuticle of these domes. The absorbed energy heats the small, water-filled interior of each sensillum. As the water expands from the heat, it causes the dome to physically deform. This deformation mechanically activates the nerve cell at its base, sending a signal to the beetle’s central nervous system. In essence, Melanophila beetles “feel” fire at a distance––not through vision or smell, but through exquisitely sensitive mechanical detection of heat-induced expansion.\n\nThis system gives the beetles what functions like a biological thermal camera, allowing them to locate fresh burn sites ideal for laying their eggs. The larvae thrive in charred wood, which offers reduced competition and fewer predators. By wiring their reproductive strategy to a precise environmental trigger, fire, these beetles turn disaster into opportunity, cycling life forward from the ashes.\n\nThe sensory adaptations of Melanophila fire beetles could inspire a new generation of wildfire detection technologies. By studying the beetle’s infrared sensors, engineers might design low-power, highly sensitive heat detectors that can be deployed in remote forests to detect fires in their earliest stages. Their ability to locate heat sources across vast distances also holds promise for improving compact thermal imaging systems, distributed sensor networks, and autonomous fire-seeking drones. As climate change accelerates the frequency and severity of wildfires, nature’s own fire-chasers may hold the blueprint for tools that help us live more safely alongside fire.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "respond to signals",
     "navigate over land",
@@ -11,11 +10,19 @@
     "sense temperature cues from the environment",
     "sense light (non-visible spectrum) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "navigate::over-land",
+    "navigate::through-air",
+    "process-signals::respond-to-signals",
+    "sense-signals-environmental-cues::light-non-visible-spectrum",
+    "sense-signals-environmental-cues::temperature"
+  ],
+  "subgroup_keys": [
+    "navigate",
+    "process-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/drawn-to-flame-fire-beetles-sense-and-seek-out-wildfire/",
-  "source_tier": "science_journalism",
   "keywords": [
     "drawn",
     "flame",
@@ -24,7 +31,5 @@
     "sense",
     "seek"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-cuticle-matrix-tunes-tissue-elasticity",
   "organism_common": "Terrible thistle",
-  "organism_scientific": "",
   "strategy_summary": "The cuticle of the thistle plant controls its degree of elasticity by regulating the degree of hydration of constituent trihydroxy fatty acids compounds. The external coating, or cuticle, of plant surfaces protects from desiccation and predation, but also add to plant structural support as plants age.",
   "mechanism": "The cuticle of the thistle plant controls its degree of elasticity by regulating the degree of hydration of constituent trihydroxy fatty acids compounds.\n\nThe external coating, or cuticle, of plant surfaces protects from desiccation and predation, but also add to plant structural support as plants age. Younger plants, and newer growth on older plants, have a greater degree of elasticity, perhaps because they do not need to support a large mass or because they need greater hydration during growth. Initially, the OH (hydroxyl) groups of cuticle-based trihydroxy fatty acids function to increase tissue hydration. As tissues age, cross-linking between hydroxyl groups increases, making them less available for hydration leading to greater tissue rigidity.",
   "function_addressed": [
     "modify material characteristics"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::material-characteristics"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/cuticle-matrix-tunes-tissue-elasticity/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cuticle",
     "matrix",
@@ -19,7 +20,5 @@
     "tissue",
     "elasticity"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

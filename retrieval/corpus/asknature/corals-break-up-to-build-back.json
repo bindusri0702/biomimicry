@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-corals-break-up-to-build-back",
   "organism_common": "Corals",
-  "organism_scientific": "",
   "strategy_summary": "Coral reefs are some of the most diverse and complex ecosystems on our planet. Home to over a quarter of all marine species at some point in their life cycles, these underwater landscapes are formed by vast colonies of corals—small, sedentary creatures with hard, limestone exoskeletons that build up over time.",
-  "mechanism": "Corals have evolved a fascinating mechanism for growth and survival that involves both sexual and asexual reproduction. Early in their life cycle, coral polyps focus on asexual reproduction. Each polyp grows in size and produces “buds” that are genetic clones of themselves. This process allows corals to spread and cover more area rapidly.\n\nOnce well established in a colony, coral polyps shift their energy from growth and budding towards development of gametes. The resulting sperm and eggs are released in a synchronized event with the rest of the colony. They rise through the water column, combine and fertilize and develop into independent zygotes that drift with the currents until they develop far enough to seek out a good surface to anchor and begin the asexual growth and budding cycle in a new location.\n\nOnce established, mature, and reproducing sexually though, if a piece of coral is broken off by wave action or impacts from other organisms, the fragment’s polyps can reenter the asexual growth and budding phase. Each piece then has the potential to grow, rejoin other nearby fragments, or to develop into a new colony. This capability is vital for coral resilience and expansion, as it enables rapid coverage of the substrate, providing more habitat space for marine organisms and enhancing the structural complexity of the reef.\n\nLeveraging natural coral fragmentation processes, the technique of microfragmentation has been developed to aid in the restoration and conservation of coral reefs. By intentionally creating small fragments of coral in a controlled environment, scientists can mimic the natural growth responses of corals but at an accelerated pace. This method shows great promise for rapidly restoring damaged reefs, as these microfragments grow much faster than they would naturally, increasing the overall resilience of the reef ecosystems.\n\nFor restoration efforts, microfragmentation offers a proactive tool that can be strategically used to enhance coral cover and structural complexity at a much faster rate than traditional methods. By scaling up this approach, it is possible to outplant large numbers of coral fragments back into their natural habitats, effectively speeding up the recovery processes and ensuring the long-term sustainability of these vital ecosystems.",
+  "mechanism": "Corals have evolved a fascinating mechanism for growth and survival that involves both sexual and asexual reproduction. Early in their life cycle, coral polyps focus on asexual reproduction. Each polyp grows in size and produces “buds” that are genetic clones of themselves. This process allows corals to spread and cover more area rapidly.\n\nOnce well established in a colony, coral polyps shift their energy from growth and budding towards development of gametes. The resulting sperm and eggs are released in a synchronized event with the rest of the colony. They rise through the water column, combine and fertilize and develop into independent zygotes that drift with the currents until they develop far enough to seek out a good surface to anchor and begin the asexual growth and budding cycle in a new location.\n\nOnce established, mature, and reproducing sexually though, if a piece of coral is broken off by wave action or impacts from other organisms, the fragment’s polyps can reenter the asexual growth and budding phase. Each piece then has the potential to grow, rejoin other nearby fragments, or to develop into a new colony. This capability is vital for coral resilience and expansion, as it enables rapid coverage of the substrate, providing more habitat space for marine organisms and enhancing the structural complexity of the reef.\n\nLeveraging natural coral fragmentation processes, the technique of microfragmentation has been developed to aid in the restoration and conservation of coral reefs. By intentionally creating small fragments of coral in a controlled environment, scientists can mimic the natural growth responses of corals but at an accelerated pace. This method shows great promise for rapidly restoring damaged reefs, as these microfragments grow much faster than they would naturally, increasing the overall resilience of the reef ecosystems.\n\nFor restoration efforts, microfragmentation offers a proactive tool that can be strategically used to enhance coral cover and structural complexity at a much faster rate than traditional methods. By scaling up this approach, it is possible to outplant large numbers of coral fragments back into their natural habitats, effectively speeding up the recovery processes and ensuring the long-term sustainability of these vital ecosystems.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "self-replicate",
     "modify size/shape/mass/volume"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::size-shape-mass-volume",
+    "reproduce::self-replicate"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "reproduce"
+  ],
   "source_url": "https://asknature.org/strategy/corals-break-up-to-build-back/",
-  "source_tier": "science_journalism",
   "keywords": [
     "corals",
     "break",
     "build",
     "back"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-granules-prevent-slippage",
   "organism_common": "Spiders",
-  "organism_scientific": "",
   "strategy_summary": "Spiders weave complex webs that serve as both home and hunting ground. Spiraling around support threads to make the characteristic orb, the prey-capture threads, intricate in design, employ a series of sticky droplets that play a critical role in the effectiveness of the web.",
   "mechanism": "While the prey-capture threads aren’t all that make up a spider’s web, they do make up most of the silk’s length and mass. The threads are formed by the spinnerets, or silk-making organs, of the spider. The threads consist of a pair of axial fibers covered in a sheath of sticky material that forms into droplets of varying size and spacing along the thread, depending on the species.\n\nExamine a droplet under a microscope and you can see that there is a granule within each droplet. A glue-like layer of glycoprotein surrounds the granule, and a more fluid outer layer surrounds that. It is through this sophisticated structure that the threads of a spider’s web can hold on tight to the unlucky insects that make contact with them.\n\nThe outer layers of the droplets contribute much to the stickiness of the threads. The granules at their centers may help anchor them to the thread fibers. This ensures that the sticky bits of the thread don’t move around along the fibers. Holding the droplets in place helps hold whatever sticks to them in turn. The granule anchors also force the droplets to compress and stretch under the weight of items that are stuck to them, while the fibers take on the stress of that weight. Droplets become more stiff and plastic-like when they are flattened. This physical response to pressure contributes to the structural strength that spider silk is famous for.\n\nA string of layered droplets may not be what you would imagine a thread of spider silk looks like up close, but it is the anchored droplets working independently of each other that give much of the thread its instantaneous and unrelenting grip on prey. Layers with varying textures seem to be the key to having both flexibility and strength. Granules may not be sticky, but they make sure the glue sticks.\n\nThe granule-coated structure of spider silk droplets offers innovative possibilities in technology and materials science. Inspired by the granule’s role in anchoring sticky glycoprotein layers, humans could develop multi-layered adhesives for medical bandages that enhance grip and efficacy, especially on moving joints or in moist conditions.\n\nIn structural engineering, embedding granule-like particles within building materials could improve shock absorption and increase tensile strength, making structures more resilient against environmental stresses like earthquakes.\n\nThe concept could also revolutionize the textile industry yielding fabrics embedded with micro-granules to provide enhanced durability and flexibility, ideal for high-performance wear or protective clothing that withstands extreme conditions.",
   "function_addressed": [
@@ -9,11 +8,16 @@
     "manage impact",
     "attach permanently"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently",
+    "manage-structural-forces::impact",
+    "manage-structural-forces::tension"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/granules-prevent-slippage/",
-  "source_tier": "science_journalism",
   "keywords": [
     "granules",
     "anchor",
@@ -21,7 +25,5 @@
     "proteins",
     "webs"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

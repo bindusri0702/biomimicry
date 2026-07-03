@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-luminescence-signals-ripening",
   "organism_common": "Plantain",
-  "organism_scientific": "",
   "strategy_summary": "Peels of bananas signal ripeness by appearing blue in the UV region due to fluorescent intermediates of chlorophyll breakdown  “FCCs (fluorescent catabolites of chlorophyll) were first described about ten years ago as shortlived intermediates of chlorophyll breakdown in higher plants and were occasionally also…",
-  "mechanism": "Peels of bananas signal ripeness by appearing blue in the UV region due to fluorescent intermediates of chlorophyll breakdown\n\n“FCCs (fluorescent catabolites of chlorophyll) were first described about ten years ago as shortlived intermediates of chlorophyll breakdown in higher plants and were occasionally also detected in extracts of artificially degreened leaves. In yellow peels and leaves of bananas ( Musa cavendish ), FCCs were identified here as abundant sources of easily seen in vivo luminescence in higher plants. Chlorophyll breakdown in bananas differs from that in other higher plants analyzed so far. Exploratory investigations on fresh yellow banana leaves further suggest the major catabolites from the leaves to differ from those in the (banana) fruit (see Figure S5 in the Supporting Information). These findings, the striking structural features of the major FCCs from banana peels, and the observed accumulation in the peels can be explained by two possible considerations: 1. Fluorescent intermediates of chlorophyll breakdown are a newly discovered source for color in plants. The color of fruit is particularly important for the specific interaction with frugivorous animals. Indeed, many animals have a larger window of vision in the UV region, and the blue luminescence of bananas may give them the distinct signal that the banana fruit is ripe.” (Moser et al. 2008:4016)",
+  "mechanism": "Peels of bananas signal ripeness by appearing blue in the UV region due to fluorescent intermediates of chlorophyll breakdown\n\n“FCCs (fluorescent catabolites of chlorophyll) were first described about ten years ago as shortlived intermediates of chlorophyll breakdown in higher plants and were occasionally also detected in extracts of artificially degreened leaves. In yellow peels and leaves of bananas ( Musa cavendish ), FCCs were identified here as abundant sources of easily seen in vivo luminescence in higher plants. Chlorophyll breakdown in bananas differs from that in other higher plants analyzed so far. Exploratory investigations on fresh yellow banana leaves further suggest the major catabolites from the leaves to differ from those in the (banana) fruit. These findings, the striking structural features of the major FCCs from banana peels, and the observed accumulation in the peels can be explained by two possible considerations: 1. Fluorescent intermediates of chlorophyll breakdown are a newly discovered source for color in plants. The color of fruit is particularly important for the specific interaction with frugivorous animals. Indeed, many animals have a larger window of vision in the UV region, and the blue luminescence of bananas may give them the distinct signal that the banana fruit is ripe.” (Moser et al. 2008:4016)",
   "function_addressed": [
     "send light signals in the non-visible spectrum"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::light-non-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/luminescence-signals-ripening/",
-  "source_tier": "science_journalism",
   "keywords": [
     "luminescence",
     "signals",
     "ripening"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

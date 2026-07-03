@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-burning-stimulates-flowering",
   "organism_common": "Grass tree",
-  "organism_scientific": "",
   "strategy_summary": "Flowering of grass trees following a fire may be triggered by a huge release of ethylene gas as the trees burn. “When the flames do come, they quickly burn off the great tuft of leaves [of the grass tree] which incinerate almost instantaneously in a shower of red sparks that fly high into the sky.",
   "mechanism": "Flowering of grass trees following a fire may be triggered by a huge release of ethylene gas as the trees burn.\n\n“When the flames do come, they quickly burn off the great tuft of leaves [of the grass tree] which incinerate almost instantaneously in a shower of red sparks that fly high into the sky. But the stem, surrounded by its fire-guard remains unharmed and the leaves are quickly regrown. The fire, however, has an additional effect that initially is invisible. As all the vegetation goes up in flames, great quantities of ethylene gas are released. This permeates to the heart of the grass trees and causes a major change within them. A few months after the fire has passed and the leaves have regrown, a vertical green rod emerges from the centre of the leaves. It grows taller and taller until it may double the plant’s height. Then, along its length emerge a multitude of tiny white flowers. It may be the production of ethylene on a vast scale following the fire that cues the flowering of almost all the adult grass trees in the bushland.” (Attenborough 1995:191)",
   "function_addressed": [
     "regulate reproduction or growth",
     "send chemical signals (odor, taste, etc.)"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::reproduction-or-growth",
+    "send-signals::chemical-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/burning-stimulates-flowering/",
-  "source_tier": "science_journalism",
   "keywords": [
     "burning",
     "stimulates",
     "flowering"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

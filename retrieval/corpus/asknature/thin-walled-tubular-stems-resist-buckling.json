@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-thin-walled-tubular-stems-resist-buckling",
   "organism_common": "Bamboo",
-  "organism_scientific": "",
   "strategy_summary": "The stems of many plants may resist buckling by including transverse bulkheads that prevent ovalization. Fish-pole bamboo  Fibers in stems of bamboo use materials efficiently because of their arrangement  Quick illustration to explain concept and to connect to real world examples.",
   "mechanism": "The stems of many plants may resist buckling by including transverse bulkheads that prevent ovalization.\n\nFish-pole bamboo\n\nFibers in stems of bamboo use materials efficiently because of their arrangement\n\nQuick illustration to explain concept and to connect to real world examples.\n\n“The condition of having one fixed end is of particular biological interest–it’s the situation of long, slender plant stems such as those of dandelions, grass, bamboo, and others…As emphasized by Schulgasser and Witztum (1992), their anisotropy greatly increases the risk of buckling for plants that use thin-walled tubular construction. Mainly, the tubes, normally circular in cross section, go somewhat oval just prior to buckling, and that reduces the critical force. Preventing that ovalization may be one of the roles of the periodic transverse bulkheads so conspicuous in, for instance, bamboo.” (Vogel 2003)",
   "function_addressed": [
     "prevent buckling"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::buckling"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/thin-walled-tubular-stems-resist-buckling/",
-  "source_tier": "science_journalism",
   "keywords": [
     "thin-walled",
     "tubular",
@@ -19,7 +20,5 @@
     "resist",
     "buckling"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

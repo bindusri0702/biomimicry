@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-cork-warts-and-aerenchyma-pressurize-internal-airflow",
   "organism_common": "Red mangrove",
-  "organism_scientific": "",
   "strategy_summary": "Aerenchyma and corkwarts in leaves of mangrove provide Knudsen internal airflow through heated air pressurization to aerate anoxic roots. “Mangroves are a diverse group of plants that inhabit tidal zones in the tropics and sub-tropics” (Evans and Bromberg 2010: 30).",
   "mechanism": "Aerenchyma and corkwarts in leaves of mangrove provide Knudsen internal airflow through heated air pressurization to aerate anoxic roots.\n\n“Mangroves are a diverse group of plants that inhabit tidal zones in the tropics and sub-tropics” (Evans and Bromberg 2010: 30). These species of plants are important to the tidal ecosystem and provide homes to many fish. Because the areas these plants grow in are tidal zones, their roots often receive little to no oxygen; i.e., they live in an anoxic substrate. To adapt to such conditions mangroves have developed a pressurized air system that moves oxygen molecules from the surface down to their roots. Air enters the leaves of the mangroves through cork warts. As it enters, the air collects in special airspaces within the leaf known as aerenchyma. There are aerenchyma located throughout the plant (in the stems, roots, etc.) that the air can move through in a process known as Knudsen airflow. As the air inside the aerenchyma is heated, it expands, thus causing internal pressure. This pressure then forces the air molecules out of certain aerenchyma and into others until eventually even the smallest roots located in the anoxic substrate are oxygenated.",
   "function_addressed": [
     "distribute gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::gases"
+  ],
+  "subgroup_keys": [
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/cork-warts-and-aerenchyma-pressurize-internal-airflow/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cork",
     "warts",
@@ -20,7 +21,5 @@
     "internal",
     "airflow"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

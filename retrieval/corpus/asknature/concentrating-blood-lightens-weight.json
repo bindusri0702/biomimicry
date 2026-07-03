@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-concentrating-blood-lightens-weight",
   "organism_common": "Vampire bat",
-  "organism_scientific": "",
   "strategy_summary": "The digestive and circulatory systems of vampire bats lighten their load after ingesting a large volume of blood by rapidly concentrating the blood and excreting the water content. “[Bat] stomachs can hold a volume of blood equal to 57 percent of their body mass, but they can’t fly with this much extra weight.",
   "mechanism": "The digestive and circulatory systems of vampire bats lighten their load after ingesting a large volume of blood by rapidly concentrating the blood and excreting the water content.\n\n“[Bat] stomachs can hold a volume of blood equal to 57 percent of their body mass, but they can’t fly with this much extra weight. The problem is solved by rapidly getting rid of water and lightening their load before taking off. Within two minutes after a bat begins to feed, it begins to excrete a stream of very dilute urine.” (Crump 2005:68)\n\nCrump, M. 2005. Headless Males Make Great Lovers & Other Unusual Natural Histories. University of Chicago Press, Chicago, IL. 199 pp.",
   "function_addressed": [
     "capture, absorb, or filter liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/concentrating-blood-lightens-weight/",
-  "source_tier": "science_journalism",
   "keywords": [
     "concentrating",
     "blood",
     "lightens",
     "weight"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

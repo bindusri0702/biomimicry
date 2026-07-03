@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-tail-fluke-powers-swimming",
   "organism_common": "Humpback whale",
-  "organism_scientific": "",
   "strategy_summary": "The tail fluke of the humpback whale breaks through the water as the tail is moved up and down, enabling powerful swimming. “The huge tail flukes of a humpbacked whale break water as the animal dives.",
   "mechanism": "The tail fluke of the humpback whale breaks through the water as the tail is moved up and down, enabling powerful swimming.\n\n“The huge tail flukes of a humpbacked whale break water as the animal dives. One of the largest living mammals, the whale uses its tail for swimming. The tail with its horizontal flukes is moved up and down to drive the animal through the water, while its small flippers, the vestiges of its forelimbs, are used for balancing and steering.” (Foy and Oxford Scientific Films 1982:44)",
   "function_addressed": [
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/tail-fluke-powers-swimming/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tail",
     "fluke",
     "powers",
     "swimming"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

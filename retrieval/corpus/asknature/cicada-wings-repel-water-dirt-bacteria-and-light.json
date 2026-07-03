@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-cicada-wings-repel-water-dirt-bacteria-and-light",
   "organism_common": "Cicadas",
-  "organism_scientific": "",
   "strategy_summary": "When periodical cicadas emerge from the soil every 13 or 17 years, they molt into adults that can spread their wings and fly—and mate. But they must avoid getting weighed down by rain droplets, sullied by dirt, infected by bacteria, or spotted and eaten by predators.",
   "mechanism": "Zoom into a cicada’s wing with a powerful microscope and you will see that the seemingly flat wing is anything but. Poking up from the wing’s surface are tiny pillars arrayed in row upon row with the precision of a marching band.\n\nEach “nanopillar” measures only up to a few hundred nanometers high. That’s about 4,000 times thinner than a strand of human hair.\n\nA drop of water, in contrast, is a thousand times larger. So a drop that lands on the bumpy cicada wing has no flat surface to stick to. Even tiny droplets in fog and mist can’t get traction.\n\nThe wings are also coated with a variety of naturally water-repellent waxy substances. Unlike water, which has slight positive and negative charges at different ends of each molecule, these compounds are nonpolar. That means the water molecules are electrically attracted to one another, but not to the waxes. These combined structural and chemical deterrents induce water to slide off when the wings tilt a little, often flushing away any dirt particles in the process. Like water drops, potentially disease-causing bacteria are also repelled and shed by the waxy nanopillar structure, staving off infection.\n\nIn addition, the nanopillars, which are smaller than the wavelengths of visible light, help the cicada avoid being eaten. Instead of being reflected towards the eyes of predators, light that hits the wings gets trapped in the nooks and crannies between nanopillars, allowing the cicadas to pursue their romantic rituals in stealth mode.\n\nDifferent species of cicadas have nanopillars of different sizes, shapes, and spacing. Scientists are exploring the intricacies of various nanopillar structures and patterns to see how they work to repel liquids, deter bacteria, and prevent light reflection. And they are investigating ways to design and manufacture nanoscale surfaces that have these useful properties.\n\nNew coatings inspired by cicada wings could lead to better water-repellant, self-cleaning, antifogging, antibacterial, and antiglare surfaces. This could improve performance of screens, sensors, optical instruments, medical equipment, car dashboards, and holographic devices. Antireflective coatings could enhance camouflage and capture more light for solar cells. Better water-repellent coatings could prevent water from sticking to pipes and increase the efficiency of water-transporting apparatuses.",
   "function_addressed": [
@@ -10,11 +9,17 @@
     "protect from excess liquids",
     "protect from dirt/solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals",
+    "protect-from-living-threats::microbes",
+    "protect-from-non-living-threats::dirt-solids",
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/cicada-wings-repel-water-dirt-bacteria-and-light/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cicada",
     "wings",
@@ -23,7 +28,5 @@
     "dirt",
     "bacteria"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

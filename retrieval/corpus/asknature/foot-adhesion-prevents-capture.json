@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-foot-adhesion-prevents-capture",
   "organism_common": "Common tortoise beetle",
-  "organism_scientific": "",
   "strategy_summary": "The feet of the palm leaf beetle protect it from predation by capillarity-based adhesion. The author noticed that when he tried to pick this beetle off of a palmetto leaf, he had to exert considerable force to pry them loose.",
   "mechanism": "The feet of the palm leaf beetle protect it from predation by capillarity-based adhesion.\n\nThe author noticed that when he tried to pick this beetle off of a palmetto leaf, he had to exert considerable force to pry them loose. “What the beetle does have on its feet is bristles, thousands of bristles, sticking out from the sole of each foot–the ventral tarsal surface–like hairs on a brush. Bristles are a common feature of beetle tarsi generally, but I had never seen them in such quantity per foot…Each tarsus was subdivided into three bristle-bearing subsegments, called tarsomeres. We counted the bristles and found that there were about 10,000 per tarsus, making a total of 60,000 per beetle. Each bristle was forked at the tip, which means, if we assumed the bristle endings to be the contact points with the substrate, that the beetles had the option of relying on 120,000 such points…The bristle endings of H. cyanea did indeed turn out to be padlike, and they were wetted…We now know that fluid is an oil, consisting of a mixture of long-chain hydrocarbons (specifically C22 to C29 n-alkanes and n-alkenes). An oil is ideally suited to secure adhesion to a leaf, since the outermost surface of leaves is waxy (palmetto fronds are no exception), and waxes make good contact with hydrocarbons.” (Eisner 2003:134-135)",
   "function_addressed": [
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/foot-adhesion-prevents-capture/",
-  "source_tier": "science_journalism",
   "keywords": [
     "foot",
     "adhesion",
     "prevents",
     "capture"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

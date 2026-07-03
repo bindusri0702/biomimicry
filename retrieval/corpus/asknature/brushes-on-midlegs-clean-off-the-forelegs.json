@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-brushes-on-midlegs-clean-off-the-forelegs",
   "organism_common": "Bees",
-  "organism_scientific": "",
   "strategy_summary": "Bees use brushes on their midlegs to clean off pollen and dirt from their forelegs by pulling their forelegs between their midlegs. The last large segment on the middle leg of the bee is known as the midleg basitarsus and it often contains a brush made of hairs.",
-  "mechanism": "Bees use brushes on their midlegs to clean off pollen and dirt from their forelegs by pulling their forelegs between their midlegs.\n\nThe last large segment on the middle leg of the bee is known as the midleg basitarsus and it often contains a brush made of hairs. This brush can be used for grooming as the bee forages. The brush cleans off the forelegs as the bee flexes, pulling the foreleg between the basitarsus and the femur to trap pollen and dirt.\n\nThe hairs making up the brush can be different lengths, straight, bent or even hooked. Notice the differences in the brushes of the bees above.\n\nThis information is also available from the University of Calgary Invertebrate collection , where it was curated as part of a study on design inspired by bees.\n\nThe midleg of Megachile fortis.\n\nThe midleg of Megachile petulans.\n\nThe midleg of Melissodes apicata.\n\nThe midleg of Megachile sculpturalis.",
+  "mechanism": "Bees use brushes on their midlegs to clean off pollen and dirt from their forelegs by pulling their forelegs between their midlegs.\n\nThe last large segment on the middle leg of the bee is known as the midleg basitarsus and it often contains a brush made of hairs. This brush can be used for grooming as the bee forages. The brush cleans off the forelegs as the bee flexes, pulling the foreleg between the basitarsus and the femur to trap pollen and dirt.\n\nThe hairs making up the brush can be different lengths, straight, bent or even hooked. Notice the differences in the brushes of the bees above.\n\nThis information is also available from the University of Calgary Invertebrate collection, where it was curated as part of a study on design inspired by bees.\n\nThe midleg of Megachile fortis.\n\nThe midleg of Megachile petulans.\n\nThe midleg of Melissodes apicata.\n\nThe midleg of Megachile sculpturalis.",
   "function_addressed": [
     "expel solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "expel::solids"
+  ],
+  "subgroup_keys": [
+    "expel"
+  ],
   "source_url": "https://asknature.org/strategy/brushes-on-midlegs-clean-off-the-forelegs/",
-  "source_tier": "science_journalism",
   "keywords": [
     "brushes",
     "midlegs",
@@ -19,7 +20,5 @@
     "off",
     "forelegs"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

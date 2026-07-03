@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-sensory-mucous-glands-detect-prey",
   "organism_common": "Platypus",
-  "organism_scientific": "",
   "strategy_summary": "In 1798, when George Shaw at the British Museum examined the first specimen of a platypus sent to England from Australia, he thought it could be a prank. Did some jokester attach a duck’s beak to an otter’s body?",
-  "mechanism": "Platypus bills are highly sensitive organs. They are lined, top and bottom, with tens of thousands of specialized skin cells. One type of cell (mechanoreceptors) can detect subtle movements of water produced by the insects, crustaceans, worms, mollusks, and larvae that platypuses eat. Other types of cell (electroreceptors within mucous glands) can detect extremely slight electric fields with strengths as low as 20 microvolts per square centimeter. That means they could detect a signal less than a millionth of the voltage of one AA battery.\n\nMost living things generate electric fields when brain cells signal muscles to contract. Even single-celled algae emit a little electricity. Those electric currents travel swiftly through water to platypuses’ electroreceptors. Meanwhile, their mechanoreceptors detect pressure from water pushed outward by a fish fin, for example.\n\nUnderstanding the biological structures and processes that give platypuses their electroreception ability could reveal new ways to create materials, devices, and systems to detect subtle electrical signals. These could be used, as platypus do, to monitor and explore the depths—to study underwater organisms and ecosystems or to surveil ships for commercial or military purposes.\n\nScientists are investigating using electroreception to create another method, along with X-rays, magnetic resonance and others, to produce images of body tissues (electrical impedance tomography). Other proposed applications are medical sensors that detect and analyze electrical signals in the body. Advances in this field would be applied to the growing market of wearable electronics—devices and clothing that measure vital signs to monitor health or measure fitness levels.",
+  "mechanism": "Platypus bills are highly sensitive organs. They are lined, top and bottom, with tens of thousands of specialized skin cells. One type of cell (mechanoreceptors) can detect subtle movements of water produced by the insects, crustaceans, worms, mollusks, and larvae that platypuses eat. Other types of cell (electroreceptors within mucous glands) can detect extremely slight electric fields with strengths as low as 20 microvolts per square centimeter. That means they could detect a signal less than a millionth of the voltage of one AA battery.\n\nMost living things generate electric fields when brain cells signal muscles to contract. Even single-celled algae emit a little electricity. Those electric currents travel swiftly through water to platypuses’ electroreceptors. Meanwhile, their mechanoreceptors detect pressure from water pushed outward by a fish fin, for example.\n\nUnlike electric fish, which receive signals on stationary receptors on their bodies, platypuses tilt their heads up and down and side to side as they swim, actively scanning for electrical or motion signals from various directions in a wide arc of surrounding water. They are continually repositioning their bills so that the largest number of receptors receives signals.\n\nThe mechanoreceptors and electroreceptors are interspersed throughout their bills, and neighboring receptors are connected to the same nerve cells that transmit signals to the brain. Thus, the two different kinds of receptors receive and transmit signals nearly simultaneously. The two different systems “crosstalk,” rapidly integrating signals from both incoming sources to distinguish potential prey, determine its direction and distance, and home in.\n\nUnderstanding the biological structures and processes that give platypuses their electroreception ability could reveal new ways to create materials, devices, and systems to detect subtle electrical signals. These could be used, as platypus do, to monitor and explore the depths—to study underwater organisms and ecosystems or to surveil ships for commercial or military purposes.\n\nScientists are investigating using electroreception to create another method, along with X-rays, magnetic resonance and others, to produce images of body tissues (electrical impedance tomography). Other proposed applications are medical sensors that detect and analyze electrical signals in the body. Advances in this field would be applied to the growing market of wearable electronics—devices and clothing that measure vital signs to monitor health or measure fitness levels.",
   "function_addressed": [
     "capture, absorb, or filter organisms",
     "sense electricity/magnetism from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::electricity-magnetism"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/sensory-mucous-glands-detect-prey/",
-  "source_tier": "science_journalism",
   "keywords": [
     "platypus",
     "bills",
@@ -21,7 +23,5 @@
     "electricity",
     "detect"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

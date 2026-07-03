@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-leaves-optimize-photosynthesis",
   "organism_common": "Water lily",
-  "organism_scientific": "",
   "strategy_summary": "The leaf of a giant water lily optimizes photosynthesis due to its structure and extreme surface area. “In still or slowly-moving waters there is one easy way to collect [light]: a plant can float its leaves upon the surface.",
   "mechanism": "The leaf of a giant water lily optimizes photosynthesis due to its structure and extreme surface area.\n\n“In still or slowly-moving waters there is one easy way to collect [light]: a plant can float its leaves upon the surface. No plant does this on a more spectacular scale or more aggressively than the giant Amazon water-lily. A leaf first appears on the surface as a huge fat bud, studded with spines. Within a few hours, it bursts open and starts to spread. Its margin has an up-turned rim, six inches high, so that as it expands it is able to shoulder aside any other floating leaf that gets in its way. Beneath, it is strengthened with girder-like ribs which make the whole structure rigid. They also contain air-spaces within them that keep it afloat. Expanding at the rate of half a square yard in a single day, the leaf grows until it is six feet across. The underside of the leaf is a rich purple colour and armoured with abundant sharp spikes, perhaps as a defence against leaf-eating fish. One plant can produce forty or fifty of such leaves in a single growing season and monopolise the surface so effectively that few plants of other kinds can grow alongside or below it…In 1847, viable seeds did arrive at Kew and there the gardeners managed to get them to germinate. One of the seedlings was sent to Joseph Paxton who was in charge of the Duke of Devonshire’s splendid gardens at Chatsworth…Paxton was not only a gardener of great skill but an architect of near-genius. He built one of the first big glass-houses. When he came to design the cast-iron supports for his hitherto unprecedented expanse of glass, he remembered the ribs and struts of his giant water-lily that supported the gigantic leaves and used them as the basis of his designs not only for the glass-houses at Chatsworth but also, a few years later, for his architectural masterpiece, the Crystal Palace in London.” (Attenborough 1995:290)",
   "function_addressed": [
     "capture, absorb, or filter energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/leaves-optimize-photosynthesis/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaves",
     "optimize",
     "photosynthesis"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

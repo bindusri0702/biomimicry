@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-elk-antlers-thwart-breakage",
   "organism_common": "Elk",
-  "organism_scientific": "",
   "strategy_summary": "Each autumn, elk descend from the high country and fill the cool air of mountain meadows with the sounds of their high-pitched bugling and the clatter of clashing antlers. Competitors lock together, pushing each other around like sumo wrestlers.",
-  "mechanism": "Antler is one of the toughest known biomaterials. Toughness is resistance to fracture. Strength is resistance to bending. To have one quality generally requires sacrificing some of the other. To achieve balance, elk antlers use the same ingredients as human bone, but the recipe is slightly different. Antlers have fewer hard calcium crystals and higher amounts of pliable collagen, which gives them higher flexibility. This makes antlers much tougher than human bones because they can bend farther before they break. But because they’re more flexible, they are not as strong.\n\nIt’s not just flexibility that helps antler resist fracture. The way its building blocks are organized also helps give it built-in crack resistance. Similar to other kinds of compact bone, the basic components of antlers are cylindrical structures called osteons.\n\nRival elk bulls may have a few bones to pick with each other. Fortunately, inherent plasticity and microfracture toughening protect their antlers during these head-butting battles.\n\nHumans are taking their cue and incorporating these features into customized material designs for specific applications. Researchers recently combined a type of flexible plastic used to make contact lenses with strong fiberglass to create a new material. This so-called “metamaterial” combines toughness with strength, making it suitable to repair or replace injured tendons and ligaments.",
+  "mechanism": "Antler is one of the toughest known biomaterials. Toughness is resistance to fracture. Strength is resistance to bending. To have one quality generally requires sacrificing some of the other. To achieve balance, elk antlers use the same ingredients as human bone, but the recipe is slightly different. Antlers have fewer hard calcium crystals and higher amounts of pliable collagen, which gives them higher flexibility. This makes antlers much tougher than human bones because they can bend farther before they break. But because they’re more flexible, they are not as strong.\n\nIt’s not just flexibility that helps antler resist fracture. The way its building blocks are organized also helps give it built-in crack resistance. Similar to other kinds of compact bone, the basic components of antlers are cylindrical structures called osteons.\n\nImagine a long bone as a shell filled with toothpicks aligned lengthwise, where each toothpick represents an osteon. It’s easy to break a single toothpick by itself but much harder when bunched up with dozens or hundreds more. This is because a load applied at the center of a single toothpick or a uniformly solid bone snaps it cleanly in half, with the fracture traveling the shortest possible distance, from one side directly through the middle to the other. However, a bundle of toothpicks (or osteons) isn’t uniformly solid. Between every piece is a tiny gap that makes all the difference.\n\nFilling the gaps between osteons are thick “hyper-mineralized” regions with excess calcium. These areas tend to break before the osteons, which actually increases the entire bone’s toughness. Think of these areas as dried wax surrounding the toothpicks. When we try to break the bunch of toothpicks, the wax in between cracks and flakes well before any of the wood.\n\nA crack might travel through the wax and deflect around some of the toothpicks, relieving the load those toothpicks experience. In elk antlers, this is called “crack deflection.”\n\nMicrofractures might also turn down the length of a toothpick, twisting the primary fracture from propagating cross-sectionally to longitudinally. This is called “crack twisting.”\n\nMicrofractures can also form in areas that are disconnected from the main break like in a closed zipper that has a few disconnected teeth but is still generally intact. This tendency to have multiple cracks separated by intact material is called “crack bridging.”\n\nThese toughening mechanisms exist in other types of bone, too. But the hypermineralized regions in elk antlers enhance how they work individually and together to weaken a fracture by moving its path away from the main load.\n\nRival elk bulls may have a few bones to pick with each other. Fortunately, inherent plasticity and microfracture toughening protect their antlers during these head-butting battles.\n\nHumans are taking their cue and incorporating these features into customized material designs for specific applications. Researchers recently combined a type of flexible plastic used to make contact lenses with strong fiberglass to create a new material. This so-called “metamaterial” combines toughness with strength, making it suitable to repair or replace injured tendons and ligaments.",
   "function_addressed": [
     "prevent fracture/rupture"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::fracture-rupture"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/elk-antlers-thwart-breakage/",
-  "source_tier": "science_journalism",
   "keywords": [
     "clashing",
     "elk",
@@ -19,7 +20,5 @@
     "thwart",
     "breakage"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

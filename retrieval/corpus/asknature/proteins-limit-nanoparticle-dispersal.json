@@ -1,25 +1,24 @@
 {
   "doc_id": "asn-proteins-limit-nanoparticle-dispersal",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Extracellular proteins of some sulfate-reducing bacteria limit the dispersal of nanoparticles by aggregating them. In the waters of a lead-zinc mine in Wisconsin, scientists may have found a solution to how we can clean heavy metals out of subsurface waters.",
   "mechanism": "Extracellular proteins of some sulfate-reducing bacteria limit the dispersal of nanoparticles by aggregating them.\n\nIn the waters of a lead-zinc mine in Wisconsin, scientists may have found a solution to how we can clean heavy metals out of subsurface waters. Their findings may also provide clues to how we can mimic nature to clean up other nanoparticles. It was already known that aggregates of sulfate-reducing bacteria (1 and 2 in diagram below) release sulfide, which binds with zinc to sequester it into nanoparticles (3). However, that doesn’t permanently remove them from water because they remain mobile and soluble. The researchers found that proteins and polypeptides released by sulfate-reducing bacteria create spheres of zinc sulfide nanocrystals (4). These spheres are larger aggregates, and have limited ability to disperse and pollute ground and surface water. The key to the clumping was the inclusion of the proteins into pores on the spheres. Cysteine or cysteine-rich polypeptides or proteins cause larger particle size (5). It is unclear whether the proteins, amino acids, and polypeptides are released into the environment when the bacteria die and are scavenged by hydrophobic zinc sulfide surfaces, or whether the bacteria export them while alive.\n\nHow sulfate-reducing bacteria aggregate nanoparticles. Artist: Emily Harrington. Copyright: All rights reserved.\n\nFESEM images of a region in the sulfate-reducing bacteria biofilm in which (a) and (b) ZnS aggregates associated with abundant organic polymers. Source: Moreau JW, Webb RI, Banfield JF. Ultrastructure, aggregation-state, and crystal growth of biogenic nanocrystalline sphalerite and wurtzite. American Mineralogist 2004;89(7):950-960.",
   "function_addressed": [
     "capture, absorb, or filter chemical entities",
     "capture, absorb, or filter solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::solids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/proteins-limit-nanoparticle-dispersal/",
-  "source_tier": "science_journalism",
   "keywords": [
     "proteins",
     "limit",
     "nanoparticle",
     "dispersal"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,27 @@
 {
   "doc_id": "asn-cell-structures-absorb-and-store-pollutants",
   "organism_common": "Italian rye grass",
-  "organism_scientific": "",
   "strategy_summary": "That grass you barely notice as you walk across a lawn or field may seem of little talent. But what you see above the surface is just the tip of the iceberg—or more precisely, the plant.",
-  "mechanism": "“Like attracts like” can be true not only for dating but in the chemical world as well. Pretty much every compound fits into one of two broad categories. One type is made up of molecules that have a bit of a positive or negative charge. They are called “polar.” The other type lacks a charge and is called nonpolar. Water is polar, and other polar substances tend to hang out with it. Oil is nonpolar, and other nonpolar substances tend to hang out with oil instead. That’s why, if you pour olive oil and vinegar (which is made of water and a polar compound, acetic acid) into a jar to make salad dressing, they form layers rather than mixing together\n\nInteresting for salad dressing—but both interesting and useful for efforts to remove oily pollutants from soil and water. Around the world, industrial pollution and burning wood and other biofuels has contaminated soil and water with compounds known as polycyclic aromatic hydrocarbons (PAHs).\n\nThe tendency of ryegrass roots to concentrate oily substances in cell walls and organelles can be used directly to remove pollutants from the ground (a process known as bioutilization rather than biomimicry). Knowing that the pollutants concentrate in the roots helps efforts to do so by pointing out the importance of collecting roots as well as shoots when removing and destroying contaminant-concentrating plants.\n\nThe knowledge that the pollutants concentrate in cell walls and organelles can inform efforts to breed or engineer varieties that are even better at sequestering pollutants. It also might serve as a model for artificial systems that concentrate pollutants in a collection space, making them relatively easy to remove or process into less harmful molecules.",
+  "mechanism": "“Like attracts like” can be true not only for dating but in the chemical world as well. Pretty much every compound fits into one of two broad categories. One type is made up of molecules that have a bit of a positive or negative charge. They are called “polar.” The other type lacks a charge and is called nonpolar. Water is polar, and other polar substances tend to hang out with it. Oil is nonpolar, and other nonpolar substances tend to hang out with oil instead. That’s why, if you pour olive oil and vinegar (which is made of water and a polar compound, acetic acid) into a jar to make salad dressing, they form layers rather than mixing together\n\nInteresting for salad dressing—but both interesting and useful for efforts to remove oily pollutants from soil and water. Around the world, industrial pollution and burning wood and other biofuels has contaminated soil and water with compounds known as polycyclic aromatic hydrocarbons (PAHs).\n\nThe harmful substances stay in the plant’s tissues rather than spreading further into the environment.\n\nLike other plants, ryegrass draws water and other liquids from the soil through its roots through a process called transpiration: Water molecules at the tips of leaves evaporate into the air, pulling other water molecules upward behind them. Because they lack the polarity that would attract them to water, oil-based molecules like PAHs don’t follow water up through the roots to the rest of the plant. Rather, parts of the roots’ cells that are themselves made of oily substances capture and cling to the PAHs. The harmful substances stay in the plant’s tissues rather than spreading further into the environment.\n\nEventually, these molecules migrate into the cells, where they connect with the cell’s internal structures, which also have high concentrations of oily substances.\n\nIn this way, the ryegrass roots absorb and concentrate pollutants. In some cases they may even convert them into other, less harmful molecules. Either way, they serve the valuable function of removing them from water we may drink and soil we may use to grow food crops, reducing the risk of harm to ourselves and future generations.\n\nThe tendency of ryegrass roots to concentrate oily substances in cell walls and organelles can be used directly to remove pollutants from the ground (a process known as bioutilization rather than biomimicry). Knowing that the pollutants concentrate in the roots helps efforts to do so by pointing out the importance of collecting roots as well as shoots when removing and destroying contaminant-concentrating plants.\n\nThe knowledge that the pollutants concentrate in cell walls and organelles can inform efforts to breed or engineer varieties that are even better at sequestering pollutants. It also might serve as a model for artificial systems that concentrate pollutants in a collection space, making them relatively easy to remove or process into less harmful molecules.",
   "function_addressed": [
     "detoxification/purification of air/water/waste",
     "capture, absorb, or filter chemical entities",
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-solids",
+    "provide-ecosystem-services::detoxification-purification-of-air-water-waste"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "move",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/cell-structures-absorb-and-store-pollutants/",
-  "source_tier": "science_journalism",
   "keywords": [
     "plant",
     "eats",
     "pollution"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

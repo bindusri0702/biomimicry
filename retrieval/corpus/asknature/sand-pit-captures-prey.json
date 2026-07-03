@@ -1,26 +1,28 @@
 {
   "doc_id": "asn-sand-pit-captures-prey",
   "organism_common": "Capture, Absorb, or Filter Organisms",
-  "organism_scientific": "",
-  "strategy_summary": "The larvae of ant lions capture prey by building sand pits with the steepest possible slope. Image: Scott Robinson / toggle icon Image: Wade Franklin / toggle icon right arrow right arrow  “In fact, the biological use of complex materials transcends the normal world of viscoelasticity and shear-dependent solid-fluid…",
-  "mechanism": "The larvae of ant lions capture prey by building sand pits with the steepest possible slope.\n\nImage: Scott Robinson / toggle icon Image: Wade Franklin / toggle icon right arrow right arrow\n\n“In fact, the biological use of complex materials transcends the normal world of viscoelasticity and shear-dependent solid-fluid transitions. A totally different kind of yield underlies the operation of the pit of a larval ant lion. An unbound pile of solid particles will form a slope no steeper than some ‘angle of repose,’ a phenomenon of great interest to both highway engineers and designers of automatic parts for feeding and packaging equipment. Lucas (1982) shows that the ant lion carefully maintains the greatest possible slope. The addition of a wandering ant then precipitates a miniature avalanche, with a large and efficient set of jaws barely buried at the bottom of the pit.” (Vogel 2003:363-364)\n\nWatch video",
+  "strategy_summary": "The larvae of ant lions capture prey by building sand pits with the steepest possible slope. “In fact, the biological use of complex materials transcends the normal world of viscoelasticity and shear-dependent solid-fluid transitions.",
+  "mechanism": "The larvae of ant lions capture prey by building sand pits with the steepest possible slope.\n\n“In fact, the biological use of complex materials transcends the normal world of viscoelasticity and shear-dependent solid-fluid transitions. A totally different kind of yield underlies the operation of the pit of a larval ant lion. An unbound pile of solid particles will form a slope no steeper than some ‘angle of repose,’ a phenomenon of great interest to both highway engineers and designers of automatic parts for feeding and packaging equipment. Lucas (1982) shows that the ant lion carefully maintains the greatest possible slope. The addition of a wandering ant then precipitates a miniature avalanche, with a large and efficient set of jaws barely buried at the bottom of the pit.” (Vogel 2003:363-364)\n\nWatch video",
   "function_addressed": [
     "capture, absorb, or filter organisms",
     "physically assemble structure",
     "optimize shape/materials"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "capture-absorb-or-filter",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/sand-pit-captures-prey/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sand",
     "pit",
     "captures",
     "prey"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

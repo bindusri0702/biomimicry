@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-unique-antifreeze-protects-from-extreme-cold",
   "organism_common": "Darkling beetles",
-  "organism_scientific": "",
   "strategy_summary": "A sugar-based polymer produced by an Alaskan darkling beetle keeps cell contents from freezing in extreme cold temperatures by attaching to the cell membrane. In midwinter, temperatures at the home of an Alaskan darkling beetle ( Upis ceramboides ) can drop to -76 degrees F (-60 degrees C), yet this beetle species is…",
   "mechanism": "A sugar-based polymer produced by an Alaskan darkling beetle keeps cell contents from freezing in extreme cold temperatures by attaching to the cell membrane.\n\nIn midwinter, temperatures at the home of an Alaskan darkling beetle ( Upis ceramboides ) can drop to -76 degrees F (-60 degrees C), yet this beetle species is able to keep its internal, watery cell contents from catastrophically freezing. Unlike most other extreme cold-dwelling organisms, including plants, animals, fish, fungi, and bacteria that use protein s as antifreeze agents, this Alaskan beetle produces a sugar-based antifreeze called xylomannan (a polymer of alternating xylose and mannose sugars). With the help of certain oily compounds, xylomannan attaches to the outer cell membrane where it likely functions to prevent the entry of extracellular ice into the cell, keep ice from forming inside the cell, and promote membrane stability.",
   "function_addressed": [
     "protect from ice",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::ice",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/unique-antifreeze-protects-from-extreme-cold/",
-  "source_tier": "science_journalism",
   "keywords": [
     "unique",
     "antifreeze",
@@ -20,7 +22,5 @@
     "extreme",
     "cold"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

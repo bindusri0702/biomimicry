@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-cuticle-prevents-water-movement",
   "organism_common": "Pleasing fungus beetle",
-  "organism_scientific": "",
   "strategy_summary": "The tough cuticle of the pleasing fungus beetle achieves effective water balance using a waxy chitin-protein matrix  “The pleasing fungus beetle is found locally in stands of ponderosa pine and aspen, especially near bracket fungi that grow on rotting logs. Here, adult beetles lay their eggs and once hatched, the…",
-  "mechanism": "The tough cuticle of the pleasing fungus beetle achieves effective water balance using a waxy chitin-protein matrix\n\n“The pleasing fungus beetle is found locally in stands of ponderosa pine and aspen, especially near bracket fungi that grow on rotting logs. Here, adult beetles lay their eggs and once hatched, the larvae feast on the bracket fungi. Adult beetles are shiny black with blue or purple elytra (hardened wing covers) with black dots. This shiny cuticle or exoskeleton is waterproof thanks to the components of this natural composite. In beetles, chitin is a tough, flexible component of a complex matrix of materials that create a passive physical surface barrier to water. As such, insects rely on their chitinous cuticle to resist desiccation. Chitin is composed primarily of polysaccharide fibers (bonded sugar molecules much like cellulose in wood) in a protein matrix. These fibers are stacked, with each layer slightly rotated relative to the orientation of the underlying layer, much like plywood (see illustration below). This fiber-protein complex holds a very thin waterproofing waxy lipid layer, less than 0.2 microns thick, that is secreted onto and integrated with the complex to ensure a water balance is achieved.” ( Genius of Place Report, City of Boulder OSMP )\n\nRotated fiber layers (rod shapes) in a protein matrix, and a thin waxy lipid layer (dark layer on top) help manage the insect’s water balance. Illustration by MA Studio . Copyright, All Rights Reserved.\n\nThis strategy was contributed by Karen Allen ( Aequinox ), Mary Wagner (MA Studio), Lynne Sullivan (City of Boulder OSMP), and Marie Zanowick Bourgeois (EPA). Genius of Place Report, City of Boulder, Colorado, Open Space and Mountain Parks , January 28, 2015.\n\nImage: Katja Schulz / Flickr / toggle icon Image: Katja Schulz / Flickr / toggle icon Image: MA Studio / toggle icon right arrow right arrow",
+  "mechanism": "The tough cuticle of the pleasing fungus beetle achieves effective water balance using a waxy chitin-protein matrix\n\n“The pleasing fungus beetle is found locally in stands of ponderosa pine and aspen, especially near bracket fungi that grow on rotting logs. Here, adult beetles lay their eggs and once hatched, the larvae feast on the bracket fungi. Adult beetles are shiny black with blue or purple elytra (hardened wing covers) with black dots. This shiny cuticle or exoskeleton is waterproof thanks to the components of this natural composite. In beetles, chitin is a tough, flexible component of a complex matrix of materials that create a passive physical surface barrier to water. As such, insects rely on their chitinous cuticle to resist desiccation. Chitin is composed primarily of polysaccharide fibers (bonded sugar molecules much like cellulose in wood) in a protein matrix. These fibers are stacked, with each layer slightly rotated relative to the orientation of the underlying layer, much like plywood. This fiber-protein complex holds a very thin waterproofing waxy lipid layer, less than 0.2 microns thick, that is secreted onto and integrated with the complex to ensure a water balance is achieved.” ( Genius of Place Report, City of Boulder OSMP )\n\nRotated fiber layers (rod shapes) in a protein matrix, and a thin waxy lipid layer (dark layer on top) help manage the insect’s water balance. Illustration by MA Studio. Copyright, All Rights Reserved.",
   "function_addressed": [
     "protect from excess liquids",
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::excess-liquids",
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/cuticle-prevents-water-movement/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cuticle",
     "prevents",
     "water",
     "movement"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

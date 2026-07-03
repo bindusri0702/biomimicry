@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-wing-surface-self-cleans",
   "organism_common": "Morpho butterfly",
-  "organism_scientific": "",
   "strategy_summary": "High surface-area wing texture of Morpho butterfly sheds water and dirt via hydrophobic microstructure. Like some plants, the wings of many large-winged insects remain dirt-free (e.g., butterflies, moths, dragonflies, lace wings), an obvious advantage for effective flight, and they do so without using chemical…",
   "mechanism": "High surface-area wing texture of Morpho butterfly sheds water and dirt via hydrophobic microstructure.\n\nLike some plants, the wings of many large-winged insects remain dirt-free (e.g., butterflies, moths, dragonflies, lace wings), an obvious advantage for effective flight, and they do so without using chemical detergents or expending energy. This is accomplished by the interaction between the high surface-area multi-scale micro- and nano- topography on their wing surfaces and the physical properties of water molecules.\n\nWhile a variety of specific structures appear in this wing surface topography, all share a similar mathematical set of proportions in the size and distance of protrusions that are associated with superhydrophobicity (extreme non-wettability). For example, butterfly wings show two key repeating structures: the individual scales or squama (roughly 40×80 microns each) and the micro-relief of raised ridges covering each scale, each between 1000-1500 nm wide.\n\nBecause water and air adhere less well than water and solids, rough, high surface-area folded textures can reduce adhesive force on water droplets, as trapped air in the interstitial spaces of the roughened surface result in a reduced liquid-to-solid contact area. This allows the self-attraction of the polar molecule of water to express more fully, causing it to form spheres. Dirt particles on the wing’s surface stick to these droplets, both due to natural adhesion between water and solids and because contact with the wing surface is reduced by the wing’s micro-topography. The slightest angle in the surface of the wing then cause the balls of water to roll off due to gravity, taking the attached dirt particles with them, cleaning the wing without using detergent or expending energy. Micro- and nano- surface finishes inspired by self-cleaning biological surfaces have now been applied to paints, glass, textiles, and more, reducing the need for toxic chemistries and costly labor.\n\nMulti-scale texturing is also providing a model for dramatically increasing the surface area of many materials.\n\nThe video below shows/exemplifies the structures discussed in this strategy.\n\nZoom into a Blue Morpho Butterfly (Narrated)\n\nMetalmark Innovations\n\nMetalmark uses 3-D nanostructured materials to break down and filter out contaminants in the air.\n\nSilver leafhopper\n\nRenewable coating of brochosomes on leafhopper skin protects from sticky honeydew by repelling water.",
   "function_addressed": [
     "protect from dirt/solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::dirt-solids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/wing-surface-self-cleans/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wing",
     "surface",
     "self-cleans"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

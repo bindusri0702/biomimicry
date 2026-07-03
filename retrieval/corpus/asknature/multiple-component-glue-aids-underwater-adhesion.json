@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-multiple-component-glue-aids-underwater-adhesion",
   "organism_common": "Modify Material Characteristics",
-  "organism_scientific": "",
   "strategy_summary": "The proteinaceous cement substance produced by barnacles allows tenacious underwater attachment due to cooperation of four cement proteins. “Barnacles have the capability for tenacious underwater adhesion to the surfaces by a proteinaceous cement substance.",
   "mechanism": "The proteinaceous cement substance produced by barnacles allows tenacious underwater attachment due to cooperation of four cement proteins.\n\n“Barnacles have the capability for tenacious underwater adhesion to the surfaces by a proteinaceous cement substance. Three major protein s had been identified in a previous study and this study adds a fourth. It is suggested that each cement protein fulfills a distinct and specific role in underwater adhesion, and that firm barnacle adhesion is achieved cooperatively by these cement proteins. Understanding the specific role of each cement protein will help to provide a better understanding of barnacle settlement and of synthetic polymer mimics, including underwater adhesives.” (Courtesy of the Biomimicry Guild)\n\n“Enzymes and biochemical mechanisms essential to survival are under extreme selective pressure and are highly conserved through evolutionary time. We applied this evolutionary concept to barnacle cement polymerization, a process critical to barnacle fitness that involves aggregation and cross-linking of proteins. The biochemical mechanisms of cement polymerization remain largely unknown. We hypothesized that this process is biochemically similar to blood clotting, a critical physiological response that is also based on aggregation and cross-linking of proteins. Like key elements of vertebrate and invertebrate blood clotting, barnacle cement polymerization was shown to involve proteolytic activation of enzymes and structural precursors, transglutaminase cross-linking and assembly of fibrous proteins. Proteolytic activation of structural proteins maximizes the potential for bonding interactions with other proteins and with the surface. Transglutaminase cross-linking reinforces cement integrity. Remarkably, epitopes and sequences homologous to bovine trypsin and human transglutaminase were identified in barnacle cement with tandem mass spectrometry and/or western blotting. Akin to blood clotting, the peptide s generated during proteolytic activation functioned as signal molecules, linking a molecular level event (protein aggregation) to a behavioral response (barnacle larval settlement). Our results draw attention to a highly conserved protein polymerization mechanism and shed light on a long-standing biochemical puzzle. We suggest that barnacle cement polymerization is a specialized form of wound healing. The polymerization mechanism common between barnacle cement and blood may be a theme for many marine animal glues.” (Dickinson et al. 2009:3499)",
   "function_addressed": [
@@ -10,11 +9,19 @@
     "chemically assemble polymers",
     "attach permanently"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently",
+    "chemically-assemble::polymers",
+    "modify-physical-state::material-characteristics",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "chemically-assemble",
+    "modify-physical-state",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/multiple-component-glue-aids-underwater-adhesion/",
-  "source_tier": "science_journalism",
   "keywords": [
     "multiple",
     "component",
@@ -23,7 +30,5 @@
     "underwater",
     "adhesion"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

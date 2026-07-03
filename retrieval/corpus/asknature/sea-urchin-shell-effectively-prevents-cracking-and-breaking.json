@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-sea-urchin-shell-effectively-prevents-cracking-and-breaking",
   "organism_common": "Sea urchin",
-  "organism_scientific": "",
   "strategy_summary": "The shell of a sea urchin prevents breakage via interlocking plates and an oblate shape. A sea urchin spends its life at approximately 1,600 feet underwater, at the bottom of the sea.",
-  "mechanism": "The shell of a sea urchin prevents breakage via interlocking plates and an oblate shape.\n\nA sea urchin spends its life at approximately 1,600 feet underwater, at the bottom of the sea. At this depth, there is an enormous amount of pressure, approximately 700 pounds per square inch, from the water pushing down on the sea urchin in all directions. This is the same as being crushed by a stack of 20 elephants! Surprisingly, sea urchins can withstand this pressure and can grow without developing any cracks in its shell. Although the sea urchin shell looks fragile, the shape and construction make it quite strong. The shell is constructed of many small plates made of a strong material called calcium carbonate. Calcium carbonate is formed when calcium oxide, water, and carbon dioxide are combined. Calcium carbonate is found in many places in nature, including coral, seashells, and limestone rocks. It is also the material that helps give concrete its strength. In addition to being made of a strong material, the small plates on the sea urchin shell also interlock together, creating an even stronger and more crack-resistant shell structure.\n\nWhen a predator tries to bite the urchin, the impact of the bite is transferred through all of the small plates rather than just one plate – this distributes the impact of the bite across the shell rather than to a single point. To picture this, imagine two types of hollow glass balls. One ball is made from a single piece and another is made up of many small pieces that fit together. If the ball made from a single piece is punctured, it will crack and the ball will likely shatter. If the ball made up of many small pieces is punctured, a single piece may be cracked, but because of its structure, it will stay together. The shell is less likely to break because the impact is distributed throughout the different pieces of the shell.\n\nIn addition to the material and the arrangement of the plates, the sea urchin shell is also strong because of its shape. The shell is oblate , meaning it resembles a flattened sphere. The shell naturally develops into this shape as it grows because of the constant intense pressure of the surrounding water. This shape helps relieve the impact of the water pressure on a single point by distributing the force over a larger area, similar to the interlocking plates.\n\nThe sea urchin is able to protect itself in the harsh underwater environment due to the shape of its shell and its interlocking plates. The shell is stronger than expected due to its ability to spread out damaging forces throughout its shell. We can learn from the sea urchin’s structure to create stronger, lightweight buildings that are better able to withstand strong forces, like skyscrapers and wind turbines.\n\nImage: Morgane Rae / Copyright © - All rights reserved toggle icon Image: Στέλιος Δ / CC BY - Creative Commons Attribution alone toggle icon right arrow right arrow",
+  "mechanism": "The shell of a sea urchin prevents breakage via interlocking plates and an oblate shape.\n\nA sea urchin spends its life at approximately 1,600 feet underwater, at the bottom of the sea. At this depth, there is an enormous amount of pressure, approximately 700 pounds per square inch, from the water pushing down on the sea urchin in all directions. This is the same as being crushed by a stack of 20 elephants! Surprisingly, sea urchins can withstand this pressure and can grow without developing any cracks in its shell. Although the sea urchin shell looks fragile, the shape and construction make it quite strong. The shell is constructed of many small plates made of a strong material called calcium carbonate. Calcium carbonate is formed when calcium oxide, water, and carbon dioxide are combined. Calcium carbonate is found in many places in nature, including coral, seashells, and limestone rocks. It is also the material that helps give concrete its strength. In addition to being made of a strong material, the small plates on the sea urchin shell also interlock together, creating an even stronger and more crack-resistant shell structure.\n\nWhen a predator tries to bite the urchin, the impact of the bite is transferred through all of the small plates rather than just one plate – this distributes the impact of the bite across the shell rather than to a single point. To picture this, imagine two types of hollow glass balls. One ball is made from a single piece and another is made up of many small pieces that fit together. If the ball made from a single piece is punctured, it will crack and the ball will likely shatter. If the ball made up of many small pieces is punctured, a single piece may be cracked, but because of its structure, it will stay together. The shell is less likely to break because the impact is distributed throughout the different pieces of the shell.\n\nIn addition to the material and the arrangement of the plates, the sea urchin shell is also strong because of its shape. The shell is oblate, meaning it resembles a flattened sphere. The shell naturally develops into this shape as it grows because of the constant intense pressure of the surrounding water. This shape helps relieve the impact of the water pressure on a single point by distributing the force over a larger area, similar to the interlocking plates.\n\nThe sea urchin is able to protect itself in the harsh underwater environment due to the shape of its shell and its interlocking plates. The shell is stronger than expected due to its ability to spread out damaging forces throughout its shell. We can learn from the sea urchin’s structure to create stronger, lightweight buildings that are better able to withstand strong forces, like skyscrapers and wind turbines.",
   "function_addressed": [
     "manage compression",
     "prevent fracture/rupture"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "prevent-structural-failure::fracture-rupture"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/sea-urchin-shell-effectively-prevents-cracking-and-breaking/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sea",
     "urchin",
@@ -21,7 +24,5 @@
     "prevents",
     "cracking"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

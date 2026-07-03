@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-leaf-tents-hide-caterpillars",
   "organism_common": "Protect From Animals",
-  "organism_scientific": "",
   "strategy_summary": "Bornean moths protect themselves from birds by creating leaf tents. “In the rain forests of Borneo, one small moth caterpillar constructs a most ingenious device that enables it to feed out of the sight of hungry birds.",
   "mechanism": "Bornean moths protect themselves from birds by creating leaf tents.\n\n“In the rain forests of Borneo, one small moth caterpillar constructs a most ingenious device that enables it to feed out of the sight of hungry birds. It starts work on the margin of a leaf and chews a cut inwards as though it were about to remove a semicircular segment. But when it reaches the farthest extent of the curve and seems about to arch back towards the margin, it stops and returns to the edge of the leaf. It walks along it and makes another cut as if to complete the semicircle from the other direction. But just before it joins the first cut, it stops. The segment is now attached only by a small hinge. The caterpillar next spins silken threads across the hinge between the segment and the rest of the leaf. As the silk dries, it contracts. This first hoists the segment into the air and then brings it down on top of the caterpillar. Now, working from beneath, the caterpillar makes a short slit at right angles to the cut edge of the segment. It converts the segment into a tiny dome. The whole process takes a couple of hours. As a result of all this ingenious labour, the caterpillar can nibble away at the leaf surface beneath, safe from the eyes and beaks of hungry birds.” (Attenborough 1995:56-58)",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/leaf-tents-hide-caterpillars/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaf",
     "tents",
     "hide",
     "caterpillars"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

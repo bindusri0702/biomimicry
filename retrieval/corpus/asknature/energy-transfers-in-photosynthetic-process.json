@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-energy-transfers-in-photosynthetic-process",
   "organism_common": "Green sulphur bacteria",
-  "organism_scientific": "",
   "strategy_summary": "The photosynthetic complexes of green sulphur bacteria maximize efficient energy transfer by creating coherent quantum waves. “Photosynthetic complexes are exquisitely tuned to capture solar light efficiently, and then transmit the excitation energy to reaction centres, where long term energy storage is initiated.",
   "mechanism": "The photosynthetic complexes of green sulphur bacteria maximize efficient energy transfer by creating coherent quantum waves.\n\n“Photosynthetic complexes are exquisitely tuned to capture solar light efficiently, and then transmit the excitation energy to reaction centres, where long term energy storage is initiated. The energy transfer mechanism is often described by semiclassical models that invoke ‘hopping’ of excited-state populations along discrete energy levels. Two-dimensional Fourier transform electronic spectroscopy has mapped these energy levels and their coupling in the Fenna–Matthews–Olson (FMO) bacteriochlorophyll complex, which is found in green sulphur bacteria and acts as an energy ‘wire’ connecting a large peripheral light-harvesting antenna, the chlorosome, to the reaction centre.” (Engel et al. 2007:782)",
   "function_addressed": [
     "distribute energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::energy"
+  ],
+  "subgroup_keys": [
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/energy-transfers-in-photosynthetic-process/",
-  "source_tier": "science_journalism",
   "keywords": [
     "energy",
     "transfers",
     "photosynthetic",
     "process"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

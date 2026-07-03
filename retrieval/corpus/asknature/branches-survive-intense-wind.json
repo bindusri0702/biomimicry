@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-branches-survive-intense-wind",
   "organism_common": "Live oak",
-  "organism_scientific": "",
   "strategy_summary": "Live oaks survive strong winds because of high wood strength and a low canopy that branches out in multiple subdivisions without a main axis. Live oaks at Wormsloe  Large live oak, called the Big Tree, found in Goose Island State Park in Rockport, Texas.",
   "mechanism": "Live oaks survive strong winds because of high wood strength and a low canopy that branches out in multiple subdivisions without a main axis.\n\nLive oaks at Wormsloe\n\nLarge live oak, called the Big Tree, found in Goose Island State Park in Rockport, Texas. The Big Tree is estimated to be over 1000 years old and has a trunk circumference over 35 feet.\n\n“The resistance of live oak has been related to the low deliquescent canopy and high wood strength and resilience … The crowns of the larger live oaks were level with or below crowns of associated laurel and water oaks.” (Gresham 1991:425)",
   "function_addressed": [
     "protect from wind"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::wind"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/branches-survive-intense-wind/",
-  "source_tier": "science_journalism",
   "keywords": [
     "branches",
     "survive",
     "intense",
     "wind"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

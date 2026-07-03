@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-hypaxial-muscles-aid-in-respiration",
   "organism_common": "Greater siren",
-  "organism_scientific": "",
   "strategy_summary": "The hypaxial muscles of some salamanders cause exhalation by actively contracting to increase abdominal pressure and force air out of the lungs. Historically, amniotes were the only known animals to use the muscles of their thorax and abdomen to expand the body and pull air into the lungs.",
   "mechanism": "The hypaxial muscles of some salamanders cause exhalation by actively contracting to increase abdominal pressure and force air out of the lungs.\n\nHistorically, amniotes were the only known animals to use the muscles of their thorax and abdomen to expand the body and pull air into the lungs. The next animals in the evolutionary chain, such as air-breathing fishes and amphibians, use a method known as a buccal pump that compresses air stored in an extended jaw (Gans, 1970b; Liem, 1985 via Brainerd and Monroy 1998). Siren lacertina, however, is a salamander (a non-amniote) that uses a system similar to the aspiration pump used by many amniotes to breathe. The new method of breathing discovered to be used by the salamanders is known as an exhalation pump and exhalation occurs in two phases. The first phase is passive; air is forced out of the lungs by hydrostatic pressure and the elasticity of the lungs. The second phase is an active one involving the traverse abdominal muscle. By engaging the muscles on the lower side of the body (the hypaxial muscles) the salamander creates active pressure within the body cavity that forces air out of the lungs (Brainerd and Monroy 1998: 673).",
   "function_addressed": [
     "distribute gases",
     "expel gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::gases",
+    "expel::gases"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "expel"
+  ],
   "source_url": "https://asknature.org/strategy/hypaxial-muscles-aid-in-respiration/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hypaxial",
     "muscles",
     "aid",
     "respiration"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

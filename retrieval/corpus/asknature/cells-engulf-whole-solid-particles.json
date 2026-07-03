@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-cells-engulf-whole-solid-particles",
   "organism_common": "Eukaryotes",
-  "organism_scientific": "",
   "strategy_summary": "Living cells engulf whole solid particles by wrapping them in cell membrane that forms internal compartments. Whether in single-celled organisms or multicellular animals, individual living cells are constantly taking in materials from outside the cell.",
   "mechanism": "Living cells engulf whole solid particles by wrapping them in cell membrane that forms internal compartments.\n\nWhether in single-celled organisms or multicellular animals, individual living cells are constantly taking in materials from outside the cell. These materials can be nutrients, or they can be debris or microorganisms that need to be contained and processed. Many kinds of small molecules can diffuse across the cell’s outer membrane, or travel through special embedded channels. Taking in larger materials, however, requires a different strategy.\n\nOne strategy for capturing large materials is phagocytosis, or “cell eating.” Phagocytosis is a process where a cell engulfs whole particles by wrapping them in its own membrane before processing them internally. For instance, specialized cells of the immune system in humans can envelop invading microorganisms or dead cells whole using phagocytosis. These specialized cells first recognize an object to ingest when surface receptors on the cell bind to surface molecules on the object. The cell then sends membranous folds (called pseudopods) outward and around the object until it is completely enclosed. When the tips of the pseudopods meet, they fuse back together. This process is facilitated by strands of actin proteins, which can easily lengthen or shorten to enable cell movement. The fusion of the cell’s membrane folds creates an internal membranous compartment (a phagosome) containing the ingested object. Some single-celled organisms, like certain protozoa, use the same phagocytic process to ingest whole bacteria as food.\n\nIn both cases, the newly-bound object can be processed when the phagosome fuses with other internal compartments containing digestive enzymes. This process is similar to two soapy bubbles coming together and forming a larger, single bubble. The enzymes combine with the ingested object, breaking it down into nutrients or waste materials that can be used in cellular processes or expelled.\n\nThe cell wraps the object in extended folds of plasma membrane, which creates an internal compartment (see #1). This compartment fuses with another containing digestive enzymes (2). The object is broken down by the enzymes and the waste is expelled from the cell (3).\n\nPenn State\n\nLiquid membrane from Penn State filters material by responding to its kinetic energy, rather than particle size, creating a unique self-healing barrier.",
   "function_addressed": [
@@ -9,11 +8,13 @@
     "capture, absorb, or filter chemical entities",
     "capture, absorb, or filter solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::solids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/cells-engulf-whole-solid-particles/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cells",
     "engulf",
@@ -21,7 +22,5 @@
     "solid",
     "particles"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

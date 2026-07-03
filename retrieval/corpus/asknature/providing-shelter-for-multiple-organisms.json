@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-providing-shelter-for-multiple-organisms",
   "organism_common": "English oak",
-  "organism_scientific": "",
   "strategy_summary": "A mature oak tree provides shelter for hundreds of moths, birds, and bugs; each part of the tree houses its own inhabitants. OLYMPUS DIGITAL CAMERA  cropped out watermark using Jpegcrop  OLYMPUS DIGITAL CAMERA  Stieleiche bei Wilsede  M3,361S-3,034  An old Quercus robur on the Ruissalo island in Turku, Finland …",
   "mechanism": "A mature oak tree provides shelter for hundreds of moths, birds, and bugs; each part of the tree houses its own inhabitants.\n\nOLYMPUS DIGITAL CAMERA\n\ncropped out watermark using Jpegcrop\n\nOLYMPUS DIGITAL CAMERA\n\nStieleiche bei Wilsede\n\nM3,361S-3,034\n\nAn old Quercus robur on the Ruissalo island in Turku, Finland\n\nHammundeseiche bei Freidewald, Deutschland\n\nHammundeseiche bei Friedewald, Deutschland\n\nDe dikke boom te <a href=http://nl.wikipedia.org/wiki/Laren_(Gelderland) class=extiw title=nl:Laren (Gelderland)>Laren</a> <a href=http://nl.wikipedia.org/wiki/Categorie:Afbeelding_Gelderland class=extiw title=nl:Categorie:Afbeelding Gelderland>nl:Categorie:Afbeelding Gelderland</a>\n\n1=''<a href=http://commons.wikimedia.org/wiki/Quercus_robur title=Quercus robur>Quercus robur</a>'' with female gall of ''<a href=http://commons.wikimedia.org/wiki/Andricus_fecundator title=Andricus fecundator>Andricus fecundator</a>''\n\n{{de|Schwammkugelgallegalle (''Andricus kollari'') an ''Quercus robur'', Stromtrasse neben der Startbahn West, Kelsterbach, Hessen, Deutschland}}\n\n{{de|Eichengalle (''Cynips quercusfolii'') an ''Quercus robur'', Stromtrasse neben der Startbahn West, Kelsterbach, Hessen, Deutschland}}\n\n{{de|Eichengalle (''Cynips agama'') an ''Quercus robur'', Stromtrasse neben der Startbahn West, Kelsterbach, Hessen, Deutschland}}\n\n{{de|Seidenknopfgalle (''Neuroterus numismalis'') an ''Quercus robur'', Stromtrasse neben der Startbahn West, Kelsterbach, Hessen, Deutschland}}\n\n{{de|Linsengalle (''Neuroterus quercusbaccharum'') an ''Quercus robur'', Stromtrasse neben der Startbahn West, Kelsterbach, Hessen, Deutschland}}\n\nOLYMPUS DIGITAL CAMERA\n\nWykonane w marcu 2005 przez <a href=http://pl.wikipedia.org/wiki/Wikipedysta:Borch3kawki class=extiw title=pl:Wikipedysta:Borch3kawki>Borcha3kawki</a> na podstawie mapki zamieszczonej w artykule Adama Boraty?skiego 1995r. Poprawiona.\n\n“A mature oak tree, standing a hundred feet tall, provides lodging, and often board as well, for more different kinds of animals than any other European tree. Thirty species of birds, forty-five different bugs and over two hundred species of moth have been collected from oaks. Each part of the tree has its own particular lodgers.” (Attenborough 1995:153)",
   "function_addressed": [
@@ -11,18 +10,25 @@
     "physically assemble structure",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "cooperate-compete::between-different-species",
+    "cooperate-compete::within-a-eco-system",
+    "physically-assemble::structure",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "cooperate-compete",
+    "physically-assemble",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/providing-shelter-for-multiple-organisms/",
-  "source_tier": "science_journalism",
   "keywords": [
     "providing",
     "shelter",
     "multiple",
     "organisms"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

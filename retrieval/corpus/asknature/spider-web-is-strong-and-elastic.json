@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-spider-web-is-strong-and-elastic",
   "organism_common": "Capture, Absorb, or Filter Organisms",
-  "organism_scientific": "",
   "strategy_summary": "In the quiet dawn of the forest, orb weaver spiders craft intricate spiral webs using capture silk, a material as strong as Kevlar and remarkably elastic, enabling it to stretch before snapping back and to withstand the impact of flying insects without breaking or sagging.",
-  "mechanism": "Orb weaver capture silk boasts a tensile strength of 1 GPa and can stretch up to 1000% of its original length due to its molecular structure of fibroin proteins, which form pleated beta-sheets stabilized by weak hydrogen bonds that break upon impact and reform once the energy dissipates, allowing the silk to stretch and recover its shape. When an insect crashes into the web, the impact causes these weak hydrogen bonds to break, allowing the silk to stretch without breaking.\n\nInspired by the sacrificial bonds in spider silk, we can develop impact-absorbing, resilient materials for protective gear, architectural designs could incorporate elastic, yet strong, materials inspired by spider silk to create structures that withstand natural forces like earthquakes or high winds, flexing but not breakin, medical applications like sutures and implants that are both durable and flexible, promoting better healing and adaptation within the body, and textiles, creating innovations that are strong, flexible, and resilient.",
+  "mechanism": "Orb weaver capture silk boasts a tensile strength of 1 GPa and can stretch up to 1000% of its original length due to its molecular structure of fibroin proteins, which form pleated beta-sheets stabilized by weak hydrogen bonds that break upon impact and reform once the energy dissipates, allowing the silk to stretch and recover its shape. When an insect crashes into the web, the impact causes these weak hydrogen bonds to break, allowing the silk to stretch without breaking.\n\nInspired by the sacrificial bonds in spider silk, we can develop impact-absorbing, resilient materials for protective gear, architectural designs could incorporate elastic, yet strong, materials inspired by spider silk to create structures that withstand natural forces like earthquakes or high winds, flexing but not breakin, medical applications like sutures and implants that are both durable and flexible, promoting better healing and adaptation within the body, and textiles, creating innovations that are strong, flexible, and resilient.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "capture, absorb, or filter organisms",
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/spider-web-is-strong-and-elastic/",
-  "source_tier": "science_journalism",
   "keywords": [
     "spider",
     "web",
     "strong",
     "elastic"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

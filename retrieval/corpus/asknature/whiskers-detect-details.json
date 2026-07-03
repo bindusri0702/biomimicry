@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-whiskers-detect-details",
   "organism_common": "Mammals",
-  "organism_scientific": "",
   "strategy_summary": "The whiskers of some mammals help detect detailed surface textures via tapered ends. “The role of facial vibrissae (whiskers) in the behavior of terrestrial mammals is principally as a supplement or substitute for short-distance vision.",
   "mechanism": "The whiskers of some mammals help detect detailed surface textures via tapered ends.\n\n“The role of facial vibrissae (whiskers) in the behavior of terrestrial mammals is principally as a supplement or substitute for short-distance vision. Each whisker in the array functions as a mechanical transducer, conveying forces applied along the shaft to mechanoreceptors in the follicle at the whisker base. Subsequent processing of mechanoreceptor output allows high accuracy discriminations of object distance, direction, and surface texture. The whiskers of terrestrial mammals are tapered and approximately circular in cross section. We argue that a tapered whisker provides some advantages for tactile perception (as compared to a hypothetical untapered whisker), and that this may explain why the taper has been preserved during the evolution of terrestrial mammals …\n\n“ … We suggest that one of the main advantages of whisker taper, at least for active whiskers, is to provide a small diameter at the whisker tip, to allow for a finer probe of small surface features.” (Williams & Kramer 2010:e8806)",
   "function_addressed": [
     "sense touch and mechanical forces in a living system"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::touch-and-mechanical-forces"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/whiskers-detect-details/",
-  "source_tier": "science_journalism",
   "keywords": [
     "whiskers",
     "detect",
     "details"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

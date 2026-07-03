@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-fluid-lubricates-joints",
   "organism_common": "Vertebrates (Mammals, Fish, Birds, Reptiles)",
-  "organism_scientific": "",
   "strategy_summary": "Joints of vertebrates are protected by use of synovial fluid as a lubricant. “Whereas technology tries to polish the hard metal of bearings to as fine a finish as possible, nature covers the touching surfaces with a spongelike substance which is comparatively stiff yet quite elastic: cartilaginous tissue, which…",
   "mechanism": "Joints of vertebrates are protected by use of synovial fluid as a lubricant.\n\n“Whereas technology tries to polish the hard metal of bearings to as fine a finish as possible, nature covers the touching surfaces with a spongelike substance which is comparatively stiff yet quite elastic: cartilaginous tissue, which differs from hard bone tissue essentially in that it lacks deposits of calcium crystals. One could compare this tissue to fiberglass from which the fibers have been removed. The fine pores of the cartilaginous sliding layer are soaked through with lubricating synovial fluid. When the joint is subjected to pressure, the layer compresses and the fluid is pushed out of the thin ducts. The gliding principle is the same as the one used for air-cushion vehicles, with the difference that in bone bearings the cushion (of fluid) is produced on the spot…Synovial fluid might also compete in the market with modern lubricants. It contains slightly less protein than blood serum, but on the other hand it carries an organic acid with very long molecules which are probably linked to proteins. The more the gliding speeds vary in the lubrication layer, the lower the viscosity of the fluid.” (Tributsch 1984:41-42)\n\nStructure of synovial joint.",
   "function_addressed": [
     "manage mechanical wear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/fluid-lubricates-joints/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fluid",
     "lubricates",
     "joints"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

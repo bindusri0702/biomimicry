@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-low-energy-perching",
   "organism_common": "Mousebirds",
-  "organism_scientific": "",
   "strategy_summary": "Mousebirds are able to perch without energy use thanks to an anatomical locking device. “Mousebirds have an unusual perching manner in which they hang with their abdomen down between their legs and their feet at the upper thorax.",
   "mechanism": "Mousebirds are able to perch without energy use thanks to an anatomical locking device.\n\n“Mousebirds have an unusual perching manner in which they hang with their abdomen down between their legs and their feet at the upper thorax. They generally use their tails or lower abdomen to prop themselves against a small branch or another mousebird. When suspended like this, they can engage an anatomical device similar to that of chiropterans that permits them to perch without additional energy expenditure.” (Fowler and Miller 2003:240-241)",
   "function_addressed": [
@@ -9,16 +8,20 @@
     "manage tension",
     "modify position"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "manage-structural-forces::tension",
+    "modify-physical-state::position"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "manage-structural-forces",
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/low-energy-perching/",
-  "source_tier": "science_journalism",
   "keywords": [
     "low-energy",
     "perching"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

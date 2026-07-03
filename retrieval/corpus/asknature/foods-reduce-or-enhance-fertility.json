@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-foods-reduce-or-enhance-fertility",
   "organism_common": "Woolly spider monkey",
-  "organism_scientific": "",
   "strategy_summary": "Woolly spider monkeys influence their fertility by eating specific plants. “In the New World, female woolly spider monkeys ( Brachyteles arachnoides ) from Brazil appear to intentionally consume certain plants that affect fertility.",
   "mechanism": "Woolly spider monkeys influence their fertility by eating specific plants.\n\n“In the New World, female woolly spider monkeys ( Brachyteles arachnoides ) from Brazil appear to intentionally consume certain plants that affect fertility. Wisconsin University primatologist Dr. K. Strier has noted that once a female monkey has given birth, she seeks out certain leaves that contain isoflavonoids, estrogen-like compounds that reduce fertility. Conversely, when ready to have offspring, females appear to eat more of a particular legume nicknamed the monkey ear, which produces a steroid believed to enhance fertility. Researchers are still not sure if this is just a coincidence or a deliberate choice.” (Shuker 2001:215)",
   "function_addressed": [
     "regulate cellular processes",
     "regulate reproduction or growth"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::cellular-processes",
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/foods-reduce-or-enhance-fertility/",
-  "source_tier": "science_journalism",
   "keywords": [
     "foods",
     "reduce",
     "enhance",
     "fertility"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

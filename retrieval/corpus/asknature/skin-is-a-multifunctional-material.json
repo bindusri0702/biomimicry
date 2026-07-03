@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-skin-is-a-multifunctional-material",
   "organism_common": "Humans",
-  "organism_scientific": "",
   "strategy_summary": "Multiple components allow skin to heal, feel, and more. “Nature offers numerous examples of materials that serve multiple functions.",
   "mechanism": "Multiple components allow skin to heal, feel, and more.\n\n“Nature offers numerous examples of materials that serve multiple functions. Biological materials routinely contain sensing, healing, actuation, and other functions built into the primary structures of an organism. The human skin, for instance, consists of many layers of cells, each of which contains oil and perspiration glands, sensory receptors, hair follicles, blood vessels, and other components with functions other than providing the basic structure and protection for the internal organs. These structures have evolved in nature over eons to the level of seamless integration and perfection with which they serve their functions.” (Bar-Cohen 2006:310)\n\nBar-Cohen Y. Biomimetics: biologically inspired technologies. Bar-Cohen Y, editor. Boca Raton, FL: CRC/Taylor & Francis; 2006. 527 p.",
   "function_addressed": [
     "coordinate systems",
     "optimize shape/materials"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "coordinate::systems"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "coordinate"
+  ],
   "source_url": "https://asknature.org/strategy/skin-is-a-multifunctional-material/",
-  "source_tier": "science_journalism",
   "keywords": [
     "healing",
     "feeling",
@@ -20,7 +23,5 @@
     "does",
     "all"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

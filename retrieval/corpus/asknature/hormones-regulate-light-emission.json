@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-hormones-regulate-light-emission",
   "organism_common": "Velvet belly lantern shark",
-  "organism_scientific": "",
   "strategy_summary": "A chromatophore iris of the lantern shark reveals bioluminenscence, being triggered by hormones. “Bioluminescence is a common feature in the permanent darkness of the deep-sea.",
   "mechanism": "A chromatophore iris of the lantern shark reveals bioluminenscence, being triggered by hormones.\n\n“Bioluminescence is a common feature in the permanent darkness of the deep-sea. In fishes, light is emitted by organs containing either photogenic cells (intrinsic photophores), which are under direct nervous control, or symbiotic luminous bacteria (symbiotic photophores), whose light is controlled by secondary means such as mechanical occlusion or physiological suppression. The intrinsic photophores of the lantern shark Etmopterus spinax were recently shown as an exception to this rule since they appear to be under hormonal control. Here, we show that hormone s operate what amounts to a unique light switch, by acting on a chromatophore iris, which regulates light emission by pigment translocation. This result strongly suggests that this shark’s luminescence control originates from the mechanism for physiological colour change found in shallow water sharks that also involves hormonally controlled chromatophores: the lantern shark would have turned the initial shallow water crypsis mechanism into a midwater luminous camouflage, more efficient in the deep-sea environment.” (Claes and Mallefet 2010:685)\n\n“…work on the velvet belly lantern shark ( Etmopterus spinax ) demonstrated that, unlike any other known system, their luminescence is under hormonal control (Claes & Mallefet 2009a): prolactin and melatonin [hormones] trigger the light emission using specific extrinsic and intrinsic pathways while [alpha]-MSH [hormone] inhibited these light emissions.” (Claes and Mallefet 2010:685)",
   "function_addressed": [
     "modify light/color",
     "send light signals in the visible spectrum"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "send-signals::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/hormones-regulate-light-emission/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hormones",
     "regulate",
     "light",
     "emission"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

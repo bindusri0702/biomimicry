@@ -1,19 +1,24 @@
 {
   "doc_id": "asn-hind-legs-maximize-swimming-efficiency",
   "organism_common": "Whirligig beetles",
-  "organism_scientific": "",
   "strategy_summary": "The hind legs of the whirligig beetle maximize swimming speed and minimize energy use by beating in an alternating stroke pattern. The whirligig beetle can swim quickly atop water.",
-  "mechanism": "The hind legs of the whirligig beetle maximize swimming speed and minimize energy use by beating in an alternating stroke pattern.\n\nThe whirligig beetle can swim quickly atop water. Although it can attain its highest speeds by simultaneously beating its hind legs together, this movement is too energetically costly to maintain over great distances. In comparison, alternately beating its hind legs allows the whirligig beetle to reach comparable, though slightly slower, speeds while conserving enough energy to maintain those speeds over longer distances.\n\nThis alternate beating causes the beetle to move in an S-shaped trajectory instead of a linear one, which also helps it avoid predators due to its unpredictable pattern of movement.\n\nThis strategy was contributed by Rachel Major",
+  "mechanism": "The hind legs of the whirligig beetle maximize swimming speed and minimize energy use by beating in an alternating stroke pattern.\n\nThe whirligig beetle can swim quickly atop water. Although it can attain its highest speeds by simultaneously beating its hind legs together, this movement is too energetically costly to maintain over great distances. In comparison, alternately beating its hind legs allows the whirligig beetle to reach comparable, though slightly slower, speeds while conserving enough energy to maintain those speeds over longer distances.\n\nThis alternate beating causes the beetle to move in an S-shaped trajectory instead of a linear one, which also helps it avoid predators due to its unpredictable pattern of movement.",
   "function_addressed": [
     "protect from animals",
     "distribute energy",
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::energy",
+    "move::in-on-liquids",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "move",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/hind-legs-maximize-swimming-efficiency/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hind",
     "legs",
@@ -21,7 +26,5 @@
     "swimming",
     "efficiency"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-body-shape-influences-stability-and-maneuverability",
   "organism_common": "Boxfishes",
-  "organism_scientific": "",
   "strategy_summary": "The shape of the boxfish controls water flow around the body to influence stability and maneuverability. With a rigid bony armour covering a box-shaped body, boxfishes are surprisingly agile swimmers.",
   "mechanism": "The shape of the boxfish controls water flow around the body to influence stability and maneuverability.\n\nWith a rigid bony armour covering a box-shaped body, boxfishes are surprisingly agile swimmers. They easily maneuver their way around complex physical environments encountered in the coral reefs they inhabit.\n\nOriginally, it was thought that the fish’s boxy shape functioned as a rigid frame to keep the fish stable while swimming; however, more recent research has suggested that the boxy shape actually destabilizes the body during swimming and enhances maneuverability. Stability and maneuverability in swimming tend to have competing requirements. Stability often involves a narrow range of movements, like a tuna whipping its tail back and forth while cruising through the open ocean. Maneuverability, on the other hand, involves a wide range of movements like tight turns and changes in posture. Being highly stable often means being less adept at maneuvering, and vice versa. Researchers studying boxfishes have looked at how water flows around their bodies to determine how stability and maneuverability play roles in their swimming behavior.\n\nProjecting from the boxfish’s carapace (its bony outer covering) are ridges and edges that affect how water flows around its body. In an early set of experiments, researchers found that these ridges appeared to manipulate the flow so that it produced stabilizing forces during swimming. In a later study using different methods, other researchers found that the flows around the ridges and body should destabilize the body overall. Although this might seem undesirable, destabilization actually enables a much wider range of movement than if the boxfish were trying to remain constantly stable. In this latter case, the boxfish can use the pectoral fins at its side and tail fin to control this destabilization and ultimately be highly maneuverable in the water. Additional research could help uncover exactly how the boxfish’s body and fins work together to affect stability and maneuverability as it navigates its complex environment.",
   "function_addressed": [
     "move in/on liquids",
     "manage turbulence"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::turbulence",
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/body-shape-influences-stability-and-maneuverability/",
-  "source_tier": "science_journalism",
   "keywords": [
     "body",
     "shape",
@@ -20,7 +23,5 @@
     "stability",
     "maneuverability"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

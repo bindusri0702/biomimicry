@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-nest-structurally-reinforced",
   "organism_common": "Jet ant",
-  "organism_scientific": "",
   "strategy_summary": "Ants are some of the most successful animals on the planet. They’re found in every continent except Antarctica, and there are more than 12,000 species.",
   "mechanism": "One species of ant, the jet ant ( Lasius fuliginosus ), builds its nests out of paper reinforced with the hyphae of resident fungi. The jet ant collects wood particles and impregnates them with a sugar solution, which creates a nutritive substance for the fungi. As the fungi grow, the thread-like hyphae that make up their mycelium bind the particles together, reinforcing the wall materials the ants have built up.\n\nHumans use many materials to construct buildings, and have even begun growing fungi’s mycelia in molds to produce building blocks and finished products. By mimicking the jet ants’ style of “additive manufacturing”, what kind of new structures could be framed and grown in place, made from locally available materials and reinforced by fungi?",
   "function_addressed": [
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/nest-structurally-reinforced/",
-  "source_tier": "science_journalism",
   "keywords": [
     "nest",
     "structurally",
     "reinforced"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

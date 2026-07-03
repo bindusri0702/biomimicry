@@ -1,24 +1,24 @@
 {
   "doc_id": "asn-senses-help-avoid-storms",
   "organism_common": "Common swift",
-  "organism_scientific": "",
   "strategy_summary": "Swifts can avoid electrical storms by sensing atmospheric ionization prior to a storm's arrival. “By sensing atmospheric ionization, the swift can detect an electrical storm before it arrives and elude danger by flying at right angles to its path, returning only once the storm has ended.” (Shuker 2001:65)",
   "mechanism": "Swifts can avoid electrical storms by sensing atmospheric ionization prior to a storm's arrival.\n\n“By sensing atmospheric ionization, the swift can detect an electrical storm before it arrives and elude danger by flying at right angles to its path, returning only once the storm has ended.” (Shuker 2001:65)",
   "function_addressed": [
     "sense electricity/magnetism from the environment",
     "sense atmospheric conditions"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::atmospheric-conditions",
+    "sense-signals-environmental-cues::electricity-magnetism"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/senses-help-avoid-storms/",
-  "source_tier": "science_journalism",
   "keywords": [
     "senses",
     "avoid",
     "storms"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

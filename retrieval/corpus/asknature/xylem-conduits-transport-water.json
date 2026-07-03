@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-xylem-conduits-transport-water",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "Trees, like all known living things, need water to survive. Rain water soaks into the soil and is taken up by tree roots.",
   "mechanism": "Xylem tissue is not comprised of continuous, hollow tubes or “straws” from a tree’s roots to its leaves. Instead, it is subdivided into smaller compartments of dead cells called tracheids, each just a few millimeters long, separated from one another by valves.\n\nThe valves consist of an opening in the cell walls between two adjacent tracheids, in the middle of which is a freely-moving membrane. The thin membrane responds to pressure differences between the two tracheids, moving to seal the aperture on one of the tracheid cell walls when there is a pressure difference between them. The size of the valves when open are 100-500 nanometers, small enough to prevent the passage of many types of potential contaminants and undesired microbes, but large enough to still allow water to flow through.\n\nThe valves also work to prevent an arboreal version of the bends. When an injury brings air into a tracheid, the lower pressure causes the valves of the cell to snap closed, preventing water from an adjacent cell from flowing into the first tracheid, and keeping the air from flowing into adjacent tracheids. The short length of each tracheid also ensures that air doesn’t penetrate far into the tree before a valve can shut it off.\n\nThe pressure-driven valves in xylem could have many applications in low-energy mechanical pumping systems, whether to move water or other substances.\n\nThe filtering system also holds promise for human application. Water-borne illnesses kill over a million people every year, especially in areas where water sanitation technologies are too financially intensive to be widely or effectively implemented. An inexpensive, readily available, effective water filter could improve water quality and prevent disease. Xylem-inspired water filters have been shown to effectively remove water pathogens.",
   "function_addressed": [
     "distribute liquids",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::liquids",
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/xylem-conduits-transport-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "trees",
     "lift",
@@ -20,7 +23,5 @@
     "little",
     "effort"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

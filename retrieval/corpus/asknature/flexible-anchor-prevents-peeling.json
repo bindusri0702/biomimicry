@@ -1,26 +1,28 @@
 {
   "doc_id": "asn-flexible-anchor-prevents-peeling",
   "organism_common": "Kelp",
-  "organism_scientific": "",
   "strategy_summary": "Flexible anchoring structures on many aquatic organisms avoid peeling by distributing forces over a larger area. Living in or near the intertidal zone of a rocky seashore usually requires being good at holding on.",
-  "mechanism": "Flexible anchoring structures on many aquatic organisms avoid peeling by distributing forces over a larger area.\n\nLiving in or near the intertidal zone of a rocky seashore usually requires being good at holding on. Organisms that live in this habitat commonly deal with crashing waves and strong underwater flows that exert varying forces in all directions.\n\nTo withstand these forces, many intertidal organisms attach to rocks and other surfaces using parts that function as flexible anchors. These anchoring structures commonly consist of a roughly disc-shaped base that gradually tapers and becomes more flexible as it joins the main body. Examples include holdfasts on seaweeds and the feet of intertidal snails. When forces impact the anchor, the base is firmly attached while the rest of the structure can bend and deform slightly. This flexibility prevents forces from being concentrated at a small area on the anchor, a situation that increases the chances of peeling and detaching.\n\nImage: Fitzgerald Marine Reserve docent / CC BY - Creative Commons Attribution alone toggle icon Image: Heiko Hübscher / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon right arrow right arrow",
+  "mechanism": "Flexible anchoring structures on many aquatic organisms avoid peeling by distributing forces over a larger area.\n\nLiving in or near the intertidal zone of a rocky seashore usually requires being good at holding on. Organisms that live in this habitat commonly deal with crashing waves and strong underwater flows that exert varying forces in all directions.\n\nTo withstand these forces, many intertidal organisms attach to rocks and other surfaces using parts that function as flexible anchors. These anchoring structures commonly consist of a roughly disc-shaped base that gradually tapers and becomes more flexible as it joins the main body. Examples include holdfasts on seaweeds and the feet of intertidal snails. When forces impact the anchor, the base is firmly attached while the rest of the structure can bend and deform slightly. This flexibility prevents forces from being concentrated at a small area on the anchor, a situation that increases the chances of peeling and detaching.",
   "function_addressed": [
     "attach permanently",
     "manage shear",
     "manage turbulence"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently",
+    "manage-structural-forces::shear",
+    "manage-structural-forces::turbulence"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/flexible-anchor-prevents-peeling/",
-  "source_tier": "science_journalism",
   "keywords": [
     "flexible",
     "anchor",
     "prevents",
     "peeling"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

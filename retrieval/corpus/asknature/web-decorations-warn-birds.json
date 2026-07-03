@@ -1,27 +1,31 @@
 {
   "doc_id": "asn-web-decorations-warn-birds",
   "organism_common": "Orb-weaver spiders",
-  "organism_scientific": "",
   "strategy_summary": "Orange marker balls on power lines and blinking lights on tall structures forewarn pilots of difficult-to-see objects. Certain spiders do something similar.",
-  "mechanism": "A 2005 study shows that birds can see orb-weaver ornamentation, suggesting one purpose may be to warn birds against flying into and destroying the webs. To prove that birds could see these adornments, Macquarie University scientists relied on the knowledge that birds’ eyes have four types of photoreceptors that detect ultraviolet, blue, green, and red wavelengths of light. Also, birds use the contrast between specific colors to see nearby objects. To sense faraway objects, birds use the contrast between the brightness of objects (similar to how you see objects in a dark room without being able to distinguish colors).\n\nThe scientists checked the light reflected off the web decorations of five spider species and compared it to the light reflected off a background of plants typical of the spiders’ habitats. They determined that the distinction between both color and brightness were enough for birds to detect easily.This means that birds see stabilimenta from near as well as from afar.\n\nOne thing is certain. Humans can learn from these silk signals. Glass patterned with an ultraviolet coating makes windows visible to birds, preventing strikes that injure or kill them. Such signaling could be incorporated into other materials as well, helping unmanned aircraft avoid obstacles or perhaps even creating smart fishnets that prevent non-target species from being captured.",
+  "mechanism": "A 2005 study shows that birds can see orb-weaver ornamentation, suggesting one purpose may be to warn birds against flying into and destroying the webs. To prove that birds could see these adornments, Macquarie University scientists relied on the knowledge that birds’ eyes have four types of photoreceptors that detect ultraviolet, blue, green, and red wavelengths of light. Also, birds use the contrast between specific colors to see nearby objects. To sense faraway objects, birds use the contrast between the brightness of objects (similar to how you see objects in a dark room without being able to distinguish colors).\n\nThe scientists checked the light reflected off the web decorations of five spider species and compared it to the light reflected off a background of plants typical of the spiders’ habitats. They determined that the distinction between both color and brightness were enough for birds to detect easily.This means that birds see stabilimenta from near as well as from afar.\n\nBut just because birds see the designs, that doesn’t mean they avoid decorated webs. To find out, Ohio State University entomologists set up a kind of bird “obstacle course” with an array of spider webs, some with stabilimenta and others without. Birds flew through the decorated webs 45% less frequently than undecorated webs, showing that the spiders’ investments to build them were well spent.\n\nOr were they? It’s important to get a sense of just how steep a price orb weavers pay for such bold “web advertisements.” For starters, they may point birds to delicious spider snacks. Additionally, the designs may scare prey away. The Macquarie University study revealed that the contrast levels also enabled honey bees to see the decorations, implying that other insects can see them as well. Furthermore, the Ohio State University experiment measured 34% less successful prey capture (across multiple insect families) in webs with stabilimenta compared to those without.\n\nThese disadvantages could explain why so few spiders build stabilimenta. Of over 48,000 species of spiders, only around 4,000 are orb-weavers, and just 78 of those decorate their webs. Whether spiders employ the technique may depend on the evolutionary pressure predators exert or whether sufficient prey exist to risk the strategy. The shape of a stabilimenta—discs, lines, or otherwise—could also influence how predators and prey respond, though more research is needed to resolve that question.\n\nOne thing is certain. Humans can learn from these silk signals. Glass patterned with an ultraviolet coating makes windows visible to birds, preventing strikes that injure or kill them. Such signaling could be incorporated into other materials as well, helping unmanned aircraft avoid obstacles or perhaps even creating smart fishnets that prevent non-target species from being captured.",
   "function_addressed": [
     "send light signals in the non-visible spectrum",
     "send light signals in the visible spectrum",
     "physically assemble structure",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "physically-assemble::structure",
+    "protect-from-living-threats::animals",
+    "send-signals::light-non-visible-spectrum",
+    "send-signals::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "physically-assemble",
+    "protect-from-living-threats",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/web-decorations-warn-birds/",
-  "source_tier": "science_journalism",
   "keywords": [
     "web",
     "decorations",
     "warn",
     "birds"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

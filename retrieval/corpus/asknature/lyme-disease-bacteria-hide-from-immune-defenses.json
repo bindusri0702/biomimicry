@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-lyme-disease-bacteria-hide-from-immune-defenses",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "There’s something about the pathogen that causes Lyme disease that makes it hard to diagnose and treat. Borrelia burgdorferi is a species of spiral bacteria that somehow eludes the body’s immune defenses.",
   "mechanism": "So what makes B. burgdorferi different from other bacteria? The answer, as Sherlock Holmes might put it, is elemental. Bacteria typically use iron to make enzymes that they need to grow and function. But scientists have found that Lyme disease-causing bacteria has evolved to substitute iron’s next-door neighbor on the periodic table: manganese.\n\nUnlike most bacteria, B. burgdorferi doesn’t need iron to grow. In standard detection tests, blood, urine, or other samples are cultured in labs to grow bacteria and reveal their presence. But iron-free B. burgdorferi doesn’t grow well in these tests and evades detection.\n\nInstead, Lyme disease tests rely on detecting the presence of antibodies that the body makes to fight bacteria. But it can take a while to produce antibodies. They can also linger from older or different illnesses. So results from Lyme disease antibody tests aren’t very timely, accurate, or easy to interpret.\n\nThe Lyme disease-causing bacteria’s manganese substitution also helps it dodge immune system defense mechanisms. One such mechanism is that the body makes chemicals that inhibit the gut from absorbing iron and sending it into the bloodstream. That makes us anemic, which is why we feel tired and weak when we’re sick. But it also effectively starves most pathogens of the iron they need to build enzymes.\n\nBut not B. burgdorferi . It can continue to make enzymes with manganese instead of iron. Some of these enzymes protect them against another immune defense. The body bombards bacteria with superoxide radicals. These highly reactive molecules damage most bacteria. But B. burgdorferi makes manganese enzymes that neutralize superoxides.\n\nThe discovery opens new avenues to look for novel ways to detect and fight Lyme disease. Humans do not have manganese-containing enzymes. So any therapies that target those enzymes would be effective on B. burgdorferi and safe for people. Additionally, it shows an example of the advantage gained by an organism when it can swap out a resource that other organisms depend on and that is commonly targeted by both defensive and offensive processes.",
   "function_addressed": [
     "regulate cellular processes",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes",
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/lyme-disease-bacteria-hide-from-immune-defenses/",
-  "source_tier": "science_journalism",
   "keywords": [
     "lyme",
     "disease",
@@ -21,7 +24,5 @@
     "immune",
     "defenses"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

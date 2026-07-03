@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-vibration-firms-mud-nest-2",
   "organism_common": "Apostlebird",
-  "organism_scientific": "",
   "strategy_summary": "Apostlebirds, which are native to the woodlands of Australia, build large nests that can have walls up to 2.54 cm (1 in.) thick, weigh up to 2.3 kg (5 lb.), and be located as high as 15 m (50 ft.) above the ground. These nests are communally assembled out of mud and strengthened by grass, small sticks, fur, and…",
-  "mechanism": "A nest must be able to resist sudden and intense movements caused by wind or other forces, so the birds enhance its security with a vibration-construction technique. Apostlebirds vibrate the supportive materials as they assemble a nest, which liquefies the mud so that it can forge a close bond between the materials. These birds also create a solid base for the nest by wrapping the mud around a supporting branch.\n\nTamping of soil and mud is already a construction technique utilized by humans, such as in traditional tapia pisada buildings. By mimicking the techniques of the apostlebird, practitioners could bring out new or enhanced properties in their materials.\n\nThis strategy was co-contributed by EcoRise Youth Innovations",
+  "mechanism": "A nest must be able to resist sudden and intense movements caused by wind or other forces, so the birds enhance its security with a vibration-construction technique. Apostlebirds vibrate the supportive materials as they assemble a nest, which liquefies the mud so that it can forge a close bond between the materials. These birds also create a solid base for the nest by wrapping the mud around a supporting branch.\n\nTamping of soil and mud is already a construction technique utilized by humans, such as in traditional tapia pisada buildings. By mimicking the techniques of the apostlebird, practitioners could bring out new or enhanced properties in their materials.",
   "function_addressed": [
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/vibration-firms-mud-nest-2/",
-  "source_tier": "science_journalism",
   "keywords": [
     "vibration",
     "firms",
     "mud",
     "nest"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

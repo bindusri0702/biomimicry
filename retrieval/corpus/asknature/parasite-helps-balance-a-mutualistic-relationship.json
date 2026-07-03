@@ -1,26 +1,29 @@
 {
   "doc_id": "asn-parasite-helps-balance-a-mutualistic-relationship",
   "organism_common": "Fig wasp",
-  "organism_scientific": "",
   "strategy_summary": "Parasitic wasps increase fig tree production by placing limits on the mutualism between figs and fig wasps. Mutualism is cooperation between species that helps each of them survive.",
-  "mechanism": "Parasitic wasps increase fig tree production by placing limits on the mutualism between figs and fig wasps.\n\nMutualism is cooperation between species that helps each of them survive. One species provides something for the other and in exchange, receives something good in return. One example is the relationship between fig trees and fig wasps that has evolved for longer than 60 million years.\n\nIn any mutual relationship, there needs to be some way to maintain balance. Otherwise, one partner might take advantage of the other. In Australia, there is a species of fig tree that is pollinated by a specific wasp, known as a fig wasp.\n\nThe figs of the tree are sweet fruit full of small seeds. The flowers are tiny and found inside the fig, attached to the inside wall (see photo and illustration). As with any flowering plant, a fig can’t produce seeds without being pollinated. The tiny fig wasp pollinates the plant as it enters the fig. It spreads pollen around as it lays its eggs inside the flowers’ ovules. The eggs eventually grow into adult wasps and leave to pollinate other trees. However, the fig wasp doesn’t lay its eggs in all of the ovules, leaving some to grow into the seeds that crunch when you eat the fig.\n\nWhat keeps the fig wasp from laying eggs in all of the ovules? Another partner in this three-way mutualism is a parasitic wasp. It uses its long egg-laying tube to pierce the outside of the fig and lay its own eggs into the ovules with the fig wasps’ eggs (the red ovals in illustration). The parasitic wasps’ young then eat the young of the fig wasp. However, the egg-laying tube isn’t long enough to reach all of the ovules, just the ones closest to the surface. As a result, to escape the parasite, the fig wasp tends to lay most of its eggs in the “enemy-free zone” deepest inside the fig (the blue ovals in the illustration). This leaves the outer ones (yellow ovals) free to develop into seeds and create the next generation of trees.\n\nWhat can we learn from the mutualistic relationship between the fig tree, wasp and parasite? Sometimes, we need to rethink something we might automatically think of as “bad”, like parasitism. The parasitic wasp is an important member of this relationship. By limiting where the fig wasp lays its eggs, the parasite allows the fig tree to produce seeds to make the next generation of fig trees. This in turn benefits the fig wasp, as it has another generation of trees to pollinate and lay eggs for its young.\n\nFigure 1. (a,b) Schematic spatial stratification pattern of fig contents. (a) After entering figs, pollinator wasps prefer to lay their eggs in ovules close to the center of a fig, but pollinate flowers irrespective of their style lengths. Conversely, parasitoids lay eggs from the outside of figs and are more likely to attack hosts located in ovules nearer the fig wall. (b) After pollination and oviposition, galls of pollinator offspring are aggregated towards the center of the figs (blue ovules) and developing seeds and galls containing parasitoid larvae are mainly located nearer the fig wall (red ones parasitized, yellow ones turn into seeds).\n\nCross-section of a fig showing the flowers (red)",
+  "mechanism": "Parasitic wasps increase fig tree production by placing limits on the mutualism between figs and fig wasps.\n\nMutualism is cooperation between species that helps each of them survive. One species provides something for the other and in exchange, receives something good in return. One example is the relationship between fig trees and fig wasps that has evolved for longer than 60 million years.\n\nIn any mutual relationship, there needs to be some way to maintain balance. Otherwise, one partner might take advantage of the other. In Australia, there is a species of fig tree that is pollinated by a specific wasp, known as a fig wasp.\n\nThe figs of the tree are sweet fruit full of small seeds. The flowers are tiny and found inside the fig, attached to the inside wall. As with any flowering plant, a fig can’t produce seeds without being pollinated. The tiny fig wasp pollinates the plant as it enters the fig. It spreads pollen around as it lays its eggs inside the flowers’ ovules. The eggs eventually grow into adult wasps and leave to pollinate other trees. However, the fig wasp doesn’t lay its eggs in all of the ovules, leaving some to grow into the seeds that crunch when you eat the fig.\n\nWhat keeps the fig wasp from laying eggs in all of the ovules? Another partner in this three-way mutualism is a parasitic wasp. It uses its long egg-laying tube to pierce the outside of the fig and lay its own eggs into the ovules with the fig wasps’ eggs (the red ovals in illustration). The parasitic wasps’ young then eat the young of the fig wasp. However, the egg-laying tube isn’t long enough to reach all of the ovules, just the ones closest to the surface. As a result, to escape the parasite, the fig wasp tends to lay most of its eggs in the “enemy-free zone” deepest inside the fig (the blue ovals in the illustration). This leaves the outer ones (yellow ovals) free to develop into seeds and create the next generation of trees.\n\nWhat can we learn from the mutualistic relationship between the fig tree, wasp and parasite? Sometimes, we need to rethink something we might automatically think of as “bad”, like parasitism. The parasitic wasp is an important member of this relationship. By limiting where the fig wasp lays its eggs, the parasite allows the fig tree to produce seeds to make the next generation of fig trees. This in turn benefits the fig wasp, as it has another generation of trees to pollinate and lay eggs for its young.\n\nFigure 1. (a,b) Schematic spatial stratification pattern of fig contents. (a) After entering figs, pollinator wasps prefer to lay their eggs in ovules close to the center of a fig, but pollinate flowers irrespective of their style lengths. Conversely, parasitoids lay eggs from the outside of figs and are more likely to attack hosts located in ovules nearer the fig wall. (b) After pollination and oviposition, galls of pollinator offspring are aggregated towards the center of the figs (blue ovules) and developing seeds and galls containing parasitoid larvae are mainly located nearer the fig wall (red ones parasitized, yellow ones turn into seeds).\n\nCross-section of a fig showing the flowers (red)",
   "function_addressed": [
     "pollinate",
     "cooperate/compete between different species",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::between-different-species",
+    "protect-from-living-threats::animals",
+    "provide-ecosystem-services::pollinate"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "protect-from-living-threats",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/parasite-helps-balance-a-mutualistic-relationship/",
-  "source_tier": "science_journalism",
   "keywords": [
     "parasite",
     "balance",
     "mutualistic",
     "relationship"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

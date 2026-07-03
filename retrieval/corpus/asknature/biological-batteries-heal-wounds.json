@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-biological-batteries-heal-wounds",
   "organism_common": "Coxiellaceae",
-  "organism_scientific": "",
   "strategy_summary": "Cells in tissues foster wound healing by forming \"biological batteries\" that can generate an extracellular electric field. “Our daily routines would be impossible without the wonders of electricity.",
   "mechanism": "Cells in tissues foster wound healing by forming \"biological batteries\" that can generate an extracellular electric field.\n\n“Our daily routines would be impossible without the wonders of electricity. This also applies to the cells in our bodies, each of which generates internal mini-currents to carry out its functions. It is less well known that cells in tissues (for example in our skin) can team up to form ‘biological batteries’ that can generate current upon wounding of the tissue. Zhao et al. 1 now present evidence that this extracellular electric field is the driving force in wound healing, and they uncover signaling pathways that control this biological phenomenon.” (Vanhaesebroeck 2006:453)",
   "function_addressed": [
     "chemically generate flow of electrons (redox)"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "transform-convert-energy::chemically-generate-flow-of-electrons"
+  ],
+  "subgroup_keys": [
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/biological-batteries-heal-wounds/",
-  "source_tier": "science_journalism",
   "keywords": [
     "biological",
     "batteries",
     "heal",
     "wounds"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

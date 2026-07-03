@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-seeds-disperse-by-jet-action",
   "organism_common": "Expel Solids",
-  "organism_scientific": "",
   "strategy_summary": "Seeds of ice plants disperse by jet action using the energy of raindrops and moisture-sensitive capsules. “The present review describes the ombrohydrochoric dispersal syndrome in plants, i.e.",
   "mechanism": "Seeds of ice plants disperse by jet action using the energy of raindrops and moisture-sensitive capsules.\n\n“The present review describes the ombrohydrochoric dispersal syndrome in plants, i.e. seed expulsion by raindrops. There are two different ombrohydrochoric dispersal modes – dispersal by rain wash and by ballistic forces. Both have been reported from the understory of tropical and temperate forests, from wetlands and from deserts, and from numerous families and genera. A special form of ombrohydrochoric dispersal is the jet-action rain-operated seed dispersal mechanism which is restricted to the semi-desert ice plants, Aizoaceae, one of the major families of the angiosperms. Within this family, 98% of the species possess hygrochastic capsules with an ombrohydrochoric seed dispersal mechanism which in part are also responsible for the remarkable speciation burst and radiation. The highly complex capsules open when wet, and the seeds are expelled by a ‘jet action’ with the kinetic energy of raindrops. The halves of the covering membranes of a locule form a nozzle near the centre of the capsule which serves as a jet. Drops of water falling on the distal opening (after the locule has been filled with water) result in an explosive expulsion of water droplets and seeds through that jet. More seeds are dispersed further away from the capsule than in those capsule types without such a jet mechanism.” (Parolin 2007:511)\n\nParolin P. Ombrohydrochory: Rain-operated seed dispersal in plants – With special regard to jet-action dispersal in Aizoaceae. Flora 2006;201(7):511-518.",
   "function_addressed": [
     "expel solids",
     "disperse seeds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "expel::solids",
+    "provide-ecosystem-services::disperse-seeds"
+  ],
+  "subgroup_keys": [
+    "expel",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/seeds-disperse-by-jet-action/",
-  "source_tier": "science_journalism",
   "keywords": [
     "seeds",
     "disperse",
     "jet",
     "action"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

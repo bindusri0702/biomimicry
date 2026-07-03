@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-foot-bubbles-provide-dry-surface",
   "organism_common": "Leaf beetles",
-  "organism_scientific": "",
   "strategy_summary": "Air bubbles on the foot of the green dock beetle enhance foot grip by providing a dry area on underwater surfaces. Strongly adhesive oils secreted by microscopic hairs on the green dock beetle’s feet improve grip while the beetle is on land.",
-  "mechanism": "Air bubbles on the foot of the green dock beetle enhance foot grip by providing a dry area on underwater surfaces.\n\nStrongly adhesive oils secreted by microscopic hairs on the green dock beetle’s feet improve grip while the beetle is on land. However, these oils lose effectiveness when they are in contact with water. To compensate, the beetle traps air bubbles between these hairs to create a dry surface for the oils and hair to grip normally, enabling the beetle to walk or climb underwater.\n\nThis strategy was contributed by Rachel Major",
+  "mechanism": "Air bubbles on the foot of the green dock beetle enhance foot grip by providing a dry area on underwater surfaces.\n\nStrongly adhesive oils secreted by microscopic hairs on the green dock beetle’s feet improve grip while the beetle is on land. However, these oils lose effectiveness when they are in contact with water. To compensate, the beetle traps air bubbles between these hairs to create a dry surface for the oils and hair to grip normally, enabling the beetle to walk or climb underwater.",
   "function_addressed": [
     "move in/on liquids",
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/foot-bubbles-provide-dry-surface/",
-  "source_tier": "science_journalism",
   "keywords": [
     "foot",
     "bubbles",
@@ -20,7 +23,5 @@
     "dry",
     "surface"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-snout-is-strong-yet-flexible",
   "organism_common": "Acorn weevil",
-  "organism_scientific": "",
   "strategy_summary": "The slender snout that protrudes from the acorn weevil’s head may be more fantastic than a unicorn horn. It’s almost as long as the weevil’s 0.4-inch (1-cm) body, and it extends straight outward, then gradually curves 90 degrees downward.",
   "mechanism": "The secret lies in the complex composite material that the snout is made of. It consists of tough fibers of chitin embedded in a matrix of protein s. This material is arranged in thin layers that align like steps in a spiral staircase. Each layer’s outer edge is rotated slightly forward from the one below it, so that they cumulatively form a helix .\n\nIn general, the long fibers best withstand breaking when pressure comes at them from the direction parallel to their length. Their strength diminishes, and the risk of breaking mounts, when force comes in from other angles. But scientists think that a confluence of factors work together to keep the material strong and flexible. The small angle differences between adjacent layers, their tightly packed spacing, and the broad spectrum of fiber directions encircling it combine to absorb and distribute incoming force through many layers, so that no one layer bears the brunt of an impact.\n\nIn addition, the multi-sided, multi-angled helical structure ensures that any cracks that do form between layers will hit a wall and have to change directions, unable to propagate far along a path of least resistance. In the same way, any multiple tiny cracks that form will be stymied from coalescing into long, wide ruptures.\n\nThe thickness of the chitin fibers also plays a role in changing the materials’ properties. The more brittle outer layer of the snout, called the exocuticle, has fibers measuring nanometer s in diameter, while the inner layer, called the endocuticle, has fibers that are 1,000 times thicker, making it much stronger. The endocuticle gets progressively thicker down the length of the snout to fortify the areas where the snout must be able to bend under extreme pressure without breaking.\n\nIn general, the properties that make materials rigid and strong are the opposite of those that make materials flexible and fracture-resistant. Scientists are investigating the intricacies of weevil snout microstructure to design materials that optimally balance both properties in a variety of combinations that suit different uses.\n\nSuch materials would be a boon for a wide range of products, including ships, cars, airplanes, buildings, textiles, packaging, housewares, medical devices, and replacements for plastics—all of which must be strong, flexible, and unbreakable in the face of turbulence, pressure, earthquake shaking, and other forces that can bring them to a breaking point. They may also provide a less-polluting alternative for plastics.",
   "function_addressed": [
@@ -9,11 +8,15 @@
     "prevent fatigue",
     "prevent fracture/rupture"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::buckling",
+    "prevent-structural-failure::fatigue",
+    "prevent-structural-failure::fracture-rupture"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/snout-is-strong-yet-flexible/",
-  "source_tier": "science_journalism",
   "keywords": [
     "acorn",
     "weevil",
@@ -22,7 +25,5 @@
     "brink",
     "but"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

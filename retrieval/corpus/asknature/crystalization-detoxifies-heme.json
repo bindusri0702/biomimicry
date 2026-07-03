@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-crystalization-detoxifies-heme",
   "organism_common": "Plasmodium falciparum",
-  "organism_scientific": "",
   "strategy_summary": "The malaria parasite, Plasmodium falciparum, detoxifies heme generated from digestion of its host's blood by coalescing the toxin into a harmless crystal. Mosquitoes are responsible for spreading malaria, a protozoan disease that kills nearly one million people annually.",
-  "mechanism": "The malaria parasite, Plasmodium falciparum, detoxifies heme generated from digestion of its host's blood by coalescing the toxin into a harmless crystal.\n\nMosquitoes are responsible for spreading malaria, a protozoan disease that kills nearly one million people annually. But the risk actually runs both ways. That is, every time the mosquito bites its victim, it puts itself at risk from exposure to the iron-containing part of red blood cells, called heme, which is generated as a byproduct of blood digestion and toxic to the mosquito. The parasite, Plasmodium falciparum, sidesteps toxic exposure by binding free hemes together into an insoluble crystal structure. It does so by forming microscopic drops of oil into which free heme self assembles into crystal pairs (dimers) which then coalesce into non-toxic hemozoin crystals.\n\nImage: James D. Gathany / toggle icon",
+  "mechanism": "The malaria parasite, Plasmodium falciparum, detoxifies heme generated from digestion of its host's blood by coalescing the toxin into a harmless crystal.\n\nMosquitoes are responsible for spreading malaria, a protozoan disease that kills nearly one million people annually. But the risk actually runs both ways. That is, every time the mosquito bites its victim, it puts itself at risk from exposure to the iron-containing part of red blood cells, called heme, which is generated as a byproduct of blood digestion and toxic to the mosquito. The parasite, Plasmodium falciparum, sidesteps toxic exposure by binding free hemes together into an insoluble crystal structure. It does so by forming microscopic drops of oil into which free heme self assembles into crystal pairs (dimers) which then coalesce into non-toxic hemozoin crystals.",
   "function_addressed": [
     "protect from chemicals",
     "chemically assemble mineral crystals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::mineral-crystals",
+    "protect-from-non-living-threats::chemicals"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/crystalization-detoxifies-heme/",
-  "source_tier": "science_journalism",
   "keywords": [
     "crystalization",
     "detoxifies",
     "heme"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

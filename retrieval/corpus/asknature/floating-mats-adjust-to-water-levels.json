@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-floating-mats-adjust-to-water-levels",
   "organism_common": "Beaked sedge",
-  "organism_scientific": "",
-  "strategy_summary": "Floating mats of beaked sedge and other peatland plants aid survival in fluctuating water levels because they are held together and kept afloat by rootlike stems (rhizomes) of the plants. Image: Kristian Peters / Wikipedia / toggle icon  “Another way to cope with water table fluctuations is simply to follow the water…",
-  "mechanism": "Floating mats of beaked sedge and other peatland plants aid survival in fluctuating water levels because they are held together and kept afloat by rootlike stems (rhizomes) of the plants.\n\nImage: Kristian Peters / Wikipedia / toggle icon\n\n“Another way to cope with water table fluctuations is simply to follow the water surface. Floating mats are common features where fens border lakes. Such Schwingmoor or quaking mires often consist of a Sphagnum or brown moss cover, but are actually held together and kept afloat by the rhizomes of Carex rostrata, C. lasiocarpa, C. elata, Menyanthes trifoliata , and other species. Sometimes parts of the mat break loose, forming floating rafts. These may be transported by flooding or currents, and most plants are capable of establishing a root system once the raft has stranded.” (Rydin and Jeglum 2006:47)",
+  "strategy_summary": "Floating mats of beaked sedge and other peatland plants aid survival in fluctuating water levels because they are held together and kept afloat by rootlike stems (rhizomes) of the plants. “Another way to cope with water table fluctuations is simply to follow the water surface.",
+  "mechanism": "Floating mats of beaked sedge and other peatland plants aid survival in fluctuating water levels because they are held together and kept afloat by rootlike stems (rhizomes) of the plants.\n\n“Another way to cope with water table fluctuations is simply to follow the water surface. Floating mats are common features where fens border lakes. Such Schwingmoor or quaking mires often consist of a Sphagnum or brown moss cover, but are actually held together and kept afloat by the rhizomes of Carex rostrata, C. lasiocarpa, C. elata, Menyanthes trifoliata, and other species. Sometimes parts of the mat break loose, forming floating rafts. These may be transported by flooding or currents, and most plants are capable of establishing a root system once the raft has stranded.” (Rydin and Jeglum 2006:47)",
   "function_addressed": [
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/floating-mats-adjust-to-water-levels/",
-  "source_tier": "science_journalism",
   "keywords": [
     "floating",
     "mats",
@@ -19,7 +20,5 @@
     "water",
     "levels"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

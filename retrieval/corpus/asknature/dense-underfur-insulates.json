@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-dense-underfur-insulates",
   "organism_common": "Protect From Temperature",
-  "organism_scientific": "",
   "strategy_summary": "The coat of a reindeer insulates against polar cold with the help of dense underfur that traps air. Woodland Caribou, Stone Mountain Provincial Park, British Columbia  Woodland Caribou, Stone Mountain Provincial Park, British Columbia  Mountain Caribou (Male), Stone Mountain Provincial Park, British Columbia …",
   "mechanism": "The coat of a reindeer insulates against polar cold with the help of dense underfur that traps air.\n\nWoodland Caribou, Stone Mountain Provincial Park, British Columbia\n\nWoodland Caribou, Stone Mountain Provincial Park, British Columbia\n\nMountain Caribou (Male), Stone Mountain Provincial Park, British Columbia\n\n“Naturally, animals that live in polar regions have the warmest coats of all. The reindeer’s coat combines long, water-repelling guard hairs with an extremely dense underfur, deep-piled like a shag carpet.” (Foy and Oxford Scientific Films 1982:84)\n\n“The winter fur of adult reindeer consisted of thick guard hairs with air-filled cavities and an underfur of thin and woolen hairs…The density of guard hairs varied considerably and averaged 2000/cm 2 and 12 mm on the legs, 1000/cm 2 and 30 mm on the abdomen, and 1700/cm 2 and 30 mm on the back. The corresponding count on the back of calves was 3200/cm 2 and 10 mm…All hairs were wool-like and hollow…The thick underfur is very important, since it effectively prevents air movement within it and thus reduces heat dissipation…[T]he results suggest that the prime mechanism by which adult reindeer thermoregulate in a cold environment is insulation.” (Soppela et al. 1986:275, 277)",
   "function_addressed": [
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/dense-underfur-insulates/",
-  "source_tier": "science_journalism",
   "keywords": [
     "dense",
     "underfur",
     "insulates"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-lungs-efficiently-expel-air",
   "organism_common": "Distribute Gases",
-  "organism_scientific": "",
   "strategy_summary": "Lungs of whales efficiently expel air via powerful exhalations. “The mammals’ dependency on air for breathing must be considered a real handicap in water, but the whale has minimised the problem by breathing even more efficiently than most mammals.",
   "mechanism": "Lungs of whales efficiently expel air via powerful exhalations.\n\n“The mammals’ dependency on air for breathing must be considered a real handicap in water, but the whale has minimised the problem by breathing even more efficiently than most mammals. Man only clears about 15% of the air in his lungs with a normal breath. The whale, in one of its roaring, spouting exhalations, gets rid of about 90% of its spent air. As a result it only has to take a breath at very long intervals. It also has in its muscles a particularly high concentration of a substance called myoglobin, that enables it to store oxygen. It is this constituent that gives whale meat its characteristic dark colour. With the help of these techniques, the fin-back whale, for example, can dive to depth of 500 metres and swim for forty minutes without drawing breath.” (Attenborough 1979: 242)",
   "function_addressed": [
     "distribute gases",
     "expel gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::gases",
+    "expel::gases"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "expel"
+  ],
   "source_url": "https://asknature.org/strategy/lungs-efficiently-expel-air/",
-  "source_tier": "science_journalism",
   "keywords": [
     "lungs",
     "efficiently",
     "expel",
     "air"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

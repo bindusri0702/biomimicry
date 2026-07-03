@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-rough-hydrophobic-surface-allows-gas-exchange",
   "organism_common": "Lecanora conizaeoides lichen",
-  "organism_scientific": "",
   "strategy_summary": "Pores on lichen surface allow water to roll off it and gas to be exchanged under saturated conditions due to rough surface and hydrophobic compounds. This particular species of lichen utilizes hydrophobic interactions at its surface to avoid absorbing contaminated water (such as acid rain).",
   "mechanism": "Pores on lichen surface allow water to roll off it and gas to be exchanged under saturated conditions due to rough surface and hydrophobic compounds.\n\nThis particular species of lichen utilizes hydrophobic interactions at its surface to avoid absorbing contaminated water (such as acid rain). Most lichen are susceptible to airborne pollution because their “open structure and tendency to dry and re-hydrate in response to drought mean that alga and fungus are exposed to high quantities of unbuffered water” (Shirtcliffe et al. 2005: 1193). Lecanora conizaeoides have adapted to counter this through their rough structure and hydrophobic pores. Hydrophobic means “water-fearing,” in other words, these pores reject interaction with water molecules. The rough surface of the lichen creates unevenness. When rain falls, the water molecules sit upon the topmost part of the lichen’s rough, multi-layered surface. Below these top layers sit micropores that are coated in hydrophobic compounds. This design creates openings for gasses to come through while preventing clogging by water. So even when a large amount of water is present, the lichen is still exchanging gasses. Such gas exchange is important for photosynthetic processes, meaning that while other plants become waterlogged, these lichen are still photosynthesizing by allowing water to roll off their surface.",
   "function_addressed": [
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/rough-hydrophobic-surface-allows-gas-exchange/",
-  "source_tier": "science_journalism",
   "keywords": [
     "rough",
     "hydrophobic",
@@ -19,7 +20,5 @@
     "allows",
     "gas-exchange"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

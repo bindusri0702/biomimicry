@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-light-gathering-apparatus-adjusts-to-conditions",
   "organism_common": "Rhodospirillum photometricum",
-  "organism_scientific": "",
   "strategy_summary": "The light-gathering apparatus of purple bacteria adapts to varying light intensities by altering its configuration to optimize energy production and prevent damage. “ …’ [P]urple bacteria were recently found to adopt different cell designs depending on light intensity ‘ …  “Solar energy arrives at the cell in ‘drops’…",
   "mechanism": "The light-gathering apparatus of purple bacteria adapts to varying light intensities by altering its configuration to optimize energy production and prevent damage.\n\n“ …’ [P]urple bacteria were recently found to adopt different cell designs depending on light intensity ‘ …\n\n“Solar energy arrives at the cell in ‘drops’ of light called photons, which are captured by the light-gathering mechanism of bacteria present within a special structure called the photosynthetic membrane. Inside this membrane, light energy is converted into chemical energy to power all the functions of the cell. The photosynthetic apparatus has two light harvesting complexes. The first captures the photons and funnels them to the second, called the reaction center (RC), where the solar energy is converted to chemical energy. When the light reaches the RCs, they close for the time it takes the energy to be converted.\n\n“According to the study, purple bacteria adapt to different light intensities by changing the arrangement of the light harvesting mechanism, but not in the way one would think by intuition.\n\n“‘One might assume that the more light the cell receives, the more open reaction centers it has,’ says Johnson. ‘However, that is not always the case, because with each new generation, purple bacteria create a design that balances the need to maximize the number of photons trapped and converted to chemical energy, and the need to protect the cell from an oversupply of energy that could damage it.’ (Science Daily 2010)\n\nhttp://www.eurekalert.org/pub_releases/2010-05/uom-pit050310.php http://arxiv.org/PS_cache/arxiv/pdf/1003/1003.2443v1.pdf",
   "function_addressed": [
@@ -10,18 +9,24 @@
     "protect from light",
     "capture, absorb, or filter energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "capture-absorb-or-filter::energy",
+    "protect-from-non-living-threats::light",
+    "transform-convert-energy::chemical-energy"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "capture-absorb-or-filter",
+    "protect-from-non-living-threats",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/light-gathering-apparatus-adjusts-to-conditions/",
-  "source_tier": "science_journalism",
   "keywords": [
     "light-gathering",
     "apparatus",
     "adjusts",
     "conditions"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

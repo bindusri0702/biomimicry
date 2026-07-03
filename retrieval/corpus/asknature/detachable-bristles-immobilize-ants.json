@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-detachable-bristles-immobilize-ants",
   "organism_common": "Polyxenid millipede",
-  "organism_scientific": "",
   "strategy_summary": "Caudal tufts of bristles on the Polyxenid millipede immobilize predators (ants) because the detachable bristles have grappling hooks on the end and barbs along the shaft that promote entangling. “Unlike most millipedes, whose body surface is smooth, P.",
   "mechanism": "Caudal tufts of bristles on the Polyxenid millipede immobilize predators (ants) because the detachable bristles have grappling hooks on the end and barbs along the shaft that promote entangling.\n\n“Unlike most millipedes, whose body surface is smooth, P. fasciculatus is densely beset with bristles. These are neatly arranged in transverse rows along the back, and in sets of flower-like clusters along the flanks. Projecting from the rear and glistening conspicuously in the light was a tuft of bristles much finer than those on the body. There appeared to be something special about that tuft, in that the animal seemed to make use of it when provoked…the polyxenid’s caudal tuft is really a pair of tufts, which the animal usually holds closely appressed. The tufts’ bristles are slender, and consist individually of a shaft densely beset with barbs and a tip fashioned as a grappling hook. The bristles are loosely anchored. Give them the slightest tug and they detach.”\n\nThe authors then exposed ants to the millipedes and watched as the millipede swiped the tufts on the ants. The grappling hooks fastened to the ants’ hairs and thoroughly entangled them.\n\n“The bristle tips are the functional units that ensure that the bristles become anchored to the ant. As grappling hooks they become fastened to the hairs (setae) that project from the ant’s surface, with the result that the bristles are then torn from the tufts. Also of importance are the barbs that project from the bristle shafts, for these act as hooks by which the bristles become cross-linked. Fastened to one another, the detached bristles form a loose meshwork by which the ant is muzzled and its legs are strung together. The ant is literally tied up.” (Eisner 2003:106-107)",
   "function_addressed": [
@@ -9,18 +8,21 @@
     "capture, absorb, or filter organisms",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "capture-absorb-or-filter",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/detachable-bristles-immobilize-ants/",
-  "source_tier": "science_journalism",
   "keywords": [
     "detachable",
     "bristles",
     "immobilize",
     "ants"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-suckers-attach-to-roots-to-absorb-nutrients",
   "organism_common": "Scarlet synomorium",
-  "organism_scientific": "",
   "strategy_summary": "Suckers of the Maltese fungus attach to the roots of other plants to extract nutrients  “On top of a tiny pillar of rock standing in the sea just off the Maltese island of Gozo grows one of the rarest of all Mediterranean plants. It is called locally the Maltese fungus.",
   "mechanism": "Suckers of the Maltese fungus attach to the roots of other plants to extract nutrients\n\n“On top of a tiny pillar of rock standing in the sea just off the Maltese island of Gozo grows one of the rarest of all Mediterranean plants. It is called locally the Maltese fungus. In fact it is not a fungus but a true flowering plant. Most of its life is spent underground, drawing its nourishment from the roots of tamarisk or sea lavender. At this stage it consists of no more than a stem from which sprout the many suckers that attach it to the roots of its host.” (Attenborough 1995:234)",
   "function_addressed": [
     "attach permanently"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/suckers-attach-to-roots-to-absorb-nutrients/",
-  "source_tier": "science_journalism",
   "keywords": [
     "suckers",
     "attach",
@@ -19,7 +20,5 @@
     "absorb",
     "nutrients"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

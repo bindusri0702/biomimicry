@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-fiber-gives-toughness",
   "organism_common": "Bamboo",
-  "organism_scientific": "",
   "strategy_summary": "Fibers of bamboo and trees provide toughness by their simple structure of fiber-reinforced composites  Fish-pole bamboo  Fibers in stems of bamboo use materials efficiently because of their arrangement  “[I]t has been found that these natural biomaterials [bamboos and trees] have very reasonable structures which gives…",
   "mechanism": "Fibers of bamboo and trees provide toughness by their simple structure of fiber-reinforced composites\n\nFish-pole bamboo\n\nFibers in stems of bamboo use materials efficiently because of their arrangement\n\n“[I]t has been found that these natural biomaterials [bamboos and trees] have very reasonable structures which gives them many excellent properties, such as good carrying capacity, good toughness, self-healing, and so on. Furthermore, these biomaterials have very fine and special structures rather than complicated compositions…For example, trees and bamboos are typical long, fiber-reinforced composites. Their fibers have different sizes and arranged modes in structure so that they can display the optimal behaviors under tensile, bending, compressing stress and other applied load…So, the complicated and reasonable structure of natural biomaterials can give us an important insight into making better structure materials through biomimetic design.” (Wang et al. 2000:9)\n\nWang CA; Huang Y; Zan Q; Guo H; Cai S. 2000. Biomimetic structure design – a possible approach to change the brittleness of ceramics in nature. Materials Science and Engineering C 11(1):9-12.",
   "function_addressed": [
     "prevent fracture/rupture"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::fracture-rupture"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/fiber-gives-toughness/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fiber",
     "gives",
     "toughness"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

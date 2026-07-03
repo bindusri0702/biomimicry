@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-cellular-structure-allows-for-growth-under-extreme-pressure",
   "organism_common": "Aspergillus",
-  "organism_scientific": "",
   "strategy_summary": "The hyphae of Aspergillus ustus mold can function and grow at more than 1000 m below sea level by adopting a micro-spherical shape. Even though they are at home on dry land, Aspergillus ustus mold is also capable of living, growing, and reproducing under more than 1000 meters of water.",
   "mechanism": "The hyphae of Aspergillus ustus mold can function and grow at more than 1000 m below sea level by adopting a micro-spherical shape.\n\nEven though they are at home on dry land, Aspergillus ustus mold is also capable of living, growing, and reproducing under more than 1000 meters of water. Man-made machines have to be specially and painstakingly designed to function at those crushing depths, but Aspergillus ustus does so by adopting a micro-spheroid shape. Production and release of enzymes for breaking down their food functions well at these depths and cold temperatures as well.\n\nA VERY small selection of the total fungi obtained from a 1 in 100 dilution of one gram of soil. The Aspergillus ustus is second from left on the bottom row.",
   "function_addressed": [
     "manage compression"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/cellular-structure-allows-for-growth-under-extreme-pressure/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cellular",
     "structure",
@@ -20,7 +21,5 @@
     "under",
     "extreme"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

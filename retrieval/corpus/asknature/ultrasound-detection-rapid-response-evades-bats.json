@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-ultrasound-detection-rapid-response-evades-bats",
   "organism_common": "Mantids",
-  "organism_scientific": "",
   "strategy_summary": "It’s an eat-and-be-eaten world, and the budwing mantis (Parasphendale agrionina) does its part by foraging on butterflies, grasshoppers, and other insects roaming the savannas and dry forests of East Africa. Its habitat overlaps with that of the big brown bat (Eptesicus fuscus), which finds these gangly creatures…",
   "mechanism": "The strategic hearing starts with a single “ear” located on the upper part of the insect’s underside. Evolution has tuned it to preferentially pick up sound waves of 25–50 kilohertz—which is roughly the range of their bat-predator’s vocalizations.\n\nWhat to do with that heads-up? Many insects that can hear ultrasound, including other mantis species, respond by rapidly descending in a “power dive.” The budwing mantis does this, too. But when researchers tethered a mantis so they could observe the details of its maneuver, they discovered that it not only dives, but also rolls its head, flings out its front legs, arches its back, and alters its wingbeat.\n\nThis suite of actions is similar to what the budwing mantis does when it’s threatened on the ground. It’s a type of behavior, known as a startle response , that disrupts the focus of the predator long enough to give the prey a chance to escape.\n\nThe researchers speculate that the wild moves may retain the original function of startling and confusing the predator, or they might contribute to the effectiveness of the dive, or both.\n\nPossible applications for the ability to detect and respond to particular frequencies of sound include designing systems to avoid midair collisions, improving medical diagnostics, and navigating without visual cues.\n\nThe dive and startle responses, in turn, offer insights into eluding adversaries: A rapid change in direction is intuitively a good choice. And by studying the aerodynamics of the startle response, researchers may be able to develop flight patterns for planes, satellites, and other engineered devices to make them more energy efficient, better able to elude space junk, or more.",
   "function_addressed": [
@@ -10,11 +9,19 @@
     "sense sound and other vibrations from the environment",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "navigate::through-air",
+    "process-signals::respond-to-signals",
+    "protect-from-living-threats::animals",
+    "sense-signals-environmental-cues::sound-and-other-vibrations"
+  ],
+  "subgroup_keys": [
+    "navigate",
+    "process-signals",
+    "protect-from-living-threats",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/ultrasound-detection-rapid-response-evades-bats/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sounds",
     "trigger",
@@ -22,7 +29,5 @@
     "evasive",
     "maneuvers"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

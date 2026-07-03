@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-slime-enables-movement",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Nozzles underneath some bacteria eject slime to propel the organism forwards or backwards. “Gliding motion across surfaces, usually with slime–whether or not by the same scheme–occurs in procaryotic organisms (bacteria and their kin) as well.",
   "mechanism": "Nozzles underneath some bacteria eject slime to propel the organism forwards or backwards.\n\n“Gliding motion across surfaces, usually with slime–whether or not by the same scheme–occurs in procaryotic organisms (bacteria and their kin) as well. It’s based on either of two mechanisms. Bacteria are often covered with tiny hairs, pili; retraction of one type (designated IV) through their outer membranes can move them around. Alternatively, they can secrete carbohydrate slime rearward to get a push (Kaiser 2000; Merz and Forest 2002).” (Vogel 2003:450)",
   "function_addressed": [
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/slime-enables-movement/",
-  "source_tier": "science_journalism",
   "keywords": [
     "slime",
     "enables",
     "movement"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

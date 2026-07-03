@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-leaf-arrangement-collects-water",
   "organism_common": "Collospermum",
-  "organism_scientific": "",
-  "strategy_summary": "Leaves of Collospermum epiphytes capture water due to their fan-shaped arrangement. Image: Kahuroa / toggle icon  “Collospermums are more specialized as epiphytes…The form of the nests is similar to those of the astelias, but the leaves are different.",
-  "mechanism": "Leaves of Collospermum epiphytes capture water due to their fan-shaped arrangement.\n\nImage: Kahuroa / toggle icon\n\n“Collospermums are more specialized as epiphytes…The form of the nests is similar to those of the astelias, but the leaves are different. They are broadly rounded at the base and arranged in wide fans with enclosed spaces between them that function as water tanks…Roots grow upward into the tanks to absorb water, and it has been suggested that scales on the inner leaf surfaces may also absorb water after the fashion of the bromeliads, but this has not been proved.” (Dawson and Lucas 2005:39-41)",
+  "strategy_summary": "Leaves of Collospermum epiphytes capture water due to their fan-shaped arrangement. “Collospermums are more specialized as epiphytes…The form of the nests is similar to those of the astelias, but the leaves are different.",
+  "mechanism": "Leaves of Collospermum epiphytes capture water due to their fan-shaped arrangement.\n\n“Collospermums are more specialized as epiphytes…The form of the nests is similar to those of the astelias, but the leaves are different. They are broadly rounded at the base and arranged in wide fans with enclosed spaces between them that function as water tanks…Roots grow upward into the tanks to absorb water, and it has been suggested that scales on the inner leaf surfaces may also absorb water after the fashion of the bromeliads, but this has not been proved.” (Dawson and Lucas 2005:39-41)",
   "function_addressed": [
     "capture, absorb, or filter liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/leaf-arrangement-collects-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaf",
     "arrangement",
     "collects",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

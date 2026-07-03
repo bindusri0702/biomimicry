@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-web-absorbs-impacts",
   "organism_common": "Manage Impact",
-  "organism_scientific": "",
   "strategy_summary": "Webs of araneid spiders absorb impacts via microscopic engineering. “…spider webs owe their superior performance not just to the ultimate strength of the silk thread, but also from its nonlinear response to stress and its alignment within the geometry of the web.",
-  "mechanism": "Webs of araneid spiders absorb impacts via microscopic engineering.\n\n“…spider webs owe their superior performance not just to the ultimate strength of the silk thread, but also from its nonlinear response to stress and its alignment within the geometry of the web. The silk nanocrystals are a stacked arrangement with each layer dialed in a different direction. They are held together by weak hydrogen bonds that act together in the stack to resist external force.” (Zygote Quarterly)\n\nLearn more about hierarchical structures in spider webs, as well as other organisms, in Tom McKeag’s case study, “Little Things Multiply Up: Hierarchical Structures” on page 26 of Zygote Quarterly:\n\nImage: Tyron Francis / toggle icon Image: Mike Bitzenhofer / toggle icon right arrow right arrow",
+  "mechanism": "Webs of araneid spiders absorb impacts via microscopic engineering.\n\n“…spider webs owe their superior performance not just to the ultimate strength of the silk thread, but also from its nonlinear response to stress and its alignment within the geometry of the web. The silk nanocrystals are a stacked arrangement with each layer dialed in a different direction. They are held together by weak hydrogen bonds that act together in the stack to resist external force.” (Zygote Quarterly)\n\nLearn more about hierarchical structures in spider webs, as well as other organisms, in Tom McKeag’s case study, “Little Things Multiply Up: Hierarchical Structures” on page 26 of Zygote Quarterly:",
   "function_addressed": [
     "manage impact"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::impact"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/web-absorbs-impacts/",
-  "source_tier": "science_journalism",
   "keywords": [
     "web",
     "absorbs",
     "impacts"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

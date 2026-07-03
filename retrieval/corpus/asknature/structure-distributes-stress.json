@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-structure-distributes-stress",
   "organism_common": "Scots pine",
-  "organism_scientific": "",
   "strategy_summary": "Trunks and branches of trees withstand external stresses through load-adaptive growth. Trees and bones achieve an even distribution of mechanical tension through the efficient use of material and adaptive structural design, optimizing strength, resilience, and material for a wide variety of load conditions.",
-  "mechanism": "Trunks and branches of trees withstand external stresses through load-adaptive growth.\n\nTrees and bones achieve an even distribution of mechanical tension through the efficient use of material and adaptive structural design, optimizing strength, resilience, and material for a wide variety of load conditions. For example, to distribute stress uniformly, trees add wood to points of greatest mechanical load, while bones go a step further, removing material where it is not needed, lightweighting their structure for their dynamic workloads. At the scale of the cell, trees arrange fibers in the direction of the flow of force, or principal stress trajectories, to minimize shear stress. Engineers have incorporated these and other lessons learned from trees and bones into software design programs that optimize the weight and performance of fiber-composite materials. For example, car parts and entire cars designed with these principles have resulted in new vehicle designs that are as crash-safe as conventional cars, but up to 30% lighter.\n\nImage: Biomimicry Institute / Copyright © - All rights reserved toggle icon\n\nCollage of images relating to lightweighting\n\nThis tree has larger rings on the downwind side of the tree as a response to high winds in this area (Waterton Lake, Alberta, CA). The grasses in the photo are bent over from the high wind.\n\nPlants\n\nCellulose fibers in plant stems increase toughness by winding around tubes at an angle",
+  "mechanism": "Trunks and branches of trees withstand external stresses through load-adaptive growth.\n\nTrees and bones achieve an even distribution of mechanical tension through the efficient use of material and adaptive structural design, optimizing strength, resilience, and material for a wide variety of load conditions. For example, to distribute stress uniformly, trees add wood to points of greatest mechanical load, while bones go a step further, removing material where it is not needed, lightweighting their structure for their dynamic workloads. At the scale of the cell, trees arrange fibers in the direction of the flow of force, or principal stress trajectories, to minimize shear stress. Engineers have incorporated these and other lessons learned from trees and bones into software design programs that optimize the weight and performance of fiber-composite materials. For example, car parts and entire cars designed with these principles have resulted in new vehicle designs that are as crash-safe as conventional cars, but up to 30% lighter.\n\nCollage of images relating to lightweighting\n\nThis tree has larger rings on the downwind side of the tree as a response to high winds in this area (Waterton Lake, Alberta, CA). The grasses in the photo are bent over from the high wind.\n\nPlants\n\nCellulose fibers in plant stems increase toughness by winding around tubes at an angle",
   "function_addressed": [
     "manage tension",
     "manage compression",
     "manage shear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::shear",
+    "manage-structural-forces::tension"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/structure-distributes-stress/",
-  "source_tier": "science_journalism",
   "keywords": [
     "structure",
     "distributes",
     "stress"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

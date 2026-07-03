@@ -1,27 +1,32 @@
 {
   "doc_id": "asn-the-beetles-that-scatter-all-the-light",
   "organism_common": "White scarab beetles",
-  "organism_scientific": "",
   "strategy_summary": "Lady-bug polka dots, tiger stripes, and emerald green tree leaves are all examples of chemical pigmentation—when compounds absorb and reflect various wavelengths of light. But physical structures can also scatter light, revealing a rainbow of colors without chemicals.",
-  "mechanism": "Tiny elliptical scales cover a Cyphochilus beetle’s head, body, and legs, overlapping one another a bit like fish scales. Using powerful microscopes to study individual scales, scientists found they were made of randomly oriented filaments. Ironically, the disordered arrangement of these filaments (their lack of periodicity) causes white beetles to uniformly scatter all wavelengths of light. From chaos, comes order.\n\nWhiteness in nature is relatively rare. Although not known with certainty, in beetles, it’s believed to offer the same benefits as colors in other species. It signals health to potential mates, and helps them identify members of the same species. Some species of white beetles have been able to forage for longer durations under a hot sun, suggesting the color may also help regulate their temperatures.\n\nTitanium dioxide is the most widely used white colorant with applications in paint, paper, traffic stripes, sunscreen, toothpaste, food, and cosmetics. Not only is mining titanium dioxide harmful to the environment, but health regulators have designated that inhaling fine particles of the mineral is “possibly carcinogenic to humans.” Studying Cyphochilus beetles is helping us to “see the light,” inspiring white structural pigments that would avoid these pitfalls.",
+  "mechanism": "Tiny elliptical scales cover a Cyphochilus beetle’s head, body, and legs, overlapping one another a bit like fish scales. Using powerful microscopes to study individual scales, scientists found they were made of randomly oriented filaments. Ironically, the disordered arrangement of these filaments (their lack of periodicity) causes white beetles to uniformly scatter all wavelengths of light. From chaos, comes order.\n\nWhiteness in nature is relatively rare. Although not known with certainty, in beetles, it’s believed to offer the same benefits as colors in other species. It signals health to potential mates, and helps them identify members of the same species. Some species of white beetles have been able to forage for longer durations under a hot sun, suggesting the color may also help regulate their temperatures.\n\nWhen scientists compared relative whiteness in three beetle species, they found that Cyphochilus was the whitest, Calothyrza margaritifera came in second and Lepidiota stigma was least white (though still whiter than human teeth).\n\nThey probed further to find out how Cyphochilus beetles achieved such intense whiteness. It turns out their scales average about 30% empty volume between the filaments, which appears to be an ideal amount of space. When filaments are too close together, “optical crowding” causes clusters of them to scatter light as if each group were a large, single element, instead of many filaments functioning independently. Yet spreading filaments too far apart lowers the surface coverage, again reducing the scattering efficiency. Cyphochilus scale designs have evolved with just the right balance between these competing design elements to maximize their ability to scatter light.\n\nCalothyrza margaritifera and Lepidiota stigma measured less white because the filament spacing in their scales was not as optimized. Furthermore, both Cyphochilus and Lepidiota stigma benefited from overall rougher scale surfaces than Calothyrza margaritifera because this texturing heightens the scattering effect.\n\nTitanium dioxide is the most widely used white colorant with applications in paint, paper, traffic stripes, sunscreen, toothpaste, food, and cosmetics. Not only is mining titanium dioxide harmful to the environment, but health regulators have designated that inhaling fine particles of the mineral is “possibly carcinogenic to humans.” Studying Cyphochilus beetles is helping us to “see the light,” inspiring white structural pigments that would avoid these pitfalls.",
   "function_addressed": [
     "send light signals in the visible spectrum",
     "modify light/color",
     "protect from temperature",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "protect-from-living-threats::animals",
+    "protect-from-non-living-threats::temperature",
+    "send-signals::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "protect-from-living-threats",
+    "protect-from-non-living-threats",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/the-beetles-that-scatter-all-the-light/",
-  "source_tier": "science_journalism",
   "keywords": [
     "beetles",
     "scatter",
     "all",
     "light"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

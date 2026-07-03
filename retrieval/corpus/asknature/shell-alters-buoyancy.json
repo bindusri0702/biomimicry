@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-shell-alters-buoyancy",
   "organism_common": "Sea turtle",
-  "organism_scientific": "",
   "strategy_summary": "The shell of some sea turtles allows for different levels of buoyancy for juveniles and adults by changing shape. Green Turtle (Chelonia mydas) just hatched  1=<a href=http://en.wikipedia.org/wiki/Green_Sea_Turtle class=extiw title=w:Green Sea Turtle>w:Green Sea Turtle</a>, ''Chelonia mydas'' is basking on <a…",
   "mechanism": "The shell of some sea turtles allows for different levels of buoyancy for juveniles and adults by changing shape.\n\nGreen Turtle (Chelonia mydas) just hatched\n\n1=<a href=http://en.wikipedia.org/wiki/Green_Sea_Turtle class=extiw title=w:Green Sea Turtle>w:Green Sea Turtle</a>, ''Chelonia mydas'' is basking on <a href=http://en.wikipedia.org/wiki/Punaluu_Beach class=extiw title=w:Punaluu Beach>w:Punaluu Beach</a>\n\n[http://en.wikipedia.org/wiki/Green_sea_turtle Green turtle]\n\n“Sea turtles sometimes swim on the surface; Jeanette Wyneken tells me that the flared, V-shaped bottom is characteristic of buoyant baby sea turtles, which are obligatory surface swimmers. With maturity and the shift to submerged swimming, the hull shape changes to one more characteristic of submarines.” (Vogel 2003:116)",
   "function_addressed": [
     "move in/on liquids",
     "modify buoyancy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::buoyancy",
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/shell-alters-buoyancy/",
-  "source_tier": "science_journalism",
   "keywords": [
     "shell",
     "alters",
     "buoyancy"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

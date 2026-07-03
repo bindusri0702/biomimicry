@@ -1,20 +1,24 @@
 {
   "doc_id": "asn-forest-patches-as-nuclei-for-natural-regeneration",
   "organism_common": "Forest ecosystems",
-  "organism_scientific": "",
   "strategy_summary": "Across tropical and temperate landscapes, forests rarely regrow as a uniform green carpet. Instead, nature often begins the process of forest recovery in small islands of vegetation.",
-  "mechanism": "In nature, small patches of trees play a vital role in the recovery of forests. These clusters create shade, reducing temperatures and conserving moisture in the soil. Their leaves fall and enrich the ground beneath, improving soil fertility. Branches and trunks provide perches, nests, and shelter for birds, bats, and insects. Critically, many of these animals feed on fruits or carry seeds stuck to their bodies. When they visit the patches, they drop seeds into the surrounding land. Over time, seedlings germinate near these nuclei, growing into new patches of trees. Each patch acts like a magnet, pulling more seeds and animals toward it. As the patches grow and merge, they form a mosaic of vegetation that eventually closes into a continuous forest canopy. This process of forest expansion from small starting points is a powerful strategy by which forests heal themselves, turning empty spaces back into vibrant ecosystems.\n\nInspired by this natural pattern, humans have developed a restoration method called applied nucleation, which uses planted patches to jump-start forest recovery. Instead of planting trees uniformly across vast areas, people plant small, diverse clusters that attract animals and promote natural seed dispersal. This strategy can restore forests more quickly and at lower cost than traditional methods. Designers might also apply the nucleation principle in urban green spaces, agriculture, or degraded lands to create stepping stones for biodiversity. Nature teaches us that sometimes, the smallest patches can grow into entire forests.",
+  "mechanism": "In nature, small patches of trees play a vital role in the recovery of forests. These clusters create shade, reducing temperatures and conserving moisture in the soil. Their leaves fall and enrich the ground beneath, improving soil fertility. Branches and trunks provide perches, nests, and shelter for birds, bats, and insects. Critically, many of these animals feed on fruits or carry seeds stuck to their bodies. When they visit the patches, they drop seeds into the surrounding land. Over time, seedlings germinate near these nuclei, growing into new patches of trees. Each patch acts like a magnet, pulling more seeds and animals toward it. As the patches grow and merge, they form a mosaic of vegetation that eventually closes into a continuous forest canopy. This process of forest expansion from small starting points is a powerful strategy by which forests heal themselves, turning empty spaces back into vibrant ecosystems.\n\nInspired by this natural pattern, humans have developed a restoration method called applied nucleation, which uses planted patches to jump-start forest recovery. Instead of planting trees uniformly across vast areas, people plant small, diverse clusters that attract animals and promote natural seed dispersal. This strategy can restore forests more quickly and at lower cost than traditional methods. Designers might also apply the nucleation principle in urban green spaces, agriculture, or degraded lands to create stepping stones for biodiversity. Nature teaches us that sometimes, the smallest patches can grow into entire forests.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "biological control of populations, pests, diseases",
     "cycle nutrients",
     "disperse seeds",
     "control erosion and sediment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::biological-control-of-populations-pests-diseases",
+    "provide-ecosystem-services::control-erosion-and-sediment",
+    "provide-ecosystem-services::cycle-nutrients",
+    "provide-ecosystem-services::disperse-seeds"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/forest-patches-as-nuclei-for-natural-regeneration/",
-  "source_tier": "science_journalism",
   "keywords": [
     "forest",
     "patches",
@@ -23,7 +27,5 @@
     "natural",
     "regeneration"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

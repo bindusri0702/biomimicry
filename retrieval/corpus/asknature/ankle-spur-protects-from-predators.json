@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-ankle-spur-protects-from-predators",
   "organism_common": "Platypus",
-  "organism_scientific": "",
-  "strategy_summary": "The back legs of a male platypus provide defense against predators and other males via poisonous spurs. Image: E.",
-  "mechanism": "The back legs of a male platypus provide defense against predators and other males via poisonous spurs.\n\nImage: E. Lonnon / Wikimedia Commons / toggle icon Image: Pedro Lopez / toggle icon right arrow right arrow\n\n“One last peculiarity of the platypus is the sharp horny spur on the back feet of the males, through which poison from a poison gland inside the leg can be injected with a slashing kick. The spur is used in defence and against other males in contests, and the poison is strong enough to be dangerous to humans — not that many of them come into contact with platypuses.” (Foy and Oxford Scientific Films 1982:182)",
+  "strategy_summary": "The back legs of a male platypus provide defense against predators and other males via poisonous spurs. “One last peculiarity of the platypus is the sharp horny spur on the back feet of the males, through which poison from a poison gland inside the leg can be injected with a slashing kick.",
+  "mechanism": "The back legs of a male platypus provide defense against predators and other males via poisonous spurs.\n\n“One last peculiarity of the platypus is the sharp horny spur on the back feet of the males, through which poison from a poison gland inside the leg can be injected with a slashing kick. The spur is used in defence and against other males in contests, and the poison is strong enough to be dangerous to humans — not that many of them come into contact with platypuses.” (Foy and Oxford Scientific Films 1982:182)",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/ankle-spur-protects-from-predators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ankle",
     "spur",
     "protects",
     "predators"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

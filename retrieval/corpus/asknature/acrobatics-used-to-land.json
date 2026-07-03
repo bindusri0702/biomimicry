@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-acrobatics-used-to-land",
   "organism_common": "House fly",
-  "organism_scientific": "",
   "strategy_summary": "“A fly lands on a ceiling by flying up at an angle of about 45° with its front feet extended; as soon as contact is made the fly cartwheels over onto its other four feet.” (Foy and Oxford Scientific Films 1982:13)",
   "mechanism": "“A fly lands on a ceiling by flying up at an angle of about 45° with its front feet extended; as soon as contact is made the fly cartwheels over onto its other four feet.” (Foy and Oxford Scientific Films 1982:13)",
   "function_addressed": [
     "manage impact"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::impact"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/acrobatics-used-to-land/",
-  "source_tier": "science_journalism",
   "keywords": [
     "acrobatics",
     "used",
     "land"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

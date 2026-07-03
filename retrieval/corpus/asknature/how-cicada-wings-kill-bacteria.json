@@ -1,27 +1,32 @@
 {
   "doc_id": "asn-how-cicada-wings-kill-bacteria",
   "organism_common": "Cicadas",
-  "organism_scientific": "",
   "strategy_summary": "Every summer, annual cicadas emerge from underground all over the world, thickening the air with their distinctive clacking and rattling. Seventeen-year cicadas, which exist only in North America, slurp plant root sap beneath the ground for nearly two decades before surfacing and molting their shells to become…",
-  "mechanism": "In 2012, scientists observed that cicada wings kill several types of harmful bacteria, but it wasn’t immediately clear how it worked. Were the wings coated in an antibiotic? Was there a rapid immune response? Using powerful microscopes to get an extremely close view of the wings, the scientists observed tiny cone-shaped bumps called nanopillars covering both sides in a hexagonal arrangement.\n\nThey hypothesized it was actually the cones themselves that were killing the bacteria, and they used “the Midas touch” to prove it. They coated cicada wings with a super thin layer of gold to inhibit any biochemical reactions. When exposed to the gold-plated cicada wings, bacteria still died, proving there was no chemical killer—the unique nanopillar structures were directly responsible.\n\nTo understand how the cones kill bacteria, think of a bacterial cell like a water balloon. With a diameter several times larger than the distance between cones, one cell rests on many nanopillars. It’s tempting to think of these nanopillars as a bed of nails that simply pop the water balloon. However, in 2013, the same group of scientists developed a model that told a different story.\n\nFor centuries, the concept of bacterial infection went undiscovered, postponing the war we’d eventually wage against it. In the 1860s, French microbiologist Louis Pasteur kicked the battle off by finally proving that germs cause infection. Shortly after, he invented pasteurization to make some beverages safer to drink.\n\nJoseph Lister, a surgeon, quickly applied Pasteur’s work to hospitals, developing the first sterilizing technique to cleanse instruments, hands, and wounds with carbolic acid. Then in 1928, Scottish researcher Alexander Fleming accidentally discovered penicillin, sparking decades of antibiotic research.\n\nNow that some bacteria are developing resistance to antibiotics, we need to look to nature to help us discover new ways of fighting infection.\n\nCicada wing nanopillars may be the next weapon in our germ arsenal. Surgical instruments, biomedical implants, door handles, and food preparation surfaces might one day be coated with microscopic cones to kill bacteria before it can invade.",
+  "mechanism": "In 2012, scientists observed that cicada wings kill several types of harmful bacteria, but it wasn’t immediately clear how it worked. Were the wings coated in an antibiotic? Was there a rapid immune response? Using powerful microscopes to get an extremely close view of the wings, the scientists observed tiny cone-shaped bumps called nanopillars covering both sides in a hexagonal arrangement.\n\nThey hypothesized it was actually the cones themselves that were killing the bacteria, and they used “the Midas touch” to prove it. They coated cicada wings with a super thin layer of gold to inhibit any biochemical reactions. When exposed to the gold-plated cicada wings, bacteria still died, proving there was no chemical killer—the unique nanopillar structures were directly responsible.\n\nTo understand how the cones kill bacteria, think of a bacterial cell like a water balloon. With a diameter several times larger than the distance between cones, one cell rests on many nanopillars. It’s tempting to think of these nanopillars as a bed of nails that simply pop the water balloon. However, in 2013, the same group of scientists developed a model that told a different story.\n\nConsider what’s happening between just two of the cones. The water balloon would sag around both cones, while the membrane between would extend across the gap like a bridge. However, at the nanoscale, the cell membrane isn’t just sagging—it is physically attracted to the nanopillars’ surfaces, essentially sticking onto them. As the membrane adheres farther down on both cones, the membrane spanning between them stretches, eventually snapping like a rubber band.\n\nNow consider ruptures ripping between every pair of cones the cell touches—cytoplasmic guts spilling out of a shredded membrane spells bacterial death.\n\nThis mechanism is only effective on gram-negative bacteria—the type of bacteria that tends to cause infections. It doesn’t work on gram-positive bacteria, which tend to be beneficial “probiotic” bacteria. Instead of pliable water balloons, beneficial bacteria are more like hard-shelled eggs with rigid membranes. They are protected from the nanopillars’ rupturing effect because the physical forces that attract their membranes to the cone surfaces aren’t strong enough to overcome their stiffness.\n\nFor centuries, the concept of bacterial infection went undiscovered, postponing the war we’d eventually wage against it. In the 1860s, French microbiologist Louis Pasteur kicked the battle off by finally proving that germs cause infection. Shortly after, he invented pasteurization to make some beverages safer to drink.\n\nJoseph Lister, a surgeon, quickly applied Pasteur’s work to hospitals, developing the first sterilizing technique to cleanse instruments, hands, and wounds with carbolic acid. Then in 1928, Scottish researcher Alexander Fleming accidentally discovered penicillin, sparking decades of antibiotic research.\n\nNow that some bacteria are developing resistance to antibiotics, we need to look to nature to help us discover new ways of fighting infection.\n\nCicada wing nanopillars may be the next weapon in our germ arsenal. Surgical instruments, biomedical implants, door handles, and food preparation surfaces might one day be coated with microscopic cones to kill bacteria before it can invade.",
   "function_addressed": [
     "modify size/shape/mass/volume",
     "physically break down living materials",
     "protect from microbes",
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "modify-physical-state::size-shape-mass-volume",
+    "physically-break-down::living-materials",
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "modify-physical-state",
+    "physically-break-down",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/how-cicada-wings-kill-bacteria/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cicada",
     "wings",
     "kill",
     "bacteria"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

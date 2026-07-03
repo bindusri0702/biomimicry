@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-biochemical-pathways-enable-the-use-of-caffeine-as-a-feedstock",
   "organism_common": "Syntrophus aciditrophicus",
-  "organism_scientific": "",
   "strategy_summary": "The digestive process used by Pseudomonas putida bacteria break down caffeine and similar organic compounds using enzymes that cleave methyl groups. Caffeine is so common as a natural or added ingredient in beverages, food, and pharmaceuticals that its presence alone has been suggested as a valid marker for the…",
   "mechanism": "The digestive process used by Pseudomonas putida bacteria break down caffeine and similar organic compounds using enzymes that cleave methyl groups.\n\nCaffeine is so common as a natural or added ingredient in beverages, food, and pharmaceuticals that its presence alone has been suggested as a valid marker for the presence of untreated human sewage in water sources and soils. Caffeine itself, as well as similar compounds called methylxanthines, can cause soil sterilization at high concentrations. Organisms like Pseudomonas putida produce enzymes capable of digesting caffeine and other methylxanthines. Their waste product, uric acid, enters natural cycles that break uric acid down to carbon dioxide and ammonium salts.",
   "function_addressed": [
     "chemically break down organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/biochemical-pathways-enable-the-use-of-caffeine-as-a-feedstock/",
-  "source_tier": "science_journalism",
   "keywords": [
     "biochemical",
     "pathways",
@@ -19,7 +20,5 @@
     "caffeine",
     "feedstock"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

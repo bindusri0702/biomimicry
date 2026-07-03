@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-petals-peel-open",
   "organism_common": "Casablanca lily",
-  "organism_scientific": "",
   "strategy_summary": "In “A Flower Does Not Talk,” Zen monk, professor, and author Zenkei Shibayama wrote:  Silently a flower blooms,  In silence it falls away;  Yet here now, at this moment, at this place,  the whole of the flower, the whole of  the world is blooming. This is the talk of the flower, the truth  of the blossom:  The glory…",
-  "mechanism": "A young Asiatic lily bud is a green pod with three exterior sepals wrapped around three interior petals. Stiff midribs add structural support down the centers of both sepals and petals. At first, the bud is locked closed because sepal edges are tucked into grooves on the midribs of petals. Enough force has to be generated to break the seal open.\n\nWhile it’s true that flowers do not talk as Zenkei Shibayama noted, they still speak to us and have inspired masterworks of art throughout history. They can inspire science, too.\n\nThe way that flowers open might spur scientists to improve the manufacturing of protective or reflective coatings that are applied to complex surfaces. The field of robotics might mimic blooming to control minute, precise movements. Perhaps one day we’ll have intelligent, self-healing surfaces that use differential growth patterns to meld over wounds caused by erosion or corrosion. Imagine a future where skin cultures automatically wrap around the limbs of burn victims. What else might blooms inspire?",
+  "mechanism": "A young Asiatic lily bud is a green pod with three exterior sepals wrapped around three interior petals. Stiff midribs add structural support down the centers of both sepals and petals. At first, the bud is locked closed because sepal edges are tucked into grooves on the midribs of petals. Enough force has to be generated to break the seal open.\n\nScientists observed a young, green-budded lily stem immersed in water for 4.5 days. They marked the bud with black dots along its midribs and edges to monitor the relative rates that sepals and petals grew across various zones. During the first four days, the bud grew longer and fatter (and turned white), but it didn’t open. In the final hours, cellular growth strained against the interlocked sepal and petal folds, and the bud burst open like a kernel of popcorn.\n\nThe dots helped the scientists discover that individual sepals and petals grow unevenly, creating internal stress. Along the central midrib, petals and sepals lengthened consistently about 10% (as indicated by an even 10% spreading between the black dots along their lengths). But at the outer edges, growth varied. Near the base (closer to the stem), the edges lengthened by about 20%, while the edges near the tips grew as much as 50%. The scientists theorized that faster growth along the edges relative to the centers creates a stretching effect that’s directed from the middle outwards. The uneven strain wrinkles their edges and makes the petals and sepals want to bend. But they can’t bend until enough force builds up to overcome the petal-sepal lock. Eventually the bending force breaks the lock, and the petals curl backward freely.\n\nTo confirm their hypothesis, the researchers developed a mathematical model that incorporated similar differential growth rates along the center and edges of an elliptical shell. Their model showed nearly identical curling and edge rippling as that observed in the actual lily.\n\nWhile it’s true that flowers do not talk as Zenkei Shibayama noted, they still speak to us and have inspired masterworks of art throughout history. They can inspire science, too.\n\nThe way that flowers open might spur scientists to improve the manufacturing of protective or reflective coatings that are applied to complex surfaces. The field of robotics might mimic blooming to control minute, precise movements. Perhaps one day we’ll have intelligent, self-healing surfaces that use differential growth patterns to meld over wounds caused by erosion or corrosion. Imagine a future where skin cultures automatically wrap around the limbs of burn victims. What else might blooms inspire?",
   "function_addressed": [
     "modify size/shape/mass/volume",
     "modify position"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::position",
+    "modify-physical-state::size-shape-mass-volume"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/petals-peel-open/",
-  "source_tier": "science_journalism",
   "keywords": [
     "uneven",
     "growth",
@@ -21,7 +23,5 @@
     "burst",
     "open"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

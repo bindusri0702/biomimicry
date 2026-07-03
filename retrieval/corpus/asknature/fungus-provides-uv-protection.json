@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-fungus-provides-uv-protection",
   "organism_common": "Lichens",
-  "organism_scientific": "",
   "strategy_summary": "Lichens are extraordinary lifeforms—a true alliance between a fungus and a photosynthetic partner, usually a green alga or cyanobacterium. Together, they live on rock, bark, and soil in some of the harshest climates on Earth, from arctic tundra to sunbaked deserts.",
-  "mechanism": "The fungal component of a lichen, called the mycobiont , wraps around its photosynthetic partner like a protective shell. This fungal skin, called the upper cortex, is made of densely packed hyphae—threadlike fungal cells that form a tough, watertight barrier.\n\nWhat makes this layer special is its ability to block or absorb UV radiation before it can reach the delicate algal cells underneath. Scientific studies have shown that when this fungal layer is removed, the photobionts (the algae or cyanobacteria) suffer damage to their light-harvesting systems within minutes of UV exposure. But with the cortex intact, the algae continue photosynthesis unharmed—even under high doses of UV-B radiation.\n\nThis protective power comes from both structure and chemistry. The physical density of the hyphae means that very little UV light passes through. On top of that, many lichens produce UV-absorbing pigment s and compounds, such as melanin and parietin, which concentrate in the outer cortex. These natural sunscreens are highly effective at absorbing UV-A and UV-B light. For example, Xanthoria parietina produces bright orange parietin in its outer skin, acting like a pair of built-in sunglasses for the algae inside.\n\nIn some species, the fungal layer is so effective that no UV-B radiation reaches the photobionts at all. Compared to free-living algae, which suffer severe damage under UV light, algae protected by their fungal partner in a lichen show little or no change in function.\n\nThis natural partnership offers a powerful model for passive UV protection. Materials or coatings inspired by lichen fungi could lead to sustainable, non-toxic sun protection for human skin, electronics, textiles, or architectural surfaces. Rather than using synthetic chemicals, designers could explore using bio-based pigments or microstructured layers that mimic the dense fungal cortex.\n\nThe strategy also invites us to think more broadly. Lichens thrive in ecosystems where many species would struggle, not just because of what they do alone, but because of what they do together. Their success story is a reminder that mutual protection and shared roles can lead to resilience in extreme environments—a principle as useful in engineering as it is in ecology.",
+  "mechanism": "The fungal component of a lichen, called the mycobiont , wraps around its photosynthetic partner like a protective shell. This fungal skin, called the upper cortex, is made of densely packed hyphae—threadlike fungal cells that form a tough, watertight barrier.\n\nWhat makes this layer special is its ability to block or absorb UV radiation before it can reach the delicate algal cells underneath. Scientific studies have shown that when this fungal layer is removed, the photobionts (the algae or cyanobacteria) suffer damage to their light-harvesting systems within minutes of UV exposure. But with the cortex intact, the algae continue photosynthesis unharmed—even under high doses of UV-B radiation.\n\nThis protective power comes from both structure and chemistry. The physical density of the hyphae means that very little UV light passes through. On top of that, many lichens produce UV-absorbing pigment s and compounds, such as melanin and parietin, which concentrate in the outer cortex. These natural sunscreens are highly effective at absorbing UV-A and UV-B light. For example, Xanthoria parietina produces bright orange parietin in its outer skin, acting like a pair of built-in sunglasses for the algae inside.\n\nIn some species, the fungal layer is so effective that no UV-B radiation reaches the photobionts at all. Compared to free-living algae, which suffer severe damage under UV light, algae protected by their fungal partner in a lichen show little or no change in function.\n\nThis natural partnership offers a powerful model for passive UV protection. Materials or coatings inspired by lichen fungi could lead to sustainable, non-toxic sun protection for human skin, electronics, textiles, or architectural surfaces. Rather than using synthetic chemicals, designers could explore using bio-based pigments or microstructured layers that mimic the dense fungal cortex.\n\nThe strategy also invites us to think more broadly. Lichens thrive in ecosystems where many species would struggle, not just because of what they do alone, but because of what they do together. Their success story is a reminder that mutual protection and shared roles can lead to resilience in extreme environments—a principle as useful in engineering as it is in ecology.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "protect from light",
     "cooperate/compete between different species"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::between-different-species",
+    "protect-from-non-living-threats::light"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/fungus-provides-uv-protection/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fungus",
     "provides",
     "protection"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

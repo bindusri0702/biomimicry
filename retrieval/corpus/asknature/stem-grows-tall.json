@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-stem-grows-tall",
   "organism_common": "Regulate Reproduction or Growth",
-  "organism_scientific": "",
   "strategy_summary": "Stem of papaya grows tall because turgor pressure in cells is so high  Papaya plants can reach up to 12 meters in height and look like trees. However, they lack wood and are in fact some of the world’s largest herbs.",
   "mechanism": "Stem of papaya grows tall because turgor pressure in cells is so high\n\nPapaya plants can reach up to 12 meters in height and look like trees. However, they lack wood and are in fact some of the world’s largest herbs. Wood is how trees are able to withstand the forces required to grow so large, so how do papayas, which often grow in regions subject to frequent high winds, manage to stand tall without wood?\n\nThe answer is a mixture of factors. Papayas, like all large plants, have two sets of vessels responsible for transporting water up from the roots, and sugars down from the leaves. The two sets of vessels have very different physical characteristics and, in papayas, these work together to make a stronger stem. The phloem, which transports sugars down from the leaves, can withstand tension (stretching) forces, while the xylem, which transports water up from the roots, is able to withstand compression (squeezing).\n\nAs well as the pairing of xylem and phloem, papayas also use turgor pressure to grow so tall. Plant cells are like bags of water surrounded by a rigid box (the cell wall). If water is lost from the bag, the walls of the box can collapse, while if the wall breaks, the bag can be squashed. Together, however, the water-filled bag inside the cell wall is strong. This mechanism is how all herbaceous plants stand up and you can see it in the wilting of your house plants if you forget to water them. Turgor pressure is the water pressure inside the cell and wilting happens when plants suffering from drought cannot maintain sufficient turgor pressure and their cells collapse under the weight of the plant’s own tissues. In papayas, the turgor pressure is much higher than other plants (up to 1.25 MPa), enabling it to grow taller. It would be disastrous for a plant as large as a papaya to wilt, they preferentially protect the turgor pressure in their stems and instead drop their oldest leaves when subjected to drought.\n\nBut even this isn’t the whole story, and a combination of all these factors is needed to grow so tall. The xylem cells of papaya plants are full of water and it is here their high turgor pressure is most important. The xylem tubes are arranged in a hexagonal array in the middle of the stem, and the cells that make them up bulge out. This puts a constant stretching force on the phloem tubes that form the outer layer of the stem. In this way, the complementary properties of the xylem and phloem and the high turgor pressure of the cells inside the stem all work together, enabling papayas to achieve great heights.\n\nThe fluid filled cell presses against the strong cell wall generating a tough building block for plant tissue.",
   "function_addressed": [
     "regulate reproduction or growth"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/stem-grows-tall/",
-  "source_tier": "science_journalism",
   "keywords": [
     "stem",
     "grows",
     "tall"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,22 +1,21 @@
 {
   "doc_id": "asn-eggs-are-buoyant",
   "organism_common": "Fish",
-  "organism_scientific": "",
   "strategy_summary": "The eggs of many fish are buoyant due to the presence of discrete oil droplets within each egg. “These fish eggs, equally supported by water on all sides, have retained an almost pure spherical form, and so have the tiny oil droplets inside them, used to make the eggs buoyant.” (Foy and Oxford Scientific Films 1982:20)",
   "mechanism": "The eggs of many fish are buoyant due to the presence of discrete oil droplets within each egg.\n\n“These fish eggs, equally supported by water on all sides, have retained an almost pure spherical form, and so have the tiny oil droplets inside them, used to make the eggs buoyant.” (Foy and Oxford Scientific Films 1982:20)",
   "function_addressed": [
     "modify buoyancy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::buoyancy"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/eggs-are-buoyant/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eggs",
     "buoyant"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-optimizing-nest-spacing-aids-survival",
   "organism_common": "Eave swallow",
-  "organism_scientific": "",
   "strategy_summary": "Populations of cliff swallows survive in areas with limited breeding sites thanks to their colonial nesting behavior. Cliff swallow colony with birds peeking out of the entrances.",
   "mechanism": "Populations of cliff swallows survive in areas with limited breeding sites thanks to their colonial nesting behavior.\n\nCliff swallow colony with birds peeking out of the entrances.\n\nCliff swallow colony in a quarry in Aromas, California.\n\n“Also of importance in the evolution of colonial nesting are the spatial restrictions which narrowly specialized behavioral characteristics impose on a species. The specialization, whether inherent or traditional, which restricts nesting gulls and alcids to small islands so limits the number of usable breeding sites that procreation of the species depends on maximum utilization of the available space. A similar situation applies in the Cliff Swallow. The special environmental requirements for nesting in this bird include importantly a protected overhanging cliff, or cliff substitute, a source of mud of suitable quality for nest building, and an open foraging area. Sites containing all these essential features in close proximity were decidedly rare in North America before European settlement, and if each adequate site because of extensive territorial requirements could support only one pair of swallows, the dispersion would have been dangerously sparse for procreation and survival of the species. Any behavioral mutations which served to reduce the size of the defended territory around the nest and thus permit colonialism would, under such conditions, have survival value and be perpetuated.” (Emlen 1952:196)",
   "function_addressed": [
     "optimize shape/materials"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize"
+  ],
   "source_url": "https://asknature.org/strategy/optimizing-nest-spacing-aids-survival/",
-  "source_tier": "science_journalism",
   "keywords": [
     "optimizing",
     "nest",
@@ -19,7 +20,5 @@
     "aids",
     "survival"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

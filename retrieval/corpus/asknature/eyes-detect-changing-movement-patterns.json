@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-eyes-detect-changing-movement-patterns",
   "organism_common": "Queen scallop",
-  "organism_scientific": "",
   "strategy_summary": "The numerous simple eyes of the queen scallop detect changing patterns of movement using two retinas, one that responds to light and the other to darkness. ''Aequipecten opercularis''; marine bivalved shell commonly occurring in the North Sea.",
   "mechanism": "The numerous simple eyes of the queen scallop detect changing patterns of movement using two retinas, one that responds to light and the other to darkness.\n\n''Aequipecten opercularis''; marine bivalved shell commonly occurring in the North Sea.\n\nDigital StillCamera\n\n{{PAGENAME}}\n\nEyes of queen scallop, lined up like a string of jewels, detect light and movement.\n\n“The scallop is the record holder for sheer numbers of eyes. It may have from 50 to 200 simple eyes, strung along the edge of its mantle like a string of glistening beads.\n\n“The eyes of a queen scallop are dotted all around the edge of its mantle. The jewel-like effect is due to a reflecting layer or tapetum behind each eye. Scallop eyes contain two types of retina — one responds to light, the other to sudden darkness, such as the shadow cast by an approaching predator. The scallop probably cannot interpret shapes, but can detect changing patterns of movement, such as moving light-dark changes.” (Foy and Oxford Scientific Films 1982:118)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
   "function_addressed": [
     "sense light (visible spectrum) from the environment",
     "sense motion"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::light-visible-spectrum",
+    "sense-signals-environmental-cues::motion"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/eyes-detect-changing-movement-patterns/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eyes",
     "detect",
@@ -20,7 +22,5 @@
     "movement",
     "patterns"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

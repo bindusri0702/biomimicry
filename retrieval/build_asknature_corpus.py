@@ -19,7 +19,7 @@ import re
 import shutil
 from pathlib import Path
 
-from .base import tokenize
+from .base import clean_text, tokenize
 from .corpus import StrategyDoc
 from .function_keys import keys_for_labels
 
@@ -32,7 +32,46 @@ _STOP = {
     "the", "and", "for", "with", "that", "this", "from", "into", "are", "how",
     "via", "use", "uses", "using", "their", "its", "can", "help", "helps",
 }
-_LAST_UPDATED = re.compile(r"\s*Last Updated\b.*$", re.IGNORECASE | re.DOTALL)
+# Inline leaked page chrome. The negative lookahead anchors each credit to its
+# nearest "Image:" (so concatenated credits don't swallow the real sentence
+# between them) while still allowing colons inside the credit (URLs, doi:).
+_IMAGE_CREDIT = re.compile(
+    r"\s*Image:(?:(?!Image:|toggle icon).)*?toggle icon(?:\s*right arrow)*", re.IGNORECASE
+)
+_NAV_JUNK = re.compile(r"\s*(?:right arrow\s*){2,}", re.IGNORECASE)
+_PAREN_MEDIA = re.compile(
+    r"\s*\(\s*(?:see|view|watch|as seen in)[^)]*?"
+    r"\b(?:diagram|figure|illustration|image|images|photo|video|animation|structure|chart)\b[^)]*?\)",
+    re.IGNORECASE,
+)
+# Trailing editorial attribution paragraph. "contributed by" occurs only in these
+# lines, so match the phrase directly (covers "co-contributed", "originally contributed").
+_CONTRIBUTED_BY = re.compile(r"\bcontributed by\b", re.IGNORECASE)
+
+
+def strip_boilerplate(text: str) -> str:
+    """Remove AskNature metadata / leaked chrome that is not strategy content:
+    image credits, parenthetical media refs, contributor attribution, and
+    'Last Updated' lines. Used by the corpus build and the standalone cleaner.
+
+    Returns the text unchanged when nothing matched, so callers never reflow
+    whitespace on files that have no boilerplate to remove."""
+    if not text:
+        return text
+    t = _IMAGE_CREDIT.sub("", text)
+    t = _NAV_JUNK.sub(" ", t)
+    t = _PAREN_MEDIA.sub("", t)
+    inline_removed = t != text
+    paras = [p.strip() for p in re.split(r"\n{2,}", t)]
+    kept = [p for p in paras
+            if p and not p.lower().startswith("last updated") and not _CONTRIBUTED_BY.search(p)]
+    dropped = len(kept) != len([p for p in paras if p])
+    if not inline_removed and not dropped:
+        return text
+    t = "\n\n".join(kept)
+    t = re.sub(r"[ \t]{2,}", " ", t)            # collapse spaces left by removals
+    t = re.sub(r" +([.,;:!?])", r"\1", t)        # fix " ." -> "."
+    return t.strip()
 
 
 def _slug_from_url(url: str, fallback: str) -> str:
@@ -41,8 +80,7 @@ def _slug_from_url(url: str, fallback: str) -> str:
 
 
 def _strip_boilerplate(text: str) -> str:
-    text = _LAST_UPDATED.sub("", text or "")
-    return text.strip()
+    return clean_text(strip_boilerplate(text)).strip()
 
 
 def _first_sentences(text: str, n: int = 2, cap: int = 320) -> str:

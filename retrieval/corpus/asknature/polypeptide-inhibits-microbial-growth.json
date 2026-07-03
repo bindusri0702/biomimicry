@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-polypeptide-inhibits-microbial-growth",
   "organism_common": "California seahare",
-  "organism_scientific": "",
   "strategy_summary": "The California sea hare inhibits microbial growth using escapin, a polypeptide. “Escapin’s antimicrobial effects, bacteriostasis and bactericidal, were determined using a combination of two assays: (1) incubation of bacteria on solid media followed by assessment of inhibition by direct observation of zones of…",
-  "mechanism": "The California sea hare inhibits microbial growth using escapin, a polypeptide.\n\n“Escapin’s antimicrobial effects, bacteriostasis and bactericidal, were determined using a combination of two assays: (1) incubation of bacteria on solid media followed by assessment of inhibition by direct observation of zones of inhibition or by turbidity measurements; and (2) incubation of bacteria in liquid media followed by counting viable colonies after growing on agar plates. Native escapin inhibited the growth of Gram-positive and Gram-negative bacteria, including marine bacteria ( Vibrio harveyii and Staphylococcus aureus ) and pathogenic bacteria ( Staphylococcus aureus , Streptococcus pyogenes and Pseudomonas aeruginosa ). Escapin also inhibited the growth of yeast and fungi, with different efficacies. Escapin’s antimicrobial activity was concentration dependent and did not decrease when stored for more than 5 months at room temperature. Escapin was bacteriostatic and not bactericidal in minimal media (e.g. salt media) with glucose , yeast extract, and a mixture of 20 amino acid s each at 50 µmol l -1 , but was bactericidal in media enriched with Tryptone Peptone. Escapin was also strongly bactericidal in media with L-lysine at concentrations as low as 3 mmol l -1 and slightly bactericidal in 50 mmol l -1 L-arginine, but not in most other amino acids even at 50 mmol l -1 . Escapin had high oxidase activity (producing hydrogen peroxide) with either L-arginine or L-lysine as a substrate and little to no oxidase activity with other L-amino acids. Hydrogen peroxide alone (without escapin or amino acids) was strongly bacteriostatic but poorly bactericidal, similar in this respect to L-arginine but different from L-lysine in the presence of escapin. Together these results suggest that there are multiple mechanisms to escapin’s antimicrobial effects, with bacteriostasis resulting largely or entirely from the effects of hydrogen peroxide produced by escapin’s LAAO activity, but bactericidal effects resulting from lysine-dependent mechanisms not directly involving hydrogen peroxide.” (Yang et al. 2005:3609)",
+  "mechanism": "The California sea hare inhibits microbial growth using escapin, a polypeptide.\n\n“Escapin’s antimicrobial effects, bacteriostasis and bactericidal, were determined using a combination of two assays: (1) incubation of bacteria on solid media followed by assessment of inhibition by direct observation of zones of inhibition or by turbidity measurements; and (2) incubation of bacteria in liquid media followed by counting viable colonies after growing on agar plates. Native escapin inhibited the growth of Gram-positive and Gram-negative bacteria, including marine bacteria ( Vibrio harveyii and Staphylococcus aureus ) and pathogenic bacteria ( Staphylococcus aureus, Streptococcus pyogenes and Pseudomonas aeruginosa ). Escapin also inhibited the growth of yeast and fungi, with different efficacies. Escapin’s antimicrobial activity was concentration dependent and did not decrease when stored for more than 5 months at room temperature. Escapin was bacteriostatic and not bactericidal in minimal media (e.g. salt media) with glucose, yeast extract, and a mixture of 20 amino acid s each at 50 µmol l -1, but was bactericidal in media enriched with Tryptone Peptone. Escapin was also strongly bactericidal in media with L-lysine at concentrations as low as 3 mmol l -1 and slightly bactericidal in 50 mmol l -1 L-arginine, but not in most other amino acids even at 50 mmol l -1. Escapin had high oxidase activity (producing hydrogen peroxide) with either L-arginine or L-lysine as a substrate and little to no oxidase activity with other L-amino acids. Hydrogen peroxide alone (without escapin or amino acids) was strongly bacteriostatic but poorly bactericidal, similar in this respect to L-arginine but different from L-lysine in the presence of escapin. Together these results suggest that there are multiple mechanisms to escapin’s antimicrobial effects, with bacteriostasis resulting largely or entirely from the effects of hydrogen peroxide produced by escapin’s LAAO activity, but bactericidal effects resulting from lysine-dependent mechanisms not directly involving hydrogen peroxide.” (Yang et al. 2005:3609)",
   "function_addressed": [
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/polypeptide-inhibits-microbial-growth/",
-  "source_tier": "science_journalism",
   "keywords": [
     "polypeptide",
     "inhibits",
     "microbial",
     "growth"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

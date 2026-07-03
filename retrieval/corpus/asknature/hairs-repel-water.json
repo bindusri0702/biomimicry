@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-hairs-repel-water",
   "organism_common": "Manage Compression",
-  "organism_scientific": "",
   "strategy_summary": "Hairs of the cranefly repel water due to their microstructure and arrangement on wings and legs. “Water droplets placed on this insect’s [cranefly] wings will spontaneously roll off the surface.",
   "mechanism": "Hairs of the cranefly repel water due to their microstructure and arrangement on wings and legs.\n\n“Water droplets placed on this insect’s [cranefly] wings will spontaneously roll off the surface. In addition, the insect can stand on water bodies without its legs penetrating the water surface. The legs and wings of this insect possess thousands of tiny hairs with intricate surface topographies comprising a series of ridges running longitudinally along the long axis of the hair fibre. Here we demonstrate that this fine hair structure enhances the ability of the hairs to resist penetration into water bodies.” (Hu et al. 2011:915).",
   "function_addressed": [
@@ -10,17 +9,22 @@
     "protect from animals",
     "expel liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "expel::liquids",
+    "manage-structural-forces::compression",
+    "manage-structural-forces::impact",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "expel",
+    "manage-structural-forces",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/hairs-repel-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hairs",
     "repel",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-refugia-for-great-barrier-reef-improve-disaster-recovery",
   "organism_common": "Great Barrier Reef",
-  "organism_scientific": "",
   "strategy_summary": "The Great Barrier Reef, located just off Australia’s northeastern coast, is Earth’s largest coral reef system. It is home to 400 kinds of coral and thousands of other species.",
   "mechanism": "But when disaster strikes a reef, its neighbors can provide emergency aid to help restore it. Researchers say the best “rescue reefs,” known as refugia, have three important traits. First, historical patterns show they are less likely than others in the system to be inundated by warm water that leads to bleaching due to their location. Second, models of ocean currents suggest they are sufficiently connected by moving water to other reefs in the system during spawning season. This link helps coral larvae and other living things travel to and colonize the devastated areas to replenish them. Third, surveys show refugia are less likely than others to be infested with invasive crown-of-thorns starfish, whose larvae could travel to the injured reefs along with the desirable coral larvae.\n\nIn recent research, scientists mapped reefs that have each of these helpful traits. By combining the maps, they identified a few protected and connected areas. Each can serve as a seed for other parts of the Great Barrier Reef after they sustain injury. Keeping these refugia safe from damage such as development and pollution can boost the overall resilience of the Great Barrier Reef, scientists say.\n\nMany disturbed natural and human systems could benefit from this ecosystem approach to disaster recovery. Fire ravages forests. Floods destroy cities. Pandemics devastate economies. To use it, we must first identify likely threats to the system. Next, we should look for parts of the system that are less vulnerable to these threats. Does a forest contain isolated patches of trees that are less susceptible to fire? Is there high ground in a community that would be safe from a flood? Where are a city’s essential businesses that must operate through an emergency? Then we must work to protect these valuable assets from other sources of destruction, such as logging, urban blight or poor business practices. Identifying threats and safeguarding refuge areas that are particularly important to recovery will help the whole system thrive after adversity.",
   "function_addressed": [
@@ -10,18 +9,23 @@
     "manage disturbance in a community",
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-a-eco-system",
+    "coordinate::systems",
+    "provide-ecosystem-services::maintain-biodiversity",
+    "provide-ecosystem-services::manage-disturbance-in-a-community"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "coordinate",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/refugia-for-great-barrier-reef-improve-disaster-recovery/",
-  "source_tier": "science_journalism",
   "keywords": [
     "refugia",
     "improve",
     "disaster",
     "recovery"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,27 @@
 {
   "doc_id": "asn-light-helps-capture-insects",
   "organism_common": "New Zealand glowworm",
-  "organism_scientific": "",
-  "strategy_summary": "Special organs in glow worms help lure insects to their sticky silk threads using bioluminescence. “Before a short adult life as a gnat, larvae in the genus Arachnocampa spend months as carnivorous glowworms in caves or sheltered areas using light as a lure … a hungry New Zealand glowworm, Arachnocampa luminosa , lays…",
-  "mechanism": "Special organs in glow worms help lure insects to their sticky silk threads using bioluminescence.\n\n“Before a short adult life as a gnat, larvae in the genus Arachnocampa spend months as carnivorous glowworms in caves or sheltered areas using light as a lure … a hungry New Zealand glowworm, Arachnocampa luminosa , lays a trap. From its nest on a cave ceiling, the glowworm dangles several dozen ‘fishing lines,’ each studded with evenly spaced, sticky droplets of mucus. The worm then churns out bioluminescence from organs on its posterior, attracting passing insects. These duped bugs get snagged in the gummy threads, and the glowworm hauls in its catch.” (Hadhazy 2009)",
+  "strategy_summary": "Special organs in glow worms help lure insects to their sticky silk threads using bioluminescence. “Before a short adult life as a gnat, larvae in the genus Arachnocampa spend months as carnivorous glowworms in caves or sheltered areas using light as a lure … a hungry New Zealand glowworm, Arachnocampa luminosa, lays…",
+  "mechanism": "Special organs in glow worms help lure insects to their sticky silk threads using bioluminescence.\n\n“Before a short adult life as a gnat, larvae in the genus Arachnocampa spend months as carnivorous glowworms in caves or sheltered areas using light as a lure … a hungry New Zealand glowworm, Arachnocampa luminosa, lays a trap. From its nest on a cave ceiling, the glowworm dangles several dozen ‘fishing lines,’ each studded with evenly spaced, sticky droplets of mucus. The worm then churns out bioluminescence from organs on its posterior, attracting passing insects. These duped bugs get snagged in the gummy threads, and the glowworm hauls in its catch.” (Hadhazy 2009)",
   "function_addressed": [
     "send light signals in the visible spectrum",
     "transform radiant energy (light)",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::light-visible-spectrum",
+    "transform-convert-energy::radiant-energy-light"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "send-signals",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/light-helps-capture-insects/",
-  "source_tier": "science_journalism",
   "keywords": [
     "light",
     "capture",
     "insects"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

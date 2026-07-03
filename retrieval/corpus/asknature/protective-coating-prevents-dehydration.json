@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-protective-coating-prevents-dehydration",
   "organism_common": "Sea-wrack",
-  "organism_scientific": "",
   "strategy_summary": "Sea-wracks prevent dehydration when exposed to air by coating themselves with a protective mucus. “Where the coast is not muddy but rocky, trees cannot survive.",
   "mechanism": "Sea-wracks prevent dehydration when exposed to air by coating themselves with a protective mucus.\n\n“Where the coast is not muddy but rocky, trees cannot survive. They would soon be smashed by pounding waves. The only tactic here is to be flexible and ride the thrusts of the waves rather than resist them. And that is what the sea-wracks do. They are algae. Those that live between the tides have to take precautions against being dried out during their twice daily exposure to the air and they do so by covering themselves with a coat of mucus. It is this that makes them so slippery under foot. Some species develop gas-filled bladders in their fronds so that, as the tide sweeps in and out, they rise and fall and remain close to the surface within reach of the all-important light.” (Attenborough 1995:302)",
   "function_addressed": [
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/protective-coating-prevents-dehydration/",
-  "source_tier": "science_journalism",
   "keywords": [
     "protective",
     "coating",
     "prevents",
     "dehydration"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

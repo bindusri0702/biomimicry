@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-cocoon-lining-prevents-ice-crystals",
   "organism_common": "Butterflies and moths",
-  "organism_scientific": "",
   "strategy_summary": "Oral secretions in the cocoons of many moths prevent formation of ice crystals because they form a fine, dry, web-like lining. “An oral secretion lining (a spider-like thread) is essential in the cocoons of many moths overwintering in cold conditions: it prevents moisture from intruding and prevents the formations of…",
   "mechanism": "Oral secretions in the cocoons of many moths prevent formation of ice crystals because they form a fine, dry, web-like lining.\n\n“An oral secretion lining (a spider-like thread) is essential in the cocoons of many moths overwintering in cold conditions: it prevents moisture from intruding and prevents the formations of ice crystals, which would be lethal for the pupa…The cocoon may look rough and chunk-like but the interior surface is smoothly covered by web. This is most important for the cold-hardiness of the pupa. It overwinters in a supercooled state, and if a single ice crystal penetrates the skin, the animal freezes momentarily and dies. The fine and dry web prevents the formation of dangerous ice crystals.” (Pallasmaa 1995:37, 95)",
   "function_addressed": [
     "protect from ice"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::ice"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/cocoon-lining-prevents-ice-crystals/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cocoon",
     "lining",
@@ -19,7 +20,5 @@
     "ice",
     "crystals"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

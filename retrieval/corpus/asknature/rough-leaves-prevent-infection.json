@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-rough-leaves-prevent-infection",
   "organism_common": "Protect From Fungi",
-  "organism_scientific": "",
   "strategy_summary": "Rough leaves on mulberry plants prevent infection by confusing fungal spores after they germinate. Plants need to keep their air passages clear and healthy, just as animals do.",
-  "mechanism": "Rough leaves on mulberry plants prevent infection by confusing fungal spores after they germinate.\n\nPlants need to keep their air passages clear and healthy, just as animals do. Plants “breathe” by taking in air through holes (called stomata) on the surface of their leaves. These pores are often surrounded by raised ridges. Stomata are necessary for a plant to survive, but they are also a point of entry for potential pathogens—microorganisms that can cause disease. Fungi like powdery mildew and rusts use these holes to enter and infect leaves.\n\nAfter landing on a leaf, fungal spores germinate and put out thin thread-like tubes (called hyphae). These tubes explore the leaf’s surface looking for stomata. When the hyphae find a pore, they enter and fill it. From there they grow into the plant tissue, digesting and consuming it.\n\nHow do fungi find these pores? It turns out they respond to the texture of the leaf surface. Rusts recognize ridges on the plant surface and grow at right angles to them, increasing their chance of locating stomata, while powdery mildew recognizes the shape of special cells around the stomata and uses them as a cue.\n\nMulberry trees live in wet climates that can put plants at greater risk of infection by fungi. Some species of mulberry, however, have evolved unique texturing on their leaves. These surface patterns confuse fungal hyphae, masking the regular features that otherwise signal the presence of stomata.\n\nFungal hyphae cannot penetrate directly through the leaf surface that they land on and must enter through stomata. And hyphae can’t revert to spore form once they germinate. By masking their stomata, mulberry leaves cause fungal spores to exhaust their energy and die before they can find a way into the leaf for food.\n\nThe mulberry’s approach to protecting its stomata could inspire new ways of controlling fungal growth on other surfaces.\n\nImage: Morgane Rae / Copyright © - All rights reserved toggle icon Image: Jean-Pol Grandmont / CC BY - Creative Commons Attribution alone toggle icon Image: Norbert Nagel / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon right arrow right arrow",
+  "mechanism": "Rough leaves on mulberry plants prevent infection by confusing fungal spores after they germinate.\n\nPlants need to keep their air passages clear and healthy, just as animals do. Plants “breathe” by taking in air through holes (called stomata) on the surface of their leaves. These pores are often surrounded by raised ridges. Stomata are necessary for a plant to survive, but they are also a point of entry for potential pathogens—microorganisms that can cause disease. Fungi like powdery mildew and rusts use these holes to enter and infect leaves.\n\nAfter landing on a leaf, fungal spores germinate and put out thin thread-like tubes (called hyphae). These tubes explore the leaf’s surface looking for stomata. When the hyphae find a pore, they enter and fill it. From there they grow into the plant tissue, digesting and consuming it.\n\nHow do fungi find these pores? It turns out they respond to the texture of the leaf surface. Rusts recognize ridges on the plant surface and grow at right angles to them, increasing their chance of locating stomata, while powdery mildew recognizes the shape of special cells around the stomata and uses them as a cue.\n\nMulberry trees live in wet climates that can put plants at greater risk of infection by fungi. Some species of mulberry, however, have evolved unique texturing on their leaves. These surface patterns confuse fungal hyphae, masking the regular features that otherwise signal the presence of stomata.\n\nFungal hyphae cannot penetrate directly through the leaf surface that they land on and must enter through stomata. And hyphae can’t revert to spore form once they germinate. By masking their stomata, mulberry leaves cause fungal spores to exhaust their energy and die before they can find a way into the leaf for food.\n\nThe mulberry’s approach to protecting its stomata could inspire new ways of controlling fungal growth on other surfaces.",
   "function_addressed": [
     "protect from fungi"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::fungi"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/rough-leaves-prevent-infection/",
-  "source_tier": "science_journalism",
   "keywords": [
     "rough",
     "leaves",
     "prevent",
     "infection"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

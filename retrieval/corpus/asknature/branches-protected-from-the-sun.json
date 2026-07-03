@@ -1,24 +1,24 @@
 {
   "doc_id": "asn-branches-protected-from-the-sun",
   "organism_common": "Fan aloe",
-  "organism_scientific": "",
   "strategy_summary": "The branches of a quiver tree are protected from the heat of the sun by a reflective coating of white powder. “The quiver tree that grows in the Namib is a kind of aloe.",
   "mechanism": "The branches of a quiver tree are protected from the heat of the sun by a reflective coating of white powder.\n\n“The quiver tree that grows in the Namib is a kind of aloe. Like the rest of its family, it has thick succulent leaves growing in a rosette, but these are hoisted twenty feet in the air, each at the end of a stumpy branch. That in itself is a way of escaping the worst of the devastating heat and reducing the amount of moisture inevitably lost by evaporation from the surface of their leaves. The branches themselves are thickly covered in a fine white powder. That too helps in keeping cool for it reflects the sun’s heat instead of absorbing it…The branches and trunk are filled with a soft fibre that can hold a great quantity of water.” (Attenborough 1995:269)",
   "function_addressed": [
     "protect from light",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::light",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/branches-protected-from-the-sun/",
-  "source_tier": "science_journalism",
   "keywords": [
     "branches",
     "protected",
     "sun"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

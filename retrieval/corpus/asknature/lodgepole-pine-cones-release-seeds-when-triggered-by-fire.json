@@ -1,19 +1,24 @@
 {
   "doc_id": "asn-lodgepole-pine-cones-release-seeds-when-triggered-by-fire",
   "organism_common": "Lodgepole pine",
-  "organism_scientific": "",
   "strategy_summary": "Lodgepole pine (Pinus contorta) is a widespread and ecologically important tree native to western North America. It grows across a wide range of elevations and climates––from coastal forests to high mountain slopes––and plays a foundational role in many forest ecosystems.",
-  "mechanism": "These cones, called “serotinous”, do not open under normal conditions but instead remain sealed shut until exposed to the intense heat of a wildfire. This timing is crucial to the lodgepole pine’s life cycle. When fire clears a forest, these heat-sensitive cones open to release seeds directly onto the nutrient-rich ash bed, where sunlight is abundant and competition is temporarily reduced. In this way, fire becomes not just a destructive force, but a regenerative one—integral to the forest’s renewal.\n\nThe secret to the serotinous cone lies in its resin: a natural adhesive produced by the tree. This resin is a sticky, waterproof substance made up largely of organic compounds called terpenes. As the cones mature, specialized resin ducts within the cone tissues secrete resin between the scales. Once the resin hardens, it forms a strong, weather-resistant seal that prevents seed release. These resin ducts are present throughout the tree, including in the cones, needles, branches, and trunk.\n\nThe resin’s defining feature is its sensitivity to heat. It stays solid under normal temperatures but melts when exposed to high temperatures––typically between 45 and 60 degrees Celsius (113 to 140°F). This temperature is most often reached during wildfires, and when it is, the softened resin allows the cone scales to open, releasing seeds onto the cleared, nutrient-rich forest floor. This ensures that seed release is not random but perfectly timed to occur after fire, when competition is low and conditions are ideal for seedling survival.\n\nSerotiny is not uniform across all lodgepole pine populations. Trees in areas with frequent, high-intensity fires tend to have a greater proportion of serotinous cones, while those in regions with milder fire regimes may produce cones that open annually regardless of fire. This variability reflects a deep evolutionary relationship between fire and forest, in which the rhythm of burning shapes the reproductive strategies of the trees.\n\nThe lodgepole pine’s serotinous cones offer a model for designing systems that are passively responsive to environmental conditions. Their ability to remain sealed until triggered by heat suggests ways we could engineer materials or devices that stay dormant until needed––such as temperature-sensitive packaging, emergency equipment, or controlled-release systems. The fact that the resin is produced locally and works without external energy inputs also points to sustainable design principles: materials that self-activate in response to their environment, require no electricity, and rely on natural triggers to function. This strategy encourages us to consider timing, efficiency, and resourcefulness in how we design technologies that interact with dynamic or hazardous environments.",
+  "mechanism": "These cones, called “serotinous”, do not open under normal conditions but instead remain sealed shut until exposed to the intense heat of a wildfire. This timing is crucial to the lodgepole pine’s life cycle. When fire clears a forest, these heat-sensitive cones open to release seeds directly onto the nutrient-rich ash bed, where sunlight is abundant and competition is temporarily reduced. In this way, fire becomes not just a destructive force, but a regenerative one—integral to the forest’s renewal.\n\nThe secret to the serotinous cone lies in its resin: a natural adhesive produced by the tree. This resin is a sticky, waterproof substance made up largely of organic compounds called terpenes. As the cones mature, specialized resin ducts within the cone tissues secrete resin between the scales. Once the resin hardens, it forms a strong, weather-resistant seal that prevents seed release. These resin ducts are present throughout the tree, including in the cones, needles, branches, and trunk.\n\nThe resin’s defining feature is its sensitivity to heat. It stays solid under normal temperatures but melts when exposed to high temperatures––typically between 45 and 60 degrees Celsius (113 to 140°F). This temperature is most often reached during wildfires, and when it is, the softened resin allows the cone scales to open, releasing seeds onto the cleared, nutrient-rich forest floor. This ensures that seed release is not random but perfectly timed to occur after fire, when competition is low and conditions are ideal for seedling survival.\n\nSerotiny is not uniform across all lodgepole pine populations. Trees in areas with frequent, high-intensity fires tend to have a greater proportion of serotinous cones, while those in regions with milder fire regimes may produce cones that open annually regardless of fire. This variability reflects a deep evolutionary relationship between fire and forest, in which the rhythm of burning shapes the reproductive strategies of the trees.\n\nThe lodgepole pine’s serotinous cones offer a model for designing systems that are passively responsive to environmental conditions. Their ability to remain sealed until triggered by heat suggests ways we could engineer materials or devices that stay dormant until needed––such as temperature-sensitive packaging, emergency equipment, or controlled-release systems. The fact that the resin is produced locally and works without external energy inputs also points to sustainable design principles: materials that self-activate in response to their environment, require no electricity, and rely on natural triggers to function. This strategy encourages us to consider timing, efficiency, and resourcefulness in how we design technologies that interact with dynamic or hazardous environments.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "disperse seeds",
     "modify size/shape/mass/volume",
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "modify-physical-state::size-shape-mass-volume",
+    "provide-ecosystem-services::disperse-seeds"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "modify-physical-state",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/lodgepole-pine-cones-release-seeds-when-triggered-by-fire/",
-  "source_tier": "science_journalism",
   "keywords": [
     "lodgepole",
     "pine",
@@ -22,7 +27,5 @@
     "seeds",
     "when"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

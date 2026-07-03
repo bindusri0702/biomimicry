@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-seeds-are-dispersed-long-distances",
   "organism_common": "Sesame family",
-  "organism_scientific": "",
   "strategy_summary": "There is a group of plants ( Harpagophytum ) native to southern Africa that go by several colorful common names, including “grapple plant” and “devil’s claw.” As you can imagine, these plants have an arresting look to them: the ripened fruit resembles gnarled brown claws that point in all directions. Grapple plants…",
-  "mechanism": "The trick to hitching the right ride with an unsuspecting giant is in those hooks: they must be catchy enough to carry the fruit for a good while, but also loose enough that it will eventually fall off. If the seeds are lucky, they will be dropped off where the soil hasn’t been depleted of water and nutrients from an overgrowth of other plants.\n\nThe grapple plant’s fruit is perfectly structured to be stepped on, wedged into the creases of the sole of a giant foot, and dragged long distances without damaging the seeds inside. It has a strong, woody seed pod that looks like it has already been flattened from above. Pointing outwards from all around the center of the flattened fruit are curled arms, and on the curled arms are the smaller hooks that keep the fruit attached to whatever part of an animal comes into contact with it. The pod starts to split along its side when it’s ripe, so it doesn’t need to be forced open like other types of seed pods.\n\nThere is also a group of plants ( Proboscidea ) in North America that belong to the same family ( Pedaliaceae ) as Harpagophytum and are also called devil’s claw, but have hooks of a more slender, arching form. Currently, only cattle transport the seeds because the large grazing animals these plants once relied on no longer share the same landscape.\n\nSee Related Strategy\n\nSea fig\n\nThe seeds of many Mesembryanthemums are launched from their capsules for dispersal thanks to a valve mechanism that uses rainwater as a trigger.\n\nSeeds of ice plants disperse by jet action using the energy of raindrops and moisture-sensitive capsules.\n\nThe grapple plant has found a way to protect its seeds while also getting them transported long distances. Humans can take inspiration from the strength and form of the plant’s fruit for the design of products like shoe grips, grappling hooks, and fasteners for clothing. We might also think more broadly, and learn a thing or two from the plant’s method of timed release, or from the use it makes of existing transportation channels and energy expenditure to get where it needs to go.",
+  "mechanism": "The trick to hitching the right ride with an unsuspecting giant is in those hooks: they must be catchy enough to carry the fruit for a good while, but also loose enough that it will eventually fall off. If the seeds are lucky, they will be dropped off where the soil hasn’t been depleted of water and nutrients from an overgrowth of other plants.\n\nThe grapple plant’s fruit is perfectly structured to be stepped on, wedged into the creases of the sole of a giant foot, and dragged long distances without damaging the seeds inside. It has a strong, woody seed pod that looks like it has already been flattened from above. Pointing outwards from all around the center of the flattened fruit are curled arms, and on the curled arms are the smaller hooks that keep the fruit attached to whatever part of an animal comes into contact with it. The pod starts to split along its side when it’s ripe, so it doesn’t need to be forced open like other types of seed pods.\n\nThere is also a group of plants ( Proboscidea ) in North America that belong to the same family ( Pedaliaceae ) as Harpagophytum and are also called devil’s claw, but have hooks of a more slender, arching form. Currently, only cattle transport the seeds because the large grazing animals these plants once relied on no longer share the same landscape.\n\nSea fig\n\nThe seeds of many Mesembryanthemums are launched from their capsules for dispersal thanks to a valve mechanism that uses rainwater as a trigger.\n\nSeeds of ice plants disperse by jet action using the energy of raindrops and moisture-sensitive capsules.\n\nThe grapple plant has found a way to protect its seeds while also getting them transported long distances. Humans can take inspiration from the strength and form of the plant’s fruit for the design of products like shoe grips, grappling hooks, and fasteners for clothing. We might also think more broadly, and learn a thing or two from the plant’s method of timed release, or from the use it makes of existing transportation channels and energy expenditure to get where it needs to go.",
   "function_addressed": [
     "attach temporarily",
     "self-replicate"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "reproduce::self-replicate"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "reproduce"
+  ],
   "source_url": "https://asknature.org/strategy/seeds-are-dispersed-long-distances/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hooks",
     "grab",
@@ -20,7 +23,5 @@
     "fruit",
     "far"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

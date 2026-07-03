@@ -1,20 +1,25 @@
 {
   "doc_id": "asn-cone-photoreceptors-allow-for-specialized-vision",
   "organism_common": "European starling",
-  "organism_scientific": "",
   "strategy_summary": "The starling is a diurnal bird, meaning it is active during the day. Like many animals, the starling contains photoreceptors in the back of its eyes that allow it to see color, shape, and detail.",
-  "mechanism": "The starling is a diurnal bird, meaning it is active during the day. Like many animals, the starling contains photoreceptors in the back of its eyes that allow it to see color, shape, and detail. Yet unlike most animals, the starling has a distinct composition of photoreceptor types that make it capable of seeing heightened levels of detail, and UV light.\n\nPhotoreceptors are cells in the back of the eye that convert ambient light into electrical impulses. The electrical impulses then travel to the brain where color, shape, and detail are registered. There are two types of photoreceptors: rods and cones. Rods register general forms, and are optimized in darkness. They are more common in nocturnal species. Cones register color vision and fine detail, and are utilized in bright environments. They are more common in diurnal species.\n\nIn the starling, there are significantly more cones than rods making the starling better at seeing fine details. More significant, however, is that the types (or classes) of cones vary between the left and the right eye. This makes one eye more specialized for seeing the general features, and the other eye better seeing fine details.\n\nThere are two types of cones: single and double. Double cones are larger in size, and and absorb a wider range of wavelengths (light, in this case) than single cones. Single cones are divided into four classes that correspond to the maximum wavelength that can be absorbed. These are long wave sensitive (LWS), medium wave sensitive (MWS), short wave sensitive (SWS), and ultraviolet sensitive (UVS) cones.\n\nDouble cones are good at distinguishing between general shapes, but not good at distinguishing between individual colors and details. Single cones, on the other hand, absorb a smaller range of wavelengths but can distinguish more detail within the wavelengths they do absorb. For example, a double cone is like a box of markers with four colors (red, yellow, green, blue). You can draw an image, but there will not be a lot of detail. Now, if each color were in its own box of four varying hues (i.e., the red box contains maroon, burgundy, red, red-orange) the detail of the image would be far greater.\n\nWhat this creates is a specialized system of visualization. The right eye of the starling contains a greater amount of rods and double cones. These will be utilized for distinguishing movement, shape, and general color. The left eye contains more single cones that will be used to distinguish between complex hues, details, and UV frequencies.\n\nThis summary was contributed by Allie Miller.\n\nEuropean Starling, Cabin Lake Viewing Blinds, Deschutes National Forest, Near Fort Rock, Oregon\n\nEuropean Starling , Desert Botanical Gardens, Phoenix, Arizona",
+  "mechanism": "The starling is a diurnal bird, meaning it is active during the day. Like many animals, the starling contains photoreceptors in the back of its eyes that allow it to see color, shape, and detail. Yet unlike most animals, the starling has a distinct composition of photoreceptor types that make it capable of seeing heightened levels of detail, and UV light.\n\nPhotoreceptors are cells in the back of the eye that convert ambient light into electrical impulses. The electrical impulses then travel to the brain where color, shape, and detail are registered. There are two types of photoreceptors: rods and cones. Rods register general forms, and are optimized in darkness. They are more common in nocturnal species. Cones register color vision and fine detail, and are utilized in bright environments. They are more common in diurnal species.\n\nIn the starling, there are significantly more cones than rods making the starling better at seeing fine details. More significant, however, is that the types (or classes) of cones vary between the left and the right eye. This makes one eye more specialized for seeing the general features, and the other eye better seeing fine details.\n\nThere are two types of cones: single and double. Double cones are larger in size, and and absorb a wider range of wavelengths (light, in this case) than single cones. Single cones are divided into four classes that correspond to the maximum wavelength that can be absorbed. These are long wave sensitive (LWS), medium wave sensitive (MWS), short wave sensitive (SWS), and ultraviolet sensitive (UVS) cones.\n\nDouble cones are good at distinguishing between general shapes, but not good at distinguishing between individual colors and details. Single cones, on the other hand, absorb a smaller range of wavelengths but can distinguish more detail within the wavelengths they do absorb. For example, a double cone is like a box of markers with four colors (red, yellow, green, blue). You can draw an image, but there will not be a lot of detail. Now, if each color were in its own box of four varying hues (i.e., the red box contains maroon, burgundy, red, red-orange) the detail of the image would be far greater.\n\nWhat this creates is a specialized system of visualization. The right eye of the starling contains a greater amount of rods and double cones. These will be utilized for distinguishing movement, shape, and general color. The left eye contains more single cones that will be used to distinguish between complex hues, details, and UV frequencies.\n\nEuropean Starling, Cabin Lake Viewing Blinds, Deschutes National Forest, Near Fort Rock, Oregon\n\nEuropean Starling, Desert Botanical Gardens, Phoenix, Arizona",
   "function_addressed": [
     "transduce/convert signals",
     "sense shape and pattern in a living system",
     "sense light (non-visible spectrum) from the environment",
     "sense light (visible spectrum) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "process-signals::transduce-convert-signals",
+    "sense-signals-environmental-cues::light-non-visible-spectrum",
+    "sense-signals-environmental-cues::light-visible-spectrum",
+    "sense-signals-environmental-cues::shape-and-pattern"
+  ],
+  "subgroup_keys": [
+    "process-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/cone-photoreceptors-allow-for-specialized-vision/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cone",
     "photoreceptors",
@@ -22,7 +27,5 @@
     "specialized",
     "vision"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-hind-legs-amplify-power",
   "organism_common": "Grasshoppers",
-  "organism_scientific": "",
   "strategy_summary": "Imagine leaping over tall buildings in a single bound––for grasshoppers, that’s not comic-book heroics but sheer survival. These insects are real-life super-leapers, rocketing up to 20 times their body length in a single jump.",
-  "mechanism": "",
+  "mechanism": "Look at a grasshopper from the side, and you’ll notice its extra-long back legs folded along its body like a pair of jackknives. Each leg has two main parts:\n\nFemur (upper leg): the thick, sturdy “thigh” segment.\n\nFemur (upper leg): the thick, sturdy “thigh” segment.\n\nTibia (lower leg): the slender “shin” segment.\n\nTibia (lower leg): the slender “shin” segment.\n\nThe key jumping muscles are tucked inside the femur:\n\nExtensor tibiae muscle runs along the top and inside the femur. It straightens the knee (extends the tibia outward).\n\nExtensor tibiae muscle runs along the top and inside the femur. It straightens the knee (extends the tibia outward).\n\nFlexor tibiae muscle lies more on the bottom side of the femur. It bends the knee, pulling the tibia back in.\n\nFlexor tibiae muscle lies more on the bottom side of the femur. It bends the knee, pulling the tibia back in.\n\nDuring jumping, both muscles briefly contract at the same time (co-contraction), building up tension without movement. The flexor holds the tibia bent, while the extensor tries to straighten it.\n\nThe “semilunar process” (from the Latin for “half-moon”) is a stiff, crescent-shaped piece of exoskeleton found on each side of the knee joint (where the femur meets the tibia). Picture two little curved plates shaped like parentheses: ( ).\n\nLocation: They nestle just above the joint hinge, integrated into the back wall of the femur.\n\nLocation: They nestle just above the joint hinge, integrated into the back wall of the femur.\n\nMaterial: Made of highly elastic cuticle, a lightweight composite of chitin fibers, arranged to be stiff yet flexible.\n\nMaterial: Made of highly elastic cuticle, a lightweight composite of chitin fibers, arranged to be stiff yet flexible.\n\nFunction: As the extensor muscle tightens, it compresses these curved plates inward like squeezing a bent spring. The shape lets the semilunar processes deform elastically, storing potential energy — rather like bending a diving board.\n\nFunction: As the extensor muscle tightens, it compresses these curved plates inward like squeezing a bent spring. The shape lets the semilunar processes deform elastically, storing potential energy — rather like bending a diving board.\n\nOnce released, these “springs” snap back to their original shape in milliseconds, driving the tibia to extend violently outward. This produces the explosive power of the jump.\n\nMuscle alone can’t solve the speed-versus-strength problem:\n\nMammalian muscles produce high force but only slowly.\n\nMammalian muscles produce high force but only slowly.\n\nFor rapid, high-power movements, muscle power isn’t enough without extra help.\n\nFor rapid, high-power movements, muscle power isn’t enough without extra help.\n\nThe grasshopper’s catapult mechanism lets it load energy slowly into stiff structures and release it rapidly, achieving power outputs impossible for muscles alone.\n\nThe sudden “trigger” comes from the flexor tibiae muscle. While both flexor and extensor muscles are co-contracted, the flexor locks the tibia in a flexed position. A sudden neural signal causes the flexor to relax almost instantly:\n\nMotor neurons stop firing to the flexor.\n\nMotor neurons stop firing to the flexor.\n\nThe muscle goes slack.\n\nThe muscle goes slack.\n\nThere’s no longer anything opposing the extensor’s pull.\n\nThere’s no longer anything opposing the extensor’s pull.\n\nThis acts like flicking open a latch — the energy stored in the semilunar processes unleashes, accelerating the tibia outward.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "store energy",
     "transform mechanical energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "store::energy",
+    "transform-convert-energy::mechanical-energy"
+  ],
+  "subgroup_keys": [
+    "store",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/hind-legs-amplify-power/",
-  "source_tier": "science_journalism",
   "keywords": [
     "grasshoppers",
     "store",
@@ -21,7 +24,5 @@
     "super",
     "leaps"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

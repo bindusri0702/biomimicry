@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-biofilm-inhibiting-chemical-protects-surfaces",
   "organism_common": "Red algae",
-  "organism_scientific": "",
   "strategy_summary": "Red algae protects itself from bacterial infection by exuding compounds that inhibit biofilms. The red seaweed Delisea pulchra effectively avoids a broad spectrum of bacterial infections without breeding any bacterial resistance to its defensive chemistry.",
   "mechanism": "Red algae protects itself from bacterial infection by exuding compounds that inhibit biofilms.\n\nThe red seaweed Delisea pulchra effectively avoids a broad spectrum of bacterial infections without breeding any bacterial resistance to its defensive chemistry. Molecules known as furanones produced by the seaweed bind readily to the specific protein-covered bacterial receptor sites that receive the bacterial signaling molecules (N-acyl homoserine lactone) that normally induce surface colonization. This method of blocking bacterial communication effectively prevents bacteria from forming groups and becoming virulent, but does not physically kill them.\n\nBaby delisea in petri dish inhibiting mixed biofilm by exuding furanones.",
   "function_addressed": [
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/biofilm-inhibiting-chemical-protects-surfaces/",
-  "source_tier": "science_journalism",
   "keywords": [
     "biofilm-inhibiting",
     "chemical",
     "protects",
     "surfaces"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

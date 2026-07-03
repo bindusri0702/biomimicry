@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-bubbles-protect-against-predators",
   "organism_common": "Froghopper",
-  "organism_scientific": "",
-  "strategy_summary": "Spittle bugs hide from predators within a froth of bubbles they produce. Image: The Biomimicry Institute / toggle icon Image: The Biomimicry Institute / toggle icon Image: The Biomimicry Institute / toggle icon right arrow right arrow  “Bubbles are commonly encountered in nature, across many phyla and habitats—from…",
-  "mechanism": "Spittle bugs hide from predators within a froth of bubbles they produce.\n\nImage: The Biomimicry Institute / toggle icon Image: The Biomimicry Institute / toggle icon Image: The Biomimicry Institute / toggle icon right arrow right arrow\n\n“Bubbles are commonly encountered in nature, across many phyla and habitats—from the slimy protective bubbles of the spittle bugs to the bubble eggs of many water-loving vertebrates, including many species of fish and amphibians, particularly frogs. Bubbles serve as insulation, moisturizer, and protection from predators. Spittle bugs use recycled sap from grass stems converted to a soapy liquid that they pump into foamy bubbles using their tails…Frog eggs and spittle bug bubbles self-cushion when packed in an array and naturally leave little air amongst them. This is because nature’s bubbles join according to three principles of soap bubble geometry. First, a compound bubble consists of flat or smoothly curved surfaces joined together. Second, the surfaces meet in only two ways: either three surfaces merge along a curve (edge), or six surfaces at a vertex. Third, when surfaces come together at a curve, or curves and surfaces at a point, they do so at equal angles. These three principles allow bubbles to eliminate air space between their flexible membranes, thereby optimally packing spheres.” (Biomimicry Guild unpublished report)",
+  "strategy_summary": "Spittle bugs hide from predators within a froth of bubbles they produce. “Bubbles are commonly encountered in nature, across many phyla and habitats—from the slimy protective bubbles of the spittle bugs to the bubble eggs of many water-loving vertebrates, including many species of fish and amphibians, particularly…",
+  "mechanism": "Spittle bugs hide from predators within a froth of bubbles they produce.\n\n“Bubbles are commonly encountered in nature, across many phyla and habitats—from the slimy protective bubbles of the spittle bugs to the bubble eggs of many water-loving vertebrates, including many species of fish and amphibians, particularly frogs. Bubbles serve as insulation, moisturizer, and protection from predators. Spittle bugs use recycled sap from grass stems converted to a soapy liquid that they pump into foamy bubbles using their tails…Frog eggs and spittle bug bubbles self-cushion when packed in an array and naturally leave little air amongst them. This is because nature’s bubbles join according to three principles of soap bubble geometry. First, a compound bubble consists of flat or smoothly curved surfaces joined together. Second, the surfaces meet in only two ways: either three surfaces merge along a curve (edge), or six surfaces at a vertex. Third, when surfaces come together at a curve, or curves and surfaces at a point, they do so at equal angles. These three principles allow bubbles to eliminate air space between their flexible membranes, thereby optimally packing spheres.” (Biomimicry Guild unpublished report)",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/bubbles-protect-against-predators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bubbles",
     "protect",
     "against",
     "predators"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

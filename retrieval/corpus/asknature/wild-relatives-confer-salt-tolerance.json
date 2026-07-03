@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-wild-relatives-confer-salt-tolerance",
   "organism_common": "Halophytes",
-  "organism_scientific": "",
   "strategy_summary": "Salt tolerance evolved differently across plant species  Halophytes, or salt-tolerant plants, are found in a number of environments: seashores, mangrove swamps, salt marshes, and saline semi-deserts. As the amount of salt in agricultural soils increases, it’s important to understand how different plants cope with…",
-  "mechanism": "Salt tolerance evolved differently across plant species\n\nHalophytes, or salt-tolerant plants, are found in a number of environments: seashores, mangrove swamps, salt marshes, and saline semi-deserts. As the amount of salt in agricultural soils increases, it’s important to understand how different plants cope with salt, a mechanism known as salt tolerance.\n\nSome plants are much more tolerant of salt than others. Many of the crops we use in agriculture, such as wheat, rice, and corn, have a very low salt tolerance, although their wild relatives (non-domesticated species that are closely-related to food crops) are oftentimes much more tolerant. So, why haven’t food crops evolved to adopt this tolerance?\n\nIt is hypothesized that that salt tolerance is an “evolutionary labile” trait, which means that it is less correlated with other traits and therefore doesn’t face the same evolutionary “pressures” that would require it to be expressed in each generation. These traits often vary widely in how they are expressed between individuals and between related groups of organisms. Another way to think of labile traits is that they are not “locked in” within evolutionary lineages. Some examples of evolutionary labile traits are reproductive timing and migration timing. This is in contrast to non-labile traits, which are much more ‘constrained’ by evolution and are less likely to change, for example, leaf size and color.\n\nPreserving wild relatives of food crops allows us to study and understand how salt tolerance has evolved in different species. As sites of both public engagement and plant conservation, botanical gardens are working to educate the public on the value of conserving a variety of different plant species. You can learn more by reading this open-access chapter on Public Education and Outreach Opportunities for Crop Wild Relatives in North America , co-authored by UBC Botanical Garden’s Dr. Tara Moreau .\n\nAdapted from the UBC Botanical Garden “ Botany Photo of the Day “\n\nImage: Daniel Mosquin / Copyright © - All rights reserved toggle icon Image: Daniel Mosquin / Copyright © - All rights reserved toggle icon right arrow right arrow",
+  "mechanism": "Salt tolerance evolved differently across plant species\n\nHalophytes, or salt-tolerant plants, are found in a number of environments: seashores, mangrove swamps, salt marshes, and saline semi-deserts. As the amount of salt in agricultural soils increases, it’s important to understand how different plants cope with salt, a mechanism known as salt tolerance.\n\nSome plants are much more tolerant of salt than others. Many of the crops we use in agriculture, such as wheat, rice, and corn, have a very low salt tolerance, although their wild relatives (non-domesticated species that are closely-related to food crops) are oftentimes much more tolerant. So, why haven’t food crops evolved to adopt this tolerance?\n\nIt is hypothesized that that salt tolerance is an “evolutionary labile” trait, which means that it is less correlated with other traits and therefore doesn’t face the same evolutionary “pressures” that would require it to be expressed in each generation. These traits often vary widely in how they are expressed between individuals and between related groups of organisms. Another way to think of labile traits is that they are not “locked in” within evolutionary lineages. Some examples of evolutionary labile traits are reproductive timing and migration timing. This is in contrast to non-labile traits, which are much more ‘constrained’ by evolution and are less likely to change, for example, leaf size and color.\n\nPreserving wild relatives of food crops allows us to study and understand how salt tolerance has evolved in different species. As sites of both public engagement and plant conservation, botanical gardens are working to educate the public on the value of conserving a variety of different plant species. You can learn more by reading this open-access chapter on Public Education and Outreach Opportunities for Crop Wild Relatives in North America, co-authored by UBC Botanical Garden’s Dr. Tara Moreau.\n\nAdapted from the UBC Botanical Garden “ Botany Photo of the Day “",
   "function_addressed": [
     "protect from chemicals",
     "adapt phenotype"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-phenotype",
+    "protect-from-non-living-threats::chemicals"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/wild-relatives-confer-salt-tolerance/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wild",
     "relatives",
@@ -20,7 +23,5 @@
     "salt",
     "tolerance"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

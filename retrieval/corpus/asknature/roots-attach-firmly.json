@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-roots-attach-firmly",
   "organism_common": "English ivy",
-  "organism_scientific": "",
   "strategy_summary": "Roots of English ivy attach firmly to surfaces using a multi-step attachment strategy involving glue and shape-changing root hairs. English ivy can attach itself to nearly any surface using a strategy involving natural-forming glue and shape-changing root hairs.",
-  "mechanism": "Roots of English ivy attach firmly to surfaces using a multi-step attachment strategy involving glue and shape-changing root hairs.\n\nEnglish ivy can attach itself to nearly any surface using a strategy involving natural-forming glue and shape-changing root hairs. Along the underside of its stems, the ivy sprouts thin roots that can cling to small surface bumps on trees, rocks, and building plaster. Once the roots are in place, they secrete a glue-like substance to adhere to that location. As a final means for securing a tight hold, the root can change shape and scrunch itself into a tight spiral shape around its attachment point. These different stages of attachment can vary to enable the ivy to secure itself to a range of surfaces.\n\nThis strategy was co-contributed by EcoRise Youth Innovations\n\nImage: John Bebbington, Science and Plants for Schools / CC BY NC SA - Creative Commons Attribution + Noncommercial + ShareAlike toggle icon",
+  "mechanism": "Roots of English ivy attach firmly to surfaces using a multi-step attachment strategy involving glue and shape-changing root hairs.\n\nEnglish ivy can attach itself to nearly any surface using a strategy involving natural-forming glue and shape-changing root hairs. Along the underside of its stems, the ivy sprouts thin roots that can cling to small surface bumps on trees, rocks, and building plaster. Once the roots are in place, they secrete a glue-like substance to adhere to that location. As a final means for securing a tight hold, the root can change shape and scrunch itself into a tight spiral shape around its attachment point. These different stages of attachment can vary to enable the ivy to secure itself to a range of surfaces.",
   "function_addressed": [
     "attach permanently"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/roots-attach-firmly/",
-  "source_tier": "science_journalism",
   "keywords": [
     "roots",
     "attach",
     "firmly"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

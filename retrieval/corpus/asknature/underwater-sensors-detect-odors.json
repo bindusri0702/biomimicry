@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-underwater-sensors-detect-odors",
   "organism_common": "Caribbean spiny lobster",
-  "organism_scientific": "",
   "strategy_summary": "The Caribbean spiny lobster (Panulirus argus) lives in coral reef areas of the Atlantic Ocean, Caribbean Sea, and Gulf of Mexico. Also known as a rock lobster, the clawless crustacean has two long antennae used for defense.",
   "mechanism": "The antennules are covered in rows of hair-like receptors called aesthetascs that allow the lobster to detect chemical signals such as odors. The aesthetasc hairs are arranged in a zig-zag pattern. The antennule design works to trap odor molecules near the receptors. The lobster senses the environment by flicking its antennule down and up.\n\nBy studying a mechanical lobster programmed to flick real P. argusa antennules in an underwater dye flume, scientists observed how the flicking motion affected water flow. The aesthetasc hair arrangement works differently depending on how quickly the antennule moves through the water.\n\nWhen flicked quickly downward through a drifting underwater scent trail, the hair array acts like a sieve, allowing water to pass through the sense receptors all along the antennule, grabbing odor molecules from the turbulent water currents. On the slower upward flick, the antennule acts like a solid paddle as it returns to its starting position, holding on to the same sample it collected on the downstroke. This physical interaction gives the receptors the chance to read the specific patterns of odor concentration in the water captured at that moment in time and space.\n\nThough it’s unknown exactly which details the lobster uses to locate the odor source, it gathers information about the pattern in the wisps of odor. Each flick gives it a separate and distinct sample – a scent snapshot of its surroundings. As the scent picture changes with each new antennule flick, the lobster can learn more about the odor source.\n\nBecause of its delicate control abilities, biomedical scientists have already proposed using an antennule-like brush to capture and work with microscopic objects such as single cells.\n\nOn a larger scale, underwater sensors that detect by reading physical patterns could have applications in drones that search out chemicals, pollution, or weapons. Sensors that can interpret small disturbances might even help predict events such as earthquakes.",
   "function_addressed": [
     "capture, absorb, or filter chemical entities",
     "sense chemicals (odor, taste, etc.) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/underwater-sensors-detect-odors/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sensors",
     "trap",
     "underwater",
     "odors"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

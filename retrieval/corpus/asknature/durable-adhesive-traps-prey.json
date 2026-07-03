@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-durable-adhesive-traps-prey",
   "organism_common": "Flypaper plant",
-  "organism_scientific": "",
   "strategy_summary": "Traps of the flypaper plant capture prey via a super sticky, superbly water repellant, long lasting, adhesive. The adhesive substance produced by flypaper plants, Roridula gorgonias, is extremely sticky, long lasting, and water tolerant.",
-  "mechanism": "Traps of the flypaper plant capture prey via a super sticky, superbly water repellant, long lasting, adhesive.\n\nThe adhesive substance produced by flypaper plants, Roridula gorgonias, is extremely sticky, long lasting, and water tolerant. They remain hydrated and functionally adhesive even after prolonged exposure to dry environments. Flypaper plants also cultivate populations of symbiotic insects within its traps that must be able to resist the adhesive. The insect’s shells are uniformly coated with a specific type of grease rendering the adhesive powerless to trap them. Other insects tend to produce more patchy grease layers that leave room for the adhesive to stick to their exposed cuticle.\n\nImage: Alex Lomas / toggle icon",
+  "mechanism": "Traps of the flypaper plant capture prey via a super sticky, superbly water repellant, long lasting, adhesive.\n\nThe adhesive substance produced by flypaper plants, Roridula gorgonias, is extremely sticky, long lasting, and water tolerant. They remain hydrated and functionally adhesive even after prolonged exposure to dry environments. Flypaper plants also cultivate populations of symbiotic insects within its traps that must be able to resist the adhesive. The insect’s shells are uniformly coated with a specific type of grease rendering the adhesive powerless to trap them. Other insects tend to produce more patchy grease layers that leave room for the adhesive to stick to their exposed cuticle.",
   "function_addressed": [
     "attach permanently",
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently",
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/durable-adhesive-traps-prey/",
-  "source_tier": "science_journalism",
   "keywords": [
     "durable",
     "adhesive",
     "traps",
     "prey"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

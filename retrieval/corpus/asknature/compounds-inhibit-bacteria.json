@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-compounds-inhibit-bacteria",
   "organism_common": "Garden pea",
-  "organism_scientific": "",
   "strategy_summary": "Pea seedlings inhibit bacterial biofilm formation by exuding a unique chemical compound. “Recently, Bauer and colleagues showed that exudates from pea seedlings ( Pisum sativum ) and other plant sources (including the unicellular soil-freshwater alga, Chlamydomonas reinhardtii ) were found to contain a range of…",
   "mechanism": "Pea seedlings inhibit bacterial biofilm formation by exuding a unique chemical compound.\n\n“Recently, Bauer and colleagues showed that exudates from pea seedlings ( Pisum sativum ) and other plant sources (including the unicellular soil-freshwater alga, Chlamydomonas reinhardtii ) were found to contain a range of compounds that mimicked N-acyl-HSL signals in several bacterial reporter strains (reviewed in ref. 41). In some cases, these extracts inhibited quorum sensing dependent phenotypes, suggesting that the active compounds may have potential as quorum sensing-blockers. Although the chemical nature of the active mimic compounds is not (yet) known, they are apparently not N-acyl-HSL.” (Welch et al. 2005:201)",
   "function_addressed": [
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/compounds-inhibit-bacteria/",
-  "source_tier": "science_journalism",
   "keywords": [
     "compounds",
     "inhibit",
     "bacteria"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

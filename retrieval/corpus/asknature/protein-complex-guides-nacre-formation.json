@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-protein-complex-guides-nacre-formation",
   "organism_common": "Black-lip pearl shell",
-  "organism_scientific": "",
   "strategy_summary": "The protein, Pif, secreted by pearl oysters contributes to the strength and shape of the shell due to key amino acids that guide mineral crystal growth. Behind every hard, mineral crystalline material in nature, there’s a bevy of soft protein s guiding its formation and contributing to its strength and resilience.",
   "mechanism": "The protein, Pif, secreted by pearl oysters contributes to the strength and shape of the shell due to key amino acids that guide mineral crystal growth.\n\nBehind every hard, mineral crystalline material in nature, there’s a bevy of soft protein s guiding its formation and contributing to its strength and resilience. The hard calcium carbonate shells of oysters rely on a set of proteins that perform several key functions. They trigger dissolved calcium carbonate to crystallize out of solution, direct crystal growth into an ordered arrangement, and attach themselves to the crystals and each other to form a strongly bonded, properly shaped material. Although these proteins are made up of hundreds of amino acid building blocks, several amino acids appear to play major roles. Acidic amino acids, particularly aspartate, play a major role in crystal formation and binding protein and crystals together. Sulfur-containing amino acids, particularly cysteine, play a major role in binding proteins to each other to add strength and hold its shape.",
   "function_addressed": [
     "chemically assemble mineral crystals",
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::mineral-crystals",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/protein-complex-guides-nacre-formation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "protein",
     "complex",
@@ -20,7 +23,5 @@
     "nacre",
     "formation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

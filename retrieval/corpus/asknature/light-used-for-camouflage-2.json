@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-light-used-for-camouflage-2",
   "organism_common": "Velvet belly lantern shark",
-  "organism_scientific": "",
   "strategy_summary": "Light emitting organs on the underside of velvet belly lantern sharks help camouflage them via bioluminescent counterillumination. “Many midwater animals emit ventral light to hide their silhouette in the water column.",
   "mechanism": "Light emitting organs on the underside of velvet belly lantern sharks help camouflage them via bioluminescent counterillumination.\n\n“Many midwater animals emit ventral light to hide their silhouette in the water column. This phenomenon known as counterillumination typically requires fine control over light emission since it needs a luminescence that closely matches the properties of downwelling light (intensity, angular distribution and wavelength). Here we provide evidence that, although lacking complex structures of counterilluminating animals, the deepwater luminescent shark Etmopterus spinax could, in Norwegian fjords, efficiently cloak its silhouette from downwelling ambient light to remain hidden from predator and prey. This represents the first experimentally tested function of luminescence in a shark and illustrates how evolution can take different routes to converge on identical complex behavior.” (Claes et al. 2010:28)\n\nhttp://news.discovery.com/animals/sharks-invisible-light-luminescence.html http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6T8F-4YWBJSM-1&_user=10&_coverDate=05%2F31%2F2010&_rdoc=1&_fmt=high&_orig=search&_sort=d&",
   "function_addressed": [
@@ -10,17 +9,22 @@
     "protect from animals",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "protect-from-living-threats::animals",
+    "send-signals::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "modify-physical-state",
+    "protect-from-living-threats",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/light-used-for-camouflage-2/",
-  "source_tier": "science_journalism",
   "keywords": [
     "light",
     "used",
     "camouflage"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

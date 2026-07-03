@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-silk-threads-adhere-underwater",
   "organism_common": "Marine amphipod",
-  "organism_scientific": "",
   "strategy_summary": "Ducts on legs of a marine amphipod adhere to substrate due to release of fibrous, adhesive underwater threads. “The discovery of a novel silk production system in a marine amphipod provides insights into the wider potential of natural silks.",
   "mechanism": "Ducts on legs of a marine amphipod adhere to substrate due to release of fibrous, adhesive underwater threads.\n\n“The discovery of a novel silk production system in a marine amphipod provides insights into the wider potential of natural silks. The tube-building corophioid amphipod Crassicorophium bonellii produces from its legs fibrous, adhesive underwater threads that combine barnacle cement biology with aspects of spider silk thread extrusion spinning. We characterised the filamentous silk as a mixture of mucopolysaccharides and protein deriving from gland s representing two distinct types. The carbohydrate and protein silk secretion is dominated by complex β-sheet structures and a high content of charged amino acid residues. The filamentous secretion product exits the gland through a pore near the tip of the secretory leg after having moved through a duct, which subdivides into several small ductules all terminating in a spindle-shaped chamber. This chamber communicates with the exterior and may be considered the silk reservoir and processing/mixing space, in which the silk is mechanically and potentially chemically altered and becomes fibrous.” (Kronenberger 2011: 1)",
   "function_addressed": [
     "attach temporarily",
     "chemically assemble organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "chemically-assemble::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "chemically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/silk-threads-adhere-underwater/",
-  "source_tier": "science_journalism",
   "keywords": [
     "silk",
     "threads",
     "adhere",
     "underwater"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

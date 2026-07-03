@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-multiple-joints-allow-circular-movement",
   "organism_common": "Arthropods (Insects, Spiders, Crustaceans)",
-  "organism_scientific": "",
   "strategy_summary": "Limbs of crustaceans allow movement along several planes by clustering two or three joints on a limb, each working in a different direction. “The limbs, which are tubular and jointed, are operated by internal muscles.",
   "mechanism": "Limbs of crustaceans allow movement along several planes by clustering two or three joints on a limb, each working in a different direction.\n\n“The limbs, which are tubular and jointed, are operated by internal muscles. These extend from the end of one section, along its length, to a prong from the next section which projects across the joint. When the muscle contracts between these two attachment points, the limb hinges. Such joints can only move in one plane, but crustaceans deal with that limitation by grouping two or three on a limb, sometimes close together, each working in a different plane so that the end of the limb can move in a complete circle.” (Attenborough 1979:58)",
   "function_addressed": [
@@ -9,11 +8,16 @@
     "move in/through gases",
     "modify position"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::position",
+    "move::in-on-liquids",
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/multiple-joints-allow-circular-movement/",
-  "source_tier": "science_journalism",
   "keywords": [
     "multiple",
     "joints",
@@ -21,7 +25,5 @@
     "circular",
     "movement"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

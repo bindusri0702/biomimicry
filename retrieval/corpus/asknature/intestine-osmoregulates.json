@@ -1,22 +1,21 @@
 {
   "doc_id": "asn-intestine-osmoregulates",
   "organism_common": "Gulf toadfish",
-  "organism_scientific": "",
   "strategy_summary": "All animals need to maintain a balance of water and salts in their bodies in order to function properly. This is especially true for animals living in environments where the concentration of salts in the environment is different from the concentration inside the animal’s body.",
-  "mechanism": "The intestine of marine teleost fish osmoregulates in part due to Cl-/HCO3- exchange. This exchange helps to regulate the level of water in the intestine by exchanging chloride for bicarbonate.\n\nThe strategy used by the intestine of marine teleost fish to osmoregulate could be applied in a number of ways. For example, it could be used to help regulate the level of water in the human intestine. Additionally, this strategy could be used to help regulate the level",
+  "mechanism": "The intestine of marine teleost fish osmoregulates in part due to Cl-/HCO3- exchange. This exchange helps to regulate the level of water in the intestine by exchanging chloride for bicarbonate.\n\nThe strategy used by the intestine of marine teleost fish to osmoregulate could be applied in a number of ways. For example, it could be used to help regulate the level of water in the human intestine. Additionally, this strategy could be used to help regulate the level\n\n“Despite early reports of high HCO3 and CO3 concentrations in the gut fluid of marine teleosts, intestinal anion exchange was largely overlooked until recently. HCO3 − secretion occurs in the intestine of marine teleosts via Cl−/HCO3 − exchange across the apical membrane and contributes up to 50–70% to Cl−/fluid absorption. It is well documented that marine fish must drink seawater to combat diffusive water loss to a hyperosmotic environment. As imbibed seawater passes through the gut, Na+ and Cl− absorption occurs via Na+:Cl− and Na+:K+:2Cl− cotransporters, in addition to apical Cl−/HCO3− exchange. Water follows this salt absorption, leaving behind Mg2+ and SO4 − at concentrations often more than three times those of seawater. In contrast, HCO3 − is present in the gut of marine teleosts at values up to 50 times seawater levels as a result of apical Cl−/HCO3 – exchange within the intestine. Bicarbonate secretion may also play a role in calcium homeostasis , inhibiting intestinal Ca2+ absorption by precipitating CaCO3 which is subsequently excreted. Carbonate precipitation concomitantly promotes water absorption, lowering osmolality by removing Ca2+and CO3 2− from solution.” (Taylor et al. 2006:523)",
   "function_addressed": [
     "maintain homeostasis"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/intestine-osmoregulates/",
-  "source_tier": "science_journalism",
   "keywords": [
     "intestine",
     "osmoregulates"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

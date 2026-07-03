@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-wetting-agent-reduces-surface-tension",
   "organism_common": "Mammals",
-  "organism_scientific": "",
   "strategy_summary": "Alveoli in mammalian lungs manage surface tension through use of a wetting agent whose concentration varies with alveolar expansion. “The individual alveoli have somewhat the same problem as the pair of lungs–why doesn’t one alveolus expand to the point of explosion…before the others begin to inflate?…Lungs filled…",
   "mechanism": "Alveoli in mammalian lungs manage surface tension through use of a wetting agent whose concentration varies with alveolar expansion.\n\n“The individual alveoli have somewhat the same problem as the pair of lungs–why doesn’t one alveolus expand to the point of explosion…before the others begin to inflate?…Lungs filled with air take more force to inflate than do lungs deliberately filled with a salt solution. With air inside, the outward pressure difference across the alveolar walls must work against tissue and the surface tension of the layer of water inside the alveoli. The latter opposes the formation of additional air-water interface as the alveoli expand. The surface tension, though, is drastically reduced by a wetting agent secreted by cells in the alveolar walls. But, and here’s the trick, the effectiveness of the wetting agent depends on its concentration, which falls as the alveoli expand. Thus the force of surface tension rises sharply as an alveolus inflates, opposing further inflation. As a result of this wetting agent (or surfactant or detergent), the alveolar wall has a functionally curved stress-strain plot…and the requisite nonlinear elasticity.” (Vogel 2003:53)",
   "function_addressed": [
     "modify surface tension"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-chemical-electrical-state::surface-tension"
+  ],
+  "subgroup_keys": [
+    "modify-chemical-electrical-state"
+  ],
   "source_url": "https://asknature.org/strategy/wetting-agent-reduces-surface-tension/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wetting",
     "agent",
@@ -19,7 +20,5 @@
     "surface",
     "tension"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

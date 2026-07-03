@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-accordion-movement-propels-snakes-through-narrow-channels",
   "organism_common": "Snakes",
-  "organism_scientific": "",
   "strategy_summary": "Navigating swiftly through all sorts of difficult terrain, from scorching sand to rocky crevices, snakes have evolved extraordinarily specialized methods of locomotion—all, obviously, without the aid of any appendages whatsoever. Scientists are particularly interested in the technique snakes use to move through narrow…",
   "mechanism": "The word “concertina” refers to a small musical instrument akin to an accordion. It is an apt name for the motion described. In order to pass through a narrow canal, a snake will condense and extend itself continuously, like the movement of the bellows as a concertina player plays. First, the snake will extend its head along the canal, then bring a point on one side of its body, just behind its head, to one side of the wall; it then folds its body up so that another point on its other side slightly further back can press against the opposite wall, and another, and another. When the snake has three to five such anchor points, it moves its head forward again. The front points come off the wall, but the points further back hold the snake in place until a new hold can be created farther ahead.\n\nResearch has shown that friction is crucial to the functionality of this movement. If you were to run your finger down a snake from head to tail, it would feel quite smooth. The lack of friction in this direction allows for swift forward movement. The overlapping scales, however, create a jagged surface in the other direction. During the concertina movement, snakes actually dig their scales into the walls around them a bit, creating high resistance to backward movement, and allowing snakes to push themselves forward.\n\nThis simple combination of texture and movement has great potential for the field of exploratory robots. One possible context is in search-and-rescue missions where the passages through rubble created by a collapsed building are narrow, irregular, and unpredictable.\n\nMore applications are found in the field of bioengineering and medicine. One day we may very well go to the doctor for colonoscopy procedures, and have tiny snake-like robots get where they need to go while minimizing pain and damage to surrounding tissues.\n\nOn first thought, it might seem strange to associate snakes with medicine and healing, but think again. The ancient Greek “rod of Asclepius,” showing a snake wound around a staff was such a sign, and it mirrors a staff made by Moses to heal the Israelites in the book of Numbers. It continues to appear in the logo of the World Health Organization and many other medical groups around the world. Maybe our ancestors were onto something.",
   "function_addressed": [
@@ -9,11 +8,16 @@
     "modify size/shape/mass/volume",
     "modify position"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::position",
+    "modify-physical-state::size-shape-mass-volume",
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/accordion-movement-propels-snakes-through-narrow-channels/",
-  "source_tier": "science_journalism",
   "keywords": [
     "accordion",
     "technique",
@@ -22,7 +26,5 @@
     "movement",
     "through"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

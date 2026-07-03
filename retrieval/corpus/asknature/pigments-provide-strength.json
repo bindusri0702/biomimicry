@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-pigments-provide-strength",
   "organism_common": "Fungi",
-  "organism_scientific": "",
   "strategy_summary": "The hyphae of rock inhabiting fungi are strengthened and better able to grow in crevices due to melanin pigments. “Melanin pigmentation of rock-inhabiting fungi confers extra-mechanical strength to the hyphae that are then better able to grow into crevices (Dornieden et al., 1997; Sterflinger and Krumbein, 1997).”…",
   "mechanism": "The hyphae of rock inhabiting fungi are strengthened and better able to grow in crevices due to melanin pigments.\n\n“Melanin pigmentation of rock-inhabiting fungi confers extra-mechanical strength to the hyphae that are then better able to grow into crevices (Dornieden et al., 1997; Sterflinger and Krumbein, 1997).” (Gorbushina 2007:1619)",
   "function_addressed": [
     "attach permanently"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/pigments-provide-strength/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pigments",
     "provide",
     "strength"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

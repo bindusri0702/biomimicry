@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-swimbladder-retains-gases",
   "organism_common": "Ray-finned fishes",
-  "organism_scientific": "",
   "strategy_summary": "The gas gland found in the wall of swimbladders in some ray-finned fish keeps gases in the swimbladder from escaping into the blood by passing the blood through an \"exchanger.\"  “But the swimbladder must be filled from dissolved gases in the blood, and it must not lose gas through redissolution into the blood. So…",
   "mechanism": "The gas gland found in the wall of swimbladders in some ray-finned fish keeps gases in the swimbladder from escaping into the blood by passing the blood through an \"exchanger.\"\n\n“But the swimbladder must be filled from dissolved gases in the blood, and it must not lose gas through redissolution into the blood. So secretion of gas from blood into swimbladder faces a big barrier, and swimbladder gas will all too readily go into solution in the fish’s blood and thence out into the ocean. Two devices stand in the way. First, a layer in the swimbladder wall provides a very effective barrier to the passage of oxygen (Lapennas and Schmidt-Nielsen 1977). Second, blood leaving the so-called gas gland in the wall of the swimbladder passes through an exchanger (fig.5.2) in which blood leaving the swimbladder loses excess dissolved gas specifically to blood moving toward the swimbladder (Scholander 1954).” (Vogel 2003:99-100)",
   "function_addressed": [
     "store gases",
     "modify buoyancy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::buoyancy",
+    "store::gases"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/swimbladder-retains-gases/",
-  "source_tier": "science_journalism",
   "keywords": [
     "swimbladder",
     "retains",
     "gases"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-young-leaves-channel-water",
   "organism_common": "Fish-pole bamboo",
-  "organism_scientific": "",
   "strategy_summary": "Plants need carbon dioxide to carry out photosynthesis , and they take it in through pores in their leaves called stomata. When it rains, water can collect on leaves and block stomata, stalling photosynthesis.",
   "mechanism": "The young leaves of the fish-pole bamboo, Phyllostachys aurea, have strongly hydrophobic margins that cause water to form beads that roll easily across their surfaces. This “super-hydrophobicity” comes from epicuticular wax, which repels water chemically. The wax forms into countless needle-like plates that trap air between the surface of the leaf and the water droplet and minimize the contact area between the water and the surface, increasing repellency and preventing the drop from spreading. The mechanism is very similar to that used by the sacred lotus and, like the lotus, it makes the leaves self-cleaning, as rolling water droplets pick up and remove contaminating particles.\n\nThe bamboo leaves are particularly effective at directing water away because they have a central channel that is hydrophilic. The wax that coats the leaf surfaces in the channel is flat and has a slightly different chemical composition that makes water spread across the surface instead of forming beads. The concave shape of the leaf guides droplets from the margin to the central channel, where they collect and form a continuous flow down the leaf to its tip, where water drips harmlessly away.\n\nTexture-based approaches to water repellency (i.e., Lotus Effect ) are highly promising, but may not be as effective for applications in particularly humid conditions. The fish-pole bamboo’s strategy for hydrophobicity adds an additional dimension to texture-based water repellency that could prove helpful in the wettest environments.\n\nApplications include replacing chemical approaches and improving texture-based approaches to liquid repellency on clothing, upholstery, vehicles, buildings, solar panels, the inside of bottles, and other technological surfaces where repellency and dryness are valuable.",
   "function_addressed": [
     "distribute liquids",
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::liquids",
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/young-leaves-channel-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "young",
     "leaves",
     "channel",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

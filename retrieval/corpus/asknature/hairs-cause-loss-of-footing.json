@@ -1,24 +1,21 @@
 {
   "doc_id": "asn-hairs-cause-loss-of-footing",
   "organism_common": "Capture, Absorb, or Filter Organisms",
-  "organism_scientific": "",
   "strategy_summary": "The leaves of marsh pitchers guide insects into a water trap via long, slippery hairs. “The marsh pitcher’s trap is a very simple one.",
   "mechanism": "The leaves of marsh pitchers guide insects into a water trap via long, slippery hairs.\n\n“The marsh pitcher’s trap is a very simple one. Its foot-long leaves are curled lengthwise and joined at the margin to form a tall vertical tube. At the top, the tip of the midrib flares into a reddish-rimmed hood that carries a great number of nectar-producing glands. The abundant rains keep these trumpets filled with water. If they were topped up to the very brim, they might be so heavy that they would be in danger of bursting, or at any rate, toppling over. But this does not happen. The seam joining the margins of the leaf is not fastened along its entire length. It stops an inch or so below the upper rim and the resultant vertical slit acts as a safety overflow. One species has a ring of small holes encircling the tube a little below the upper margin and these too act as overflows if the water level gets too high.\n\n“Flies and mosquitoes, attracted by the sweet fragrance of the nectar, alight on the hood. As they explore the plant in search of more nectar, they tend to move down into the tube. But this is covered with long, slippery, downward-pointing hairs. Losing their grip, the insects slip downwards. That worsens their situation, for they descend to a section of the tube where the walls have no hairs at all but are smooth and waxy. Down they slide until they tumble into the water. Unable to get any purchase on the surrounding walls, they drown. Bacterial decay then dissolves the tiny corpses and the marsh pitcher absorbs the resulting soup.” (Attenborough 1995:74)",
   "function_addressed": [
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/hairs-cause-loss-of-footing/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hairs",
     "cause",
     "loss",
     "footing"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

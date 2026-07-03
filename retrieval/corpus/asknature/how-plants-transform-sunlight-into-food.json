@@ -1,20 +1,26 @@
 {
   "doc_id": "asn-how-plants-transform-sunlight-into-food",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "For the first half of Earth’s life to date, oxygen was all but absent from an atmosphere made mostly of nitrogen, carbon dioxide, and methane. The evolution of animals and life as we now know it owe everything to photosynthesis .",
-  "mechanism": "Photosynthesis occurs in special plant cells called chloroplast s, which are the type of cells found in leaves. A single chloroplast is like a bag filled with the main ingredients needed for photosynthesis. It has water soaked up from the plant’s roots, atmospheric carbon dioxide absorbed by the leaves, and chlorophyll contained in folded, maze-like organelles called thylakoid s.\n\nChlorophyll is the true catalyst of photosynthesis. Cyanobacteria, plankton, and land plants all rely on this light-sensitive molecule to spark the process.\n\nChlorophyll molecules are so bad at absorbing green light that they reflect it like tiny mirrors, causing our eyes to see most leaves as green. It’s usually only in autumn, after chlorophyll degrades, that we peep those infinite shades of yellow and orange produced by carotenoid pigment s called xanthophylls and carotenes.\n\nNature, through photosynthesis, enables plants to convert the sun’s energy into a form that they and other living things can make use of. Plants transfer that energy directly to most other living things as food or as food for animals that other animals eat.\n\nHumans also extract this energy indirectly from wood, or from plants that decayed millions of years ago into oil, coal, and natural gas. Burning these materials to provide electricity and heat has, through overexploitation, led to dire consequences that have upset the balance of life on Earth.\n\nWhat if humans could harness this power in a different way? Imagine green chemistry that’s catalyzed by sunlight instead of having to mine for heavy metals like copper, tin, or platinum. Think of the potential that chemical processes requiring little heat have to reduce energy consumption. With a better understanding of photosynthesis, we may transform agriculture to consume less water and preserve more land for native plants and forests. As we continue to grapple with climate change, listening to what plants can teach us can shine a light down a greener path.",
+  "mechanism": "Photosynthesis occurs in special plant cells called chloroplast s, which are the type of cells found in leaves. A single chloroplast is like a bag filled with the main ingredients needed for photosynthesis. It has water soaked up from the plant’s roots, atmospheric carbon dioxide absorbed by the leaves, and chlorophyll contained in folded, maze-like organelles called thylakoid s.\n\nChlorophyll is the true catalyst of photosynthesis. Cyanobacteria, plankton, and land plants all rely on this light-sensitive molecule to spark the process.\n\nChlorophyll molecules are so bad at absorbing green light that they reflect it like tiny mirrors, causing our eyes to see most leaves as green. It’s usually only in autumn, after chlorophyll degrades, that we peep those infinite shades of yellow and orange produced by carotenoid pigment s called xanthophylls and carotenes.\n\nBut chlorophyll’s superpower isn’t the ability to reflect green light—it’s the ability to absorb blue and red light like a sponge. The sun’s blue and red light energizes chlorophyll, causing it to lose electrons, which become mobile forms of chemical energy that power plant growth. The chlorophyll replenishes its lost electrons not by drinking water but by splitting it apart and taking electrons from the hydrogen, leaving oxygen as a byproduct to be “exhaled”.\n\nThe electrons freed from chlorophyll are utilized in at least two ways. First, they are used to build up a high concentration of protons in the space inside the thylakoid (called the lumen), which in turn drives the transformation of ADP into ATP —nature’s energy carrier molecule. Secondly, they reduce NADP+ to NADPH . These transformations take place in the stroma , the area outside of the thylakoid folds but still inside the chloroplast “bag.” The energy brought by ATP and NADPH fuels a series of reactions in which carbon dioxide is persuaded to give up its precious cargo of carbon to build glucose and other key metabolic compounds. As these reactions (known as the Calvin Cycle) occur, the molecules are depleted back to ADP and NADP+ returning to the thylakoid folds to replenish their store of energy through sunlight-stimulated chlorophyll.\n\nWhen plants have enough sunlight, water, and fertile soil, the photosynthesis cycle continues to churn out more and more glucose. Glucose is like food that plants use to build their bodies. They combine thousands of glucose molecules to make cellulose , the main component of their cell walls. The more cellulose they make, the more they grow.\n\nNature, through photosynthesis, enables plants to convert the sun’s energy into a form that they and other living things can make use of. Plants transfer that energy directly to most other living things as food or as food for animals that other animals eat.\n\nHumans also extract this energy indirectly from wood, or from plants that decayed millions of years ago into oil, coal, and natural gas. Burning these materials to provide electricity and heat has, through overexploitation, led to dire consequences that have upset the balance of life on Earth.\n\nWhat if humans could harness this power in a different way? Imagine green chemistry that’s catalyzed by sunlight instead of having to mine for heavy metals like copper, tin, or platinum. Think of the potential that chemical processes requiring little heat have to reduce energy consumption. With a better understanding of photosynthesis, we may transform agriculture to consume less water and preserve more land for native plants and forests. As we continue to grapple with climate change, listening to what plants can teach us can shine a light down a greener path.",
   "function_addressed": [
     "transform radiant energy (light)",
     "transform chemical energy",
     "chemically assemble organic compounds",
     "catalyze chemical breakdown"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::organic-compounds",
+    "chemically-break-down::catalyze-breaking-of-bonds",
+    "transform-convert-energy::chemical-energy",
+    "transform-convert-energy::radiant-energy-light"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "chemically-break-down",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/how-plants-transform-sunlight-into-food/",
-  "source_tier": "science_journalism",
   "keywords": [
     "photosynthesis",
     "converts",
@@ -22,7 +28,5 @@
     "energy",
     "chemical"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

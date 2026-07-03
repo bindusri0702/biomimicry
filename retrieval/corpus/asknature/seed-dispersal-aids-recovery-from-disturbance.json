@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-seed-dispersal-aids-recovery-from-disturbance",
   "organism_common": "Tropical rain forest",
-  "organism_scientific": "",
   "strategy_summary": "Recovery of tropical rain forests after disturbance depends upon the dispersal of seeds by fruit-eating vertebrates. “We term this network of species, their dynamic interactions between each other and the environment, and the combination of structures that make reorganization after disturbance possible; the…",
   "mechanism": "Recovery of tropical rain forests after disturbance depends upon the dispersal of seeds by fruit-eating vertebrates.\n\n“We term this network of species, their dynamic interactions between each other and the environment, and the combination of structures that make reorganization after disturbance possible; the ‘ecological memory’ of the system (21, 22)…The ecological memory is a key component of ecological resilience, i.e. the capacity of the system to absorb disturbances, reorganize, and maintain adaptive capacity (25)…The ecosystem renewal cycle in forests gives rise to a coarse mosaic of patches in different stages of a forest cycle (67), initiated by disturbance and comprising a series of structural phases; commonly recognized are the i) gap (in our terms reorganization), ii) building (exploitation), iii) mature (conservation), and eventually iv) degenerative (release) phases (68, 69)…The gap/reorganization phase is of crucial importance in determining the floristic composition of the entire forest cycle (67). The pattern of reorganization among plants is often dependent on modes of dispersal and the presence or absence of dispersers. In tropical rain forests, vertebrate frugivores are often the main seed vectors (78). In a lowland rain forest in Samoa disturbed by cyclones and fires, seedlings of species dispersed by birds or flying foxes were most abundant in the most severely disturbed area, but this was not the case in less disturbed areas (79). Remnant trees may attract seed-dispersers such as fruit-eating birds and bats (37, 80–82). Vertebrate frugivores can be viewed as keystones in the reorganization phase. In their absence, succession would follow a different trajectory dominated by wind- and passively dispersed plants, and the risk of invasion of wind-dispersed exotic species may increase. In both natural and managed forest landscapes it is essential that ecological memory is maintained.” (Bengtsson et al. 2003:389, 393)",
   "function_addressed": [
@@ -9,11 +8,15 @@
     "disperse seeds",
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::disperse-seeds",
+    "provide-ecosystem-services::maintain-biodiversity",
+    "provide-ecosystem-services::manage-disturbance-in-a-community"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/seed-dispersal-aids-recovery-from-disturbance/",
-  "source_tier": "science_journalism",
   "keywords": [
     "seed",
     "dispersal",
@@ -21,7 +24,5 @@
     "recovery",
     "disturbance"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

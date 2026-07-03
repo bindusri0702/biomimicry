@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-spider-creates-underwater-air-tank",
   "organism_common": "Diving bell spider",
-  "organism_scientific": "",
   "strategy_summary": "Most spiders weave webs in open spaces to capture insects. When the Eurasian diving bell spider weaves a web, however, it’s in a dramatically different setting, with a dramatically different function.",
-  "mechanism": "A diving bell spider begins constructing its home under the surface of a pond or standing water in a wetland in much the same way land-living spiders build their webs: by extruding silken threads from spinnerets in its abdomen and fastening them to plants. It then moves back and forth between the anchors, first producing parallel strands and then crossing them with others. It lightly coats the threads with a protein-based goo it also produces from its body. Both the silk and the goo are hydrophilic, meaning they attract water. Together, they create a loosely woven sheet of spider material and water that traps air bubbles below instead of letting them rise to the surface.\n\nNow it’s time to gather some air. The spider swims to the surface, sticks the back end of its abdomen up in the air, and spreads its rear legs. The abdomen is covered with tiny, feather-shaped water-repelling hairs set into small grooves. As the spider submerges, the hairs trap air in a glistening bubble, which is held in place with the help of the legs. The spider carries the bubble beneath the web and releases it. The bubble rises until it reaches the web, but the thread and goo combo prevents it from going any farther. The spider goes back for more until eventually it builds up an air chamber big enough to provide the oxygen it needs.\n\nThe diving bell spider’s ability to create an air supply beneath a silken web underwater offers a variety of inspirations for innovations that benefit humans. The spider’s ability to trap small amounts of air against its body using tiny, water-resistant hairs embedded in grooves offers insights that can be used to develop painted-on coatings for ships that hold tiny amounts of air. Such coatings could reduce rusting, make it harder for ship-degrading microorganisms to attach to the outside of a ship, and provide lubrication to reduce friction with the water and so make the ship more energy-efficient.\n\nThe ability to make an airspace that replenishes oxygen by drawing it from surrounding water could open the door to allowing humans to spend extended time in oceans, lakes, or rivers for scientific, commercial, or recreational pursuits. It could even provide a useful model for developing living spaces beneath the surface.",
+  "mechanism": "A diving bell spider begins constructing its home under the surface of a pond or standing water in a wetland in much the same way land-living spiders build their webs: by extruding silken threads from spinnerets in its abdomen and fastening them to plants. It then moves back and forth between the anchors, first producing parallel strands and then crossing them with others. It lightly coats the threads with a protein-based goo it also produces from its body. Both the silk and the goo are hydrophilic, meaning they attract water. Together, they create a loosely woven sheet of spider material and water that traps air bubbles below instead of letting them rise to the surface.\n\nNow it’s time to gather some air. The spider swims to the surface, sticks the back end of its abdomen up in the air, and spreads its rear legs. The abdomen is covered with tiny, feather-shaped water-repelling hairs set into small grooves. As the spider submerges, the hairs trap air in a glistening bubble, which is held in place with the help of the legs. The spider carries the bubble beneath the web and releases it. The bubble rises until it reaches the web, but the thread and goo combo prevents it from going any farther. The spider goes back for more until eventually it builds up an air chamber big enough to provide the oxygen it needs.\n\nAs the spider breathes inside its bubble home it uses up oxygen. That causes oxygen trapped in the water around it to diffuse into the bubble, replacing what the spider depleted. Similarly, the high concentration of exhaled carbon dioxide inside diffuses out of the bubble into the surrounding water. If the oxygen concentration declines more rapidly than diffusion can replenish, the spider simply returns to the surface to grab some more bubbles.\n\nThe diving bell spider’s ability to create an air supply beneath a silken web underwater offers a variety of inspirations for innovations that benefit humans. The spider’s ability to trap small amounts of air against its body using tiny, water-resistant hairs embedded in grooves offers insights that can be used to develop painted-on coatings for ships that hold tiny amounts of air. Such coatings could reduce rusting, make it harder for ship-degrading microorganisms to attach to the outside of a ship, and provide lubrication to reduce friction with the water and so make the ship more energy-efficient.\n\nThe ability to make an airspace that replenishes oxygen by drawing it from surrounding water could open the door to allowing humans to spend extended time in oceans, lakes, or rivers for scientific, commercial, or recreational pursuits. It could even provide a useful model for developing living spaces beneath the surface.",
   "function_addressed": [
     "store gases",
     "capture, absorb, or filter gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::gases",
+    "store::gases"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/spider-creates-underwater-air-tank/",
-  "source_tier": "science_journalism",
   "keywords": [
     "spider",
     "builds",
@@ -20,7 +23,5 @@
     "bubble",
     "house"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

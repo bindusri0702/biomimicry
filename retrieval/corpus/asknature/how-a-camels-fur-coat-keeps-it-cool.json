@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-how-a-camels-fur-coat-keeps-it-cool",
   "organism_common": "Dromedary camel",
-  "organism_scientific": "",
   "strategy_summary": "Dromedary camels of the Sahara Desert ( Camelus dromedarius ) don’t just look unusual. They also defy our expectations of what’s possible, by somehow managing to combine two things that normally don’t go together: activity in high temperatures, and low water use.",
-  "mechanism": "Because their fur stays dry to the touch, it used to be believed that camels didn’t sweat at all. That couldn’t be further from the truth. The unique interaction of their sweat and fur is the key to camels keeping cool.\n\nCamels have sweat glands distributed throughout their skin, from which water removes body heat through evaporation, much as in humans. However, camel skin is also covered by thick fur––4 inches (10 cm) deep in places. This fur doesn’t impede the evaporation of water though. What it does do is insulate the camel from incoming heat.\n\nStrategies to reduce heat gain from the environment are important in many kinds of applications, from computing to apparel. Additional applications include technologies which use water-based cooling, where water conservation remains a concern. In all of these types of applications, camel-inspired designs which combine water-cooling with heat gain insulation can be particularly effective. In one camel-inspired cooling system, an aerogel-hydrogel system is used to keep biological materials cooled for long periods of time using miniscule amounts of water and energy.",
+  "mechanism": "Because their fur stays dry to the touch, it used to be believed that camels didn’t sweat at all. That couldn’t be further from the truth. The unique interaction of their sweat and fur is the key to camels keeping cool.\n\nCamels have sweat glands distributed throughout their skin, from which water removes body heat through evaporation, much as in humans. However, camel skin is also covered by thick fur––4 inches (10 cm) deep in places. This fur doesn’t impede the evaporation of water though. What it does do is insulate the camel from incoming heat.\n\nThis insulating power of the camel’s fur reduces the amount of heat transferred to the camel’s body from its hot ambient environment by three main mechanisms. The light color of a camel’s fur reflects light energy, reducing heat transfer to its skin by radiation. The trapped air in the camel’s fur functions as a thin material, with space between the individual molecules, minimizing heat transfer to the skin by conduction. Finally, the individual hairs of the camel’s fur impede the movement of air, reducing heat transfer to its skin by convection.\n\nBetween the outer surface of their fur and their skin, temperatures can vary by as much as 30 degrees Celsius (86 degrees Fahrenheit)––the difference between a summer day and a snow day. As a consequence, camels need to evaporate much less water from their skin in order to cool themselves down. The importance of their fur is emphasized by the fact that camels with shorn fur use much more water than camels with fur intact.\n\nStrategies to reduce heat gain from the environment are important in many kinds of applications, from computing to apparel. Additional applications include technologies which use water-based cooling, where water conservation remains a concern. In all of these types of applications, camel-inspired designs which combine water-cooling with heat gain insulation can be particularly effective. In one camel-inspired cooling system, an aerogel-hydrogel system is used to keep biological materials cooled for long periods of time using miniscule amounts of water and energy.",
   "function_addressed": [
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/how-a-camels-fur-coat-keeps-it-cool/",
-  "source_tier": "science_journalism",
   "keywords": [
     "camel",
     "fur",
@@ -19,7 +20,5 @@
     "keeps",
     "cool"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

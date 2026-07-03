@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-exploding-plug-prevents-mating",
   "organism_common": "Honeybees",
-  "organism_scientific": "",
   "strategy_summary": "The mating apparatus of male honeybees prevents other males from mating with the queen after them by acting as an exploding, detachable plug. “The mating apparatus of the male honeybee actually explodes and detaches, plugging the newly mated queen and preventing other males from mating with her.” (Forsyth 1992:32)",
   "mechanism": "The mating apparatus of male honeybees prevents other males from mating with the queen after them by acting as an exploding, detachable plug.\n\n“The mating apparatus of the male honeybee actually explodes and detaches, plugging the newly mated queen and preventing other males from mating with her.” (Forsyth 1992:32)",
   "function_addressed": [
     "protect from loss of liquids",
     "regulate reproduction or growth"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-liquids",
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/exploding-plug-prevents-mating/",
-  "source_tier": "science_journalism",
   "keywords": [
     "exploding",
     "plug",
     "prevents",
     "mating"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

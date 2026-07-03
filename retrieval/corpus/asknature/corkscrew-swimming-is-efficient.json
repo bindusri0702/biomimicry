@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-corkscrew-swimming-is-efficient",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Helical spiroplasma bacteria swim efficiently in a micro scale medium by moving their body in a corkscrew motion. “The ‘kinky’ motion of a primitive spiral-shaped bacterium swimming could help design efficient micromachines, suggests a new modelling study.",
   "mechanism": "Helical spiroplasma bacteria swim efficiently in a micro scale medium by moving their body in a corkscrew motion.\n\n“The ‘kinky’ motion of a primitive spiral-shaped bacterium swimming could help design efficient micromachines, suggests a new modelling study.\n\n“The motion of Spiroplasma swimming through fluid by sending kinks down its body has been described perfectly by a new computer model by physicists in Germany. They believe their results could be important for one day designing micromachines that might be used for microscale manufacturing or for medical procedures.\n\n“The bacterium moves through water rather like a corkscrew in a cork of a wine bottle, reveal calculations by Netz and Hirofumi Wada also of the Technical University Munich. Such a swimming style only makes sense on the micro scale because if scaled up, Spiroplasma would be much less efficient than bacteria with flagella, since most of its swimming energy would be wasted in friction.\n\n“On the micro scale, however, Spiroplasma ‘s helical shape seems to be optimised for fast swimming and for efficiently converting energy into motion. It moves by sending a pair of kinks down its body as it switches its body from a right-handed spiral to a left-handed one, and vice versa. The net effect is a zig-zagging forward motion.” (Dumé 2007)",
   "function_addressed": [
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/corkscrew-swimming-is-efficient/",
-  "source_tier": "science_journalism",
   "keywords": [
     "corkscrew",
     "swimming",
     "efficient"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

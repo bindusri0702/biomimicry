@@ -1,20 +1,27 @@
 {
   "doc_id": "asn-tornado-like-spinning-increases-seed-dispersion",
   "organism_common": "Japanese maple",
-  "organism_scientific": "",
   "strategy_summary": "Scattering seeds is a prominent mechanism in all plants, often assisted by birds and gusts of wind. When birds eat the seeds of trees, they transport and defecate them, creating a randomized scatter where new trees will grow.",
-  "mechanism": "The leading edge of the seed lowers the air pressure over the top of the seed, sucking the wind of the seed upwards, giving it extra lift, or extra travel time. This leads to a prolonged arrival at the ground, and more efficient dispersal.\n\nThe lift mechanism is similar to those of insects and hovering hummingbirds who use their wings to develop a continuous air vortex, sustaining their flight. The spinning motion created by the maple seed structure sustains a lift vortex which prolongs the flight. It’s also important to note that dead (brown-colored) seeds scatter further because they have an altered center of gravity from alive (green-colored) seeds. This is because the center of gravity in the seed is closer to the center of lift, similar to a paper airplane that is able to fly further than its opponents.\n\nThrough careful study of how a maple seed spirals through the air, scientists have designed the smallest known monocopter. Until the mechanics of falling seeds were better understood, monocopter flight was unstable. Investigating how maple seeds deal with turbulent air could also help develop more efficient wind turbines, increasing the amount of renewable energy that can be extracted from the breeze.",
+  "mechanism": "The leading edge of the seed lowers the air pressure over the top of the seed, sucking the wind of the seed upwards, giving it extra lift, or extra travel time. This leads to a prolonged arrival at the ground, and more efficient dispersal.\n\nThe lift mechanism is similar to those of insects and hovering hummingbirds who use their wings to develop a continuous air vortex, sustaining their flight. The spinning motion created by the maple seed structure sustains a lift vortex which prolongs the flight. It’s also important to note that dead (brown-colored) seeds scatter further because they have an altered center of gravity from alive (green-colored) seeds. This is because the center of gravity in the seed is closer to the center of lift, similar to a paper airplane that is able to fly further than its opponents.\n\nFalling Maple Seed: Watch a video of the tornado-like vortex of a free-flying maple seed (Movie courtesy of David Lentink):\n\nThrough careful study of how a maple seed spirals through the air, scientists have designed the smallest known monocopter. Until the mechanics of falling seeds were better understood, monocopter flight was unstable. Investigating how maple seeds deal with turbulent air could also help develop more efficient wind turbines, increasing the amount of renewable energy that can be extracted from the breeze.",
   "function_addressed": [
     "disperse seeds",
     "transform mechanical energy",
     "distribute solids",
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::solids",
+    "move::in-through-gases",
+    "provide-ecosystem-services::disperse-seeds",
+    "transform-convert-energy::mechanical-energy"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "move",
+    "provide-ecosystem-services",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/tornado-like-spinning-increases-seed-dispersion/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tornado-like",
     "spinning",
@@ -22,7 +29,5 @@
     "seed",
     "dispersion"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

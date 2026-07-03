@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-carotenoids-create-yellow-color",
   "organism_common": "American goldfinch",
-  "organism_scientific": "",
   "strategy_summary": "The bright colors of bird feathers are among nature’s most striking displays, often used for attracting mates and signaling health and vitality. These colors can be produced by pigment s, such as carotenoid s, melanins, or other pigments, or by the microscopic structure of the feathers, known as structural coloration.",
-  "mechanism": "Bird feathers can exhibit vibrant colors through the deposition of carotenoids, which are dietary-derived pigments that typically produce yellow, orange, and red hues. These pigments alone are capable of absorbing specific wavelengths of light, contributing to the color seen by the observer. However, in many birds, the brilliance and visibility of these colors are significantly enhanced by the presence of structural colors—specifically, a white reflective base found within the feather structure.\n\nThis white structural coloration in feathers is created by nano-scale arrangements of keratin and air pockets, which reflect light. When light hits these structures, it is scattered and reflected back, providing a bright white background against which the carotenoid pigments can shine. This interaction not only amplifies the intensity of the yellow hues but also influences how these colors are perceived under different lighting conditions.\n\nMoreover, research has shown that these structural elements can significantly affect the ultraviolet (UV) reflectance of the feathers, an important aspect of visual signaling in many bird species that can perceive UV light. This dual functionality of pigments and structural components in feathers illustrates a refined strategy for maximizing color impact and signal efficacy.\n\nUnderstanding the cooperative interaction between carotenoids and structural coloration in bird feathers opens up exciting possibilities for biomimetic applications. In the field of materials science, this knowledge could lead to the development of new pigments and coatings that use structural enhancements to increase their visibility or effectiveness. For example, fabrics or paints that incorporate microstructures mimicking those in bird feathers could achieve more vibrant and durable colors without increased chemical loads.\n\nIn optical technologies, the principles of structural coloration combined with pigment effects could improve the design of devices that require precise control of light properties, such as sensors and filters. These devices could be engineered to selectively absorb and reflect specific wavelengths, much like feathers.\n\nFurthermore, the study of how these colors change in response to environmental and health factors in birds could lead to better indicators of environmental health or stress.",
+  "mechanism": "Bird feathers can exhibit vibrant colors through the deposition of carotenoids, which are dietary-derived pigments that typically produce yellow, orange, and red hues. These pigments alone are capable of absorbing specific wavelengths of light, contributing to the color seen by the observer. However, in many birds, the brilliance and visibility of these colors are significantly enhanced by the presence of structural colors—specifically, a white reflective base found within the feather structure.\n\nThis white structural coloration in feathers is created by nano-scale arrangements of keratin and air pockets, which reflect light. When light hits these structures, it is scattered and reflected back, providing a bright white background against which the carotenoid pigments can shine. This interaction not only amplifies the intensity of the yellow hues but also influences how these colors are perceived under different lighting conditions.\n\nMoreover, research has shown that these structural elements can significantly affect the ultraviolet (UV) reflectance of the feathers, an important aspect of visual signaling in many bird species that can perceive UV light. This dual functionality of pigments and structural components in feathers illustrates a refined strategy for maximizing color impact and signal efficacy.\n\nUnderstanding the cooperative interaction between carotenoids and structural coloration in bird feathers opens up exciting possibilities for biomimetic applications. In the field of materials science, this knowledge could lead to the development of new pigments and coatings that use structural enhancements to increase their visibility or effectiveness. For example, fabrics or paints that incorporate microstructures mimicking those in bird feathers could achieve more vibrant and durable colors without increased chemical loads.\n\nIn optical technologies, the principles of structural coloration combined with pigment effects could improve the design of devices that require precise control of light properties, such as sensors and filters. These devices could be engineered to selectively absorb and reflect specific wavelengths, much like feathers.\n\nFurthermore, the study of how these colors change in response to environmental and health factors in birds could lead to better indicators of environmental health or stress.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "modify light/color",
     "send light signals in the visible spectrum"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "send-signals::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/carotenoids-create-yellow-color/",
-  "source_tier": "science_journalism",
   "keywords": [
     "carotenoids",
     "create",
     "yellow",
     "color"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

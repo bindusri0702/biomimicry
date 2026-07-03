@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-flexural-torsional-stiffness-with-minimal-material-use",
   "organism_common": "Common to all organisms",
-  "organism_scientific": "",
   "strategy_summary": "Nature achieves high flexural and torsional stiffness in support structures, with minimum material use, by using hollow cylinders as struts and beams. “Hollow cylindrical tubes.",
   "mechanism": "Nature achieves high flexural and torsional stiffness in support structures, with minimum material use, by using hollow cylinders as struts and beams.\n\n“Hollow cylindrical tubes. The way these give high flexural and torsional stiffness with minimal material hasn’t been lost on either nature or engineers. We use them as subsystems when building bicycles and racing cars and as entire systems in so-called monocoque aircraft fuselages, cylindrical storage tanks, glass jars, and metal cans. Nature also uses them in diverse places–bamboo stems; vertebrate long bones; insect, spider, and crustacean appendages; the wing veins of insects; and the feather shafts of birds. Sometimes they contain the entire organism, as in lots of threadlike algae, although it’s unclear how much of the stiffness of these last comes from fluid pressure rather than from their tubular solids–hydrostatic systems and hollow cylindrical beams aren’t mutually exclusive. Microtubules (fig. 22.3), stiffening elements in cells, are also hollow cylindrical beams, although they may derive additional stiffness from ordered water molecules at their surfaces.” (Vogel 2003:440)",
   "function_addressed": [
@@ -11,11 +10,19 @@
     "manage shear",
     "manage compression"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "manage-structural-forces::compression",
+    "manage-structural-forces::shear",
+    "prevent-structural-failure::buckling",
+    "prevent-structural-failure::fracture-rupture"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "manage-structural-forces",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/flexural-torsional-stiffness-with-minimal-material-use/",
-  "source_tier": "science_journalism",
   "keywords": [
     "flexural",
     "torsional",
@@ -23,7 +30,5 @@
     "minimal",
     "material"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

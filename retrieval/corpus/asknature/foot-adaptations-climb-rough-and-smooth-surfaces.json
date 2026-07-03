@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-foot-adaptations-climb-rough-and-smooth-surfaces",
   "organism_common": "Insects",
-  "organism_scientific": "",
-  "strategy_summary": "Feet of insects adjust to rough or smooth surfaces by engaging either claws or adhesive foot-pads. Image: Janice Carr (photo credit) and CDC (content provider) / Centers for Disease Control and Prevention / toggle icon Image: Janice Carr (photo credit) / Centers for Disease Control and Prevention / toggle icon right…",
-  "mechanism": "Feet of insects adjust to rough or smooth surfaces by engaging either claws or adhesive foot-pads.\n\nImage: Janice Carr (photo credit) and CDC (content provider) / Centers for Disease Control and Prevention / toggle icon Image: Janice Carr (photo credit) / Centers for Disease Control and Prevention / toggle icon right arrow right arrow\n\n“Researchers Bert Holldobler and Walter Federle have studied how insects can adhere to both rough and smooth surfaces. They discovered that when an insect walks, two claws at the front of each foot grip the surface and then begin to retract. If the surface is rough, the claws engage and the insect scrabbles along. If the surface is smooth, the hinged claws retract further and adhesive foot-pads protrude between the claws. A miniature hydraulic system helps deploy the footpads.” (Courtesy of the Biomimicry Guild)",
+  "strategy_summary": "Feet of insects adjust to rough or smooth surfaces by engaging either claws or adhesive foot-pads. “Researchers Bert Holldobler and Walter Federle have studied how insects can adhere to both rough and smooth surfaces.",
+  "mechanism": "Feet of insects adjust to rough or smooth surfaces by engaging either claws or adhesive foot-pads.\n\n“Researchers Bert Holldobler and Walter Federle have studied how insects can adhere to both rough and smooth surfaces. They discovered that when an insect walks, two claws at the front of each foot grip the surface and then begin to retract. If the surface is rough, the claws engage and the insect scrabbles along. If the surface is smooth, the hinged claws retract further and adhesive foot-pads protrude between the claws. A miniature hydraulic system helps deploy the footpads.” (Courtesy of the Biomimicry Guild)",
   "function_addressed": [
     "move in/on solids",
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/foot-adaptations-climb-rough-and-smooth-surfaces/",
-  "source_tier": "science_journalism",
   "keywords": [
     "foot",
     "adaptations",
@@ -21,7 +24,5 @@
     "smooth",
     "surfaces"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

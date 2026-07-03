@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-trees-generate-pressure",
   "organism_common": "Distribute Liquids",
-  "organism_scientific": "",
   "strategy_summary": "Oak trees can generate pressures of 500,000 Pa through evaporation. “Oak trees can generate pressures of 500,000 Pa through evaporation.” (Lieberman 2004: 893)",
   "mechanism": "Oak trees can generate pressures of 500,000 Pa through evaporation.\n\n“Oak trees can generate pressures of 500,000 Pa through evaporation.” (Lieberman 2004: 893)",
   "function_addressed": [
     "distribute liquids",
     "modify pressure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::liquids",
+    "modify-physical-state::pressure"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/trees-generate-pressure/",
-  "source_tier": "science_journalism",
   "keywords": [
     "trees",
     "generate",
     "pressure"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,27 +1,31 @@
 {
   "doc_id": "asn-pressurized-fruit-ejects-seeds",
   "organism_common": "Squirting cucumber",
-  "organism_scientific": "",
   "strategy_summary": "The fruit of squirting cucumbers distribute seeds by ejecting them under pressure. The squirting cucumber ( Ecballium elaterium ) is a plant in the Cucurbitaceae family, which also includes melons, squash and non-squirting cucumbers.",
-  "mechanism": "The fruit of squirting cucumbers distribute seeds by ejecting them under pressure.\n\nThe squirting cucumber ( Ecballium elaterium ) is a plant in the Cucurbitaceae family, which also includes melons, squash and non-squirting cucumbers. It is native to Southern Europe, North Africa and some of Asia. It is a low growing, creeping plant with small hairy green fruit. The fruit is poisonous, but contains a number of compounds that may have medicinal properties.\n\nLike all plants, the squirting cucumber needs to spread its seeds so that young seedlings are not competing with the parent for sunlight and nutrients. Whereas other members of the Cucurbitaceae produce edible fruit and rely on animals to spread their seeds, the squirting cucumber uses hydrostatic pressure.\n\nThe fruit of Ecballium elaterium hang down vertically from short, upright stems. Inside each fruit is a series of chambers filled with viscous sap and seeds. As the fruit ripens, the chambers fill with more and more sap, reaching pressures of about 27 atmospheres. Simultaneously, abscission tissue develops where the fruit is joined to the stem. Abscission tissue is a weak fracture point that allows parts of a plant to fall off without leaving open tissue that might get infected. When the pressure inside the fruit exceeds the strength of the abscission tissue around the stem, the fruit falls off, leaving a small hole at the top where the stem was attached. As it falls, the pressure forces the sap out of the hole at the top, carrying the seeds with it. Because the hole is pointing up, as the fruit falls, seeds are sprayed in a jet away from the parent plant.\n\nImage: Peter A. Mansfeld / CC BY - Creative Commons Attribution alone toggle icon Image: Javier martin / Public Domain - No restrictions toggle icon right arrow right arrow",
+  "mechanism": "The fruit of squirting cucumbers distribute seeds by ejecting them under pressure.\n\nThe squirting cucumber ( Ecballium elaterium ) is a plant in the Cucurbitaceae family, which also includes melons, squash and non-squirting cucumbers. It is native to Southern Europe, North Africa and some of Asia. It is a low growing, creeping plant with small hairy green fruit. The fruit is poisonous, but contains a number of compounds that may have medicinal properties.\n\nLike all plants, the squirting cucumber needs to spread its seeds so that young seedlings are not competing with the parent for sunlight and nutrients. Whereas other members of the Cucurbitaceae produce edible fruit and rely on animals to spread their seeds, the squirting cucumber uses hydrostatic pressure.\n\nThe fruit of Ecballium elaterium hang down vertically from short, upright stems. Inside each fruit is a series of chambers filled with viscous sap and seeds. As the fruit ripens, the chambers fill with more and more sap, reaching pressures of about 27 atmospheres. Simultaneously, abscission tissue develops where the fruit is joined to the stem. Abscission tissue is a weak fracture point that allows parts of a plant to fall off without leaving open tissue that might get infected. When the pressure inside the fruit exceeds the strength of the abscission tissue around the stem, the fruit falls off, leaving a small hole at the top where the stem was attached. As it falls, the pressure forces the sap out of the hole at the top, carrying the seeds with it. Because the hole is pointing up, as the fruit falls, seeds are sprayed in a jet away from the parent plant.",
   "function_addressed": [
     "modify position",
     "modify speed",
     "distribute solids",
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::solids",
+    "modify-physical-state::position",
+    "modify-physical-state::speed",
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "modify-physical-state",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/pressurized-fruit-ejects-seeds/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pressurized",
     "fruit",
     "ejects",
     "seeds"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

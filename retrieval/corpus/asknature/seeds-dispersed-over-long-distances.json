@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-seeds-dispersed-over-long-distances",
   "organism_common": "Sea-bean",
-  "organism_scientific": "",
-  "strategy_summary": "The two spear-shaped wings of Anisoptera tree seeds enable long-distance dispersal because they are asymmetrical. “ Anisoptera , one of the tallest of the trees in the same Asiatic forests, also has two wings, but they are spear-shaped and curve upwards and outwards.",
-  "mechanism": "The two spear-shaped wings of Anisoptera tree seeds enable long-distance dispersal because they are asymmetrical.\n\n“ Anisoptera , one of the tallest of the trees in the same Asiatic forests, also has two wings, but they are spear-shaped and curve upwards and outwards. As its name suggests, they are also unequal in length. This asymmetry causes them to spin when they are released, and the seed resembles a tiny whirling helicopter, which may travel even further than a double-winged glider.” (Attenborough 1995:19)",
+  "strategy_summary": "The two spear-shaped wings of Anisoptera tree seeds enable long-distance dispersal because they are asymmetrical. “ Anisoptera, one of the tallest of the trees in the same Asiatic forests, also has two wings, but they are spear-shaped and curve upwards and outwards.",
+  "mechanism": "The two spear-shaped wings of Anisoptera tree seeds enable long-distance dispersal because they are asymmetrical.\n\n“ Anisoptera, one of the tallest of the trees in the same Asiatic forests, also has two wings, but they are spear-shaped and curve upwards and outwards. As its name suggests, they are also unequal in length. This asymmetry causes them to spin when they are released, and the seed resembles a tiny whirling helicopter, which may travel even further than a double-winged glider.” (Attenborough 1995:19)",
   "function_addressed": [
     "move in/through gases",
     "disperse seeds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-through-gases",
+    "provide-ecosystem-services::disperse-seeds"
+  ],
+  "subgroup_keys": [
+    "move",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/seeds-dispersed-over-long-distances/",
-  "source_tier": "science_journalism",
   "keywords": [
     "seeds",
     "dispersed",
@@ -20,7 +23,5 @@
     "long",
     "distances"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

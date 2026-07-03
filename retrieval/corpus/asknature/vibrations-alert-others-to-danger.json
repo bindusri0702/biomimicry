@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-vibrations-alert-others-to-danger",
   "organism_common": "Elephants",
-  "organism_scientific": "",
   "strategy_summary": "Elephants alert others to danger with low-frequency vibrations created by stomping their feet. “Thus, if an elephant is alarmed or disturbed by something, it stomps the ground in order to alert others to the danger.",
   "mechanism": "Elephants alert others to danger with low-frequency vibrations created by stomping their feet.\n\n“Thus, if an elephant is alarmed or disturbed by something, it stomps the ground in order to alert others to the danger. The vibrations produced by its feet travel rapidly through the ground and are sensed through the feet of other elephants as far away as 31 miles (50 km).” (Shuker 2001:36)",
   "function_addressed": [
     "send vibratory signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::vibratory"
+  ],
+  "subgroup_keys": [
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/vibrations-alert-others-to-danger/",
-  "source_tier": "science_journalism",
   "keywords": [
     "vibrations",
     "alert",
     "others",
     "danger"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

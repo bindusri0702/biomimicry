@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-leaves-resist-bending",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "The leaves of many plants are flat yet flexible surfaces that resist bending thanks to structural features and bracing from below. “The main use of flat surfaces in nature consists of photosynthetic structures such as leaves.",
   "mechanism": "The leaves of many plants are flat yet flexible surfaces that resist bending thanks to structural features and bracing from below.\n\n“The main use of flat surfaces in nature consists of photosynthetic structures such as leaves. These also are well braced beneath; most leaves seem to circumvent problems of loads perpendicular to their surfaces simply by flexing or reorienting in winds (fig. 1.5). Quite a few leaves of various lineages (mostly monocots) use a slight longitudinal V-fold to get adequate flexural stiffness, which must also give them nicely low torsional stiffness. Other leaves use another deviation from flatness, crosswise fan folding, discussed by Niklas (1992). Figure 21.8 shows a few such schemes.” (Vogel 2003:439)\n\n[Caption for Figure 21.8 in Vogel 2003: “Thin leaf surfaces avoid bending in various ways. Veins may provide supporting trusses (a), the whole leaf may be cambered lengthwise (b), or pleats can make a ridge-and-valley self-trussing system (c).”]",
   "function_addressed": [
@@ -11,17 +10,23 @@
     "prevent buckling",
     "prevent fracture/rupture"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::shear",
+    "prevent-structural-failure::buckling",
+    "prevent-structural-failure::fracture-rupture",
+    "protect-from-non-living-threats::wind"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "prevent-structural-failure",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/leaves-resist-bending/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaves",
     "resist",
     "bending"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

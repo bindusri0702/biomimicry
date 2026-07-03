@@ -1,24 +1,21 @@
 {
   "doc_id": "asn-beak-holds-squirming-prey",
   "organism_common": "Hawks and relatives",
-  "organism_scientific": "",
   "strategy_summary": "The strong, hooked beaks of eagles hold squirming prey thanks to the sharp, pointed tip. “The beaks of birds of prey, such as eagles, are almost always very strong and hooked, with a sharp pointed tip for holding wriggling prey.” (Foy 1983:155)",
   "mechanism": "The strong, hooked beaks of eagles hold squirming prey thanks to the sharp, pointed tip.\n\n“The beaks of birds of prey, such as eagles, are almost always very strong and hooked, with a sharp pointed tip for holding wriggling prey.” (Foy 1983:155)",
   "function_addressed": [
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/beak-holds-squirming-prey/",
-  "source_tier": "science_journalism",
   "keywords": [
     "beak",
     "holds",
     "squirming",
     "prey"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

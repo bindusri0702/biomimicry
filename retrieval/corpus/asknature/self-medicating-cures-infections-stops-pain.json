@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-self-medicating-cures-infections-stops-pain",
   "organism_common": "Baboons",
-  "organism_scientific": "",
   "strategy_summary": "Baboons may cure infections, stop diarrhea, or treat menstrual cramps by eating particular plant leaves. “Certain African monkeys are accomplished herbalists, too.",
   "mechanism": "Baboons may cure infections, stop diarrhea, or treat menstrual cramps by eating particular plant leaves.\n\n“Certain African monkeys are accomplished herbalists, too. Baboons, for instance, cure parasitic infections caused by Schistosoma flukes by eating the fruit of the Balanites tree. They also eat leaves from the Sodom apple ( Solanum incanum ) to halt bouts of diarrhea. And the leaves of the candelabra tree ( Cassia ) are much sought after by menstruating baboons to bring relief from menstrual cramps.” (Shuker 2001:214)",
   "function_addressed": [
     "protect from animals",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals",
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/self-medicating-cures-infections-stops-pain/",
-  "source_tier": "science_journalism",
   "keywords": [
     "self-medicating",
     "cures",
@@ -20,7 +22,5 @@
     "stops",
     "pain"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

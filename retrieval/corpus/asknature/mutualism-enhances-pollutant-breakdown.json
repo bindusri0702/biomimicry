@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-mutualism-enhances-pollutant-breakdown",
   "organism_common": "Azobacter",
-  "organism_scientific": "",
   "strategy_summary": "Plants are made up of different parts. The stems, leaves, and any flowers sit above the soil where the leaves photosynthesize.",
-  "mechanism": "Rhizobacteria and plants work together to help each other survive. This is called a mutualistic relationship . The plant gives the bacteria a place to live and provides them with nutrients through its roots. In return, bacteria take natural chemicals in the soil such as nitrogen and turn them into more useful kinds of chemicals such as ammonia, nitrates, and nitrites. Some chemicals the bacteria produce increase the size and surface area of roots so they have more contact with the soil. This increases nutrient and water uptake, making the plant stronger.\n\nHydrocarbon waste can make people sick and decrease plant growth, so finding a way to remove or break down these pollutants is important. Using conventional methods such as digging or incineration to break down hydrocarbons is very expensive, so taking advantage of the mutual relationship that already exists between plants and rhizobacteria could help us develop more economical methods of reducing ground pollution.",
+  "mechanism": "Rhizobacteria and plants work together to help each other survive. This is called a mutualistic relationship . The plant gives the bacteria a place to live and provides them with nutrients through its roots. In return, bacteria take natural chemicals in the soil such as nitrogen and turn them into more useful kinds of chemicals such as ammonia, nitrates, and nitrites. Some chemicals the bacteria produce increase the size and surface area of roots so they have more contact with the soil. This increases nutrient and water uptake, making the plant stronger.\n\nIt takes a diverse community of rhizobacteria to meet all of the plant’s needs. And there are lots of bacteria in the soil near a plant’s roots. 100 million to 1 trillion bacteria can be living in a 1-gram sample of soil (1 gram is about the weight of a U.S. dollar bill).\n\nRhizobacteria can also help break down soil pollutants and make them less toxic so the plants stay healthy. Scientists are interested in how plants and their bacteria partners get rid of a specific industrial pollutant called hydrocarbons. Hydrocarbons are chemical compounds made up of carbon and hydrogen. They end up in the soil as pollutants from oil and natural gas and the manufacturing of plastics, rubber, solvents, and other products. Researchers have tried growing plants by themselves in areas polluted with hydrocarbons, and they’ve also tried putting rhizobacteria in the soil by themselves. What they’ve found is that when they allow the rhizobacteria and the plants to work together, they are better at breaking down the hydrocarbon molecules than either one working alone.\n\nHydrocarbon waste can make people sick and decrease plant growth, so finding a way to remove or break down these pollutants is important. Using conventional methods such as digging or incineration to break down hydrocarbons is very expensive, so taking advantage of the mutual relationship that already exists between plants and rhizobacteria could help us develop more economical methods of reducing ground pollution.",
   "function_addressed": [
     "chemically break down organic compounds",
     "cooperate/compete between different species"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::organic-compounds",
+    "cooperate-compete::between-different-species"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down",
+    "cooperate-compete"
+  ],
   "source_url": "https://asknature.org/strategy/mutualism-enhances-pollutant-breakdown/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mutualism",
     "enhances",
     "pollutant",
     "breakdown"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-hydrological-regimes-maintain-organisms",
   "organism_common": "Regulate Hydrological Flows",
-  "organism_scientific": "",
   "strategy_summary": "Streams maintain aquatic organisms by maintaining natural hydrological regimes. Beautiful Elakala Waterfalls in the Blackwater Falls State park, West Virginia, USA.",
   "mechanism": "Streams maintain aquatic organisms by maintaining natural hydrological regimes.\n\nBeautiful Elakala Waterfalls in the Blackwater Falls State park, West Virginia, USA.\n\n“Recent studies of urban impacts on streams in Melbourne, Australia, on water chemistry, algal biomass and assemblage composition of diatoms and invertebrates, suggested that the primary degrading process to streams in many urban areas is effective imperviousness (EI), the proportion of a catchment covered by impervious surfaces directly connected to the stream by stormwater drainage pipes. The direct connection of impervious surfaces to streams means that even small rainfall events can produce sufficient surface runoff to cause frequent disturbance through regular delivery of water and pollutants; where impervious surfaces are not directly connected to streams, small rainfall events are intercepted and infiltrated. We, therefore, identified use of alternative drainage methods, which maintain a near-natural frequency of surface runoff from the catchment, as the best approach to stream restoration in urban catchments and then used models of relationships between 14 ecological indicators and EI to determine restoration objectives. Ecological condition, as indicated by concentrations of water-quality variables, algal biomass, and several measures of diatom and macroinvertebrate assemblage composition, declined with increasing EI until a threshold was reached (EI 0.01–0.14), beyond which no further degradation was observed. We showed, in a sample catchment, that it is possible to redesign the drainage system to reduce EI to a level at which the models predict detectable improvement in most ecological indicators. Distributed, low-impact design measures are required that intercept rainfall from small events and then facilitate its infiltration, evaporation, transpiration, or storage for later in-house use.” (Walsh et al. 2005)",
   "function_addressed": [
     "regulate hydrological flows"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::regulate-hydrological-flows"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/hydrological-regimes-maintain-organisms/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hydrological",
     "regimes",
     "maintain",
     "organisms"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

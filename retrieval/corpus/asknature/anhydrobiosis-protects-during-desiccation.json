@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-anhydrobiosis-protects-during-desiccation",
   "organism_common": "Protect From Loss of Liquids",
-  "organism_scientific": "",
   "strategy_summary": "Some nematodes survive drought conditions by entering an ametabolic state known as anhydrobiosis. Nematodes  Applying pheromones to nematodes turns them into the ultimate natural pesticide, drastically increasing destruction of insects  “Some nematodes, or round worms, undergo a similar, though less profound, form of…",
   "mechanism": "Some nematodes survive drought conditions by entering an ametabolic state known as anhydrobiosis.\n\nNematodes\n\nApplying pheromones to nematodes turns them into the ultimate natural pesticide, drastically increasing destruction of insects\n\n“Some nematodes, or round worms, undergo a similar, though less profound, form of cryptobiosis. As demonstrated by Newcastle University researcher Prof. Conrad Ellenby during a series of classic experiments, they become wholly desiccated when confronted with unfavorable external conditions, yet they revive fully when moistened.” (Shuker 2001:113)",
   "function_addressed": [
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/anhydrobiosis-protects-during-desiccation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "anhydrobiosis",
     "protects",
     "during",
     "desiccation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

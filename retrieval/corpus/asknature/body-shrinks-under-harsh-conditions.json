@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-body-shrinks-under-harsh-conditions",
   "organism_common": "Marine iguana",
-  "organism_scientific": "",
   "strategy_summary": "Nearly two centuries after Charles Darwin’s eye-opening visit, the Galápagos islands continue to open our eyes to nature’s ability to adapt to unusual and extreme conditions. The archipelago’s marine iguanas ( Amblyrhynchus cristatus ) depend nearly completely on species of red and green algae for food, which they…",
   "mechanism": "When the iguana’s food source decreases, many iguanas get smaller in size, by as much as 20% of their regular length. By decreasing in size, iguanas increase the relative benefit of the available food. In larger animals, a greater proportion of food calories just go to maintaining existing biomass, leaving less for energetic activities (such as foraging). Smaller iguanas thus feed more efficiently than larger iguanas.\n\nBecause cartilage and connective tissue only account for about 10% of body length, it appears the shrinking in iguanas is also due to a loss of bone tissue. Moreover, when the food supply increases again, iguanas regain their original length, apparently rapidly rebuilding their bones. Scientists don’t yet understand the physiological processes by which these changes occur, only that they do.\n\nIn an uncertain world, changing size to fit the available resources is a useful design strategy. At present, cities constantly face the challenge of either under- or overbuilding, for instance, resulting in unnecessary environmental impact and dramatic swings in things like housing prices. Imagine if bridges swelled in size during rush hour, or if hotels decreased in size and energy use with a decrease in occupancy.\n\nLess abstractly, the marine iguanas’ apparent ability to regrow bone tissue could hold important lessons of value for postmenopausal women and older people suffering from osteoporosis, as well as for astronauts spending prolonged periods of time in space.",
   "function_addressed": [
     "modify size/shape/mass/volume"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::size-shape-mass-volume"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/body-shrinks-under-harsh-conditions/",
-  "source_tier": "science_journalism",
   "keywords": [
     "iguanas",
     "change",
@@ -19,7 +20,5 @@
     "available",
     "resources"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

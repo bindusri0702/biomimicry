@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-emitting-chemical-decay-odor-attracts-prey-to-fleshy-trap",
   "organism_common": "Hydnora africana",
-  "organism_scientific": "",
   "strategy_summary": "In the sun-baked, thirsty landscapes of southern Africa, most life clings to the surface or reaches for the sky. But Hydnora africana is a rebel of the plant kingdom.",
-  "mechanism": "The genius of Hydnora africana lies in its “catch-and-release” system, a sophisticated method of ensuring its pollen travels to the right place without harming its helpers. The plant targets hide beetles and dung beetles, insects that are naturally drawn to the smell of decay. By producing a chemical cocktail that mimics the pheromones and odors of rotting flesh, the plant tricks these beetles into crawling inside the dark, central chamber of the flower. Once the beetle enters, it finds itself in a biological “hall of mirrors.” The inner walls of the flower are lined with downward-pointing hairs (trichomes) and a slippery, waxy surface that makes climbing back out nearly impossible. This isn’t a death trap, however; it’s a temporary guest suite. As the beetle scurries around the bottom of the chamber, it inadvertently brushes against the anthers (the parts that hold pollen) and the stigma (the part that receives pollen), effectively picking up or dropping off the genetic cargo the plant needs to reproduce. After a day or two, the flower begins to change. The stiff hairs that blocked the exit start to wilt and soften, and the slippery walls lose their slickness. The beetle, now dusted in fresh pollen, is allowed to climb out and fly to the next Hydnora flower, repeating the cycle.\n\nThe Hydnora offers us a beautiful blueprint for non-invasive containment and directional flow. Imagine industrial systems or urban architecture designed with passive gates that allow movement in one direction through texture rather than moving parts or electricity. We could design filters or sorting systems that guide particles or objects using microscopic bristles, reducing the need for high-energy pumps. Furthermore, the plant’s ability to punch through compacted soil without a traditional root system could inspire new designs for low-impact trenching or underground sensors that can navigate dense materials without damaging the surrounding environment. By looking at how Hydnora manages its guests, we can learn to design human systems that achieve their goals through cooperation and timing rather than force.",
+  "mechanism": "The genius of Hydnora africana lies in its “catch-and-release” system, a sophisticated method of ensuring its pollen travels to the right place without harming its helpers. The plant targets hide beetles and dung beetles, insects that are naturally drawn to the smell of decay. By producing a chemical cocktail that mimics the pheromones and odors of rotting flesh, the plant tricks these beetles into crawling inside the dark, central chamber of the flower. Once the beetle enters, it finds itself in a biological “hall of mirrors.” The inner walls of the flower are lined with downward-pointing hairs (trichomes) and a slippery, waxy surface that makes climbing back out nearly impossible. This isn’t a death trap, however; it’s a temporary guest suite. As the beetle scurries around the bottom of the chamber, it inadvertently brushes against the anthers (the parts that hold pollen) and the stigma (the part that receives pollen), effectively picking up or dropping off the genetic cargo the plant needs to reproduce. After a day or two, the flower begins to change. The stiff hairs that blocked the exit start to wilt and soften, and the slippery walls lose their slickness. The beetle, now dusted in fresh pollen, is allowed to climb out and fly to the next Hydnora flower, repeating the cycle.\n\nThe Hydnora offers us a beautiful blueprint for non-invasive containment and directional flow. Imagine industrial systems or urban architecture designed with passive gates that allow movement in one direction through texture rather than moving parts or electricity. We could design filters or sorting systems that guide particles or objects using microscopic bristles, reducing the need for high-energy pumps. Furthermore, the plant’s ability to punch through compacted soil without a traditional root system could inspire new designs for low-impact trenching or underground sensors that can navigate dense materials without damaging the surrounding environment. By looking at how Hydnora manages its guests, we can learn to design human systems that achieve their goals through cooperation and timing rather than force.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "capture, absorb, or filter organisms",
     "distribute solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::solids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/emitting-chemical-decay-odor-attracts-prey-to-fleshy-trap/",
-  "source_tier": "science_journalism",
   "keywords": [
     "emitting",
     "chemical",
@@ -21,7 +23,5 @@
     "attracts",
     "prey"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

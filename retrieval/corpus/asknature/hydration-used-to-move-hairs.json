@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-hydration-used-to-move-hairs",
   "organism_common": "Modify Position",
-  "organism_scientific": "",
   "strategy_summary": "The hairs on the antennae of some male mosquitoes are elevated by hydrating protein pads adjacent to each hair socket. At a magnification of 363x, this scanning electron micrograph (SEM) revealed some of the morphologic features of an Anopheles dirus mosquitos antennae.",
   "mechanism": "The hairs on the antennae of some male mosquitoes are elevated by hydrating protein pads adjacent to each hair socket.\n\nAt a magnification of 363x, this scanning electron micrograph (SEM) revealed some of the morphologic features of an Anopheles dirus mosquitos antennae. The antennae are composed of three basic segments: the proximal 1st segment known as the pedicel, the middle segment, or scape, and the third multi-segmented region known as the flagellum. Covered with sensorial hairs, which arent really hairs at all, but exoskeletal chitinous extensions, known as setae, they provide feedback to the mosquito as to chemical, thermal, and tactile changes in its environment.\n\nAt a moderately magnification of 293x, this scanning electron micrograph (SEM) revealed some of the morphologic features displayed on the exoskeletal surface of an Anopheles dirus mosquito. Highlighted in the field of view was the mosquitos right antennal pedicel as it attached to the head region at the clypeus. Each antenna consists of three main sections: the pedicel, which attaches the antennae to the clypeus, the scape, or mid-region between the pedicel and the last region, or flagellum, which is the composed of varying numbers of smaller segments. Also of note is the left compound eye through which the mosquito seens a composite view of its environment, much like a mosaic depiction.\n\nAt a magnification of 114x, this scanning electron micrograph (SEM) revealed some of the morphologic features displayed on the exoskeletal surface of an Anopheles gambiae mosquitos anterior head region. Included in this field of view were the two bilaterally located antennae, the proboscis, two maxillary palps, and the clypeus, to which the aforementioned structures are attached. Also note the two bilateral multifaceted compound eyes.\n\n“At least one case of motion driven by hydration occurs in animals–the mechanism with which the males of at least one genus of mosquitoes erect the hairs on their antennae (Nijhout and Sheffield 1979). Presumably, an antenna with recumbent hairs has less drag than one with erect hairs, but only with erect hairs can a male detect the hum of a female in flight. (Females, being larger, have a lower wingbeat frequency and thus buzz at a lower pitch; a tuning fork humming such a siren song will attract males.) Adjacent to the socket of a hair is an annular pad of homogeneous protein (fig. 22.2); the angle of erection of the hair tracks the angle of unfolding of the pad. During unfolding and erection the pad increases in volume by 25-30 percent while the cells just beneath it decrease in size.” (Vogel 2003:444-445)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
   "function_addressed": [
     "modify position"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::position"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/hydration-used-to-move-hairs/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hydration",
     "used",
     "move",
     "hairs"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

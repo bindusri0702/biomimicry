@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-body-changes-shape",
   "organism_common": "Sea anemones",
-  "organism_scientific": "",
   "strategy_summary": "The central cavity of sea anemones is reinflated by water pumping in at low pressures thanks to ciliary pumps. “Consider a solid material with properties and role about as distant from bone as a supportive, compression-resisting material can be.",
   "mechanism": "The central cavity of sea anemones is reinflated by water pumping in at low pressures thanks to ciliary pumps.\n\n“Consider a solid material with properties and role about as distant from bone as a supportive, compression-resisting material can be. The body wall of a sea anemone–which can be quite substantial in size–consists of inner and outer surface layers separated by the thick mesoglea. One doesn’t go far wrong viewing the system as a tall can of seawater whose walls are mostly made of jelly…A typical anemone has a rare facility for changing shape, ranging from a low barrel to a tall cylinder with a few flourishes in between, over times ranging from seconds to hours…Obviously its mesogleal stuffing must participate in the process. Muscle drives some of the shape changes, in particular the sudden expulsion of water in the central cavity from its single apical opening. But tracts of cilia drive other changes, such as reinflation by pumping water back in. You may recall that … ciliary pumps produce exceedingly low pressures, and here we’re asking that they pump up creatures that may reach half a meter in height and live in moving water.\n\n“Alexander (1962) showed the crucial role of mesogleal viscoelasticity for anemones. In creep tests on samples, strain increased from an initial value of about 0.2 to a final level ten times that, achieved after around 10 hours. That means the mesoglea has a lot of viscosity relative to its elasticity–it’s hard to make it do anything fast but fairly easy to make it change shape slowly. It has a retardation time (calculated by Biggs; see Vincent [1990]) of a little under an hour. How nice! The pulsating or reversing flows of waves passing above won’t sweep it about very much, but after it has hunkered down, the low-pressure ciliary pump will be adequate to pump it back up again, albeit slowly. It can stand up to a single wave but deflect in a tidal current that imposes the same drag. Furthermore, the anemone’s body wall can resist the stresses of its own short-term muscle contractions, so it can bend or straighten without getting an aneurysm whenever its muscles aren’t active.” (Vogel 2003:360-361)\n\nThis video and animation from Shape of Life describes the body plan of cnidarians (the animal phylum to which anemones belong). At 1:00 watch how they use ciliary pumps to \"inflate\" themselves with sea water to stand erect and enable movement.\n\nSouthwest University of Science and Technology\n\nRobotic gripper from Southwest University of Science and Technology",
   "function_addressed": [
     "distribute liquids",
     "modify size/shape/mass/volume"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::liquids",
+    "modify-physical-state::size-shape-mass-volume"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/body-changes-shape/",
-  "source_tier": "science_journalism",
   "keywords": [
     "body",
     "changes",
     "shape"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

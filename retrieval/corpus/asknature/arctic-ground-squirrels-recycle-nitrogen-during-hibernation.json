@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-arctic-ground-squirrels-recycle-nitrogen-during-hibernation",
   "organism_common": "Arctic ground squirrel",
-  "organism_scientific": "",
   "strategy_summary": "Come the end of August, Arctic ground squirrels burrow into the tundra and curl into the shape of a comma for some eight months each year. During this time, they dial down vital biological functions, dampening such processes as metabolism and brain activity to levels just barely above those needed to sustain life.",
   "mechanism": "In most animals, long periods of inactivity lead to severe muscle and bone loss. Arctic ground squirrels face this challenge during hibernation, when they do not eat, drink, or move for months. As small amounts of muscle tissue break down, nitrogen is released in forms that could become toxic.\n\nInstead of discarding this nitrogen, the squirrels’ bodies capture and reuse it. Metabolic pathways convert the nitrogen into amino acids, the building blocks of proteins, which help maintain and rebuild tissues in the lungs, kidneys, and skeletal muscles. This strategy works like a circular economy inside the body.\n\nHow the ground squirrels do this has captured the attention of NASA. Under a 2023 NASA Space Grant, Dr. Sarah Rice at the University of Alaska-Fairbanks and others at the Center for Transformative Research in Metabolism, directed by Dr. Kelly Drew, are investigating how the animals survive an extended period of inactivity without suffering a significant loss of bone and muscle mass, both of which are major concerns for astronauts in microgravity.\n\nAs Johnson Space Center spokesperson Andrea Lloyd explains, “Without the continuous load of Earth’s gravity, the tissues that make up bones reshape themselves. Bone cells readjust their behaviors—the cells that build new bone slow down, while the cells that break down old or damaged bone tissue keep operating at their normal pace so that breakdown outpaces growth, producing weaker and more brittle bones”—a whopping one percent less dense for every month an astronaut spends in space. The “use it or lose it” rule is true for muscle tissue as well.\n\n“A long-term goal is to mimic the [ground squirrels’] metabolic adaptations in hibernation in humans,” Kelly says. And not just for the benefit of astronauts. These insights could improve the lives of people here on earth by offering potential treatments for stemming bone and muscle loss in bedridden patients or the growing number of elders suffering from sarcopenia, an age-related frailty caused by loss of muscle mass and strength.",
   "function_addressed": [
@@ -9,11 +8,16 @@
     "protect from ice",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::ice",
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/arctic-ground-squirrels-recycle-nitrogen-during-hibernation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "recycle",
     "nitrogen",
@@ -21,7 +25,5 @@
     "hibernating",
     "bodies"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

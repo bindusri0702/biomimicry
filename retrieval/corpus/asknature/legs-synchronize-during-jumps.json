@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-legs-synchronize-during-jumps",
   "organism_common": "Planthopper",
-  "organism_scientific": "",
   "strategy_summary": "Hind legs of planthoppers produce powerful synchronized jumps thanks to a mechanical linkage. Learn more about the mechanical functioning of the legs of the planthopper Issus coleoptratus in Tom McKeag’s case study, “Gearing Up (and away): How a little backyard bug might change engineering” on page 10 of Zygote…",
-  "mechanism": "Hind legs of planthoppers produce powerful synchronized jumps thanks to a mechanical linkage.\n\nLearn more about the mechanical functioning of the legs of the planthopper Issus coleoptratus in Tom McKeag’s case study, “Gearing Up (and away): How a little backyard bug might change engineering” on page 10 of Zygote Quarterly :\n\n“The hind legs of Issus (Hemiptera, Issidae) move in the sameplane underneath the body, an arrangement that means they mustalso move synchronously to power jumping. Moreover, they moveso quickly that energy must be stored before a jump and thenreleased suddenly. High speed imaging and analysis of the mechanicsof the proximal joints of the hind legs show that mechanicalmechanisms ensure both synchrony of movements and energy storage … Synchrony is achieved by mechanical interactionsbetween small protrusions from each trochantera … which touch at the midline when the legs are cocked beforea jump. In dead Issus , a depression force applied to a cockedhind leg, or to the tendon of its trochanteral depressor musclecauses a simultaneous depression of both hind legs. The protrusionof the hind leg that moves first nudges the other hind leg sothat both move synchronously. Contractions of the trochanteraldepressor muscles that precede a jump bend the metathoracicpleural arches of the internal skeleton. Large areas of thesebow-shaped structures fluoresce bright blue in ultraviolet light,and the intensity of this fluorescence depends on the pH ofthe bathing saline. These are key signatures of the rubber-likeprotein resilin. The remainder of a pleural arch consists ofstiff cuticle. Bending these composite structures stores energyand their recoil powers jumping.” (Burrows 2009:469)\n\nhttp://jeb.biologists.org/cgi/content/abstract/213/3/469?ijkey=60c39c53fc6b54e21f259e752d22069fe0522414&keytype2=tf_ipsecsha",
+  "mechanism": "Hind legs of planthoppers produce powerful synchronized jumps thanks to a mechanical linkage.\n\nLearn more about the mechanical functioning of the legs of the planthopper Issus coleoptratus in Tom McKeag’s case study, “Gearing Up (and away): How a little backyard bug might change engineering” on page 10 of Zygote Quarterly:\n\n“The hind legs of Issus (Hemiptera, Issidae) move in the sameplane underneath the body, an arrangement that means they mustalso move synchronously to power jumping. Moreover, they moveso quickly that energy must be stored before a jump and thenreleased suddenly. High speed imaging and analysis of the mechanicsof the proximal joints of the hind legs show that mechanicalmechanisms ensure both synchrony of movements and energy storage … Synchrony is achieved by mechanical interactionsbetween small protrusions from each trochantera … which touch at the midline when the legs are cocked beforea jump. In dead Issus, a depression force applied to a cockedhind leg, or to the tendon of its trochanteral depressor musclecauses a simultaneous depression of both hind legs. The protrusionof the hind leg that moves first nudges the other hind leg sothat both move synchronously. Contractions of the trochanteraldepressor muscles that precede a jump bend the metathoracicpleural arches of the internal skeleton. Large areas of thesebow-shaped structures fluoresce bright blue in ultraviolet light,and the intensity of this fluorescence depends on the pH ofthe bathing saline. These are key signatures of the rubber-likeprotein resilin. The remainder of a pleural arch consists ofstiff cuticle. Bending these composite structures stores energyand their recoil powers jumping.” (Burrows 2009:469)\n\nhttp://jeb.biologists.org/cgi/content/abstract/213/3/469?ijkey=60c39c53fc6b54e21f259e752d22069fe0522414&keytype2=tf_ipsecsha",
   "function_addressed": [
     "move in/through gases",
     "distribute energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::energy",
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/legs-synchronize-during-jumps/",
-  "source_tier": "science_journalism",
   "keywords": [
     "legs",
     "synchronize",
     "during",
     "jumps"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

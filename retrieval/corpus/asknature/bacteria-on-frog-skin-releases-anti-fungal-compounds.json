@@ -1,20 +1,26 @@
 {
   "doc_id": "asn-bacteria-on-frog-skin-releases-anti-fungal-compounds",
   "organism_common": "Frogs and toads",
-  "organism_scientific": "",
   "strategy_summary": "Lipoproteins released by bacteria on frog skin protects frogs from fungal disease. Frogs live in humid environments such as tropical forests.",
-  "mechanism": "Lipoproteins released by bacteria on frog skin protects frogs from fungal disease.\n\nFrogs live in humid environments such as tropical forests. Because of the high humidity, there is a lot of water in the air, and this helps fungi to grow more easily. Fungi can infect frogs and cause infections, similar to how humans can get fungal infections such as ‘Athlete’s Foot’. Some frog species are on the decline or have become extinct as a result of fungal infections. However, certain frog species have developed a defense against these fungi. Bacteria living on the skin of frogs of the Anuran family in Panama release compounds that protect the frogs from fungi. One specific compound, viscosin, can stop fungi growth.\n\nViscosin belongs to a class of compounds called lipopeptides . Lipopeptides are compounds made by different types of bacteria that can kill other bacteria by creating holes in their cell membrane. The cell membrane protects the cell from the outside environment and only allows certain molecules to pass through. For example, the flow of potassium ions into and out of the cell is maintained by the membrane and must be very tightly controlled. If a hole is created in the membrane, the cell can lose or gain more of an ion from the environment, causing an imbalance. As a result, the cells will die.\n\nScientists have recently shown that viscosin can also inhibit fungal infections. A major difference between bacteria and fungi is their cell wall. Gram-negative bacteria are a type of bacteria that make up the majority of infections. They have an outer membrane and an inner membrane. In contrast, a fungus cell has an outer wall made up of sugar proteins and chitin, and an inner membrane. Chitin is a strong material that protects the fungi cells and is much stronger compared to the bacterial membrane. Scientists think that viscosin works by breaking down chitin to disrupt fungus cell function, similar to bacteria. This has not been studied before and may lead to a new understanding of how different compounds kill fungi cells.\n\nResearchers have been working to discover new antifungal medicine because certain types of fungi cannot be killed using current medicines. The discovery of new compounds, such as viscosin, can help us in our fight against fungal diseases.\n\nImage: Zdeněk Macháček / toggle icon Image: Zdeněk Macháček / CC BY - Creative Commons Attribution alone toggle icon right arrow right arrow\n\nOregano\n\nVolatile compounds found in oregano destroy fungi by breaking down their cell membranes.",
+  "mechanism": "Lipoproteins released by bacteria on frog skin protects frogs from fungal disease.\n\nFrogs live in humid environments such as tropical forests. Because of the high humidity, there is a lot of water in the air, and this helps fungi to grow more easily. Fungi can infect frogs and cause infections, similar to how humans can get fungal infections such as ‘Athlete’s Foot’. Some frog species are on the decline or have become extinct as a result of fungal infections. However, certain frog species have developed a defense against these fungi. Bacteria living on the skin of frogs of the Anuran family in Panama release compounds that protect the frogs from fungi. One specific compound, viscosin, can stop fungi growth.\n\nViscosin belongs to a class of compounds called lipopeptides. Lipopeptides are compounds made by different types of bacteria that can kill other bacteria by creating holes in their cell membrane. The cell membrane protects the cell from the outside environment and only allows certain molecules to pass through. For example, the flow of potassium ions into and out of the cell is maintained by the membrane and must be very tightly controlled. If a hole is created in the membrane, the cell can lose or gain more of an ion from the environment, causing an imbalance. As a result, the cells will die.\n\nScientists have recently shown that viscosin can also inhibit fungal infections. A major difference between bacteria and fungi is their cell wall. Gram-negative bacteria are a type of bacteria that make up the majority of infections. They have an outer membrane and an inner membrane. In contrast, a fungus cell has an outer wall made up of sugar proteins and chitin, and an inner membrane. Chitin is a strong material that protects the fungi cells and is much stronger compared to the bacterial membrane. Scientists think that viscosin works by breaking down chitin to disrupt fungus cell function, similar to bacteria. This has not been studied before and may lead to a new understanding of how different compounds kill fungi cells.\n\nResearchers have been working to discover new antifungal medicine because certain types of fungi cannot be killed using current medicines. The discovery of new compounds, such as viscosin, can help us in our fight against fungal diseases.\n\nOregano\n\nVolatile compounds found in oregano destroy fungi by breaking down their cell membranes.",
   "function_addressed": [
     "biological control of populations, pests, diseases",
     "manage disturbance in a community",
     "cooperate/compete between different species",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::between-different-species",
+    "protect-from-living-threats::microbes",
+    "provide-ecosystem-services::biological-control-of-populations-pests-diseases",
+    "provide-ecosystem-services::manage-disturbance-in-a-community"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "protect-from-living-threats",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/bacteria-on-frog-skin-releases-anti-fungal-compounds/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bacteria",
     "frog",
@@ -23,7 +29,5 @@
     "anti-fungal",
     "compounds"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

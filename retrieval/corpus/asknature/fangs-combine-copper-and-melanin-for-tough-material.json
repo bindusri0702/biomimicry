@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-fangs-combine-copper-and-melanin-for-tough-material",
   "organism_common": "Bloodworm",
-  "organism_scientific": "",
   "strategy_summary": "Bloodworms are small, segmented worms that get their name from the fact that they often appear red due to the presence of hemoglobin in their bodies. They are found in shallow marine water, and are a popular bait for fishing.",
   "mechanism": "The jaws of bloodworms contain a protein called multi-tasking protein (MTP), which is responsible for several different functions in their construction. It binds to copper, enables droplets to form, converts Dopa to melanin, and integrates the copper and melanin into an ultra strong composite material.\n\nThe ability of MTP to perform so many different functions critical to the formation and performance of the bloodworm jaw is a remarkable example of the versatility of proteins. This could have potential applications in the development of new materials and nanotechnology.",
   "function_addressed": [
     "capture, absorb, or filter organisms",
     "chemically assemble inorganic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::inorganic-compounds"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "chemically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/fangs-combine-copper-and-melanin-for-tough-material/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fangs",
     "combine",
@@ -21,7 +23,5 @@
     "tough",
     "material"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

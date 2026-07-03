@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-taste-neurons-detect-co2",
   "organism_common": "Common fruit fly",
-  "organism_scientific": "",
   "strategy_summary": "Specialized taste neurons of fruit flies detect CO2 to mediate taste acceptance. Female Drosophila melanogaster  “There are five known taste modalities in humans: sweet, bitter, sour, salty and umami (the taste of monosodium glutamate).",
   "mechanism": "Specialized taste neurons of fruit flies detect CO2 to mediate taste acceptance.\n\nFemale Drosophila melanogaster\n\n“There are five known taste modalities in humans: sweet, bitter, sour, salty and umami (the taste of monosodium glutamate). Although the fruitfly Drosophila melanogaster tastes sugars, salts and noxious chemicals, the nature and number of taste modalities in this organism is not clear…Here we identify a novel taste modality in this insect: the taste of carbonated water…The taste of carbonation may allow Drosophila to detect and obtain nutrients from growing microorganisms. Whereas CO 2 detection by the olfactory system mediates avoidance, CO 2 detection by the gustatory system mediates acceptance behaviour, demonstrating that the context of CO 2 determines appropriate behaviour. This work opens up the possibility that the taste of carbonation may also exist in other organisms.” (Fischler 2007:1054)",
   "function_addressed": [
     "sense chemicals (odor, taste, etc.) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/taste-neurons-detect-co2/",
-  "source_tier": "science_journalism",
   "keywords": [
     "taste",
     "neurons",
     "detect"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

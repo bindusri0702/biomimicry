@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-photoperiod-affects-immune-response",
   "organism_common": "Siberian dwarf hamster",
-  "organism_scientific": "",
   "strategy_summary": "Macrophages in Siberian hamsters respond differently to pathogens depending on the photoperiod. selbstfotografiert von <a href=http://de.wikipedia.org/wiki/Benutzer:Doenertier82 class=extiw title=de:Benutzer:Doenertier82>Doenertier82</a>  Phodopus Sungorus",
   "mechanism": "Macrophages in Siberian hamsters respond differently to pathogens depending on the photoperiod.\n\nselbstfotografiert von <a href=http://de.wikipedia.org/wiki/Benutzer:Doenertier82 class=extiw title=de:Benutzer:Doenertier82>Doenertier82</a>\n\nPhodopus Sungorus",
   "function_addressed": [
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/photoperiod-affects-immune-response/",
-  "source_tier": "science_journalism",
   "keywords": [
     "photoperiod",
     "affects",
     "immune",
     "response"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

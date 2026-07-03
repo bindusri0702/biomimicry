@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-proteins-share-iron",
   "organism_common": "Crocosphaera watsonii",
-  "organism_scientific": "",
   "strategy_summary": "Marine cyanobacteria, Crocosphaera watsonii, doubles the effectiveness of a critical, but scarce nutrient by serially sharing the nutrient between two key processes. What is an organism to do when it has two tasks to perform but only enough resources to do one?",
   "mechanism": "Marine cyanobacteria, Crocosphaera watsonii, doubles the effectiveness of a critical, but scarce nutrient by serially sharing the nutrient between two key processes.\n\nWhat is an organism to do when it has two tasks to perform but only enough resources to do one? Crocosphaera watsonii solves the problem by doing only one of the tasks at a time and recycling the reources. The protein s that C. watsonii uses to perform photosynthesis and the ones it uses to fix nitrogen gas both require iron; however, iron is a scarce mineral in the open ocean. By using its iron reserves in photosynthetic proteins during the day, then breaking the proteins down and reusing the iron for the nitrogen fixing proteins at night, C. watsonii is able to survive and flourish without much iron, though it does require an input of energy to keep the recyling process going.",
   "function_addressed": [
@@ -9,17 +8,20 @@
     "adapt phenotype",
     "optimize shape/materials"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-phenotype",
+    "adapt-optimize::optimize-space-materials",
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/proteins-share-iron/",
-  "source_tier": "science_journalism",
   "keywords": [
     "proteins",
     "share",
     "iron"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

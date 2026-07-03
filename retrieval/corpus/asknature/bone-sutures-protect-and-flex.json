@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-bone-sutures-protect-and-flex",
   "organism_common": "Vertebrates (Mammals, Fish, Birds, Reptiles)",
-  "organism_scientific": "",
   "strategy_summary": "Sutures between bony plates protect from impact and provide flexibility  Plate shaped bones are found in the crania (skulls) of vertebrates as well as in the shells of turtles and tortoises. In skulls as well as in shells, these bones protect the inner organs from impact, but they must also be able to accommodate…",
-  "mechanism": "Sutures between bony plates protect from impact and provide flexibility\n\nPlate shaped bones are found in the crania (skulls) of vertebrates as well as in the shells of turtles and tortoises. In skulls as well as in shells, these bones protect the inner organs from impact, but they must also be able to accommodate movement and growth.\n\nAt birth, there are gaps between the plates of a baby’s skull. As the baby develops, the plates grow and fuse so that by around 18 months of age, the gaps have disappeared. However, the bones do not completely fuse and the joins between them, called cranial sutures, are packed with soft connective tissue and function as very stiff joints. These joints provide a mixture of protection and flexibility that enable the cranium to accommodate the growing brain. Cranial sutures do finally ossify (become solid bone), but not until we are around 30 years of age, when the brain has finally ceased to grow. In turtles, the shell is formed when bony plates that grow between the ribs fuse. Fusion occurs after the turtle has hatched and remains a stiff but slightly flexible suture joint for its entire life.\n\nSutures have a unique structure: they form wavy interdigitations, with bone from each adjoining plate inserting finger-like projections into the plate next to it. This forms the very wiggly line that gives the feature its name.\n\nLike vertebrate skulls, turtle shell sutures are also highly wavy. In their case, however, the interdigitations form in three dimensions, meaning the sutures are wavy through the shell as well as along it. In a turtle shell, impact protection is the primary function, and so resistance is critical. However, various internal organs required for movement and respiration are attached to the inside of the shell and these can be more efficiently carried out if the structure has some flexibility. When impacted, the finger-like projections of sutures “jam,” increasing toughness. The higher the degree of interdigitation, the better the impact resistance of the bone.\n\nBone sutures are less tolerant to bending than non-sutured flat bone; however, the sutures have greater impact resistance. In this way, turtle shells and our skulls combine the flexibility needed to grow and move with protection from hard knocks.\n\nImage: Pere López / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon Image: Roland Unger / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon Image: Kyle Bedell / CC BY - Creative Commons Attribution alone toggle icon right arrow right arrow",
+  "mechanism": "Sutures between bony plates protect from impact and provide flexibility\n\nPlate shaped bones are found in the crania (skulls) of vertebrates as well as in the shells of turtles and tortoises. In skulls as well as in shells, these bones protect the inner organs from impact, but they must also be able to accommodate movement and growth.\n\nAt birth, there are gaps between the plates of a baby’s skull. As the baby develops, the plates grow and fuse so that by around 18 months of age, the gaps have disappeared. However, the bones do not completely fuse and the joins between them, called cranial sutures, are packed with soft connective tissue and function as very stiff joints. These joints provide a mixture of protection and flexibility that enable the cranium to accommodate the growing brain. Cranial sutures do finally ossify (become solid bone), but not until we are around 30 years of age, when the brain has finally ceased to grow. In turtles, the shell is formed when bony plates that grow between the ribs fuse. Fusion occurs after the turtle has hatched and remains a stiff but slightly flexible suture joint for its entire life.\n\nSutures have a unique structure: they form wavy interdigitations, with bone from each adjoining plate inserting finger-like projections into the plate next to it. This forms the very wiggly line that gives the feature its name.\n\nLike vertebrate skulls, turtle shell sutures are also highly wavy. In their case, however, the interdigitations form in three dimensions, meaning the sutures are wavy through the shell as well as along it. In a turtle shell, impact protection is the primary function, and so resistance is critical. However, various internal organs required for movement and respiration are attached to the inside of the shell and these can be more efficiently carried out if the structure has some flexibility. When impacted, the finger-like projections of sutures “jam,” increasing toughness. The higher the degree of interdigitation, the better the impact resistance of the bone.\n\nBone sutures are less tolerant to bending than non-sutured flat bone; however, the sutures have greater impact resistance. In this way, turtle shells and our skulls combine the flexibility needed to grow and move with protection from hard knocks.",
   "function_addressed": [
     "manage impact",
     "prevent fracture/rupture"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::impact",
+    "prevent-structural-failure::fracture-rupture"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/bone-sutures-protect-and-flex/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bone",
     "sutures",
     "protect",
     "flex"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

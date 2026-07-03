@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-beak-design-absorbs-high-energy-impacts",
   "organism_common": "Common toucan",
-  "organism_scientific": "",
   "strategy_summary": "The structure of the toucan beak teaches us principles of composite material design for light-weight strength and stiffness. Despite its large size (a third of the length of the bird) and considerable strength, the toucan beak comprises only one twentieth the bird’s mass.",
   "mechanism": "The beak’s solid outer shell sandwiches within it a closed-cell, foam-like structure made of struts which, together with thin protein membranes, enclose variably shaped air spaces. The solid shell layer is built of overlapping, hexagonally-shaped thin plates of keratin protein held together by an organic glue. The internal closed-cell structural support is comprised of keratin fibers with greater mineralization, by calcium and other salts, than in either the membranes or the solid shell layers to increase hardness. The closed cell structure offers a more complex energy absorption capacity and resistance to compression than the bending deformation typical of open celled structures. The rotational deformation of cell walls, stretching of membranes, and the internal gas pressure all contribute to those features. There is a synergistic effect of the shell layer and foam-like interior elements that together gives it greater strength than the sum of the strengths of those individual parts.\n\nMaterial designs inspired by the structure of the toucan beak could offer the properties of low weight with high stiffness and strength, as well as good energy absorption capacity and insulation value, such as could be useful in developing crash resistance in vehicles without compromising fuel economy.",
   "function_addressed": [
     "manage impact"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::impact"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/beak-design-absorbs-high-energy-impacts/",
-  "source_tier": "science_journalism",
   "keywords": [
     "beak",
     "design",
@@ -19,7 +20,5 @@
     "high-energy",
     "impacts"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

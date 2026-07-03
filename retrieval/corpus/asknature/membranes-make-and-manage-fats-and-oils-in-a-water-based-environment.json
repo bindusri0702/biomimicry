@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-membranes-make-and-manage-fats-and-oils-in-a-water-based-environment",
   "organism_common": "Common to all organisms",
-  "organism_scientific": "",
   "strategy_summary": "Lipid membranes in living cells facilitate non-polar chemistry in an aqueous environment by forming microscopic spaces friendly to fat-soluble compounds. Unlike modern industry, biological systems are capable of performing complex chemistry with both water-soluble (polar) and oily (non-polar) compounds in a…",
   "mechanism": "Lipid membranes in living cells facilitate non-polar chemistry in an aqueous environment by forming microscopic spaces friendly to fat-soluble compounds.\n\nUnlike modern industry, biological systems are capable of performing complex chemistry with both water-soluble (polar) and oily (non-polar) compounds in a water-based environment. Most industrial operations, however, rely on often toxic chemical solvents to perform complex reactions with non-polar substances. Organisms have evolved the ability to manipulate non-polar molecules in water because they have no other choice–Earth is a water-based environment. They’ve achieved this feat by developing what could be referred to as “micro environments” that provide non-polar substances a favorable molecular-sized, water-soluble envelop including globular proteins, lipid bilayers, and micelles.\n\nCross section of the difrerent structures that phospholipids can take in a aqueous solution. The circles are the hydrophilic heads and the wavy lines are the fatty acyl side chains.",
   "function_addressed": [
     "modify solubility (dissolving, emulsifying, precipitating, crystallizing)"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-chemical-electrical-state::solubility"
+  ],
+  "subgroup_keys": [
+    "modify-chemical-electrical-state"
+  ],
   "source_url": "https://asknature.org/strategy/membranes-make-and-manage-fats-and-oils-in-a-water-based-environment/",
-  "source_tier": "science_journalism",
   "keywords": [
     "membranes",
     "make",
@@ -20,7 +21,5 @@
     "oils",
     "water-based"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

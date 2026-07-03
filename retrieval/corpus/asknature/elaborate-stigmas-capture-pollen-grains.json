@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-elaborate-stigmas-capture-pollen-grains",
   "organism_common": "Grasses",
-  "organism_scientific": "",
   "strategy_summary": "The stigmas of grasses capture flying pollen due to their elaborate shape. “[The flowers] of grasses consist of no more than tiny clusters of dry brown or greenish scales from which the stamens protrude when the right moment comes.",
   "mechanism": "The stigmas of grasses capture flying pollen due to their elaborate shape.\n\n“[The flowers] of grasses consist of no more than tiny clusters of dry brown or greenish scales from which the stamens protrude when the right moment comes. Their stigmas, which have to intercept flying pollen grains are particularly elaborate, often shaped like combs.” (Attenborough 1995:96-98)",
   "function_addressed": [
     "capture, absorb, or filter solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::solids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/elaborate-stigmas-capture-pollen-grains/",
-  "source_tier": "science_journalism",
   "keywords": [
     "elaborate",
     "stigmas",
@@ -19,7 +20,5 @@
     "pollen",
     "grains"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

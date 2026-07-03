@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-environmental-disturbance-promotes-diversity",
   "organism_common": "Wet prairie ecosystem",
-  "organism_scientific": "",
   "strategy_summary": "Grasses of wet prairies in South Florida thrive by being adapted to fire during the growing season. “We measured the effects of prescribed fire during January (dormant season) and May (growing season) on flowering of three perennial grasses, muhly ( Muhlenbergia capillaris ), gulfdune paspalum ( Paspalum monostachyum…",
   "mechanism": "Grasses of wet prairies in South Florida thrive by being adapted to fire during the growing season.\n\n“We measured the effects of prescribed fire during January (dormant season) and May (growing season) on flowering of three perennial grasses, muhly ( Muhlenbergia capillaris ), gulfdune paspalum ( Paspalum monostachyum ), and south Florida bluestem ( Schizachyrium rhizomatum ), which are dominant grasses in wet prairies of south Florida, USA. Flowering was promoted by growing season fire but not by dormant season fire. Flowering was significantly greater for all species following prescribed fire conducted during May compared with areas burned during January of the same calendar year. The strong positive effect of growing season fire on flowering of all three species decreased after the first growing season. We rejected the hypothesis that season of fire did not influence flowering. Our results indicated that flowering by these dominant, wet prairie grasses is promoted by early growing season fire, which corresponds to historical patterns of lightning-ignited fire in south Florida.” (Main and Barry 2002:430)",
   "function_addressed": [
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::maintain-biodiversity"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/environmental-disturbance-promotes-diversity/",
-  "source_tier": "science_journalism",
   "keywords": [
     "environmental",
     "disturbance",
     "promotes",
     "diversity"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

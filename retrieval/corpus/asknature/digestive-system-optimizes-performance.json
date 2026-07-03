@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-digestive-system-optimizes-performance",
   "organism_common": "Indian python",
-  "organism_scientific": "",
   "strategy_summary": "The gastrointestinal system in burmese pythons quickly regulates performance between fasting and feeding (leading to energy savings) thanks to cell plasticity. “The morphology of the digestive system in fasting and refed Burmese pythons was determined, as well as the localization of the proton (H+, K+-ATPase) and…",
   "mechanism": "The gastrointestinal system in burmese pythons quickly regulates performance between fasting and feeding (leading to energy savings) thanks to cell plasticity.\n\n“The morphology of the digestive system in fasting and refed Burmese pythons was determined, as well as the localization of the proton (H+, K+-ATPase) and sodium (Na+, K+-ATPase) pumps. In fasting pythons, oxyntopeptic cells located within the fundic glands are typically non-active, with a thick apical tubulovesicular system and numerous zymogen granules. They become active immediately after feeding but return to a non-active state 3 days after the ingestion of the prey. The proton pump, expressed throughout the different fasting/feeding states, is either sequestered in the tubulovesicular system in non-active cells or located along the apical digitations extending within the crypt lumen in active cells. The sodium pump is rapidly upregulated in fed animals and is classically located along the baso-lateral membranes of the gastric oxyntopeptic cells. In the intestine, it is only expressed along the lateral membranes of the enterocytes, i.e., above the lateral spaces and not along the basal side of the cells. Thus, solute transport within the intestinal lining is mainly achieved through the apical part of the cells and across the lateral spaces while absorbed fat massively crosses the entire height of the cells and flows into the intercellular spaces. Therefore, in the Burmese python, the gastrointestinal cellular system quickly upregulates after feeding, due to inexpensive cellular changes, passive mechanisms, and the progressive activation and synthesis of key enzymes such as the sodium pump. This cell plasticity also allows anticipation of the next fasting and feeding periods.” (Helmstetter et al. 2009:632)",
   "function_addressed": [
@@ -9,18 +8,22 @@
     "modify material characteristics",
     "regulate cellular processes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "modify-physical-state::material-characteristics",
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "modify-physical-state",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/digestive-system-optimizes-performance/",
-  "source_tier": "science_journalism",
   "keywords": [
     "digestive",
     "system",
     "optimizes",
     "performance"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

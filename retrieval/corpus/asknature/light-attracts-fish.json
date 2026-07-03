@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-light-attracts-fish",
   "organism_common": "Black skimmer",
-  "organism_scientific": "",
   "strategy_summary": "The lower mandible of skimmer birds is used to improve their nighttime fishing technique by disturbing phosphorescent plankton in the water, attracting fish to the surface. Photograph taken by <a href=http://en.wikipedia.org/wiki/User:Googie_man class=extiw title=en:User:Googie man>Googie Man</a>  immature Ryncops…",
   "mechanism": "The lower mandible of skimmer birds is used to improve their nighttime fishing technique by disturbing phosphorescent plankton in the water, attracting fish to the surface.\n\nPhotograph taken by <a href=http://en.wikipedia.org/wiki/User:Googie_man class=extiw title=en:User:Googie man>Googie Man</a>\n\nimmature Ryncops niger\n\n“The skimmer…has a unique fishing technique. It hunts at dusk or by night, flying low across the water, opening its beak and trailing its lower mandible in the water as it flies. This creates a line of light in its wake, which attracts fish. The bird then returns along the same path to pick up the fish, its beak snapping shut on contact with an edible object.” (Foy and Oxford Scientific Films 1982:154)",
   "function_addressed": [
@@ -9,17 +8,20 @@
     "modify light/color",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "send-signals::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "modify-physical-state",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/light-attracts-fish/",
-  "source_tier": "science_journalism",
   "keywords": [
     "light",
     "attracts",
     "fish"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,26 +1,29 @@
 {
   "doc_id": "asn-pressure-forces-blood-from-pores",
   "organism_common": "Eastern lubber grasshopper",
-  "organism_scientific": "",
   "strategy_summary": "Weak pores in the cuticle of certain grasshoppers ooze blood plasma as the hydrostatic pressure within the grasshoppers' bodies increases. “A number of insects also release blood in order to deter predators.",
-  "mechanism": "Weak pores in the cuticle of certain grasshoppers ooze blood plasma as the hydrostatic pressure within the grasshoppers' bodies increases.\n\n“A number of insects also release blood in order to deter predators. Some of the most dramatic examples occur among grasshoppers of the genus Dictyophorus . When threatened, hydrostatic pressure within the grasshopper’s body increases, forcing blood plasma out of weak pores in the body’s cuticle. As it emerges, the blood mixes with air and converts into a disgusting froth that covers the insect’s body surface. The froth contains a repellent so noxious that any creature brave enough to attempt to eat this vile-looking insect soon drops it and beats a hasty retreat. Once alone again, the grasshopper reabsorbs much of its blood by decreasing its body’s internal hydrostatic pressure.” (Shuker 2001: 130)",
+  "mechanism": "Weak pores in the cuticle of certain grasshoppers ooze blood plasma as the hydrostatic pressure within the grasshoppers' bodies increases.\n\n“A number of insects also release blood in order to deter predators. Some of the most dramatic examples occur among grasshoppers of the genus Dictyophorus. When threatened, hydrostatic pressure within the grasshopper’s body increases, forcing blood plasma out of weak pores in the body’s cuticle. As it emerges, the blood mixes with air and converts into a disgusting froth that covers the insect’s body surface. The froth contains a repellent so noxious that any creature brave enough to attempt to eat this vile-looking insect soon drops it and beats a hasty retreat. Once alone again, the grasshopper reabsorbs much of its blood by decreasing its body’s internal hydrostatic pressure.” (Shuker 2001: 130)",
   "function_addressed": [
     "capture, absorb, or filter liquids",
     "distribute liquids",
     "expel liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids",
+    "distribute::liquids",
+    "expel::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "distribute",
+    "expel"
+  ],
   "source_url": "https://asknature.org/strategy/pressure-forces-blood-from-pores/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pressure",
     "forces",
     "blood",
     "pores"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

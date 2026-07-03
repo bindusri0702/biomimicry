@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-growth-rate-aids-fire-resistance",
   "organism_common": "Monkey bread",
-  "organism_scientific": "",
   "strategy_summary": "The camel's foot tree, found in the African savanna, resists fire due to its ability to quickly resprout from underground storage structures. “Bark properties (mainly thickness) are usually presented as the main explanation for tree survival in intense fires.",
-  "mechanism": "The camel's foot tree, found in the African savanna, resists fire due to its ability to quickly resprout from underground storage structures.\n\n“Bark properties (mainly thickness) are usually presented as the main explanation for tree survival in intense fires. Savanna fires are mild, frequent, and supposed to affect tree recruitment rather than adult survival: trunk profile and growth rate of young trees between two successive fires can also affect survival. These factors and fire severity were measured on a sample of 20 trees near the recruitment stage of two savanna species chosen for their contrasted fire resistance strategies ( Crossopteryx febrifuga and Piliostigma thonningii [Synonym: Bauhinia thonningii ]). Crossopteryx has a higher intrinsic resistance to fire (bark properties) than Piliostigma : a 20-mm-diameter stem of Crossopteryx survives exposure to 650°C, while Piliostigma needs a diameter of at least 40 mm to survive. Crossopteryx has a thicker trunk than Piliostigma : for two trees of the same height, the basal diameter of Crossopteryx will be 1.6 times greater. Piliostigma grows 2.26 times faster than Crossopteryx between two successive fires. The two species have different fire resistance strategies: one relies on resistance of aboveground structures to fire [ Crossopteryx ], while the other [ Piliostigma ] relies on its ability to quickly re-build aboveground structures.” (Gignoux et al. 1997:576)",
+  "mechanism": "The camel's foot tree, found in the African savanna, resists fire due to its ability to quickly resprout from underground storage structures.\n\n“Bark properties (mainly thickness) are usually presented as the main explanation for tree survival in intense fires. Savanna fires are mild, frequent, and supposed to affect tree recruitment rather than adult survival: trunk profile and growth rate of young trees between two successive fires can also affect survival. These factors and fire severity were measured on a sample of 20 trees near the recruitment stage of two savanna species chosen for their contrasted fire resistance strategies ( Crossopteryx febrifuga and Piliostigma thonningii [Synonym: Bauhinia thonningii ]). Crossopteryx has a higher intrinsic resistance to fire (bark properties) than Piliostigma: a 20-mm-diameter stem of Crossopteryx survives exposure to 650°C, while Piliostigma needs a diameter of at least 40 mm to survive. Crossopteryx has a thicker trunk than Piliostigma: for two trees of the same height, the basal diameter of Crossopteryx will be 1.6 times greater. Piliostigma grows 2.26 times faster than Crossopteryx between two successive fires. The two species have different fire resistance strategies: one relies on resistance of aboveground structures to fire [ Crossopteryx ], while the other [ Piliostigma ] relies on its ability to quickly re-build aboveground structures.” (Gignoux et al. 1997:576)",
   "function_addressed": [
     "regulate reproduction or growth",
     "protect from fire"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::fire",
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/growth-rate-aids-fire-resistance/",
-  "source_tier": "science_journalism",
   "keywords": [
     "growth",
     "rate",
@@ -20,7 +23,5 @@
     "fire",
     "resistance"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

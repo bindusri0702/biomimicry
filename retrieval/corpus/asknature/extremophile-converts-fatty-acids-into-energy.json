@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-extremophile-converts-fatty-acids-into-energy",
   "organism_common": "Syntrophus aciditrophicus",
-  "organism_scientific": "",
   "strategy_summary": "Metabolic process of extremophile bacteria converts fatty acids into a variety of secondary compounds, including hydrogen, by running normal metabolism backwards. “It survives on a food so unrewarding it needs help disposing of its waste.",
-  "mechanism": "Metabolic process of extremophile bacteria converts fatty acids into a variety of secondary compounds, including hydrogen, by running normal metabolism backwards.\n\n“It survives on a food so unrewarding it needs help disposing of its waste. Eking out an existence only by turning the normal chemistry of life back to front, the bacterium Syntrophus aciditrophicus is one of the most extreme-living organisms known. Now its genome has been sequenced and is yielding clues as to how it survives. It might even help us make hydrogen from waste. Robert Gunsalus of the University of California, Los Angeles, and colleagues identified 3169 genes in Syntrophus . The bacterium performs a key part of the carbon cycle by breaking down fatty acids–used by almost no other organisms as an energy source. To do this, its genes stand normal energy-generation reactions on their head (Proceedings of the National Academy of Sciences, DOI: 10.1073/pnas.0610456104). In normal respiration, organic compounds are oxidised, and the electrons this liberates are used to drive the production of the energy-storage molecule ATP. In Syntrophus the electrons go the opposite way as the bacterium turns fatty acids into a variety of breakdown products that it feeds on, plus hydrogen and the chemical formate. It survives only with the ‘help’ of other bacteria that hoover up the hydrogen and formate–otherwise it could not feed. Understanding the bacterium’s metabolism will ‘hopefully make biohydrogen production a reality’, says Gunsalus.” (Hooper 2007: 12) from issue 2600 of New Scientist magazine, 21 April 2007, page 12)",
+  "mechanism": "Metabolic process of extremophile bacteria converts fatty acids into a variety of secondary compounds, including hydrogen, by running normal metabolism backwards.\n\n“It survives on a food so unrewarding it needs help disposing of its waste. Eking out an existence only by turning the normal chemistry of life back to front, the bacterium Syntrophus aciditrophicus is one of the most extreme-living organisms known. Now its genome has been sequenced and is yielding clues as to how it survives. It might even help us make hydrogen from waste. Robert Gunsalus of the University of California, Los Angeles, and colleagues identified 3169 genes in Syntrophus. The bacterium performs a key part of the carbon cycle by breaking down fatty acids–used by almost no other organisms as an energy source. To do this, its genes stand normal energy-generation reactions on their head (Proceedings of the National Academy of Sciences, DOI: 10.1073/pnas.0610456104). In normal respiration, organic compounds are oxidised, and the electrons this liberates are used to drive the production of the energy-storage molecule ATP. In Syntrophus the electrons go the opposite way as the bacterium turns fatty acids into a variety of breakdown products that it feeds on, plus hydrogen and the chemical formate. It survives only with the ‘help’ of other bacteria that hoover up the hydrogen and formate–otherwise it could not feed. Understanding the bacterium’s metabolism will ‘hopefully make biohydrogen production a reality’, says Gunsalus.” (Hooper 2007: 12) from issue 2600 of New Scientist magazine, 21 April 2007, page 12)",
   "function_addressed": [
     "chemically break down organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/extremophile-converts-fatty-acids-into-energy/",
-  "source_tier": "science_journalism",
   "keywords": [
     "extremophile",
     "converts",
@@ -19,7 +20,5 @@
     "acids",
     "energy"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

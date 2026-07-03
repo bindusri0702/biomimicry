@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-moving-cilia-create-iridescence",
   "organism_common": "Beroë",
-  "organism_scientific": "",
   "strategy_summary": "This is a picture of two frolicking comb jellies (Beroe spp.) at the Monterey Bay Aquarium, February 2006. Comb jelly showing iridescence.",
   "mechanism": "This is a picture of two frolicking comb jellies (Beroe spp.) at the Monterey Bay Aquarium, February 2006.\n\nComb jelly showing iridescence.\n\n“Ctenophores, comb-jellies or comb-jellyfishes, are common names for marine animals of the phylum Ctenophora. All parts of their deformable body, including muscles, are transparent. The refractive index of their tissues matches nearly exactly that of the salted water in which they live, consequently they are difficult to perceive, except under intense illumination, when the irregularities of their outer membrane produce some faint light scattering. The species Beroë cucumis has the form of oblong ellipsoids (a “cucumber” shape) with a mouth aperture in the forward swimming direction. Eight rows of locomotory cilia run along the body of the animal…These organs are usually much more easily visible than the rest of the body surface, due to the stronger light scattering which takes place on these protrusions. Moreover, the “comb”-rows appear to be brightly colored, showing an iridescence that rainbows across the whole visible spectrum as the combs beat for locomotion. As the rest of the paper will make clear, this is not related to any bioluminescence but can be understood as selective reflection from a two-dimensional photonic-crystal.” (Welch et al. 2006:041916-1)",
   "function_addressed": [
     "transform radiant energy (light)",
     "send light signals in the visible spectrum"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::light-visible-spectrum",
+    "transform-convert-energy::radiant-energy-light"
+  ],
+  "subgroup_keys": [
+    "send-signals",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/moving-cilia-create-iridescence/",
-  "source_tier": "science_journalism",
   "keywords": [
     "moving",
     "cilia",
     "create",
     "iridescence"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-keratin-strengthens-and-protects-using-lightweight-protein-networks",
   "organism_common": "Vertebrates (Mammals, Fish, Birds, Reptiles)",
-  "organism_scientific": "",
   "strategy_summary": "Keratin is a structural protein made primarily by epithelial cells, especially those in the skin. As these cells mature, many of them undergo a remarkable transformation: they stop dividing, pack themselves with keratin, and die, becoming tough, resilient building blocks.",
   "mechanism": "Keratin proteins are long chains of amino acid s that organize themselves into two main shapes: α-helices, which are spring-like coils found in soft keratins (like wool and skin), and β-sheets, which are flat, layered structures found in hard keratins (like feathers, nails, and claws). These shapes let the protein chains pack tightly together and resist stretching or tearing. Keratin chains don’t just sit side by side, they bind to each other using strong connections called disulfide bonds, which form between sulfur atoms in the amino acid cysteine. These sulfur bridges help stiffen the material and lock the protein shapes in place.\n\nKeratin structures are hierarchical, meaning they’re built in layers, like strands within ropes. Individual protein chains form coils or sheets, which bundle into filaments, then twist into larger fibers, and finally form whole tissues like feathers or hooves. This multi-layered setup distributes stress and gives keratin its ability to bend without breaking. Hydrophobic interactions and hydrogen bonds add even more strength and water resistance. Together, these features make keratin a lightweight but durable material, built entirely at body temperature from renewable ingredients, with no need for synthetic chemicals or heat-intensive processing.\n\nKeratin offers a compelling model for how to build strong, lightweight, and sustainable materials. By assembling proteins into layered, interlocking networks at ambient temperatures, organisms create structures that are both tough and flexible without relying on toxic chemicals, synthetic polymers, or high-energy processes. This strategy shows that it’s possible to design materials that perform well under stress yet remain biodegradable and safe at the end of their use.\n\nInspired by keratin’s hierarchical structure and reversible bonding, designers and engineers can create coatings, fibers, or composites that combine durability with circularity. Materials that hold strong when needed but disassemble under the right conditions, through enzymes, moisture, or microbial action, can help eliminate waste, reduce reliance on fossil fuels, and support regenerative systems.",
   "function_addressed": [
@@ -11,11 +10,20 @@
     "protect from chemicals",
     "protect from plants"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::organic-compounds",
+    "physically-assemble::structure",
+    "protect-from-living-threats::plants",
+    "protect-from-non-living-threats::chemicals",
+    "protect-from-non-living-threats::dirt-solids"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "physically-assemble",
+    "protect-from-living-threats",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/keratin-strengthens-and-protects-using-lightweight-protein-networks/",
-  "source_tier": "science_journalism",
   "keywords": [
     "keratin",
     "strengthens",
@@ -24,7 +32,5 @@
     "protein",
     "networks"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

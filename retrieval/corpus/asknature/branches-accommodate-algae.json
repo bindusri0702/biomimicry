@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-branches-accommodate-algae",
   "organism_common": "Sea slug",
-  "organism_scientific": "",
   "strategy_summary": "The gut of one sea slug accommodates the algae it farms for nutrition by branching into leaf-like tentacles for increased housing space. “One sea-slug common on the Great Barrier Reef in Australia has taken this practice even further.",
   "mechanism": "The gut of one sea slug accommodates the algae it farms for nutrition by branching into leaf-like tentacles for increased housing space.\n\n“One sea-slug common on the Great Barrier Reef in Australia has taken this practice even further. It is able to stimulate its captive algae so that they proliferate to an unusual degree. To accommodate the greater numbers produced in this way, it develops branches in its gut which extend into leaf-like tentacles along its flanks. Having stocked its tentacles with plants, the sea-slug moves away from the feeding grounds among the coral where it first acquired the algae. It seldom if ever feeds on coral again. It is sustained entirely, it seems, by its internal gardens.” (Attenborough 1995:204-205)",
   "function_addressed": [
     "optimize shape/materials"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize"
+  ],
   "source_url": "https://asknature.org/strategy/branches-accommodate-algae/",
-  "source_tier": "science_journalism",
   "keywords": [
     "branches",
     "accommodate",
     "algae"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

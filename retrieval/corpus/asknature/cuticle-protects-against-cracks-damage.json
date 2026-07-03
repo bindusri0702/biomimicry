@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-cuticle-protects-against-cracks-damage",
   "organism_common": "Desert locust",
-  "organism_scientific": "",
   "strategy_summary": "Cuticle on legs of locust withstands damage without loss of strength through fracture toughness and low stiffness. Insect exoskeletons are made from cuticle, which is among the most common biomaterials.",
   "mechanism": "Cuticle on legs of locust withstands damage without loss of strength through fracture toughness and low stiffness.\n\nInsect exoskeletons are made from cuticle, which is among the most common biomaterials. They are extremely lightweight and yet immensely strong and durable. Cuticles such as those found on the legs of locust must be able to withstand many high and repetitive forces (e.g., jumping). One might imagine that such lightweight material would break down quickly after repetitive exposure to such forces, but to the contrary, these cuticles are able to avoid desiccation and damage by implying their own mechanical forces. A recent study done by researchers Dirks and Taylor has quantified the mechanical forces used by these small insects. Their results show that only those of metal materials surmount the high value of their fracture toughness (the quantified value of the external force applied to it). What is unique about this cuticle is that unlike most strong materials, there is no mineral reinforcement (such as that found in bone). The lack of reinforcement allows the cuticle to remain fairly flexible and yet remarkably strong.",
   "function_addressed": [
@@ -9,11 +8,16 @@
     "manage compression",
     "manage mechanical wear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::impact",
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/cuticle-protects-against-cracks-damage/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cuticle",
     "protects",
@@ -21,7 +25,5 @@
     "cracks",
     "damage"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

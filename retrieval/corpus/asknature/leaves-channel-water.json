@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-leaves-channel-water",
   "organism_common": "Peepul tree",
-  "organism_scientific": "",
   "strategy_summary": "The leaves of some tropical plants channel water off their surface via unique shape, called drip tips. The sacred fig tree is a type of ficus that grows very large, up to 30 m (98 ft.) tall, in humid areas in its native India.",
-  "mechanism": "The leaves of some tropical plants channel water off their surface via unique shape, called drip tips.\n\nThe sacred fig tree is a type of ficus that grows very large, up to 30 m (98 ft.) tall, in humid areas in its native India. The heart-shaped leaves have extended tips that help channel water down the leaf surface and off the bottom of the tip. The action of these “drip tips” enables the plant to move surface water efficiently and dry off more quickly than plants that do not have drip tips on their leaves. Removing excess water from the leaf surface helps to prevent the growth of potentially harmful mildew or microorganisms, which can thrive in the hot and humid conditions that sacred figs live in.\n\nThis summary was co-contributed by EcoRise Youth Innovations .\n\nImage: Challiyil Eswaramangalath Vipin / toggle icon Image: Eric Guinther / toggle icon right arrow right arrow\n\nFish-pole bamboo\n\nYoung leaves of bamboo channel excess water using a combination of hydrophobic and hydrophilic surfaces.",
+  "mechanism": "The leaves of some tropical plants channel water off their surface via unique shape, called drip tips.\n\nThe sacred fig tree is a type of ficus that grows very large, up to 30 m (98 ft.) tall, in humid areas in its native India. The heart-shaped leaves have extended tips that help channel water down the leaf surface and off the bottom of the tip. The action of these “drip tips” enables the plant to move surface water efficiently and dry off more quickly than plants that do not have drip tips on their leaves. Removing excess water from the leaf surface helps to prevent the growth of potentially harmful mildew or microorganisms, which can thrive in the hot and humid conditions that sacred figs live in.\n\nFish-pole bamboo\n\nYoung leaves of bamboo channel excess water using a combination of hydrophobic and hydrophilic surfaces.",
   "function_addressed": [
     "distribute liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::liquids"
+  ],
+  "subgroup_keys": [
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/leaves-channel-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaves",
     "channel",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

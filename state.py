@@ -53,9 +53,17 @@ class DefinedQuestion(BaseModel):
 
 # --- Biologize (stage 2) payloads --------------------------------------------
 class MappedFunction(BaseModel):
-    """A taxonomy function the challenge maps onto, via one of three lenses."""
-    define_question_id: int                       # the defined question this maps
-    approach: str = ""                            # direct | analogous | inverted
+    """A taxonomy function the challenge maps onto, via one of three lenses.
+
+    Deduped by (group, sub_group, function): when several defined questions map the
+    same taxonomy triple, they collapse into one row. `define_question_id`/`approach`
+    are the first-seen primaries (used downstream); `define_question_ids`/`approaches`
+    record every question and lens that mapped this function, for traceability.
+    """
+    define_question_id: int                       # the defined question this maps (primary)
+    define_question_ids: list[int] = Field(default_factory=list)  # all questions that mapped this triple
+    approach: str = ""                            # direct | analogous | inverted (primary)
+    approaches: list[str] = Field(default_factory=list)  # all lenses that mapped this triple
     group: str = ""                               # verbatim taxonomy path...
     sub_group: str = ""
     function: str = ""
@@ -65,8 +73,10 @@ class MappedFunction(BaseModel):
 class HDNQuestion(BaseModel):
     """A "How does nature...?" question framed from one mapped taxonomy function."""
     id: int
-    define_question_id: int                       # the defined question this reframes
-    approach: str = ""                            # direct | analogous | inverted
+    define_question_id: int                       # the defined question this reframes (primary)
+    define_question_ids: list[int] = Field(default_factory=list)  # all questions this function served
+    approach: str = ""                            # direct | analogous | inverted (primary)
+    approaches: list[str] = Field(default_factory=list)  # all lenses that mapped this function
     group: str = ""                               # verbatim taxonomy traceability path...
     sub_group: str = ""
     function: str = ""
@@ -100,11 +110,13 @@ class BiologicalModel(BaseModel):
     doc_id: str = ""                             # provenance back to the corpus
     hdn_ids: list[int] = Field(default_factory=list)   # which biologize questions retrieved it
     relevance_score: Optional[float] = None
-    # filter-with-reasoning (LLM)
-    function_fit: Optional[bool] = None
-    environment_fit: Optional[bool] = None
-    filter_reasoning: str = ""                    # written justification using the organism's strategy
-    keep: bool = False                            # kept by the reasoning filter
+    # discover evaluation (LLM) — graded retrieval-QA verdicts (deciding HDN pair)
+    functional_relevance: Optional[str] = None    # yes | partial | no
+    mechanistic_adequacy: Optional[str] = None     # sufficient | thin | unusable
+    relevance_reasoning: str = ""                   # why the mechanism (mis)matches the asked function
+    adequacy_reasoning: str = ""                    # whether content has transferable how-it-works detail
+    hdn_verdicts: list = Field(default_factory=list)  # per-(organism×HDN) verdicts for traceability
+    keep: bool = False                            # derived: rel∈{yes,partial} AND adeq∈{sufficient,thin} for ≥1 HDN
 
 
 # --- Abstract (stage 4) payloads ---------------------------------------------
@@ -113,17 +125,35 @@ class BiologicalAbstraction(BaseModel):
     id: int
     model_id: int                                 # source BiologicalModel id
     organism_common: str = ""
-    source_doc_id: str = ""                        # citation traceability
+    source_doc_id: str = ""                        # citation traceability (carried verbatim)
     source_taxon: str = ""
     source_scale: Optional[str] = None
-    mechanism_summary: str = ""                    # mechanism-first paragraph
+    function: str = ""                             # the function this strategy was abstracted to answer
+    mechanism_summary: str = ""                    # mechanism-first paragraph (= summary, biology kept)
     neutral_summary: str = ""                      # plain-English, scientific terms removed
-    statement: str = ""                            # the canonical faithful mechanism account
+    summary: str = ""                              # plain-language mechanism (prompt step 1)
+    design_strategy: str = ""                      # neutral function+mechanism statement (headline output)
+    statement: str = ""                            # canonical faithful account (mirrors design_strategy)
+    term_translations: list[dict] = Field(default_factory=list)  # {biological_term, neutral_term} pairs
     functions_addressed: list[str] = Field(default_factory=list)
-    jargon_terms: list[str] = Field(default_factory=list)
-    # fidelity evaluator (LLM)
-    true_to_biology: Optional[bool] = None
-    concludes_design: Optional[bool] = None        # must be False to pass
+    jargon_terms: list[str] = Field(default_factory=list)        # biological_term values, for metrics
+    abstract_reasoning: str = ""                   # the prompt's own reasoning field
+    abstainable: bool = False                      # source too thin to support a faithful abstraction
+    source_content: str = ""                       # verbatim biological source the grader judges against
+    source_organism_terms: list[str] = Field(default_factory=list)  # organism names for residue injection
+    # Layer 0: deterministic biological-residue check (notify-only, see biology_denylist.py)
+    biology_residue_flag: bool = False             # HARD biological term present (definite residue)
+    biology_hard_hits: list[str] = Field(default_factory=list)
+    biology_ambiguous_hits: list[str] = Field(default_factory=list)
+    biology_escalate: bool = False                 # AMBIGUOUS term present (for a future contextual judge)
+    # abstract evaluator (LLM, two-axis grader vs the verbatim source)
+    source_steps: list[dict] = Field(default_factory=list)       # decomposed source causal steps {id, step}
+    completeness_reasoning: str = ""
+    step_coverage: list[dict] = Field(default_factory=list)      # per source step {id, status}
+    completeness: Optional[str] = None             # complete | partial | incomplete
+    faithfulness_reasoning: str = ""
+    added_claims: list[dict] = Field(default_factory=list)       # unsupported/contradicted {claim, status}
+    faithfulness: Optional[str] = None             # faithful | minor_additions | unfaithful
     evaluator_feedback: str = ""
     accepted: bool = False
     eval_status: Optional[str] = None              # accepted | best_effort
@@ -140,26 +170,20 @@ class SpiralState(TypedDict, total=False):
     defined_questions: list        # list[DefinedQuestion dict] — one per function
     system_context: dict           # SystemContext
     assumptions: list              # gaps the DEFINE step refused to invent
-    define_metrics: dict
 
     # Biologize (stage 2) outputs
     mapped_functions: list         # list[MappedFunction dict] — taxonomy paths per define question
     hdn_questions: list            # list[HDNQuestion dict] — framed per mapped function
-    biologize_metrics: dict
 
     # Discover (stage 3) outputs
     search_queries: list           # list[{hdn_id, query, filters}]
     raw_hits: list                 # deduped retrieval hits
     biological_models: list        # list[BiologicalModel dict]
-    discover_metrics: dict
 
     # Abstract (stage 4) outputs
     abstractions: list             # list[BiologicalAbstraction dict]
-    abstract_metrics: dict
 
     # control / bookkeeping
-    version: str
-    current_stage: str
     spiral_log: Annotated[list, merge_lists]
     citation_ledger: Annotated[list, merge_lists]
 

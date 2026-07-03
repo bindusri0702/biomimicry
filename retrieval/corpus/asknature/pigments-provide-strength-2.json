@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-pigments-provide-strength-2",
   "organism_common": "Mice and rats",
-  "organism_scientific": "",
   "strategy_summary": "The viscoelastic heart valves of mice gain stiffness from melanin pigments. “Pigmentation of murine cardiac tricuspid valve leaflet is associated with melanocyte concentration, which affects its stiffness … The mechanical properties along the leaflet vary with the degree of pigmentation.",
   "mechanism": "The viscoelastic heart valves of mice gain stiffness from melanin pigments.\n\n“Pigmentation of murine cardiac tricuspid valve leaflet is associated with melanocyte concentration, which affects its stiffness … The mechanical properties along the leaflet vary with the degree of pigmentation. Pigmented regions of the valve leaflet that contain melanocytes displayed higher storage modulus (7-10 GPa) than non-pigmented areas (2.5-4 GPa). These results suggest that the presence of melanocytes affects the viscoelastic properties of the mouse atrioventricular valves and are important for their proper functioning in the organism … The cardiac valves display complex biomechanical properties that allow them to function in directed blood flow during the cardiac cycle … The mature atrioventricular (AV) valves (mitral and tricuspid) have leaflets composed of extracellular matrix (ECM), valvular interstitial cells and overlying endothelial cells. The mechanical requirements of the valve for elasticity, compressibility, stiffness and strength, as well as durability throughout the lifespan of an individual are achieved primarily by the highly organized and compartmentalized ECM composition of the leaflets … ” (Balani et al. 2009:1097)",
   "function_addressed": [
     "modify material characteristics"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::material-characteristics"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/pigments-provide-strength-2/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pigments",
     "provide",
     "strength"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-feet-taste-food",
   "organism_common": "Black blow fly",
-  "organism_scientific": "",
   "strategy_summary": "The feet of blowflies detect sugars via external taste receptors. “The blowfly ( Phormia regina ) has taste buds not only in the expected place — the mouthparts — but also in its feet.",
   "mechanism": "The feet of blowflies detect sugars via external taste receptors.\n\n“The blowfly ( Phormia regina ) has taste buds not only in the expected place — the mouthparts — but also in its feet. Moreover, those on its feet become more sensitive to sugars when the fly is hungry — 700 times more so with specimens that had been starved for 10 days.” (Shuker 2001:33)",
   "function_addressed": [
     "sense chemicals (odor, taste, etc.) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/feet-taste-food/",
-  "source_tier": "science_journalism",
   "keywords": [
     "feet",
     "taste",
     "food"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

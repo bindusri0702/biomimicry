@@ -1,24 +1,27 @@
 {
   "doc_id": "asn-wings-produce-a-musical-hum",
   "organism_common": "Hummingbirds",
-  "organism_scientific": "",
   "strategy_summary": "A hummingbird flits back and forth before flying up to a cluster of bright red cardinal flowers. As it levitates in front of one bloom after the other sipping sweet nectar to replenish the calories it needs to fly, it’s accompanied by the steady, pleasant sound that gives the bird its name in English.",
-  "mechanism": "Most birds flap their wings up and down––opening up on the downstroke to push against the air below, and tucking in on the upstroke to decrease resistance and more easily return to a high point to push down again. The downstroke creates a pressure wave, and that’s what we hear as the periodic woosh. Hummingbirds (and insects) don’t flap up and down. They hold their wings angled to the ground and flap them back and forth in a figure-8 pattern. This pushes against the air below during both parts of the stroke, enabling them to hover in place (like a human treading water) and producing a sound on both halves of the stroke.\n\nWings make an array of noises, depending on what bird or insect is doing the flapping. Some insects use wing noises to attract mates while some birds may interpret flapping frequencies to understand the speed and position of other members of their flock. Some hummingbirds may recognize members of their species solely by hearing their hums. Overpowering human-generated noise can disrupt any of these natural systems.\n\nLearning from the specific harmonic layering produced by hummingbird wing strokes may provide insights on how to alter sounds of all kinds. Quieter or less distracting ship motors, cars, and flying drone vehicles could go a long way to reducing damaging noise pollution. Through such innovations, we might even produce more opportunities for people (and other hummingbirds) to hear a hummingbird’s hum.",
+  "mechanism": "Most birds flap their wings up and down––opening up on the downstroke to push against the air below, and tucking in on the upstroke to decrease resistance and more easily return to a high point to push down again. The downstroke creates a pressure wave, and that’s what we hear as the periodic woosh. Hummingbirds (and insects) don’t flap up and down. They hold their wings angled to the ground and flap them back and forth in a figure-8 pattern. This pushes against the air below during both parts of the stroke, enabling them to hover in place (like a human treading water) and producing a sound on both halves of the stroke.\n\nHummingbirds\n\nThe wrist joints of the hummingbird enable hovering by rotating back and forth.\n\n“A hummingbird wing is similar to a beautifully tuned instrument,” says professor David Lentink. Scientists working with him at Stanford University and colleagues at the Eindhoven University of Technology recently used high-speed cameras, pressure plates, and over 2,000 microphones to understand how hummingbird flight creates such a musical sound.\n\nThey studied Anna’s hummingbirds, which flap their wings at the high rate of 40 beats per second. A simple repetition of a beat at that frequency would create a sound, but not one with the variability and musicality of the hummingbird’s hum. The alternating pressure waves of the back-and-forth stroke though interact with each other, creating more layers to the sound. Even more complexity is added by the pressure waves created in all directions when the wings rotate at the end of each half of the stroke to head back in the other direction.\n\nA flute, trumpet, and piano can all play the same note, but each has a characteristic sound called timbre. When an instrument makes a sound, your ears hear the fundamental frequency as the pitch of the note (such as “middle C”). But behind the first harmonic wave are multiple other waves oscillating at different frequencies. Though your ear doesn’t distinguish them individually, together they produce the specific timbre for each source—the sound-equivalent of a fingerprint.\n\nFrom the detailed information gathered from the hummingbirds, the scientists developed a mathematical model to characterize the sound of wings flapping in other birds and insects. In general, their model showed that heavier body weights translated to louder wing sounds because the higher lift and drag generated stronger pressure waves. The forces needed to overcome different body weights during flight also resulted in varied harmonic patterns that contributed to the unique wing-flapping timbre for each organism.\n\nWings make an array of noises, depending on what bird or insect is doing the flapping. Some insects use wing noises to attract mates while some birds may interpret flapping frequencies to understand the speed and position of other members of their flock. Some hummingbirds may recognize members of their species solely by hearing their hums. Overpowering human-generated noise can disrupt any of these natural systems.\n\nLearning from the specific harmonic layering produced by hummingbird wing strokes may provide insights on how to alter sounds of all kinds. Quieter or less distracting ship motors, cars, and flying drone vehicles could go a long way to reducing damaging noise pollution. Through such innovations, we might even produce more opportunities for people (and other hummingbirds) to hear a hummingbird’s hum.",
   "function_addressed": [
     "modify pressure",
     "send sound signals",
     "navigate through air"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::pressure",
+    "navigate::through-air",
+    "send-signals::sound"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "navigate",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/wings-produce-a-musical-hum/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hummingbird",
     "hums"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

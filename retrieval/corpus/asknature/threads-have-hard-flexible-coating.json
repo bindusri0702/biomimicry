@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-threads-have-hard-flexible-coating",
   "organism_common": "Common mussel",
-  "organism_scientific": "",
   "strategy_summary": "The byssal threads of mussels display both hardness and extensibility thanks to sacrificial cross-links in the outer cuticle. The marine mussel’s byssal threads can dissipate up to 70% of the energy it absorbs.",
   "mechanism": "The byssal threads of mussels display both hardness and extensibility thanks to sacrificial cross-links in the outer cuticle.\n\nThe marine mussel’s byssal threads can dissipate up to 70% of the energy it absorbs. These threads are elastomeric fibers that enable the mussel to attach to hard surfaces.\n\n“Matthew Harrington, a researcher who worked on the project…explains the motivation for studying the byssus cuticle: ‘Protective coatings are important for prolonging the lifetime of materials and devices. However, considering that hardness and extensibility are seldom coupled in engineered polymer s or composites, understanding how one protects a flexible substrate becomes quite important.’ Byssal cuticles have a knobby appearance due to inclusions of submicron-sized granular structures in an apparently continuous matrix. Submicron-sized tears that form in the matrix during stretching of the cuticle are believed to hinder the formation of larger cracks that could lead to material failure.\n\nCentral to understanding the peculiar mechanical behaviour of the cuticle are the high concentration of iron ions in the cuticle and the presence of an uncommon modification of the amino acid tyrosine known commonly as dopa. Dopa is found at high concentrations in the main cuticle component, mussel foot protein-1 (mfp-1). Dopa is distinguished from typical amino acids due to its impressive affinity for complexing with transition metal ions, particularly iron. As Admir Masic, a scientist at the Max Planck Institute for Colloids and Interfaces who worked on the project, explains, ‘when 2-3 dopa residues complex with a single iron ion, they create an incredibly stable complex that can be utilized to cross-link structural protein s.’ These metal-protein complexes have a high breaking force (nearly half that of covalent bonds), but unlike covalent bonds they are reversibly breakable, making them ideal for creating sacrificial cross-links.” (Science Daily 2010)",
   "function_addressed": [
@@ -10,11 +9,18 @@
     "manage mechanical wear",
     "manage tension"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::tension",
+    "modify-physical-state::material-characteristics",
+    "prevent-structural-failure::deformation",
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "modify-physical-state",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/threads-have-hard-flexible-coating/",
-  "source_tier": "science_journalism",
   "keywords": [
     "threads",
     "have",
@@ -22,7 +28,5 @@
     "flexible",
     "coating"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-armor-protects-from-predators",
   "organism_common": "Armadillos",
-  "organism_scientific": "",
   "strategy_summary": "The body of armadillo protects from predators via flexible armor plating. “Many larger creatures recognize the value of having the least possible surface area.",
   "mechanism": "The body of armadillo protects from predators via flexible armor plating.\n\n“Many larger creatures recognize the value of having the least possible surface area. Rolling into a ball is a simple but effective form of defence, used by creatures as diverse as the woodlouse, the hedgehog, and the armadillo. The economy of shape is made even more effective by adding some form of flexible armour-plating on the surface of the sphere. All the vulnerable and vital organs and limbs are tucked away inside the protective casing, presenting a predator with a frustrating ball game instead of a meal.” (Foy and Oxford Scientific Films 1982:21)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/armor-protects-from-predators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "armor",
     "protects",
     "predators"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

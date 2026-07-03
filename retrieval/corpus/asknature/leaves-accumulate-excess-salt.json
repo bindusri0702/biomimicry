@@ -1,26 +1,28 @@
 {
   "doc_id": "asn-leaves-accumulate-excess-salt",
   "organism_common": "Mangroves",
-  "organism_scientific": "",
   "strategy_summary": "The leaves of some mangroves regulate salt concentrations by accumulating excess salt in special compartments within their cells. Mangroves are small shrubs or trees that grow in the presence of salt water along coastlines.",
-  "mechanism": "The leaves of some mangroves regulate salt concentrations by accumulating excess salt in special compartments within their cells.\n\nMangroves are small shrubs or trees that grow in the presence of salt water along coastlines. Constant exposure to salt water can lead to an imbalance of ions within the plant’s cells, which can have toxic effects on enzymes or interfere with water absorption. To address this, the cells control their internal environment by keeping sodium, potassium, and chloride ions at a stable concentration. Mangroves can survive in especially salty environmental conditions using various strategies that regulate how much salt ends up in their tissues. For example, certain species exclude salt by preventing salt from entering the roots, some excrete excess salt through glands in their leaves, while others accumulate ions in special compartments in their leaves.\n\nIon sequestration is one mechanism used to relieve the negative effects of salt stress. Mangroves reduce the amount of sodium ions, for example, in the cell’s main compartment by moving excess sodium into a special membrane-enclosed compartment called a vacuole. By sequestering excess ions into vacuoles, the cell’s main compartment maintains a balanced concentration of ions.\n\nThese ions are transported into the vacuole with special proteins embedded in the vacuole membrane, such as proton (hydrogen ion) pumps and sodium-hydrogen antiporters. These membrane proteins work together to build a high concentration of sodium ions in the vacuole. Because the ions are moving from an area of low concentration to a high concentration (against its concentration gradient), this requires energy. First, proton pumps use the energy-rich molecule, ATP, to move protons into the vacuole and establish a proton gradient. This proton gradient functions as stored energy. With the help of the sodium-hydrogen antiporters, the protons flow down their concentration gradient out of the vacuole and into the cell’s main compartment. This releases the stored energy, which is then used to transport sodium ions into the vacuole. The sodium ion concentration in the vacuole builds and the ions remain there until the leaf matures and falls.\n\nThis strategy was contributed by Natalie Chen and edited by Dimitri Smirnoff .",
+  "mechanism": "The leaves of some mangroves regulate salt concentrations by accumulating excess salt in special compartments within their cells.\n\nMangroves are small shrubs or trees that grow in the presence of salt water along coastlines. Constant exposure to salt water can lead to an imbalance of ions within the plant’s cells, which can have toxic effects on enzymes or interfere with water absorption. To address this, the cells control their internal environment by keeping sodium, potassium, and chloride ions at a stable concentration. Mangroves can survive in especially salty environmental conditions using various strategies that regulate how much salt ends up in their tissues. For example, certain species exclude salt by preventing salt from entering the roots, some excrete excess salt through glands in their leaves, while others accumulate ions in special compartments in their leaves.\n\nIon sequestration is one mechanism used to relieve the negative effects of salt stress. Mangroves reduce the amount of sodium ions, for example, in the cell’s main compartment by moving excess sodium into a special membrane-enclosed compartment called a vacuole. By sequestering excess ions into vacuoles, the cell’s main compartment maintains a balanced concentration of ions.\n\nThese ions are transported into the vacuole with special proteins embedded in the vacuole membrane, such as proton (hydrogen ion) pumps and sodium-hydrogen antiporters. These membrane proteins work together to build a high concentration of sodium ions in the vacuole. Because the ions are moving from an area of low concentration to a high concentration (against its concentration gradient), this requires energy. First, proton pumps use the energy-rich molecule, ATP, to move protons into the vacuole and establish a proton gradient. This proton gradient functions as stored energy. With the help of the sodium-hydrogen antiporters, the protons flow down their concentration gradient out of the vacuole and into the cell’s main compartment. This releases the stored energy, which is then used to transport sodium ions into the vacuole. The sodium ion concentration in the vacuole builds and the ions remain there until the leaf matures and falls.",
   "function_addressed": [
     "capture, absorb, or filter chemical entities",
     "expel solids",
     "maintain homeostasis"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "expel::solids",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "expel",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/leaves-accumulate-excess-salt/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaves",
     "accumulate",
     "excess",
     "salt"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

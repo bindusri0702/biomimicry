@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-ice-in-rosette-protects-bud-from-frost",
   "organism_common": "Lobelia",
-  "organism_scientific": "",
   "strategy_summary": "A liquid held in the rosette of a lobelia protects the plant's terminal bud from frost by forming a shield of ice over the submerged bud on cold nights. “There are also two species of lobelia on the upper slopes of the mountain [Mount Kenya].",
   "mechanism": "A liquid held in the rosette of a lobelia protects the plant's terminal bud from frost by forming a shield of ice over the submerged bud on cold nights.\n\n“There are also two species of lobelia on the upper slopes of the mountain [Mount Kenya]. Both form giant rosettes of leaves on the ground. They are in just as much danger of having their terminal buds frost-bitten as the cabbage groundsel and one of them takes the same preventative measures, folding its leaves over the terminal buds each night. The other surprisingly does not do this. Instead it remains widespread throughout the night. But it has a most ingenious defence…Its rosette forms a deep watertight cup that contains up to three quarters of a gallon of liquid. Each night, a plate of ice forms across the surface. This acts as a shield, preventing the frost from penetrating more deeply into the pond. The water beneath remains liquid and therefore above freezing point and the submerged bud survives undamaged. It is a minimal defence. Were the nights to last a few hours longer or the temperature to stay below zero during the day, then the contents of the ponds might freeze solid right to the bottom and the bud would be killed. As it is, however, the sun returns after a few hours and all is well.” (Attenborough 1995:261-263)",
   "function_addressed": [
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/ice-in-rosette-protects-bud-from-frost/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ice",
     "rosette",
@@ -19,7 +20,5 @@
     "bud",
     "frost"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-gorilla-diet-protects-heart",
   "organism_common": "Grains of paradise",
-  "organism_scientific": "",
   "strategy_summary": "Gingerols in Grains of Paradise plant protect gorillas from heart disease by reducing inflammation and inhibiting production of C-reactive protein. Aframomum melegueta seeds.",
-  "mechanism": "Gingerols in Grains of Paradise plant protect gorillas from heart disease by reducing inflammation and inhibiting production of C-reactive protein.\n\nAframomum melegueta seeds.\n\n“The ultimate answer to captive gorillas’ heart problems may be quietly growing in West Africa’s vine-choked swamps: a member of the ginger family, Aframomum melegueta , better known as ‘grains of paradise.’ This plant, which wild western lowland gorillas preferentially eat, contains a powerful anti-inflammatory compound. As scientists learn more about the inflammatory process that underlies heart disease, the lack of Aframomum and other African plants in captive gorillas’ diets has emerged as a chief suspect in their poor health.” (Dybas and Raskin 2007:394)",
+  "mechanism": "Gingerols in Grains of Paradise plant protect gorillas from heart disease by reducing inflammation and inhibiting production of C-reactive protein.\n\nAframomum melegueta seeds.\n\n“The ultimate answer to captive gorillas’ heart problems may be quietly growing in West Africa’s vine-choked swamps: a member of the ginger family, Aframomum melegueta, better known as ‘grains of paradise.’ This plant, which wild western lowland gorillas preferentially eat, contains a powerful anti-inflammatory compound. As scientists learn more about the inflammatory process that underlies heart disease, the lack of Aframomum and other African plants in captive gorillas’ diets has emerged as a chief suspect in their poor health.” (Dybas and Raskin 2007:394)",
   "function_addressed": [
     "regulate cellular processes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/gorilla-diet-protects-heart/",
-  "source_tier": "science_journalism",
   "keywords": [
     "gorilla",
     "diet",
     "protects",
     "heart"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

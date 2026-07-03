@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-vegetation-captures-nutrients",
   "organism_common": "Red maple",
-  "organism_scientific": "",
   "strategy_summary": "Vegetation within hedgerows strip clean runoff by trapping sediments and absorbing nutrients. “Like most croplands, the cornfield was quite ‘leaky,’ retaining little of the nitrogen fertilizer it received.",
   "mechanism": "Vegetation within hedgerows strip clean runoff by trapping sediments and absorbing nutrients.\n\n“Like most croplands, the cornfield was quite ‘leaky,’ retaining little of the nitrogen fertilizer it received. Most of the nutrients not absorbed by the crop and harvested as corn were lost in surface runoff. Yet when that runoff reached a small belt of hedgerows and deciduous forest nearby, the gauntlet of sweet gum, red maples, and understory shrubs stripped most of the nitrogen and phosphorus from the water in the first nineteen meters of its passage. Groundwater flows through the root zone of the forest also resulted in a 50 percent drop in dissolved nitrate reaching the river. The amount of material removed by this one narrow band of forest led the researchers to suggest ‘coupling natural systems and managed habitats within a watershed’ to buffer open waters from pollution. This is a key service of biodiversity that, until recent times, could easily be taken for granted. Most rivers are bordered naturally by some type of riparian or floodplain forests that buffer aquatic habitats from activities on land…clearly, restoring forested corridors could do much to hold nutrients and sediments on the land and improve the quality of lakes, rivers, and wetlands.” (Baskin 1997:90)",
   "function_addressed": [
     "capture, absorb, or filter chemical entities",
     "capture, absorb, or filter solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::solids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/vegetation-captures-nutrients/",
-  "source_tier": "science_journalism",
   "keywords": [
     "vegetation",
     "captures",
     "nutrients"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

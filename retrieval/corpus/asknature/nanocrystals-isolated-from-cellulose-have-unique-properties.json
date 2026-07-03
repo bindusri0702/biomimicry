@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-nanocrystals-isolated-from-cellulose-have-unique-properties",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "Nanocrystals isolated from cellulose are strong, flexible, and lightweight  The use of fossil fuels, such as the gasoline we put in our cars, emits large amounts of carbon dioxide into the atmosphere. Styrofoam, which is commonly used in packing and shipping, is made from fossil fuels.",
-  "mechanism": "Nanocrystals isolated from cellulose are strong, flexible, and lightweight\n\nThe use of fossil fuels, such as the gasoline we put in our cars, emits large amounts of carbon dioxide into the atmosphere. Styrofoam, which is commonly used in packing and shipping, is made from fossil fuels. This means that the more we use styrofoam, the more carbon dioxide is being emitted into the atmosphere.\n\nHowever, plants can take carbon dioxide out of the atmosphere and store it in the soil or in the plant itself. Plant matter has been used by humans in many ways, such as wood for a house or to make paper. Therefore, plant matter can be a good replacement for styrofoam and to take carbon out of the air. Plant matter is mainly made up of cellulose , hemicellulose, and lignin. Cellulose makes up 30-50% of a plant and it’s what gives a plant its structure. It is lightweight but has a high strength to weight ratio, making it strong and durable. It also has high tensile strength, meaning under tension or stretching, it will not break. These properties make cellulose a good structural material. Also, unlike styrofoam, cellulose is biodegradable and can be broken down by bacteria, fungi, and other decomposers.\n\nScientists have been researching more ways to use cellulose. They have found that cellulose can be broken down into very small components, called nanocrystals . Nanocrystals are separated from cellulose to isolate the strongest and most useful part of the cellulose. This means that nanocrystals have other properties that are not found in cellulose. For example, nanocrystals are strong and have low thermal conductivity. Nanocrystals could be used to make biofoam, which could replace materials such as styrofoam made from fossil fuels.\n\nImage: Biomimicry Institute / Copyright © - All rights reserved toggle icon\n\nCellulose can be isolated from plants.\n\nTexas A&M University\n\nLight, strong carbon-fiber composites from Texas A&M University use recycled wood fiber to reinforce the structure while speeding up the assembly of the material.\n\nSoarce Inc.\n\nSoarce Inc. uses a novel refinery process to transform seaweed waste into high-performing and low-impact chemical treatments for fabrics, leathers, colorants, and industrial applications.",
+  "mechanism": "Nanocrystals isolated from cellulose are strong, flexible, and lightweight\n\nThe use of fossil fuels, such as the gasoline we put in our cars, emits large amounts of carbon dioxide into the atmosphere. Styrofoam, which is commonly used in packing and shipping, is made from fossil fuels. This means that the more we use styrofoam, the more carbon dioxide is being emitted into the atmosphere.\n\nHowever, plants can take carbon dioxide out of the atmosphere and store it in the soil or in the plant itself. Plant matter has been used by humans in many ways, such as wood for a house or to make paper. Therefore, plant matter can be a good replacement for styrofoam and to take carbon out of the air. Plant matter is mainly made up of cellulose, hemicellulose, and lignin. Cellulose makes up 30-50% of a plant and it’s what gives a plant its structure. It is lightweight but has a high strength to weight ratio, making it strong and durable. It also has high tensile strength, meaning under tension or stretching, it will not break. These properties make cellulose a good structural material. Also, unlike styrofoam, cellulose is biodegradable and can be broken down by bacteria, fungi, and other decomposers.\n\nScientists have been researching more ways to use cellulose. They have found that cellulose can be broken down into very small components, called nanocrystals. Nanocrystals are separated from cellulose to isolate the strongest and most useful part of the cellulose. This means that nanocrystals have other properties that are not found in cellulose. For example, nanocrystals are strong and have low thermal conductivity. Nanocrystals could be used to make biofoam, which could replace materials such as styrofoam made from fossil fuels.\n\nCellulose can be isolated from plants.\n\nTexas A&M University\n\nLight, strong carbon-fiber composites from Texas A&M University use recycled wood fiber to reinforce the structure while speeding up the assembly of the material.\n\nSoarce Inc.\n\nSoarce Inc. uses a novel refinery process to transform seaweed waste into high-performing and low-impact chemical treatments for fabrics, leathers, colorants, and industrial applications.",
   "function_addressed": [
     "manage tension",
     "manage compression"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::tension"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/nanocrystals-isolated-from-cellulose-have-unique-properties/",
-  "source_tier": "science_journalism",
   "keywords": [
     "nanocrystals",
     "isolated",
@@ -21,7 +23,5 @@
     "unique",
     "properties"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

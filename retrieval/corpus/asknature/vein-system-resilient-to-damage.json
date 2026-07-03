@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-vein-system-resilient-to-damage",
   "organism_common": "Flowering Plants",
-  "organism_scientific": "",
   "strategy_summary": "The vein systems in some plant leaves are resilient to damage because they contain a high density of closed, interconnected loops. “Leaf venation is a pervasive example of a complex biological network, endowing leaves with a transport system and mechanical resilience.",
   "mechanism": "The vein systems in some plant leaves are resilient to damage because they contain a high density of closed, interconnected loops.\n\n“Leaf venation is a pervasive example of a complex biological network, endowing leaves with a transport system and mechanical resilience. Transport networks optimized for efficiency have been shown to be trees, i.e., loopless. However, dicotyledon leaf venation has a large number of closed loops, which are functional and able to transport fluid in the event of damage to any vein, including the primary veins. Inspired by leaf venation, we study two possible reasons for the existence of a high density of loops in transport networks: resilience to damage and fluctuations in load. In the first case, we seek the optimal transport network in the presence of random damage by averaging over damage to each link. In the second case, we seek the network that optimizes transport when the load is sparsely distributed: at any given time most sinks are closed. We find that both criteria lead to the presence of loops in the optimum state.” (Katifori et al. 2010:048704)\n\nhttp://www.treehugger.com/files/2010/03/biomimicry-leaf-veins-distribution-networks-electricity-water.php http://prl.aps.org/abstract/PRL/v104/i4/e048704",
   "function_addressed": [
     "distribute liquids",
     "optimize shape/materials"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "distribute::liquids"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/vein-system-resilient-to-damage/",
-  "source_tier": "science_journalism",
   "keywords": [
     "vein",
     "system",
     "resilient",
     "damage"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

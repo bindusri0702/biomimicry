@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-trees-build-wood-in-layers-of-highly-fibrous-cells",
   "organism_common": "Conifers and Others (Pines, Spruce, Gingko)",
-  "organism_scientific": "",
   "strategy_summary": "Trees grow not just upward but outward, thickening their trunks year after year in a process called secondary growth. This thickening is made possible by the vascular cambium, a thin, living ring of stem cells sandwiched between the bark and the wood.",
   "mechanism": "Each time a cambial cell divides, it produces one new stem cell and one specialized cell: outward-facing cells become phloem (which transports sugars and is eventually crushed and sloughed off as part of the bark), while inward-facing cells become xylem (which initially transports water as sapwood, then gradually dies and becomes heartwood).\n\nAs xylem cells mature, their walls strengthen with lignin, a tough, complex polymer that fills spaces between stretchy cellulose fibers and gives wood its remarkable strength and stiffness. This is what allows trees to stand tall and resist bending. Over time, dead xylem cells accumulate protective compounds like resins, tannins, oils, and gums, becoming heartwood, which no longer transports water but continues to provide structural support for the tree.\n\nCambial cells are guided by a mix of plant hormone s (like auxin, cytokinin, and gibberellin) and tiny peptide signals. One key signal, TDIF, comes from the phloem and binds to a receptor in the cambium, helping the stem cells divide properly and making sure xylem production stays balanced. A gene called WOX4 works as a central switch, activating in response to these signals to promote stem-cell division. This growth happens in layers, season after season, and over time becomes the annual growth rings we see in cut wood.\n\nLike the vascular cambium, we could build technologies and structures that thicken from within, layer by layer, rather than relying on constant replacement. Materials could be designed to self-assemble or regenerate, adding new inner layers of strength while maintaining outward-facing functionality. Transport systems might emulate the dual role of xylem and phloem, balancing support and flow. And just as trees grow using sunlight, air, and soil without toxic inputs or high energy costs, our own manufacturing systems could shift toward using renewable, locally sourced resources. In short, the cambium shows us how to grow lasting strength in place, storing carbon, conserving energy, and creating living structures that work with the rhythms of nature rather than against them.",
   "function_addressed": [
     "chemically assemble organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/trees-build-wood-in-layers-of-highly-fibrous-cells/",
-  "source_tier": "science_journalism",
   "keywords": [
     "trees",
     "build",
@@ -20,7 +21,5 @@
     "highly",
     "fibrous"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,23 +1,24 @@
 {
   "doc_id": "asn-light-transmitting-fibers",
   "organism_common": "Distribute Energy",
-  "organism_scientific": "",
   "strategy_summary": "The glass-like fibers of a glass sponge transmit light better than our fiber optics, yet are made from natural materials and at ambient temperatures. “The thin glassy fibers protruding from the base of the Venus flower basket sponge are better able to transmit light than industrial fiber optic cables used for…",
   "mechanism": "The glass-like fibers of a glass sponge transmit light better than our fiber optics, yet are made from natural materials and at ambient temperatures.\n\n“The thin glassy fibers protruding from the base of the Venus flower basket sponge are better able to transmit light than industrial fiber optic cables used for telecommunication. Additionally, the sponge’s fibers are more flexible than the man-made variety. The sponge produces its fibers at low temperatures using natural materials. Trace amounts of sodium are added to the fibers to increase their ability to conduct light. The high temperature required for the manufacture of industrial fiber optics precludes additives such as sodium, and yields a fiber that is brittle and easily broken. Scientists hope, however, to mimic the Venus flower basket’s fiber manufacture process, developing a way to produce fiber optics at ambient temperatures.” (Courtesy of the Biomimicry Guild)\n\nVenus's flower-basket\n\nThe silica skeleton of the Venus’s flower-basket sea sponge is tough and stable because multiple levels of organization each help to manage forces.",
   "function_addressed": [
     "distribute energy",
     "send light signals in the non-visible spectrum"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::energy",
+    "send-signals::light-non-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/light-transmitting-fibers/",
-  "source_tier": "science_journalism",
   "keywords": [
     "light-transmitting",
     "fibers"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

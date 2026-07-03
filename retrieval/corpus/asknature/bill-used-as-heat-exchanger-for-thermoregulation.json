@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-bill-used-as-heat-exchanger-for-thermoregulation",
   "organism_common": "Common toucan",
-  "organism_scientific": "",
-  "strategy_summary": "Bill of toco toucan acts as a heat exchanger to regulate body temperature by adjusting blood flow  Image: Lip Kee Yap / toggle icon  “The toco toucan ( Ramphastos toco ), the largest member of the toucan family, possesses the largest beak relative to body size of all birds. This exaggerated feature has received…",
-  "mechanism": "Bill of toco toucan acts as a heat exchanger to regulate body temperature by adjusting blood flow\n\nImage: Lip Kee Yap / toggle icon\n\n“The toco toucan ( Ramphastos toco ), the largest member of the toucan family, possesses the largest beak relative to body size of all birds. This exaggerated feature has received various interpretations, from serving as a sexual ornament to being a refined adaptation for feeding. However, it is also a significant surface area for heat exchange. The toco toucan has the remarkable capacity to regulate heat distribution by modifying blood flow, using the bill as a transient thermal radiator. Results indicate that the toucan’s bill is, relative to its size, one of the largest thermal windows in the animal kingdom, rivaling elephants’ ears in its ability to radiate body heat.” (Tattersall et al. 2009:468)\n\nSleep-state transitions witnessed as changes in bill temperature. This is a thermal imaging video showing transient changes in bill temperature that occur during sleep while the bill is tucked between the wings. Time-lapsed data obtained at 10-s intervals. Total frames = 724, total length = 2.7 hours. Filmed by the Tattersall Laboratory.",
+  "strategy_summary": "Bill of toco toucan acts as a heat exchanger to regulate body temperature by adjusting blood flow  “The toco toucan ( Ramphastos toco ), the largest member of the toucan family, possesses the largest beak relative to body size of all birds. This exaggerated feature has received various interpretations, from serving as…",
+  "mechanism": "Bill of toco toucan acts as a heat exchanger to regulate body temperature by adjusting blood flow\n\n“The toco toucan ( Ramphastos toco ), the largest member of the toucan family, possesses the largest beak relative to body size of all birds. This exaggerated feature has received various interpretations, from serving as a sexual ornament to being a refined adaptation for feeding. However, it is also a significant surface area for heat exchange. The toco toucan has the remarkable capacity to regulate heat distribution by modifying blood flow, using the bill as a transient thermal radiator. Results indicate that the toucan’s bill is, relative to its size, one of the largest thermal windows in the animal kingdom, rivaling elephants’ ears in its ability to radiate body heat.” (Tattersall et al. 2009:468)\n\nSleep-state transitions witnessed as changes in bill temperature. This is a thermal imaging video showing transient changes in bill temperature that occur during sleep while the bill is tucked between the wings. Time-lapsed data obtained at 10-s intervals. Total frames = 724, total length = 2.7 hours. Filmed by the Tattersall Laboratory.",
   "function_addressed": [
     "distribute energy",
     "maintain homeostasis"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::energy",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/bill-used-as-heat-exchanger-for-thermoregulation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bill",
     "used",
@@ -20,7 +23,5 @@
     "exchanger",
     "thermoregulation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

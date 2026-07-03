@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-enzyme-oxidizes-fat-soluble-organic-chemicals",
   "organism_common": "Common to all organisms",
-  "organism_scientific": "",
   "strategy_summary": "The metabolism of animals oxidizes fat-soluble organic chemicals into excretable water-soluble substances, via P450 enzymes. “The number of P450 genes cloned from various organisms such as animals, plants, yeasts, fungi, bacteria and sequenced is presently over 2000 and still increasing…P450s are major enzymes in drug…",
   "mechanism": "The metabolism of animals oxidizes fat-soluble organic chemicals into excretable water-soluble substances, via P450 enzymes.\n\n“The number of P450 genes cloned from various organisms such as animals, plants, yeasts, fungi, bacteria and sequenced is presently over 2000 and still increasing…P450s are major enzymes in drug metabolism in animal tissues and organs because they convert the pharmaceutics to more hydrophilic metabolites which are easily excreted into urine.” (Hara 2000:103)",
   "function_addressed": [
     "chemically break down organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/enzyme-oxidizes-fat-soluble-organic-chemicals/",
-  "source_tier": "science_journalism",
   "keywords": [
     "enzyme",
     "oxidizes",
@@ -19,7 +20,5 @@
     "organic",
     "chemicals"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

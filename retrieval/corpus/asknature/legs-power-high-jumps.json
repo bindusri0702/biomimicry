@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-legs-power-high-jumps",
   "organism_common": "Froghopper",
-  "organism_scientific": "",
   "strategy_summary": "The hind legs of spittle bugs help them jump high and accelerate rapidly using energy stored in an elastic protein called resilin. “British researchers say experiments show the spittle bug — a tiny, green insect that sucks the juice from alfalfa and clover — can leap more than 2 feet in the air.",
   "mechanism": "The hind legs of spittle bugs help them jump high and accelerate rapidly using energy stored in an elastic protein called resilin.\n\n“British researchers say experiments show the spittle bug — a tiny, green insect that sucks the juice from alfalfa and clover — can leap more than 2 feet in the air. That’s more than twice as high as the flea, and equivalent to a man jumping over the Gateway Arch in St. Louis, scientists said. ‘We’ve all been brought up on fleas as being the best performers. It turns out that, really, they’re not,’ said Malcolm Burrows, a zoologist at the University of Cambridge and the study’s lead researcher…Burrows said the finding is remarkable because the 6-millimeter-long spittle bug — about the size of a pencil eraser — is bigger and heavier than the bloodsucking flea, yet still able to outjump its tiny rival by accelerating faster. The spittle bug reaches its heights by unleashing the large amount of stored energy in its muscular hind legs. When it is not jumping, it uses its smaller forelegs to move around while dragging its hind legs, which are constantly poised for liftoff. During takeoff, the spittle bug accelerates at more than 400 times the force of gravity, versus 135 times for a flea.” (Associated Press 2003)",
   "function_addressed": [
@@ -9,18 +8,22 @@
     "store energy",
     "distribute energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::energy",
+    "move::in-through-gases",
+    "store::energy"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "move",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/legs-power-high-jumps/",
-  "source_tier": "science_journalism",
   "keywords": [
     "legs",
     "power",
     "high",
     "jumps"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

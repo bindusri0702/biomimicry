@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-mussels-hold-on-with-fancy-footwork",
   "organism_common": "Common mussel",
-  "organism_scientific": "",
   "strategy_summary": "While humans have spent decades trying to make adhesives that stick underwater, mussels have been doing it for hundreds of millions of years. They tether themselves to rocks or each other with stringy fibers called byssal threads.",
-  "mechanism": "Before it makes byssal threads, a mussel’s foot snakes out of its shell, probing for a suitable place to stick. When the foot is ready to attach, it secretes a series of liquid protein s in a specific sequence, which quickly solidify. Some, mostly collagen (the same protein that makes skin stretchy), become the thin but strong thread itself. Others form a hard protective coating around both the plaque and thread. And just a few of the proteins are adhesive and form the anchoring plaque.\n\nWhat makes these proteins so sticky is that they contain high concentrations of a special molecule called L-3,4-dihydroxyphenylalanine, or dopa. Dopa sticks very easily to many surfaces, including famously non-stick ones like Teflon, because of how it bonds chemically to them. Each molecule contains side chains that share electrons with rocky surfaces, forming phenomenally strong bonds.\n\nBut just like the primer you have to apply to wood before you paint it, scientists have recently discovered that another protein, lysine (lys), helps prepare the wet surfaces for dopa.\n\nDeveloping underwater adhesives, of course, has many maritime applications. But artificial mussel glues might also save lives. Because bodily fluids also contain salts, similar adhesives could result in new methods for closing wounds and incisions. Mussel adhesives might also transform surgery on babies in the womb, enabling surgeons to reseal incisions made in the amniotic sac, which is too fragile for traditional suturing or other techniques.\n\nMussel-based adhesives could also help preserve our oceans. Coral reefs provide food and shelter to 25% of ocean species, yet they face serious risks of global extinction. Restoring reefs can involve transplanting thriving sections to less healthy areas, but they need a biofriendly glue to fix them in place. Mussel proteins might just be the missing link.",
+  "mechanism": "Before it makes byssal threads, a mussel’s foot snakes out of its shell, probing for a suitable place to stick. When the foot is ready to attach, it secretes a series of liquid protein s in a specific sequence, which quickly solidify. Some, mostly collagen (the same protein that makes skin stretchy), become the thin but strong thread itself. Others form a hard protective coating around both the plaque and thread. And just a few of the proteins are adhesive and form the anchoring plaque.\n\nWhat makes these proteins so sticky is that they contain high concentrations of a special molecule called L-3,4-dihydroxyphenylalanine, or dopa. Dopa sticks very easily to many surfaces, including famously non-stick ones like Teflon, because of how it bonds chemically to them. Each molecule contains side chains that share electrons with rocky surfaces, forming phenomenally strong bonds.\n\nBut just like the primer you have to apply to wood before you paint it, scientists have recently discovered that another protein, lysine (lys), helps prepare the wet surfaces for dopa.\n\nWhen lysine approaches positively charged ions on rocky surfaces, it pushes them out of the way, like a magnet turned the wrong way, clearing a path for clingy dopa to latch on.\n\nThe surfaces of most rocks have a negative charge. Like with magnets, opposites attract, and the positively charged ions of salts dissolved in ocean water bind with and coat the negatively charged rock surfaces, making them unreceptive to most types of adhesives. Lysine, however, is positively charged. When it approaches positively charged ions on rocky surfaces, it pushes them out of the way, like a magnet turned the wrong way, clearing a path for clingy dopa to latch on.\n\nThe lysine-dopa interaction by itself does not always produce as strong of an adhesion as expected though. Researchers have found that the proximity of dopa, lysine, and water molecules inside the adhesive plaques affects the strength of the chemical bonds between different parts of the dopa molecule. When dopa and lysine are close together, the concentration of water molecules around dopa decreases, which lowers the structural stability of the adhesive complex. A slight separation of lysine and dopa actually helps to balance forces and maximize bonding.\n\nHow Mussels Inspired Surgical Glue\n\nDeveloping underwater adhesives, of course, has many maritime applications. But artificial mussel glues might also save lives. Because bodily fluids also contain salts, similar adhesives could result in new methods for closing wounds and incisions. Mussel adhesives might also transform surgery on babies in the womb, enabling surgeons to reseal incisions made in the amniotic sac, which is too fragile for traditional suturing or other techniques.\n\nMussel-based adhesives could also help preserve our oceans. Coral reefs provide food and shelter to 25% of ocean species, yet they face serious risks of global extinction. Restoring reefs can involve transplanting thriving sections to less healthy areas, but they need a biofriendly glue to fix them in place. Mussel proteins might just be the missing link.",
   "function_addressed": [
     "attach permanently",
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently",
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/mussels-hold-on-with-fancy-footwork/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mussels",
     "hold",
     "fancy",
     "footwork"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

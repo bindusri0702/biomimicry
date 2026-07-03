@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-leaves-remove-pollution",
   "organism_common": "Deciduous trees",
-  "organism_scientific": "",
   "strategy_summary": "Tree leaves take in pollutants from the atmosphere and use enzymes to break them down. When we drive our cars we burn gasoline this produces air pollution such as volatile organic compounds, or VOC’s.",
-  "mechanism": "Tree leaves take in pollutants from the atmosphere and use enzymes to break them down.\n\nWhen we drive our cars we burn gasoline this produces air pollution such as volatile organic compounds, or VOC’s. In the atmosphere, VOC’s combine with oxygen to form oVOC’s. oVOC’s can cause damage in many ways. For example, they can turn into aerosols. These tiny particles can affect how sunlight gets through the atmosphere, which negatively impacts the climate. Aerosols can also cause serious respiratory problems such as asthma and emphysema when people breathe them in. Some oVOC’s combine with other chemicals in the air to create different pollutants, such as ozone. When ozone is in the air at ground level, it can be a harmful toxin. Luckily, though, tree leaves are able to take up oVOC’s from the atmosphere and break them down so they are less harmful.\n\nTrees control how gases enter their leaves by opening and closing pores on the underside of their leaves, called stomata . After trees take up an oVOC, they quickly start producing an enzyme that breaks down the pollutant so that it can be useful, and not toxic, for the plant. It turns out that if ozone is also present, trees will uptake and break down even more oVOC’s. This means that as the harmful oVOC’s and other pollutants in the atmosphere increase, trees respond by producing more enzymes to remove them even faster. However, there is a limit to how much the trees can keep pace, and at some point trees reach their maximum uptake.\n\nUsing this system, trees can turn harmful chemicals into useful ones. The toxins do not build up in the plant because the plant produces more enzymes as pollution levels rise, and the enzymes are produced only when they are needed.",
+  "mechanism": "Tree leaves take in pollutants from the atmosphere and use enzymes to break them down.\n\nWhen we drive our cars we burn gasoline this produces air pollution such as volatile organic compounds, or VOC’s. In the atmosphere, VOC’s combine with oxygen to form oVOC’s. oVOC’s can cause damage in many ways. For example, they can turn into aerosols. These tiny particles can affect how sunlight gets through the atmosphere, which negatively impacts the climate. Aerosols can also cause serious respiratory problems such as asthma and emphysema when people breathe them in. Some oVOC’s combine with other chemicals in the air to create different pollutants, such as ozone. When ozone is in the air at ground level, it can be a harmful toxin. Luckily, though, tree leaves are able to take up oVOC’s from the atmosphere and break them down so they are less harmful.\n\nTrees control how gases enter their leaves by opening and closing pores on the underside of their leaves, called stomata. After trees take up an oVOC, they quickly start producing an enzyme that breaks down the pollutant so that it can be useful, and not toxic, for the plant. It turns out that if ozone is also present, trees will uptake and break down even more oVOC’s. This means that as the harmful oVOC’s and other pollutants in the atmosphere increase, trees respond by producing more enzymes to remove them even faster. However, there is a limit to how much the trees can keep pace, and at some point trees reach their maximum uptake.\n\nUsing this system, trees can turn harmful chemicals into useful ones. The toxins do not build up in the plant because the plant produces more enzymes as pollution levels rise, and the enzymes are produced only when they are needed.",
   "function_addressed": [
     "capture, absorb, or filter chemical entities",
     "capture, absorb, or filter gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::gases"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/leaves-remove-pollution/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaves",
     "remove",
     "pollution"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

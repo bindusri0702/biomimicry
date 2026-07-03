@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-inward-curving-teeth-grip-firmly",
   "organism_common": "Boa constrictor",
-  "organism_scientific": "",
   "strategy_summary": "The boa constrictor is a nonvenomous snake native to Central and South America. Found throughout tropical rainforests, arid scrublands, and even cultivated fields, this powerful reptile is a master of stealth and precision.",
   "mechanism": "Unlike the teeth of predators that tear meat with each bite, the boa’s teeth are designed to hold. Its upper and lower jaws are lined with multiple rows of long, slender teeth that curve sharply inward, like hooks or tiny harpoons. These teeth do not inject venom, and they aren’t used to bite off or chew food. Instead, they act as anchors. When the boa strikes and bites into prey, the inward-facing barbs catch and grip, making it nearly impossible for the animal to pull away.\n\nThe structure is simple but effective: each fang is angled so that any backward movement by the prey pulls it deeper into the snake’s mouth. This one-way grip secures even slippery or struggling animals, giving the snake an anchor point from which to coil its body around the prey and apply constriction: its primary method of subduing prey.\n\nNature’s one-way grip offers a model for secure holding that minimizes force and energy, suggesting powerful design possibilities across disciplines. Inspired by the boa constrictor’s inward-curving teeth, engineers and designers can create fastening or anchoring systems that function through shape and directionality rather than friction or brute force.\n\nIn robotics and manufacturing, soft grippers or conveyor belts could be designed with micro-scale curved hooks that mimic the boa’s geometry by gripping tightly when objects pull away, but releasing easily when motion is directed inward. These could be especially useful for handling fragile, slippery, or irregularly shaped objects, such as fruits, lab samples, or medical tools. In textiles and wearables, materials that resist motion in one direction could enhance grip and comfort in gloves, footwear, or climbing gear, reducing the need for adhesives or tightening straps.\n\nMedical tools, especially those that interface with tissue, could also benefit. Devices like stents, sutures, or bandages might anchor gently but securely without puncturing or inflaming tissue, using tiny inward-curving structures that hold in place until purposefully released. Even packaging and cargo systems could take a cue, using directional barbs or bristle-like arrays to secure objects passively during transport, reducing the need for complex clamps or additional materials.",
   "function_addressed": [
     "attach temporarily",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/inward-curving-teeth-grip-firmly/",
-  "source_tier": "science_journalism",
   "keywords": [
     "inward-curving",
     "teeth",
     "grip",
     "firmly"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

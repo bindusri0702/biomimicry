@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-wings-fold-multiple-times-without-wear",
   "organism_common": "Beetles",
-  "organism_scientific": "",
   "strategy_summary": "Unlike other insects like bees or butterflies, beetles can’t simply keep their wings out and at the ready. Their terrestrial activity, tunneling underground or under leaf litter, has been eased by folding their hind wings under their forewings, which have been thickened and hardened into a protective case.",
-  "mechanism": "Beetle wings consist of stiff veins connected by thin membranes. Pre-conditioned joints and folds allow the wings to consistently fold and unfold in an efficient manner. Remarkably, this all happens without internal musculature. The only muscles are back in the thorax of the beetle. Their flexing causes a mechanical distortion to the main vein of the wing, which initiates the preset cascade of unfolding.\n\nThese mechanics are in turn made possible by the integration along lines and points where the folding occurs, of an elastic protein called resilin. The intrinsically disordered molecular structure of resilin imparts its qualities of low stiffness, high extensibility, efficient energy storage, exceptional resilience, and long fatigue lifetime. It not only allows the wing to fold and unfold, it stores energy from wind resistance in flight and prevents damage from wear on the wing.\n\nToday, researchers are making diverse resilin-like substances for human design purposes. Similarly incorporating elastic compounds to the materials of robotic assemblies, and making use of geometrically dynamic folding patterns, humans could reduce the number of moving parts and number of materials needed for our applications. Such structures could also significantly reduce noise and energy loss through wasted motion, integrating robots into human environments with much added grace.",
+  "mechanism": "Beetle wings consist of stiff veins connected by thin membranes. Pre-conditioned joints and folds allow the wings to consistently fold and unfold in an efficient manner. Remarkably, this all happens without internal musculature. The only muscles are back in the thorax of the beetle. Their flexing causes a mechanical distortion to the main vein of the wing, which initiates the preset cascade of unfolding.\n\nThese mechanics are in turn made possible by the integration along lines and points where the folding occurs, of an elastic protein called resilin. The intrinsically disordered molecular structure of resilin imparts its qualities of low stiffness, high extensibility, efficient energy storage, exceptional resilience, and long fatigue lifetime. It not only allows the wing to fold and unfold, it stores energy from wind resistance in flight and prevents damage from wear on the wing.\n\nRemarkably, these joints and folds do not appear to be any more stiff or soft than the rest of the wing while in flight. Despite intense pressures from torsion, the wing bends uniformly, showing no signs of weakness in the high-resilin areas.\n\nWhen it is time for the wings to be folded back up, again the work is done without any internal musculature on the wing itself. Instead, the wings are brushed back into place by movements of the hairy plates on the back of the beetle (called abdominal tergites). This sweeping motion pulls the wing surfaces towards the center of the body. While the wings move, the softness of the high-resilin areas causes them to fold in sequence along the predetermined areas.\n\nWhile all beetles share these basic characteristics, the particular pattern of veins and folds, the locations of resilin and the quantities of it vary species by species based on overall body size and other factors. Additional inspiration based on the geometry of different wings can be found with further investigation.\n\nToday, researchers are making diverse resilin-like substances for human design purposes. Similarly incorporating elastic compounds to the materials of robotic assemblies, and making use of geometrically dynamic folding patterns, humans could reduce the number of moving parts and number of materials needed for our applications. Such structures could also significantly reduce noise and energy loss through wasted motion, integrating robots into human environments with much added grace.",
   "function_addressed": [
     "manage mechanical wear",
     "prevent fatigue"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::fatigue",
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/wings-fold-multiple-times-without-wear/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wings",
     "fold",
@@ -21,7 +23,5 @@
     "without",
     "wear"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

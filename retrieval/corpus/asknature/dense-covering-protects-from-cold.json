@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-dense-covering-protects-from-cold",
   "organism_common": "Protect From Temperature",
-  "organism_scientific": "",
-  "strategy_summary": "Flowers of snow lotus plants protect from the cold via thick, furry insulation. Image: Berger Harald / Wikipedia / toggle icon Image: Prateek / Wikipedia / toggle icon right arrow right arrow  “A Himalayan plant, saussurea, has taken this kind of thermal lagging to extremes.",
-  "mechanism": "Flowers of snow lotus plants protect from the cold via thick, furry insulation.\n\nImage: Berger Harald / Wikipedia / toggle icon Image: Prateek / Wikipedia / toggle icon right arrow right arrow\n\n“A Himalayan plant, saussurea, has taken this kind of thermal lagging to extremes. In some species it is difficult to distinguish the leaves within the mound of fur with which they surround themselves. There is a hole in the top which allows pollinating bees to enter and reach the flowers. Inside it is so snug that the insects often overnight there.” (Attenborough 1995:255)",
+  "strategy_summary": "Flowers of snow lotus plants protect from the cold via thick, furry insulation. “A Himalayan plant, saussurea, has taken this kind of thermal lagging to extremes.",
+  "mechanism": "Flowers of snow lotus plants protect from the cold via thick, furry insulation.\n\n“A Himalayan plant, saussurea, has taken this kind of thermal lagging to extremes. In some species it is difficult to distinguish the leaves within the mound of fur with which they surround themselves. There is a hole in the top which allows pollinating bees to enter and reach the flowers. Inside it is so snug that the insects often overnight there.” (Attenborough 1995:255)",
   "function_addressed": [
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/dense-covering-protects-from-cold/",
-  "source_tier": "science_journalism",
   "keywords": [
     "dense",
     "covering",
     "protects",
     "cold"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,17 +1,16 @@
 {
   "doc_id": "asn-walls-keep-insect-feet-from-sticking",
   "organism_common": "Tropical pitcher plants",
-  "organism_scientific": "",
   "strategy_summary": "The internal walls of pitcher plants prevent insects from escaping by clogging their feet with a flaky, waxy substance and being rough. “The plant lures animals, from insects to amphibians to rats and even birds, into a modified leaf that forms a bowl.",
-  "mechanism": "The internal walls of pitcher plants prevent insects from escaping by clogging their feet with a flaky, waxy substance and being rough.\n\n“The plant lures animals, from insects to amphibians to rats and even birds, into a modified leaf that forms a bowl. It does this by a combination of color, nectar, and scent.” (Zygote Quarterly)\n\nLearn more about the pitcher plant’s strategy in Tom McKeag’s case study, “Return of the Swamp Thing” on page 16 of Zygote Quarterly :\n\nImage: Mark Denovich / toggle icon Image: Arddu / toggle icon right arrow right arrow",
+  "mechanism": "The internal walls of pitcher plants prevent insects from escaping by clogging their feet with a flaky, waxy substance and being rough.\n\n“The plant lures animals, from insects to amphibians to rats and even birds, into a modified leaf that forms a bowl. It does this by a combination of color, nectar, and scent.” (Zygote Quarterly)\n\nLearn more about the pitcher plant’s strategy in Tom McKeag’s case study, “Return of the Swamp Thing” on page 16 of Zygote Quarterly:",
   "function_addressed": [
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/walls-keep-insect-feet-from-sticking/",
-  "source_tier": "science_journalism",
   "keywords": [
     "walls",
     "keep",
@@ -19,7 +18,5 @@
     "feet",
     "sticking"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-scales-enhance-wing-color",
   "organism_common": "Blue triangle butterfly",
-  "organism_scientific": "",
   "strategy_summary": "Scales on the ventral side of swordtail butterfly wings enhance blue/green coloring via light reflection and diffusion. “The wings of the swordtail butterfly Graphium sarpedon nipponum contain the bile pigment sarpedobilin, which causes blue/green colored wing patches.",
   "mechanism": "Scales on the ventral side of swordtail butterfly wings enhance blue/green coloring via light reflection and diffusion.\n\n“The wings of the swordtail butterfly Graphium sarpedon nipponum contain the bile pigment sarpedobilin, which causes blue/green colored wing patches. Locally the bile pigment is combined with the strongly blue-absorbing carotenoid lutein, resulting in green wing patches and thus improving camouflage. In the dorsal forewings, the colored patches lack the usual wing scales, but instead have bristles. We have found that on the ventral side most of these patches have very transparent scales that enhance, by reflection, the wing coloration when illuminated from the dorsal side. These glass scales furthermore create a strongly polarized iridescence when illuminated by obliquely incident light from the ventral side, presumably for intraspecific signaling. A few ventral forewing patches have diffusely scattering, white scales that also enhance the blue/green wing coloration when observed from the dorsal side.” (Stavenga et al. 2010:1731)",
   "function_addressed": [
     "modify light/color",
     "send light signals in the visible spectrum"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "send-signals::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/scales-enhance-wing-color/",
-  "source_tier": "science_journalism",
   "keywords": [
     "scales",
     "enhance",
     "wing",
     "color"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

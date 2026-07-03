@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-pigment-enhances-light-absorption",
   "organism_common": "Capture, Absorb, or Filter Energy",
-  "organism_scientific": "",
   "strategy_summary": "Leaves of tropical plants such as Leptospermum recapture light with purple pigment. Purple pigments on the underside of leaves in rainforest plants help maximize light absorption through reflecting light back up int the leaf.",
-  "mechanism": "Leaves of tropical plants such as Leptospermum recapture light with purple pigment.\n\nPurple pigments on the underside of leaves in rainforest plants help maximize light absorption through reflecting light back up int the leaf.\n\n“On the floor of a well-established forest, the light may be very dim indeed.” Some plants in Borneo’s tropical rain forests “maximise the meagre light that falls on them in a different way. They coat the underside of their leaves with a purple pigment . This catches the light after it has passed through the thickness of the leaf and redirects it back into the leaf tissues so that the chlorophyll has a second chance to utilise what is left of it.” (Attenborough 1995:47-48)",
+  "mechanism": "Leaves of tropical plants such as Leptospermum recapture light with purple pigment.\n\nPurple pigments on the underside of leaves in rainforest plants help maximize light absorption through reflecting light back up int the leaf.\n\n“On the floor of a well-established forest, the light may be very dim indeed.” Some plants in Borneo’s tropical rain forests “maximise the meagre light that falls on them in a different way. They coat the underside of their leaves with a purple pigment. This catches the light after it has passed through the thickness of the leaf and redirects it back into the leaf tissues so that the chlorophyll has a second chance to utilise what is left of it.” (Attenborough 1995:47-48)",
   "function_addressed": [
     "capture, absorb, or filter energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/pigment-enhances-light-absorption/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pigment",
     "enhances",
     "light",
     "absorption"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

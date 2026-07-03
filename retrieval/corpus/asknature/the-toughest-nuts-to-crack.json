@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-the-toughest-nuts-to-crack",
   "organism_common": "Brazil nut",
-  "organism_scientific": "",
   "strategy_summary": "People foraging for Brazil nuts in Amazon forests know they should always wear hard hats. The trees can reach 164 feet (50 meters) high.",
-  "mechanism": "The secret to the pod shell’s impact resistance is a layer of material about half an inch (1 centimeter) thick, called the mesocarp. Only recently have scientists begun to take a microscopic look at this layer. Their research reveals that it is a multilayered amalgam of different-shaped cells and empty spaces—all arranged in a complex pattern that absorbs shocks and resists cracking.\n\nThe mesocarp contains two types of cells, both with thick walls made of lignin, a strong polymer that gives plant stems their rigidity. First, there are elongated cells, organized like cables into strong, elastic fiber bundles. They are arranged in three layers. The two on the outside point in the same direction. Sandwiched in the middle is a bigger layer, oriented perpendicular to both.\n\nBrazil nut pods offer an excellent model for fracture-resistant materials. Studying how the sizes, shapes, distribution, and orientation of cells in the mesocarp prevent cracking can inspire lightweight materials for transport containers, packaging, helmets and other protective gear, and devices to shield vehicles and buildings against impacts.",
+  "mechanism": "The secret to the pod shell’s impact resistance is a layer of material about half an inch (1 centimeter) thick, called the mesocarp. Only recently have scientists begun to take a microscopic look at this layer. Their research reveals that it is a multilayered amalgam of different-shaped cells and empty spaces—all arranged in a complex pattern that absorbs shocks and resists cracking.\n\nThe mesocarp contains two types of cells, both with thick walls made of lignin, a strong polymer that gives plant stems their rigidity. First, there are elongated cells, organized like cables into strong, elastic fiber bundles. They are arranged in three layers. The two on the outside point in the same direction. Sandwiched in the middle is a bigger layer, oriented perpendicular to both.\n\nFilling in most of the spaces between these bundles are spherical husks of dead cells called sclereids. Their centers are hollow, but their lignin walls are tough. This mesh of cells also has occasional voids—remnants of circulatory channels that transported water and nutrients to the fruit when it was growing. Using hollow or dead cells is a common strategy in nature that simultaneously helps optimize strength, stiffness, and weight.\n\nWhen the pod smashes against the ground, the hollow sclereid cells compress, but don’t break apart. That absorbs a lot of shock, similar to the way foam does inside car bumpers.\n\nThe toughness of the lignin fibers resists cracking, but any cracks that do form in the outer layers stop when they hit the wall of perpendicular fibers in the middle layer.\n\nThe empty channels help in two ways. First, they provide spaces for cells to compress or slide into, dissipating some energy from impacts. Then, they offer paths of lesser resistance, directing energy along them and away from the fibers. Altogether, the mesocarp works to absorb energy from impact and create spiderweb-like networks of little tears that don’t converge into gaping cracks.\n\nBrazil nut pods offer an excellent model for fracture-resistant materials. Studying how the sizes, shapes, distribution, and orientation of cells in the mesocarp prevent cracking can inspire lightweight materials for transport containers, packaging, helmets and other protective gear, and devices to shield vehicles and buildings against impacts.",
   "function_addressed": [
     "manage impact",
     "disperse seeds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::impact",
+    "provide-ecosystem-services::disperse-seeds"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/the-toughest-nuts-to-crack/",
-  "source_tier": "science_journalism",
   "keywords": [
     "toughest",
     "nuts",
     "crack"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,19 +1,24 @@
 {
   "doc_id": "asn-spiders-surf-on-electric-fields",
   "organism_common": "Spiders",
-  "organism_scientific": "",
   "strategy_summary": "You may have heard of “jumping” spiders, but did you know that some spiders have been found over two miles high in the sky and a thousand miles out to sea? How do they get there?",
-  "mechanism": "To begin its journey, a spider crawls to an exposed point, raises its abdomen, shoots out a couple strands of silk, and then jets away. For a long time it was thought the spider was simply carried off on wind currents. However, the physics just didn’t make sense: spiders “balloon” like this when the wind is low, and light air currents couldn’t explain the impressive velocity with which they take flight. Furthermore, spiders can’t shoot out much silk on their own; some external force had to be pulling it from their spinnerets. Now we know: spiders can sense and surf on electric charges in the Earth’s atmosphere.\n\nFor most current human flight applications, electric repulsion and attraction aren’t strong enough to overcome the force of the Earth’s gravity. However, nanotechnology, 3D printing, and other advances are producing sophisticated machinery of remarkably small sizes and light weights. On these scales, “flying spider” technology could create exciting opportunities for development.\n\nIf we think of all the human-designed products that utilize wind, how many could be shrunken and engineered to use electrical currents in the atmosphere?",
+  "mechanism": "To begin its journey, a spider crawls to an exposed point, raises its abdomen, shoots out a couple strands of silk, and then jets away. For a long time it was thought the spider was simply carried off on wind currents. However, the physics just didn’t make sense: spiders “balloon” like this when the wind is low, and light air currents couldn’t explain the impressive velocity with which they take flight. Furthermore, spiders can’t shoot out much silk on their own; some external force had to be pulling it from their spinnerets. Now we know: spiders can sense and surf on electric charges in the Earth’s atmosphere.\n\nYou may only think of electricity in the air when there’s a thunderstorm, but the atmosphere around and above us is always positively charged. The ground is always negatively charged, along with any plants or rocks on it. When a spider crawls to an exposed point, it is essentially putting itself on top of a lightning rod (any sharp structure protruding up from an object on the ground, such as the leaves on a tree, will cause an increase in the strength of the surrounding electric field). Then, as the spider releases its silk, the strands pick up negative charges, and since like charges repel each other, the silk is pushed up and away from the negatively charged surfaces upon which the spider is perched.\n\nThis phenomenon was demonstrated magnificently in a study published in 2018 by scientists at the University of Bristol. Spiders were placed in a closed container that blocked all air flow and atmospheric electricity. An artificial electric field was then generated, and scientists observed that tiny sensory hairs on the spiders’ feet, called trichobothria, were ruffled by the field. Spiders then began lifting their abdomens up, and many took flight—again, with zero air flow in the container. When the researchers turned the artificial electric field off, the spiders dropped to the ground. Previously, scientists were aware that spiders’ trichobothria were sensitive to air flow, but this study provides strong evidence that they also function as electromechanical receptors. (Check out this animated video from the University of Bristol for a nice summary of the experiment.)\n\nScientists acknowledge that electrostatic forces may be acting in conjunction with light winds to facilitate spider flight, though this research shows that wind is not necessary.\n\nSpiders are likely not the only ones who make use of electric fields for flight: other arthropods such as caterpillars and spider mites could be traveling using similar methods, either to escape predators or to seek out new territory with more abundant resources. Plant parts such as dandelion fluff and other seeds and spores could be transported in this way as well, aiding reproduction.\n\nFor most current human flight applications, electric repulsion and attraction aren’t strong enough to overcome the force of the Earth’s gravity. However, nanotechnology, 3D printing, and other advances are producing sophisticated machinery of remarkably small sizes and light weights. On these scales, “flying spider” technology could create exciting opportunities for development.\n\nIf we think of all the human-designed products that utilize wind, how many could be shrunken and engineered to use electrical currents in the atmosphere?",
   "function_addressed": [
     "sense electricity/magnetism from the environment",
     "modify electric charge",
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-chemical-electrical-state::electric-charge",
+    "move::in-through-gases",
+    "sense-signals-environmental-cues::electricity-magnetism"
+  ],
+  "subgroup_keys": [
+    "modify-chemical-electrical-state",
+    "move",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/spiders-surf-on-electric-fields/",
-  "source_tier": "science_journalism",
   "keywords": [
     "spiders",
     "fly",
@@ -21,7 +26,5 @@
     "electric",
     "currents"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-kangaroo-rat-jack-of-all-trades",
   "organism_common": "Kangaroo rats",
-  "organism_scientific": "",
   "strategy_summary": "One night, many years ago, as I was driving down on a gravel road in the Sonoran Desert, I spotted something really extraordinary. There in my headlights was a furry shape the size of a baked potato.",
-  "mechanism": "The kangaroo rat’s suite of survival skills offers many sources of potential innovation, many of which are already being actively investigated. Locked-sync signaling can be used in various industries to similarly detect very subtle and rapid changes in frequency signals. Using microbial mats to cement soils for construction and infrastructure can cut down on carbon-heavy traditional concrete use.",
+  "mechanism": "K-rats can hear and almost instantaneously respond to even the most subtle stimuli in their environment, such as the nearly inaudible swoop of predatory owls or the minute change in air pressure caused by striking rattlesnakes. Here’s how they do it: Enlarged cavities in the k-rat’s middle ear, known as bullae, amplify ultra-low frequency sounds. Located in the inner ear is an array of neurons that each fire a signal in sync with a specific sound frequency. Even the slightest change in these low-frequency sounds triggers a sonic heads-up that takes a streamlined pathway to the brainstem and muscles, bypassing decision-making centers of the brain. This system allows k-rats to become airborne in less than 50 milliseconds.\n\nThe leap itself is powered by very long hind legs, relative to body length, with large muscles and thick tendons. But it’s not just a rote reflex. Swinging their long tails like high-divers swinging their arms to direct a spin, the animals can control their angular momentum and twist out of reach, often while delivering a powerful karate kick that sends attackers like snakes flying in the opposite direction. These catch-me-if-you-can maneuvers have turned k-rats into internet phenoms known as “ninja rats” to their legions of fans.\n\nNighttime cameras have also recorded these pint-sized mammals boldly strutting up to coiled snakes to perform drum rolls or acrobatic leaps right under their noses. Some taunt their adversaries with the ultimate insult—kicking sand in their faces. These behaviors, known as predator-deterrent maneuvers, are intended to discourage attacks by advertising the rats’ fitness and the futility of pursuing them.\n\nBut its martial arts accomplishments aren’t the k-rat’s greatest superpower. These desert dwellers can survive without drinking free water––an incredible feat in a place where temperatures in the summer climb into the triple digits Fahrenheit and rainfall is episodic. K-rats mostly rely instead on what’s known as metabolic water––the byproduct that is released in the digestion of the mesquite beans and grass seeds in their diets. Elaborate waste-processing structures in the k-rat’s kidneys extract every last drop of moisture from urine until it is reduced to a crystal-like consistency. In this way they provide nearly all the water they need in-house. Humans, by contrast, can expect to receive only about 8-10 percent of their water through the metabolism of the food they eat.\n\nThese frugal water stewards also employ a Swiss army knife of other strategies for conserving water. For example, they forage at night when temperatures are lower and humidity levels are higher and transport the dry seeds and beans they’ve collected in fur-lined cheek pouches instead of in their mouths. This keeps the seeds from absorbing saliva and extracting precious water from the k-rat’s body.\n\nPerhaps no skill is more impressive—or more important—than that of structural engineering. Kangaroo rats build elaborate burrows that provide the animals with nurseries for their young, shelter from the broiling sun, and protected pantries for their seed hoards. Biologist Clint Collins of Sacramento State University observes that these constructed tunnels can persist for years, if not decades, without collapsing, even though they bake in the desert’s dry heat and flood with monsoon rains. So sound are these hideaways that evidence suggests they are handed down from one generation to another.\n\nCollins points out that humans shore up underground structures with materials such as reinforcing concrete or steel. By contrast, k-rats build durable burrows, even in unstable sand, using only locally available supplies. To find out how they do it, Collins teamed up with engineering colleague Dr. Idil Akin of the University of California, Los Angeles, and Dr. Haluk Beyenal of Washington State University in a study funded by a 2022 grant from the National Science Foundation.\n\nThey note that k-rat burrows are home to a spectacular diversity of microbes and fungi that are transported below ground on the animals’ feet and in their cheek pouches. Many of these microbes produce protective films of complex sugars and protein s that trap moisture, hold the microbes together and in place, and stabilize the loose soil around them.\n\nA 2023 article in the journal Science Advances reports that similar kinds of biocrusts have helped to preserve sections of the Great Wall of China for more than five centuries. Communities of cyanobacteria , mosses, lichens and other microorganisms infiltrate and bind with soil particles to create erosion-resistant surfaces. “It’s nature’s form of rebar,” Collins observes.\n\nThe kangaroo rat’s suite of survival skills offers many sources of potential innovation, many of which are already being actively investigated. Locked-sync signaling can be used in various industries to similarly detect very subtle and rapid changes in frequency signals. Using microbial mats to cement soils for construction and infrastructure can cut down on carbon-heavy traditional concrete use.",
   "function_addressed": [
     "respond to signals",
     "transduce/convert signals",
@@ -11,18 +10,24 @@
     "protect from temperature",
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "physically-assemble::structure",
+    "process-signals::respond-to-signals",
+    "process-signals::transduce-convert-signals",
+    "protect-from-non-living-threats::loss-of-liquids",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "physically-assemble",
+    "process-signals",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/kangaroo-rat-jack-of-all-trades/",
-  "source_tier": "science_journalism",
   "keywords": [
     "multipronged",
     "approach",
     "desert",
     "survival"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

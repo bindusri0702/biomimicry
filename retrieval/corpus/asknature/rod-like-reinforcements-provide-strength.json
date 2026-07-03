@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-rod-like-reinforcements-provide-strength",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "Vascular bundles in plants provide mechanical strength, serving as rod-like reinforcements. Scanning electron microscope image of a x-setion through Tradescantia virginiana stem.",
   "mechanism": "Vascular bundles in plants provide mechanical strength, serving as rod-like reinforcements.\n\nScanning electron microscope image of a x-setion through Tradescantia virginiana stem. Image shows vascular bundles in a ring, with a central pith.\n\nScanning electron microscope image of x-section through Coleus blumei [coleus] stem. Image shows outer epidermal layer, cortex, vascular bundles in a ring, and a central pith.\n\n“Figure 5: Part of a stem of a robust grass, in cross section. Here mechanical strength of the stem is provided by the vascular bundles set in a matrix of thinner-walled cells, rather like rod reinforcements. Each vascular bundle has an outer sheath of fibres, forming a strong tube in which the two wide vessels can conduct water, and the strand of thin-walled, narrow cells (phloem) can transport sugar solutions with little risk of damage. Just to the inner side of the outer ring of smaller vessels the several layers of narrow cells eventually become thick-walled and provide additional strength in the form of a cylinder to the whole stem.” (Cutler 2005:101)",
   "function_addressed": [
     "distribute liquids",
     "manage compression"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::liquids",
+    "manage-structural-forces::compression"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/rod-like-reinforcements-provide-strength/",
-  "source_tier": "science_journalism",
   "keywords": [
     "rod-like",
     "reinforcements",
     "provide",
     "strength"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

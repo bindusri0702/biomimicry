@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-males-cooperate-to-attract-a-mate",
   "organism_common": "Lance-tailed manakin",
-  "organism_scientific": "",
   "strategy_summary": "Male lance-tailed manakins attract a female by doing a cooperative courtship dance. In a forest in Panama, two male birds wait on a bare branch.",
-  "mechanism": "Male lance-tailed manakins attract a female by doing a cooperative courtship dance.\n\nIn a forest in Panama, two male birds wait on a bare branch. They’ve already cleared a stage for their upcoming performance by removing leaves from neighboring plants. Suddenly a female lands on the branch and the two males go into action. Over the next few minutes, these two males put on a coordinated courtship dance with 11 different moves and 9 types of songs and calls. But these two birds aren’t competing, they’re cooperating. Only one, the alpha, will get to mate with the female. The alpha and beta males may work together for up to six years. Eventually, the beta might move on to become an alpha.\n\nFor fun, look for the dance moves shown in Figure 6 of this paper .\n\nThese birds are lance-tailed manakins. With their black bodies, bright blue capes, and dark red cap, they are conspicuous among the greenery of the forest. Like other species of manakins, a beta male helps the alpha put on a courtship display. Researchers are trying to figure out what the advantages are to being a beta. Not all alpha birds have a beta helper and some birds skip being a beta helper and immediately become alphas. The alpha and beta birds are not related to one another, so there’s no clear genetic advantage. One possible advantage is that the betas gain experience that makes them better at courtship displays later in life.\n\nCooperative courtship is one type of cooperative breeding , where other members of a species help the breeder to succeed, either through courtship or caring for young. Cooperative breeding is widespread in the animal world. It’s found in almost 90 species, mostly birds, fish, and mammals. It may just be one route to successful breeding, or there may be advantages scientists haven’t yet found. More and more, scientists are realizing that cooperation among and between species plays a big role in nature, from tiny microbes to giant whales. We also see it in humans, from people helping other people meet their future life partners to organizations and industries finding ways to work together and share resources.\n\nwatch how another species, the blue manakin, uses multiple partners to help them attract a mate:",
+  "mechanism": "Male lance-tailed manakins attract a female by doing a cooperative courtship dance.\n\nIn a forest in Panama, two male birds wait on a bare branch. They’ve already cleared a stage for their upcoming performance by removing leaves from neighboring plants. Suddenly a female lands on the branch and the two males go into action. Over the next few minutes, these two males put on a coordinated courtship dance with 11 different moves and 9 types of songs and calls. But these two birds aren’t competing, they’re cooperating. Only one, the alpha, will get to mate with the female. The alpha and beta males may work together for up to six years. Eventually, the beta might move on to become an alpha.\n\nFor fun, look for the dance moves shown in Figure 6 of this paper.\n\nThese birds are lance-tailed manakins. With their black bodies, bright blue capes, and dark red cap, they are conspicuous among the greenery of the forest. Like other species of manakins, a beta male helps the alpha put on a courtship display. Researchers are trying to figure out what the advantages are to being a beta. Not all alpha birds have a beta helper and some birds skip being a beta helper and immediately become alphas. The alpha and beta birds are not related to one another, so there’s no clear genetic advantage. One possible advantage is that the betas gain experience that makes them better at courtship displays later in life.\n\nCooperative courtship is one type of cooperative breeding, where other members of a species help the breeder to succeed, either through courtship or caring for young. Cooperative breeding is widespread in the animal world. It’s found in almost 90 species, mostly birds, fish, and mammals. It may just be one route to successful breeding, or there may be advantages scientists haven’t yet found. More and more, scientists are realizing that cooperation among and between species plays a big role in nature, from tiny microbes to giant whales. We also see it in humans, from people helping other people meet their future life partners to organizations and industries finding ways to work together and share resources.\n\nwatch how another species, the blue manakin, uses multiple partners to help them attract a mate:",
   "function_addressed": [
     "cooperate within the same species"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-the-same-species"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete"
+  ],
   "source_url": "https://asknature.org/strategy/males-cooperate-to-attract-a-mate/",
-  "source_tier": "science_journalism",
   "keywords": [
     "males",
     "cooperate",
     "attract",
     "mate"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

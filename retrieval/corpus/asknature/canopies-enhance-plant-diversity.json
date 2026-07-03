@@ -1,27 +1,30 @@
 {
   "doc_id": "asn-canopies-enhance-plant-diversity",
   "organism_common": "Forest canopies",
-  "organism_scientific": "",
   "strategy_summary": "Gazing skyward while in the middle of a forest reveals the wonder of the canopy, the forest’s “overstory,” where treetop leaves filter light, temper winds, and exchange gases with the atmosphere. A forest’s canopy is the sum of its tree-crowns, including branches, twigs, leaves, and even the air that hovers in between.",
-  "mechanism": "Climate determines a forest’s type. Tropical forests grow near the warm equator, boreal forests dominate cool northern latitudes, and temperate forests exist in between. Although climate affects what plants thrive in the overstory, microclimates created by canopies are what elicit plant diversity within them. Canopies absorb wind energy, heat, sunlight, and they cycle gases like water vapor, oxygen, and carbon dioxide, all of which promote different microclimates. Light, temperature, humidity, and available nutrients vary, even at the scale of individual leaves, allowing plants to find pockets where conditions suit their specific needs.\n\nAs we learn how canopy microclimates stimulate biodiversity, we may find ways to better protect plant species threatened by climate change and other human activities. We’re learning that mimicking microclimates saves energy when applied to our constructed environment as well. Rather than heating or cooling to a single target, some buildings use zonal controls. Architectural design elements can also take advantage of the sun and shade with materials that efficiently radiate heat, window awnings that passively cool air, and building orientations that optimize natural heating and cooling.\n\nOur increased understanding of the richness of the canopy may also have an impact on conservation and sustainable management of the forest. According to the World Bank, between 1990 and 2016, the world’s land area covered by forest decreased by over 500,000 square miles––equal to the combined areas of California, Texas, and Utah. Perhaps our growing understanding that each treetop is a forest of its own will drive us to better appreciate and protect trees individually and the forest as a whole.",
+  "mechanism": "Climate determines a forest’s type. Tropical forests grow near the warm equator, boreal forests dominate cool northern latitudes, and temperate forests exist in between. Although climate affects what plants thrive in the overstory, microclimates created by canopies are what elicit plant diversity within them. Canopies absorb wind energy, heat, sunlight, and they cycle gases like water vapor, oxygen, and carbon dioxide, all of which promote different microclimates. Light, temperature, humidity, and available nutrients vary, even at the scale of individual leaves, allowing plants to find pockets where conditions suit their specific needs.\n\nIn a mountain forest in Ecuador, one study found as many as 109 distinct plant species on an area of branches no larger than a backyard patio. These were all epiphytes—nonparasitic plants that grow perched on other plants. Epiphytes collect water and nutrients not from the supporting plant itself, but from their surroundings, laying down roots in a soil-like substance formed from decaying leaves, animal feces, and other canopy byproducts.\n\nSome epiphytes are vascular plants (like trees themselves), with specialized tissue to convey water and minerals. Forest overstories provide habitat for at least 24,000 species of vascular epiphytes, including types of succulents, ferns, and orchids. The forest canopy ecosystem is so conducive to biodiversity that it houses 10% of the world’s vascular plant species.\n\nTree canopies also support nonvascular epiphytes, including at least 10,000 species of mosses, 7,200 species of liverworts, and thousands of types of lichens, which are actually symbiotic organisms comprised of fungi and algae.\n\nCanopy-fostered plant diversity doesn’t end with epiphytes. Hundreds of species of hemiepiphytes also find refuge in forest canopies. These plants dwell in the canopy but connect in some way to the ground: some vine up trunks and can eventually lose their roots, while others sprout in the crown and lower roots to the soil below. Plant parasites, including 1,400 species of mistletoe, flourish in some canopies by tapping directly into a tree’s water and nutrient system, siphoning nourishment off of their hosts. The diversity of approaches to survival shows just how rich and attractive these arboreal ecosystems can be.\n\nAs we learn how canopy microclimates stimulate biodiversity, we may find ways to better protect plant species threatened by climate change and other human activities. We’re learning that mimicking microclimates saves energy when applied to our constructed environment as well. Rather than heating or cooling to a single target, some buildings use zonal controls. Architectural design elements can also take advantage of the sun and shade with materials that efficiently radiate heat, window awnings that passively cool air, and building orientations that optimize natural heating and cooling.\n\nOur increased understanding of the richness of the canopy may also have an impact on conservation and sustainable management of the forest. According to the World Bank, between 1990 and 2016, the world’s land area covered by forest decreased by over 500,000 square miles––equal to the combined areas of California, Texas, and Utah. Perhaps our growing understanding that each treetop is a forest of its own will drive us to better appreciate and protect trees individually and the forest as a whole.",
   "function_addressed": [
     "cooperate/compete between different species",
     "regulate climate",
     "manage disturbance in a community",
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::between-different-species",
+    "provide-ecosystem-services::maintain-biodiversity",
+    "provide-ecosystem-services::manage-disturbance-in-a-community",
+    "provide-ecosystem-services::regulate-climate"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/canopies-enhance-plant-diversity/",
-  "source_tier": "science_journalism",
   "keywords": [
     "canopies",
     "enhance",
     "plant",
     "biodiversity"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

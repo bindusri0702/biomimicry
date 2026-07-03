@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-high-impact-appendage-resists-cracking",
   "organism_common": "Peacock mantis shrimp",
-  "organism_scientific": "",
   "strategy_summary": "It’s important that things don’t break, whether it’s things like airplanes, bridges, or coffee cups. What if it were your body itself on the line?",
   "mechanism": "The mantis shrimp’s club is made of intricately designed material to make it especially crack-resistant. A strong calcium-based mineral surrounds the outside of the club. Below this layer, the club’s design is dominated by the orientation of mineralized fibers.\n\nThe shrimp uses long chains of carbohydrates to attract, orient, and solidify inorganic minerals out of the surrounding seawater. The resulting fibers of calcium carbonate and calcium phosphate are biomineralized into circular layers, which resist sideways expansion during impact, keeping the club together.\n\nBetween these circular layers, sheets of blended (composite) materials made of chitin and protein are stacked one upon the other, each set of fibers rotated slightly from the fiber alignment below. This creates a spiraled structure in cross-section, like a twisted stack of printer paper. This spiraled region of the shrimp’s club helps absorb the impact from each blow, much like a spring, and channels any cracks that do form in the club around within the club’s material, weakening their force and preventing straight cracks from forming and splitting the club apart.\n\nNew human-made materials using insights from the way the rainbow mantis shrimp’s club is designed are much tougher. By one measure, materials inspired by the shrimp’s club were up to 20% stronger than materials made of the same substance but without the shrimp club’s internal architecture. Human-made materials inspired by nature can be used to create stronger and safer things humans use and rely upon daily, such as bridges, buildings, and even the keyboard you’re tapping on.",
   "function_addressed": [
     "prevent fracture/rupture"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::fracture-rupture"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/high-impact-appendage-resists-cracking/",
-  "source_tier": "science_journalism",
   "keywords": [
     "high-impact",
     "appendage",
     "resists",
     "cracking"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

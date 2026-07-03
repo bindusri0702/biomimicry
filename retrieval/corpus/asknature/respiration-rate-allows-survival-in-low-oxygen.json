@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-respiration-rate-allows-survival-in-low-oxygen",
   "organism_common": "Epaulette shark",
-  "organism_scientific": "",
   "strategy_summary": "Heart, arteries, lungs, and cells of epaulette shark allow survival in low oxygen by reducing respiration rate. Epaulette shark (Hemiscyllium ocellatum) at the Adventure Aquarium, Camden  Epaulette shark (Hemiscyllium ocellatum) on a beach in Port Tribulation, Queensland.",
   "mechanism": "Heart, arteries, lungs, and cells of epaulette shark allow survival in low oxygen by reducing respiration rate.\n\nEpaulette shark (Hemiscyllium ocellatum) at the Adventure Aquarium, Camden\n\nEpaulette shark (Hemiscyllium ocellatum) on a beach in Port Tribulation, Queensland.\n\n“The epaulette shark ( Hemiscyllium ocellatum ) is a tropical marine vertebrate. It lives on shallow reef platforms that repeatedly become cut off from the ocean during periods of low tides. During nocturnal low tides, the water [O2] can fall by 80% due to respiration of the coral and associated organisms. Since the tides become lower and lower over a period of a few days, the hypoxic exposure during subsequent low tides will become progressively longer and more severe. Thus, this shark is under a natural hypoxic preconditioning regimen. Interestingly, hypoxic preconditioning lowers its metabolic rate and its critical PO·. Moreover, repeated anoxia appears to stimulate metabolic depression in an adenosine-dependent way.” (Nilsson and Renshaw 2003:3131)",
   "function_addressed": [
     "maintain homeostasis",
     "protect from loss of gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-gases",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/respiration-rate-allows-survival-in-low-oxygen/",
-  "source_tier": "science_journalism",
   "keywords": [
     "respiration",
     "rate",
@@ -21,7 +24,5 @@
     "low",
     "oxygen"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,19 +1,23 @@
 {
   "doc_id": "asn-antarctic-crustaceans-use-wax-to-sink-in-water",
   "organism_common": "Calanoides acutus copepod",
-  "organism_scientific": "",
   "strategy_summary": "A tiny Antarctic marine crustacean ( Calanoides acutus ) hibernates deep in the ocean during winter where the cold slows its metabolism. Swimming down into the water can take a lot of energy, but this crustacean uses a special material to help.",
-  "mechanism": "Wax is a buoyant material, which means that it normally floats, rather than sinks, in water. Wax floats because it is less dense than the water. The waxy liquid inside the Antarctic crustaceans is a wax ester , which is a mixture of fatty acids and fatty alcohol molecules. These molecules can be broken down and used as energy for muscles and organs. They can also be used to store energy and can be transported throughout the body through the bloodstream. The wax is made up of long chains of carbon atoms attached to each other by single chemical bonds. As the crustacean swims deeper into the water, the wax changes from having single bonds to having double bonds. This change allows the wax molecules to fit together more tightly, which increases their density and makes them heavier.\n\nCreative approaches to buoyancy from species like Antarctic crustaceans could provide submarine, blimp, and robotic designers more options for their work.",
+  "mechanism": "Wax is a buoyant material, which means that it normally floats, rather than sinks, in water. Wax floats because it is less dense than the water. The waxy liquid inside the Antarctic crustaceans is a wax ester , which is a mixture of fatty acids and fatty alcohol molecules. These molecules can be broken down and used as energy for muscles and organs. They can also be used to store energy and can be transported throughout the body through the bloodstream. The wax is made up of long chains of carbon atoms attached to each other by single chemical bonds. As the crustacean swims deeper into the water, the wax changes from having single bonds to having double bonds. This change allows the wax molecules to fit together more tightly, which increases their density and makes them heavier.\n\nDensity is a measure of how much ‘stuff’ you can fit into a space. Imagine a bag that is stuffed with clothes. It seems full, but when you press down you can actually add more clothes into the bag. The bag is now more ‘dense’ because there is more stuff inside it, and it is also heavier. The same is true for the Antarctic crustacean. Once its wax changes from single bonds to double bonds, the creature can fit more wax inside the same space, which makes it more dense. This makes the crustacean sink into the water until it reaches a depth at which its density is the same as the water around it, and it becomes neutrally buoyant . It can then stay and hibernate at that depth without needing to use any extra energy.\n\nIn the spring the crustacean consumes the wax, which makes the organism lighter and allows it to float back up to the surface.\n\nCreative approaches to buoyancy from species like Antarctic crustaceans could provide submarine, blimp, and robotic designers more options for their work.",
   "function_addressed": [
     "move in/on liquids",
     "modify density",
     "modify buoyancy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::buoyancy",
+    "modify-physical-state::density",
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/antarctic-crustaceans-use-wax-to-sink-in-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wax",
     "changes",
@@ -21,7 +25,5 @@
     "sink",
     "float"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

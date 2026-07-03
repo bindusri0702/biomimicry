@@ -1,24 +1,24 @@
 {
   "doc_id": "asn-enzymes-break-down-pesticides",
   "organism_common": "Western honeybee",
-  "organism_scientific": "",
   "strategy_summary": "The next time you eat a fruit, nut, or vegetable, give a thought to how the wondrous food in your hand or on your plate was grown. Very likely, a honeybee was involved in a vital way.",
   "mechanism": "The enzymes known as P450s (short for cytochrome P450 monooxygenases) appear to be especially effective at detoxifying the insecticide tau-fuvalinate. Researchers draw this kind of conclusion from studies in which chemicals known to inhibit P450 enzymes (e.g., piperonyl butoxide, or PBO) are added to sugar water and fed to bees, and the toxic effects of insecticides like tau-fuvalinate––such as a lack of coordination––become more apparent. Remove the PBO enzyme inhibitor, and the bees are no longer impacted as strongly by tau-fulvalinate.\n\nHow does it work? P450 enzymes are known to be capable of stripping electrons away from (i.e., oxidizing) molecular structures known as aromatic rings, found in natural toxins as well as pyrethrum-derived insecticides.\n\nA similar process occurs when you cut an apple and it begins to brown: oxygen in the air removes electrons from now-exposed molecules in the apple’s flesh, and you can see the apple’s molecules undergo change. The formation of rust from metal in moist air is another similar oxidation-degradation process.\n\nAromatic rings are molecules, or parts of molecules, that form circular chains of carbon atoms with various side groups. When these structures are stripped of electrons, they become unstable and begin to break down. Tau-fulvalinate contains an additional aromatic ring, which may explain why honeybees, with their P450 enzymes, are especially able to detoxify it.\n\nThe abilities of enzymes to change and detoxify otherwise harmful chemicals is of great use not only to honeybees, but more widely for people in our efforts to cope with both human-made and natural toxins. The natural metabolic adaptations of other species can suggest enzymatic compounds and chemical processes which can help us neutralize toxins in our own environment. P450 enzymes similar to those found in honeybees, for example, are now used to break down a variety of chemicals harmful to people and other species alike, including carcinogens, steroids, and pesticides.",
   "function_addressed": [
     "catalyze chemical breakdown",
     "chemically break down organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::catalyze-breaking-of-bonds",
+    "chemically-break-down::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/enzymes-break-down-pesticides/",
-  "source_tier": "science_journalism",
   "keywords": [
     "honeybees",
     "detoxify",
     "insecticide"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

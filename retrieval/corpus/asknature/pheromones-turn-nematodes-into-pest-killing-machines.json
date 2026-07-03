@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-pheromones-turn-nematodes-into-pest-killing-machines",
   "organism_common": "Nematodes",
-  "organism_scientific": "",
   "strategy_summary": "Do roundworms make you squeamish? If so, it’s understandable.",
-  "mechanism": "A few nematode species have evolved to target insects (weevils, borers, beetles, and moths, just to name a few) that humans deem “pests” because they destroy our crops. Farmers have begun employing them as a natural pesticide––a more environmentally-friendly alternative to chemicals.\n\nStudies have now shown that pheromones called called ascarosides play a key role in triggering the critical dispersal phase of their life cycles, when young nematodes known as “infective juveniles” (IJs) will search through soil until encountering an insect they can infect.\n\nScientists suggest that nematodes could be exposed to these pheromones before being applied to crops for up to 78% more pest-killing efficacy. The company Pheronym is already producing nematode pheromones for commercial use, helping to pave the way toward a more eco-friendly agriculture system.",
+  "mechanism": "A few nematode species have evolved to target insects (weevils, borers, beetles, and moths, just to name a few) that humans deem “pests” because they destroy our crops. Farmers have begun employing them as a natural pesticide––a more environmentally-friendly alternative to chemicals.\n\nStudies have now shown that pheromones called called ascarosides play a key role in triggering the critical dispersal phase of their life cycles, when young nematodes known as “infective juveniles” (IJs) will search through soil until encountering an insect they can infect.\n\nWhen scientists applied ascarosides to IJs, more of the young nematodes began moving toward their target host, more successfully invaded the host, and more successfully killed the host.\n\nOnce inside, the IJs release bacteria that kill the host. They then feed on the body as they grow into adults and reproduce––sometimes for multiple generations. Finally, when every edible shred of the host has been consumed, a combination of chemical and environmental cues brings on the dispersal phase, releasing IJs into the soil to search for a new host and begin the cycle anew.\n\nWhen scientists applied ascarosides to IJs, more of the young nematodes began moving toward their target host, more successfully invaded the host, and more successfully killed the host.\n\nScientists suggest that nematodes could be exposed to these pheromones before being applied to crops for up to 78% more pest-killing efficacy. The company Pheronym is already producing nematode pheromones for commercial use, helping to pave the way toward a more eco-friendly agriculture system.",
   "function_addressed": [
     "cooperate within the same species",
     "coordinate by self-organization",
@@ -11,11 +10,21 @@
     "sense chemicals (odor, taste, etc.) from the environment",
     "send chemical signals (odor, taste, etc.)"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-the-same-species",
+    "coordinate::by-self-organization",
+    "process-signals::respond-to-signals",
+    "send-signals::chemical-odor-taste-etc",
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "coordinate",
+    "process-signals",
+    "send-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/pheromones-turn-nematodes-into-pest-killing-machines/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pheromones",
     "turn",
@@ -23,7 +32,5 @@
     "pest-killing",
     "machines"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

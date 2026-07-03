@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-skin-grows-over-fertilized-eggs",
   "organism_common": "Carvalho's Surinam toad",
-  "organism_scientific": "",
   "strategy_summary": "The skin of the Surinam toad protects its eggs by forming a membrane then embedding the eggs in the skin. Preserved specimen  “The Pipa toad is one of the most aquatic of the anurans, spending all its life in water.",
   "mechanism": "The skin of the Surinam toad protects its eggs by forming a membrane then embedding the eggs in the skin.\n\nPreserved specimen\n\n“The Pipa toad is one of the most aquatic of the anurans, spending all its life in water. It is a grotesque creature with a flattened body and a squashed-looking head. When they mate, the male grasps the female with his arms as most water-breeding anurans do. But then follows the most extraordinary and graceful ballet. The female kicks with her legs so that the pair soar upwards in an elegant slow somersault. As they descend, the female extrudes a few eggs which are immediately fertilised by the male’s sperms that have been discharged into the water at the same time. Then, with delicate movements of his webbed hind feet, toes distended so that they form a fan, he gathers up the eggs and gently spreads them over the female’s back. And there they stick. Again and again this arching leap is performed until a hundred or so eggs are fixed in an even carpet on the female’s back. The skin beneath them begins to swell and soon the eggs appear to be embedded in it. A membrane rapidly grows over them and within thirty hours, the eggs have disappeared from sight and the skin on the female’s back is smooth and entire once more. Beneath the skin, the eggs develop. After a fortnight, the whole of the female’s back is rippling with the movements of the tadpoles beneath. Then after 24 days, the young break holes in the skin and swim swiftly away to seek safe hiding places.” (Attenborough 1979:145)",
   "function_addressed": [
@@ -11,11 +10,18 @@
     "protect from animals",
     "regulate reproduction or growth"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals",
+    "protect-from-living-threats::fungi",
+    "protect-from-living-threats::microbes",
+    "protect-from-living-threats::plants",
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/skin-grows-over-fertilized-eggs/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skin",
     "grows",
@@ -23,7 +29,5 @@
     "fertilized",
     "eggs"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

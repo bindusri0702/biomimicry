@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-surface-shape-controls-ice",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "Water moves between organisms and their environment in a constant, creative dance, the underlying principles of which many humans have striven to understand. For instance, if you pay close attention on a cold morning, you’ll notice that frost appears in certain specific locations on leaves, but not other spots.",
   "mechanism": "Frost forms when water vapor in humid air makes contact with a surface that is below freezing temperature. Every location on a smooth surface is equally suitable for becoming the site of a water droplet. However, the volume of air (and water vapor) around things that “stick out” is greater than the volume of air around embedded, concave surfaces that “stick in”. So there are simply more chances for a quantity of water vapor to condense at these locations. Moreover, as frost appears preferentially on convex features, individual ice crystals attract more ice formation and grow.\n\nSimilar principles are at work with water in liquid form condensing on the relatively large bumps on the back of the Namib Desert Beetle ( Onymacris unguicularis ). Condensation is more likely to happen on these more exposed, convex features that stick out into the air volume than elsewhere, while evaporation tends to remove what little water has condensed on concave features.\n\nThe formation of ice can range from being inconvenient to being dangerous. A better understanding of how and where water condenses and ice forms has given scientists and designers a new set of ways to manipulate engineered surfaces to reduce frost formation. Without harmful chemicals or complex microscopic texturing, using large-scale geometry alone (i.e., millimeter-plus scales), frost can be better managed on many kinds of surfaces of interest, including aircraft wings, wind turbine blades, windshields, roads, sidewalks, and more.",
   "function_addressed": [
     "protect from ice"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::ice"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/surface-shape-controls-ice/",
-  "source_tier": "science_journalism",
   "keywords": [
     "surface",
     "shape",
     "controls",
     "ice"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

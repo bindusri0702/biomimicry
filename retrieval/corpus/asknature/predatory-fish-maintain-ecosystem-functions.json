@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-predatory-fish-maintain-ecosystem-functions",
   "organism_common": "Lake ecosystem",
-  "organism_scientific": "",
   "strategy_summary": "Predatory fish maintain lake ecosystems by keeping trophic cascade levels in equilibrium. “More than a decade ago, Steve Carpenter of the University of Wisconsin and his colleagues proposed that the key could be found in the food webs of these lakes.",
   "mechanism": "Predatory fish maintain lake ecosystems by keeping trophic cascade levels in equilibrium.\n\n“More than a decade ago, Steve Carpenter of the University of Wisconsin and his colleagues proposed that the key could be found in the food webs of these lakes. Large populations of predatory fish, such as pike, bass, walleye, and muskellunge in a lake hold down numbers of smaller prey fish such as minnows, which in turn keep algae-eating zooplankton in check. Algal growth, finally, depends on nutrient supplies. When pike are abundant and minnow numbers are reduced, the researchers reasoned, zooplankton thrive and keep the standing stocks of algae lower than the maximum allowed by nutrient levels. The researchers proposed that a change in just one of these links in the food web–for instance, heavy fishing that reduces pike numbers–sends a ripple effect through the system that eventually affects the amount of algae in the lake. Carpenter and James Kitchell, also of Wisconsin, set up a test of this ripple effect, called a trophic cascade, in a series of lakes in Wisconsin. The most dramatic shift came in Tuesday lake, which had no bass but had abundant minnows. The researchers removed 90 percent of the minnows by weight and introduced stocks of largemouth bass from a nearby lake. The abrupt decline in minnows, which had kept the zooplankton numbers low, caused populations of these tiny grazers to expand dramatically and knock down the high densities of algae by 80 to 90 percent.” (Baskin 1997:91-92)",
   "function_addressed": [
     "biological control of populations, pests, diseases",
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::biological-control-of-populations-pests-diseases",
+    "provide-ecosystem-services::maintain-biodiversity"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/predatory-fish-maintain-ecosystem-functions/",
-  "source_tier": "science_journalism",
   "keywords": [
     "predatory",
     "fish",
@@ -20,7 +22,5 @@
     "ecosystem",
     "functions"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

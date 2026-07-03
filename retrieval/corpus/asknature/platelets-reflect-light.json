@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-platelets-reflect-light",
   "organism_common": "Bobtail squid",
-  "organism_scientific": "",
   "strategy_summary": "Reflector platelets within squid chromatophores reflect light because they are nanofabricated photonic structures composed of proteins called reflectins. “The cuttlefish, octopus, and squid are the undisputed champions of camouflage… They can instantly modulate their color, shading, patchiness, mottling or stippling…",
   "mechanism": "Reflector platelets within squid chromatophores reflect light because they are nanofabricated photonic structures composed of proteins called reflectins.\n\n“The cuttlefish, octopus, and squid are the undisputed champions of camouflage… They can instantly modulate their color, shading, patchiness, mottling or stippling, transparency, heat, and even bioluminescence, light-polarity, or iridescence.”\n\nRead more about the shape-shifting abilities of cephalopods, including the bobtail squid, in Tamsin Woolley-Barker’s “Learning from the Master Shape-Shifter: Cephalopod Technologies” in Zygote Quarterly:\n\nBobtail squid from East Timor (Euprymna berryi).\n\nBobtail squid (Euprymna scolopes) in two of its color forms, white and orange. These small squid, no more than an inch long can change their color rapidly.",
   "function_addressed": [
     "modify light/color"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/platelets-reflect-light/",
-  "source_tier": "science_journalism",
   "keywords": [
     "platelets",
     "reflect",
     "light"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

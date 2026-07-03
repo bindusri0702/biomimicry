@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-fluid-pressure-provides-support",
   "organism_common": "Blue crab",
-  "organism_scientific": "",
-  "strategy_summary": "The body of the blue crab functions during exoskeletal molt using hydrostatic pressure. “The aquatic blue crab Callinectes sapidus maintains mobility by switching to a hydrostatic skeleton 10 — a fluid-based skeleton that is common in soft-bodied invertebrates 11 .",
-  "mechanism": "The body of the blue crab functions during exoskeletal molt using hydrostatic pressure.\n\n“The aquatic blue crab Callinectes sapidus maintains mobility by switching to a hydrostatic skeleton 10 — a fluid-based skeleton that is common in soft-bodied invertebrates 11 . Hydrostatic skeletons are arranged so that the force of muscle contraction is transmitted by an essentially incompressible aqueous fluid 11–13 . Muscle contraction increases the pressure in the fluid, causing the deformations or stiffening required for support, movement and locomotion.” (Taylor and Kier 2006:1005)\n\n“Like vertebrates, crustaceans usually move their limbs using muscles attached to a hard skeleton–albeit one on the outside of the body rather than the inside. But when a crab sheds its skeleton to grow a bigger shell, the muscles are left without any rigid surface to pull against. How do they do it? William Kier and Jennifer Taylor of UNC-Chapel Hill investigated, and found that, during molting, crabs use hydrostatic pressure to create a stiff structure against which muscles can pull. Fluid pressure in the claw goes up as the muscles contract; if you remove a claw during molting, it deflates like a flat tire. Once the shell has hardened, however, pressure does not change during muscle use. Soft-shelled crabs are the first animals known to use both a skeleton and hydrostatic pressure for support.” (Jones 2003:17)\n\nArthropods, like the blue crab, have an exoskeleton that must be shed—or molted—when they grow. Starting at about 1:00, this video from Shape of Life shows the molting process of a blue crab and how it pulls its legs and body out of its old shell.",
+  "strategy_summary": "The body of the blue crab functions during exoskeletal molt using hydrostatic pressure. “The aquatic blue crab Callinectes sapidus maintains mobility by switching to a hydrostatic skeleton 10 — a fluid-based skeleton that is common in soft-bodied invertebrates 11.",
+  "mechanism": "The body of the blue crab functions during exoskeletal molt using hydrostatic pressure.\n\n“The aquatic blue crab Callinectes sapidus maintains mobility by switching to a hydrostatic skeleton 10 — a fluid-based skeleton that is common in soft-bodied invertebrates 11. Hydrostatic skeletons are arranged so that the force of muscle contraction is transmitted by an essentially incompressible aqueous fluid 11–13. Muscle contraction increases the pressure in the fluid, causing the deformations or stiffening required for support, movement and locomotion.” (Taylor and Kier 2006:1005)\n\n“Like vertebrates, crustaceans usually move their limbs using muscles attached to a hard skeleton–albeit one on the outside of the body rather than the inside. But when a crab sheds its skeleton to grow a bigger shell, the muscles are left without any rigid surface to pull against. How do they do it? William Kier and Jennifer Taylor of UNC-Chapel Hill investigated, and found that, during molting, crabs use hydrostatic pressure to create a stiff structure against which muscles can pull. Fluid pressure in the claw goes up as the muscles contract; if you remove a claw during molting, it deflates like a flat tire. Once the shell has hardened, however, pressure does not change during muscle use. Soft-shelled crabs are the first animals known to use both a skeleton and hydrostatic pressure for support.” (Jones 2003:17)\n\nArthropods, like the blue crab, have an exoskeleton that must be shed—or molted—when they grow. Starting at about 1:00, this video from Shape of Life shows the molting process of a blue crab and how it pulls its legs and body out of its old shell.",
   "function_addressed": [
     "manage tension",
     "manage compression"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::tension"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/fluid-pressure-provides-support/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fluid",
     "pressure",
     "provides",
     "support"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-tongue-defeats-gravity",
   "organism_common": "Domestic cat",
-  "organism_scientific": "",
-  "strategy_summary": "The tongue of the cat pulls liquid into its mouth by exploiting fluid inertia to beat gravity. Image: tanakawho / toggle icon Image: Carl A / toggle icon Image: Tambako The Jaguar / Flickr / Some rights reserved toggle icon right arrow right arrow  “Animals have developed a range of drinking strategies depending on…",
-  "mechanism": "The tongue of the cat pulls liquid into its mouth by exploiting fluid inertia to beat gravity.\n\nImage: tanakawho / toggle icon Image: Carl A / toggle icon Image: Tambako The Jaguar / Flickr / Some rights reserved toggle icon right arrow right arrow\n\n“Animals have developed a range of drinking strategies depending on physiological and environmental constraints. Vertebrates with incomplete cheeks use their tongue to drink; the most common example is the lapping of cats and dogs. We show that the domestic cat ( Felis catus ) laps by a subtle mechanism based on water adhesion to the dorsal side of the tongue. A combined experimental and theoretical analysis reveals that Felis catus exploits fluid inertia to defeat gravity and pull liquid into the mouth. This competition between inertia and gravity sets the lapping frequency and yields a prediction for the dependence of frequency on animal mass. Measurements of lapping frequency across the family Felidae support this prediction, which suggests that the lapping mechanism is conserved among felines.” (Reis et al. 2010)\n\nWatch video",
+  "strategy_summary": "The tongue of the cat pulls liquid into its mouth by exploiting fluid inertia to beat gravity. “Animals have developed a range of drinking strategies depending on physiological and environmental constraints.",
+  "mechanism": "The tongue of the cat pulls liquid into its mouth by exploiting fluid inertia to beat gravity.\n\n“Animals have developed a range of drinking strategies depending on physiological and environmental constraints. Vertebrates with incomplete cheeks use their tongue to drink; the most common example is the lapping of cats and dogs. We show that the domestic cat ( Felis catus ) laps by a subtle mechanism based on water adhesion to the dorsal side of the tongue. A combined experimental and theoretical analysis reveals that Felis catus exploits fluid inertia to defeat gravity and pull liquid into the mouth. This competition between inertia and gravity sets the lapping frequency and yields a prediction for the dependence of frequency on animal mass. Measurements of lapping frequency across the family Felidae support this prediction, which suggests that the lapping mechanism is conserved among felines.” (Reis et al. 2010)\n\nWatch video",
   "function_addressed": [
     "capture, absorb, or filter liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/tongue-defeats-gravity/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tongue",
     "defeats",
     "gravity"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

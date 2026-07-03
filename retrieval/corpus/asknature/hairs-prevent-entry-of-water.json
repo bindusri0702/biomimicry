@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-hairs-prevent-entry-of-water",
   "organism_common": "Drone fly",
-  "organism_scientific": "",
   "strategy_summary": "The breathing tubes of rat-tailed maggots block water from entering via hydrophobic hairs. “Some diptera (Syrphidae or red-tailed maggots [rat-tailed maggots]) and Ephydridae (shore flies) have a pair of posterior, telescopic breathing tubes that open in spiracles with hydrophobic hairs that prevent water from…",
   "mechanism": "The breathing tubes of rat-tailed maggots block water from entering via hydrophobic hairs.\n\n“Some diptera (Syrphidae or red-tailed maggots [rat-tailed maggots]) and Ephydridae (shore flies) have a pair of posterior, telescopic breathing tubes that open in spiracles with hydrophobic hairs that prevent water from entering.” (van der Valk 2006:49)",
   "function_addressed": [
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/hairs-prevent-entry-of-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hairs",
     "prevent",
     "entry",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

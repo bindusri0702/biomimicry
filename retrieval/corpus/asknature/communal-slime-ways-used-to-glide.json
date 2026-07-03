@@ -1,27 +1,32 @@
 {
   "doc_id": "asn-communal-slime-ways-used-to-glide",
   "organism_common": "Labyrinthula",
-  "organism_scientific": "",
   "strategy_summary": "At least one marine slime mold glides around using communal membrane-bound slime trails. “A variety of microscopic algae (diatoms, desmids, and others) engage in gliding motion across surfaces; the motion is usually associated with the secretion of slime, but the source of the shearing force between organism and…",
-  "mechanism": "At least one marine slime mold glides around using communal membrane-bound slime trails.\n\n“A variety of microscopic algae (diatoms, desmids, and others) engage in gliding motion across surfaces; the motion is usually associated with the secretion of slime, but the source of the shearing force between organism and substratum is unclear; it’s certainly different from any of the mechanisms we’ve considered so far (Halfen 1979; Melkonian 1992). Leaving a slime trail may push up the cost of transport, as the work on slug locomotion suggests.\n\n“One kind of marine slime mold, Labyrinthula , restricts its slime to communal membrane-bound ‘slime ways,’ through which its autonomous cells glide (Dusenberry 1996). The engine involves interactions between the same two proteins, actin and myosin, as does that of muscle (Dietz and Schnetter 1999).” (Vogel 2003:450)",
+  "mechanism": "At least one marine slime mold glides around using communal membrane-bound slime trails.\n\n“A variety of microscopic algae (diatoms, desmids, and others) engage in gliding motion across surfaces; the motion is usually associated with the secretion of slime, but the source of the shearing force between organism and substratum is unclear; it’s certainly different from any of the mechanisms we’ve considered so far (Halfen 1979; Melkonian 1992). Leaving a slime trail may push up the cost of transport, as the work on slug locomotion suggests.\n\n“One kind of marine slime mold, Labyrinthula, restricts its slime to communal membrane-bound ‘slime ways,’ through which its autonomous cells glide (Dusenberry 1996). The engine involves interactions between the same two proteins, actin and myosin, as does that of muscle (Dietz and Schnetter 1999).” (Vogel 2003:450)",
   "function_addressed": [
     "coordinate by self-organization",
     "cooperate within the same species",
     "navigate over land",
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-the-same-species",
+    "coordinate::by-self-organization",
+    "move::in-on-solids",
+    "navigate::over-land"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "coordinate",
+    "move",
+    "navigate"
+  ],
   "source_url": "https://asknature.org/strategy/communal-slime-ways-used-to-glide/",
-  "source_tier": "science_journalism",
   "keywords": [
     "communal",
     "slime-ways",
     "used",
     "glide"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

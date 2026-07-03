@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-nostrils-detect-minute-quantities-of-blood",
   "organism_common": "Great white shark",
-  "organism_scientific": "",
   "strategy_summary": "The nostrils of great white sharks can detect minute quantities of blood due to highly sensitive nasal sacs. “The first of a great white shark’s senses to come into play when seeking prey is smell.",
   "mechanism": "The nostrils of great white sharks can detect minute quantities of blood due to highly sensitive nasal sacs.\n\n“The first of a great white shark’s senses to come into play when seeking prey is smell. The nasal sacs in a shark’s nostrils can detect minute quantities of blood — as low as 1 part in 1,000,000,000 — seeping from an injured animal.” (Shuker 2001:40)",
   "function_addressed": [
     "sense chemicals (odor, taste, etc.) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/nostrils-detect-minute-quantities-of-blood/",
-  "source_tier": "science_journalism",
   "keywords": [
     "nostrils",
     "detect",
@@ -19,7 +20,5 @@
     "quantities",
     "blood"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

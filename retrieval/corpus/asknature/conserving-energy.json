@@ -1,23 +1,24 @@
 {
   "doc_id": "asn-conserving-energy",
   "organism_common": "Butterflies and moths",
-  "organism_scientific": "",
   "strategy_summary": "Some male moths have no mouthparts in order to conserve energy because their exclusive concern is mating. “By complete contrast, some insects have no mouthparts at all.",
   "mechanism": "Some male moths have no mouthparts in order to conserve energy because their exclusive concern is mating.\n\n“By complete contrast, some insects have no mouthparts at all. The short life of an adult male moth, for example, may be concerned exclusively with finding a mate and reproducing; and as feeding would be a waste of precious time it dispenses with mouthparts completely, and never feeds.” (Foy and Oxford Scientific Films 1982:160)",
   "function_addressed": [
     "store energy",
     "optimize shape/materials"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "store::energy"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/conserving-energy/",
-  "source_tier": "science_journalism",
   "keywords": [
     "conserving",
     "energy"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

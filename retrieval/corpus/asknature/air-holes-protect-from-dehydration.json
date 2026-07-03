@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-air-holes-protect-from-dehydration",
   "organism_common": "Protect From Loss of Liquids",
-  "organism_scientific": "",
-  "strategy_summary": "The air holes of a moon moth caterpillar help avoid dehydration by closing to prevent evaporation. “This portion of the body of a moon moth caterpillar shows the spiracles very clearly, ringed in red pigment .",
-  "mechanism": "The air holes of a moon moth caterpillar help avoid dehydration by closing to prevent evaporation.\n\n“This portion of the body of a moon moth caterpillar shows the spiracles very clearly, ringed in red pigment . The spiracles are equally distributed among its body segments, and can be closed if it is in danger of dehydration. Each new skin that it grows will have pores for the spiracles, which connect with a network of tiny tubes that carry oxygen deeper into its body.” (Foy and Oxford Scientific Films 1982:43)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
+  "strategy_summary": "The air holes of a moon moth caterpillar help avoid dehydration by closing to prevent evaporation. “This portion of the body of a moon moth caterpillar shows the spiracles very clearly, ringed in red pigment.",
+  "mechanism": "The air holes of a moon moth caterpillar help avoid dehydration by closing to prevent evaporation.\n\n“This portion of the body of a moon moth caterpillar shows the spiracles very clearly, ringed in red pigment. The spiracles are equally distributed among its body segments, and can be closed if it is in danger of dehydration. Each new skin that it grows will have pores for the spiracles, which connect with a network of tiny tubes that carry oxygen deeper into its body.” (Foy and Oxford Scientific Films 1982:43)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
   "function_addressed": [
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/air-holes-protect-from-dehydration/",
-  "source_tier": "science_journalism",
   "keywords": [
     "air",
     "holes",
     "protect",
     "dehydration"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

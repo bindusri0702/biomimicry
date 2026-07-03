@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-crystals-create-iridescent-sheen",
   "organism_common": "Rainbow trout",
-  "organism_scientific": "",
   "strategy_summary": "The scales of a rainbow trout have a silvery shine due to guanine crystals. “The scales of a rainbow trout, reflective yet translucent.",
   "mechanism": "The scales of a rainbow trout have a silvery shine due to guanine crystals.\n\n“The scales of a rainbow trout, reflective yet translucent. The silvery lustre is due to crystals of guanine, produced in the body as a waste product. The tiny black speckles are pigment cells, and at intervals there are large clusters of these where the pigment is distributed right across each cell, instead of only in the centre; here we get the large black patches which produce colour changes in response to hormone s released during the breeding season – hence the name rainbow trout. The overlapping scales form a waterproof armour which is flexible enough to allow for the flexing of the body during swimming.” (Foy and Oxford Scientific Films 1982:87)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
   "function_addressed": [
     "modify light/color"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/crystals-create-iridescent-sheen/",
-  "source_tier": "science_journalism",
   "keywords": [
     "crystals",
     "create",
     "iridescent",
     "sheen"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

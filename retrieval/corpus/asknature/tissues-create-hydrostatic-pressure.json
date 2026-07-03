@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-tissues-create-hydrostatic-pressure",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "Tissues of plants generate hydrostatic pressure by injecting solutes into a confined space and allowing water to enter. Epidermis cells of Rhoeo discolor after plasmolysis (loss of water).",
   "mechanism": "Tissues of plants generate hydrostatic pressure by injecting solutes into a confined space and allowing water to enter.\n\nEpidermis cells of Rhoeo discolor after plasmolysis (loss of water). The vacuoles (pink) have shrunk.\n\n“Osmotic Motors: Hydraulic motors and actuators work on the basis of a change in hydrostatic pressure…plants generate hydrostatic pressure by injecting solutes into a confined space that must be surrounded by a selective membrane that retains the solutes but allows water to permeate freely into this space. Osmosis therefore requires two components: a semipermeable membrane inside to concentrate the solutes and a restraining, but elastic and expandable wall outside to prevent the compartment from bursting when water is taken up during the hydration of these solutes. The hydration of the solutes generates hydrostatic pressure inside the osmotic compartments. All plants use osmosis to pump and concentrate water-binding electrolytes and nonelectrolytes into the inside of their cells and in particular into the vacuole, a membrane-surrounded compartment specifically designed for storing solutes and water. Osmotically operating plant cells allow the build-up of internal pressures far exceeding that of car tires.” (Bar-Cohen 2006:474)",
   "function_addressed": [
@@ -9,18 +8,22 @@
     "store liquids",
     "modify pressure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids",
+    "modify-physical-state::pressure",
+    "store::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "modify-physical-state",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/tissues-create-hydrostatic-pressure/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tissues",
     "create",
     "hydrostatic",
     "pressure"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

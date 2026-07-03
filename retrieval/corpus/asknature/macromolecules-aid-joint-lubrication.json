@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-macromolecules-aid-joint-lubrication",
   "organism_common": "Humans",
-  "organism_scientific": "",
   "strategy_summary": "Lubricating synovial fluid in joints protects from friction via a brush-like phase of charged macromolecules. “It is proposed that the extremely efficient lubrication observed in living joints arises from the presence of a brush-like phase of charged macromolecules at the surface of the superficial zone.",
-  "mechanism": "Lubricating synovial fluid in joints protects from friction via a brush-like phase of charged macromolecules.\n\n“It is proposed that the extremely efficient lubrication observed in living joints arises from the presence of a brush-like phase of charged macromolecules at the surface of the superficial zone. This phase forms when charged macromolecules, including lubricin, superficial-zone protein , and aggrecan, cross the interface between the superficial zone and the synovial cavity as they are secreted into the synovium from within the bulk of the cartilage, and, in particular, the feasibility of such brush-like surface-phases is examined in some detail. The molecular mechanisms for the reduction in friction are proposed to be similar to those recently revealed using surface force balance studies on lubrication by charged brushes.” (Klein 2006:691)",
+  "mechanism": "Lubricating synovial fluid in joints protects from friction via a brush-like phase of charged macromolecules.\n\n“It is proposed that the extremely efficient lubrication observed in living joints arises from the presence of a brush-like phase of charged macromolecules at the surface of the superficial zone. This phase forms when charged macromolecules, including lubricin, superficial-zone protein, and aggrecan, cross the interface between the superficial zone and the synovial cavity as they are secreted into the synovium from within the bulk of the cartilage, and, in particular, the feasibility of such brush-like surface-phases is examined in some detail. The molecular mechanisms for the reduction in friction are proposed to be similar to those recently revealed using surface force balance studies on lubrication by charged brushes.” (Klein 2006:691)",
   "function_addressed": [
     "manage mechanical wear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/macromolecules-aid-joint-lubrication/",
-  "source_tier": "science_journalism",
   "keywords": [
     "macromolecules",
     "aid",
     "joint",
     "lubrication"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

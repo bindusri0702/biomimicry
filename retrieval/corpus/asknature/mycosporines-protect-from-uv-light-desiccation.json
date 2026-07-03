@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-mycosporines-protect-from-uv-light-desiccation",
   "organism_common": "Ascomycota",
-  "organism_scientific": "",
   "strategy_summary": "Microcolonial fungi are protected from UV light and desiccation via mycosporines. “UV absorption of both mycosporines at 310 nm hints at their biological role as UV filters.",
   "mechanism": "Microcolonial fungi are protected from UV light and desiccation via mycosporines.\n\n“UV absorption of both mycosporines at 310 nm hints at their biological role as UV filters. However, it is believed that, in addition to UVR protection, mycosporines may also play an important role as antioxidants and osmoprotectants. The presence of at least two different mycosporines enhances the survival capabilities of MCF [microcolonial fungi] undergoing UVR and desiccation stress. However, it is also possible that mycosporine-glutaminol-glucoside and mycosporine-glutamicol-glucoside are internally converted within the fungal cell and thus have a biochemical precursor–product relationship.” (Volkmann et al. 2003:901)",
   "function_addressed": [
     "protect from loss of liquids",
     "protect from light"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::light",
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/mycosporines-protect-from-uv-light-desiccation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mycosporines",
     "protect",
     "light",
     "desiccation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

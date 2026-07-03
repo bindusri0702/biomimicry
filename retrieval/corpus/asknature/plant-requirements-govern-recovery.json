@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-plant-requirements-govern-recovery",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "Woodland ecosystems recover from disturbances via succession, depending on plants' various requirements for nutrients and light. In October 1987 a hurricane struck southern England and over 15 million trees were destroyed.",
   "mechanism": "Woodland ecosystems recover from disturbances via succession, depending on plants' various requirements for nutrients and light.\n\nIn October 1987 a hurricane struck southern England and over 15 million trees were destroyed. A few months later, foxgloves, which need good light to grow, sprang up quickly in the nutrient-rich woodland soil. During the first year of growth, the foxgloves store surplus food in their roots. During the second year, they flower and disperse about a quarter of a million seeds each. Many of the foxgloves then die, and their offspring may have to wait decades before having an opportunity to sprout. Nettles, which also require nutrient-rich soil, begin to compete with the foxgloves–they start more slowly, but spread more rapidly, developing mats of horizontal stems that other seedlings have a hard time penetrating. After several years, the nettles have extracted so many nutrients from the soil that it no longer meets their needs. They begin to falter, and the seeds of other plants with larger food stores, such as birch, begin to emerge. The birch seeds require lots of light to sprout, and once sprouted remain as seedlings for several years until conditions are most favorable. The birch gradually form a thicket, shading out other plants. Acorns also sprout and very slowly begin to grow. As the birch begin to fail, the oaks gradually reclaim the territory they held decades ago. The oaks, in turn, provide food and shelter for hundreds of woodland creatures. (Summarized from Attenborough 1995:149-158)",
   "function_addressed": [
@@ -9,18 +8,22 @@
     "cooperate within an ecosystem",
     "manage disturbance in a community"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-a-eco-system",
+    "physically-assemble::structure",
+    "provide-ecosystem-services::manage-disturbance-in-a-community"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "physically-assemble",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/plant-requirements-govern-recovery/",
-  "source_tier": "science_journalism",
   "keywords": [
     "plant",
     "requirements",
     "govern",
     "recovery"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

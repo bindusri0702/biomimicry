@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-helical-structure-improves-flow",
   "organism_common": "Animals",
-  "organism_scientific": "",
   "strategy_summary": "We may imagine ourselves having essentially solid bodies, but the vascular system that carries oxygen throughout our bodies, makes us less like a mountain of muscle and more like a walking river of fluid. That’s why damage to our veins and arteries can be so devastating, and why cardiovascular disease is a leading…",
   "mechanism": "As our arteries carry oxygen-enriched blood from our lungs to the rest of our bodies, they often curve and twist in three-dimensional space like a corkscrew. Why don’t they just travel in seemingly efficient straight lines?\n\nIt turns out that those helical twists create helical flow patterns within vessels that better mix oxygen in the bloodstream. They also cause our flowing blood to exert more force against the artery walls. This force, called wall shear stress, directly affects the amount of oxygen absorbed by the walls. It’s similar to eating a tasty candy: if you roll it around in your mouth, your taste buds have a chance to experience the flavor, but if you swallow it straight down, you hardly taste a thing,\n\nSimilarly, straighter arteries have less opportunity to interact with the oxygen flowing through them. That puts them at greater risk of hardening than helical ones. Thus, the seemingly inefficient twists in our veins and arteries are ultimately critical for maintaining the health and functioning of the system as a whole.\n\nThe natural helical geometries of our vascular system can serve as an inspiration in the design of grafts, shunts, and stents used in procedures such as dialysis and bypass surgery. Helical stents modeled on the geometry of human arteries, for example, have already been shown to better maintain the health of associated vessels than straight stents.\n\nMore broadly, mimicking the twisting path of arteries could improve the absorption in other flowing systems, either for distributing materials into the surroundings, or filtering them out of the flowing liquid.",
   "function_addressed": [
     "distribute liquids",
     "distribute gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::gases",
+    "distribute::liquids"
+  ],
+  "subgroup_keys": [
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/helical-structure-improves-flow/",
-  "source_tier": "science_journalism",
   "keywords": [
     "why",
     "curvy",
@@ -21,7 +23,5 @@
     "more",
     "efficient"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

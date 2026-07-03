@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-torpor-conserves-energy",
   "organism_common": "Common poorwill",
-  "organism_scientific": "",
   "strategy_summary": "The common poorwill conserves energy when food is limited by entering a state of torpor for extended periods of time. All animals need energy to survive, and they get this energy from the food they eat.",
   "mechanism": "The common poorwill conserves energy when food is limited by entering a state of torpor for extended periods of time.\n\nAll animals need energy to survive, and they get this energy from the food they eat. When food is limited, animals need to conserve their energy until food is readily available again. One way to conserve energy is to exert less throughout the day and/or night. Because all major life functions (breathing, moving, pumping blood, maintaining body temperature, etc) require energy, reducing body temperature or slowing heart rate is one way to conserve energy. Many animals do this during hibernation, but other animals, such as birds, do this for shorter periods of time (anywhere from 24 hours to a few days), which is known as torpor.\n\nMany birds enter torpor when it is difficult to hunt for prey and find food, for example during moonless and/or cloudy nights, when ambient light levels are low. The birds that most commonly engage in torpor are small-bodied specialized foragers, such as hummingbirds. Although there is considerable variation in patterns of torpor among birds, one species, the common poorwill ( Phalaenoptilus nuttallii ), is the only bird known to remain torpid for extended periods of time. Poorwills feast mainly on insects, and experience substantial seasonal fluctuations in food availability, and thus are much less active in the winter. To cope with the decrease in energy availability, common poorwills reduce their body temperature during winter, entering a hibernation-like state. This ability to engage in prolonged periods of torpor allows the common poorwill to conserve energy during times of limited food availability so it can forage with an increased likelihood of success.\n\nCommon Poorwill (Phalaenoptilus nuttallii)",
   "function_addressed": [
     "maintain homeostasis"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/torpor-conserves-energy/",
-  "source_tier": "science_journalism",
   "keywords": [
     "torpor",
     "conserves",
     "energy"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

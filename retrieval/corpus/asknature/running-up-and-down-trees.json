@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-running-up-and-down-trees",
   "organism_common": "Treecreeper",
-  "organism_scientific": "",
   "strategy_summary": "The feet of treecreepers allow them to run both up and down tree trunks thanks to a rotating toe. “The tree-creeper is able to run up or down a tree with equal ease.",
   "mechanism": "The feet of treecreepers allow them to run both up and down tree trunks thanks to a rotating toe.\n\n“The tree-creeper is able to run up or down a tree with equal ease. Two toes on each foot point forwards for gripping the bark on the way up, and the other two point backwards for gripping while going down. The long sharp claws hook into the bark, and its stiff tail feathers are used as a prop as it moves up the tree.” (Foy and Oxford Scientific Films 1982:183)",
   "function_addressed": [
     "move in/on solids",
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/running-up-and-down-trees/",
-  "source_tier": "science_journalism",
   "keywords": [
     "running",
     "down",
     "trees"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

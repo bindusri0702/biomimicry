@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-relationship-provides-nutrients-protection",
   "organism_common": "Ant plants",
-  "organism_scientific": "",
   "strategy_summary": "Ant-plants and their ant lodgers gain nutrients and protection thanks to their mutualistic relationship. Myrmecodia platytyrea subsp.",
   "mechanism": "Ant-plants and their ant lodgers gain nutrients and protection thanks to their mutualistic relationship.\n\nMyrmecodia platytyrea subsp. antoinii\n\nMyrmecodia beccarii (Ant Plant) growing epiphytically on Lophostemom suaveolens with Dischidia nummularia (Button Orchid - not a true orchid) in wetlands of tropical north Queensland, Australia. You can see Dischidia flowers silhouetted against the sky in the fork of the tree, and three tear-drop shaped fruits immediately above the two largest Myrmecodia leaves.\n\n“One group of plants, the ant-plants, provide even more lavish accomodation for their ant-lodgers. They are epiphytes, and are very common growing on the branches of mangroves. In such a position, without roots in the ground, they are in particular need of mineral nutrients. Their guests provide it. The ant-plant’s stem is swollen into a globe the size of a football and armoured on the outside by prickles. Ants swarm all over it, scurrying in and out of holes on the surface. Within, there are a number of large interconnected chambers. Some are the ants’ living quarters. There the queen sits, steadily producing her eggs, and there too are the nurseries where the young larvae are kept and reared. These apartments have smooth light-coloured walls. But other chambers are different. These have darker walls which are covered with small warty outgrowths. Here the ants deposit the remains of their insect meals and their droppings. Both are rich in phosphates and nitrates, exactly the nutrients that the plant badly needs since, hanging on the branches of a mangrove tree in a brackish swamp, it is cut off from the soil. It absorbs them through the walls of these compartments and so is able to flourish in one of the most difficult and impoverished of habitats for a plant. But it can only do so because its insect lodgers pay rent by feeding it.” (Attenborough 1995:209-211)",
   "function_addressed": [
@@ -9,18 +8,22 @@
     "cooperate/compete between different species",
     "cycle nutrients"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::between-different-species",
+    "protect-from-living-threats::animals",
+    "provide-ecosystem-services::cycle-nutrients"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "protect-from-living-threats",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/relationship-provides-nutrients-protection/",
-  "source_tier": "science_journalism",
   "keywords": [
     "relationship",
     "provides",
     "nutrients",
     "protection"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

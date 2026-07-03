@@ -1,23 +1,20 @@
 {
   "doc_id": "asn-fins-funnel-food",
   "organism_common": "Manta ray",
-  "organism_scientific": "",
   "strategy_summary": "The mouth of manta rays filter feeds more efficiently because food is funneled via extendable, flaplike fins on either side of the mouth. “The manta is the largest living ray, up to 6.7 metres across and 1360 kg in weight.",
   "mechanism": "The mouth of manta rays filter feeds more efficiently because food is funneled via extendable, flaplike fins on either side of the mouth.\n\n“The manta is the largest living ray, up to 6.7 metres across and 1360 kg in weight. Surprisingly, it feeds on small crustaceans and plankton, trapped on its gill rakers. Unlike most rays, its mouth extends across the front of its body, and the large mobile pale-coloured cephalic fins on either side of the mouth can be extended vertically. It has been suggested that these may form a scoop or funnel leading to the mouth while feeding.” (Foy and Oxford Scientific Films 1982:188)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
   "function_addressed": [
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/fins-funnel-food/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fins",
     "funnel",
     "food"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

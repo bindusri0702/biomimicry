@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-the-fungi-that-clean-up-pollution",
   "organism_common": "Fungi",
-  "organism_scientific": "",
   "strategy_summary": "Whoever observed that “one person’s trash is another’s treasure” could easily have been speaking about fungi. These organisms, which form a kingdom all on their own, come in virtually endless sizes and shapes, from single-celled yeasts to massive, web-like organisms that stretch for miles underground.",
-  "mechanism": "All living things contain enzymes, proteins they use to break or make chemical bonds. By holding two or more molecules close to each other in a position that encourages them to react with each other, enzymes allow their owners to transform one substance into another, creating the molecules they need to provide structure, produce energy, and more.\n\nAs organisms that specialize in decomposing other living (or formerly living) things, fungi have a particularly impressive variety of enzymes they can use to break down a wide variety of chemicals to extract the energy and molecules they need to live. Scientists searching for ways to remove human-made pollutants from the environment have discovered that some fungi can use their enzymes to degrade these undesirable chemicals.\n\nContaminants that fungi have been found to break down include polyaromatic hydrocarbons (such as those found in crude oil and gasoline), heavy metals, herbicides, pesticides, cyanotoxins, pharmaceuticals, antibiotics, phthalates, dyes, and detergents. Often, the enzymes they use to do this are also ones they normally would use to break down lignin, the molecule that helps give plants their stiff structure. But other enzymes appear to be involved as well. The chemical reactions include removing oxygen or hydrogen, altering the configuration of chemical bonds, and more. Such changes, in some cases, can turn toxic substances into harmless molecules such as carbohydrates, water, and oxygen.\n\nConventional processes for removing pollutants such as industrial waste, paints, and pesticides from land and water can be expensive, energy-demanding, and of limited effectiveness. Sometimes they even produce other undesirable molecules in the process. Could the right kinds of fungi be introduced to a contaminated site though and begin to do the job themselves?\n\nThis process, known as mycoremediation, uses other forms of life to accomplish tasks directly (as opposed to adapting lessons from them into new innovations) and so is a form of bioutilization . There is a very good reason why we don’t generally just put fungi into an environment to let them take care of our pollution: it is very difficult to scale. Fungi convert the pollution we have created at a much slower rate than we create it. Genetic modification could enhance the efficiency of some contaminant-degrading fungi though, or enable them to specialize in certain pollutants. Scientists are also exploring ways to introduce certain bacteria or natural chemicals such as cellulose to make fungi’s natural abilities more effective. This ability to take up toxic substances could also be used to improve recycling and decrease mining by “harvesting” precious metals from e-waste, wastewater, or naturally occurring deposits.",
+  "mechanism": "All living things contain enzymes, proteins they use to break or make chemical bonds. By holding two or more molecules close to each other in a position that encourages them to react with each other, enzymes allow their owners to transform one substance into another, creating the molecules they need to provide structure, produce energy, and more.\n\nAs organisms that specialize in decomposing other living (or formerly living) things, fungi have a particularly impressive variety of enzymes they can use to break down a wide variety of chemicals to extract the energy and molecules they need to live. Scientists searching for ways to remove human-made pollutants from the environment have discovered that some fungi can use their enzymes to degrade these undesirable chemicals.\n\nContaminants that fungi have been found to break down include polyaromatic hydrocarbons (such as those found in crude oil and gasoline), heavy metals, herbicides, pesticides, cyanotoxins, pharmaceuticals, antibiotics, phthalates, dyes, and detergents. Often, the enzymes they use to do this are also ones they normally would use to break down lignin, the molecule that helps give plants their stiff structure. But other enzymes appear to be involved as well. The chemical reactions include removing oxygen or hydrogen, altering the configuration of chemical bonds, and more. Such changes, in some cases, can turn toxic substances into harmless molecules such as carbohydrates, water, and oxygen.\n\nFungi have a particularly impressive variety of enzymes they can use to break down a wide variety of chemicals to extract the energy and molecules they need to live.\n\nConventional processes for removing pollutants such as industrial waste, paints, and pesticides from land and water can be expensive, energy-demanding, and of limited effectiveness. Sometimes they even produce other undesirable molecules in the process. Could the right kinds of fungi be introduced to a contaminated site though and begin to do the job themselves?\n\nThis process, known as mycoremediation, uses other forms of life to accomplish tasks directly (as opposed to adapting lessons from them into new innovations) and so is a form of bioutilization . There is a very good reason why we don’t generally just put fungi into an environment to let them take care of our pollution: it is very difficult to scale. Fungi convert the pollution we have created at a much slower rate than we create it. Genetic modification could enhance the efficiency of some contaminant-degrading fungi though, or enable them to specialize in certain pollutants. Scientists are also exploring ways to introduce certain bacteria or natural chemicals such as cellulose to make fungi’s natural abilities more effective. This ability to take up toxic substances could also be used to improve recycling and decrease mining by “harvesting” precious metals from e-waste, wastewater, or naturally occurring deposits.",
   "function_addressed": [
     "catalyze chemical breakdown",
     "chemically break down polymers",
@@ -11,17 +10,21 @@
     "cleave halogens from organic compounds",
     "chemically break down organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::catalyze-breaking-of-bonds",
+    "chemically-break-down::cleave-halogens-from-organic-compounds",
+    "chemically-break-down::cleave-heavy-metals-from-organic-compounds",
+    "chemically-break-down::organic-compounds",
+    "chemically-break-down::polymers"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/the-fungi-that-clean-up-pollution/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fungi",
     "clean",
     "pollution"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

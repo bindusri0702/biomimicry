@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-disturbances-maintain-habitat",
   "organism_common": "Scandinavian subalpine and alpine habitats",
-  "organism_scientific": "",
   "strategy_summary": "Scandinavian subalpine and alpine habitats are maintained when they continue to experience pulsed disturbances. “We term this network of species, their dynamic interactions between each other and the environment, and the combination of structures that make reorganization after disturbance possible; the ‘ecological…",
   "mechanism": "Scandinavian subalpine and alpine habitats are maintained when they continue to experience pulsed disturbances.\n\n“We term this network of species, their dynamic interactions between each other and the environment, and the combination of structures that make reorganization after disturbance possible; the ‘ecological memory’ of the system (21, 22)…The ecological memory is a key component of ecological resilience, i.e. the capacity of the system to absorb disturbances, reorganize, and maintain adaptive capacity (25)…Among the major disturbances [in Scandinavian alpine and subalpine regions, dominated by heaths and mountain bird forests] are grazing by rodents, reindeer and moth caterpillars ( Epirrita autumnata ) (87–90). These occur as pulses with different frequencies and spatial scales (Table 3). Rodents are usually cyclic (87) and play a role in the maintenance and dynamics of dwarf shrubs and mosses (88). Reindeer, controlling the abundance of lichens, traditionally grazed in a pulsed manner both between years on single sites and regionally on a longer time scale, as reindeer populations waxed and waned on a 30–50 year cycle (89). Fire occurs irregularly, and affects dwarf shrub composition, favoring Vaccinium at the expense of Empetrum (91)…However, if we recognize the dynamic nature of the mountain ecosystems and the rights of the Sami and other local residents to use these areas for their subsistence, another approach is more likely to be successful. This includes the removal of fences that hinder the natural migration routes, and a dynamic reserve or set-aside system aimed at restoring the seminatural dynamics of mountain ecosystems, with their pulsed disturbances.” (Bengtsson et al. 2003:389, 393, 394)",
   "function_addressed": [
@@ -9,17 +8,19 @@
     "biological control of populations, pests, diseases",
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::biological-control-of-populations-pests-diseases",
+    "provide-ecosystem-services::maintain-biodiversity",
+    "provide-ecosystem-services::manage-disturbance-in-a-community"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/disturbances-maintain-habitat/",
-  "source_tier": "science_journalism",
   "keywords": [
     "disturbances",
     "maintain",
     "habitat"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,17 +1,16 @@
 {
   "doc_id": "asn-biopolymers-absorb-organic-compounds-in-soil",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "The cuticle of plants are good sorbents for organic compounds due to rigid (crystalline) polymethylene moieties of the biopolymers cutin and cutan. “Plant cuticular materials are important precursors for soil organic matter (SOM).",
   "mechanism": "The cuticle of plants are good sorbents for organic compounds due to rigid (crystalline) polymethylene moieties of the biopolymers cutin and cutan.\n\n“Plant cuticular materials are important precursors for soil organic matter (SOM). The plant cuticle is a thin, predominantly lipid layer that covers all primary aerial surfaces of vascular plants. Plant cuticle has been found in considerable amounts in both natural and agricultural soils. In most plant species, the major structural component of the plant cuticle is the cutin biopolymer (30–70% by weight). This is a high-molecular-weight, insoluble, polyester-like biopolymer, which is most often associated with waxes and cuticular polysaccharides. Cutin provides the structural framework for the cuticle and acts as a physical barrier, protecting the plant against microbial attack and water loss. In some plant species, the cutin biopolymer is associated with a base and acid hydrolysis resistant, polymethylene-like biopolymer, known as cutan. The function of the cutan is similar to that of the cutin, but in addition, it enhances the hydrophobic nature of the cuticle…Recently, it has been documented that plant cuticular matter exhibits high sorption capabilities for polar and nonpolar organic compounds…the objective of this study was to evaluate the role of important precursors for SOM, cutin and cutan biopolymers, as natural sorbents for organic compounds in soils.” (Shechter et al. 2011:1139-1140)\n\n“This study demonstrates the important role of the aliphatic biopolymers cutin and cutan as natural sorbents in soil. Although they were subjected to decomposition, they still exhibited a high sorption capacity. With humification and degradation, however, cutan is most likely to act as a highly efficient aliphatic-rich sorbent in soil. The cutan biopolymer is more likely to accumulate in soils via selective preservation, whereas the decomposed products of the cutin are probably transformed into humic-like substances during humification processes.” (Shechter et al. 2011:1145)",
   "function_addressed": [
     "capture, absorb, or filter chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/biopolymers-absorb-organic-compounds-in-soil/",
-  "source_tier": "science_journalism",
   "keywords": [
     "biopolymers",
     "absorb",
@@ -19,7 +18,5 @@
     "compounds",
     "soil"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

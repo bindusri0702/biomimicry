@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-siphon-directs-underwater-movement",
   "organism_common": "Octopods",
-  "organism_scientific": "",
   "strategy_summary": "Siphons of octopi, squid, and cuttlefish jet through the water with directional control via jet propulsion. “Octopuses, squid, and cuttlefish have a more sophisticated version of jet propulsion.",
   "mechanism": "Siphons of octopi, squid, and cuttlefish jet through the water with directional control via jet propulsion.\n\n“Octopuses, squid, and cuttlefish have a more sophisticated version of jet propulsion. They expel water through a moveable tube called a siphon, which combines power with directional control.” (Downer 2002:17)\n\nUniversity of California San Diego\n\nSoft robots from UC San Diego use jet propulsion to propel forward.",
   "function_addressed": [
     "move in/on liquids",
     "expel liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "expel::liquids",
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "expel",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/siphon-directs-underwater-movement/",
-  "source_tier": "science_journalism",
   "keywords": [
     "siphon",
     "directs",
     "underwater",
     "movement"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

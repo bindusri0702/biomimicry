@@ -1,19 +1,23 @@
 {
   "doc_id": "asn-microbes-stabilize-life-at-the-edge-of-fire",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "In the searing heart of Earth’s most inhospitable environments––volcanic vents, hot springs, and fire-scorched soils––life not only persists, it thrives. Thermophiles (meaning “heat lovers”) are microorganisms that embrace temperatures lethal to nearly all other life.",
-  "mechanism": "Thermophiles possess a suite of profound cellular adaptations that allow them to withstand intense heat shock, not unlike the thermal pulses from wildfires. Their proteins, the fragile workhorses of life, are restructured to be more compact and densely packed with charged amino acids, which form strong ionic bonds and reduce the risk of unfolding at high temperatures. These heat-stable proteins avoid denaturation even at boiling-point conditions.\n\nAt the genomic level, thermophiles typically exhibit reduced genome sizes––streamlining their code and minimizing the surface area susceptible to thermal damage. Their DNA is tightly coiled and associated with specialized proteins that protect it from breaking apart in extreme conditions. They also produce robust molecular chaperones: helper proteins that refold heat-damaged proteins and prevent aggregation during stress.\n\nPerhaps most striking are their membranes: composed of unique lipid molecules, these membranes are more saturated and tightly packed, with ether linkages in archaea that resist heat-induced rupture. This structural rigidity maintains cellular integrity, preventing leakage or collapse during thermal extremes.\n\nTogether, these adaptations paint a picture of organisms not merely tolerating fire, but sculpted by it.\n\nThe heat-defying biology of thermophiles offers rich inspiration for human systems that must operate in extreme environments. Protein stability strategies could inform the development of enzymes for industrial biotechnology, where reactions take place at high temperatures. Thermophile membranes suggest new paths for designing fire- or heat-resistant materials, while their genomic and proteomic efficiency offers clues for resilient data storage and bioengineering applications. More broadly, thermophiles remind us that life can be forged in the crucible of fire––and that survival under stress is not just possible, but potentially bountiful.",
+  "mechanism": "Thermophiles possess a suite of profound cellular adaptations that allow them to withstand intense heat shock, not unlike the thermal pulses from wildfires. Their proteins, the fragile workhorses of life, are restructured to be more compact and densely packed with charged amino acids, which form strong ionic bonds and reduce the risk of unfolding at high temperatures. These heat-stable proteins avoid denaturation even at boiling-point conditions.\n\nAt the genomic level, thermophiles typically exhibit reduced genome sizes––streamlining their code and minimizing the surface area susceptible to thermal damage. Their DNA is tightly coiled and associated with specialized proteins that protect it from breaking apart in extreme conditions. They also produce robust molecular chaperones: helper proteins that refold heat-damaged proteins and prevent aggregation during stress.\n\nPerhaps most striking are their membranes: composed of unique lipid molecules, these membranes are more saturated and tightly packed, with ether linkages in archaea that resist heat-induced rupture. This structural rigidity maintains cellular integrity, preventing leakage or collapse during thermal extremes.\n\nTogether, these adaptations paint a picture of organisms not merely tolerating fire, but sculpted by it.\n\nThe heat-defying biology of thermophiles offers rich inspiration for human systems that must operate in extreme environments. Protein stability strategies could inform the development of enzymes for industrial biotechnology, where reactions take place at high temperatures. Thermophile membranes suggest new paths for designing fire- or heat-resistant materials, while their genomic and proteomic efficiency offers clues for resilient data storage and bioengineering applications. More broadly, thermophiles remind us that life can be forged in the crucible of fire––and that survival under stress is not just possible, but potentially bountiful.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "protect from temperature",
     "protect from fire",
     "store chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::fire",
+    "protect-from-non-living-threats::temperature",
+    "store::chemical-entities"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/microbes-stabilize-life-at-the-edge-of-fire/",
-  "source_tier": "science_journalism",
   "keywords": [
     "microbes",
     "stabilize",
@@ -21,7 +25,5 @@
     "edge",
     "fire"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,21 @@
 {
   "doc_id": "asn-siphon-filters-seawater",
   "organism_common": "Sea squirt",
-  "organism_scientific": "",
   "strategy_summary": "The main body cylinder of a sea squirt filters food and oxygen from water using an oral siphon. “The sea squirt’s body is made up of two cylinders.",
   "mechanism": "The main body cylinder of a sea squirt filters food and oxygen from water using an oral siphon.\n\n“The sea squirt’s body is made up of two cylinders. Water drawn into the main cylinder through the uppermost opening is filtered to extract food and oxygen, then escapes through the lateral cylinder. The small size of the lateral opening causes a rapid jet of water which carries the sea squirt’s waste well beyond the incoming water current.” (Foy and Oxford Scientific Films 1982:23)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
   "function_addressed": [
     "capture, absorb, or filter organisms",
     "capture, absorb, or filter chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/siphon-filters-seawater/",
-  "source_tier": "science_journalism",
   "keywords": [
     "siphon",
     "filters",
     "seawater"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

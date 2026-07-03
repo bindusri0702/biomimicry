@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-webs-communicate-only-what-matters",
   "organism_common": "Spiders",
-  "organism_scientific": "",
   "strategy_summary": "A morning breeze sweeps over the high mountain valley, pushing grasses into convulsive, hypnotic waves. And yet, it’s not the wind that makes the spider web strung within the saskatoon bush shudder.",
   "mechanism": "A spider web’s design and properties can both easily transmit “point source” vibrations from the impact of an insect landing on the web, and dampen ambient vibrations that come from a billowing wind.\n\nIn addition, the silk dampens vibrations that come to the web from whatever the web is attached to. This is because when physical vibrations encounter a change in material, some energy gets transmitted while some is reflected backward. The more dissimilar the substances (for example a dense wooden tree branch and wispy spider silk), the more energy gets reflected away.\n\nIn these ways the webs’ general dampening tendency and the physics of vibration transmission insulate webs from disturbance by external sources, keeping the channel clear for spiders to detect what matters most to them.\n\nInteractive technologies only work as well as the sensors that inform them. A semi-automated car, for example, can only protect you from collisions if it can accurately detect other cars. Sensors run into trouble, however, the more sensitive they become, due to ambient “noise”. Suddenly, your car slams on the brakes not because of another vehicle, but because its sensor gets tripped by the car engine’s heat or vibrations from the road.\n\nA spider web’s unique ability to efficiently transmit information produced internally while remaining insulated from outside ambient noise has proven a useful model for overcoming these challenges. New microchip sensors inspired by spider webs, for example, have recently been designed with applications to quantum computers, astronomical research, and more.",
   "function_addressed": [
     "differentiate signal from noise"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "process-signals::differentiate-signal-from-noise"
+  ],
+  "subgroup_keys": [
+    "process-signals"
+  ],
   "source_url": "https://asknature.org/strategy/webs-communicate-only-what-matters/",
-  "source_tier": "science_journalism",
   "keywords": [
     "webs",
     "communicate",
@@ -19,7 +20,5 @@
     "what",
     "matters"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

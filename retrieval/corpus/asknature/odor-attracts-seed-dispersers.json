@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-odor-attracts-seed-dispersers",
   "organism_common": "Durian",
-  "organism_scientific": "",
   "strategy_summary": "Ripe fruit of Durio tree species can be detected by potential seed-dispersing animals up to a half mile away due to a pungent odor. Artocarpus; durian fruit  The strong smell of ripe durian fruit, which is extremely unpleasant to many human noses, can be detected half a mile from the source, and thus attracts the…",
   "mechanism": "Ripe fruit of Durio tree species can be detected by potential seed-dispersing animals up to a half mile away due to a pungent odor.\n\nArtocarpus; durian fruit\n\nThe strong smell of ripe durian fruit, which is extremely unpleasant to many human noses, can be detected half a mile from the source, and thus attracts the attention of a great number of animals that eat the fruit and aid in seed dispersal. (Attenborough 1995:25-27)",
   "function_addressed": [
     "send chemical signals (odor, taste, etc.)"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::chemical-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/odor-attracts-seed-dispersers/",
-  "source_tier": "science_journalism",
   "keywords": [
     "odor",
     "attracts",
     "seed",
     "dispersers"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,19 +1,24 @@
 {
   "doc_id": "asn-bubble-raft-used-to-float-on-water",
   "organism_common": "Common violet snail",
-  "organism_scientific": "",
   "strategy_summary": "Some snails live on land. Others live under water.",
-  "mechanism": "To make its flotational device, a janthinid snail needs four things: air, water, mucus that is compatible with both, and its muscular foot. It starts by reaching above the surface of the water with the front of its foot. Then it curls in the edges of the foot to create a pocket of air. Glands in the foot spread mucus around the air pocket, creating a bubble. Finally, the snail draws its foot below the surface, leaving the bubble attached to the back part of the foot. Each bubble takes about 10 seconds to make, and the snail can create up to 10 or so without stopping. It might take an hour to produce a multi-chambered raft buoyant enough to allow the snail to maintain its position at the intersection of air and water.\n\nThe janthinid bubble raft provides inspiration for a wide range of human innovations. Its sturdy but lightweight nature could provide insights useful for designing easy-to-store personal flotation devices, inexpensive packing materials, or foam for cushioning and insulation. Even the concept of living suspended at the interface between water and air can offer inspiration. As our planet becomes more crowded, it might be helpful to think beyond solid ground and imagine other places and spaces we humans might occupy, whether on land, in the air, on the water—or all of the above.",
+  "mechanism": "To make its flotational device, a janthinid snail needs four things: air, water, mucus that is compatible with both, and its muscular foot. It starts by reaching above the surface of the water with the front of its foot. Then it curls in the edges of the foot to create a pocket of air. Glands in the foot spread mucus around the air pocket, creating a bubble. Finally, the snail draws its foot below the surface, leaving the bubble attached to the back part of the foot. Each bubble takes about 10 seconds to make, and the snail can create up to 10 or so without stopping. It might take an hour to produce a multi-chambered raft buoyant enough to allow the snail to maintain its position at the intersection of air and water.\n\nThe mucus that forms the exterior of the bubble is a type of exopolymer—a complex molecule extruded by an organism to perform a function outside of its body. The exopolymer janthinids use to form their bubbles creates a sac that is firm and elastic but not sticky. Because it is amphiphilic—some parts of the molecule are water soluble and others repel water—it reduces surface tension, making it easy for the snail to move from one place to another with minimal expenditure of energy. That’s the same principle that enables soap to dissolve in water yet remove grease from your dirty hands (and it’s what causes the bar to scoot across the shower floor if you accidentally drop it).\n\nThe bubble raft benefits the snail by allowing it to occupy a part of the ocean that few other creatures do, minimizing competition for resources. By providing mobility, it also enhances access to food—mostly other invertebrate animals such as jellyfish that float or swim at the surface of the sea.\n\nThe janthinid bubble raft provides inspiration for a wide range of human innovations. Its sturdy but lightweight nature could provide insights useful for designing easy-to-store personal flotation devices, inexpensive packing materials, or foam for cushioning and insulation. Even the concept of living suspended at the interface between water and air can offer inspiration. As our planet becomes more crowded, it might be helpful to think beyond solid ground and imagine other places and spaces we humans might occupy, whether on land, in the air, on the water—or all of the above.\n\nEach bubble takes about 10 seconds to make, and the snail can create up to 10 or so without stopping.",
   "function_addressed": [
     "modify buoyancy",
     "physically assemble structure",
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::buoyancy",
+    "move::in-on-liquids",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "move",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/bubble-raft-used-to-float-on-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "snail",
     "sculpts",
@@ -22,7 +27,5 @@
     "life",
     "raft"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-hooves-resist-cracking",
   "organism_common": "Wild horse",
-  "organism_scientific": "",
   "strategy_summary": "The hooves of horses resist cracking by having braided filaments of keratin in horizontal sheets punctuated vertically by thin, hollow tubes. This doesnt show the cellular mechanisms at work to prevent cracking.",
   "mechanism": "The hooves of horses resist cracking by having braided filaments of keratin in horizontal sheets punctuated vertically by thin, hollow tubes.\n\nThis doesnt show the cellular mechanisms at work to prevent cracking.\n\n“Horse hooves are among the most crack-resistant substances in the natural world, about twenty times tougher than bone. As such, they may provide clues to researchers hoping to develop stronger materials for human use. Horse hooves, like human fingernails, are composed of cells housing braided filaments of keratin. From cell to cell, the braids run in the same direction. In hooves, these cells are glued together into horizontal sheets. The sheets are punctuated vertically with thin, hollow tubes, each of which is surrounded by several sleeves of cells. Although cracks may travel horizontally along the sheets, they are generally stopped by the tubes.” (Courtesy of the Biomimicry Guild)",
   "function_addressed": [
     "prevent fracture/rupture"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::fracture-rupture"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/hooves-resist-cracking/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hooves",
     "resist",
     "cracking"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

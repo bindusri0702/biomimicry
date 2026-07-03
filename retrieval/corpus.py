@@ -41,14 +41,6 @@ class StrategyDoc(BaseModel):
     keywords: list[str] = Field(default_factory=list)
     provenance: str = "synthetic"         # synthetic | fetched
 
-    def index_text(self) -> str:
-        """Concatenated text the lexical index scores against."""
-        return " ".join([
-            self.organism_common, self.organism_scientific, self.strategy_summary,
-            self.mechanism, " ".join(self.function_addressed),
-            " ".join(self.keywords), self.environment,
-        ])
-
 
 def load_corpus(corpus_dir: Path | None = None) -> list[dict]:
     """Load and validate every *.json strategy doc; raise loudly on bad data.

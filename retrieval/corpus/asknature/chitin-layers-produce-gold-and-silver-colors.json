@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-chitin-layers-produce-gold-and-silver-colors",
   "organism_common": "Scarab beetles",
-  "organism_scientific": "",
   "strategy_summary": "The forewings of jewel scarabs produce gold and silver by having 70 layers of chitin that become progressively thinner with depth resulting in different refractive indices. “A team of researchers at the University of Costa Rica has found that the beetles’ metallic appearance is created by the unique structural…",
   "mechanism": "The forewings of jewel scarabs produce gold and silver by having 70 layers of chitin that become progressively thinner with depth resulting in different refractive indices.\n\n“A team of researchers at the University of Costa Rica has found that the beetles’ metallic appearance is created by the unique structural arrangements of many dozens of layers of exo-skeletal chitin in the elytron, a hardened forewing that protects the delicate hindwings that are folded underneath… In these beetles, the cuticle, which is just 10 millionths of a meter deep, has some 70 separate layers of chitin—a nitrogen-containing complex sugar that creates the hard outer skeletons of insects, crabs, shrimps, and lobsters. The chitin layers become progressively thinner with depth, forming a so-called ‘chirped’ structure. ‘Because the layers have different refractive indices,’ Vargas says, ‘light propagates through them at different speeds. The light is refracted through—and reflected by—each interface giving, in particular, phase differences in the emerging reflected rays. For several wavelengths in the visible range, there are many reflected rays whose phase differences allow for constructive interference. This leads to the metallic appearance of the beetles.’ This is similar to the way in which a prism breaks white light into the colors of the rainbow by refraction, but in the case of these beetles, different wavelengths, or colors of light are reflected back more strongly by different layers of chitin. This creates the initial palette of colors that enable the beetles to produce their distinctive hues.” (Stark 2011:1)",
   "function_addressed": [
     "modify light/color"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/chitin-layers-produce-gold-and-silver-colors/",
-  "source_tier": "science_journalism",
   "keywords": [
     "chitin",
     "layers",
@@ -20,7 +21,5 @@
     "silver",
     "colors"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

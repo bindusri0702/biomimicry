@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-herd-finds-fresh-food",
   "organism_common": "Wildebeest",
-  "organism_scientific": "",
   "strategy_summary": "Wildebeests find new food resources by detecting areas of rainfall from afar. “Wildebeest seem able to detect a shower of rain falling as far away as 50 kilometres away and will move off to find it and crop the newly springing grass.” (Attenborough 1979:264)",
   "mechanism": "Wildebeests find new food resources by detecting areas of rainfall from afar.\n\n“Wildebeest seem able to detect a shower of rain falling as far away as 50 kilometres away and will move off to find it and crop the newly springing grass.” (Attenborough 1979:264)",
   "function_addressed": [
     "capture, absorb, or filter energy",
     "sense atmospheric conditions"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "sense-signals-environmental-cues::atmospheric-conditions"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/herd-finds-fresh-food/",
-  "source_tier": "science_journalism",
   "keywords": [
     "herd",
     "finds",
     "fresh",
     "food"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

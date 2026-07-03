@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-blood-carries-oxygen-in-varied-conditions",
   "organism_common": "Humans",
-  "organism_scientific": "",
   "strategy_summary": "The blood of humans distributes oxygen through the body via hemoglobin with adjustable oxygen affinity. “Nature has evolved in ways that, at the molecular scale, make inventive and elegant uses of chemistry.",
   "mechanism": "The blood of humans distributes oxygen through the body via hemoglobin with adjustable oxygen affinity.\n\n“Nature has evolved in ways that, at the molecular scale, make inventive and elegant uses of chemistry. To take an example more or less at random, the use of allosteric effects by haemoglobin to fine-tune the protein’s affinity for oxygen in different environments is exquisite. Imagine trying to design from first principles a system with haemoglobin’s oxygen-sensitive oxygen affinity—there is not at all an obvious solution, and the engineer’s answer would be likely to involve a cumbersome system of sensors and switches.” (Ball 2002:15)",
   "function_addressed": [
     "distribute gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::gases"
+  ],
+  "subgroup_keys": [
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/blood-carries-oxygen-in-varied-conditions/",
-  "source_tier": "science_journalism",
   "keywords": [
     "blood",
     "carries",
@@ -19,7 +20,5 @@
     "varied",
     "conditions"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

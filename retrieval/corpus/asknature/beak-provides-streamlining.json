@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-beak-provides-streamlining",
   "organism_common": "Kingfishers",
-  "organism_scientific": "",
   "strategy_summary": "While beside a creek, pond, or at the ocean, you may have been fortunate to spy a kingfisher. Found the world over, kingfishers are a family of birds containing over 100 species, often visiting bodies of water, where, as their name suggests, they are masters at catching fish.",
   "mechanism": "The secret is in the shape of the kingfisher’s beak. A long and narrow cone, the kingfisher’s beak parts and enters the water without creating a compression wave below the surface or a noisy splash above. The fine point of the conical beak presents little surface area or resistance to the water upon entry, and the evenly and gradually enlarging cross-section of the beak keeps fluid flowing smoothly around it as it penetrates further into the water column. This buys the bird crucial milliseconds to reach the fish before the fish knows to flee. The length of the beak is critical here: the longer it is, the more gradually the angle of the wedge expands. A shorter, fatter, or rounder beak would increase the wedge angle, resulting in a splash, a compression wave, and a fleeing fish.\n\nEiji Nakatsu, chief engineer of the company operating Japan’s fastest trains, wondered if the kingfisher’s beak might serve as a model for how to redesign trains not to create such a thunderous noise when leaving tunnels and breaking through the barrier of tunnel-air and outside-air. Sure enough, as his team tested different shapes for the front of the new train, the train became quieter and more efficient as the geometry of its nose became more like the shape of a kingfisher’s beak, requiring 15% less energy while traveling even faster than before.",
   "function_addressed": [
     "move in/through gases",
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids",
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/beak-provides-streamlining/",
-  "source_tier": "science_journalism",
   "keywords": [
     "beak",
     "inspired",
     "bullet",
     "train"
   ],
-  "is_usual_suspect": true,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,23 +1,20 @@
 {
   "doc_id": "asn-pressure-allows-movement",
   "organism_common": "Echinoderms (Sea Stars, Sea Urchins)",
-  "organism_scientific": "",
   "strategy_summary": "Legs and tubes in echinoderms such as sea stars allow movement and feeding by use of hydrostatic pressure. “Their [echinoderms’] bodies work by unique exploitation of hydrostatic principles.",
   "mechanism": "Legs and tubes in echinoderms such as sea stars allow movement and feeding by use of hydrostatic pressure.\n\n“Their [echinoderms’] bodies work by unique exploitation of hydrostatic principles. Feet, each a thin tube ending in a sucker and kept firm by the pressure of water within, wave and curl in rows along the arms. The water for this system circulates quite separately from that in the body cavity. It is drawn through a pore into a channel surrounding the mouth and circulated throughout the body and into the myriads of tube feet. When a drifting particle of food touches an arm, tube feet fasten on to it and pass it on from one to another until it reaches the gutter that runs down the upper surface of the arm to the mouth at the centre.” (Attenborough 1979:49)\n\nThis video from Shape of Life uses animations to describe the anatomy of a sea star and, beginning at 1:20, how the hydraulic system of tube feet allows it to move.",
   "function_addressed": [
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/pressure-allows-movement/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pressure",
     "allows",
     "movement"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

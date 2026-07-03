@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-orchids-capture-pollen",
   "organism_common": "Bat orchid",
-  "organism_scientific": "",
   "strategy_summary": "Bucket orchids complete their complicated pollination process by snagging pollen bundles from carrier bees with an internal hook. Each of twenty or so species of bucket orchid that grows in Central America is pollinated by a unique species of male bee.",
   "mechanism": "Bucket orchids complete their complicated pollination process by snagging pollen bundles from carrier bees with an internal hook.\n\nEach of twenty or so species of bucket orchid that grows in Central America is pollinated by a unique species of male bee. In the final step of an elaborate process of pollination, a bee carrying two lumps of coagulated pollen, called the pollinia, struggles through a tight tunnel inside the orchid. As it does so, a hook on the roof of the tunnel latches onto the pollinia and removes them. (Attenborough 1995:108-109)",
   "function_addressed": [
@@ -9,17 +8,20 @@
     "attach temporarily",
     "capture, absorb, or filter solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently",
+    "attach::temporarily",
+    "capture-absorb-or-filter::solids"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/orchids-capture-pollen/",
-  "source_tier": "science_journalism",
   "keywords": [
     "orchids",
     "capture",
     "pollen"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

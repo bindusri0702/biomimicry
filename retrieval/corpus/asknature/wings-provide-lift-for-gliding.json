@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-wings-provide-lift-for-gliding",
   "organism_common": "Southern flying squirrel",
-  "organism_scientific": "",
   "strategy_summary": "Wings of flying squirrels provide lift and decrease drag due to being cambered and having a well-developed forewing. Southern Flying Squirrel (''Glaucomys volans'')  -  Gliding is a form of locomotion that requires individual variation in rotations to restore equilibrium.",
   "mechanism": "Wings of flying squirrels provide lift and decrease drag due to being cambered and having a well-developed forewing.\n\nSouthern Flying Squirrel (''Glaucomys volans'')\n\n-\n\nGliding is a form of locomotion that requires individual variation in rotations to restore equilibrium. “In a steady, non-accelerating glide, the glide ratio is determined by the ratio of lift to drag, the aerodynamic forces perpendicular to the direction of travel and parallel and opposite to the direction of travel, respectively. The lift-to-drag ratio can be increased by increasing lift, decreasing drag, and/or by producing thrust, defined as a force that opposes drag. Flapping has often been assumed to have evolved as a means to increase lift and thrust…thereby increasing the distance traveled.” (Bishop 2007: 2594)\n\n“Flying squirrels generated more lift and less drag than sugar gliders…There are several possible reasons why flying squirrels tend to produce greater lift coefficients than sugar gliders. One is that their wings are more cambered in flight (Table·1). In addition, flying squirrels possess a well-developed forewing structure called a propatagium that is present, but much smaller, in sugar gliders… In the case of the squirrels, increasing the lift coefficient increased the forward acceleration, which in turn contributed to greater overall velocity. (Bishop 2007: 2604-2605)\n\n“Aerodynamic performance declines with increasing aspect ratio, particularly at the high angles of attack used by the gliders…But, at higher aspect ratios, aerodynamic performance increases with increasing aspect ratio. This may have presented a kind of adaptive barrier during the transition from a low aspect ratio glider wing to a high aspect ratio bat wing…Understanding the relationships between kinematics, force production and gliding performance across species in the context of disparate performance parameters, not only improves our understanding of and appreciation for gliding as a form of locomotion, but will also lead to more fruitful hypotheses regarding the origin of flight in bats.” (Bishop 2007:2605)",
   "function_addressed": [
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/wings-provide-lift-for-gliding/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wings",
     "provide",
     "lift",
     "gliding"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

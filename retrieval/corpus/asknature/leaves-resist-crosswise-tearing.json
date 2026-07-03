@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-leaves-resist-crosswise-tearing",
   "organism_common": "Grasses",
-  "organism_scientific": "",
   "strategy_summary": "The leaves of grasses resist crosswise tearing due to their composite character. “Equally impressive is the composite character and consequent resistance to crack propagation of the leaves of grasses, also investigated by Vincent (1982).",
   "mechanism": "The leaves of grasses resist crosswise tearing due to their composite character.\n\n“Equally impressive is the composite character and consequent resistance to crack propagation of the leaves of grasses, also investigated by Vincent (1982). If a grass leaf is slit or notched it does tear more easily, but only (and fairly precisely) in proportion to its reduced cross section–there’s just no sign of any significant stress concentration. Do your worst to a grass leaf–it just doesn’t go along with attempts to tear it crosswise.” (Vogel 2003:340)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
   "function_addressed": [
@@ -9,18 +8,22 @@
     "protect from loss of gases",
     "prevent fracture/rupture"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::fracture-rupture",
+    "protect-from-non-living-threats::loss-of-gases",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure",
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/leaves-resist-crosswise-tearing/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaves",
     "resist",
     "crosswise",
     "tearing"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

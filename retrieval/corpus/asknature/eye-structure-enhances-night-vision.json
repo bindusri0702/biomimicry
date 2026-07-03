@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-eye-structure-enhances-night-vision",
   "organism_common": "Vertebrates (Mammals, Fish, Birds, Reptiles)",
-  "organism_scientific": "",
   "strategy_summary": "The tapetum lucidum of many vertebrates enhances night vision by reflecting light back to photoreceptors in the eye. “The tapetum lucidum is a biologic reflector system that is a common feature in the eyes of vertebrates.",
   "mechanism": "The tapetum lucidum of many vertebrates enhances night vision by reflecting light back to photoreceptors in the eye.\n\n“The tapetum lucidum is a biologic reflector system that is a common feature in the eyes of vertebrates. It normally functions to provide the light-sensitive retinal cells with a second opportunity for photon-photoreceptor stimulation, thereby enhancing visual sensitivity at low light levels…\n\n“Some species (primates, squirrels, birds, red kangaroo and pig) do not have this structure and they usually are diurnal animals. In vertebrates, the tapetum lucidum exhibits diverse structure, organization and composition. Therefore, the retinal tapetum (teleosts, crocodilians, marsupials, fruit bat), the choroidal guanine tapetum (elasmobranchs), the choroidal tapetum cellulosum (carnivores, rodents, cetacea), and the choroidal tapetum fibrosum (cow, sheep, goat, horse) are described…\n\n“The tapetum lucidum represents a remarkable example of neural cell and tissue specialization as an adaptation to a dim light environment and, despite these differences, all tapetal variants act to increase retinal sensitivity by reflecting light back through the photoreceptor layer. These variations regarding both its location and structure, as well as the choice of reflective material, may represent selective visual adaptations associated with their feeding behavior, in response to the use of specific wavelengths and amount of reflectance required.” (Ollivier et al. 2004:11)",
   "function_addressed": [
     "modify light/color",
     "sense light (visible spectrum) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "sense-signals-environmental-cues::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/eye-structure-enhances-night-vision/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eye",
     "structure",
@@ -20,7 +23,5 @@
     "night",
     "vision"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

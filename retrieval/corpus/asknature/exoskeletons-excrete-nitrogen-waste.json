@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-exoskeletons-excrete-nitrogen-waste",
   "organism_common": "Woodlice",
-  "organism_scientific": "",
   "strategy_summary": "Exoskeletons of woodlice help them remove waste by excreting gaseous ammonia. “Terrestrial isopods (suborder Oniscidea) excrete most nitrogen diurnally as volatile ammonia, and ammonia-loaded animals accumulate nonessential amino acid s, which may constitute the major nocturnal nitrogen pool.",
   "mechanism": "Exoskeletons of woodlice help them remove waste by excreting gaseous ammonia.\n\n“Terrestrial isopods (suborder Oniscidea) excrete most nitrogen diurnally as volatile ammonia, and ammonia-loaded animals accumulate nonessential amino acid s, which may constitute the major nocturnal nitrogen pool. This study explored the relationship between ammonia excretion, glutamine storage/mobilization, and water balance, in two sympatric species Ligidium lapetum (section Diplocheta), a hygric species; and Armadillidium vulgare (Section Crinocheta), a xeric species capable of water-vapor absorption (WVA). Ammonia excretion (12-h), tissue glutamine levels, and water contents were measured following field collection of animals at dusk and dawn. In both species, diurnal ammonia excretion exceeded nocturnal excretion four- to fivefold while glutamine levels increased four- to sevenfold during the night. Most glutamine was accumulated in the somatic tissues (‘body wall’). While data support the role of glutamine in nocturnal nitrogen storage, potential nitrogen mobilization from glutamine breakdown (162 µmol g –1 in A. vulgare ) exceeds measured ammonia excretion (2.5 µmol g –1 ) over 60-fold. This may serve to generate the high hemolymph ammonia concentrations (and high P NH3 ) seen during volatilization. The energetic cost of ammonia volatilization is discussed in the light of these findings. Mean water contents were similar at dusk and dawn in both species, indicating that diel cycles of water depletion and replenishment were not occurring.” (Wright and Peña-Peralta 2004:67)",
   "function_addressed": [
@@ -11,18 +10,26 @@
     "maintain homeostasis",
     "expel gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "expel::gases",
+    "modify-physical-state::phase",
+    "protect-from-non-living-threats::chemicals",
+    "provide-ecosystem-services::cycle-nutrients",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "expel",
+    "modify-physical-state",
+    "protect-from-non-living-threats",
+    "provide-ecosystem-services",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/exoskeletons-excrete-nitrogen-waste/",
-  "source_tier": "science_journalism",
   "keywords": [
     "exoskeletons",
     "excrete",
     "nitrogen",
     "waste"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

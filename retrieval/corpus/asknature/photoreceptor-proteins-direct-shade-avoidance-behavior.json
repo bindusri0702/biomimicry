@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-photoreceptor-proteins-direct-shade-avoidance-behavior",
   "organism_common": "Thale cress",
-  "organism_scientific": "",
   "strategy_summary": "Thale cress plants maximize photosynthetic activity by detecting changes in wavelengths of red and blue light associated with shade, triggering protein production to direct growth away from shaded areas. Plants often grow in densely populated environments in which access to sunlight is a precious commodity.",
-  "mechanism": "Thale cress plants maximize photosynthetic activity by detecting changes in wavelengths of red and blue light associated with shade, triggering protein production to direct growth away from shaded areas.\n\nPlants often grow in densely populated environments in which access to sunlight is a precious commodity. In order to maximize opportunities for photosynthesis , plants have evolved complex biochemical sensory pathways that initiate shade avoidance syndrome (SAS). SAS results in growth away from shade and is of critical importance to maintaining a plant’s competitive edge. The thale cress has evolved dual, redundant sensory mechanisms for avoiding shade. The phyB (phytochrome B) SAS pathway depends on detecting a decrease in the ratio of red light to far-red light (R:FR). In plants growing in the canopy above a thale cress, chlorophyl absorbs red light and cell walls scatter far-red light. Thus, a decrease in the R:FR ratio (the plant is exposed to less red light) is a good signal for the thale that it is in the shade of the canopy and should begin SAS processes to “escape”. When thale cress leaves absorb more far-red light, the phytochrome molecule changes shape leading to a cascade of reactions that produce protein s related to growth away from the shade. A parallel system is triggered by a reduction in blue light. Chlorophyll from competing plants strongly absorbs blue light, so a reduction in blue light is a reliable indication that sunlight is being blocked.",
+  "mechanism": "Thale cress plants maximize photosynthetic activity by detecting changes in wavelengths of red and blue light associated with shade, triggering protein production to direct growth away from shaded areas.\n\nPlants often grow in densely populated environments in which access to sunlight is a precious commodity. In order to maximize opportunities for photosynthesis, plants have evolved complex biochemical sensory pathways that initiate shade avoidance syndrome (SAS). SAS results in growth away from shade and is of critical importance to maintaining a plant’s competitive edge. The thale cress has evolved dual, redundant sensory mechanisms for avoiding shade. The phyB (phytochrome B) SAS pathway depends on detecting a decrease in the ratio of red light to far-red light (R:FR). In plants growing in the canopy above a thale cress, chlorophyl absorbs red light and cell walls scatter far-red light. Thus, a decrease in the R:FR ratio (the plant is exposed to less red light) is a good signal for the thale that it is in the shade of the canopy and should begin SAS processes to “escape”. When thale cress leaves absorb more far-red light, the phytochrome molecule changes shape leading to a cascade of reactions that produce protein s related to growth away from the shade. A parallel system is triggered by a reduction in blue light. Chlorophyll from competing plants strongly absorbs blue light, so a reduction in blue light is a reliable indication that sunlight is being blocked.",
   "function_addressed": [
     "respond to signals",
     "transduce/convert signals",
@@ -11,11 +10,19 @@
     "sense light (visible spectrum) from the environment",
     "adapt phenotype"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-phenotype",
+    "process-signals::respond-to-signals",
+    "process-signals::transduce-convert-signals",
+    "sense-signals-environmental-cues::light-non-visible-spectrum",
+    "sense-signals-environmental-cues::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "process-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/photoreceptor-proteins-direct-shade-avoidance-behavior/",
-  "source_tier": "science_journalism",
   "keywords": [
     "photoreceptor",
     "proteins",
@@ -24,7 +31,5 @@
     "avoidance",
     "behavior"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

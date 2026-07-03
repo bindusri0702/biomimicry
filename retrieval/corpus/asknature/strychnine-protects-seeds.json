@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-strychnine-protects-seeds",
   "organism_common": "Strychnine tree",
-  "organism_scientific": "",
   "strategy_summary": "Strychnine trees protect their seeds by incorporating poisonous strychnine. “One of the more virulent of plant poisons, strychnine, which human beings extract for their own medicinal or murderous purposes, also comes from a seed.” (Attenborough 1995:32)",
   "mechanism": "Strychnine trees protect their seeds by incorporating poisonous strychnine.\n\n“One of the more virulent of plant poisons, strychnine, which human beings extract for their own medicinal or murderous purposes, also comes from a seed.” (Attenborough 1995:32)",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/strychnine-protects-seeds/",
-  "source_tier": "science_journalism",
   "keywords": [
     "strychnine",
     "protects",
     "seeds"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

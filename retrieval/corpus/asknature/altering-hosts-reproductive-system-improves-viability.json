@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-altering-hosts-reproductive-system-improves-viability",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Wolbachia bacteria improve their chances of spreading to new hosts by inducing feminization, egg development without fertilization, and cytoplasmic incompatibility in their hosts. “Wolbachia are a common and widespread group of bacteria found in reproductive tissues of arthropods.",
   "mechanism": "Wolbachia bacteria improve their chances of spreading to new hosts by inducing feminization, egg development without fertilization, and cytoplasmic incompatibility in their hosts.\n\n“Wolbachia are a common and widespread group of bacteria found in reproductive tissues of arthropods. These bacteria are transmitted through the cytoplasm of eggs and have evolved various mechanisms for manipulating reproduction of their hosts, including induction of reproductive incompatibility, pathenogenesis [sic], and feminization. Wolbachia are also transmitted horizontally between arthropod species. Significant recent advances have been made in the study of these interesting microorganisms. In this paper, Wolbachia biology is reviewed, including their phylogeny and distribution, mechanisms of action, population biology and evolution, and biological control implications. Potential directions for future research are also discussed.” (Werren 1997:587)",
   "function_addressed": [
     "regulate reproduction or growth"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/altering-hosts-reproductive-system-improves-viability/",
-  "source_tier": "science_journalism",
   "keywords": [
     "altering",
     "host",
@@ -20,7 +21,5 @@
     "improves",
     "viability"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

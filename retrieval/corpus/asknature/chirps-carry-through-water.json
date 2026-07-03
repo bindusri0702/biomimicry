@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-chirps-carry-through-water",
   "organism_common": "Send Sound Signals",
-  "organism_scientific": "",
   "strategy_summary": "Chirps of dolphins carry through water because they are multi-rate, ultra-short wave forms. “Dr.",
   "mechanism": "Chirps of dolphins carry through water because they are multi-rate, ultra-short wave forms.\n\n“Dr. Mohsen Kavehrad, director of the Center for Information and Communications Technology Research at Penn State, is using multi-rate, ultra-short laser pulses or wavelets that mimic dolphin chirps to make optical wireless signals that can penetrate fog, clouds, and other adverse weather conditions. The multi-rate feature increases the chances that some of the pulses will get through the obstacle. The new approach could help bring optical bandwidth, capable of carrying huge amounts of information, to applications ranging from wireless communication between air and ground vehicles on the battlefield to short links between college campus buildings to metropolitan area networks that connect all the buildings in a city.” (Courtesy of the Biomimicry Guild)",
   "function_addressed": [
     "send sound signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::sound"
+  ],
+  "subgroup_keys": [
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/chirps-carry-through-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "chirps",
     "carry",
     "through",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

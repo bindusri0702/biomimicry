@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-antennae-used-to-detect-pheromones-find-mates",
   "organism_common": "Moths",
-  "organism_scientific": "",
   "strategy_summary": "With some 140,000 known species worldwide and a bias toward being active at night, moths face a special challenge when trying to make more of themselves: How to find a mate of their own species in the dark. Their solution: A female releases species-specific airborne molecules that identify her as a ready mate, which…",
-  "mechanism": "Female moths have a special structure on their abdomen that produces small organic molecules called pheromones. When a female moth is ready to mate, she releases a small amount of pheromones into the air. Although females of various species all release pheromones, the exact mix of chemicals is specific to each species.\n\nMales, for their part, are equipped with two large featherlike antennae with the ability to sense the presence of even a single pheromone molecule produced by a female of the same species. Each antennae has tens of thousands of hairlike structures called “trichoid sensilla.” The sensilla have a large, waxy surface coated with protein s that are uniquely able to bind to the pheromone produced by the female of the same species. Each of the sensilla also has two nerve cells, each of which is sensitive to a different component of the pheromone.\n\nWhen seeking a mate, the male flies about with his antennae leaning forward. If a sensillum encounters a pheromone from the same species, the protein binds to the pheromone and changes shape in a way that allows it to interact with the part of the nerve cell, called a “dendrite,” that extends up into the shaft of the sensillum.\n\nThe nerve cell carries the “got a live one!” message down its body to its other end, called an “axon.” The axon then conveys the message to the insect’s brain, which gives its body instructions to pursue the pheromone trail upwind. At the same time, the interaction between the nerve cell and the pheromone cause a second change in the carrier protein’s shape that results in the destruction of the pheromone—freeing the male moth to capture and convey the message from another pheromone molecule as it continues its quest.\n\nThe number of pheromone molecules a male encounters tells him how far away the female is. He flies upwind in a zig-zag pattern, searching for more molecules until he finally encounters the female.\n\nSee Related Strategy\n\nGiant Silkworm moths\n\nThe antennae of silkworm moths increase sensitivity to odors because the shape and structure of sensillae direct air flow through them.\n\nA moth’s ability to sense and respond to single molecules in the air of specific relevance to them could be tremendously valuable for a wide variety of applications. It could be used to detect the presence of pollutant or toxic molecules before they cause health problems in humans, making it possible to move to safety or quench the source before it does harm. In detective work, the approach could provide evidence of the presence of individuals, objects, etc. after they are gone. In conservation, it could help scientists assess biodiversity by detecting the molecular footprint of a species without actually seeing it.",
+  "mechanism": "Female moths have a special structure on their abdomen that produces small organic molecules called pheromones. When a female moth is ready to mate, she releases a small amount of pheromones into the air. Although females of various species all release pheromones, the exact mix of chemicals is specific to each species.\n\nMales, for their part, are equipped with two large featherlike antennae with the ability to sense the presence of even a single pheromone molecule produced by a female of the same species. Each antennae has tens of thousands of hairlike structures called “trichoid sensilla.” The sensilla have a large, waxy surface coated with protein s that are uniquely able to bind to the pheromone produced by the female of the same species. Each of the sensilla also has two nerve cells, each of which is sensitive to a different component of the pheromone.\n\nWhen seeking a mate, the male flies about with his antennae leaning forward. If a sensillum encounters a pheromone from the same species, the protein binds to the pheromone and changes shape in a way that allows it to interact with the part of the nerve cell, called a “dendrite,” that extends up into the shaft of the sensillum.\n\nThe nerve cell carries the “got a live one!” message down its body to its other end, called an “axon.” The axon then conveys the message to the insect’s brain, which gives its body instructions to pursue the pheromone trail upwind. At the same time, the interaction between the nerve cell and the pheromone cause a second change in the carrier protein’s shape that results in the destruction of the pheromone—freeing the male moth to capture and convey the message from another pheromone molecule as it continues its quest.\n\nThe number of pheromone molecules a male encounters tells him how far away the female is. He flies upwind in a zig-zag pattern, searching for more molecules until he finally encounters the female.\n\nGiant Silkworm moths\n\nThe antennae of silkworm moths increase sensitivity to odors because the shape and structure of sensillae direct air flow through them.\n\nA moth’s ability to sense and respond to single molecules in the air of specific relevance to them could be tremendously valuable for a wide variety of applications. It could be used to detect the presence of pollutant or toxic molecules before they cause health problems in humans, making it possible to move to safety or quench the source before it does harm. In detective work, the approach could provide evidence of the presence of individuals, objects, etc. after they are gone. In conservation, it could help scientists assess biodiversity by detecting the molecular footprint of a species without actually seeing it.",
   "function_addressed": [
     "respond to signals",
     "coordinate activities",
@@ -11,11 +10,19 @@
     "differentiate signal from noise",
     "sense chemicals (odor, taste, etc.) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "coordinate::activities",
+    "process-signals::differentiate-signal-from-noise",
+    "process-signals::respond-to-signals",
+    "process-signals::transduce-convert-signals",
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "coordinate",
+    "process-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/antennae-used-to-detect-pheromones-find-mates/",
-  "source_tier": "science_journalism",
   "keywords": [
     "moths",
     "make",
@@ -23,7 +30,5 @@
     "barely-there",
     "scents"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

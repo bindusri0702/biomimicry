@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-minerals-strengthen-vertebrae",
   "organism_common": "Grey smooth-hound shark",
-  "organism_scientific": "",
   "strategy_summary": "Vertebrae of the smooth-hound shark are strengthened by being coated with minerals whose arrangement provides structural support. Smooth-hound sharks are a species that express variability in the material make-up of their vertebras.",
   "mechanism": "Vertebrae of the smooth-hound shark are strengthened by being coated with minerals whose arrangement provides structural support.\n\nSmooth-hound sharks are a species that express variability in the material make-up of their vertebras. The vertebrae of smooth-hound sharks have different measures of mineral coatings. The variability of mineralization among the vertebrae has led to questioning about the purpose of mineral coatings. Recent studies show that mineral coatings provide strength to the vertebrae when tested under compression. The mechanism of the strength of these coatings lays in the mineral arrangement rather than the amount of mineral coating itself. Thus, heavier coating does not necessarily translate to greater strength, rather coating arrangement does. This provides insight into biomaterials that could be used to strengthen construction matter.",
   "function_addressed": [
@@ -9,17 +8,19 @@
     "manage tension",
     "manage compression"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::impact",
+    "manage-structural-forces::tension"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/minerals-strengthen-vertebrae/",
-  "source_tier": "science_journalism",
   "keywords": [
     "minerals",
     "strengthen",
     "vertebrae"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

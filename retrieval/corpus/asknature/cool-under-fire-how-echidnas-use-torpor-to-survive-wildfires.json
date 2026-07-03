@@ -1,20 +1,26 @@
 {
   "doc_id": "asn-cool-under-fire-how-echidnas-use-torpor-to-survive-wildfires",
   "organism_common": "Short-beaked echidna",
-  "organism_scientific": "",
   "strategy_summary": "In the wild and weathered heart of Australia, the short-beaked echidna ( Tachyglossus aculeatus ) moves with quiet intention, its body clad in sharp spines, its long snout probing the earth. This solitary monotreme––one of only two egg-laying mammals left on Earth––plays a subtle but vital role in its ecosystem.",
-  "mechanism": "The echidna’s fire-survival method is deeply rooted in its ability to regulate its internal processes. When faced with the threat of wildfire, the echidna doesn’t run. It burrows down or wedges itself beneath insulating materials such as logs or dense vegetation––natural shelters that buffer against the direct heat and smoke of passing flames.\n\nOnce safe from immediate danger, the echidna enters torpor. In this state, its body temperature can drop as low as 14°C (about 57°F), significantly below its usual range. Its heartbeat slows. Breathing eases. The animal becomes a near-motionless ember of life, conserving every precious calorie. This state allows echidnas to persist without food or water for days, sometimes weeks. When the danger passes and the environment begins its slow renewal, the echidna emerges into a quieter, competition-free world––one it is uniquely equipped to exploit. In fact, echidnas do especially well in areas that burn frequently, because fire clears thick vegetation and makes invertebrate prey like ants and termites more accessible.\n\nTorpor is more than a temporary escape. It is a trait etched deep into the evolutionary story of mammals. Scientists theorize that it may have played a critical role in mammalian survival during the Cretaceous–Paleogene (K–Pg) boundary, around 66 million years ago, when an asteroid impact triggered mass extinctions. While much of the surface world burned and ecosystems collapsed, small mammals—many of them burrowers—may have slowed their life processes, conserving energy and waiting in the dark for the Earth to stabilize.\n\nIn this light, the echidna’s modern use of torpor becomes not just a survival tactic, but a living echo of one of the most profound survival events in Earth’s history. The quiet stillness of the echidna, curled beneath a log, carries with it the memory of a world reborn from ashes.\n\nThe echidna’s gift for surviving fire without fleeing from it offers powerful design inspiration. Imagine shelters that passively insulate and cool during heat waves or disasters—buildings designed to “play dead” like an echidna, preserving the energy and safety of their inhabitants. Medical technologies might also learn from torpor: researchers are already exploring how slowing metabolism can protect organs during surgery or trauma. Echidna-inspired studies could help refine these techniques, potentially saving lives in emergency scenarios.\n\nBeyond technology, the echidna calls us to reframe our relationship with fire and disturbance. It teaches us that survival isn’t always about action––it can also be about stillness, timing, and deep connection to place. By slowing down, conserving energy, and trusting in the cycles of renewal, the echidna becomes a master of coexistence with fire. In an era where climate change intensifies natural disturbances, this ancient mammal reminds us that wisdom can lie in quiet forms, and that endurance, not escape, might be the most profound form of resilience.",
+  "mechanism": "The echidna’s fire-survival method is deeply rooted in its ability to regulate its internal processes. When faced with the threat of wildfire, the echidna doesn’t run. It burrows down or wedges itself beneath insulating materials such as logs or dense vegetation––natural shelters that buffer against the direct heat and smoke of passing flames.\n\nOnce safe from immediate danger, the echidna enters torpor. In this state, its body temperature can drop as low as 14°C (about 57°F), significantly below its usual range. Its heartbeat slows. Breathing eases. The animal becomes a near-motionless ember of life, conserving every precious calorie. This state allows echidnas to persist without food or water for days, sometimes weeks. When the danger passes and the environment begins its slow renewal, the echidna emerges into a quieter, competition-free world––one it is uniquely equipped to exploit. In fact, echidnas do especially well in areas that burn frequently, because fire clears thick vegetation and makes invertebrate prey like ants and termites more accessible.\n\nTorpor is more than a temporary escape. It is a trait etched deep into the evolutionary story of mammals. Scientists theorize that it may have played a critical role in mammalian survival during the Cretaceous–Paleogene (K–Pg) boundary, around 66 million years ago, when an asteroid impact triggered mass extinctions. While much of the surface world burned and ecosystems collapsed, small mammals—many of them burrowers—may have slowed their life processes, conserving energy and waiting in the dark for the Earth to stabilize.\n\nIn this light, the echidna’s modern use of torpor becomes not just a survival tactic, but a living echo of one of the most profound survival events in Earth’s history. The quiet stillness of the echidna, curled beneath a log, carries with it the memory of a world reborn from ashes.\n\nThe echidna’s gift for surviving fire without fleeing from it offers powerful design inspiration. Imagine shelters that passively insulate and cool during heat waves or disasters—buildings designed to “play dead” like an echidna, preserving the energy and safety of their inhabitants. Medical technologies might also learn from torpor: researchers are already exploring how slowing metabolism can protect organs during surgery or trauma. Echidna-inspired studies could help refine these techniques, potentially saving lives in emergency scenarios.\n\nBeyond technology, the echidna calls us to reframe our relationship with fire and disturbance. It teaches us that survival isn’t always about action––it can also be about stillness, timing, and deep connection to place. By slowing down, conserving energy, and trusting in the cycles of renewal, the echidna becomes a master of coexistence with fire. In an era where climate change intensifies natural disturbances, this ancient mammal reminds us that wisdom can lie in quiet forms, and that endurance, not escape, might be the most profound form of resilience.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "modify speed",
     "protect from fire",
     "regulate reproduction or growth",
     "regulate cellular processes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::speed",
+    "protect-from-non-living-threats::fire",
+    "regulate-physiological-processes::cellular-processes",
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/cool-under-fire-how-echidnas-use-torpor-to-survive-wildfires/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cool",
     "under",
@@ -23,7 +29,5 @@
     "torpor",
     "survive"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-surface-tension-flings-spores",
   "organism_common": "Ferns",
-  "organism_scientific": "",
   "strategy_summary": "The spores of one fern are launched from the sporangium using a mechanism based on surface tension and evaporation. “A mechanism based on the surface tension of water is used by a fern that forcibly discharges its spores from the sporangium–evaporation decreases the volume of water and increases the surface curvature…",
   "mechanism": "The spores of one fern are launched from the sporangium using a mechanism based on surface tension and evaporation.\n\n“A mechanism based on the surface tension of water is used by a fern that forcibly discharges its spores from the sporangium–evaporation decreases the volume of water and increases the surface curvature in a series of cuplike dead cells until the sustainable cohesion is exceeded; water then vaporizes and tension is relieved by a movement analogous to that involved in throwing a spear (Steward 1968).” (Vogel 2003:449)\n\nWatch video",
   "function_addressed": [
     "distribute solids",
     "disperse seeds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::solids",
+    "provide-ecosystem-services::disperse-seeds"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/surface-tension-flings-spores/",
-  "source_tier": "science_journalism",
   "keywords": [
     "surface",
     "tension",
     "flings",
     "spores"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

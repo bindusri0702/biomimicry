@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-poison-protects-seeds",
   "organism_common": "Yew",
-  "organism_scientific": "",
   "strategy_summary": "The seeds of yew trees are protected from being eaten by large animals because they contain poisonous compounds called taxanes. “The yew attaches a bright red fleshy covering to its seeds which many birds relish and accordingly transport.",
   "mechanism": "The seeds of yew trees are protected from being eaten by large animals because they contain poisonous compounds called taxanes.\n\n“The yew attaches a bright red fleshy covering to its seeds which many birds relish and accordingly transport. Their beaks are not strong enough to damage the seed and that is just as well for it contains a savage poison which can kill bigger animals if they are incautious enough to crush a seed in their mouths.” (Attenborough 1995:32)",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/poison-protects-seeds/",
-  "source_tier": "science_journalism",
   "keywords": [
     "poison",
     "protects",
     "seeds"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

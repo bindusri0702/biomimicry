@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-eyes-see-300-images-per-second",
   "organism_common": "Dragonflies and damselflies",
-  "organism_scientific": "",
   "strategy_summary": "The eyes of dragonflies sense motion well due to high flicker-fusion frequency. Somatochlora arctica Northern male Brunssummer Heide Netherlands  Front view of a dragonfly  “Although insects cannot see as sharply as we can, they compensate by being better at sensing motion.",
   "mechanism": "The eyes of dragonflies sense motion well due to high flicker-fusion frequency.\n\nSomatochlora arctica Northern male Brunssummer Heide Netherlands\n\nFront view of a dragonfly\n\n“Although insects cannot see as sharply as we can, they compensate by being better at sensing motion. The rate at which the eye can distinguish separate static images before they fuse to create the illusion of continuous movement is called the flicker-fusion frequency. Our eyes can see around 50 images per second in good light, less in dim conditions. That’s why movies appear to move even though they are really a series of separate frames. With a flicker-fusion frequency six times faster than ours, dragonflies see 300 images per second, so they would see a movie for what it truly is – a slide show made up of a sequence of static images.” (Shuker 2001:14-15)",
   "function_addressed": [
     "sense motion"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::motion"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/eyes-see-300-images-per-second/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eyes",
     "see",
@@ -19,7 +20,5 @@
     "per",
     "second"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

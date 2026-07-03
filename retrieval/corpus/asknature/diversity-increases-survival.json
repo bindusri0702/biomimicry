@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-diversity-increases-survival",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Genetic circuits in some bacteria help them survive in variable environments by introducing genetic diversity into the population. “Like savvy Wall Street money managers, bacteria hedge their bets to increase their chances of survival in uncertain times, strategically investing their biological resources to weather…",
   "mechanism": "Genetic circuits in some bacteria help them survive in variable environments by introducing genetic diversity into the population.\n\n“Like savvy Wall Street money managers, bacteria hedge their bets to increase their chances of survival in uncertain times, strategically investing their biological resources to weather unpredictable environments.\n\n“ … UT Southwestern Medical Center researchers describe how bacteria play the market so well. Inside each bacterial cell are so-called genetic circuits that provide specific survival skills. Within the bacteria population, these genetic circuits generate so much diversity that the population as a whole is more tolerant of — and is more likely to survive — a wide range of variability in the environment …\n\n“This diversity, like a diversified investment portfolio, means that each bacterium has characteristics that allow it to survive under certain conditions, said Dr. Süel. ‘When conditions are highly variable, some individual bacteria are equipped to thrive in the highs or lows, while others tank,’ he said …\n\n“By generating diversity, genetic circuits ensure enough cells will survive to carry over the population, especially in times of variable conditions, Dr. Süel explained. Essentially, variability of bacterial cells appears to match the variability in the environment, thereby increasing the chances of bacterial survival, he said.\n\n“Biological ‘noise’ in the genetic circuit, which comes from random fluctuations in the chemical reactions involved in the pattern of interactions … is beneficial. In fact, it is the root mechanism that drives diversity within the bacteria population. Dr. Süel previously found that when noise reaches a certain level in some genetic circuits, it can prompt cells to transform from one cellular state to another.”(Science Daily 2009)\n\nhttp://www.cell.com/retrieve/pii/S0092867409010332 http://www.sciencedaily.com/releases/2009/11/091102112102.htm",
   "function_addressed": [
     "adapt genotype",
     "manage disturbance in a community"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-genotype",
+    "provide-ecosystem-services::manage-disturbance-in-a-community"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/diversity-increases-survival/",
-  "source_tier": "science_journalism",
   "keywords": [
     "diversity",
     "increases",
     "survival"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

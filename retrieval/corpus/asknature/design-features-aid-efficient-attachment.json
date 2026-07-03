@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-design-features-aid-efficient-attachment",
   "organism_common": "Lice",
-  "organism_scientific": "",
   "strategy_summary": "Lice adhere to their hosts' skin using strong claws and flat bodies. Head lice (Pediculus humanus capitis)  How Lice Turn Your Hair Into Their Jungle Gym  “Lice are much more sedentary, clutching onto their host’s skin with strong gripping claws.",
   "mechanism": "Lice adhere to their hosts' skin using strong claws and flat bodies.\n\nHead lice (Pediculus humanus capitis)\n\nHow Lice Turn Your Hair Into Their Jungle Gym\n\n“Lice are much more sedentary, clutching onto their host’s skin with strong gripping claws. They have flattened bodies that rebuff attempts by the host to dislodge them.” (Shuker 2001:165)",
   "function_addressed": [
@@ -10,11 +9,17 @@
     "manage impact",
     "manage shear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently",
+    "attach::temporarily",
+    "manage-structural-forces::impact",
+    "manage-structural-forces::shear"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/design-features-aid-efficient-attachment/",
-  "source_tier": "science_journalism",
   "keywords": [
     "design",
     "features",
@@ -22,7 +27,5 @@
     "efficient",
     "attachment"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

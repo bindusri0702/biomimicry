@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-meerkats-resolve-conflict",
   "organism_common": "Meerkat",
-  "organism_scientific": "",
   "strategy_summary": "Meerkats, like many species, tend to stay together as a group while foraging for food. This raises questions because meerkats, like other species, differ individually in their need for nutrients and knowledge of where food sources are.",
   "mechanism": "Each morning, in their southern African desert habitats where they live, meerkats emerge from their burrow and head off as a group in a direction to forage for insects, fruit, eggs, and scorpions. However, to learn more about how meerkats manage conflict, researchers created a somewhat artificial circumstance, making some individuals in a group aware of food sources and not others. What the experimenters discovered is that, when two different meerkats in a group know about food sources in different directions, the group still doesn’t split up. Instead, the group follows the first meerkat that heads off in a certain direction. It doesn’t matter if that meerkat is a dominant or subordinate individual. If they head off first, that’s where the group follows. This behavior by the group’s followers makes sense: to set off first in a direction suggests strong motivation and likely knowledge about a food source.\n\nBut there’s more to the story. The first meerkat to head off in a certain direction – the initiator – isn’t the same every day. Instead, the initiator often changes from one day to the next. If one meerkat who knows about a food source initiates a group’s foraging direction one day, another meerkat who knows about a food source often initiates a group’s foraging direction the next. In other words, being first to pick a direction guides a group’s movements, but taking turns over time being the leader plays an important role in resolving potential conflicts too.\n\nDisagreements are a normal part of life, not just for humans, but for many other species. How other species manage to resolve disagreements can be helpful for humans to understand, generating insight into other species and helping our own species see other options for fostering coordination and cohesion.",
   "function_addressed": [
     "coordinate by self-organization"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "coordinate::by-self-organization"
+  ],
+  "subgroup_keys": [
+    "coordinate"
+  ],
   "source_url": "https://asknature.org/strategy/meerkats-resolve-conflict/",
-  "source_tier": "science_journalism",
   "keywords": [
     "meerkats",
     "resolve",
     "conflict"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

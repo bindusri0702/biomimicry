@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-hydration-increases-internal-pressure",
   "organism_common": "Legumes",
-  "organism_scientific": "",
   "strategy_summary": "The seeds of legumes can generate tremendous internal pressures by absorbing large amounts of water. “If you take some dry legume seeds and immerse them in water they swell up.",
   "mechanism": "The seeds of legumes can generate tremendous internal pressures by absorbing large amounts of water.\n\n“If you take some dry legume seeds and immerse them in water they swell up. If they’re put in a closed chamber into which water can pass but out of which they can’t squeeze or ooze, then their swelling will push outward on the chamber with surprising force…The affinity of many polysaccharides and proteins for water is extreme–the resulting pressures may reach thousands of atmospheres. (Salisbury and Ross [1969] give references to experiments and calculations.) Wetting of a small quantity of dry seeds accidentally left underneath can lead to the fracture of concrete pavement.” (Vogel 2003:443-444)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
   "function_addressed": [
@@ -9,18 +8,22 @@
     "transform mechanical energy",
     "modify pressure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids",
+    "modify-physical-state::pressure",
+    "transform-convert-energy::mechanical-energy"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "modify-physical-state",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/hydration-increases-internal-pressure/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hydration",
     "increases",
     "internal",
     "pressure"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

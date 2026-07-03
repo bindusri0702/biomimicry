@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-sensory-cells-give-dragonflies-smart-wings",
   "organism_common": "Dragonflies",
-  "organism_scientific": "",
   "strategy_summary": "Each dragonfly wing is lined with an array of sensors that helps the insect navigate using information about airflow and wing strain. The sensors are spread across the whole span of the wing, and they are connected to the nervous system.",
   "mechanism": "Each dragonfly wing is lined with an array of sensors that helps the insect navigate using information about airflow and wing strain. The sensors are spread across the whole span of the wing, and they are connected to the nervous system. The axons of the wing sensors are scaled to compensate for transmission latencies.\n\nThe information gathered by the sensors is used by the dragonfly to navigate its environment. The sensors help the dragonfly to avoid obstacles, to find prey, and to mate.\n\nThe dragonfly’s ability to use information gathered by a network of sensors to navigate its environment could be used to improve our ability to do the same. The sensor array could be used to monitor the structural and aerodynamic state of an aircraft or to control a ground vehicle. The sensor array could also be used to detect motion beyond the range of vision.\n\nIt also points to the enormous opportunity for a new generation of sensors in every sector. Infrastructure, textiles, and agriculture could all benefit from the application of biological or biologically-inspired sensors. The dragonfly shows how it could be done.",
   "function_addressed": [
@@ -9,11 +8,16 @@
     "sense touch and mechanical forces in a living system",
     "sense motion"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-through-gases",
+    "sense-signals-environmental-cues::motion",
+    "sense-signals-environmental-cues::touch-and-mechanical-forces"
+  ],
+  "subgroup_keys": [
+    "move",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/sensory-cells-give-dragonflies-smart-wings/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sensory",
     "cells",
@@ -22,7 +26,5 @@
     "smart",
     "wings"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-cyanogenic-poison-protects-from-herbivores",
   "organism_common": "Wattle",
-  "organism_scientific": "",
   "strategy_summary": "The leaves of acacia trees protect from being eaten by producing a cyanogenic poison. Acacia responding to browsing by giraffe: a.",
   "mechanism": "The leaves of acacia trees protect from being eaten by producing a cyanogenic poison.\n\nAcacia responding to browsing by giraffe: a. Leaves prior to damage; b. When damaged by browsing, the leaves fill with a cyanogenic poison; c. At the same time, the leaves release ethylene gas through their pores which gets carried downwind to alert other trees. Artist: Emily Harrington. All rights reserved.\n\nAcacia cyanophylla\n\n“The African acacias, well-protected though they may be by their thorns, use distasteful chemicals in their leaves as a second line of defence. Furthermore, and most remarkably, they warn one another that they are doing so. At the same time as they fill their leaves with poison, they release ethylene gas which drifts out of the pores of their leaves. Other acacias within fifty yards are able to detect this and as soon as they do so, they themselves begin to manufacture poison and distribute it to their leaves.” (Attenborough 1995:70)",
   "function_addressed": [
     "protect from animals",
     "send chemical signals (odor, taste, etc.)"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals",
+    "send-signals::chemical-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/cyanogenic-poison-protects-from-herbivores/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cyanogenic",
     "poison",
     "protects",
     "herbivores"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

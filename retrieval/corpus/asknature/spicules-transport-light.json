@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-spicules-transport-light",
   "organism_common": "Capture, Absorb, or Filter Energy",
-  "organism_scientific": "",
   "strategy_summary": "Silica spicules in sponges transport light into the inner parts of the sponge by structurally arranging individual spicules in bundles. “Here we show for the first time, that, as hypothesized 13 year ago, sponge spicules in living specimens transmit light into deeper tissue regions.",
   "mechanism": "Silica spicules in sponges transport light into the inner parts of the sponge by structurally arranging individual spicules in bundles.\n\n“Here we show for the first time, that, as hypothesized 13 year ago, sponge spicules in living specimens transmit light into deeper tissue regions. Our results demonstrate that in opposite to the actual opinion, photosynthetically active microorganisms can also live in deeper tissue regions, and not only directly beneath the surface, when a light transmission system (spicules) is present.” (Brümmer et al. 2008:61)\n\n“The spicule bundles of Tethya aurantium are arranged of a large number of single spicules, which are much shorter (several hundred μm), than the whole bundle (several cm). That means the detected light inside the sponges is transferred through the spicule bundle and is at the same time transmitted from the outer spicules to the subsequent more central spicules. This at the same time explains the finding of phototrophic organisms along the spicule bundles, because light will leave the spicule bundles while being transferred between the subsequent single spicules. While transmitting light into the sponge body, the silica spicules in living Tethya aurantium specimens enable the growth and photosynthetic activity of putatively symbiotic microalgae in the most inner part of the sponge body.” (Brümmer et al. 2008:64)",
   "function_addressed": [
     "capture, absorb, or filter energy",
     "distribute energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "distribute::energy"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/spicules-transport-light/",
-  "source_tier": "science_journalism",
   "keywords": [
     "spicules",
     "transport",
     "light"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

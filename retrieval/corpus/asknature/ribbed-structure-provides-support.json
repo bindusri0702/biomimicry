@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-ribbed-structure-provides-support",
   "organism_common": "Water lily",
-  "organism_scientific": "",
   "strategy_summary": "Many plants that grow near the banks of rivers will float their leaves on the surface, to allow their seeds to be carried downstream and pollinate other areas. In order to ensure a long trip, leaves that are able to float on the surface can ensure maximum sun absorption for photosynthesis .",
   "mechanism": "Underneath each leaf is a ribbed, girder-like support structure that helps the leaf support small loads and hold a rigid shape, in order to maximize surface area exposure for photosynthesis. The structure consists of a main rib that runs along the center of the leaf, with additional ribs that radiate from the center and incrementally fork along the leaf. The ribs themselves are flat, wall-shaped structures, and the thickness of the ribs decreases towards the edge of the leaf. All of the ribs are filled with air, which increases their surface area, better distributing the total weight of the structure, helping to keep the leaf afloat. Neighboring ribs are connected to each other by a pattern of radial webbing forming loose concentric circles that emanate from the center of the leaf. This webbing provides additional structural support without adding much weight.\n\nThe structural ribbing of an Amazon water lily could inspire new designs for floating platforms, emergency rafts, or small inflatable vessels. It could even be used to improve the stability or weight-bearing capacity of other structures, such as scaffolds or shelving.",
   "function_addressed": [
     "prevent buckling"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::buckling"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/ribbed-structure-provides-support/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ribbed",
     "structure",
     "provides",
     "support"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

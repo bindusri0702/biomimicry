@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-investing-resources-increases-competitive-success",
   "organism_common": "Regulate Reproduction or Growth",
-  "organism_scientific": "",
   "strategy_summary": "The investment of resources for structural support in trees allows for competitive success by prolonging the reproductive life of the organism. “The development of the ‘tree’ habit in many different plant families must reflect a high degree of competitive success for this life form.",
   "mechanism": "The investment of resources for structural support in trees allows for competitive success by prolonging the reproductive life of the organism.\n\n“The development of the ‘tree’ habit in many different plant families must reflect a high degree of competitive success for this life form. The expenditure of materials in short supply in the production of long-lived, mechanically robust forms must confer survival benefits to such plants. Synthesis of materials for mechanical support of the plant uses resources that otherwise might have been directed towards reproduction. We see an elegant use of strengthening tissues that parallels engineering solutions. Although expensive in mechanical tissues, the tree habit prolongs the period over which an individual may produce seed; over a long period successful seed formation and germination is more likely.” (Cutler 2005:98)",
   "function_addressed": [
     "regulate reproduction or growth"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/investing-resources-increases-competitive-success/",
-  "source_tier": "science_journalism",
   "keywords": [
     "investing",
     "resources",
@@ -19,7 +20,5 @@
     "competitive",
     "success"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

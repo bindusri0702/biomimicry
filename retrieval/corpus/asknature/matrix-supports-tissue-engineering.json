@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-matrix-supports-tissue-engineering",
   "organism_common": "Animals",
-  "organism_scientific": "",
   "strategy_summary": "The matrix associated with individual chondrocytes and other stem cells manages varying demands over time during the tissue engineering process by having temporally dynamic mechanical properties. “Cell-based tissue engineering holds great potential for therapies involving regeneration and/or replacement of damaged…",
   "mechanism": "The matrix associated with individual chondrocytes and other stem cells manages varying demands over time during the tissue engineering process by having temporally dynamic mechanical properties.\n\n“Cell-based tissue engineering holds great potential for therapies involving regeneration and/or replacement of damaged cartilage … The ultimate goal and challenge is to produce a material with structural, biochemical and biomechanical properties similar enough to healthy cartilage so that upon maturation in vivo it can restore physiological function. To achieve this objective, it is important to understand the temporal evolution of the properties of the newly synthesized matrix. At early stages, matrix is formed around individual cells within the scaffold and these cell–matrix composites are often isolated from each other. As culture time increases, growth of neighboring cell-associated matrices leads to the formation of a more continuous neo-tissue which undergoes further evolution in structure and properties in vitro or in vivo. Throughout this process, the cell-associated matrix is important in facilitating cell signaling and mechanotransduction (Millward-Sadler et al.,2000; Millward-Sadler and Salter, 2004). Knowledge of the properties of the in vitro-generated matrix provides an assessment of the quality and ultimate success of a given tissue engineering approach and has great potential to be utilized for optimization … the present study investigates the dynamic oscillatory mechanical behavior (Mahaffy et al., 2000, 2004; Alcaraz et al., 2003; Park et al., 2005; Smith et al., 2005) of the cell-associated matrices of individual chondrocytes cultured in alginate scaffolds up to 28 days. Such time-dependent behaviors are important because tissue-engineered constructs implanted in vivo are expected to undergo cyclic and impact loading that includes frequency components as high as 1kHz, just as native cartilage does …\n\n“In summary, our AFM-based approach has enabled the measurement of the poroelastic dynamic mechanical behavior of the newly developing matrix associated with individual chondrocytes, and can be applied generally to study the dynamic behavior of extremely compliant (~kPa) biological, porous, and hydrated systems at nm-length scales over a broad range of frequencies. The high resolution dynamic mechanical approach described here is able to discern fine differences in the development and maturation of the cell-associated matrix temporally and with the addition of growth factors. The methodologies reported here can thus be employed to assess maturation of matrix synthesized by primary chondrocytes and, additionally, by other cells such as stem cells undergoing chondrogenesis in applications for cartilage tissue engineering. It may also be possible to use this methodology to study the mechanobiological response of single chondrocytes (Shieh and Athanasiou, 2006b) and stem cells to applied dynamic loads over a wide frequency range.” (Lee et al. 2010:469-70, 475-6)",
   "function_addressed": [
@@ -10,18 +9,24 @@
     "physically assemble structure",
     "manage mechanical wear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "modify-physical-state::material-characteristics",
+    "physically-assemble::structure",
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "modify-physical-state",
+    "physically-assemble",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/matrix-supports-tissue-engineering/",
-  "source_tier": "science_journalism",
   "keywords": [
     "matrix",
     "supports",
     "tissue",
     "engineering"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

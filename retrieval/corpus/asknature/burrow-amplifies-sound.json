@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-burrow-amplifies-sound",
   "organism_common": "Mole cricket",
-  "organism_scientific": "",
   "strategy_summary": "The male mole cricket amplifies and directs its calling song by digging a double-mouthed burrow that functions as an amplifier. “The male mole cricket Gryllotalpa vineae digs a double-mouthed burrow in the ground, which functions as a horn-like amplifier to amplify and direct sound; the invention looks something like…",
   "mechanism": "The male mole cricket amplifies and directs its calling song by digging a double-mouthed burrow that functions as an amplifier.\n\n“The male mole cricket Gryllotalpa vineae digs a double-mouthed burrow in the ground, which functions as a horn-like amplifier to amplify and direct sound; the invention looks something like an early gramophone.” (Pallasmaa 1995:51)",
   "function_addressed": [
     "send sound signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::sound"
+  ],
+  "subgroup_keys": [
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/burrow-amplifies-sound/",
-  "source_tier": "science_journalism",
   "keywords": [
     "burrow",
     "amplifies",
     "sound"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

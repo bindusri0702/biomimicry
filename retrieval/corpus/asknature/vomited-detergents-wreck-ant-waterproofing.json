@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-vomited-detergents-wreck-ant-waterproofing",
   "organism_common": "Beet armyworm",
-  "organism_scientific": "",
   "strategy_summary": "Vomit of beet armyworms defend against ants by wetting their hydrophobic cuticle using a detergent. “Insects have evolved an astonishing array of defences to ward off enemies.",
   "mechanism": "Vomit of beet armyworms defend against ants by wetting their hydrophobic cuticle using a detergent.\n\n“Insects have evolved an astonishing array of defences to ward off enemies. Well known and widespread is the regurgitation of oral secretion (OS), fluid that repels attacking predators. In herbivores, the effectiveness of OS has been ascribed so far to the presence of deterrent secondary metabolites sequestered from the host plant. This notion implies, however, that generalists experience less protection on plants with low amounts of secondary metabolites or with compounds ineffective against potential enemies. Resolving the dilemma, we describe a novel defence mechanism that is independent of deterrents as it relies on the intrinsic detergent properties of the OS. The OS of Spodoptera exigua (and other species) was found to be highly amphiphilic and well capable of wetting the hydrophobic cuticle of predatory ants. As a result, affected ants stopped attacking and engaged in extensive cleansing. The presence of surfactants was sufficient to explain the defensive character of herbivore OS. We hypothesize that detergency is a common but unrecognized mode of defence, which provides a base level of protection that may or may not be further enhanced by plant-derived deterrents. Our study also proves that insects ‘invented’ the use of defensive surfactants long before modern agriculture had started applying them as insecticides.”",
   "function_addressed": [
     "modify surface tension"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-chemical-electrical-state::surface-tension"
+  ],
+  "subgroup_keys": [
+    "modify-chemical-electrical-state"
+  ],
   "source_url": "https://asknature.org/strategy/vomited-detergents-wreck-ant-waterproofing/",
-  "source_tier": "science_journalism",
   "keywords": [
     "vomited",
     "detergents",
@@ -19,7 +20,5 @@
     "ant",
     "waterproofing"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

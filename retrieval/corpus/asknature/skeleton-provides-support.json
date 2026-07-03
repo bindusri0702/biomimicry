@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-skeleton-provides-support",
   "organism_common": "Manage Compression",
-  "organism_scientific": "",
   "strategy_summary": "The spicular skeleton of sponges provides structural support in the form of dispersed struts. “In nature, the [dispersal strut] scheme is commoner but still far from widespread–the clearest example, noted in chapter 19, is the spicular skeleton of sponges, in which tiny rigid elements are laced together by collagen…",
   "mechanism": "The spicular skeleton of sponges provides structural support in the form of dispersed struts.\n\n“In nature, the [dispersal strut] scheme is commoner but still far from widespread–the clearest example, noted in chapter 19, is the spicular skeleton of sponges, in which tiny rigid elements are laced together by collagen (fig 19.7). And there are occasional forays in this direction among sea anemones (coelenterates) and sea cucumbers (echinoderms). It ought to be reemphasized that the arrangement is not intrinsically flawed in some way; the limitation is more likely to lie in problems of compatibility with attachment surfaces for muscles.” (Vogel 2003:439)",
   "function_addressed": [
     "manage compression",
     "prevent buckling"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "prevent-structural-failure::buckling"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/skeleton-provides-support/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skeleton",
     "provides",
     "support"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

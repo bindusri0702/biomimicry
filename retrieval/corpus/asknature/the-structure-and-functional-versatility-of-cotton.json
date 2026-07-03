@@ -1,22 +1,17 @@
 {
   "doc_id": "asn-the-structure-and-functional-versatility-of-cotton",
   "organism_common": "Upland cotton",
-  "organism_scientific": "",
   "strategy_summary": "Cotton fibers are specialized seed hairs produced by plants in the genus Gossypium , designed to aid in seed dispersal. It has been used for thousands of years to make textiles, and its success as a material lies in its unique natural structure and properties.",
-  "mechanism": "Cotton fibers are composed primarily of cellulose, a carbohydrate that forms the main structural component of plant cell walls. Cellulose molecules in cotton are arranged in long, parallel chains that give the fibers their strength and durability. First, cellulose is laid in a spiral pattern for flexibility. As the fiber grows, additional layers of cellulose are deposited. As the layers become more densely packed, a combination of strong crystalline regions (highly ordered areas) and flexible amorphous regions (less ordered areas) forms, which ensures the fibers are both durable and lightweight.\n\nThe fibers contain a hollow core, known as the lumen, which aids in water and nutrient transport during growth. After the fiber matures, the lumen helps retain moisture, potentially assisting in seed hydration during germination. The fiber is also coated with a waxy cuticle, which protects the seed from environmental stress like dehydration or microbial damage. These features—strength, flexibility, water retention, and protective coatings—show how cotton fibers are perfectly adapted to support the plant’s reproductive success.\n\nThe natural design of cotton offers many lessons for sustainable and efficient material design. Its combination of strength, flexibility, and moisture management could inspire new materials for clothing, upholstery, and industrial applications. For example, understanding how the fiber’s crystalline and amorphous regions balance durability and flexibility can lead to the development of synthetic fibers with similar properties. The cuticle’s protective layer could also inspire water-repellent coatings that are biodegradable and environmentally friendly.",
+  "mechanism": "Cotton fibers are composed primarily of cellulose, a carbohydrate that forms the main structural component of plant cell walls. Cellulose molecules in cotton are arranged in long, parallel chains that give the fibers their strength and durability. First, cellulose is laid in a spiral pattern for flexibility. As the fiber grows, additional layers of cellulose are deposited. As the layers become more densely packed, a combination of strong crystalline regions (highly ordered areas) and flexible amorphous regions (less ordered areas) forms, which ensures the fibers are both durable and lightweight.\n\nThe fibers contain a hollow core, known as the lumen, which aids in water and nutrient transport during growth. After the fiber matures, the lumen helps retain moisture, potentially assisting in seed hydration during germination. The fiber is also coated with a waxy cuticle, which protects the seed from environmental stress like dehydration or microbial damage. These features—strength, flexibility, water retention, and protective coatings—show how cotton fibers are perfectly adapted to support the plant’s reproductive success.\n\nThe natural design of cotton offers many lessons for sustainable and efficient material design. Its combination of strength, flexibility, and moisture management could inspire new materials for clothing, upholstery, and industrial applications. For example, understanding how the fiber’s crystalline and amorphous regions balance durability and flexibility can lead to the development of synthetic fibers with similar properties. The cuticle’s protective layer could also inspire water-repellent coatings that are biodegradable and environmentally friendly.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [],
   "source_url": "https://asknature.org/strategy/the-structure-and-functional-versatility-of-cotton/",
-  "source_tier": "science_journalism",
   "keywords": [
     "structure",
     "functional",
     "versatility",
     "cotton"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

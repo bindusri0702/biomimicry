@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-skin-protects-from-water-loss-2",
   "organism_common": "Desert lark",
-  "organism_scientific": "",
   "strategy_summary": "The skin of the desert lark protects from water loss via a ceramide-rich lipid ratio. “Adjustments of lipid ratios to favor ceramides over free fatty acids and sterols have also been shown to correlate with reductions of TEWL [transepidermal water loss] in desert larks (Haugen et al., 2003a,b).",
   "mechanism": "The skin of the desert lark protects from water loss via a ceramide-rich lipid ratio.\n\n“Adjustments of lipid ratios to favor ceramides over free fatty acids and sterols have also been shown to correlate with reductions of TEWL [transepidermal water loss] in desert larks (Haugen et al., 2003a,b). The comparatively higher ratios of ceramides in stratum corneum allow the lipid lamellae of the permeability barrier to exist in a more highly ordered crystalline phase, which creates a tighter barrier to water vapor diffusion (Velkova and Lafleur, 2002; Bouwstra et al., 2003b).” (Lillywhite 2006:218)",
   "function_addressed": [
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/skin-protects-from-water-loss-2/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skin",
     "protects",
     "water",
     "loss"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-underground-dens-protect-from-cold",
   "organism_common": "Snakes",
-  "organism_scientific": "",
   "strategy_summary": "The Earth doesn’t rotate perfectly upright with respect to the Sun. Instead, thanks to a large impact early in Earth’s history (which probably resulted in the formation of our Moon), the Earth’s axis of rotation is tilted 23.5° with respect to the Sun.",
-  "mechanism": "Many ectotherms living in cold regions (including lizards, turtles, snakes, frogs, and salamanders) survive the wintertime by finding shelter underground. Not only are underground dens protected from the worst of winds , but in just a few feet, the Earth quickly provides a stable, relatively warm microclimate that can be dozens of degrees warmer than the air temperature at the surface. During one winter in Wisconsin, it was -2֯ F (-18֯ C) at the surface; two inches below the soil, the temperature was measured at 27֯ F (-2.7֯ C).\n\nThe Earth produces this heat from its own internal dynamics: friction from the movement of its core, the decay of radioactive atoms, and residual heat from the planet’s formation. While deep inside the temperatures and pressures are enough to keep rock in a molten state, in shallow caves and burrows in the transition zone between the planet’s inner heat and the atmosphere’s relative coolness, the temperature averages a comfortable 55֯ F (12֯ C).\n\nManaging temperature is a big concern for people, too. Humankind devotes 40% of its total energy use to controlling the temperature of its buildings, for instance.\n\nFossil fuels are typically used to heat air or water from ambient surface temperatures to room temperature, in order for people to live and work comfortably indoors. Meanwhile, just a few feet away, an enormous, free thermal resource sits untapped.\n\nBut increasingly, underground denning species, resourceful by necessity, are inspiring people to use the subsurface’s ambient temperatures to do the work of heating air and water for us. Because they use subsurface ground heat to bring air and water up to that average 55֯ F (12֯ C) at all times of year, “ground-source heat pump” systems deliver 400% as much energy as they require to run, compared with fossil fuel heating systems, which always deliver less heat (<100%) than they burn. Estimates are that these heat pumps could meet 90% of global building heating needs, at a fraction of the energy consumption or greenhouse gas production.",
+  "mechanism": "Many ectotherms living in cold regions (including lizards, turtles, snakes, frogs, and salamanders) survive the wintertime by finding shelter underground. Not only are underground dens protected from the worst of winds , but in just a few feet, the Earth quickly provides a stable, relatively warm microclimate that can be dozens of degrees warmer than the air temperature at the surface. During one winter in Wisconsin, it was -2֯ F (-18֯ C) at the surface; two inches below the soil, the temperature was measured at 27֯ F (-2.7֯ C).\n\nThe Earth produces this heat from its own internal dynamics: friction from the movement of its core, the decay of radioactive atoms, and residual heat from the planet’s formation. While deep inside the temperatures and pressures are enough to keep rock in a molten state, in shallow caves and burrows in the transition zone between the planet’s inner heat and the atmosphere’s relative coolness, the temperature averages a comfortable 55֯ F (12֯ C).\n\nWherever winters occur, nearly every non-climbing, non-migrating species one sees during summer overwinters underground. Some, such as the Pacific rattlesnake, select overwintering dens whose depth increases with colder conditions. Rattlers will also select dens preferentially on south-facing slopes, which receive more sunlight than other slopes. Other species, such as the three-toed box turtle, actively dig their burrows deeper as surface temperatures get colder.\n\n\"[G]round-source heat pump systems deliver 400% as much energy as they require to run.\"\n\nManaging temperature is a big concern for people, too. Humankind devotes 40% of its total energy use to controlling the temperature of its buildings, for instance.\n\nFossil fuels are typically used to heat air or water from ambient surface temperatures to room temperature, in order for people to live and work comfortably indoors. Meanwhile, just a few feet away, an enormous, free thermal resource sits untapped.\n\nBut increasingly, underground denning species, resourceful by necessity, are inspiring people to use the subsurface’s ambient temperatures to do the work of heating air and water for us. Because they use subsurface ground heat to bring air and water up to that average 55֯ F (12֯ C) at all times of year, “ground-source heat pump” systems deliver 400% as much energy as they require to run, compared with fossil fuel heating systems, which always deliver less heat (<100%) than they burn. Estimates are that these heat pumps could meet 90% of global building heating needs, at a fraction of the energy consumption or greenhouse gas production.",
   "function_addressed": [
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/underground-dens-protect-from-cold/",
-  "source_tier": "science_journalism",
   "keywords": [
     "snakes",
     "tap",
@@ -20,7 +21,5 @@
     "keep",
     "warm"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

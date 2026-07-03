@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-tentacles-maintain-tension-as-flow-increases",
   "organism_common": "Marine polychaete worm",
-  "organism_scientific": "",
-  "strategy_summary": "The tentacles of a marine polychaete worm maintain tension as flow increases by extending through a combination of muscular and passive actions. “A marine polychaete worm, Eupolymnia heterobranchia , lives in a tube in a mud flat with its front end sticking out.",
-  "mechanism": "The tentacles of a marine polychaete worm maintain tension as flow increases by extending through a combination of muscular and passive actions.\n\n“A marine polychaete worm, Eupolymnia heterobranchia , lives in a tube in a mud flat with its front end sticking out. It stretches out its long, flexible, sticky, feeding tentacles crosswise to flow…like the main cables of an extension bridge but loaded by drag instead of gravity. According to Johnson (1993), extended straight from animal to anchor point, the tentacles could not withstand much drag. But by a combination of passive sagging and muscular activity, they extend ever farther as flow increases. Drag may increase with flow, but the tentacle-stretching tensile consequence of drag does not–tension in the tentacles remains almost constant over at least a sevenfold speed range.” (Vogel 2003:329)",
+  "strategy_summary": "The tentacles of a marine polychaete worm maintain tension as flow increases by extending through a combination of muscular and passive actions. “A marine polychaete worm, Eupolymnia heterobranchia, lives in a tube in a mud flat with its front end sticking out.",
+  "mechanism": "The tentacles of a marine polychaete worm maintain tension as flow increases by extending through a combination of muscular and passive actions.\n\n“A marine polychaete worm, Eupolymnia heterobranchia, lives in a tube in a mud flat with its front end sticking out. It stretches out its long, flexible, sticky, feeding tentacles crosswise to flow…like the main cables of an extension bridge but loaded by drag instead of gravity. According to Johnson (1993), extended straight from animal to anchor point, the tentacles could not withstand much drag. But by a combination of passive sagging and muscular activity, they extend ever farther as flow increases. Drag may increase with flow, but the tentacle-stretching tensile consequence of drag does not–tension in the tentacles remains almost constant over at least a sevenfold speed range.” (Vogel 2003:329)",
   "function_addressed": [
     "manage tension",
     "manage turbulence"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::tension",
+    "manage-structural-forces::turbulence"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/tentacles-maintain-tension-as-flow-increases/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tentacles",
     "maintain",
@@ -20,7 +22,5 @@
     "flow",
     "increases"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

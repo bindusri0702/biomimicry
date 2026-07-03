@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-eyes-allow-periscopic-vision",
   "organism_common": "Horned ghost crab",
-  "organism_scientific": "",
   "strategy_summary": "The eyes of ghost crabs allow 360? vision because they are positioned on mobile stalks.",
   "mechanism": "The eyes of ghost crabs allow 360? vision because they are positioned on mobile stalks.\n\n“Another arthropod method of achieving all-round vision is to have eyes on mobile stalks, like the ghost crab.” (Foy and Oxford Scientific Films 1982:124)",
   "function_addressed": [
     "modify position",
     "sense light (visible spectrum) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::position",
+    "sense-signals-environmental-cues::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/eyes-allow-periscopic-vision/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eyes",
     "allow",
     "periscopic",
     "vision"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-increased-surface-area-improves-gas-exchange",
   "organism_common": "Humans",
-  "organism_scientific": "",
   "strategy_summary": "Alveoli in lungs improve gas exchange by increasing the surface area of the lungs. “Our lungs are the functional interface between us and the atmosphere.",
   "mechanism": "Alveoli in lungs improve gas exchange by increasing the surface area of the lungs.\n\n“Our lungs are the functional interface between us and the atmosphere. The capacity of a pair of lungs is about 6 liters, but this modest volume, divided among three hundred million alveoli, is bounded by a surface of 50-100 square meters, about the floor area of a large classroom.” (Vogel 2003:47)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
   "function_addressed": [
     "distribute gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::gases"
+  ],
+  "subgroup_keys": [
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/increased-surface-area-improves-gas-exchange/",
-  "source_tier": "science_journalism",
   "keywords": [
     "increased",
     "surface",
@@ -20,7 +21,5 @@
     "gas",
     "exchange"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

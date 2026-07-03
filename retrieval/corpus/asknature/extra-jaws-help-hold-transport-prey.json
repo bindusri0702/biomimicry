@@ -1,17 +1,16 @@
 {
   "doc_id": "asn-extra-jaws-help-hold-transport-prey",
   "organism_common": "Reticulate moray",
-  "organism_scientific": "",
   "strategy_summary": "The mouth of moray eels grabs and swallows prey with the help of internal secondary jaws. “[T]he moray eel ( Muraena retifera ) overcomes reduced suction capacity by launching raptorial pharyngeal jaws out of its throat and into its oral cavity, where the jaws grasp the struggling prey animal and transport it back to…",
   "mechanism": "The mouth of moray eels grabs and swallows prey with the help of internal secondary jaws.\n\n“[T]he moray eel ( Muraena retifera ) overcomes reduced suction capacity by launching raptorial pharyngeal jaws out of its throat and into its oral cavity, where the jaws grasp the struggling prey animal and transport it back to the throat and into the oesophagus. This is the first described case of a vertebrate using a second set of jaws to both restrain and transport prey, and is the only alternative to the hydraulic prey transport reported in teleost fishes. The extreme mobility of the moray pharyngeal jaws is made possible by elongation of the muscles that control the jaws, coupled with reduction of adjacent gill-arch structures. The discovery that pharyngeal jaws can reach up from behind the skull to grasp prey in the oral jaws reveals a major innovation that may have contributed to the success of moray eels as apex predators hunting within the complex matrix of coral reefs.” (Mehta 2007:79)",
   "function_addressed": [
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/extra-jaws-help-hold-transport-prey/",
-  "source_tier": "science_journalism",
   "keywords": [
     "extra",
     "jaws",
@@ -19,7 +18,5 @@
     "transport",
     "prey"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

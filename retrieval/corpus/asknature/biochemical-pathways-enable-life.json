@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-biochemical-pathways-enable-life",
   "organism_common": "Syntrophus aciditrophicus",
-  "organism_scientific": "",
   "strategy_summary": "Through symbiosis, waste products from Syntrophus aciditrophicus are rapidly turned back into the organism's energy source in harsh, extremely resource-limited environments. Syntrophic communities contain two or more species (usually single-celled organisms) that are able to feed off each other’s waste products in a…",
   "mechanism": "Through symbiosis, waste products from Syntrophus aciditrophicus are rapidly turned back into the organism's energy source in harsh, extremely resource-limited environments.\n\nSyntrophic communities contain two or more species (usually single-celled organisms) that are able to feed off each other’s waste products in a relatively efficient cycle. Only a small external energy input is required to maintain the cycle continuously, though cellular reproduction is severely hindered. These communities exist where food and energy sources are extremely limited so some of the species involved have evolved unique biochemical pathways and relationships for their survival. In its oxygen-starved environment, Syntrophus aciditrophicus eats a variety of organic compounds including natural gas (methane) and excretes a carbon-based waste (formic acid) and hydrogen gas. Left on its own, this process would take energy from S. aciditrophicus but its syntrophic partner rapidly consumes these waste products producing more methane for S. aciditrophicus to consume. Overall, this syntrophic relationship produces energy for S. aciditrophicus.",
   "function_addressed": [
@@ -10,18 +9,22 @@
     "modify oxidation state",
     "modify electron transport"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-chemical-electrical-state::chemical-potential",
+    "modify-chemical-electrical-state::electron-transport",
+    "modify-chemical-electrical-state::oxidation-state",
+    "transform-convert-energy::chemically-generate-flow-of-electrons"
+  ],
+  "subgroup_keys": [
+    "modify-chemical-electrical-state",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/biochemical-pathways-enable-life/",
-  "source_tier": "science_journalism",
   "keywords": [
     "biochemical",
     "pathways",
     "enable",
     "life"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

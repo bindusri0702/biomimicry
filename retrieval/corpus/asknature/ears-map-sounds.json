@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-ears-map-sounds",
   "organism_common": "Owl",
-  "organism_scientific": "",
   "strategy_summary": "The ears of the owls can map sounds three-dimensionally because of their asymmetric placement. Owl focusing on something, head turned about 180degrees  Long Eared Owl - Strix Otus (Linn.) Otus vulgaris (Flem.), (aka ''<a href=http://commons.wikimedia.org/wiki/Asio_otus title=Asio otus>Asio otus</a>'') - lithograph…",
   "mechanism": "The ears of the owls can map sounds three-dimensionally because of their asymmetric placement.\n\nOwl focusing on something, head turned about 180degrees\n\nLong Eared Owl - Strix Otus (Linn.) Otus vulgaris (Flem.), (aka ''<a href=http://commons.wikimedia.org/wiki/Asio_otus title=Asio otus>Asio otus</a>'') - lithograph with hand coloring - 37.9 x 30.9 cm (image); 54.2 x 35 cm (sheet)\n\n“The ‘ears’ of this long-eared owl are not ears at all, but merely decorative feathers. The owl relies mainly on its hearing when hunting. Its ears are placed asymmetrically on either side of its head, and the sounds received by them are interpreted to give a very accurate three-dimensional sound map of its surroundings.” (Foy and Oxford Scientific Films 1982:165)\n\n“Barn owls are better at tracking sounds that move horizontally than those that move vertically, researchers have found…The work, published in PLoS ONE1, relies on a phenomenon noted by Ivan Pavlov, of salivating dog fame, in the 1920s. Pavlov saw that animals respond to stimuli such as sudden movements or novel noises with a set of automatic responses, including muscle tensing and pupil dilation.\n\n“Avinash Bala, a neurologist at the University of Oregon in Eugene, and his colleagues have used this response to monitor when barn owls ( Tyto alba ) recognize a new sound.\n\n“The researchers played the owls sounds whose positions differed either horizontally or vertically, and measured the birds’ pupil dilation using a beam of infrared light bounced off the cornea.\n\n“Owls were about twice as sensitive to horizontal shifts compared with vertical changes. The birds could detect a change in location as small as 3º when the source was moved horizontally, compared with 7.5º when the source was moved vertically…The researchers also mapped which neurons in the auditory centre of the owls’ brains fired in response to the sounds.\n\n“The activity pattern of the neurons matched the location of the sound, the team found. Sounds from above, for example, cause neurons towards the top of the auditory centre to fire, whereas sounds from lower down trigger neurons towards the bottom. ‘The owls basically have a topographic map of space in their brain,’ says Bala.” (Ledford 2007)",
   "function_addressed": [
     "sense sound and other vibrations from the environment",
     "transduce/convert signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "process-signals::transduce-convert-signals",
+    "sense-signals-environmental-cues::sound-and-other-vibrations"
+  ],
+  "subgroup_keys": [
+    "process-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/ears-map-sounds/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ears",
     "map",
     "sounds"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

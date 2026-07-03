@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-fungus-turns-cicadas-into-salt-shakers-of-death",
   "organism_common": "Cicadas",
-  "organism_scientific": "",
   "strategy_summary": "It sounds like a sensational ad for a horror movie, but a parasitic fungus transforms cicadas into drugged, sex-crazed zombies. The fungus, Massospora cicadina , infects cicadas with chemicals that dramatically alter the cicadas’ normal mating behavior before killing them in gruesome fashion.",
   "mechanism": "Like all living things, fungi have a biological imperative to reproduce and disperse their progeny. But their ability to move around is limited. So they exploit more mobile species.\n\nMassospora cicadina has evolved a complex means to take advantage of cicadas. The fungus lies dormant in soil for up to 13 and 17 years, when periodic cicadas emerge from the ground. As the insects burrow up, they pick up fungal spores on the way.\n\nThe fungus secretes chemicals into the cicadas. One is a stimulant that appears to rev up their sex drive. Another is psilocybin, a compound also found in hallucinogenic mushrooms. The chemicals take control of the cicadas’ behavior, causing them to do things that benefit the fungus, but not the cicadas.\n\nNormally, male cicadas buzz loudly to attract mates, and females flick their wings to signal they are ready to mate. But male cicadas infected with the fungus do both. They lure in not only females but other males too, so both sexes come into close contact and get infected. The infected males fly off to spread the fungus to even more of their species.\n\nWhite fungal spores proliferate in the cicadas’ abdomens, filling them up until they burst open and fall off—a phenomenon observed by the scientist Benjamin Banneker in the 1700s. But losing a large part of their bodies, including their genitalia, doesn’t slow down the cicadas’ urge to mate—turning the cicadas into what scientists describe as “salt shakers of death.” The spores are dispersed widely, either onto other cicadas or into the soil, awaiting the cicadas’ next emergence.\n\nFungi have been the source of many useful medicines and industrial enzymes. The discovery of fungal chemicals that can radically change animal behavior could lead to similar breakthroughs—especially because the same chemicals that affect cicadas also affect humans. In people, they are known as psychoactive, or mind-altering, compounds. Understanding the biochemical machinery that makes them work could result in drugs and treatments that either bolster or inhibit their impact. It inspires new searches for other behavior-modifying chemicals, and new research into the mechanisms of other infectious diseases that change animals’ behavior, such as rabies.\n\nUnderstanding the role that these chemicals play among interdependent species within ecosystems can also help us better manage populations, keeping them in balance. They could even serve as more natural pesticides that would prevent pests from infecting crops without using chemicals that are harmful to humans or the environment. And on a larger scale, it offers insights on how changing behaviors, ranging in species from cicadas to people, affect the spread of infections, so that we can implement better early warning systems for more effective disease control and prevention.",
   "function_addressed": [
@@ -9,11 +8,16 @@
     "disperse seeds",
     "biological control of populations, pests, diseases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::biological-control-of-populations-pests-diseases",
+    "provide-ecosystem-services::disperse-seeds",
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/fungus-turns-cicadas-into-salt-shakers-of-death/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fungus",
     "turns",
@@ -22,7 +26,5 @@
     "shakers",
     "death"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

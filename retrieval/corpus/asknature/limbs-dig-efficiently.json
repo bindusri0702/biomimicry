@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-limbs-dig-efficiently",
   "organism_common": "Move in/on Solids",
-  "organism_scientific": "",
   "strategy_summary": "Echigo moles and other digging animals break the soil surface and move as much earth as possible per stroke with short, powerful limbs and sharp claws. An aardvark's claws and feet exhibit the cross-species characteristics of efficient diggers.",
   "mechanism": "Echigo moles and other digging animals break the soil surface and move as much earth as possible per stroke with short, powerful limbs and sharp claws.\n\nAn aardvark's claws and feet exhibit the cross-species characteristics of efficient diggers.\n\nWhile some animals treat digging only superficially––scratching the surface of the ground for access to food––others, like moles, take it much deeper––with digging being their main form of locomotion as they spend much of their lives tunneling through the rich soil.\n\n“Quite different in character are the feet of the diggers, animals that habitually burrow into the earth. The friction drag of moving through the ground is potentially enormous, so the size of the limbs and the area through which they move must be kept to an absolute minimum; but at the same time, great strength is needed. The limbs of animals that lead an almost completely subterranean life, like the mole, are short and thick, and their feet are broad and powerful. Each short stroke of a foot must move as much earth as possible, and the mole’s feet are spade-like with widely spaced digits. In addition, the claws of digging animals are usually large, sharp and strong, to do the work of a pickaxe in breaking the soil surface. The aardvark of South Africa (its Afrikaans name, ‘earth-pig’, refers to its rather pig-like head) is a curious animal that digs for food in termite’s nests. Its feet are short and massive with large, almost hoof-like claws on each toe. It is said that one aardvark can dig a hole faster than six men with shovels. Not only does it dig into termite nests to eat the insects, the aardvark digs burrows 4m or more in length in which to hide during the day.\n\nThe armadillos of Central and South America are also powerful diggers, able to conceal themselves at amazing speed; they too have short, strong legs with daunting claws. The feet of the giant anteater, another excavator of ant and termite nests, are not massive as those of the aardvark. They are long and curved — so much so that the anteater is forced to walk on the sides of its feet with an ungainly bow-legged gait. The anteater is a scratch-digger, not a maker of burrows, so its claws do not need to be as large.” (Foy and Oxford Scientific Films 1982:179-180)",
   "function_addressed": [
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/limbs-dig-efficiently/",
-  "source_tier": "science_journalism",
   "keywords": [
     "limbs",
     "dig",
     "efficiently"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

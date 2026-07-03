@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-transport-tubes-plugged-when-damaged",
   "organism_common": "Fava bean",
-  "organism_scientific": "",
   "strategy_summary": "Nutrient transport tubes in fava beans and other legumes are plugged quickly when damaged via shape-changing mechano-proteins called forisomes. “Sieve tubes in legumes contain forisomes, which are spindle-like bodies that are composed of ATP-independent, mechanically active proteins.",
   "mechanism": "Nutrient transport tubes in fava beans and other legumes are plugged quickly when damaged via shape-changing mechano-proteins called forisomes.\n\n“Sieve tubes in legumes contain forisomes, which are spindle-like bodies that are composed of ATP-independent, mechanically active proteins. Upon injury, forisomes occlude sieve tubes by dispersion and thus, help to prevent loss of nutrient-rich transport sap. Forisome enlargement by dispersion is brought about by Ca2+-induced conformational changes that confer radial expansion and longitudinal contraction. Forisomes recontract upon Ca2+ removal. In vitro, forisomes reversibly disperse and contract in the presence or absence of Ca2+, respectively, and at distinct pHs. Recently, forisomes have received renewed attention because of their unique capacity to convert chemical into mechanical energy independent of high-energy organic compounds. Forisome-based ‘smart’ materials can be used to produce self-powered monitoring and diagnostic systems.” (Tuteja et al. 2010:102)\n\nhttp://jxb.oxfordjournals.org/cgi/content/abstract/57/12/3091 http://www.pnas.org/content/104/25/10536 http://www.ncbi.nlm.nih.gov/pubmed/20004992",
   "function_addressed": [
@@ -9,11 +8,17 @@
     "manage shear",
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::shear",
+    "protect-from-non-living-threats::loss-of-liquids",
+    "transform-convert-energy::mechanical-energy"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "protect-from-non-living-threats",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/transport-tubes-plugged-when-damaged/",
-  "source_tier": "science_journalism",
   "keywords": [
     "transport",
     "tubes",
@@ -21,7 +26,5 @@
     "when",
     "damaged"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

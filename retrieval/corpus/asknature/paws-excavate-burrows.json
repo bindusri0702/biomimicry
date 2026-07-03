@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-paws-excavate-burrows",
   "organism_common": "Pocket gopher",
-  "organism_scientific": "",
   "strategy_summary": "The front paws of pocket gophers are used to excavate burrows because they are large and powerful, with curved claws. “A pocket gopher tunnels through the soil in search of roots and bulbs to eat.",
   "mechanism": "The front paws of pocket gophers are used to excavate burrows because they are large and powerful, with curved claws.\n\n“A pocket gopher tunnels through the soil in search of roots and bulbs to eat. Note the huge front paws and powerful fingers ending in strong curved claws for digging. A small animal, it can excavate burrows hundreds of metres long.” (Foy and Oxford Scientific Films 1982:178)",
   "function_addressed": [
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/paws-excavate-burrows/",
-  "source_tier": "science_journalism",
   "keywords": [
     "paws",
     "excavate",
     "burrows"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

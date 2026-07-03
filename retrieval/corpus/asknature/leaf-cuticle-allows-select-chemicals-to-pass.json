@@ -1,17 +1,16 @@
 {
   "doc_id": "asn-leaf-cuticle-allows-select-chemicals-to-pass",
   "organism_common": "Common ivy",
-  "organism_scientific": "",
   "strategy_summary": "The cuticle on the surface of leaves create a smart barrier by having selective permeability to both hydrophobic and hydrophillic molecules. One might assume the wax coating on the upper surface of plant leaves serves as a simple barrier to keep leaves from losing water during dry conditions and from becoming…",
-  "mechanism": "The cuticle on the surface of leaves create a smart barrier by having selective permeability to both hydrophobic and hydrophillic molecules.\n\nOne might assume the wax coating on the upper surface of plant leaves serves as a simple barrier to keep leaves from losing water during dry conditions and from becoming waterlogged during wet conditions. But nature rarely makes single-function materials and these cuticular coatings are no exception.\n\nHow a leaf cuticle selectively allows chemical entities to pass. a: water, hydrated calcium and other ions b: carbohydrates and other hydrophillic compounds, and c: hydrophobic compounds.\n\nWhile the main function of the cuticular coating is to protect leaves from gaining or losing too much water, it is also a smart membrane, allowing two-way transport of select molecules. While made up predominantly of water-proof waxes, the coating contains about one-fifth hydrophilic compounds such as cellulose . Microfibrils of cellulose or other carbohydrates are thought to form tortuous, branched pathways through the cuticular coating that allow limited transport of water and small water-soluble constituents, such as mineral salts, to and from leaf tissues when a droplet of water sits on the leaf surface. Molecular-scale imperfections or cracks form across the cuticular coating that can fill with water allowing water and water-soluble compounds to pass based on size, shape, electrical charge, and other physical/chemical attributes. Diffusion of fat-soluble compounds across the membrane occurs through molecular-size holes that form temporarily by the movement of cuticular wax and cutin molecules.\n\nApeel Sciences\n\nApeel from Apeel Sciences is an edible coating for fresh fruits and vegetables that helps them last longer by slowing the ripening process.",
+  "mechanism": "The cuticle on the surface of leaves create a smart barrier by having selective permeability to both hydrophobic and hydrophillic molecules.\n\nOne might assume the wax coating on the upper surface of plant leaves serves as a simple barrier to keep leaves from losing water during dry conditions and from becoming waterlogged during wet conditions. But nature rarely makes single-function materials and these cuticular coatings are no exception.\n\nHow a leaf cuticle selectively allows chemical entities to pass. a: water, hydrated calcium and other ions b: carbohydrates and other hydrophillic compounds, and c: hydrophobic compounds.\n\nWhile the main function of the cuticular coating is to protect leaves from gaining or losing too much water, it is also a smart membrane, allowing two-way transport of select molecules. While made up predominantly of water-proof waxes, the coating contains about one-fifth hydrophilic compounds such as cellulose. Microfibrils of cellulose or other carbohydrates are thought to form tortuous, branched pathways through the cuticular coating that allow limited transport of water and small water-soluble constituents, such as mineral salts, to and from leaf tissues when a droplet of water sits on the leaf surface. Molecular-scale imperfections or cracks form across the cuticular coating that can fill with water allowing water and water-soluble compounds to pass based on size, shape, electrical charge, and other physical/chemical attributes. Diffusion of fat-soluble compounds across the membrane occurs through molecular-size holes that form temporarily by the movement of cuticular wax and cutin molecules.\n\nApeel Sciences\n\nApeel from Apeel Sciences is an edible coating for fresh fruits and vegetables that helps them last longer by slowing the ripening process.",
   "function_addressed": [
     "capture, absorb, or filter chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/leaf-cuticle-allows-select-chemicals-to-pass/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaf",
     "cuticle",
@@ -20,7 +19,5 @@
     "chemicals",
     "pass"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

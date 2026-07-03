@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-transport-system-prevents-spread-of-embolisms",
   "organism_common": "Distribute Liquids",
-  "organism_scientific": "",
   "strategy_summary": "The tracheids in conifers prevent the spread of an embolism using fail-safe valves in their pit membranes. “The tracheids in conifers have a specialised arrangement of fail-safe valves in the thin-walled pit areas.",
   "mechanism": "The tracheids in conifers prevent the spread of an embolism using fail-safe valves in their pit membranes.\n\n“The tracheids in conifers have a specialised arrangement of fail-safe valves in the thin-walled pit areas. The pit pairs themselves are more or less circular in surface view. The cell wall bulges out on either side of the thin membrane between the cells (a laminate — cell wall, middle lamella, cell wall). The aperture in the out-bulging part of the wall is narrower than the diameter of the central membrane. The central membrane has an annular rim which is not thickened, but the centre of the membrane has a thickenened area. This gives a bordered appearance to the pit pair (Fig. 4).\n\n“If there is a failure of the water column in a tracheid, the thickened portion of the pit membrane moves across under the differential pressure, blocking the pit aperture, and helping prevent the spread of an embolism.” (Cutler 2005:100)",
   "function_addressed": [
@@ -10,11 +9,19 @@
     "protect from loss of liquids",
     "prevent fracture/rupture"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::liquids",
+    "prevent-structural-failure::fracture-rupture",
+    "protect-from-non-living-threats::loss-of-liquids",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "prevent-structural-failure",
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/transport-system-prevents-spread-of-embolisms/",
-  "source_tier": "science_journalism",
   "keywords": [
     "transport",
     "system",
@@ -22,7 +29,5 @@
     "spread",
     "embolisms"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

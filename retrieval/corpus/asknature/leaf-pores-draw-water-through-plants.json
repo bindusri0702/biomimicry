@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-leaf-pores-draw-water-through-plants",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "Pores in leaves allow water to escape as vapor, drawing more water up through the plant from the roots. Forest trees play a major role in influencing the flow of water resources.",
-  "mechanism": "Pores in leaves allow water to escape as vapor, drawing more water up through the plant from the roots.\n\nForest trees play a major role in influencing the flow of water resources. Trees, like most plants, undergo a process called transpiration. This is where water taken up from the roots moves through the plant to be utilized for photosynthesis in the leaves. The water is then released from the leaves into the air as water vapor.\n\nThis process has not only an effect on trees as individuals, but when compounded across an entire forest, it has an impact on the water retention of the ecosystem as a whole.\n\nIn forests with a large amount of trees, the effects of this process are readily seen in the changes in streamflow and soil water. For example, harvesting or cutting down forests substantially increases streamflow because fewer trees are able to draw up and cycle the water back into the atmosphere.\n\nForests with different types of trees vary in their capacity for water interception and transpiration. Deciduous trees are species that shed their leaves when conditions are unfavorable (such as too cold, not enough water, etc.). Since the transpiration process occurs through the trees’ leaves, deciduous trees transpire much less during their dormant seasons. This means that deciduous trees such as oak, maple, and hickory allow more rain to seep into the soil (rather than into roots and through the leaves into the air) and eventually flow downstream. In contrast, evergreen trees (like pines) retain their leaves year-round, and have been shown to have higher annual evapotranspiration (combining transpiration through plants and evaporation from the soil) and therefore reduce streamflows.\n\nDeciduous trees play an important role in ecosystem maintenance by seasonally generating higher water yields. This increase in soil water and streamflow provides a valuable resource to the community. The higher flow can help fill storage reservoirs and mitigate water shortages during drought seasons. Thus, in municipal watersheds and other areas where water resources are of concern, it is important to consider the effects of forest conversion. If forests are converted from deciduous trees to evergreen trees, then local communities will surely see some form of water yield reduction.\n\nA version of this summary was originally contributed by Leon Wang.\n\nPores in leaves release water vapor, drawing water throughout a plant from the roots up.\n\nchange:WATER Labs\n\niThrone from change:WATER Labs uses evaporation to dispose of human waste without using energy or plumbing.",
+  "mechanism": "Pores in leaves allow water to escape as vapor, drawing more water up through the plant from the roots.\n\nForest trees play a major role in influencing the flow of water resources. Trees, like most plants, undergo a process called transpiration. This is where water taken up from the roots moves through the plant to be utilized for photosynthesis in the leaves. The water is then released from the leaves into the air as water vapor.\n\nThis process has not only an effect on trees as individuals, but when compounded across an entire forest, it has an impact on the water retention of the ecosystem as a whole.\n\nIn forests with a large amount of trees, the effects of this process are readily seen in the changes in streamflow and soil water. For example, harvesting or cutting down forests substantially increases streamflow because fewer trees are able to draw up and cycle the water back into the atmosphere.\n\nForests with different types of trees vary in their capacity for water interception and transpiration. Deciduous trees are species that shed their leaves when conditions are unfavorable (such as too cold, not enough water, etc.). Since the transpiration process occurs through the trees’ leaves, deciduous trees transpire much less during their dormant seasons. This means that deciduous trees such as oak, maple, and hickory allow more rain to seep into the soil (rather than into roots and through the leaves into the air) and eventually flow downstream. In contrast, evergreen trees (like pines) retain their leaves year-round, and have been shown to have higher annual evapotranspiration (combining transpiration through plants and evaporation from the soil) and therefore reduce streamflows.\n\nDeciduous trees play an important role in ecosystem maintenance by seasonally generating higher water yields. This increase in soil water and streamflow provides a valuable resource to the community. The higher flow can help fill storage reservoirs and mitigate water shortages during drought seasons. Thus, in municipal watersheds and other areas where water resources are of concern, it is important to consider the effects of forest conversion. If forests are converted from deciduous trees to evergreen trees, then local communities will surely see some form of water yield reduction.\n\nPores in leaves release water vapor, drawing water throughout a plant from the roots up.\n\nchange:WATER Labs\n\niThrone from change:WATER Labs uses evaporation to dispose of human waste without using energy or plumbing.",
   "function_addressed": [
     "regulate hydrological flows",
     "regulate water storage"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::regulate-hydrological-flows",
+    "provide-ecosystem-services::regulate-water-storage"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/leaf-pores-draw-water-through-plants/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaf",
     "pores",
@@ -21,7 +23,5 @@
     "through",
     "plants"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

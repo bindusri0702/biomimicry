@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-cell-metabolism-produces-heat",
   "organism_common": "Mammals",
-  "organism_scientific": "",
   "strategy_summary": "Cells within brown adipose tissues of mammals and birds produce heat by uncoupling of mitochondrial respiration. Bison in a snowstorm shows a mammals natural defenses against extreme cold.",
   "mechanism": "Cells within brown adipose tissues of mammals and birds produce heat by uncoupling of mitochondrial respiration.\n\nBison in a snowstorm shows a mammals natural defenses against extreme cold.\n\n“Mammals and birds are endotherms and respond to cold exposure by the means of regulatory thermogenesis, either shivering or non-shivering. In this latter case, waste of cell energy as heat can be achieved by uncoupling of mitochondrial respiration. Uncoupling proteins [UCPs], which belong to the mitochondrial carrier family, are able to transport protons and thus may assume a thermogenic function. The mammalian UCP1 physiological function is now well understood and gives to the brown adipose tissue the capacity for heat generation. But is it really the case for its more recently discovered isoforms UCP2 and UCP3? Additionally, whereas more and more evidence suggests that non-shivering also exists in birds, is the avian UCP also involved in response to cold exposure? In this review, we consider the latest advances in the field of UCP biology and present putative functions for UCP1 homologues.” (Mozo et al. 2005:227)",
   "function_addressed": [
     "transform thermal energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "transform-convert-energy::thermal-energy"
+  ],
+  "subgroup_keys": [
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/cell-metabolism-produces-heat/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cell",
     "metabolism",
     "produces",
     "heat"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

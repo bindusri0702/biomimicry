@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-hot-spots-cool-and-heat",
   "organism_common": "Brazilian free-tailed bat",
-  "organism_scientific": "",
   "strategy_summary": "The flanks of Brazilian free-tailed bats aid thermoregulation due to a unique arrangement of arteries and veins creating thermal windows. Infrared thermal image revealing radiators on n emerging Brazilian free-tailed bat.",
   "mechanism": "The flanks of Brazilian free-tailed bats aid thermoregulation due to a unique arrangement of arteries and veins creating thermal windows.\n\nInfrared thermal image revealing radiators on n emerging Brazilian free-tailed bat. Provided by Jonathan Reichard for use on AskNature.\n\nBacklit wing of a Brazilian free-tailed bat. Photo provided by Jonathan Reichard for use on AskNature.\n\nVasculature of thermal hotspots on an adult female Brazilian free-tailed bat. Photo provided by Jonathan Reichard for use on AskNature.\n\nDaylight emergence of Brazilian free-tailed bats a Frio Cave near Concan, Texas\n\nInfrared thermal image of an emerging Brazilian free-tailed bat. Photo provided by Jonathan Reichard for use on AskNature.\n\n“The Brazilian free-tailed bat (Tadarida brasiliensis) experiences challenging thermal conditions while roosting in hot caves, flying during warm daylight conditions, and foraging at cool high altitudes. Using thermal infrared cameras, we identified hot spots along the flanks of free-ranging Brazilian free-tailed bats, ventral to the extended wings. These hot spots are absent in syntopic cave myotis (Myotis velifer), a species that forages over relatively short distances, and does not engage in long-distance migration. We hypothesized that the hot spots, or ‘radiators,’ on Brazilian free-tailed bats may be adaptations for migration, particularly in this long-distance, high-flying species. We examined the vasculature of radiators on Brazilian free-tailed bats with transillumination to characterize the unique arrangements of arteries and veins that are positioned perpendicular to the body in the proximal region of the wing. We hypothesized that these radiators aid in maintaining heat balance by flushing the uninsulated thermal window with warm blood, thereby dissipating heat while bats are flying under warm conditions, but shunting blood away and conserving heat when they are flying in cooler air at high altitudes. We also examined fluid-preserved specimens representing 122 species from 15 of 18 chiropteran families and radiators appeared present only in species in the family Molossidae, including both sedentary and migratory species and subspecies. Thus, the radiator appears to be a unique trait that may facilitate energy balance and water balance during sustained dispersal, foraging, and long-distance migration.” (Reichard et al. 2010:358)",
   "function_addressed": [
     "maintain homeostasis",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/hot-spots-cool-and-heat/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hot",
     "spots",
     "cool",
     "heat"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

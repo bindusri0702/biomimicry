@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-eating-leaves-to-control-reproduction",
   "organism_common": "Chimpanzee",
-  "organism_scientific": "",
   "strategy_summary": "Chimpanzees may induce abortions by eating leaves from certain Ziziphus and Combretum plant species. “Dr.",
   "mechanism": "Chimpanzees may induce abortions by eating leaves from certain Ziziphus and Combretum plant species.\n\n“Dr. Joan Garey from New York’s Mount Sinai School of Medicine has also observed these chimps eating leaves from certain Ziziphus (jujub) and Combretum species, which are used by the local women to induce abortions. Consequently, in a paper presented at the annual meeting of the American Society of Primatologists in 1997, Garey speculated that the chimps may use these plants deliberately for the same purpose, as a means of reducing the size of the local chimp population if it has become too large.” (Shuker 2001:214)",
   "function_addressed": [
     "regulate reproduction or growth"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/eating-leaves-to-control-reproduction/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eating",
     "leaves",
     "control",
     "reproduction"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

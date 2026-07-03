@@ -1,19 +1,24 @@
 {
   "doc_id": "asn-body-pores-open-and-close-to-push-breath-through-cockroaches",
   "organism_common": "Madagascar hissing cockroach",
-  "organism_scientific": "",
   "strategy_summary": "The Madagascar hissing cockroach ( Gromphadorhina portentosa ) is a large and active insect. During periods of activity, its relatively fast metabolism means that its tissues use a lot of oxygen and produce a lot of carbon dioxide.",
-  "mechanism": "In all insects, the respiratory system consists of a network of branching tubes, called tracheae, that develop from inward folds of the insect’s exoskeleton. These tubes connect an insect’s internal, metabolizing tissues to the outside air via pores, called spiracles, that line both sides of the insect’s thorax (mid-section) and abdomen (rear section). Muscle-controlled valves enable the pores to open and close.\n\nIn the hissing cockroach, thoracic and abdominal pores appear to open and close at different times to help create a mostly one-way flow of air through the respiratory system from front to back. This is in contrast to the two-way airflow that mammalian lungs create, where air enters and exits through the same tubes.\n\nStudying the unidirectional respiratory systems of hissing cockroaches could lead to more efficient ventilation and air filtration designs. Designs for medical equipment such as face masks, oxygen concentrating machines, and breathe-assist devices might also improve by emulating the coordinated pushing and pulling of air through cockroach body pores.",
+  "mechanism": "In all insects, the respiratory system consists of a network of branching tubes, called tracheae, that develop from inward folds of the insect’s exoskeleton. These tubes connect an insect’s internal, metabolizing tissues to the outside air via pores, called spiracles, that line both sides of the insect’s thorax (mid-section) and abdomen (rear section). Muscle-controlled valves enable the pores to open and close.\n\nIn the hissing cockroach, thoracic and abdominal pores appear to open and close at different times to help create a mostly one-way flow of air through the respiratory system from front to back. This is in contrast to the two-way airflow that mammalian lungs create, where air enters and exits through the same tubes.\n\nFor the hissing cockroach to breathe in, the abdominal pores close and the abdomen expands, which sucks oxygen-rich air in through the open thoracic pores. This air then travels through respiratory tubes and reaches the cockroach’s tissues. Oxygen is taken up, while carbon dioxide is released.\n\nTo breathe out and remove the carbon dioxide, the abdominal pores open and the abdomen contracts, which forces the spent air out of the abdominal pores. Abdominal contraction is actively powered by muscles, while expansion is a passive result of the abdomen relaxing and returning to its resting shape.\n\nConstricting tubes between the abdomen and thorax can help prevent backflow during contraction. This coordinated system of valves and pumps in the cockroach creates a cyclic, unidirectional airflow into the thoracic pores and out of the abdominal pores. In general, unidirectional airflow enables more efficient gas exchange because fresh air and spent air don’t mix together in the respiratory spaces.\n\nStudying the unidirectional respiratory systems of hissing cockroaches could lead to more efficient ventilation and air filtration designs. Designs for medical equipment such as face masks, oxygen concentrating machines, and breathe-assist devices might also improve by emulating the coordinated pushing and pulling of air through cockroach body pores.",
   "function_addressed": [
     "expel gases",
     "distribute gases",
     "capture, absorb, or filter gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::gases",
+    "distribute::gases",
+    "expel::gases"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "distribute",
+    "expel"
+  ],
   "source_url": "https://asknature.org/strategy/body-pores-open-and-close-to-push-breath-through-cockroaches/",
-  "source_tier": "science_journalism",
   "keywords": [
     "body",
     "pores",
@@ -22,7 +27,5 @@
     "push",
     "breath"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

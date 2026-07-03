@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-tissues-are-strong-and-resilient",
   "organism_common": "Animals",
-  "organism_scientific": "",
   "strategy_summary": "Tissues in human organ systems are strong and resilient partly due to the presense of fibulins, a family of proteins that leverage calcium binding to form strong fibers in connective tissue composites. One of the key factors in the evolution of multicellular organisms is the \"glue\" that hold cells together to form…",
   "mechanism": "Tissues in human organ systems are strong and resilient partly due to the presense of fibulins, a family of proteins that leverage calcium binding to form strong fibers in connective tissue composites.\n\nOne of the key factors in the evolution of multicellular organisms is the \"glue\" that hold cells together to form functional tissues. This connective material needs to be strong enough to withstand the constant activity required of many organ systems, yet flexible enough to bounce back from common trauma. A set of protein s, called fibulins, appear to be key components of this connective composite material, particularly because of their ability to bind calcium ions. Calcium ion bonding contributes to strong protein fibers–the reinforcement constituents of these composites.",
   "function_addressed": [
     "modify material characteristics"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::material-characteristics"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/tissues-are-strong-and-resilient/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tissues",
     "strong",
     "resilient"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

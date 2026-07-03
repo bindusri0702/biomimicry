@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-leaves-resist-gravitational-loading",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "The broad leaf of a tree resists gravitational loading through its internal anisotropic structure: liquid-filled cells along the bottom resist compression, and, along the top, long cells with lengthwise fibers resist tension. “Consider a broad leaf on a tree.",
   "mechanism": "The broad leaf of a tree resists gravitational loading through its internal anisotropic structure: liquid-filled cells along the bottom resist compression, and, along the top, long cells with lengthwise fibers resist tension.\n\n“Consider a broad leaf on a tree. The greatest forces on its petiole (‘stem’) and midrib probably occur as it’s pulled by the drag of the blade in a wind storm, but these forces are tensile and thus easy to resist. Without wind, it’s a beam faced with the task of keeping its blade in a position to intercept sunlight, which, on the average, comes from above. So its design, as in figure 18.8, ought to reflect gravitational loading. Which it does, but more by using internal material anisotropy than externally obvious cross-sectional specialization. It uses thick-walled, liquid-filled cells along its bottom, which resist compression well, and long cells with lengthwise fibers along the top, which act as ropy tension resistors. The petiole and midrib are as truly cantilevers as any protruding I-beam, but internal structure–anisotropy at various levels–matters at least as much as overall cross section in efficiently dealing with gravity. And the rest of the leaf blade, an extension of the cantilever, faces much the same mechanical situation. Veins protrude downward to get some height to the beam and to continue the compression-resisting material of petiole and midrib. The blade is always at the top–a flat sheet can take tension, but it’s almost as bad in compression as a rope.” (Vogel 2003:375-376)",
   "function_addressed": [
@@ -11,18 +10,25 @@
     "manage tension",
     "protect from wind"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::tension",
+    "modify-physical-state::position",
+    "physically-assemble::structure",
+    "protect-from-non-living-threats::wind"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "modify-physical-state",
+    "physically-assemble",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/leaves-resist-gravitational-loading/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaves",
     "resist",
     "gravitational",
     "loading"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,19 +1,22 @@
 {
   "doc_id": "asn-flexible-stalk-adjusts-to-flow-forces",
   "organism_common": "Sea squirt",
-  "organism_scientific": "",
   "strategy_summary": "The stalk of Styela sea squirts adjusts to changing flow forces for efficient filter feeding due to its flexible structure. “An equivalent scheme serves the same function in at least one tunicate or ascidian (fig.",
-  "mechanism": "The stalk of Styela sea squirts adjusts to changing flow forces for efficient filter feeding due to its flexible structure.\n\n“An equivalent scheme serves the same function in at least one tunicate or ascidian (fig. 7.3b), a sessile marine animal about as distantly related to a caddisfly as are we. These ‘sea squirts’ have the relevant plumbing inside themselves rather than in some external domicile, but the fundamental problem of suspension feeding remains – how to move water through a separation device in such a way that the yield from food exceeds the cost of moving the water. The particular ascidian, Styela , takes advantage of local water motion to pass water through itself, but to do so it must contend with the rapidly changing direction of coastal wave surge. It has, though, quite a flexible stalk, and it manages to reorient like a weather vane so the input opening always confronts the flow (Young and Braithwaite 1980)” (Vogel 2003:146)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
+  "mechanism": "The stalk of Styela sea squirts adjusts to changing flow forces for efficient filter feeding due to its flexible structure.\n\n“An equivalent scheme serves the same function in at least one tunicate or ascidian (fig. 7.3b), a sessile marine animal about as distantly related to a caddisfly as are we. These ‘sea squirts’ have the relevant plumbing inside themselves rather than in some external domicile, but the fundamental problem of suspension feeding remains – how to move water through a separation device in such a way that the yield from food exceeds the cost of moving the water. The particular ascidian, Styela, takes advantage of local water motion to pass water through itself, but to do so it must contend with the rapidly changing direction of coastal wave surge. It has, though, quite a flexible stalk, and it manages to reorient like a weather vane so the input opening always confronts the flow (Young and Braithwaite 1980)” (Vogel 2003:146)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
   "function_addressed": [
     "capture, absorb, or filter organisms",
     "capture, absorb, or filter liquids",
     "modify position"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids",
+    "modify-physical-state::position"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/flexible-stalk-adjusts-to-flow-forces/",
-  "source_tier": "science_journalism",
   "keywords": [
     "flexible",
     "stalk",
@@ -21,7 +24,5 @@
     "flow",
     "forces"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

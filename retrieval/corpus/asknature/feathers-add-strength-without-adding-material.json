@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-feathers-add-strength-without-adding-material",
   "organism_common": "Birds",
-  "organism_scientific": "",
   "strategy_summary": "While a brief glance at the human-built world will reveal 90-degree corners galore (books, bed mattresses, desks, doorways, bricks, the computer you’re reading this on, etc.), a similar glance at the rest of nature yields much fewer such corners. People might even begin to assume square corners are not found in the…",
-  "mechanism": "Flight feathers experience strong bending forces as a bird pulls its wing up and down against the air. The rigidity of the feather to those bending forces is largely determined by the amount of material in its rachis, or midrib.\n\nMade of keratin, feathers grow much like human hair, emerging from a follicle in the skin. A circular cross section at this point of contact avoids an uneven build-up of pressure against the bird’s skin. Flexible circular tube shapes (such as plastic drinking straws) easily buckle under strain though. So for the feather to withstand use in flight, it needs to be made stronger. One solution might be to simply add more material, turning the “drinking straw” into a “lead pipe”. But because feathers grow from the base (not the tip), birds can’t simply add material along the midrib. That’s why they change the midrib’s shape instead.\n\nAs the tip of the feature grows outward from the follicle, the keratin reshapes itself from having a circular cross section to having a square cross section. This adds sturdiness because the square shape puts more material in the direction that bending would occur (in this case, up and down). Similarly, in a building or bridge, an I-beam achieves greater rigidity without increasing material by placing more of its material above and below the center line of the beam.\n\nOver time, members with circular cross-sections can become ovalized under dynamic loading, making them increasingly vulnerable to buckling and other problems. Birds present a time-tested model for designing such elements to effectively resist loads, with a minimum of material, using practicable processes.\n\nSee Related Strategy\n\nSeahorse\n\nThe square tail of the seahorse helps give it extra grip when hunting for prey.\n\nCircular-to-square beams, anchored at only one end have many technological applications. They’re increasingly being used by humans, for example in winged robots and energy-harvesting technologies.",
+  "mechanism": "Flight feathers experience strong bending forces as a bird pulls its wing up and down against the air. The rigidity of the feather to those bending forces is largely determined by the amount of material in its rachis, or midrib.\n\nMade of keratin, feathers grow much like human hair, emerging from a follicle in the skin. A circular cross section at this point of contact avoids an uneven build-up of pressure against the bird’s skin. Flexible circular tube shapes (such as plastic drinking straws) easily buckle under strain though. So for the feather to withstand use in flight, it needs to be made stronger. One solution might be to simply add more material, turning the “drinking straw” into a “lead pipe”. But because feathers grow from the base (not the tip), birds can’t simply add material along the midrib. That’s why they change the midrib’s shape instead.\n\nAs the tip of the feature grows outward from the follicle, the keratin reshapes itself from having a circular cross section to having a square cross section. This adds sturdiness because the square shape puts more material in the direction that bending would occur (in this case, up and down). Similarly, in a building or bridge, an I-beam achieves greater rigidity without increasing material by placing more of its material above and below the center line of the beam.\n\nOver time, members with circular cross-sections can become ovalized under dynamic loading, making them increasingly vulnerable to buckling and other problems. Birds present a time-tested model for designing such elements to effectively resist loads, with a minimum of material, using practicable processes.\n\nSeahorse\n\nThe square tail of the seahorse helps give it extra grip when hunting for prey.\n\nCircular-to-square beams, anchored at only one end have many technological applications. They’re increasingly being used by humans, for example in winged robots and energy-harvesting technologies.",
   "function_addressed": [
     "move in/on liquids",
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids",
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/feathers-add-strength-without-adding-material/",
-  "source_tier": "science_journalism",
   "keywords": [
     "feathers",
     "add",
@@ -21,7 +23,5 @@
     "adding",
     "material"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

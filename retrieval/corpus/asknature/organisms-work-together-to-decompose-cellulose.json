@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-organisms-work-together-to-decompose-cellulose",
   "organism_common": "Common brandling worm",
-  "organism_scientific": "",
   "strategy_summary": "Earthworm activity, fungi, and microbes in the guts of earthworms efficiently decompose cellulose through microbial succession. Earthworms assist in degrading cellulose through cellulose enzymes in their guts, by dispersal of fungal spores, and by changing the structure of the substrate which stimulates fungal growth.",
   "mechanism": "Earthworm activity, fungi, and microbes in the guts of earthworms efficiently decompose cellulose through microbial succession.\n\nEarthworms assist in degrading cellulose through cellulose enzymes in their guts, by dispersal of fungal spores, and by changing the structure of the substrate which stimulates fungal growth. Fungi make important contributions in the initial stage of decomposition; then bacteria become principal decomposers. (Summarized from Aria et al. 2006)",
   "function_addressed": [
     "chemically break down organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/organisms-work-together-to-decompose-cellulose/",
-  "source_tier": "science_journalism",
   "keywords": [
     "organisms",
     "work",
@@ -19,7 +20,5 @@
     "decompose",
     "cellulose"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

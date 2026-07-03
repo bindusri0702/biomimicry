@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-saliva-breaks-down-blood-clots",
   "organism_common": "Common vampire bat",
-  "organism_scientific": "",
   "strategy_summary": "The saliva of vampire bats acts as an anticoagulant due to a protein that inhibits Factor X, an enzyme involved in the coagulation pathway. Vampire bats are sanguivorous or blood-eating bats.",
   "mechanism": "The saliva of vampire bats acts as an anticoagulant due to a protein that inhibits Factor X, an enzyme involved in the coagulation pathway.\n\nVampire bats are sanguivorous or blood-eating bats. When they bite their victim, a protein in their saliva acts as an anticoagulant, which keeps their victim’s blood flowing while they feed. This anticoagulant contains the protein desmoteplase or DSPA, which was given the nickname Draculin. During the blood clotting process, DSPA inhibits Factor X, which is an enzyme involved in the coagulation pathway.\n\n“There is a protein in the vampire bat’s saliva that might one day benefit stroke sufferers, especially those who ignore their symptoms for several hours before calling 911 or going to the hospital…This enzyme–called desmoteplase, or DSPA–is what interests stroke experts. For more than eight years, researchers have studied it to see whether it can dissolve blood clots that starve the brain of oxygen during a stroke. ‘When you inject (the enzyme) intravenously in a human it can also keep the blood flowing,’ Torbey said.” (Hepler 2011)",
   "function_addressed": [
     "chemically break down organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/saliva-breaks-down-blood-clots/",
-  "source_tier": "science_journalism",
   "keywords": [
     "saliva",
     "breaks",
@@ -19,7 +20,5 @@
     "blood",
     "clots"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

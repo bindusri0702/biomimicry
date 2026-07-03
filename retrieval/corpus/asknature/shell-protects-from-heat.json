@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-shell-protects-from-heat",
   "organism_common": "Snails and slugs",
-  "organism_scientific": "",
   "strategy_summary": "The shell of some desert snails helps them survive extreme heat using light reflectance and architecturally-derived, insulating layers of air. “Thermobiosis is not limited to hydrothermal vent faunas, but also occurs in terrestrial species.",
-  "mechanism": "The shell of some desert snails helps them survive extreme heat using light reflectance and architecturally-derived, insulating layers of air.\n\n“Thermobiosis is not limited to hydrothermal vent faunas, but also occurs in terrestrial species. For example, the desert snail Sphincterochila boissieri can survive in the desert at temperatures of up to 50 °C…” (Islam & Schulze-Makuch 2007:207)\n\nHow desert snails survive high temperatures: The surface of the shell is highly reflective, resulting in 95% reflectance within the near infrared, 90% in the visible spectrum (a). While the maximum air temperature might reach 43 °C (109 °F) , surface temperatures can reach 65 °C (149 °F). However, shading and the rough surface of the soil results in a temperature of 60 °C (140 °F) (d). During the heat of the day, the snail retreats into an upper whorl where the temperature is an even cooler 50 °C (122 °F) (b). Heat flows in the direction of lower temperature, result in heat flow through the shell, with resultant decrease higher in the shell.\n\nDesert snails mating, in Wadi Hazaz near Sde Boker, Negev, Israel.",
+  "mechanism": "The shell of some desert snails helps them survive extreme heat using light reflectance and architecturally-derived, insulating layers of air.\n\n“Thermobiosis is not limited to hydrothermal vent faunas, but also occurs in terrestrial species. For example, the desert snail Sphincterochila boissieri can survive in the desert at temperatures of up to 50 °C…” (Islam & Schulze-Makuch 2007:207)\n\nHow desert snails survive high temperatures: The surface of the shell is highly reflective, resulting in 95% reflectance within the near infrared, 90% in the visible spectrum (a). While the maximum air temperature might reach 43 °C (109 °F), surface temperatures can reach 65 °C (149 °F). However, shading and the rough surface of the soil results in a temperature of 60 °C (140 °F) (d). During the heat of the day, the snail retreats into an upper whorl where the temperature is an even cooler 50 °C (122 °F) (b). Heat flows in the direction of lower temperature, result in heat flow through the shell, with resultant decrease higher in the shell.\n\nDesert snails mating, in Wadi Hazaz near Sde Boker, Negev, Israel.",
   "function_addressed": [
     "protect from loss of liquids",
     "protect from light",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::light",
+    "protect-from-non-living-threats::loss-of-liquids",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/shell-protects-from-heat/",
-  "source_tier": "science_journalism",
   "keywords": [
     "shell",
     "protects",
     "heat"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

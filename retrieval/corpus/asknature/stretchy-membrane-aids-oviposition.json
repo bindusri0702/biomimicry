@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-stretchy-membrane-aids-oviposition",
   "organism_common": "Locust",
-  "organism_scientific": "",
   "strategy_summary": "The intersegmental membranes of a pregnant female locust helps her deposit her eggs about 8 centimeters underground due to stress-softening of the membrane. “While a stretchy nuchal ligament can act as a shock absorber, a stretchy tendon would undo the shortening of the muscle that it attaches to a bone.",
   "mechanism": "The intersegmental membranes of a pregnant female locust helps her deposit her eggs about 8 centimeters underground due to stress-softening of the membrane.\n\n“While a stretchy nuchal ligament can act as a shock absorber, a stretchy tendon would undo the shortening of the muscle that it attaches to a bone. The current record holder, the intersegmental membrane of the pregnant female locust, achieved its renown in an investigation by Vincent (1975); it’s made of about 12 percent protein and 12 percent chitin, with the rest water, and it undergoes something called ‘stress-softening.’ Mother locust, a creature of dry habitats, stretches these membranes between her abdominal segments to get her eggs about 8 centimeters underground–deep enough so the desiccated eggs have a reliable source of water. The eggs are kept fairly dry before being expelled, presumably so the locust can hold a large number and still fly.” (Vogel 2003:314)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
   "function_addressed": [
     "expel solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "expel::solids"
+  ],
+  "subgroup_keys": [
+    "expel"
+  ],
   "source_url": "https://asknature.org/strategy/stretchy-membrane-aids-oviposition/",
-  "source_tier": "science_journalism",
   "keywords": [
     "stretchy",
     "membrane",
     "aids",
     "oviposition"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

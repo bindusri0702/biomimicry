@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-marine-invertebrates-build-strong-skeletons",
   "organism_common": "True oysters",
-  "organism_scientific": "",
   "strategy_summary": "Marine invertebrates like corals, mollusks, and sea urchins create stunningly complex skeletons and shells through a process called biomineralization. This biological mechanism allows these organisms to extract calcium from seawater and use it to form hard structures such as exoskeletons and shells.",
-  "mechanism": "Biomineralization is powered by specialized cells and genetic processes. Marine invertebrates use calcium ions and carbon from seawater to produce calcium carbonate, the primary component of their skeletons. These minerals are embedded in a matrix of proteins that guide crystal growth, the foundation of tough and resilient biomineralized structures. Depending on their particular needs and available resources, the mechanisms marine animals use to build their structures are vast. Mollusks like clams and oysters, for example, produce their shells with the help of special tissues that control where and how the materials are added. Corals grow their skeletons by working with algae that live inside them, which help supply energy and materials for the process. Sea urchins create their spiny exteriors through cells that carefully arrange the building materials into strong, protective structures.\n\nDespite the energetic cost of building these structures, marine invertebrates demonstrate remarkable adaptability. For instance, oysters adjust the strength and structure of their shells based on the saltiness of the water. In less salty water, they make shells that are better at resisting breaking down, while in saltier water, they focus on making shells tougher to protect against predators. This adaptability extends to other conditions as well, such as temperature and pH, allowing many marine animals to survive in changing environments.\n\nThe energy-efficient ways marine organisms build complex and resilient structures inspire biomimetic applications like stronger, lightweight construction materials and eco-friendly composites. These processes also provide valuable insights into how marine life might cope with challenges like ocean warming and acidification. By mimicking nature’s strategies, we can create solutions that support both the environment and future human needs.",
+  "mechanism": "Biomineralization is powered by specialized cells and genetic processes. Marine invertebrates use calcium ions and carbon from seawater to produce calcium carbonate, the primary component of their skeletons. These minerals are embedded in a matrix of proteins that guide crystal growth, the foundation of tough and resilient biomineralized structures. Depending on their particular needs and available resources, the mechanisms marine animals use to build their structures are vast. Mollusks like clams and oysters, for example, produce their shells with the help of special tissues that control where and how the materials are added. Corals grow their skeletons by working with algae that live inside them, which help supply energy and materials for the process. Sea urchins create their spiny exteriors through cells that carefully arrange the building materials into strong, protective structures.\n\nDespite the energetic cost of building these structures, marine invertebrates demonstrate remarkable adaptability. For instance, oysters adjust the strength and structure of their shells based on the saltiness of the water. In less salty water, they make shells that are better at resisting breaking down, while in saltier water, they focus on making shells tougher to protect against predators. This adaptability extends to other conditions as well, such as temperature and pH, allowing many marine animals to survive in changing environments.\n\nThe energy-efficient ways marine organisms build complex and resilient structures inspire biomimetic applications like stronger, lightweight construction materials and eco-friendly composites. These processes also provide valuable insights into how marine life might cope with challenges like ocean warming and acidification. By mimicking nature’s strategies, we can create solutions that support both the environment and future human needs.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "chemically assemble mineral crystals",
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::mineral-crystals",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/marine-invertebrates-build-strong-skeletons/",
-  "source_tier": "science_journalism",
   "keywords": [
     "marine",
     "invertebrates",
@@ -20,7 +23,5 @@
     "strong",
     "skeletons"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

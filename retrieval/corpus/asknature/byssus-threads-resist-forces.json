@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-byssus-threads-resist-forces",
   "organism_common": "Common mussel",
-  "organism_scientific": "",
   "strategy_summary": "The byssus threads of mollusks are strong anchors that can resist hydrodynamic forces because of mechanically distinct regions within each thread. “One particular use of a collagenous rope gives a sense of the range of performance nature can get from this material–and of some of the peculiarities of applying data from…",
   "mechanism": "The byssus threads of mollusks are strong anchors that can resist hydrodynamic forces because of mechanically distinct regions within each thread.\n\n“One particular use of a collagenous rope gives a sense of the range of performance nature can get from this material–and of some of the peculiarities of applying data from standard analyses. As familiar to anyone who has poked around rocky, wave-swept shores, mussels don’t dislodge easily. Each is attached to rocks by twenty to sixty stringy byssus threads of sufficient tenacity to resist extreme hydrodynamic forces. (Denny [1988] provides an especially good view of the origin of these forces.) At first glance, a collagenous material looks inappropriate for the mission. After all, low extensibility means that unless particularly well matched and faced with forces of invariant strength and direction, only some subset of threads will bear the load. Imagine hanging from a group of inextensible ropes each of slightly different length–having more than one will gain you nothing, since they’ll break one by one instead of sharing the load.\n\nA byssus thread contains two mechanically distinct regions, called, for their distance from the shell, proximal and distal. The material of both regions proves to be unusually extensible for collagens, which sounds right and proper. But then, according to Bell and Gosline (1996) things get more complex. The proximal region can be strained to a greater fraction of unloaded length, but it never achieves the breaking strength of the distal region, as you can see from figure 16.14a. So it looks as if their proximal regions take care of distributing the load among the threads. Not so. The distal region of threads happens to be two to four times longer and only half as wide. So a given force will stretch it quite far. Replotting the data as force against extension for a whole thread as a structure, as in figure 16.14b, shows a nice match. Even better, it shows how the distal thread yields (the horizontal portion of its curve) just short of the breaking force–an extension that will permit threads to reorient closer to the direction of the applied force and to share increasing loads among an increasing number of threads.” (Vogel 2003:347)",
   "function_addressed": [
     "manage tension",
     "manage turbulence"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::tension",
+    "manage-structural-forces::turbulence"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/byssus-threads-resist-forces/",
-  "source_tier": "science_journalism",
   "keywords": [
     "byssus",
     "threads",
     "resist",
     "forces"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

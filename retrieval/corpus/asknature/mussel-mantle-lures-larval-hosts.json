@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-mussel-mantle-lures-larval-hosts",
   "organism_common": "Plain pocketbook mussel",
-  "organism_scientific": "",
   "strategy_summary": "How do you get around if you can’t get around? That’s a big dilemma for freshwater mussels, shell-bound invertebrates that inhabit the bottom of lakes and streams.",
-  "mechanism": "With that lack of motility, it’s hard to imagine how reproduction could result in anything but large stacks of mussels that would quickly exceed their habitats’ ability to support them. But nature has found a way.\n\nMother mussels incubate their eggs until they hatch into grain-of-sand-size larvae called glochidia. Then they transfer the glochidia to nearby fish. The glochidia clamp down on the fish’s gills, where they remain for several weeks, not only sucking sustenance but also taking advantage of the free ride. Eventually the glochidia drop off and colonize a new location.\n\nThe plain pocketbook’s artful strategy for spreading its offspring around is a remarkable example of nature mimicking nature. It provides inspiration for thinking outside the box when it comes to solving problems: In this instance, adaptive pressure to be mobile in water produced not the ability to swim, but the ability to latch onto another organism better equipped to do so.\n\nThere is also in this story a model of embracing external forces to shape your own strategy. Mussels are not known to be able to see the details of nearby fish or to in any way judge the visual accuracy of their lures. Their genetic code is simply varying the adult females’ appearance, and it’s the bass’s influence that shapes the mimicry through natural selection.\n\nThis inspires consideration of what to pay attention to when designing something to meet a specific need. In this instance, evolution emulated the traits of bait to catch a predator’s eye—the horizontal stripe, the eyespot, the waving tail—but not the other characteristics of a prey fish, such as scales and pectoral fins, that aren’t required to signal, “this looks like food.” For any level of mimicry that humans undertake, a good first step is to identify which traits matter most, and a good way to find them is to create many variations and see which get the response we’re looking for.",
+  "mechanism": "With that lack of motility, it’s hard to imagine how reproduction could result in anything but large stacks of mussels that would quickly exceed their habitats’ ability to support them. But nature has found a way.\n\nMother mussels incubate their eggs until they hatch into grain-of-sand-size larvae called glochidia. Then they transfer the glochidia to nearby fish. The glochidia clamp down on the fish’s gills, where they remain for several weeks, not only sucking sustenance but also taking advantage of the free ride. Eventually the glochidia drop off and colonize a new location.\n\nThe challenging part of this process is transferring the almost-microscopic glochidia from mussel to fish. Different mussels have evolved different ways of doing this, but one of the most sophisticated is the plain pocketbook (Lampsilis cardium) , a mussel found throughout much of North America east of the Rockies.\n\nIn this species, the soft tissue that sticks out of the shell looks uncannily like a small fish called a shiner, with a dark stripe down its side, an eye spot at one end, and a wavy tail at the other. When the glochidia are ready to be released, the mother mussel waves this bit of tissue around in the water, making it look like a swimming fish. The tissue attracts larger, predatory bass that are suitable hosts for the glochidia. When one tries to eat the fake shiner, the mussel releases a cloud of glochidia, some of which attach to the fish’s gills.\n\nThe plain pocketbook’s artful strategy for spreading its offspring around is a remarkable example of nature mimicking nature. It provides inspiration for thinking outside the box when it comes to solving problems: In this instance, adaptive pressure to be mobile in water produced not the ability to swim, but the ability to latch onto another organism better equipped to do so.\n\nThere is also in this story a model of embracing external forces to shape your own strategy. Mussels are not known to be able to see the details of nearby fish or to in any way judge the visual accuracy of their lures. Their genetic code is simply varying the adult females’ appearance, and it’s the bass’s influence that shapes the mimicry through natural selection.\n\nThis inspires consideration of what to pay attention to when designing something to meet a specific need. In this instance, evolution emulated the traits of bait to catch a predator’s eye—the horizontal stripe, the eyespot, the waving tail—but not the other characteristics of a prey fish, such as scales and pectoral fins, that aren’t required to signal, “this looks like food.” For any level of mimicry that humans undertake, a good first step is to identify which traits matter most, and a good way to find them is to create many variations and see which get the response we’re looking for.",
   "function_addressed": [
     "move in/on liquids",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/mussel-mantle-lures-larval-hosts/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mussel",
     "mantle",
@@ -20,7 +22,5 @@
     "larval",
     "hosts"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

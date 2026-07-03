@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-protein-protects-eye-from-infection",
   "organism_common": "Humans",
-  "organism_scientific": "",
   "strategy_summary": "Keratin is a protein that is renowned for its help in managing the structural integrity of a cell; what was not previously known about keratin, however, is that it is also a plentiful source of peptide s that have antimicrobial properties. Researchers began investigating keratin’s properties after pondering the…",
-  "mechanism": "Epithelial cells line various surfaces of the body, including the skin, respiratory tract, gastrointestinal tract, and the eyes, forming a barrier against microbial invaders. Cytokeratins are proteins found in epithelial cells, providing strength and stability to the cell’s internal network of support structures called the cytoskeleton.\n\nCytokeratins battle microbes by producing peptides that make the microbial cell walls or membranes permeable, exposing their insides to the surrounding environment. This disruption of cellular homeostasis can ultimately lead to cell death. The particular peptides studied so far seem to also bind bacterial cells, disrupting their ability to move around. It is not yet known exactly how the cytokeratins do this. It may be related to electrical charge, hydropobicity (repelling water), or some other mechanism.\n\nThese antimicrobial properties are particularly beneficial for epithelial cells, which are constantly exposed to a variety of microbial pathogens.\n\nInspired by cytokeratins and the peptides they produce, researchers could develop biomimetic antimicrobial coatings for medical devices, implants, and surfaces to prevent microbial colonization and infection. By mimicking the mechanisms employed by cytokeratins, such materials could enhance the innate defense mechanisms of epithelial tissues and promote better overall health outcomes. Additionally, insights from this research could inform the development of novel antimicrobial therapies targeting microbial membranes or proteins, offering new strategies for combating infectious diseases.",
+  "mechanism": "Epithelial cells line various surfaces of the body, including the skin, respiratory tract, gastrointestinal tract, and the eyes, forming a barrier against microbial invaders. Cytokeratins are proteins found in epithelial cells, providing strength and stability to the cell’s internal network of support structures called the cytoskeleton.\n\nCytokeratins battle microbes by producing peptides that make the microbial cell walls or membranes permeable, exposing their insides to the surrounding environment. This disruption of cellular homeostasis can ultimately lead to cell death. The particular peptides studied so far seem to also bind bacterial cells, disrupting their ability to move around. It is not yet known exactly how the cytokeratins do this. It may be related to electrical charge, hydropobicity (repelling water), or some other mechanism.\n\nThese antimicrobial properties are particularly beneficial for epithelial cells, which are constantly exposed to a variety of microbial pathogens.\n\nInspired by cytokeratins and the peptides they produce, researchers could develop biomimetic antimicrobial coatings for medical devices, implants, and surfaces to prevent microbial colonization and infection. By mimicking the mechanisms employed by cytokeratins, such materials could enhance the innate defense mechanisms of epithelial tissues and promote better overall health outcomes. Additionally, insights from this research could inform the development of novel antimicrobial therapies targeting microbial membranes or proteins, offering new strategies for combating infectious diseases.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/protein-protects-eye-from-infection/",
-  "source_tier": "science_journalism",
   "keywords": [
     "protein",
     "protects",
     "eye",
     "infection"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

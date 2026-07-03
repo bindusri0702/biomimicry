@@ -1,22 +1,21 @@
 {
   "doc_id": "asn-colonies-self-assemble",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Bacterial colonies that form stromatolites self-assemble by making independent decisions while maintaining communication. Stromatolites growing in Yalgorup national park in Australia (there are also other stromatolithes in Shark Bay and in Western Australia).",
   "mechanism": "Bacterial colonies that form stromatolites self-assemble by making independent decisions while maintaining communication.\n\nStromatolites growing in Yalgorup national park in Australia (there are also other stromatolithes in Shark Bay and in Western Australia). Stromatolites are attached, lithified sedimentary growth structures, accretionary away from a point or limited surface of initiation.\n\nStromatolites growing in Yalgorup national park in Australia (there are also other stromatolithes in Shark Bay and in Western Australia). Stromatolites are attached, lithified sedimentary growth structures, accretionary away from a point or limited surface of initiation.\n\nHamelin Pool, on the way to Monkey Mia. Theyre responsible for a lot of the Earths oxygen and the evolution of oxygen breathing lifeforms ie, us.\n\n“Stromatolites are colonies of bacteria that self-assemble into rock formations in tidal salt flats. Each stromatolite can make independent decisions, while maintaining communication with the colony. The workload is shared among all colony individuals. Stromatolites breed rapidly, and quickly develop resistance to antibiotics and other threats by developing new genes. Ian Marshall plans to incorporate these principles into the next wave of BT network management. Like the stromatolites, each element of BT’s [British Telecom] network will be able to make independent decisions, yet will remain fully communicative with neighbors. Workload–i.e., incoming calls–will be spread evenly through the network. And in a process mimicking natural selection, desirable services will be quickly distributed to BT customers, while undesirable services die out.” (Courtesy of the Biomimicry Guild)",
   "function_addressed": [
     "coordinate by self-organization"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "coordinate::by-self-organization"
+  ],
+  "subgroup_keys": [
+    "coordinate"
+  ],
   "source_url": "https://asknature.org/strategy/colonies-self-assemble/",
-  "source_tier": "science_journalism",
   "keywords": [
     "colonies",
     "self-assemble"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

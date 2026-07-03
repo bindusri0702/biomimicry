@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-ovipositor-drills-through-wood",
   "organism_common": "Ichneumon wasps",
-  "organism_scientific": "",
   "strategy_summary": "The 10 cm long ovipositor of the parasitic wasp, Megarhyssa ichneumon, drills several centimeters through solid wood using reciprocating rather than rotatory motion. “In some wasps, the egg-laying organ, or ovipositor, has been adapted to bore through wood.",
   "mechanism": "The 10 cm long ovipositor of the parasitic wasp, Megarhyssa ichneumon, drills several centimeters through solid wood using reciprocating rather than rotatory motion.\n\n“In some wasps, the egg-laying organ, or ovipositor, has been adapted to bore through wood. I have watched Megarhyssa ichneumon wasps drill through several centimetres of solid elm in order to parasitize the woodboring larvae of horntail wasps that feed deep inside dead trees. The parasite appears to detect the presence of horntails by smelling with its antennae and perhaps by feeling the larvae’s vibrations in the wood. The ovipositor of Megarhyssa is longer than the wasp itself–it measures almost 10 centimetres–and is highly flexible. The wasp not only is able to insert the ovipositor through several centimetres of wood but also uses it to inject eggs into its horntail host.” (Forsyth 1992:27)",
   "function_addressed": [
     "physically break down living materials",
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-solids",
+    "physically-break-down::living-materials"
+  ],
+  "subgroup_keys": [
+    "move",
+    "physically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/ovipositor-drills-through-wood/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ovipositor",
     "drills",
     "through",
     "wood"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

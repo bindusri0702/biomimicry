@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-seedpod-autorotates",
   "organism_common": "Sycamore maple",
-  "organism_scientific": "",
   "strategy_summary": "The sycamore maple ( Acer pseudoplatanus ), a large, spreading broadleaf tree growing to 115 feet (35 meters), has a deep, branched root system that provides stability in high winds. But maple trees aren’t just good at resisting the wind, they’re also ingenious in how they use it.",
   "mechanism": "How do sycamore maple seeds orient themselves and start spinning? It’s a balancing act. The seedhead (or achene) is heavier than the seed’s wing, while the wing is much broader, catching more air as the seed falls. In physics terms, the center of mass is different from the center of pressure.\n\nAs the seedhead falls slightly in advance of the wing, and the broadest part of the wing slows due to air resistance, the wing is forced to tilt with respect to the ground. As air rushes upward and encounters the tilted wing, it deflects away from the seed at an angle, pushing the wing in the opposite direction.\n\nThe falling seedhead, meanwhile, encountering little air resistance over its compact body, descends straight downward, functioning like an axle around which the wing now begins spinning. Gravity provides a steady diet of air as the seed continues to fall, while the rotating wing, resisting a quick return to Earth, keeps the opportunity alive for a passing breeze to shove the seed on a lateral journey, farther away from the mother tree.\n\nSamaras have already inspired new designs of drones and ceiling fans. Designs which self-orient and autorotate (in water as well as in air) are especially interesting for use in renewable energy technologies involving turbines.",
   "function_addressed": [
     "move in/through gases",
     "disperse seeds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-through-gases",
+    "provide-ecosystem-services::disperse-seeds"
+  ],
+  "subgroup_keys": [
+    "move",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/seedpod-autorotates/",
-  "source_tier": "science_journalism",
   "keywords": [
     "seedpod",
     "spirals",
     "stay",
     "aloft"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

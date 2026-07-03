@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-transglutaminase-enzymes-crosslink-proteins",
   "organism_common": "Mammals",
-  "organism_scientific": "",
   "strategy_summary": "Transglutaminase enzymes couple or crosslink proteins in organisms by catalyzing transamidation of glutamine and lysine residues. Enzymes catalyze the cross-linking of natural polymers.",
   "mechanism": "Transglutaminase enzymes couple or crosslink proteins in organisms by catalyzing transamidation of glutamine and lysine residues.\n\nEnzymes catalyze the cross-linking of natural polymers. Monomers (1) join together to form chains of polymers (2) that cross-link to form strong, large compounds (3). Artist: Emily Harrington. All rights reserved.\n\n“Biology is well known for its use of linear polymers to perform sophisticated functions. Nucleic acids store and process genetic information, while proteins perform recognition, transport, and catalytic functions. Biology also employs polymers (especially proteins and polysaccharides) to perform mechanical functions and there are several examples in which biology covalently crosslinks polymers to confer elasticity and strength. In some cases, the crosslinking enzymes have attracted attention as a simple and safe means for macromolecular processing in vitro. Here, we review recent research with two enzymes, tyrosinase and microbial transglutaminase, that are being examined for a variety of applications.” (Yang et al. 2009:576)",
   "function_addressed": [
     "chemically assemble polymers",
     "catalyze chemical breakdown"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::polymers",
+    "chemically-break-down::catalyze-breaking-of-bonds"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/transglutaminase-enzymes-crosslink-proteins/",
-  "source_tier": "science_journalism",
   "keywords": [
     "transglutaminase",
     "enzymes",
     "crosslink",
     "proteins"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-carbonic-anhydrases-catalyze-conversion-of-carbon-dioxide",
   "organism_common": "Mammals",
-  "organism_scientific": "",
   "strategy_summary": "Carbonic anhydrases in mammals interconvert CO2 and bicarbonate by binding with negatively charged regions of cell compartments. Researchers have found that protein s in bulk solutions lack folding forces that may otherwise be found in enclosed spaces (something known as the Confinement theory).",
   "mechanism": "Carbonic anhydrases in mammals interconvert CO2 and bicarbonate by binding with negatively charged regions of cell compartments.\n\nResearchers have found that protein s in bulk solutions lack folding forces that may otherwise be found in enclosed spaces (something known as the Confinement theory). Researchers from Pacific Northwest National Laboratory focused on a set of proteins, known as carbonic anhydrases (CAs), to better understand the binding interactions of proteins in confined spaces. CAs contribute to the rapid conversion of carbon dioxide to bicarbonate which in turn maintains the acid-base balance within the cells of mammals and helps to transport carbon dioxide out of tissues.\n\nProteins are folded structures containing both positively charged and negatively charged regions. Each charged region is capable of interacting with other electrostatic regions of a cell. Their research unveiled that the positively charged regions of CAs oriented to bind with negatively charged regions of functionalized mesoporous silica (FMS). FMS is a substance with a large porous surface area and is often used for testing protein-substrate interactions. The pores provide many small, confined spaces for CAs to attach and thus an environment conducive to enzymatic activity (Confinement theory). When an enzyme binds with a substrate it often undergoes a change in its physical shape (i.e., conformational change). When enough proteins are placed on a molecule, however, it is possible that the conformational changes normally experienced may be less impeding. For example, the research team noticed that the more proteins that were “loaded” (i.e., placed) onto the substrate, the less conformational changes there were overall and thus there was more induced catalytic activity. With more catalytic activity, more carbon dioxide can be fixed within a cell. Understanding the binding interactions of CAs to substrate may provide insight into how CO2 by-products may be reduced in cells through enhanced catalytic activity.\n\nSaipem\n\nIndustrial Lung by Saipem is a non-toxic carbon capture process that uses a synthetic form of the enzyme carbonic anhydrase.",
   "function_addressed": [
     "capture, absorb, or filter energy",
     "catalyze chemical breakdown"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "chemically-break-down::catalyze-breaking-of-bonds"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/carbonic-anhydrases-catalyze-conversion-of-carbon-dioxide/",
-  "source_tier": "science_journalism",
   "keywords": [
     "carbonic",
     "anhydrases",
@@ -21,7 +24,5 @@
     "carbon",
     "dioxide"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

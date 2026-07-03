@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-habitat-stores-carbon",
   "organism_common": "Wetland ecosystems",
-  "organism_scientific": "",
   "strategy_summary": "High water levels in wetlands prevent large amounts of oxygen from reaching wetland soil, where it would enable aerobic bacteria to decompose organic matter. Wetlands, especially peatlands in the northern arctic and boreal areas, have the ability to store large amounts of carbon.",
-  "mechanism": "High water levels in wetlands prevent large amounts of oxygen from reaching wetland soil, where it would enable aerobic bacteria to decompose organic matter.\n\nWetlands, especially peatlands in the northern arctic and boreal areas, have the ability to store large amounts of carbon. The storage of carbon is related to how wetlands function. Wetlands plants are able to take carbon dioxide out of the air and incorporate some of it into their tissues during photosynthesis . Wetlands also accumulate and store carbon within the soil in the form of leaf matter and plant debris. Forested wetlands and peatlands in the north accumulate large amounts of litter and organic matter and can store a high percentage of carbon in comparison to other areas. These organic materials release carbon back into the atmosphere when they’re decomposed by bacteria, but the combination of cool and wet soil conditions in the northern wetlands slows the decomposition of organic materials.\n\nIn many wetlands, high water levels prevent large amounts of oxygen from reaching wetland soil, where it would enable aerobic bacteria to decompose organic matter. During the winter, cool temperatures in wetlands and frozen soils in many northern wetlands slow decomposition by slowing the metabolic activity of the decomposing bacteria. This enables wetlands in arctic and boreal regions to be effective carbon sinks for hundreds to thousands of years.\n\nResearchers caution, however, that climate change and increased temperatures could lower wetland water levels and increase decomposition rates. This may affect the ability of wetlands to continue to sequester carbon and may even turn wetlands into a source of carbon dioxide.",
+  "mechanism": "High water levels in wetlands prevent large amounts of oxygen from reaching wetland soil, where it would enable aerobic bacteria to decompose organic matter.\n\nWetlands, especially peatlands in the northern arctic and boreal areas, have the ability to store large amounts of carbon. The storage of carbon is related to how wetlands function. Wetlands plants are able to take carbon dioxide out of the air and incorporate some of it into their tissues during photosynthesis. Wetlands also accumulate and store carbon within the soil in the form of leaf matter and plant debris. Forested wetlands and peatlands in the north accumulate large amounts of litter and organic matter and can store a high percentage of carbon in comparison to other areas. These organic materials release carbon back into the atmosphere when they’re decomposed by bacteria, but the combination of cool and wet soil conditions in the northern wetlands slows the decomposition of organic materials.\n\nIn many wetlands, high water levels prevent large amounts of oxygen from reaching wetland soil, where it would enable aerobic bacteria to decompose organic matter. During the winter, cool temperatures in wetlands and frozen soils in many northern wetlands slow decomposition by slowing the metabolic activity of the decomposing bacteria. This enables wetlands in arctic and boreal regions to be effective carbon sinks for hundreds to thousands of years.\n\nResearchers caution, however, that climate change and increased temperatures could lower wetland water levels and increase decomposition rates. This may affect the ability of wetlands to continue to sequester carbon and may even turn wetlands into a source of carbon dioxide.",
   "function_addressed": [
     "store chemical entities",
     "regulate atmospheric chemical/gas composition"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::regulate-atmospheric-composition",
+    "store::chemical-entities"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/habitat-stores-carbon/",
-  "source_tier": "science_journalism",
   "keywords": [
     "water",
     "keeps",
@@ -21,7 +24,5 @@
     "releasing",
     "carbon"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

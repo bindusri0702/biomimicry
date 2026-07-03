@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-snail-mucins-and-their-multifunctional-properties",
   "organism_common": "Snails and slugs",
-  "organism_scientific": "",
   "strategy_summary": "Snail mucus, a fascinating secretion produced by various snail species, serves multiple biological purposes, from protection against microbes to aiding movement and adhesion. Rich in specialized proteins called mucins, snail mucus plays a vital role in the survival and success of these animals across diverse…",
-  "mechanism": "Snails produce mucin proteins as a key component of their mucus to meet their specific needs, whether for moving smoothly, staying attached to surfaces, or protecting themselves. Each mucin has a unique chemical composition that is ultimately responsible for its functionality. One key role of snail mucins is trapping water, giving mucus a slippery, gel-like consistency that helps snails slide along the ground without damaging their soft bodies. At the same time, the stickiness of mucus allows snails to climb walls, move upside down, or stay firmly in place.\n\nThe mucus secreted on a snail’s body also provides protection. It creates a barrier that shields the snail from bacteria and keeps its skin moist, even in dry conditions. Different snails have evolved specialized uses for mucus. For example, some snails use mucus to safeguard their eggs, while others, like the Costa Rican Land Snail, use it to cling to leaves and hide from the sun during droughts. The mucus on a snail’s foot is especially versatile, helping it grip surfaces while also reducing friction as it moves.\n\nIn addition to aiding movement and moisture retention, snail mucus fights off harmful microbes. Mucins in the mucus can stop bacteria from growing, protecting snails as they crawl over surfaces teeming with germs. For instance, mucus from the Giant African Land Snail has been shown to defend against common bacteria like Staphylococcus aureus and Escherichia coli. This natural antimicrobial property is vital since snails lack advanced immune systems and rely heavily on their mucus for protection.\n\nThe adaptability of snail mucus could inspire biomimetic materials, such as surgical adhesives, sustainable hydrogels, and other specialty chemical solutions in skincare, biotech, and other markets. Studying the chemical makeup of mucin proteins in particular can offer immense potential for innovation, thanks to their unique antimicrobial, adhesive, and hydrating properties. In healthcare, the ability of mucins to combat antibiotic-resistant bacteria and promote wound healing makes them promising for advanced treatments like infection-resistant wound dressings.",
+  "mechanism": "Snails produce mucin proteins as a key component of their mucus to meet their specific needs, whether for moving smoothly, staying attached to surfaces, or protecting themselves. Each mucin has a unique chemical composition that is ultimately responsible for its functionality. One key role of snail mucins is trapping water, giving mucus a slippery, gel-like consistency that helps snails slide along the ground without damaging their soft bodies. At the same time, the stickiness of mucus allows snails to climb walls, move upside down, or stay firmly in place.\n\nThe mucus secreted on a snail’s body also provides protection. It creates a barrier that shields the snail from bacteria and keeps its skin moist, even in dry conditions. Different snails have evolved specialized uses for mucus. For example, some snails use mucus to safeguard their eggs, while others, like the Costa Rican Land Snail, use it to cling to leaves and hide from the sun during droughts. The mucus on a snail’s foot is especially versatile, helping it grip surfaces while also reducing friction as it moves.\n\nIn addition to aiding movement and moisture retention, snail mucus fights off harmful microbes. Mucins in the mucus can stop bacteria from growing, protecting snails as they crawl over surfaces teeming with germs. For instance, mucus from the Giant African Land Snail has been shown to defend against common bacteria like Staphylococcus aureus and Escherichia coli. This natural antimicrobial property is vital since snails lack advanced immune systems and rely heavily on their mucus for protection.\n\nThe adaptability of snail mucus could inspire biomimetic materials, such as surgical adhesives, sustainable hydrogels, and other specialty chemical solutions in skincare, biotech, and other markets. Studying the chemical makeup of mucin proteins in particular can offer immense potential for innovation, thanks to their unique antimicrobial, adhesive, and hydrating properties. In healthcare, the ability of mucins to combat antibiotic-resistant bacteria and promote wound healing makes them promising for advanced treatments like infection-resistant wound dressings.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "move in/on solids",
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/snail-mucins-and-their-multifunctional-properties/",
-  "source_tier": "science_journalism",
   "keywords": [
     "snail",
     "mucins",
     "multifunctional",
     "properties"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

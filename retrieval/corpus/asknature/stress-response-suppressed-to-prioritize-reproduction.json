@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-stress-response-suppressed-to-prioritize-reproduction",
   "organism_common": "Birds",
-  "organism_scientific": "",
   "strategy_summary": "In the arctic, the arrival of migrating snow buntings signals the start of spring. They breed farther north than any other land bird, nesting in “islands” of tundra called nunataks that poke through surrounding ice.",
-  "mechanism": "Like other animals, birds have evolved an emergency response that shifts their bodies into survival mode during environmental stressors such as severe weather, habitat loss, or famine. The process elevates blood concentrations of corticosterone, a hormone that at high levels can suppress reproduction. The net result is that would-be parents can attend to their own survival needs rather than diverting resources to children.\n\nSome birds however have adapted to suppress this emergency response, keeping lower corticosterone levels in the face of environmental threats. This appears to depend on their “brood value,” or the value of producing offspring relative to their own survival.\n\nMany birds, like the snow bunting, migrate far and wide to breed. With increasing environmental stressors such as habitat loss due to human construction and warming temperatures due to climate change, understanding how birds respond might help us protect their dwindling populations.\n\nFurthermore, it may seem at first glance that birds with higher brood values have overridden a primal evolutionary goal to survive. But nature is driving them to succeed as a species, not just as individuals. It can be beneficial to populations as a whole for some members to act self-sacrificially. And more abstractly, sometimes ignoring or overriding certain instincts for an immediate apparent benefit can bring a broader success to the community or project as a whole in the long term.",
+  "mechanism": "Like other animals, birds have evolved an emergency response that shifts their bodies into survival mode during environmental stressors such as severe weather, habitat loss, or famine. The process elevates blood concentrations of corticosterone, a hormone that at high levels can suppress reproduction. The net result is that would-be parents can attend to their own survival needs rather than diverting resources to children.\n\nSome birds however have adapted to suppress this emergency response, keeping lower corticosterone levels in the face of environmental threats. This appears to depend on their “brood value,” or the value of producing offspring relative to their own survival.\n\nSome birds however have adapted to suppress this emergency response, keeping lower corticosterone levels in the face of environmental threats.\n\nLonger-living birds such as arctic terns and great horned owls have more opportunities to breed resulting in lower brood values because their species’ survival isn’t constrained by limited breeding windows. When these birds experience environmental stress, their emergency response functions as expected—corticosterone levels increase and interrupt the normal hormonal changes that transition them through various reproductive stages. They might delay the process of molting and growing their breeding plumage, or may even abandon their duties to existing eggs or chicks. When the stress has passed, these so-called “prudent parents” live to breed another day.\n\nOther birds like finches and hummingbirds live shorter lives and have fewer occasions to breed. For them, procreation has a high value because the entire species depends on far fewer reproduction events. Some species of birds with high brood values appear to have adapted to suppress corticosterone levels in times of stress, keeping their focus on “the birds and the bees.” In other words, it’s worth the risk for them to expend the energy to breed and care for young because even if they survive the immediate stress, they may not have another opportunity to breed.\n\nMany birds, like the snow bunting, migrate far and wide to breed. With increasing environmental stressors such as habitat loss due to human construction and warming temperatures due to climate change, understanding how birds respond might help us protect their dwindling populations.\n\nFurthermore, it may seem at first glance that birds with higher brood values have overridden a primal evolutionary goal to survive. But nature is driving them to succeed as a species, not just as individuals. It can be beneficial to populations as a whole for some members to act self-sacrificially. And more abstractly, sometimes ignoring or overriding certain instincts for an immediate apparent benefit can bring a broader success to the community or project as a whole in the long term.",
   "function_addressed": [
     "regulate reproduction or growth"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/stress-response-suppressed-to-prioritize-reproduction/",
-  "source_tier": "science_journalism",
   "keywords": [
     "stress",
     "response",
@@ -19,7 +20,5 @@
     "prioritize",
     "reproduction"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

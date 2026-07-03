@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-parrots-make-unique-molecules-to-generate-color",
   "organism_common": "Scarlet macaw",
-  "organism_scientific": "",
   "strategy_summary": "When it comes to color, few animals can match the resplendent plumage of parrots. Their feathers span a rainbow of vivid hues.",
-  "mechanism": "Most birds get colors by depositing pigment s called carotenoid s into their growing feathers. The birds themselves can’t make carotenoids, rather they acquire them by eating carotenoid-rich foods. Carotenoids put the pink in pink grapefruits and the red in watermelons, for instance, and give carrots, sweet potatoes, mangoes, and corn their orange or yellow hues. Flamingos’ bright pink color comes from beta carotene in the algae or brine shrimp in their diet.\n\nParrots, however, make their own pigments within their own bodies. All of the more than 350 species of parrots synthesize a unique kind of chemical compound called psittacofulvins. No other animal makes them. Like carotenoids, psittacofulvins are pigments that absorb certain wavelengths of light to produce colors. In parrots, these color-producing compounds are found nowhere else in the birds’ bodies but their feathers.\n\nPsittacofulvins are long-chained molecules linked by 14 to 20 carbon atoms. The handful of different psittacofulvins differ mainly by the number of carbon links in their chains.\n\nThe slight chemical differences in psittacofulvins may cause them to absorb wavelengths of light in slightly different ways. But when psittacofulvin molecules are grouped closely together, they can cause the chains of neighboring molecules to bend. These structural shifts create new angles that also may change how the molecules absorb light, so that they appear red, orange, or yellow. In this way, macaws, cockatoos, and parakeets may “tune” the organization of psittacofulvins in their feathers to produce a range of colors, from magenta to lemon. The greater the concentration of psittacofulvins in the feathers, the more intense the color.\n\nPsittacofulvins provide other benefits too. Scientists have found evidence that these molecules even protect feathers from being degraded by bacteria.\n\nDiscovering any new chemical compound that performs useful functions gives scientists the potential to examine how it works and find new ways to create innovative products. For example, they can investigate psittacofulvins’ antibacterial abilities for health products, or the molecular traits that give psittacolfulvins their ability to produce an array of stunning colors. Such research could lead to novel materials to manipulate light and color, microscale optical devices, or even new designs for optical computing.",
+  "mechanism": "Most birds get colors by depositing pigment s called carotenoid s into their growing feathers. The birds themselves can’t make carotenoids, rather they acquire them by eating carotenoid-rich foods. Carotenoids put the pink in pink grapefruits and the red in watermelons, for instance, and give carrots, sweet potatoes, mangoes, and corn their orange or yellow hues. Flamingos’ bright pink color comes from beta carotene in the algae or brine shrimp in their diet.\n\nParrots, however, make their own pigments within their own bodies. All of the more than 350 species of parrots synthesize a unique kind of chemical compound called psittacofulvins. No other animal makes them. Like carotenoids, psittacofulvins are pigments that absorb certain wavelengths of light to produce colors. In parrots, these color-producing compounds are found nowhere else in the birds’ bodies but their feathers.\n\nPsittacofulvins are long-chained molecules linked by 14 to 20 carbon atoms. The handful of different psittacofulvins differ mainly by the number of carbon links in their chains.\n\nThe slight chemical differences in psittacofulvins may cause them to absorb wavelengths of light in slightly different ways. But when psittacofulvin molecules are grouped closely together, they can cause the chains of neighboring molecules to bend. These structural shifts create new angles that also may change how the molecules absorb light, so that they appear red, orange, or yellow. In this way, macaws, cockatoos, and parakeets may “tune” the organization of psittacofulvins in their feathers to produce a range of colors, from magenta to lemon. The greater the concentration of psittacofulvins in the feathers, the more intense the color.\n\nPsittacofulvins provide other benefits too. Scientists have found evidence that these molecules even protect feathers from being degraded by bacteria.\n\nDiscovering any new chemical compound that performs useful functions gives scientists the potential to examine how it works and find new ways to create innovative products. For example, they can investigate psittacofulvins’ antibacterial abilities for health products, or the molecular traits that give psittacolfulvins their ability to produce an array of stunning colors. Such research could lead to novel materials to manipulate light and color, microscale optical devices, or even new designs for optical computing.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "send light signals in the visible spectrum",
     "send light signals in the non-visible spectrum",
@@ -11,11 +10,19 @@
     "protect from microbes",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "protect-from-living-threats::animals",
+    "protect-from-living-threats::microbes",
+    "send-signals::light-non-visible-spectrum",
+    "send-signals::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "protect-from-living-threats",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/parrots-make-unique-molecules-to-generate-color/",
-  "source_tier": "science_journalism",
   "keywords": [
     "parrots",
     "make",
@@ -24,7 +31,5 @@
     "generate",
     "color"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

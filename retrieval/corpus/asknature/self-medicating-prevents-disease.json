@@ -1,23 +1,20 @@
 {
   "doc_id": "asn-self-medicating-prevents-disease",
   "organism_common": "Rabbits",
-  "organism_scientific": "",
   "strategy_summary": "The ears of rabbits assist in Vitamin D acquisition because they have an oil on the surface that transforms to Vitamin D in sunlight, which is then ingested as the rabbits clean themselves. “Even rabbits have a therapeutic trick or two – in their case, behind the ears.",
   "mechanism": "The ears of rabbits assist in Vitamin D acquisition because they have an oil on the surface that transforms to Vitamin D in sunlight, which is then ingested as the rabbits clean themselves.\n\n“Even rabbits have a therapeutic trick or two – in their case, behind the ears. Mammals need vitamin D – which works with calcium to make healthy bones – in order to prevent such problems as fractures, as well as to keep diseases such as rickets at bay. It is well known that in mammals this vitamin is synthesized when the skin is exposed to sunlight. As noted by John Downer in SuperNatural (1999), rabbits put this principle to good medicinal use when they wash behind their ears with their paws. The oil on the outer surface of the rabbits’ extra-long ears contains a chemical that transforms into vitamin D when there is enough sunlight. And when rabbits lick their paws after washing behind their ears, they transfer this vitamin supply to their mouths and, therefore, into their digestive system.” (Shuker 2001:218)",
   "function_addressed": [
     "capture, absorb, or filter chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/self-medicating-prevents-disease/",
-  "source_tier": "science_journalism",
   "keywords": [
     "self-medicating",
     "prevents",
     "disease"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

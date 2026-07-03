@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-sensilla-detect-strain-and-load-changes",
   "organism_common": "Insects",
-  "organism_scientific": "",
-  "strategy_summary": "The exoskeleton of insects detects strain and load via sensilla organs. Image: Janice Haney Carr / Centers for Disease Control and Prevention / toggle icon Image: Janice Haney Carr / Centers for Disease Control and Prevention / toggle icon right arrow right arrow  “In their rigid state exoskeletons are stiff laminated…",
-  "mechanism": "The exoskeleton of insects detects strain and load via sensilla organs.\n\nImage: Janice Haney Carr / Centers for Disease Control and Prevention / toggle icon Image: Janice Haney Carr / Centers for Disease Control and Prevention / toggle icon right arrow right arrow\n\n“In their rigid state exoskeletons are stiff laminated composite structures made of chitin fibres embedded in a highly crossed matrix. The exoskeleton acts as a detector of displacement, strain or load via special organs called sensilla, which are partly intergraded into local sections of exoskeleton. These organs amplify the information for the main detector organ, which is connected to the nerve stem. The local information obtained is used to modify the exoskeleton by changing thickness, stiffness and fibre orientation depending on the situation.” (The University of Bath 2008)",
+  "strategy_summary": "The exoskeleton of insects detects strain and load via sensilla organs. “In their rigid state exoskeletons are stiff laminated composite structures made of chitin fibres embedded in a highly crossed matrix.",
+  "mechanism": "The exoskeleton of insects detects strain and load via sensilla organs.\n\n“In their rigid state exoskeletons are stiff laminated composite structures made of chitin fibres embedded in a highly crossed matrix. The exoskeleton acts as a detector of displacement, strain or load via special organs called sensilla, which are partly intergraded into local sections of exoskeleton. These organs amplify the information for the main detector organ, which is connected to the nerve stem. The local information obtained is used to modify the exoskeleton by changing thickness, stiffness and fibre orientation depending on the situation.” (The University of Bath 2008)",
   "function_addressed": [
     "sense touch and mechanical forces in a living system"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::touch-and-mechanical-forces"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/sensilla-detect-strain-and-load-changes/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sensilla",
     "detect",
@@ -19,7 +20,5 @@
     "load",
     "changes"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,23 +1,24 @@
 {
   "doc_id": "asn-colonies-self-organize",
   "organism_common": "Insects",
-  "organism_scientific": "",
   "strategy_summary": "Colonies of social insects self-organize and carry out complex group tasks through many simple individual interactions. For social insects, teamwork is predominantly self-organized.",
-  "mechanism": "Colonies of social insects self-organize and carry out complex group tasks through many simple individual interactions.\n\nFor social insects, teamwork is predominantly self-organized. Coordinated primarily through the interactions of individual colony members, the insects can solve complex problems even though each interaction may be very simple.\n\nTo understand the power of self-organization, consider how ants find the shortest distance to a food source simply by laying and following chemical trails. For example, two ants leave their nest in search of food and venture off on separate paths. While walking, they release a trail of pheromones (chemicals) that the other ants in the colony can detect. The ant that takes the shorter route doubles back to the nest more quickly, adding more pheromones on top of those already left on the first passage (away from the nest). This reinforcement of pheromones leaves a higher concentration for other ants to sense, and as a result, other members of the colony detect and follow this more distinct trail of pheromones, as well.\n\nIn the same way, some termites, with no supervision, collectively build above-ground mounds that may facilitate gas exchange with their below-ground nests. Although science has yet to fully explain the exact mechanisms through which these mounds are created, several models indicate that termites are more likely to deposit soil particles where other individuals have just placed particles, due to the presence of short-lived pheromones.\n\nSelf-organization enables a swarm of social insects to carry out complex tasks through the collective duties of individuals within the colony without being centrally controlled. The collective effort of the whole group is the only means by which the group is able to sustain itself and grow as a community.\n\nThis summary was contributed by Stephen Nelson.\n\nImage: Dude-K / toggle icon Image: daryl / toggle icon Image: Troy Trolley / Flickr / toggle icon right arrow right arrow\n\nUniversity of Bristol\n\nSampling technique from University of Bristol tracks all sampled components to avoid repetition.",
+  "mechanism": "Colonies of social insects self-organize and carry out complex group tasks through many simple individual interactions.\n\nFor social insects, teamwork is predominantly self-organized. Coordinated primarily through the interactions of individual colony members, the insects can solve complex problems even though each interaction may be very simple.\n\nTo understand the power of self-organization, consider how ants find the shortest distance to a food source simply by laying and following chemical trails. For example, two ants leave their nest in search of food and venture off on separate paths. While walking, they release a trail of pheromones (chemicals) that the other ants in the colony can detect. The ant that takes the shorter route doubles back to the nest more quickly, adding more pheromones on top of those already left on the first passage (away from the nest). This reinforcement of pheromones leaves a higher concentration for other ants to sense, and as a result, other members of the colony detect and follow this more distinct trail of pheromones, as well.\n\nIn the same way, some termites, with no supervision, collectively build above-ground mounds that may facilitate gas exchange with their below-ground nests. Although science has yet to fully explain the exact mechanisms through which these mounds are created, several models indicate that termites are more likely to deposit soil particles where other individuals have just placed particles, due to the presence of short-lived pheromones.\n\nSelf-organization enables a swarm of social insects to carry out complex tasks through the collective duties of individuals within the colony without being centrally controlled. The collective effort of the whole group is the only means by which the group is able to sustain itself and grow as a community.\n\nUniversity of Bristol\n\nSampling technique from University of Bristol tracks all sampled components to avoid repetition.",
   "function_addressed": [
     "cooperate within the same species",
     "coordinate by self-organization"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-the-same-species",
+    "coordinate::by-self-organization"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "coordinate"
+  ],
   "source_url": "https://asknature.org/strategy/colonies-self-organize/",
-  "source_tier": "science_journalism",
   "keywords": [
     "colonies",
     "self-organize"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-web-continuously-collects-water-from-air",
   "organism_common": "Capture, Absorb, or Filter Liquids",
-  "organism_scientific": "",
   "strategy_summary": "The structure of special silk from cribellate spiders continuously pulls and transports water from the air. As air temperatures drop, water vapor in the air collects on certain surfaces, such as grass and spider webs.",
-  "mechanism": "The structure of special silk from cribellate spiders continuously pulls and transports water from the air.\n\nAs air temperatures drop, water vapor in the air collects on certain surfaces, such as grass and spider webs. Not all materials do this, for example human hair absorbs water rather than letting it collect on the surface.\n\nThe webs of certain spiders, such as cribellate spiders, are particularly good at collecting water from the air. Cribellate spiders use a comb-like structure on their legs to puff up their silk into a ball-like tangle. They then weave webs that alternate these tangles with straight, smooth, thin sections of silk (threads), making a sort of beaded necklace structure that alternates the tangles separated by threads.\n\nWater vapor condenses on all parts of the web, but it doesn’t stay equally spread throughout. Instead, once it condenses the water quickly starts to move, migrating from the thin threads towards the tangles. This happens because the tangled parts of the web have more area for the water to stick to, which ends up pulling the water from the threads, which are thinner and have less area for water to stick to. The curved shape of the tangles also helps channel water. The result is that water collects and gets stored in the tangles, creating larger and larger water drops. This movement of the water also creates new, exposed, relatively dry silk along the threads again, to which more water vapor from the air collects, in a continuous process.\n\nThe result is that these spider web structures can capture, transport, and store a large amount of water from the air. These structures, and how they work, could provide inspiration for creating new water-harvesting devices, especially in areas with low rainfall.\n\nImage: Alexandre Buisse / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon Image: Pixabay / CC BY - Creative Commons Attribution alone toggle icon right arrow right arrow\n\nTamkang University\n\nDome lens from Tamkang University utilizes the properties of spider silk to form a dome shape out of resin.",
+  "mechanism": "The structure of special silk from cribellate spiders continuously pulls and transports water from the air.\n\nAs air temperatures drop, water vapor in the air collects on certain surfaces, such as grass and spider webs. Not all materials do this, for example human hair absorbs water rather than letting it collect on the surface.\n\nThe webs of certain spiders, such as cribellate spiders, are particularly good at collecting water from the air. Cribellate spiders use a comb-like structure on their legs to puff up their silk into a ball-like tangle. They then weave webs that alternate these tangles with straight, smooth, thin sections of silk (threads), making a sort of beaded necklace structure that alternates the tangles separated by threads.\n\nWater vapor condenses on all parts of the web, but it doesn’t stay equally spread throughout. Instead, once it condenses the water quickly starts to move, migrating from the thin threads towards the tangles. This happens because the tangled parts of the web have more area for the water to stick to, which ends up pulling the water from the threads, which are thinner and have less area for water to stick to. The curved shape of the tangles also helps channel water. The result is that water collects and gets stored in the tangles, creating larger and larger water drops. This movement of the water also creates new, exposed, relatively dry silk along the threads again, to which more water vapor from the air collects, in a continuous process.\n\nThe result is that these spider web structures can capture, transport, and store a large amount of water from the air. These structures, and how they work, could provide inspiration for creating new water-harvesting devices, especially in areas with low rainfall.\n\nTamkang University\n\nDome lens from Tamkang University utilizes the properties of spider silk to form a dome shape out of resin.",
   "function_addressed": [
     "capture, absorb, or filter liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/web-continuously-collects-water-from-air/",
-  "source_tier": "science_journalism",
   "keywords": [
     "web",
     "continuously",
@@ -19,7 +20,5 @@
     "water",
     "air"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

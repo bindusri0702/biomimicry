@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-pollen-survives-extreme-dehydration",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "Pollen of flowering plants can survive extreme dehydration via several mechanisms, including a reversible wall-folding pathway that results in complete impermeability. “[O]ne of [pollen’s] great mysteries is how it can withstand desiccation.",
   "mechanism": "Pollen of flowering plants can survive extreme dehydration via several mechanisms, including a reversible wall-folding pathway that results in complete impermeability.\n\n“[O]ne of [pollen’s] great mysteries is how it can withstand desiccation. Even though the near-spherical shape of some species’ generates surface-area-to-volume ratios that minimise water loss, and their walls are surrounded by an impermeable outer later of exine, this is interrupted by apertures that provide exit routes for ‘materials’. And, as dry as pollen grains can be, loss of too much water will result in their death. So, it is intriguing to know how they manage to stay hydrated. Well, according to Elena Katifori et al. (PNAS 107: 7635–7639, 2010) it’s all down to ‘simple geometry’ and a phenomenon called harmomegathy. Although Katifori and colleagues did not invent the term, they do demonstrate that geometrical and mechanical principles explain how the wall structure guides pollen grains toward distinct folding pathways. During harmomegathy the pollen surface undergoes a folding process to produce a sealed pollen grain in which those permeable apertures become neatly tucked inside the impermeable exine.” (Chaffey 2010:vi)\n\nLily pollen - these specimens have been acetolyzed to remove cytoplasm and pollenkit in order to reveal the intricate wall structure.",
   "function_addressed": [
     "protect from loss of liquids",
     "modify size/shape/mass/volume"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::size-shape-mass-volume",
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/pollen-survives-extreme-dehydration/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pollen",
     "survives",
     "extreme",
     "dehydration"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

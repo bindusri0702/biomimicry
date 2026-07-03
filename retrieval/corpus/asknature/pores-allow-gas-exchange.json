@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-pores-allow-gas-exchange",
   "organism_common": "Great northern loon",
-  "organism_scientific": "",
   "strategy_summary": "The eggs of a birds provide gas exchange through pore canals. “Eggshell textures are the result of a porous microstructure that regulates the passage of water vapor, respiratory gases, and microorganisms between the inside of the egg and the external world.",
   "mechanism": "The eggs of a birds provide gas exchange through pore canals.\n\n“Eggshell textures are the result of a porous microstructure that regulates the passage of water vapor, respiratory gases, and microorganisms between the inside of the egg and the external world. The eggshell is permeated by thousands of microscopic pores (Figure 14-15). An ordinary hen’s egg has more than 7500 pores, mostly at the blunt end of the egg.\n\n“The shells of most avian eggs have simple, straight pore canals that widen slightly toward the openings on the exterior surface. The eggshell pores of swans and ratites [group ostriches are in], however, branch from their origins near the shell membrane into a more complex network…Covering the exterior openings of the pore canals of all avian eggshells except those of pigeons and doves are tiny plugs or caps, which may act as pressure-sensitive valves.” (Gill 2007:421)\n\nCaption from Figure 14-15: “Pore canals allow gas exchange through the eggshell. Oxygen enters the eggs through pores in the cuticle and passes through columns of crystals to the permeable shell membranes. Carbon dioxide and water vapor escape to the outside environment through these same pores. Blood vessels in the capillary bed of the chorioallantois [membrane] link the developing embryo to the gas-exchange pathway.”",
   "function_addressed": [
@@ -9,18 +8,21 @@
     "protect from excess liquids",
     "protect from dirt/solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::gases",
+    "protect-from-non-living-threats::dirt-solids",
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/pores-allow-gas-exchange/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pores",
     "allow",
     "gas",
     "exchange"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

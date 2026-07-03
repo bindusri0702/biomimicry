@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-matrix-produces-strong-structural-materials",
   "organism_common": "Cultivated flax",
-  "organism_scientific": "",
   "strategy_summary": "Fibers produced by the flax plant provide strength by being extensively cross-linked composites of cellulose, pectin, and protein in a long, tube-like architecture. Flax fiber has been used for millenia throughout the world for the production of linen textile.",
   "mechanism": "Fibers produced by the flax plant provide strength by being extensively cross-linked composites of cellulose, pectin, and protein in a long, tube-like architecture.\n\nFlax fiber has been used for millenia throughout the world for the production of linen textile. Its strength and desirable properties are a result of its microscopic structure and chemistry. Flax fibers are relatively long, tube-like composites (up to about 5 cm, or 2 inches) of cellulose supplemented by pectin and other polysaccharides, lined up in the direction of the tube, surrounded by concentric layers of cells forming a super-strong secondary wall. Extensive cross-linking, aided by the presence of several types of protein s, binds all the components into an intricate matrix.\n\nStem cross-section, showing locations of underlying tissues. Ep = epidermis; C = cortex; BF = bast fibers; P = phloem; X = xylem; Pi = pith",
   "function_addressed": [
     "manage tension",
     "chemically assemble polymers"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::polymers",
+    "manage-structural-forces::tension"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/matrix-produces-strong-structural-materials/",
-  "source_tier": "science_journalism",
   "keywords": [
     "matrix",
     "produces",
@@ -20,7 +23,5 @@
     "structural",
     "materials"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

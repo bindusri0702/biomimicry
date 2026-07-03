@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-bacterial-proteins-conduct-electricity",
   "organism_common": "Geobacter sulfurreducens",
-  "organism_scientific": "",
   "strategy_summary": "In earlier eras, single-celled organisms were seen as “simpler.” Advances in microscopy and biochemistry have shown us just how oversimplified that view is. They may be tiny, but they’re performing many of the same tasks as the largest multicellular organisms, and their size actually opens up interesting possibilities…",
   "mechanism": "Metals such as iron, manganese, and arsenic—and even radioactive uranium—readily accept excess electrons, and they are commonly found in soil. But here’s the hitch: Bacteria can’t bring metals inside their cell walls, because the metals are too big, or toxic to the bacteria, or stuck to other surfaces. So the bacteria have to export their excess electrons outside, in a process known as extracellular respiration.\n\nThat’s where the nanowires come in. The bacteria use proteins to build thin structures 3 to 5 nanometers in diameter, about the size of a strand of human DNA. These nanowires extend beyond the bacterial cell walls, where they connect with the metals in surrounding sediments or water. Often, multitudes of bacteria assemble into a slimy biofilm, which can contain a whole network of nanowires.\n\nAdding on electrons causes changes in metals. Instead of being dissolved in water, they form solid compounds. In solid forms, they are less toxic. They don’t spread widely into the environment and can be more easily removed.\n\nNanowired bacteria could help clean up sites polluted by toxic metals from industry and sewage. In addition, scientists are exploring ways to build bacterial nanowire systems to create fuel cells that use bacteria to generate energy, and bioelectronic devices that can be used to conduct electricity in water.\n\nDestroying nanowire systems could have benefits as well: Medical researchers are investigating ways to knock out disease-causing microbes by disrupting their nanowires.",
   "function_addressed": [
     "regulate cellular processes",
     "modify electron transport"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-chemical-electrical-state::electron-transport",
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "modify-chemical-electrical-state",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/bacterial-proteins-conduct-electricity/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bacterial",
     "proteins",
     "conduct",
     "electricity"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

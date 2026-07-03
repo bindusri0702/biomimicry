@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-middle-ear-senses-barometric-pressure",
   "organism_common": "Eastern pipistrelle bat",
-  "organism_scientific": "",
   "strategy_summary": "The Vitali organ in the middle ear of the Eastern pipistrelle bat helps it hunt by sensing changes in barometric pressure that influence the number of insects flying at a given time. “Bat researcher Dr.",
   "mechanism": "The Vitali organ in the middle ear of the Eastern pipistrelle bat helps it hunt by sensing changes in barometric pressure that influence the number of insects flying at a given time.\n\n“Bat researcher Dr. Ken Paige of the University of Illinois’s Institute for Environmental Studies noted that flying insects were most common when air (barometric) pressure was low (except in heavy rain). During these conditions eastern pipistrelle bats inhabiting caves in western Illinois came outside in large numbers. When the air pressure rose, however, insect numbers declined, and fewer bats exited the caves. The bat’s barometric sense may be due to the Vitali organ in the middle ear — bats are the only mammals with this organ.” (Shuker 2001:64)",
   "function_addressed": [
     "sense atmospheric conditions",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::atmospheric-conditions"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/middle-ear-senses-barometric-pressure/",
-  "source_tier": "science_journalism",
   "keywords": [
     "middle",
     "ear",
@@ -20,7 +22,5 @@
     "barometric",
     "pressure"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-tongue-protected-from-thorns",
   "organism_common": "Giraffe",
-  "organism_scientific": "",
   "strategy_summary": "The tongues and mouths of giraffes and other ungulates are protected when eating thorny plants because they are leathery. “Yet giraffe and camels and goats have developed tongues that are so long, mobile and dexterous that they can select and grasp any particular shoot that they want, and the linings to their mouths…",
   "mechanism": "The tongues and mouths of giraffes and other ungulates are protected when eating thorny plants because they are leathery.\n\n“Yet giraffe and camels and goats have developed tongues that are so long, mobile and dexterous that they can select and grasp any particular shoot that they want, and the linings to their mouths seem to be so leathery that they can close around the thorns without damage of any kind.” (Attenborough 1995:61)",
   "function_addressed": [
     "modify material characteristics",
     "manage mechanical wear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::material-characteristics",
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/tongue-protected-from-thorns/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tongue",
     "protected",
     "thorns"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

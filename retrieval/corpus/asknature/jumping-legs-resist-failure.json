@@ -1,26 +1,28 @@
 {
   "doc_id": "asn-jumping-legs-resist-failure",
   "organism_common": "Desert locust",
-  "organism_scientific": "",
   "strategy_summary": "The jumping legs of the locust avoid failure due to high and frequent loading through viscoelasticity and plasticity of the chitin protein matrix. “Insect cuticle is one of the most common biological materials, yet very little is known about its mechanical properties.",
-  "mechanism": "The jumping legs of the locust avoid failure due to high and frequent loading through viscoelasticity and plasticity of the chitin protein matrix.\n\n“Insect cuticle is one of the most common biological materials, yet very little is known about its mechanical properties. Many parts of the insect exoskeleton, such as the jumping legs of locusts, have to withstand high and repeated loading without failure.* This paper presents the first measurements of fracture toughness for insect cuticle using a standard engineering approach. Our results show that the fracture toughness of cuticle in locust hind legs is 4.12 MPa m 1/2 and decreases with desiccation of the cuticle. Stiffness and strength of the tibia cuticle were measured using buckling and cantilever bending and increased with desiccation. A combination of the cuticle’s high toughness with a relatively low stiffness of 3.05 GPa results in a work of fracture of 5.56 kJ m –2 , which is amongst the highest of any biological material, giving the insect leg an exceptional ability to tolerate defects such as cracks and damage. Interestingly, insect cuticle achieves these unique properties without using reinforcement by a mineral phase, which is often found in other biological composite materials.” (Dirks and Taylor 2012:1502)\n\n* When jumping, the two tube-like metathoracic tibiae not only have to withstand repeated high bending forces of up to 20 times the locust’s body mass, they also temporarily store and release up to 10% of the jumping energy.\n\n“The mechanical properties of cuticle, like those of most biological composite materials, are determined by the volume fraction and the mechanical properties of its components. In particular, the viscoelasticity and plasticity of the protein matrix play an important role, allowing the material to dissipate energy, trap cracks and redistribute stress (Ji and Gao, 2010).” (Dirks and Taylor 2012:1507)\n\n“We analysed natural jumping when a hindleg slips, and kicking when a target is missed, and show that buckling can occur during both movements. Buckling did not occur when the tibia was flexed in preparation for a jump, unless flexion was impeded. We show that buckling is capable of dissipating energy, and thereby reduces the energy that would have to be absorbed by structures such as the joints. We also show that this buckling region contains a band of resilin that may help in energy storage and enable the original shape of the tibia to be restored after buckling. Finally, of the sense organs close to this region, we show that a group of campaniform sensilla responds to buckling movements.” (Bayley et al 2012:1152)",
+  "mechanism": "The jumping legs of the locust avoid failure due to high and frequent loading through viscoelasticity and plasticity of the chitin protein matrix.\n\n“Insect cuticle is one of the most common biological materials, yet very little is known about its mechanical properties. Many parts of the insect exoskeleton, such as the jumping legs of locusts, have to withstand high and repeated loading without failure.* This paper presents the first measurements of fracture toughness for insect cuticle using a standard engineering approach. Our results show that the fracture toughness of cuticle in locust hind legs is 4.12 MPa m 1/2 and decreases with desiccation of the cuticle. Stiffness and strength of the tibia cuticle were measured using buckling and cantilever bending and increased with desiccation. A combination of the cuticle’s high toughness with a relatively low stiffness of 3.05 GPa results in a work of fracture of 5.56 kJ m –2, which is amongst the highest of any biological material, giving the insect leg an exceptional ability to tolerate defects such as cracks and damage. Interestingly, insect cuticle achieves these unique properties without using reinforcement by a mineral phase, which is often found in other biological composite materials.” (Dirks and Taylor 2012:1502)\n\n* When jumping, the two tube-like metathoracic tibiae not only have to withstand repeated high bending forces of up to 20 times the locust’s body mass, they also temporarily store and release up to 10% of the jumping energy.\n\n“The mechanical properties of cuticle, like those of most biological composite materials, are determined by the volume fraction and the mechanical properties of its components. In particular, the viscoelasticity and plasticity of the protein matrix play an important role, allowing the material to dissipate energy, trap cracks and redistribute stress (Ji and Gao, 2010).” (Dirks and Taylor 2012:1507)\n\n“We analysed natural jumping when a hindleg slips, and kicking when a target is missed, and show that buckling can occur during both movements. Buckling did not occur when the tibia was flexed in preparation for a jump, unless flexion was impeded. We show that buckling is capable of dissipating energy, and thereby reduces the energy that would have to be absorbed by structures such as the joints. We also show that this buckling region contains a band of resilin that may help in energy storage and enable the original shape of the tibia to be restored after buckling. Finally, of the sense organs close to this region, we show that a group of campaniform sensilla responds to buckling movements.” (Bayley et al 2012:1152)",
   "function_addressed": [
     "manage impact",
     "manage mechanical wear",
     "prevent fracture/rupture"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::impact",
+    "prevent-structural-failure::fracture-rupture",
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/jumping-legs-resist-failure/",
-  "source_tier": "science_journalism",
   "keywords": [
     "jumping",
     "legs",
     "resist",
     "failure"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

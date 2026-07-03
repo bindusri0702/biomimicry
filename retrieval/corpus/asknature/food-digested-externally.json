@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-food-digested-externally",
   "organism_common": "House fly",
-  "organism_scientific": "",
   "strategy_summary": "Houseflies digest their food externally by apply a solvent liquid to food particles to dissolve them, and then suck up the liquid food. “The housefly uses the labellum in its mouthpart to ‘quality test’ food before feeding.",
   "mechanism": "Houseflies digest their food externally by apply a solvent liquid to food particles to dissolve them, and then suck up the liquid food.\n\n“The housefly uses the labellum in its mouthpart to ‘quality test’ food before feeding. Unlike many creatures, flies digest their food externally. It applies a solvent fluid to the food. This fluid dissolves the food into a liquid that the fly can suck. Then, the fly takes the liquid nutrients into itself by means of the labella which gently dabs liquids into its proboscis.” (Harun 2002:38)",
   "function_addressed": [
     "chemically break down organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/food-digested-externally/",
-  "source_tier": "science_journalism",
   "keywords": [
     "food",
     "digested",
     "externally"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-internal-thermostat-regulates-temperature",
   "organism_common": "Eastern skunk cabbage",
-  "organism_scientific": "",
-  "strategy_summary": "The internal thermostat of skunk cabbage regulates temperature, following a mathematical algorithm, dubbed the \"Zazen attractor.\"  Image: dogtooth77 / toggle icon Image: dogtooth77 / toggle icon right arrow right arrow  “The smelly skunk cabbage ( Symplocarpus foetidus ) — a member of the arum family rather than a…",
-  "mechanism": "The internal thermostat of skunk cabbage regulates temperature, following a mathematical algorithm, dubbed the \"Zazen attractor.\"\n\nImage: dogtooth77 / toggle icon Image: dogtooth77 / toggle icon right arrow right arrow\n\n“The smelly skunk cabbage ( Symplocarpus foetidus ) — a member of the arum family rather than a true cabbage — can tell us a thing or two about staying warm. It is one of the few complex plants that controls its tissue temperature, maintaining a comfortable 16 to 24 °C in all weathers. It can even melt snow as it warms itself to protect its delicate flowers. The plant generates heat by burning starch in special cells, but until now no one understood exactly how it controls its internal thermostat.\n\n“Now two researchers say its temperature follows a kind of mathematical pattern called a strange attractor. Takanori Ito and Kikukatsu Ito of Iwate University in Japan monitored several skunk cabbages in the wild, recording their temperatures every minute. At first, the temperature fluctuation appeared to be random. But using a statistical technique called non-linear forecasting, they found it varies in a way specified by a unique mathematical algorithm. They have called the algorithm a Zazen attractor after the plant’s Japanese name, Zazen-sou, meaning Zen meditation plant (Physical Review E, vol 72, 051909).\n\n“And the thermostat is surprisingly robust, despite its apparent jitteriness. ‘When a stable state is catastrophically damaged by drastic changes of environment, it is hard to regulate the system,’ says Takanori Ito. But the skunk cabbage’s thermostat can cope even under extreme conditions. ‘It can be regulated even when the ambient temperature drops below freezing.'” (Battersby 2005:14)",
+  "strategy_summary": "The internal thermostat of skunk cabbage regulates temperature, following a mathematical algorithm, dubbed the \"Zazen attractor.\"  “The smelly skunk cabbage ( Symplocarpus foetidus ) — a member of the arum family rather than a true cabbage — can tell us a thing or two about staying warm. It is one of the few complex…",
+  "mechanism": "The internal thermostat of skunk cabbage regulates temperature, following a mathematical algorithm, dubbed the \"Zazen attractor.\"\n\n“The smelly skunk cabbage ( Symplocarpus foetidus ) — a member of the arum family rather than a true cabbage — can tell us a thing or two about staying warm. It is one of the few complex plants that controls its tissue temperature, maintaining a comfortable 16 to 24 °C in all weathers. It can even melt snow as it warms itself to protect its delicate flowers. The plant generates heat by burning starch in special cells, but until now no one understood exactly how it controls its internal thermostat.\n\n“Now two researchers say its temperature follows a kind of mathematical pattern called a strange attractor. Takanori Ito and Kikukatsu Ito of Iwate University in Japan monitored several skunk cabbages in the wild, recording their temperatures every minute. At first, the temperature fluctuation appeared to be random. But using a statistical technique called non-linear forecasting, they found it varies in a way specified by a unique mathematical algorithm. They have called the algorithm a Zazen attractor after the plant’s Japanese name, Zazen-sou, meaning Zen meditation plant (Physical Review E, vol 72, 051909).\n\n“And the thermostat is surprisingly robust, despite its apparent jitteriness. ‘When a stable state is catastrophically damaged by drastic changes of environment, it is hard to regulate the system,’ says Takanori Ito. But the skunk cabbage’s thermostat can cope even under extreme conditions. ‘It can be regulated even when the ambient temperature drops below freezing.'” (Battersby 2005:14)",
   "function_addressed": [
     "maintain homeostasis"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/internal-thermostat-regulates-temperature/",
-  "source_tier": "science_journalism",
   "keywords": [
     "internal",
     "thermostat",
     "regulates",
     "temperature"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

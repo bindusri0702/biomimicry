@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-plasma-maintains-salt-balance",
   "organism_common": "Crab-eating frog",
-  "organism_scientific": "",
   "strategy_summary": "The plasma of crab-eating frogs allows them to survive in salt water by topping up the ionic concentration with non-ionic solute urea. “Adult frogs have a different, and rather more unusual, method of osmotic regulation.",
   "mechanism": "The plasma of crab-eating frogs allows them to survive in salt water by topping up the ionic concentration with non-ionic solute urea.\n\n“Adult frogs have a different, and rather more unusual, method of osmotic regulation. Instead of being osmoregulators and maintaining an imbalance between the osmotic concentration of their internal fluids and that of the exterior, they are partial osmoconformers. Internal osmotic concentration is matched with that of the exterior, at least in a hyperosmotic medium. This is brought about not by manipulating ion levels, but by ‘topping up’ the ionic concentration of the plasma with the non-ionic solute urea CO(NH2)2 (Fig. 3.4). Other amphibia show slightly raised urea levels in conditions of water shortage, but employing high urea levels to maintain osmotic balance with the environment is a habit shared only with elasmobranch fish (sharks, skates and rays) (Gordon et al. 1961). Urea is the standard nitrogenous excretory product of ordinary adult amphibia, and is normally voided at the earliest convenient opportunity. Indeed, given the solubility of urea, it is not an easy substance for a largely aquatic animal to retain, and it is not understood how Rana cancrivora [ Fejervarya raja ] achieves this. Not only is it soluble and difficult to retain, urea is toxic: the concentrations of urea that occur in the frog’s plasma at exterior salinities of 80 per cent sea water, should denature enzymes and affect the binding of oxygen by haemoglobin. Somehow Rana cancrivora copes with these hazards.” (Hogarth 1999:63-64)",
   "function_addressed": [
     "maintain homeostasis"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/plasma-maintains-salt-balance/",
-  "source_tier": "science_journalism",
   "keywords": [
     "plasma",
     "maintains",
     "salt",
     "balance"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

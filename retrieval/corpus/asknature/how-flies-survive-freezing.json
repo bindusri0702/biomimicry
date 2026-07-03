@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-how-flies-survive-freezing",
   "organism_common": "Goldenrod gall fly",
-  "organism_scientific": "",
   "strategy_summary": "In fields and gardens around the world, the tips of goldenrods sparkle with tiny pops of yellow along many spindly branches. Over 100 species of these flowers exist, and most grow natively in North America.",
-  "mechanism": "If you’ve ever left a glass bottle full of water in the freezer, you learned the hard way that water expands when it freezes. Living cells are essentially membranes filled with water, and most would rupture (and die) if frozen. So how do gall flies survive?\n\nThe answer depends on how water moves in and out of cells. Water can diffuse across cellular membranes, driven to find an equilibrium between what’s inside the cell and what’s outside. Or water can pass through a class of long snake-like proteins called aquaporins that work like doorways, opening pores through which water can flow.\n\nMuch of science fiction assumes that humans will one day be frozen in pods to endure eons spent in intergalactic travel without aging. While this may or may not be possible in the distant future, there are ways to improve how we freeze human biological material that could actually save many lives right here on Earth.\n\nWith the exception of plasma, most of the components in donated blood cannot be frozen. Although red blood cells can be frozen for emergency use, thawing them is expensive and requires trained staff and specialized equipment.",
+  "mechanism": "If you’ve ever left a glass bottle full of water in the freezer, you learned the hard way that water expands when it freezes. Living cells are essentially membranes filled with water, and most would rupture (and die) if frozen. So how do gall flies survive?\n\nThe answer depends on how water moves in and out of cells. Water can diffuse across cellular membranes, driven to find an equilibrium between what’s inside the cell and what’s outside. Or water can pass through a class of long snake-like proteins called aquaporins that work like doorways, opening pores through which water can flow.\n\nAll living organisms, including humans, have aquaporin protein s, but they only impart freeze-tolerance to certain species of insects, fish, reptiles, and amphibians. Scientists at Miami University proved that these proteins are critical to freeze protection; when they inhibited the proteins’ function, the gall fly tissue could no longer survive extreme cold. As a result, the researchers concluded these aquaporin channels push water from cells before it can freeze, expand, and rupture cell membranes, which would cause the cells to burst and die.\n\nIn a later study, the same researchers verified this pushing effect, demonstrating that the aquaporin channels in gall flies allow water to flow across the membrane nine times faster than it would by diffusion. Furthermore, the number of these specialized channels increases in larval cells as the temperature cools. When the scientists compared protein abundance in October to that in December, they found the colder weather added almost 40% more aquaporins throughout the insect’s body. Perhaps most importantly, they measured the highest quantity in the brain—the organ that needs the most freeze-protection to ensure survival.\n\nTo augment the insect’s freeze protection, a related group of proteins called aquaglyceroporins open channels for glycerol to enter cells. Glycerol is similar to glycol—the main component in car engine antifreeze—and both are alcohols. Unlike a bottle of water, a bottle of vodka in the freezer is fine because alcohols tend to have very low freezing points. So while the aquaporin channels pump out water to protect membranes from rupturing, aquaglyceroporin channels pump in more “anti-freeze” to slow the rate and reduce the extent of freezing.\n\nMuch of science fiction assumes that humans will one day be frozen in pods to endure eons spent in intergalactic travel without aging. While this may or may not be possible in the distant future, there are ways to improve how we freeze human biological material that could actually save many lives right here on Earth.\n\nWith the exception of plasma, most of the components in donated blood cannot be frozen. Although red blood cells can be frozen for emergency use, thawing them is expensive and requires trained staff and specialized equipment.\n\nUnfortunately, human organs cannot be frozen without destroying their cells. Consequently, a kidney can be stored for only 30 hours before it becomes unviable.\n\nAnd freezing organs for transplanting isn’t an option. Unfortunately, human organs cannot be frozen without destroying their cells. Consequently, a kidney can be stored for only 30 hours before it becomes unviable. A pancreas or liver lasts just 12 hours, while a heart or lung must be transplanted within only six hours.\n\nThe inability to store organs long-term keeps the supply of them low, and makes it difficult to get them to patients in remote, sparsely populated areas. The World Health Organization estimates that only 10% of patients across the world who need organ transplants actually receive them. Each year in the U.S., approximately 50,000 people are added to organ transplant waiting lists while over 700,000 deaths occur among those waiting.\n\nIf we can learn from the gall fly and other freeze-tolerant animals how they survive, it could help humans protect each other—and other living things—from many more dangers than just those of a long winter.",
   "function_addressed": [
     "prevent fracture/rupture",
     "protect from ice",
@@ -11,17 +10,25 @@
     "expel liquids",
     "distribute liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::liquids",
+    "expel::liquids",
+    "prevent-structural-failure::fracture-rupture",
+    "protect-from-non-living-threats::ice",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "expel",
+    "prevent-structural-failure",
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/how-flies-survive-freezing/",
-  "source_tier": "science_journalism",
   "keywords": [
     "flies",
     "survive",
     "freezing"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

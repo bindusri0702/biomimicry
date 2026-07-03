@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-lips-keep-soil-out-of-mouth",
   "organism_common": "Blesmoles and mole rats",
-  "organism_scientific": "",
   "strategy_summary": "Lips of the mole rat keep dirt out of their mouth while excavating by puckering closed behind the protruding front teeth. “Gnawing one’s way through earth could clearly be a distasteful business, but the mole-rat avoids mouthfuls of soil with a technique used by many other gnawers.",
   "mechanism": "Lips of the mole rat keep dirt out of their mouth while excavating by puckering closed behind the protruding front teeth.\n\n“Gnawing one’s way through earth could clearly be a distasteful business, but the mole-rat avoids mouthfuls of soil with a technique used by many other gnawers. It puckers its lips behind those extravagantly protruding teeth and so keeps its mouth tight shut while its teeth busily excavate.” (Attenborough 1979:254)",
   "function_addressed": [
     "protect from dirt/solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::dirt-solids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/lips-keep-soil-out-of-mouth/",
-  "source_tier": "science_journalism",
   "keywords": [
     "lips",
     "keep",
@@ -19,7 +20,5 @@
     "out",
     "mouth"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

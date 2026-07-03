@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-skin-maintains-structural-rigidity",
   "organism_common": "Humans",
-  "organism_scientific": "",
   "strategy_summary": "Human skin maintains its structural rigidity while expanding in water due to helical fibers of keratin woven into a three-dimensional pattern. \"’Our model provides an explanation as to why the skin maintains its structural rigidity and expansion in water, which was something that was never quite able to be explained,’…",
   "mechanism": "Human skin maintains its structural rigidity while expanding in water due to helical fibers of keratin woven into a three-dimensional pattern.\n\n\"’Our model provides an explanation as to why the skin maintains its structural rigidity and expansion in water, which was something that was never quite able to be explained,’ says [Myfanwy Evans of the Australian National University in Canberra]. Evans says the stratum corneum is made up of helical fibers of keratin that are woven together in a three-dimensional pattern. The researchers found the particular weave of the keratin enables it to act like a sponge, staying robust while absorbing water. The helical fibers also straighten out, allowing the material to expand and increase the volume of water it can hold, says Evans. But the key point is that as the material expands, all of the contacts between each of the fibers are maintained. ‘Contact between fibers are what gives the material structural stability,’ says Evans. ‘In this expansion all of those inter-fiber contacts are maintained so the material stays as a rigid material.’ Hence the remarkable properties of skin while we soak in the bath…[Evans] says the new understanding will make it easier for scientists to make materials that have this same property as skin.\" (Salleh 2011:1)",
   "function_addressed": [
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/skin-maintains-structural-rigidity/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skin",
     "maintains",
     "structural",
     "rigidity"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

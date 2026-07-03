@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-chemical-reception-discourages-taxis",
   "organism_common": "Woodlice",
-  "organism_scientific": "",
   "strategy_summary": "Woodlice reduce risk by avoiding dead and dying members of their own species via chemical signals they release. Insects and arthropods of various taxa avoid their dead and dying so as to prevent predation or the spread of disease.",
   "mechanism": "Woodlice reduce risk by avoiding dead and dying members of their own species via chemical signals they release.\n\nInsects and arthropods of various taxa avoid their dead and dying so as to prevent predation or the spread of disease. They respond to chemicals called necromones that are released by the dead or dying individual.",
   "function_addressed": [
     "sense chemicals (odor, taste, etc.) from the environment",
     "respond to signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "process-signals::respond-to-signals",
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "process-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/chemical-reception-discourages-taxis/",
-  "source_tier": "science_journalism",
   "keywords": [
     "chemical",
     "signals",
@@ -20,7 +23,5 @@
     "avoid",
     "dead"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

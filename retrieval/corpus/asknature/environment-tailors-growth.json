@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-environment-tailors-growth",
   "organism_common": "Common to all organisms",
-  "organism_scientific": "",
   "strategy_summary": "An organism's size is limited and is the result of numerous environmental and geometric factors. Great Blue Heron and Laughing Gull, Fulton Harbour, Fulton, Texas  “Size is no accident.",
   "mechanism": "An organism's size is limited and is the result of numerous environmental and geometric factors.\n\nGreat Blue Heron and Laughing Gull, Fulton Harbour, Fulton, Texas\n\n“Size is no accident. It is tailored to many conditions: the effect of external forces – gravity, water pressure, temperature, light, humidity, and so on; the quality, quantity, and availability of food; the number and nearness of predators, kin, and mates. At all times, size is governed by geometric laws that dictate whether an insect can grow as big as an elephant, or why a Shire horse is a different shape to a Shetland pony…Galileo was the first to point out, around 1600, that strength does not increase in proportion to size: a large structure, built to the same proportions and of the same materials as a smaller one, is the weaker of the two.” (Foy and Oxford Scientific Films 1982:40)",
   "function_addressed": [
@@ -9,17 +8,21 @@
     "modify size/shape/mass/volume",
     "regulate reproduction or growth"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "modify-physical-state::size-shape-mass-volume",
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "modify-physical-state",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/environment-tailors-growth/",
-  "source_tier": "science_journalism",
   "keywords": [
     "environment",
     "tailors",
     "growth"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

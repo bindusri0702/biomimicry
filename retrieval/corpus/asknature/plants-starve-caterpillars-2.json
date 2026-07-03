@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-plants-starve-caterpillars-2",
   "organism_common": "Tomato",
-  "organism_scientific": "",
   "strategy_summary": "Leaves of tomatoes ward off parasitic caterpillars by secreting an enzyme that breaks down a key nutrient in the caterpillar larvae's gut. While it would be business suicide for any restauranteur to go out of their way to sicken those who eat on its premises, tomato plants depend on such a strategy for their very…",
   "mechanism": "Leaves of tomatoes ward off parasitic caterpillars by secreting an enzyme that breaks down a key nutrient in the caterpillar larvae's gut.\n\nWhile it would be business suicide for any restauranteur to go out of their way to sicken those who eat on its premises, tomato plants depend on such a strategy for their very survival. When the larvae of herbivorous butterflies or moths begin to chew on tomato plant leaves, threonine deaminase, an enzyme commonly found in tomato leaves, changes to a form that enables it to survive the harsh conditions of the lepidopteran gut. In fact, it’s the conditions of the gut that activate this Clark Kent of an enzyme into a superhero molecule that breaks the bonds of threonine, an amino acid essential for the lepidopteran larvae’s survival. It may also add nails to the lepidopteran larvae’s coffin by degrading another amino acid, L-serine, and by producing toxic ammonia.\n\nLarva eating the leaf of a tomato, and the tomato’s defensive response. Artist: Emily Harrington. Copyright: All rights reserved.",
   "function_addressed": [
     "protect from animals",
     "catalyze chemical breakdown"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::catalyze-breaking-of-bonds",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/plants-starve-caterpillars-2/",
-  "source_tier": "science_journalism",
   "keywords": [
     "plants",
     "starve",
     "caterpillars"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-bark-protects-buds-from-fire",
   "organism_common": "Eucalyptus",
-  "organism_scientific": "",
   "strategy_summary": "Some eucalyptus trees protect their dormant, vegetative buds from fire via thick bark. “In most angiosperm trees dormant epicormic buds are present in the outer bark, a position where they could be killed by fire.",
   "mechanism": "Some eucalyptus trees protect their dormant, vegetative buds from fire via thick bark.\n\n“In most angiosperm trees dormant epicormic buds are present in the outer bark, a position where they could be killed by fire. By contrast, in eucalypts the greatest epicormic bud initiation potential is at the level of the vascular cambium, which is protected by the maximum bark thickness. This might explain the pronounced ability of eucalypts to produce bole and branch epicormic shoots after moderate to intense fire.” (Burrows 2002:111)",
   "function_addressed": [
     "protect from fire"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::fire"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/bark-protects-buds-from-fire/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bark",
     "protects",
     "buds",
     "fire"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-suckers-allow-fine-attachment",
   "organism_common": "Cephalopods",
-  "organism_scientific": "",
   "strategy_summary": "Suckers of the octopus hold objects smaller than the suckers by having tiny projections called denticles, 3-micrometer-diameter pegs. “William Kier of the University of North Carolina is studying the rows of muscular suckers along the arms and tentacles of octopi.",
   "mechanism": "Suckers of the octopus hold objects smaller than the suckers by having tiny projections called denticles, 3-micrometer-diameter pegs.\n\n“William Kier of the University of North Carolina is studying the rows of muscular suckers along the arms and tentacles of octopi. Octopus suckers’ tiny projections called denticles are 3-micrometer-diameter pegs that provide more intimate contact with the surface underneath. The denticles allow the suckers to grip a range of objects, including objects smaller than the suckers. This could be useful information for creating stronger human-made suction cups.” (Courtesy of the Biomimicry Guild)\n\nUniversity of Illinois Urbana-Champaign\n\nElectrothermal manipulator from University of Illinois Urbana Champaign has a temperature-responsive layer of soft hydrogel that allows handling of fragile, thin tissue.",
   "function_addressed": [
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/suckers-allow-fine-attachment/",
-  "source_tier": "science_journalism",
   "keywords": [
     "suckers",
     "allow",
     "fine",
     "attachment"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

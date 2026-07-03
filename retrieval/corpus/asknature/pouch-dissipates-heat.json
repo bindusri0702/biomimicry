@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-pouch-dissipates-heat",
   "organism_common": "Maintain Homeostasis",
-  "organism_scientific": "",
   "strategy_summary": "The gular pouch the pelican dissipates heat by having a vascular structure. “The gular pouch is used for prey capture in the pelicans, courtship displays in the frigatebirds, and thermoregulation in most species.",
   "mechanism": "The gular pouch the pelican dissipates heat by having a vascular structure.\n\n“The gular pouch is used for prey capture in the pelicans, courtship displays in the frigatebirds, and thermoregulation in most species. 2 Blood flow to the pouch of the pelican is supplied through midline vessels that send branches laterally and through subramal vessels that send branches medially into the gular sac. 11 The inner and outer surfaces of the gular sac are covered with squamous epithelium, with a highly vascular muscular layer between. 11,20 ” (Fowler and Miller 2003: 118)",
   "function_addressed": [
     "maintain homeostasis",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/pouch-dissipates-heat/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pouch",
     "dissipates",
     "heat"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

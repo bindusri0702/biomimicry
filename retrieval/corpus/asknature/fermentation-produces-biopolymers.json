@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-fermentation-produces-biopolymers",
   "organism_common": "Rhodobacter sphaeroides",
-  "organism_scientific": "",
   "strategy_summary": "The metabolism of Rhodobacter sphaeroides bacteria can produce biopolymers such as PHB using carbon in a fermentation process. “PHB [polyhydroxybutyrate] can be synthesized by many microorganisms, such as Alcaligenes eutrophus (Madison and Huisman, 1999;Kobayashi et al., 2000; Song et al., 2001; Tohyama et al., 2002)…",
-  "mechanism": "The metabolism of Rhodobacter sphaeroides bacteria can produce biopolymers such as PHB using carbon in a fermentation process.\n\n“PHB [polyhydroxybutyrate] can be synthesized by many microorganisms, such as Alcaligenes eutrophus (Madison and Huisman, 1999;Kobayashi et al., 2000; Song et al., 2001; Tohyama et al., 2002), A. latus (Grothe and Chistri, 2000), Pseudomonas species (Guo-Qiang et al., 2001; Ashby et al., 2002) and recombinant Escherichia coli (Ramachander et al., 2002; Yu et al., 2002)… Rhodobacter sphaeroides has been reported to accumulate high amount of PHB (40–60% of dry cell weight, DCW) (Ali Hassan et al., 1997; Khatipov et al., 1998; Chen et al., 2006)…In this study, the optimization using statistical method clearly indicated that carbon and nitrogen source had a profound effect on the biomass and PHB production. Acetate, an effective carbon source for growth and PHB production for all three strains of R. sphaeroides , is cheaper than malate, which is typically used in R. sphaeroides fermentation. Up to 50% of DCW of PHB content obtained from R. sphaeroides strain (N20 and U7) was similar to that from the recombinant E. coli (Nikel et al., 2005)…The results suggested that R. sphaeroides N20 had a good potential for production of PHB by fermentation in a 5-l bioreactor using a cultivation medium containing cheap carbon source acetate as the main substrate. The PHB content of 95% of the DCW achieved from this strain is the highest value ever reported from photosynthetic bacteria.” (Sangkharak and Prasertsan 2007:331, 338-339)",
+  "mechanism": "The metabolism of Rhodobacter sphaeroides bacteria can produce biopolymers such as PHB using carbon in a fermentation process.\n\n“PHB [polyhydroxybutyrate] can be synthesized by many microorganisms, such as Alcaligenes eutrophus (Madison and Huisman, 1999;Kobayashi et al., 2000; Song et al., 2001; Tohyama et al., 2002), A. latus (Grothe and Chistri, 2000), Pseudomonas species (Guo-Qiang et al., 2001; Ashby et al., 2002) and recombinant Escherichia coli (Ramachander et al., 2002; Yu et al., 2002)… Rhodobacter sphaeroides has been reported to accumulate high amount of PHB (40–60% of dry cell weight, DCW) (Ali Hassan et al., 1997; Khatipov et al., 1998; Chen et al., 2006)…In this study, the optimization using statistical method clearly indicated that carbon and nitrogen source had a profound effect on the biomass and PHB production. Acetate, an effective carbon source for growth and PHB production for all three strains of R. sphaeroides, is cheaper than malate, which is typically used in R. sphaeroides fermentation. Up to 50% of DCW of PHB content obtained from R. sphaeroides strain (N20 and U7) was similar to that from the recombinant E. coli (Nikel et al., 2005)…The results suggested that R. sphaeroides N20 had a good potential for production of PHB by fermentation in a 5-l bioreactor using a cultivation medium containing cheap carbon source acetate as the main substrate. The PHB content of 95% of the DCW achieved from this strain is the highest value ever reported from photosynthetic bacteria.” (Sangkharak and Prasertsan 2007:331, 338-339)",
   "function_addressed": [
     "chemically assemble polymers"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::polymers"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/fermentation-produces-biopolymers/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fermentation",
     "produces",
     "biopolymers"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

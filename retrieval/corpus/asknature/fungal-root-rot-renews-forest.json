@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-fungal-root-rot-renews-forest",
   "organism_common": "Forest ecosystems",
-  "organism_scientific": "",
   "strategy_summary": "Fungal root-rot renews mountain hemlock forests by causing nitrogen release. Mountain Hemlock (Tsuga mertensiana) foliage and cones with Subalpine Fir trunk behind (left).",
   "mechanism": "Fungal root-rot renews mountain hemlock forests by causing nitrogen release.\n\nMountain Hemlock (Tsuga mertensiana) foliage and cones with Subalpine Fir trunk behind (left). White resin adheres to the cones.\n\nClose up of Laminated Root Rot\n\n“Disease outbreaks are certainly part of the natural cycle. Occurring periodically in virtually all populations, they can weed out less fit or vigorous individuals, recycle essential nutrients, influence the mix of species and the direction and pace of successional change in a community. A case in point is the fungal root-rot dieback that sweeps through stands of mature mountain hemlock every 90 to 150 years in the conifer forests of the U.S. Pacific Northwest. The outbreak starts from one or a few infected trees and moves out in a radial pattern as the fungal mycelia spread underground from the roots of one tree to another. Pamela Matson of the University of California, Berkeley, and Richard Boone, then of Oregon State University, found that after the disease front has moved through a stand, nitrogen release in the soil doubles. The standing dead trees often give way to fire and then to young hemlock seedlings that grow in the fire-swept clearings, where the extra sunlight and nitrogen help them withstand the effects of the fungus. The young hemlocks are subsequently joined by resistant lodgepole pines and an array of other species, depending on the soil moisture, creating a vigorous and often more species-rich patch of young forest.” (Baskin 1997:59-60)",
   "function_addressed": [
@@ -9,18 +8,20 @@
     "biological control of populations, pests, diseases",
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::biological-control-of-populations-pests-diseases",
+    "provide-ecosystem-services::maintain-biodiversity",
+    "provide-ecosystem-services::manage-disturbance-in-a-community"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/fungal-root-rot-renews-forest/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fungal",
     "root-rot",
     "renews",
     "forest"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-bending-prevents-damage",
   "organism_common": "Birds",
-  "organism_scientific": "",
   "strategy_summary": "Birds have mastered the art of flight, and their feathers are a marvel of natural engineering. Unlike solid airplane wings, bird flight feathers must be both strong and lightweight to support lift and withstand the forces of air resistance and turbulence.",
-  "mechanism": "Flight feathers are unique structures that are credited with being the primary evolutionary development that enabled birds to fly. They must be able to withstand the large forces that occur during flight and they must be lightweight. Unlike airplane wings, which are solid, bird flight feathers are formed from a web of barbs projecting from a central stiff vein. This design balances the large surface area needed for lift with strength and extreme lightness.\n\nFeather barbs are thin and flexible and have a number of features to protect them from permanent damage. Barbs are linked with a series of grooves and hooks that zipper up like Velcro, enabling them to detach when forces become too great and to be easily repaired later. Barbs are ribbon shaped, meaning they are stiff in one direction and flexible in the other. They are stiff in the direction under which they are loaded during flight, but very flexible in the other direction. This works because the hook and groove mesh holds them in place and counteracts their side-to-side flexibility. At the same time, if forces do become too large and the barbs are at risk of permanent damage, they are still able to twist, presenting their flat flexible side to the force, bending and spilling the load. In this way, they flex out of the way when necessary, reassuming their prior position later and zippering back up again, as good as new.\n\nThe design of bird feathers offers inspiration for a wide range of human applications. In aerospace engineering, flexible, self-healing materials could improve aircraft wings, making them more resilient to turbulence and stress while reducing maintenance needs. Additionally, architects and engineers designing wind-resistant structures could take inspiration from the way feathers flex to dissipate force, creating architectural features that can temporartily deform to avoid breaking in extreme weather conditions.",
+  "mechanism": "Flight feathers are unique structures that are credited with being the primary evolutionary development that enabled birds to fly. They must be able to withstand the large forces that occur during flight and they must be lightweight. Unlike airplane wings, which are solid, bird flight feathers are formed from a web of barbs projecting from a central stiff vein. This design balances the large surface area needed for lift with strength and extreme lightness.\n\nFeather barbs are thin and flexible and have a number of features to protect them from permanent damage. Barbs are linked with a series of grooves and hooks that zipper up like Velcro, enabling them to detach when forces become too great and to be easily repaired later. Barbs are ribbon shaped, meaning they are stiff in one direction and flexible in the other. They are stiff in the direction under which they are loaded during flight, but very flexible in the other direction. This works because the hook and groove mesh holds them in place and counteracts their side-to-side flexibility. At the same time, if forces do become too large and the barbs are at risk of permanent damage, they are still able to twist, presenting their flat flexible side to the force, bending and spilling the load. In this way, they flex out of the way when necessary, reassuming their prior position later and zippering back up again, as good as new.\n\nThe design of bird feathers offers inspiration for a wide range of human applications. In aerospace engineering, flexible, self-healing materials could improve aircraft wings, making them more resilient to turbulence and stress while reducing maintenance needs. Additionally, architects and engineers designing wind-resistant structures could take inspiration from the way feathers flex to dissipate force, creating architectural features that can temporartily deform to avoid breaking in extreme weather conditions.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "manage turbulence",
     "manage shear",
@@ -11,17 +10,22 @@
     "manage tension",
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::shear",
+    "manage-structural-forces::tension",
+    "manage-structural-forces::turbulence",
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/bending-prevents-damage/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bending",
     "prevents",
     "damage"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

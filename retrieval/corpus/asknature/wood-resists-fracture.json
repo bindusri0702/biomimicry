@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-wood-resists-fracture",
   "organism_common": "Manage Shear",
-  "organism_scientific": "",
   "strategy_summary": "Wood of trees resists crosswise fracture via complex architecture. “That construction of lengthwise tubes with relatively modest cross-connections gives wood its spectacular anisotropy…Crosswise, though, most woods resist fracture well, with the highest work of fracture of any rigid biological material; the…",
   "mechanism": "Wood of trees resists crosswise fracture via complex architecture.\n\n“That construction of lengthwise tubes with relatively modest cross-connections gives wood its spectacular anisotropy…Crosswise, though, most woods resist fracture well, with the highest work of fracture of any rigid biological material; the orientational difference can be as much as a hundredfold (table 15.7). Not only can we use all kinds of intrusive fasteners such as nails and screws without initiating fracture, but a tree can be injured by a crosswise ax stroke and yet not crack in the next storm. A sawyer must cut almost all the way across the trunk before a healthy tree topples.” (Vogel 2003:343)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
   "function_addressed": [
     "manage shear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::shear"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/wood-resists-fracture/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wood",
     "resists",
     "fracture"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

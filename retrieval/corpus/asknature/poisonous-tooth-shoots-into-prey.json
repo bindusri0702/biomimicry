@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-poisonous-tooth-shoots-into-prey",
   "organism_common": "Cloth-of-gold cone",
-  "organism_scientific": "",
   "strategy_summary": "The teeth of cone nails are used to attack prey, detaching and shooting like a harpoon, releasing nerve poison into their victim. “A cone shell’s attractive yellow and black coloration should be taken as a warning: this is one of the most poisonous shellfish in the world.",
   "mechanism": "The teeth of cone nails are used to attack prey, detaching and shooting like a harpoon, releasing nerve poison into their victim.\n\n“A cone shell’s attractive yellow and black coloration should be taken as a warning: this is one of the most poisonous shellfish in the world. A bite from the hollow teeth of its radula can inject enough venom to kill a man. The tooth is detached and shot into the prey like a harpoon, armed with a powerful nerve poison.” (Foy and Oxford Scientific Films 1982:112)\n\nWatch These Cunning Snails Stab and Swallow Fish Whole",
   "function_addressed": [
@@ -9,18 +8,21 @@
     "capture, absorb, or filter organisms",
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "distribute::liquids"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "capture-absorb-or-filter",
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/poisonous-tooth-shoots-into-prey/",
-  "source_tier": "science_journalism",
   "keywords": [
     "poisonous",
     "tooth",
     "shoots",
     "prey"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

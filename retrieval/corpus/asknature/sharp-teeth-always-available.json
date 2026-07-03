@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-sharp-teeth-always-available",
   "organism_common": "Sharks",
-  "organism_scientific": "",
   "strategy_summary": "The teeth of nurse sharks are always sharp and effective because new rows of teeth develop constantly to replace older, worn down teeth. “Seen at close quarters, a nurse shark reveals a formidable array of backward-curving teeth.",
   "mechanism": "The teeth of nurse sharks are always sharp and effective because new rows of teeth develop constantly to replace older, worn down teeth.\n\n“Seen at close quarters, a nurse shark reveals a formidable array of backward-curving teeth. Sharks are relatively primitive fish, their skeletons, and hence their jaws, being made of cartilage rather than bone…This nurse shark has three rows of teeth in use at a time. As they grow, they slowly move forwards and eventually drop out — they are probably in use for one or two weeks. But there are always rows of teeth developing behind to replace them. These teeth are larger than the ones currently in use, to keep pace with the shark’s growth. It has been estimated that, over a period of ten years, some sharks produce, use and shed about 24,000 teeth.” (Foy and Oxford Scientific Films 1982:87)",
   "function_addressed": [
     "physically assemble structure",
     "manage mechanical wear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "physically-assemble::structure",
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "physically-assemble",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/sharp-teeth-always-available/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sharp",
     "teeth",
     "always",
     "available"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

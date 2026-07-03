@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-bacteria-help-sense-far-red-light",
   "organism_common": "Lightless loosejaw",
-  "organism_scientific": "",
   "strategy_summary": "Retinas of loosejaw dragonfish sense far-red light by incorporating pigments from bacteria they eat. 1=Malacosteus niger  1=Malacosteus niger  1=Old picture showing ''Malacosteus niger''  “The black, loose-jawed dragonfish ( Malacosteus niger ) is a predatory deep-sea species that normally lives in near darkness at…",
-  "mechanism": "Retinas of loosejaw dragonfish sense far-red light by incorporating pigments from bacteria they eat.\n\n1=Malacosteus niger\n\n1=Malacosteus niger\n\n1=Old picture showing ''Malacosteus niger''\n\n“The black, loose-jawed dragonfish ( Malacosteus niger ) is a predatory deep-sea species that normally lives in near darkness at depths of 3,000 to 6,000 feet (915 to 1,830 m). How can they hunt in the dark? By being able to see far-red light.\n\n“Light at the far-red end of the so-called visible spectrum has the longest wavelength of all, around 0.73-0.8 micrometers. Although invisible to the human eye, this type of light can be seen by some animals, including the dragonfish. Behind the dragonfish’s eyes is a pair of bioluminescent organs that emit blue-green light. The majority of other bioluminescent creatures in this dark realm also emit bluish light, and have eyes that are sensitive to wavelengths within the blue portion of the visible spectrum.\n\n“A second pair of bioluminescent organs, located beneath the dragonfish’s eyes, give off far-red light, which is invisible to nearly all other life in the ocean depths. These organs give the dragonfish an advantage over its competitors, since the far-red light they emit enables the dragonfish to illuminate potential prey and to communicate with others of its own species without betraying its presence.\n\n“But how is the dragonfish able to see far-red-light? In a strange case of ‘you are what you eat,’ it probably obtains this ability by feeding on tiny crustaceans known as copepods, which have in turn eaten bacteria that can absorb far-red light. As revealed in 1998 by a team of scientists in Britain, including Bristol University researcher Dr. Ron Douglas, the retinae of the dragonfish contain modified versions of bacterial chlorophyll , pigment s that can absorb far-red light.” (Shuker 2001:18-19)\n\n“Most deep-sea fish have visual pigments that are most sensitive to wavelengths around 460-490 nm, the intensity maxima of both conventional blue bioluminescence and dim residual sunlight. The predatory deep-sea dragon fish Malacosteus niger , the closely related Aristostomias sp. and Pachystomias microdon can, in addition to blue bioluminescence, also emit far-red light from suborbital photophores, which is invisible to other deep-sea animals. Whereas Aristostomias sp. enhances its long-wavelength sensitivity using visual pigments that are unusually red sensitive, we now report that M. niger attains the same result using a derivative of chlorophyll as a photosensitizer.” (Douglas et al. 1998:423)",
+  "mechanism": "Retinas of loosejaw dragonfish sense far-red light by incorporating pigments from bacteria they eat.\n\n1=Malacosteus niger\n\n1=Malacosteus niger\n\n1=Old picture showing ''Malacosteus niger''\n\n“The black, loose-jawed dragonfish ( Malacosteus niger ) is a predatory deep-sea species that normally lives in near darkness at depths of 3,000 to 6,000 feet (915 to 1,830 m). How can they hunt in the dark? By being able to see far-red light.\n\n“Light at the far-red end of the so-called visible spectrum has the longest wavelength of all, around 0.73-0.8 micrometers. Although invisible to the human eye, this type of light can be seen by some animals, including the dragonfish. Behind the dragonfish’s eyes is a pair of bioluminescent organs that emit blue-green light. The majority of other bioluminescent creatures in this dark realm also emit bluish light, and have eyes that are sensitive to wavelengths within the blue portion of the visible spectrum.\n\n“A second pair of bioluminescent organs, located beneath the dragonfish’s eyes, give off far-red light, which is invisible to nearly all other life in the ocean depths. These organs give the dragonfish an advantage over its competitors, since the far-red light they emit enables the dragonfish to illuminate potential prey and to communicate with others of its own species without betraying its presence.\n\n“But how is the dragonfish able to see far-red-light? In a strange case of ‘you are what you eat,’ it probably obtains this ability by feeding on tiny crustaceans known as copepods, which have in turn eaten bacteria that can absorb far-red light. As revealed in 1998 by a team of scientists in Britain, including Bristol University researcher Dr. Ron Douglas, the retinae of the dragonfish contain modified versions of bacterial chlorophyll, pigment s that can absorb far-red light.” (Shuker 2001:18-19)\n\n“Most deep-sea fish have visual pigments that are most sensitive to wavelengths around 460-490 nm, the intensity maxima of both conventional blue bioluminescence and dim residual sunlight. The predatory deep-sea dragon fish Malacosteus niger, the closely related Aristostomias sp. and Pachystomias microdon can, in addition to blue bioluminescence, also emit far-red light from suborbital photophores, which is invisible to other deep-sea animals. Whereas Aristostomias sp. enhances its long-wavelength sensitivity using visual pigments that are unusually red sensitive, we now report that M. niger attains the same result using a derivative of chlorophyll as a photosensitizer.” (Douglas et al. 1998:423)",
   "function_addressed": [
     "sense light (non-visible spectrum) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::light-non-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/bacteria-help-sense-far-red-light/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bacteria",
     "sense",
     "far-red",
     "light"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

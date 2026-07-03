@@ -1,27 +1,29 @@
 {
   "doc_id": "asn-baleen-plates-filter-food",
   "organism_common": "Blue whale",
-  "organism_scientific": "",
   "strategy_summary": "The blue whale is the largest animal ever known to inhabit Earth. Found in every ocean on the planet except the Arctic, it grows as long as three school buses lined up end to end and can weigh more than nine school buses full of kids.",
-  "mechanism": "Like all baleen whales of the suborder Mysticeti, the blue whale’s baleen is composed of keratin, the same type of material that makes up hair, horns, fingernails, and claws in other mammals.\n\nAbout 350 plates of this material grow parallel to each other and perpendicular to the toothless jaw, lined up like slats of a vertical window blind. Each plate is made up of a main plate and a few smaller plates, forming a triangular profile. The plates contain tubules that separate to form a frayed edge on the tongue side and at the bottom made up of densely packed bristles 2 millimeters or smaller in diameter.\n\nAfter taking in krill and water together, the whale partly closes its mouth so that the water has to go through the baleen as it moves back out into the ocean. The baleen fringe is able to trap krill down to about half a millimeter in size.\n\nA blue whale’s approach to separate tiny particles from large amounts of water can find numerous applications in solving human needs. Baleen-like screens could be used to filter particles from wastewater as part of a conventional treatment process. They could provide a first level of cleansing for drinking water taken from lakes and streams. They could be used to produce beverages such as beer, wine, and apple cider that include non-liquid materials during part of their processing. They might prove useful in removing microplastic pollutants from soil, water, and other contaminated materials. They might even inspire new and more energy-efficient and cost-effective ways to desalinate seawater for use as drinking and irrigation water in arid regions.",
+  "mechanism": "Like all baleen whales of the suborder Mysticeti, the blue whale’s baleen is composed of keratin, the same type of material that makes up hair, horns, fingernails, and claws in other mammals.\n\nAbout 350 plates of this material grow parallel to each other and perpendicular to the toothless jaw, lined up like slats of a vertical window blind. Each plate is made up of a main plate and a few smaller plates, forming a triangular profile. The plates contain tubules that separate to form a frayed edge on the tongue side and at the bottom made up of densely packed bristles 2 millimeters or smaller in diameter.\n\nAfter taking in krill and water together, the whale partly closes its mouth so that the water has to go through the baleen as it moves back out into the ocean. The baleen fringe is able to trap krill down to about half a millimeter in size.\n\nThe blue whale is one of 14 whale species that use baleen as part of their foraging strategy. The length of the baleen plates and the nature of the bristles varies from one species to another depending on the whales’ foraging style and the size of prey they prefer.\n\nA recent study suggests that at least one whale species, the bowhead (Balaena mysticetus) , uses the baleen to direct food to the back of its throat rather than as an actual filter, which helps it avoid clogging the mechanism with bits of prey. The exact movement of water and krill within a blue whale’s mouth—and how it keeps from clogging and/or cleans its baleen—appears to remain a mystery for now.\n\nA blue whale’s approach to separate tiny particles from large amounts of water can find numerous applications in solving human needs. Baleen-like screens could be used to filter particles from wastewater as part of a conventional treatment process. They could provide a first level of cleansing for drinking water taken from lakes and streams. They could be used to produce beverages such as beer, wine, and apple cider that include non-liquid materials during part of their processing. They might prove useful in removing microplastic pollutants from soil, water, and other contaminated materials. They might even inspire new and more energy-efficient and cost-effective ways to desalinate seawater for use as drinking and irrigation water in arid regions.",
   "function_addressed": [
     "expel liquids",
     "capture, absorb, or filter liquids",
     "capture, absorb, or filter solids",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids",
+    "capture-absorb-or-filter::solids",
+    "expel::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "expel"
+  ],
   "source_url": "https://asknature.org/strategy/baleen-plates-filter-food/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hairlike",
     "fringe",
     "filters",
     "food"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

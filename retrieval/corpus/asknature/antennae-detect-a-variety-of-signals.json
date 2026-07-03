@@ -1,26 +1,28 @@
 {
   "doc_id": "asn-antennae-detect-a-variety-of-signals",
   "organism_common": "Western honeybee",
-  "organism_scientific": "",
   "strategy_summary": "The antennae of a bee allows it to sense a variety of signals including chemicals, light, vibrations, and electric fields. The antennae of bees serve the same purpose as a nose in humans; they’re filled with receptors for chemical odorants in the environment and help the bee smell the world.",
-  "mechanism": "The antennae of a bee allows it to sense a variety of signals including chemicals, light, vibrations, and electric fields.\n\nThe antennae of bees serve the same purpose as a nose in humans; they’re filled with receptors for chemical odorants in the environment and help the bee smell the world.\n\nThe antennae of male bees are often much longer than their female counterparts. Male antennae have an extra segment and the segments themselves have more length. This is because male antennae are specialized to pick up the subtle scent of female pheromones. Some honeybee workers have been shown to smell their Queen from up to 60 meters away.\n\nThe receptors on the antennae are divided into 4 categories: plates, pegs, hairs and pits. Plates are receptors for chemicals and light, pegs and pits are for smelling and hairs for touch. The arrangement of the sensors is very specific, with a tuft of hairs for feeling texture at the tip of the antennae and the majority of the receptors related to smell (known as pore plates) found on the last eight sub-segments. A male bee can have up to 100x the number of sensors on his antennae that a female can.\n\nAnother receptor, the Johnston’s organ, is found inside the antennae near the head. It detects movement and vibration around the antennae and has a variety of applications from allowing the bee to judge its speed, as well to detect electric fields. Bumblebees, for instance, can use the mechanoreceptors on their antennae to sense electric field strengths as small as 15.3 Vm-1.\n\nThis information is also available from the University of Calgary Invertebrate collection , where it was curated as part of a study on design inspired by bees.\n\nA male Melissodes rivalis bee with much longer antennae than the female.\n\nA female Melissodes rivalis bee.\n\nA female Melissodes confusus.\n\nA male Melissodes confusus, with much longer antennae than the female.",
+  "mechanism": "The antennae of a bee allows it to sense a variety of signals including chemicals, light, vibrations, and electric fields.\n\nThe antennae of bees serve the same purpose as a nose in humans; they’re filled with receptors for chemical odorants in the environment and help the bee smell the world.\n\nThe antennae of male bees are often much longer than their female counterparts. Male antennae have an extra segment and the segments themselves have more length. This is because male antennae are specialized to pick up the subtle scent of female pheromones. Some honeybee workers have been shown to smell their Queen from up to 60 meters away.\n\nThe receptors on the antennae are divided into 4 categories: plates, pegs, hairs and pits. Plates are receptors for chemicals and light, pegs and pits are for smelling and hairs for touch. The arrangement of the sensors is very specific, with a tuft of hairs for feeling texture at the tip of the antennae and the majority of the receptors related to smell (known as pore plates) found on the last eight sub-segments. A male bee can have up to 100x the number of sensors on his antennae that a female can.\n\nAnother receptor, the Johnston’s organ, is found inside the antennae near the head. It detects movement and vibration around the antennae and has a variety of applications from allowing the bee to judge its speed, as well to detect electric fields. Bumblebees, for instance, can use the mechanoreceptors on their antennae to sense electric field strengths as small as 15.3 Vm-1.\n\nThis information is also available from the University of Calgary Invertebrate collection, where it was curated as part of a study on design inspired by bees.\n\nA male Melissodes rivalis bee with much longer antennae than the female.\n\nA female Melissodes rivalis bee.\n\nA female Melissodes confusus.\n\nA male Melissodes confusus, with much longer antennae than the female.",
   "function_addressed": [
     "cooperate within the same species",
     "sense sound and other vibrations from the environment",
     "sense chemicals (odor, taste, etc.) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-the-same-species",
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc",
+    "sense-signals-environmental-cues::sound-and-other-vibrations"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/antennae-detect-a-variety-of-signals/",
-  "source_tier": "science_journalism",
   "keywords": [
     "antennae",
     "detect",
     "variety",
     "signals"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-skin-regulates-water-absorption",
   "organism_common": "Capture, Absorb, or Filter Liquids",
-  "organism_scientific": "",
   "strategy_summary": "Ventral pelvic skin of tree frogs regulates water absorption using two types of water-channel aquaporins. “The ventral pelvic skin of the tree frog Hyla japonica expresses two kinds of arginine vasotocin (AVT)-stimulated aquaporins (AQP-h2 and AQP-h3), which affect the capacity of the frog’s skin to absorb water.",
   "mechanism": "Ventral pelvic skin of tree frogs regulates water absorption using two types of water-channel aquaporins.\n\n“The ventral pelvic skin of the tree frog Hyla japonica expresses two kinds of arginine vasotocin (AVT)-stimulated aquaporins (AQP-h2 and AQP-h3), which affect the capacity of the frog’s skin to absorb water. As such, it can be used as a model system for analyzing the molecular mechanisms of water permeability…” (Ogushi et al. 2010:288)",
   "function_addressed": [
     "capture, absorb, or filter liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/skin-regulates-water-absorption/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skin",
     "regulates",
     "water",
     "absorption"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

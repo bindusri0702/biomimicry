@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-setae-enhance-temporary-adhesion",
   "organism_common": "Leaf beetles",
-  "organism_scientific": "",
   "strategy_summary": "The thousands of setae of leaf beetles enhance their ability to adhere to various, sometimes irregular surfaces thanks to the resulting multiple contact points. “Second, devices for intermittent adhesion in animals make extraordinary use of multiple contacts.",
   "mechanism": "The thousands of setae of leaf beetles enhance their ability to adhere to various, sometimes irregular surfaces thanks to the resulting multiple contact points.\n\n“Second, devices for intermittent adhesion in animals make extraordinary use of multiple contacts. The billion contacts of the gecko’s feet may not be exceptional. Each of Stork’s (1980) 5-microgram chrysomelid beetles had over ten thousand setae. William Kier found that even octopus suckers turn out to use tiny projections, pegs about 3 micrometers in diameter (Pennisi 2002). Using a lot of contacts must give some useful redundancy; more important, probably, are an improved fit to unpredictably irregular surfaces, easy ability to adjust adhesive strength, better resistance to shear forces, and (with interconnected space between them) useful pressure equalization. When attachment projections get down to the micrometer range, leakage of air between them (for suction, for instance) can’t be too much of a worry–with a little moisture, either viscosity or surface tension ought to provide an effective seal.” (Vogel 2003:430)",
   "function_addressed": [
     "attach temporarily",
     "manage shear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "manage-structural-forces::shear"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/setae-enhance-temporary-adhesion/",
-  "source_tier": "science_journalism",
   "keywords": [
     "setae",
     "enhance",
     "temporary",
     "adhesion"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

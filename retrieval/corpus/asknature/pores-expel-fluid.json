@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-pores-expel-fluid",
   "organism_common": "Iguana",
-  "organism_scientific": "",
   "strategy_summary": "A gland in the leg of the iguana excretes liquid via epidermal and dermal tubes and pores in the skin. “[The iguana] excretes liquid (sometimes volatile lipids) from a gland on ventral side of the femur.",
   "mechanism": "A gland in the leg of the iguana excretes liquid via epidermal and dermal tubes and pores in the skin.\n\n“[The iguana] excretes liquid (sometimes volatile lipids) from a gland on ventral side of the femur. The liquid is expelled through epidermal and dermal tubes ending in a row of pores on the skin. Gland length varies depending on the season, especially in males.” (Biomimicry Guild unpublished report)",
   "function_addressed": [
     "expel liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "expel::liquids"
+  ],
+  "subgroup_keys": [
+    "expel"
+  ],
   "source_url": "https://asknature.org/strategy/pores-expel-fluid/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pores",
     "expel",
     "fluid"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

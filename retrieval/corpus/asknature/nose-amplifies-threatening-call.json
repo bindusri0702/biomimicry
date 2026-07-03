@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-nose-amplifies-threatening-call",
   "organism_common": "Proboscis monkey",
-  "organism_scientific": "",
   "strategy_summary": "The nose of the male proboscis monkey amplifies its threatening call by serving as a resonating chamber. “A large mobile nose, like that of the elephant, may also be known as a proboscis: hence the name of the proboscis monkey, a curious-looking primate, the male of which has a long bulbous nose that hangs over his…",
   "mechanism": "The nose of the male proboscis monkey amplifies its threatening call by serving as a resonating chamber.\n\n“A large mobile nose, like that of the elephant, may also be known as a proboscis: hence the name of the proboscis monkey, a curious-looking primate, the male of which has a long bulbous nose that hangs over his mouth. This kind of nose is used as a resonating chamber, and is erected to amplify the male’s threatening call through the forest canopy of Borneo.” (Foy and Oxford Scientific Films 1982:136)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
   "function_addressed": [
     "send sound signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::sound"
+  ],
+  "subgroup_keys": [
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/nose-amplifies-threatening-call/",
-  "source_tier": "science_journalism",
   "keywords": [
     "nose",
     "amplifies",
     "threatening",
     "call"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

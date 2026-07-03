@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-microtubules-dynamically-change-length",
   "organism_common": "Eukaryotes",
-  "organism_scientific": "",
   "strategy_summary": "Microtubules fray when protective molecules degrade, then grow again when they reform. Eukaryotic cells are packed full of microtubules.",
-  "mechanism": "Microtubules fray when protective molecules degrade, then grow again when they reform.\n\nEukaryotic cells are packed full of microtubules. Far from being a loose sac of water and chemicals, as they are often envisaged, cells are actually densely packed with structures and organelles, all constantly carrying out crucial functions. While a lot of these functions are regulated by the passive diffusion of signaling molecules, many of them require active transport. Microtubules make up the physical skeleton of cells, enabling them to move and change shape, and they also form part of the infrastructure along which cellular components are transported. Microtubules also transport chromosomes, and so are critical for cell division and replication.\n\nMicrotubules are formed from numerous copies of the protein tubulin. Loose tubulin in the cytoplasm binds to molecules of GTP and becomes activated. In its active form, individual tubulin proteins will attach to one end of a growing microtubule. However, tubulin breaks down (hydrolyzes) GTP to GDP and GDP-bound tubulin is much more likely to dissociate from a microtubule. This reaction does not occur immediately, and there is a delay between tubulin becoming bound to GTP and its hydrolyzation to GDP. Because GDP-bound tubulin cannot pop out of the side of a microtubule in which it is already incorporated and only dissociates from one end, as long as new tubulin is being added to the end of a microtubule at a faster rate than hydrolyzation is occurring, there will be a cap of GTP-bound tubulin that will prevent the microtubule falling apart. However, if the rate of new tubulin addition slows and the protein at the tip hydrolyzes its GTP to GDP, this protective cap is lost and the microtubule will begin to fray. This sudden switch from growing to shrinking is called a microtubule “catastrophe” and is an important part of regulating tube length. Once a cap of GTP-bound tubulin reforms, the microtubule begins to grow again, termed “rescue”.\n\nThe precise mechanisms regulating microtubule catastrophe are not yet known, although it is understood to be regulated by multiple different factors. Catastrophe occurs at a higher rate in longer microtubules, indicating there must be a multi-step process that protects shorter microtubules from undergoing frequent catastrophe and enables them to grow.\n\nTo see how microtubule catastrophe works, check out this video .\n\nCommon to all organisms\n\nTransport protein in eukaryotes binds more tightly to its track via molecular force transmission only when heavily loaded\n\nImage: Thomas Splettstoesser / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon right arrow right arrow",
+  "mechanism": "Microtubules fray when protective molecules degrade, then grow again when they reform.\n\nEukaryotic cells are packed full of microtubules. Far from being a loose sac of water and chemicals, as they are often envisaged, cells are actually densely packed with structures and organelles, all constantly carrying out crucial functions. While a lot of these functions are regulated by the passive diffusion of signaling molecules, many of them require active transport. Microtubules make up the physical skeleton of cells, enabling them to move and change shape, and they also form part of the infrastructure along which cellular components are transported. Microtubules also transport chromosomes, and so are critical for cell division and replication.\n\nMicrotubules are formed from numerous copies of the protein tubulin. Loose tubulin in the cytoplasm binds to molecules of GTP and becomes activated. In its active form, individual tubulin proteins will attach to one end of a growing microtubule. However, tubulin breaks down (hydrolyzes) GTP to GDP and GDP-bound tubulin is much more likely to dissociate from a microtubule. This reaction does not occur immediately, and there is a delay between tubulin becoming bound to GTP and its hydrolyzation to GDP. Because GDP-bound tubulin cannot pop out of the side of a microtubule in which it is already incorporated and only dissociates from one end, as long as new tubulin is being added to the end of a microtubule at a faster rate than hydrolyzation is occurring, there will be a cap of GTP-bound tubulin that will prevent the microtubule falling apart. However, if the rate of new tubulin addition slows and the protein at the tip hydrolyzes its GTP to GDP, this protective cap is lost and the microtubule will begin to fray. This sudden switch from growing to shrinking is called a microtubule “catastrophe” and is an important part of regulating tube length. Once a cap of GTP-bound tubulin reforms, the microtubule begins to grow again, termed “rescue”.\n\nThe precise mechanisms regulating microtubule catastrophe are not yet known, although it is understood to be regulated by multiple different factors. Catastrophe occurs at a higher rate in longer microtubules, indicating there must be a multi-step process that protects shorter microtubules from undergoing frequent catastrophe and enables them to grow.\n\nTo see how microtubule catastrophe works, check out this video.\n\nCommon to all organisms\n\nTransport protein in eukaryotes binds more tightly to its track via molecular force transmission only when heavily loaded",
   "function_addressed": [
     "modify position",
     "modify size/shape/mass/volume",
@@ -11,11 +10,19 @@
     "regulate reproduction or growth",
     "regulate cellular processes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::position",
+    "modify-physical-state::size-shape-mass-volume",
+    "physically-assemble::structure",
+    "regulate-physiological-processes::cellular-processes",
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "physically-assemble",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/microtubules-dynamically-change-length/",
-  "source_tier": "science_journalism",
   "keywords": [
     "molecular",
     "caps",
@@ -24,7 +31,5 @@
     "cell",
     "structures"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

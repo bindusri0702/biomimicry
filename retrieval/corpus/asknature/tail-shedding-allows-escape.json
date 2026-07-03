@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-tail-shedding-allows-escape",
   "organism_common": "Rodents",
-  "organism_scientific": "",
   "strategy_summary": "The tails of many rodents assist escape from predators because they can be shed. Certain species of rodent can also shed their tails.",
   "mechanism": "The tails of many rodents assist escape from predators because they can be shed.\n\nCertain species of rodent can also shed their tails. “According to the authoritative mammalian encyclopedia Walker’s mammals of the World (1999), edited by Dr. Ronald M. Nowak, these include deer mice, rock rats, spiny mice, spiny rats, and dassie rats (not to be confused with true dassies, the hyrax subungulates). As with lizards, rodent tail-shedding involves the breaking off of all or part of the tail, allowing the rodent to escape. A partial replacement of the lost tail subsequently develops.” (Shuker 2001:132-133)",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/tail-shedding-allows-escape/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tail",
     "shedding",
     "allows",
     "escape"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

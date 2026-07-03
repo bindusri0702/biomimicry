@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-what-puts-the-explosive-pop-in-popping-cress",
   "organism_common": "Disperse Seeds",
-  "organism_scientific": "",
   "strategy_summary": "The intricate root systems visible at the base of uprooted trees didn’t provide those trees only with nutrients. They held them in place, keeping them stable and upright for decades or even centuries.",
   "mechanism": "The mechanism that accomplishes this effective outburst is as fascinating as it is complex.\n\nThe pods have different layers. The outer layer has soft, pliable cells that curl easily. But an inner layer of cells contains a strong, stiff compound called lignin. It resists curling, and the pod stays straight.\n\nThe lignin is shaped like a “U” cupping the bottom of the inner-layer cells. But if you apply enough force on lignin, it reaches a threshold that instantly overcomes its resistance. The two sides of the “U” slap downward and the inner layer suddenly curls open. The structure is called “bistable,” because it has two stable states and rapidly shifts between them. It works like a toy snap bracelet or a thin metal tape measure, which can maintain its rigidity until you snap it—and then it bends immediately.\n\nIn the case of popping cress, water is the key to building up tension. As the pod grows, water fills the cells in the flexible outer layer causing their cell walls to expand. That substantially builds up tension against the lignin in the inner-layer. In this way, the system builds up potential elastic energy slowly but can release it rapidly.\n\nWhen the tension on the lignin finally flattens its rigid U-shape, all that pent-up tension is released in just 3 milliseconds and the pod splits open. Pod sheaths curl back with a powerful snap that hurls the seeds with ballistic force up and outward like exploding fireworks.\n\nThe popping cress has evolved an effective system to build up potential elastic energy and instantly convert it into strong kinetic energy. Understanding its structural components and the physics underlying how they work together offers lessons on how to design robotic manipulators and ballistic systems.\n\nThe plant also inspires design systems that can monitor and respond to environmental conditions and take advantage of the circumstances in exotic locales to produce energy. Such innovations could lead to biomimetic solutions for challenges to remote exploration in unknown locales, including space missions.",
   "function_addressed": [
     "disperse seeds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::disperse-seeds"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/what-puts-the-explosive-pop-in-popping-cress/",
-  "source_tier": "science_journalism",
   "keywords": [
     "what",
     "puts",
@@ -20,7 +21,5 @@
     "popping",
     "cress"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-milk-protects-against-microbes",
   "organism_common": "Tammar wallaby",
-  "organism_scientific": "",
   "strategy_summary": "The milk of the tammar wallaby protects newborn wallabies from bacteria and fungi via the antimicrobial AGG01 molecule. Macropus eugenii  Macropus eugenii in Budapest Zoo  Macropus eugenii in Budapest Zoo  Macropus eugenii in Budapest Zoo  Macropus eugenii in Budapest Zoo  Macropus eugenii in Budapest Zoo  Macropus…",
   "mechanism": "The milk of the tammar wallaby protects newborn wallabies from bacteria and fungi via the antimicrobial AGG01 molecule.\n\nMacropus eugenii\n\nMacropus eugenii in Budapest Zoo\n\nMacropus eugenii in Budapest Zoo\n\nMacropus eugenii in Budapest Zoo\n\nMacropus eugenii in Budapest Zoo\n\nMacropus eugenii in Budapest Zoo\n\nMacropus eugenii in Budapest Zoo\n\nMacropus eugenii in Budapest Zoo\n\n''<a href=http://commons.wikimedia.org/wiki/Macropus_eugenii title=Macropus eugenii>Macropus eugenii</a>'' (orig. ''<a href=http://commons.wikimedia.org/w/index.php?title=Halmaturus_derbianus&action=edit&redlink=1 class=new title=Halmaturus derbianus (page does not exist)>Halmaturus derbianus</a>'')\n\n“A newborn wallaby is a tiny, bean-shaped creature, barely more than a fetus. It lacks a developed immune system, relying on compounds in its mother’s milk to protect it against pathogens. Now a unique antimicrobial has been discovered in wallaby milk that could be used in hospitals to fight deadly antibiotic-resistant bacteria.\n\n“When born, with a heart but no lungs, tammar wallabies ( Macropus eugenii ) crawl into their mother’s pouch, where they latch on to milk-bearing teats. ‘A huge amount of development happens in the pouch and during that time they just rely on milk,’ says Ben Cocks of the Victoria Department of Primary Industries in Melbourne, Australia.\n\n“Cocks has found that the mother’s milk contains a molecule that is 100 times more effective against Gram-negative bacteria such as E. coli than the most potent form of penicillin. The molecule, called AGG01, also kills four types of Gram-positive bacteria and one type of fungus. The work was presented at the US Biotechnology Industry Organization 2006 meeting in Chicago [April 2006].\n\n“AGG01 was probably lost from placental mammals, whose young have their own immune systems, when they split from marsupials.” (New Scientist 2006:16)",
   "function_addressed": [
     "protect from fungi",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::fungi",
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/milk-protects-against-microbes/",
-  "source_tier": "science_journalism",
   "keywords": [
     "milk",
     "protects",
     "against",
     "microbes"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

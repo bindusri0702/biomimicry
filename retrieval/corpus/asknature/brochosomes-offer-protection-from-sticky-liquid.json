@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-brochosomes-offer-protection-from-sticky-liquid",
   "organism_common": "Silver leafhopper",
-  "organism_scientific": "",
   "strategy_summary": "Leafhoppers are small insects that feed on sap from the leaves of deciduous trees. They excrete droplets of a liquid waste called honeydew.",
   "mechanism": "Brochosomes are tiny hollow football-shaped honeycomb spheres 400 nm across. Leafhoppers produce brochosomes from a special gland and then use a comb-like arrangement of setae, or hairs, on their legs to apply brochosomes across the whole surface of their bodies, including their eyes. Insect skin coated with brochosomes is superhydrophobic—meaning it is able to repel water as well as other water-based liquids like honeydew.\n\nMany animals and plants have solid surfaces that are water-repellent, but leafhopper brochosomes are a powder coating. This means they adhere to the surface of droplets that contact the insect and move with them as they roll off. Brochosomes also form a rough surface as they aggregate to different depths. This creates hierarchical surface roughness, which is one of the keys to water repellency.\n\nThe often intricate structures that make a surface water repellent are susceptible to damage. Structures that are built directly into the solid surface of an organism, like those of the sacred lotus plant and springtail skin, are difficult to repair. But because leafhoppers use a renewable coating of spheres, if anything removes the brochosomes, the coat can be quickly replaced. Furthermore, spheres are connected into branching chains. This means that, if spheres at one end of a chain are dislodged, those at the other end might stay attached to the animal. By repeatedly and vigorously grooming themselves, leafhoppers heal their water-repellent coat in a way that isn’t possible for organisms with permanent repellent surfaces.\n\nLeafhoppers’ brochosome-based superhydrophobic skin provides a blueprint for the development of advanced water-repellent coatings. Engineers and materials scientists could explore replicating this mechanism to create self-renewing, water-resistant coatings for various applications, such as textiles, building materials, and even electronics. These coatings could potentially reduce the need for more costly maintenance and replacements, contributing to sustainability.",
   "function_addressed": [
     "protect from excess liquids",
     "protect from dirt/solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::dirt-solids",
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/brochosomes-offer-protection-from-sticky-liquid/",
-  "source_tier": "science_journalism",
   "keywords": [
     "brochosomes",
     "offer",
@@ -20,7 +22,5 @@
     "sticky",
     "liquid"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

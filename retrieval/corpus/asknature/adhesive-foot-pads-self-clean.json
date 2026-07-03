@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-adhesive-foot-pads-self-clean",
   "organism_common": "Insects",
-  "organism_scientific": "",
   "strategy_summary": "Adhesive hairy foot pads on insects self-clean more efficiently than smooth pads because hair tips reduce the area for particle attachment. An insect’s adhesive feet are critical to its ability to move around, climbing on vertical surfaces and hanging upside down while finding food or evading predators.",
   "mechanism": "Adhesive hairy foot pads on insects self-clean more efficiently than smooth pads because hair tips reduce the area for particle attachment.\n\nAn insect’s adhesive feet are critical to its ability to move around, climbing on vertical surfaces and hanging upside down while finding food or evading predators. Unlike most man-made adhesives, however, insect feet can attach and detach from a surface many times and still remain functional, even while encountering contaminants like dirt, pollen, and flaky wax from leaf surfaces. How do their sticky feet stay clean?\n\nThere are two main kinds of foot pads among insects: smooth foot pads, like those found on grasshoppers, ants, and stick insects; and hairy foot pads, like those found on beetles and flies. Smooth foot pads have even and soft surfaces, while hairy foot pads are covered with bristles that range from microns to millimeters long. Both kinds of foot pads secrete fluids that aid in adhesion, which depends on the amount of contact between the foot surface and the substrate: the lower the contact area between the two—for instance because contaminating particles are covering the foot—the lower the adhesion. Both kinds of foot pads can also self-clean by walking. Stepping on a substrate removes contaminating particles from the feet when those particles are more attracted to the substrate than the feet. When it comes to self-cleaning, however, hairy foot pads appear to have a leg up on smooth ones.\n\nSmooth foot pads seem to require a shear force (parallel to the surface, as a brushing movement would be) to remove particles from the feet, but hairy foot pads can shed contaminating particles even when the foot just lifts up from the substrate (perpendicular to it). Based on models of hairy adhesive systems, it appears that hairs are easier to clean because their tips have inherently small surface areas; a contaminating particle attached to a narrow tip needs to move only slightly to the side for it to encounter empty space and disengage. While some particles could get stuck on the sides or between setae, on average, more particles are likely to be shed from hairy foot pads than from smooth foot pads. Furthermore, the hairs’ small surface area raises the likelihood that contaminating particles will be more attracted to the external substrate the insect is walking on, rather than its foot. Smooth and soft foot pads, on the other hand, can deform around a contaminating particle, increasing the contact between the two. As a result, hairy foot pads seem to recover from contamination much faster than smooth foot pads.\n\nAdapted from Labonte D, Federle W. 2013. Functionally Different Pads on the Same Foot Allow Control of Attachment: Stick Insects Have Load-Sensitive “Heel” Pads for Friction and Shear-Sensitive “Toe” Pads for Adhesion. PLoS ONE 8(12): e81943. doi:10.1371/journal.pone.0081943",
   "function_addressed": [
     "protect from dirt/solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::dirt-solids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/adhesive-foot-pads-self-clean/",
-  "source_tier": "science_journalism",
   "keywords": [
     "adhesive",
     "foot",
     "pads",
     "self-clean"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

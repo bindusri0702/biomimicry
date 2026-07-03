@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-pebbles-aid-dew-condensation",
   "organism_common": "Forrest's mouse",
-  "organism_scientific": "",
   "strategy_summary": "The burrows of Australian mice gather dew via a covering of pebbles around the burrow. “The Australian mouse ( Leggadina hermansbergensis ), which lives in a dry and sandy habitat, covers a large area around its burrow with pebbles, apparently for the purpose of increasing the formation of dew as a water supply.”…",
   "mechanism": "The burrows of Australian mice gather dew via a covering of pebbles around the burrow.\n\n“The Australian mouse ( Leggadina hermansbergensis ), which lives in a dry and sandy habitat, covers a large area around its burrow with pebbles, apparently for the purpose of increasing the formation of dew as a water supply.” (Pallasmaa 1995:35)",
   "function_addressed": [
     "capture, absorb, or filter liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/pebbles-aid-dew-condensation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pebbles",
     "aid",
     "dew",
     "condensation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

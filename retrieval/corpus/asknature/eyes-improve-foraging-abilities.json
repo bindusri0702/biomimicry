@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-eyes-improve-foraging-abilities",
   "organism_common": "Aye-aye",
-  "organism_scientific": "",
   "strategy_summary": "The eyes of aye-ayes aid in nocturnal foraging because they may be able to perceive color at night. “While color vision perception is thought to be adaptively correlated with foraging efficiency for diurnal mammals, those that forage exclusively at night may not need color vision nor have the capacity for it.",
   "mechanism": "The eyes of aye-ayes aid in nocturnal foraging because they may be able to perceive color at night.\n\n“While color vision perception is thought to be adaptively correlated with foraging efficiency for diurnal mammals, those that forage exclusively at night may not need color vision nor have the capacity for it. Indeed, although the basic condition for mammals is dichromacy, diverse nocturnal mammals have only monochromatic vision, resulting from functional loss of the short-wavelength sensitive opsin gene. However, many nocturnal primates maintain intact two opsin genes and thus have dichromatic capacity. The evolutionary significance of this surprising observation has not yet been elucidated. We used a molecular population genetics approach to test evolutionary hypotheses for the two intact opsin genes of the fully nocturnal aye-aye ( Daubentonia madagascariensis ), a highly unusual and endangered Madagascar primate. No evidence of gene degradation in either opsin gene was observed for any of 8 aye-aye individuals examined. Furthermore, levels of nucleotide diversity for opsin gene functional sites were lower than those for 15 neutrally evolving intergenic regions (>25 kb in total), which is consistent with a history of purifying selection on aye-aye opsin genes. The most likely explanation for these findings is that dichromacy is advantageous for aye-ayes despite their nocturnal activity pattern. We speculate that dichromatic nocturnal primates may be able to perceive color while foraging under moonlight conditions, and suggest that behavioral and ecological comparisons among dichromatic and monochromatic nocturnal primates will help to elucidate the specific activities for which color vision perception is advantageous.” (Perry et al. 2007:1963)",
   "function_addressed": [
     "sense light (visible spectrum) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/eyes-improve-foraging-abilities/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eyes",
     "improve",
     "foraging",
     "abilities"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-alerts-provide-an-early-warning-system",
   "organism_common": "Black-capped chickadee",
-  "organism_scientific": "",
   "strategy_summary": "The sound of birds singing in a woodland can seem like a confusing jumble of trills, whistles, and chirps. We don’t tend to think about the potential function of all this noise that other animals produce, but research on animal communication has slowly built up a startling picture of just how much communication is…",
-  "mechanism": "Black-capped chickadees are tiny black and white birds who live in forests. They’re best known for their “chickadee dee dee” calls. These and some other calls keep birds in contact with each other or let each other know where to find food. Less noticed by humans is a very quiet, high-pitched “seet” call. They use this call to warn others that there’s a hawk or owl flying nearby.\n\nChickadees also have another call when they see a perched hawk or owl. It’s a louder and longer version of its usual “chickadee dee dee” call. This altered call draws in other birds to “mob” the predator. The more dangerous the predator is to the chickadees, the more times they say “dee”. For example, the tiny northern pygmy-owl, who eats a lot of chickadees, gets a lot of “dee” calls. The bigger great horned owl is less of a threat and so the birds make fewer “dees”. The harsh “chickadee dee dee” means the chickadee sees a hawk or owl and needs other nearby birds to mob the predator until it flies away.\n\nThe “seet” call has a different purpose. Because it’s so quiet and high-pitched, it’s hard for a predatory bird to hear. That means it’s a safer call for a chickadee to make compared to the deeper, louder “chickadee dee dee.” The “seet” call warns other chickadees to hide when a hawk or owl is flying nearby. Like an early warning system, the alert can spread through a forest from one bird to another faster than the hawk can fly. By the time the predator arrives, the birds are safely in hiding.\n\nOther species, including nuthatches, jays, squirrels, and chipmunks can also listen to the chickadees’ warnings. Birds in other regions also react to the “seet” call even if chickadees don’t live in the area. Scientists have played a recording of the chickadee’s “seet” call all over the world, and other birds understood it and took cover.\n\nThe early warning system goes beyond directly saving birds and mammals from predators. This cooperation allows them to spend less time watching for predators and more time getting the food they need to survive.\n\n</div>\n\nFurther research could decode more sound signals that have near-universal meanings, reopening lines of communication between humankind and other species. Technologies which tap into these patterns of communication could help make humankind a better participant in the conversation, and thus a better neighbor to those species. Speakers could be placed on skyscrapers near flyways to prevent avian collisions with difficult-to-see architectural glass, or around airports to reduce collisions with airplanes.\n\nGardeners and farmers could also use knowledge about communication among birds to repel birds or other organisms that eat crops, or to attract organisms that feed on species that have other detrimental effects on agriculture.",
+  "mechanism": "Black-capped chickadees are tiny black and white birds who live in forests. They’re best known for their “chickadee dee dee” calls. These and some other calls keep birds in contact with each other or let each other know where to find food. Less noticed by humans is a very quiet, high-pitched “seet” call. They use this call to warn others that there’s a hawk or owl flying nearby.\n\nChickadees also have another call when they see a perched hawk or owl. It’s a louder and longer version of its usual “chickadee dee dee” call. This altered call draws in other birds to “mob” the predator. The more dangerous the predator is to the chickadees, the more times they say “dee”. For example, the tiny northern pygmy-owl, who eats a lot of chickadees, gets a lot of “dee” calls. The bigger great horned owl is less of a threat and so the birds make fewer “dees”. The harsh “chickadee dee dee” means the chickadee sees a hawk or owl and needs other nearby birds to mob the predator until it flies away.\n\nThe “seet” call has a different purpose. Because it’s so quiet and high-pitched, it’s hard for a predatory bird to hear. That means it’s a safer call for a chickadee to make compared to the deeper, louder “chickadee dee dee.” The “seet” call warns other chickadees to hide when a hawk or owl is flying nearby. Like an early warning system, the alert can spread through a forest from one bird to another faster than the hawk can fly. By the time the predator arrives, the birds are safely in hiding.\n\nOther species, including nuthatches, jays, squirrels, and chipmunks can also listen to the chickadees’ warnings. Birds in other regions also react to the “seet” call even if chickadees don’t live in the area. Scientists have played a recording of the chickadee’s “seet” call all over the world, and other birds understood it and took cover.\n\nThe early warning system goes beyond directly saving birds and mammals from predators. This cooperation allows them to spend less time watching for predators and more time getting the food they need to survive.\n\nFurther research could decode more sound signals that have near-universal meanings, reopening lines of communication between humankind and other species. Technologies which tap into these patterns of communication could help make humankind a better participant in the conversation, and thus a better neighbor to those species. Speakers could be placed on skyscrapers near flyways to prevent avian collisions with difficult-to-see architectural glass, or around airports to reduce collisions with airplanes.\n\nGardeners and farmers could also use knowledge about communication among birds to repel birds or other organisms that eat crops, or to attract organisms that feed on species that have other detrimental effects on agriculture.",
   "function_addressed": [
     "protect from animals",
     "cooperate within an ecosystem"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-a-eco-system",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/alerts-provide-an-early-warning-system/",
-  "source_tier": "science_journalism",
   "keywords": [
     "alerts",
     "provide",
@@ -20,7 +23,5 @@
     "warning",
     "system"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

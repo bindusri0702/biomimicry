@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-palm-trees-survive-strong-winds",
   "organism_common": "Palm trees",
-  "organism_scientific": "",
   "strategy_summary": "Traveling at searing speeds of 260 kilometers per hour (160 mph), the winds of the 1991 cyclone “Val” smashed into the island of Samoa in the south Pacific with a ferocity that has only become more common on the planet as it warms. Buildings and homes across the nation were flattened.",
   "mechanism": "Trees face a monumental design paradox: on the one hand, their canopies need sufficient exposed leaf area so that the plant can grow (by absorbing atmospheric carbon dioxide and capturing sunlight to photosynthesize their own tissues and food), while on the other hand, the greater their canopy’s surface area, the greater drag they experience when the wind blows. Thus, the outstretched canopies they need risk toppling them over altogether. How do trees manage this existential paradox?\n\nIn a storm, the coconut fronds’ flexibility enables them to bend backwards, away from the wind, and at the base of the fronds, unique stretchy sheaths high in strong, fibrous lignin aid in supporting the bending frond against breakage. This reconfigures the tree’s canopy into a more aerodynamic shape, less like a fluffy cotton ball and more like a speeding bullet. The plant doesn’t even need to expend any energy to undergo this transformation, as the reshaping is done by the wind itself.\n\nCanopy streamlining can be extremely effective: the coconut trees on Samoa were predicted to break at wind speeds of 83 km/h (52 mph) and yet they survived speeds over three times faster. After the winds pass, the elastic fronds return to their outstretched, sun-catching form.\n\nThe blades of conventional wind turbines turn in front of the gearbox. When the wind blows, the blades must be rigid and thick enough to avoid colliding with the tower behind. Inspired by canopy streamlining of palm trees in high winds, new designs for wind turbines place the blades downwind of the gearbox. Since the blades in this position are not at risk of colliding with the tower, they can afford to be less rigid, use less material, and hence be lighter. This enables these blades to turn at lower wind speeds, produce more energy overall, and to flex instead of breaking in strong winds.",
   "function_addressed": [
     "move in/through gases",
     "protect from wind"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-through-gases",
+    "protect-from-non-living-threats::wind"
+  ],
+  "subgroup_keys": [
+    "move",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/palm-trees-survive-strong-winds/",
-  "source_tier": "science_journalism",
   "keywords": [
     "palm",
     "trees",
@@ -20,7 +23,5 @@
     "strong",
     "winds"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

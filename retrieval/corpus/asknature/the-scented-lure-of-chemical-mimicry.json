@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-the-scented-lure-of-chemical-mimicry",
   "organism_common": "European blister beetle",
-  "organism_scientific": "",
   "strategy_summary": "In the sun-drenched meadows of Europe, life unfolds in a delicate dance of signals and responses. Among the most diligent of these dancers are solitary bees, tireless pollinators that zip from flower to flower, guided by the sweet, invisible trails of perfume left by blossoms.",
-  "mechanism": "To a bee, a specific scent is a promise of a reward. The blister beetle larva capitalizes on this by biosynthesizing a complex blend of volatile organic compounds—scents that float through the air—which nearly perfectly match the fragrance of the flowers the bees frequent. The key ingredient in this deceptive perfume is a chemical called (S)-linalool, a common floral scent. While many plants use this to attract pollinators for a mutually beneficial exchange, the beetle larva uses it for a parasitic “bait and switch.”\n\nThe mechanism behind this trick is a marvel of biological chemistry. The larvae possess specialized enzymes called cytochrome P450s. These proteins act like tiny chemical assembly lines, taking simple molecules and transforming them into a specific “bouquet” of monoterpenoids. By releasing these scents from their tiny bodies, the larvae create a localized scent cloud that a passing bee interprets as a fresh, nectar-rich flower. When the bee lands to investigate, the larvae use their hooked legs to cling to the bee’s hairs, securing a ride back to the bee’s nest.\n\nThe blister beetle’s ability to manufacture complex, specific scents using internal enzymes offers profound inspiration for green chemistry. Currently, many human-made fragrances and industrial chemicals are produced using high heat, high pressure, and harsh catalysts. By studying the cytochrome P450 enzymes of the beetle, chemists could design bio-catalysts that create complex molecules under mild, watery conditions, significantly reducing the energy and waste associated with chemical manufacturing.\n\nBeyond chemistry, this strategy of targeted signaling could transform how we manage agricultural pests. Instead of broad-spectrum pesticides that harm many species, we could develop highly specific, nature-inspired lures that only attract certain insects, keeping our food systems in harmony with the wider environment.",
+  "mechanism": "To a bee, a specific scent is a promise of a reward. The blister beetle larva capitalizes on this by biosynthesizing a complex blend of volatile organic compounds—scents that float through the air—which nearly perfectly match the fragrance of the flowers the bees frequent. The key ingredient in this deceptive perfume is a chemical called (S)-linalool, a common floral scent. While many plants use this to attract pollinators for a mutually beneficial exchange, the beetle larva uses it for a parasitic “bait and switch.”\n\nThe mechanism behind this trick is a marvel of biological chemistry. The larvae possess specialized enzymes called cytochrome P450s. These proteins act like tiny chemical assembly lines, taking simple molecules and transforming them into a specific “bouquet” of monoterpenoids. By releasing these scents from their tiny bodies, the larvae create a localized scent cloud that a passing bee interprets as a fresh, nectar-rich flower. When the bee lands to investigate, the larvae use their hooked legs to cling to the bee’s hairs, securing a ride back to the bee’s nest.\n\nThe blister beetle’s ability to manufacture complex, specific scents using internal enzymes offers profound inspiration for green chemistry. Currently, many human-made fragrances and industrial chemicals are produced using high heat, high pressure, and harsh catalysts. By studying the cytochrome P450 enzymes of the beetle, chemists could design bio-catalysts that create complex molecules under mild, watery conditions, significantly reducing the energy and waste associated with chemical manufacturing.\n\nBeyond chemistry, this strategy of targeted signaling could transform how we manage agricultural pests. Instead of broad-spectrum pesticides that harm many species, we could develop highly specific, nature-inspired lures that only attract certain insects, keeping our food systems in harmony with the wider environment.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/the-scented-lure-of-chemical-mimicry/",
-  "source_tier": "science_journalism",
   "keywords": [
     "scented",
     "lure",
     "chemical",
     "mimicry"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

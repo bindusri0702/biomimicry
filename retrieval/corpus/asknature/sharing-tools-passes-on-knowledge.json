@@ -1,27 +1,32 @@
 {
   "doc_id": "asn-sharing-tools-passes-on-knowledge",
   "organism_common": "Chimpanzee",
-  "organism_scientific": "",
   "strategy_summary": "Beneath a forested canopy in the Republic of Congo’s Nouabalé-Ndoki National Park, wild chimpanzees gain valuable termite-fishing skills. In this outdoor ape classroom, mothers pass tools––and knowledge––to the next generation.",
-  "mechanism": "Chimps are famously humanity’s closest living relatives, sharing 98.7% of our genetic code. This has heightened their reputation for their intelligence and tool use. They are also highly adaptable and heavily influenced by human presence. But the wild chimpanzees in the remote Goualougo Triangle, a dense lowland forest located between two rivers, have had little or no human contact. Hidden video technology at termite nest sites provided a chance to observe wild behaviors few had seen before.\n\nCameras captured video of tool sharing behavior, the first observed and documented evidence in wild apes that fits scientific criteria for teaching. Adult chimpanzees select long plant stems to poke into huge termite nests and extract a hearty insect snack. When younger chimps want to try, they beg and the adults hand over their termite-gathering tools.\n\nSee Related Strategy\n\nChimpanzee\n\nChimpanzees maintain a culture of complex tool use by being both proactive and reactive in teaching their young.\n\nTeaching through sharing has led to developing efficient new strategies to both spread the lesson and minimize impact on the teacher. It fosters sustainable ways to fulfill the demands of less skilled community members and multiplies learning opportunities. How might humans put similar approaches to more use?",
+  "mechanism": "Chimps are famously humanity’s closest living relatives, sharing 98.7% of our genetic code. This has heightened their reputation for their intelligence and tool use. They are also highly adaptable and heavily influenced by human presence. But the wild chimpanzees in the remote Goualougo Triangle, a dense lowland forest located between two rivers, have had little or no human contact. Hidden video technology at termite nest sites provided a chance to observe wild behaviors few had seen before.\n\nCameras captured video of tool sharing behavior, the first observed and documented evidence in wild apes that fits scientific criteria for teaching. Adult chimpanzees select long plant stems to poke into huge termite nests and extract a hearty insect snack. When younger chimps want to try, they beg and the adults hand over their termite-gathering tools.\n\nChimpanzee\n\nChimpanzees maintain a culture of complex tool use by being both proactive and reactive in teaching their young.\n\nEven without intent or instruction, simply providing the tool for the job is a form of teaching. But adults aren’t only out to teach. They’re still trying to feed themselves as well, so these teacher-mothers approach the termite nests prepared. Instead of losing their utensils completely, the adults have a backup plan: sometimes carrying multiple tools or dividing their own herb stems in half lengthwise to make two useful tools, so both teacher and student can catch a meal.\n\nTeaching through sharing has led to developing efficient new strategies to both spread the lesson and minimize impact on the teacher. It fosters sustainable ways to fulfill the demands of less skilled community members and multiplies learning opportunities. How might humans put similar approaches to more use?",
   "function_addressed": [
     "cooperate within the same species",
     "coordinate by self-organization",
     "learn",
     "adapt behaviors"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-behaviors",
+    "cooperate-compete::within-the-same-species",
+    "coordinate::by-self-organization",
+    "learn::learn"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "cooperate-compete",
+    "coordinate",
+    "learn"
+  ],
   "source_url": "https://asknature.org/strategy/sharing-tools-passes-on-knowledge/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sharing",
     "tools",
     "passes",
     "knowledge"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

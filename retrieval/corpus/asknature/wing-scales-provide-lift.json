@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-wing-scales-provide-lift",
   "organism_common": "Butterflies and moths",
-  "organism_scientific": "",
   "strategy_summary": "The vivid orange, iridescent blues, deep blacks, and other astounding colors showcased on the wings of nature’s flying flowers––butterflies––are due to the way the hundreds of thousands of microscopic scales that cover the wings reflect light. But it turns out that’s not the only benefit of these shingle-like…",
   "mechanism": "In animals and inanimate objects alike, four forces make flight possible: lift, weight, thrust, and drag. When all balance out, the object stays in one position in the air, like a hummingbird or a helicopter. If one or more are stronger than the others, the object moves up, down, forward, or backward.\n\nThe surface of a butterfly’s wing is covered with hundreds of thousands of overlapping scales, arranged like shingles on a roof. The size, shape, and orientation of the scales alters the relative size of the four forces of flight by affecting how air flows over the butterfly’s wings and how vortices (air swirls) form.\n\nNatural observations and experiments have shown that with fewer scales, butterflies don’t flap their wings as fully, and they have a harder time flying upward. Though the details are not yet well defined or described, it’s clear that scales help the butterfly fly by providing lift.\n\nThe organized patterns of bumps created by fish scales are known to reduce drag essentially by combing the passing water into smooth, orderly layers . Butterfly scales may produce a similar effect. They also can alter the formation of vortices in certain parts of the wing. For instance, the bumps created by overlapping scales at the front end of the wings could slow the formation of vortices there and reduce the amount of energy going into forming the vortices. Since vortices create drag as they spin off the surface, this would decrease drag and therefore increase lift and thrust.\n\nBy studying how various configurations of butterfly wing scales affect flight, designers can get ideas for how to improve the efficiency and versatility of the flight of conventional aircraft, parachutes, kites, drones, and other objects traveling through the air. They might also inform the design of more efficient wind turbines and reduce the materials needed for structural stability in tall buildings. The micro-geometry of wing scales can provide valuable insights for the design of innovative flying machines that incorporate flapping into their operation and of cars, trains, and other ground vehicles. They also can provide insights into improving the efficiency of cargo ships and other vehicles that travel through water or other media.",
   "function_addressed": [
     "move in/through gases",
     "manage turbulence"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::turbulence",
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/wing-scales-provide-lift/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tiny",
     "structures",
     "butterflies",
     "soar"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

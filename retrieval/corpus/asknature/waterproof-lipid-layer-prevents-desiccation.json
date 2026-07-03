@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-waterproof-lipid-layer-prevents-desiccation",
   "organism_common": "Frogs and toads",
-  "organism_scientific": "",
-  "strategy_summary": "The skin of terrestrial frogs protects from water loss via a waterproof, lipid-containing layer. Image: LiquidGhoul / Wikipedia / toggle icon Image: heidi bakk-hansen / toggle icon right arrow right arrow  “The lipid contents of these organelles appear to consist of stacks of flattened lipid vesicles (Landmann, 1986…",
-  "mechanism": "The skin of terrestrial frogs protects from water loss via a waterproof, lipid-containing layer.\n\nImage: LiquidGhoul / Wikipedia / toggle icon Image: heidi bakk-hansen / toggle icon right arrow right arrow\n\n“The lipid contents of these organelles appear to consist of stacks of flattened lipid vesicles (Landmann, 1986, 1988) comprising primarily glycosphingolipids, free sterols and phospholipids, which are precursors of the stratum corneum lipids (Fig. 4). Eventually, the lipid contents of the organelles are secreted into the extracellular domain, where they are further processed into compact lipid bilayers that occlude the extracellular spaces among adjacent and overlapping corneocytes (Fig. 4), a condition that has been likened to a ‘bricks-and-mortar’ organization (Elias, 1983; Elias and Menon, 1991). It has been proposed that acylglucosylceramides serve as molecular ‘rivets’ to promote flattening and stacking of lipid vesicles that subsequently fuse edge-to-edge to produce lamellae comprising paired bilayers that are stacked parallel to the skin surface (Engström et al., 2000; Wertz, 2000). These form multiple lamellar sheets with smooth surfaces shown in freeze-fracture studies. In this manner, the extracellular lipids form a continuous domain throughout the stratum corneum and function as the principal barrier to water diffusion (Elias and Friend, 1975; Fig. 2).” (Lillywhite 2006:217)",
+  "strategy_summary": "The skin of terrestrial frogs protects from water loss via a waterproof, lipid-containing layer. “The lipid contents of these organelles appear to consist of stacks of flattened lipid vesicles (Landmann, 1986, 1988) comprising primarily glycosphingolipids, free sterols and phospholipids, which are precursors of the…",
+  "mechanism": "The skin of terrestrial frogs protects from water loss via a waterproof, lipid-containing layer.\n\n“The lipid contents of these organelles appear to consist of stacks of flattened lipid vesicles (Landmann, 1986, 1988) comprising primarily glycosphingolipids, free sterols and phospholipids, which are precursors of the stratum corneum lipids (Fig. 4). Eventually, the lipid contents of the organelles are secreted into the extracellular domain, where they are further processed into compact lipid bilayers that occlude the extracellular spaces among adjacent and overlapping corneocytes (Fig. 4), a condition that has been likened to a ‘bricks-and-mortar’ organization (Elias, 1983; Elias and Menon, 1991). It has been proposed that acylglucosylceramides serve as molecular ‘rivets’ to promote flattening and stacking of lipid vesicles that subsequently fuse edge-to-edge to produce lamellae comprising paired bilayers that are stacked parallel to the skin surface (Engström et al., 2000; Wertz, 2000). These form multiple lamellar sheets with smooth surfaces shown in freeze-fracture studies. In this manner, the extracellular lipids form a continuous domain throughout the stratum corneum and function as the principal barrier to water diffusion (Elias and Friend, 1975; Fig. 2).” (Lillywhite 2006:217)",
   "function_addressed": [
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/waterproof-lipid-layer-prevents-desiccation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "waterproof",
     "lipid-layer",
     "prevents",
     "desiccation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

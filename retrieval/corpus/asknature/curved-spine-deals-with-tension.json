@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-curved-spine-deals-with-tension",
   "organism_common": "Three-toed sloths",
-  "organism_scientific": "",
   "strategy_summary": "The spine of a sloth supports its body weight under tension via curved shape. “The sloth spends most of its life hanging upside-down from branches.",
   "mechanism": "The spine of a sloth supports its body weight under tension via curved shape.\n\n“The sloth spends most of its life hanging upside-down from branches. Its skeleton therefore has to cope with tension rather than compression. When it leaves its tree, its belly drags on the ground, because its curved spine is designed to support its body weight from below, not from above, and its legs are too weak to support it.” (Foy and Oxford Scientific Films 1982:37)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
   "function_addressed": [
     "manage tension"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::tension"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/curved-spine-deals-with-tension/",
-  "source_tier": "science_journalism",
   "keywords": [
     "curved",
     "spine",
     "deals",
     "tension"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

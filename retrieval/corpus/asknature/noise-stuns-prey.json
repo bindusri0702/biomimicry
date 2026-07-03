@@ -1,23 +1,20 @@
 {
   "doc_id": "asn-noise-stuns-prey",
   "organism_common": "Spinner dolphin",
-  "organism_scientific": "",
   "strategy_summary": "The members of spinner dolphin pods stun and capture fish by emitting ultrasonic beams. “Whales may use ultrasonic noise like a stun gun against fish…Working with captive Hawaiian spinner dolphins ( Stenella longirostris ), California University cetologist Prof.",
   "mechanism": "The members of spinner dolphin pods stun and capture fish by emitting ultrasonic beams.\n\n“Whales may use ultrasonic noise like a stun gun against fish…Working with captive Hawaiian spinner dolphins ( Stenella longirostris ), California University cetologist Prof. Ken Norris found that when they direct ultrasonic beams at a shoal of fish, they can stun or even kill some of them. The beams may cause the fishes’ air-filled swimbladders to resonate so intensely that their body tissues also vibrate, disorienting them.” (Shuker 2001:23)",
   "function_addressed": [
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/noise-stuns-prey/",
-  "source_tier": "science_journalism",
   "keywords": [
     "noise",
     "stuns",
     "prey"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

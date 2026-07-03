@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-adaptations-allow-ingestion-of-salt-water",
   "organism_common": "Great northern loon",
-  "organism_scientific": "",
   "strategy_summary": "Glands and kidneys of loons generate a net gain of water from the ingestion of sea water due to nasal salt excretions and ultrastructure specialization. “The marine species in this group of birds have the ability to generate a net gain of water with the ingestion of seawater.",
   "mechanism": "Glands and kidneys of loons generate a net gain of water from the ingestion of sea water due to nasal salt excretions and ultrastructure specialization.\n\n“The marine species in this group of birds have the ability to generate a net gain of water with the ingestion of seawater. Ingestion is facilitated by large nasal glands for the elimination of excess salt and ultrastructural specialization of the kidneys.” (Fowler and Miller 2003:114)",
   "function_addressed": [
     "maintain homeostasis"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/adaptations-allow-ingestion-of-salt-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "adaptations",
     "allow",
@@ -19,7 +20,5 @@
     "salt",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

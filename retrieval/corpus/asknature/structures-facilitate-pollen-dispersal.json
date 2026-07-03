@@ -1,26 +1,28 @@
 {
   "doc_id": "asn-structures-facilitate-pollen-dispersal",
   "organism_common": "Pines",
-  "organism_scientific": "",
   "strategy_summary": "Air-filled sacs in the pollen grains of pine trees allow pollen to travel farther through the air  One mechanism by which conifers promote cross-pollination is by increasing the distance their pollen grains travel. Each pollen grain is attached to two or three air-filled sacs, or sacci, which develop from the outer…",
-  "mechanism": "Air-filled sacs in the pollen grains of pine trees allow pollen to travel farther through the air\n\nOne mechanism by which conifers promote cross-pollination is by increasing the distance their pollen grains travel. Each pollen grain is attached to two or three air-filled sacs, or sacci, which develop from the outer layer of the pollen wall. These air sacs increase surface area but do not substantially increase the overall pollen mass. The increased surface area of the pollen grain by the addition of the sacci increases the amount of air resistance on the grains, so they fall down to the ground more slowly. This allows the grains to float in the air for longer and be dispersed farther.\n\nThe amount of time the pollen grain remains airborne is also correlated with the thickness of the sacci wall and the pattern on the surface of the sacci known as “ornamentation”. Similar to the dimples of a golf ball, ornamentation may provide lift and overcome inertia forces to slow momentum. The slowing down of momentum allows the pollen grain to remain airborne longer and to travel longer distances by the wind.\n\nThis strategy was contributed by David Zaitz.",
+  "mechanism": "Air-filled sacs in the pollen grains of pine trees allow pollen to travel farther through the air\n\nOne mechanism by which conifers promote cross-pollination is by increasing the distance their pollen grains travel. Each pollen grain is attached to two or three air-filled sacs, or sacci, which develop from the outer layer of the pollen wall. These air sacs increase surface area but do not substantially increase the overall pollen mass. The increased surface area of the pollen grain by the addition of the sacci increases the amount of air resistance on the grains, so they fall down to the ground more slowly. This allows the grains to float in the air for longer and be dispersed farther.\n\nThe amount of time the pollen grain remains airborne is also correlated with the thickness of the sacci wall and the pattern on the surface of the sacci known as “ornamentation”. Similar to the dimples of a golf ball, ornamentation may provide lift and overcome inertia forces to slow momentum. The slowing down of momentum allows the pollen grain to remain airborne longer and to travel longer distances by the wind.",
   "function_addressed": [
     "disperse seeds",
     "pollinate",
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-through-gases",
+    "provide-ecosystem-services::disperse-seeds",
+    "provide-ecosystem-services::pollinate"
+  ],
+  "subgroup_keys": [
+    "move",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/structures-facilitate-pollen-dispersal/",
-  "source_tier": "science_journalism",
   "keywords": [
     "structures",
     "facilitate",
     "pollen",
     "dispersal"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

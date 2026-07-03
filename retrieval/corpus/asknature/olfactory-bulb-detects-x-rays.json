@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-olfactory-bulb-detects-x-rays",
   "organism_common": "Sense Light (Non-visible Spectrum) From the Environment",
-  "organism_scientific": "",
   "strategy_summary": "The sensory system of cats detects X-ray radiation with the olfactory bulb, rather than the eyes. “In 1965, a team of biologists at the Veterans Administration Hospital in Long Beach, California, performed experiments that seemed to show that cats could detect X rays.",
   "mechanism": "The sensory system of cats detects X-ray radiation with the olfactory bulb, rather than the eyes.\n\n“In 1965, a team of biologists at the Veterans Administration Hospital in Long Beach, California, performed experiments that seemed to show that cats could detect X rays. In conditioning experiments, cats reacted to five-second exposures of X-ray radiation in order to avoid a mild rebuff. In attempting to pinpoint the body region responsible for this remarkable feat, the researchers found that the olfactory bulb behind the nasal and oral passages was the most responsive region, rather than the eyes.” (Shuker 2001:21)",
   "function_addressed": [
     "sense light (non-visible spectrum) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::light-non-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/olfactory-bulb-detects-x-rays/",
-  "source_tier": "science_journalism",
   "keywords": [
     "olfactory",
     "bulb",
     "detects",
     "x-rays"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

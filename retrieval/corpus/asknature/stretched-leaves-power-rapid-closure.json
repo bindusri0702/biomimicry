@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-stretched-leaves-power-rapid-closure",
   "organism_common": "Venus flytrap",
-  "organism_scientific": "",
   "strategy_summary": "Stretched leaves of the Venus flytrap power rapid trap closure by storing mechanical energy. The Venus flytrap ( Dionaea muscipula ) has to rapidly capture prey by ensnaring it between its leaves.",
   "mechanism": "Stretched leaves of the Venus flytrap power rapid trap closure by storing mechanical energy.\n\nThe Venus flytrap ( Dionaea muscipula ) has to rapidly capture prey by ensnaring it between its leaves. Instead of using muscles to create movement, this plant changes the shape of its leaves to store potential mechanical energy that can be released when it needs to trigger trap closure.\n\nWhile the trap is opening, the plant stretches its leaves back on themselves, and this stretching stores potential mechanical energy in the form of elastic energy. When the trap is triggered to snap shut, hydraulic movement in the leaves releases the stored energy, causing the trap to snap closed over its prey. As author Yoël Forterre explains: “In essence, a leaf stretches until reaching a point of instability where it can no longer maintain the strain. Like releasing a reversed plastic lid or part of a cut tennis ball, each leaf folds back in on itself, and in the process of returning to its original shape, ensnares the victim in the middle.”\n\nThe conformation of the leaves of the Venus flytrap allow it to close rapidly. Open (top panel) and closed (bottom panel) conformations.\n\nOpen trap of Venus flytrap ready to snap shut\n\nUMass Amherst\n\nA rapidly moving spring from UMass Amherst uses strategically placed elliptical holes to create an efficient snapping motion through rotation.\n\nVenus flytrap\n\nThe leaves of the Venus flytrap snap shut and trap prey within milliseconds by turning physical signals into electrical signals.",
   "function_addressed": [
@@ -9,11 +8,16 @@
     "transform mechanical energy",
     "modify size/shape/mass/volume"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::size-shape-mass-volume",
+    "transform-convert-energy::mechanical-energy"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "modify-physical-state",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/stretched-leaves-power-rapid-closure/",
-  "source_tier": "science_journalism",
   "keywords": [
     "stretched",
     "leaves",
@@ -21,7 +25,5 @@
     "rapid",
     "closure"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

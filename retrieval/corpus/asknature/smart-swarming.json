@@ -1,20 +1,25 @@
 {
   "doc_id": "asn-smart-swarming",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Have you ever stared at your GPS, wondering what is the most efficient path from where you are to where you’re going? Swarms of bacteria figure it out all the time without even a glance at a smartphone or other navigational aid.",
-  "mechanism": "Many birds, fish, and other animals travel in flocks or swarms, in which large groups of individuals gather information from each other and the environment allowing them to travel as a unified group rather than as individuals headed every which way. Often this works in their favor, leading them to food, providing protection from predators, or allowing them to minimize the energy expended in moving from one place to another. But if an individual misinterprets signals from the environment as to which direction is more favorable, it not only leads itself away from the optimal path, it can take others with it as well.\n\nThe ability to use simple rules to efficiently find favorable conditions has boundless applications. It already is being used to help give robots protocols for movement that allow them to take into consideration environmental conditions as well as preprogrammed instructions for achieving a goal. And, although applications are most obvious related to physical movement, it’s possible that the sets of rules could be applied to other types of robotic “decisions” as well, such as when to deploy different kinds of tools and how to react to changes in weather, presence of living organisms, or other variable factors in the environment. In addition, the strategies bacteria use could be applied to improving project management, workflows, and other activities that involve multiple steps and benefit from course correcting using information gathered along the way.",
+  "mechanism": "Many birds, fish, and other animals travel in flocks or swarms, in which large groups of individuals gather information from each other and the environment allowing them to travel as a unified group rather than as individuals headed every which way. Often this works in their favor, leading them to food, providing protection from predators, or allowing them to minimize the energy expended in moving from one place to another. But if an individual misinterprets signals from the environment as to which direction is more favorable, it not only leads itself away from the optimal path, it can take others with it as well.\n\nWhen more sophisticated organisms such as birds and fish move in groups, they use their brains to process large amounts of information related to the position of those around them and integrate that into the decision about how to move. Bacteria seem to be able to get around the problem of misinterpreting signals by following simpler rules than more complex organisms do regarding how to alter their direction based on signals from the environment and each other. Rather than always interpreting those signals similarly, they alter their responses based on whether the concentration of a chemical that attracts them is increasing in the direction they are currently moving. If it isn’t, they pay attention to the direction of the movement of other bacteria around them. But if it is indeed toward a more favorable setting, they pay less attention to their neighbors and follow their own instincts instead. Computer modeling has shown that this ability to alter “rules of movement” depending on the circumstances ultimately leads to a more beneficial outcome for the entire group of organisms—with a less complex algorithm to follow.\n\nThe strategies bacteria use could be applied to improving project management, workflows, and other activities that involve multiple steps and benefit from course correcting using information gathered along the way.\n\nThe ability to use simple rules to efficiently find favorable conditions has boundless applications. It already is being used to help give robots protocols for movement that allow them to take into consideration environmental conditions as well as preprogrammed instructions for achieving a goal. And, although applications are most obvious related to physical movement, it’s possible that the sets of rules could be applied to other types of robotic “decisions” as well, such as when to deploy different kinds of tools and how to react to changes in weather, presence of living organisms, or other variable factors in the environment. In addition, the strategies bacteria use could be applied to improving project management, workflows, and other activities that involve multiple steps and benefit from course correcting using information gathered along the way.",
   "function_addressed": [
     "navigate through liquid",
     "navigate through solids",
     "transduce/convert signals",
     "respond to signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "navigate::through-liquid",
+    "navigate::through-solids",
+    "process-signals::respond-to-signals",
+    "process-signals::transduce-convert-signals"
+  ],
+  "subgroup_keys": [
+    "navigate",
+    "process-signals"
+  ],
   "source_url": "https://asknature.org/strategy/smart-swarming/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bacteria",
     "simple",
@@ -23,7 +28,5 @@
     "smarter",
     "moves"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

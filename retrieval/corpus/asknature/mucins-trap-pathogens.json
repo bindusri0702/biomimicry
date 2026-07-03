@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-mucins-trap-pathogens",
   "organism_common": "Animals",
-  "organism_scientific": "",
   "strategy_summary": "Mucins of animals stop invading pathogens by being coated with sugar chains that trap the invaders. “Researchers at the University of Massachusetts and Yale University are looking for ways to trap viruses.",
   "mechanism": "Mucins of animals stop invading pathogens by being coated with sugar chains that trap the invaders.\n\n“Researchers at the University of Massachusetts and Yale University are looking for ways to trap viruses. In order to reproduce, viruses need to invade a host cell and replicate using the cell’s own DNA-replication system. The researchers figured that if they could lure viruses to decoy cells, they could reduce the viral load enough for someone with HIV or other disease for that person’s own immune system to successfully fight off the attack. Mucins are proteins found in most body fluids. They are coated with sugar chains that trap invading pathogens. Red blood cells also appear to act as pathogen traps. One approach is to coat nanoparticles with viral receptors. Another approach is to add decoy attachment sites to red blood cells. One advantage of using viral traps is it would be hard for viruses to evolve resistance to them.” (Courtesy of the Biomimicry Guild)",
   "function_addressed": [
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/mucins-trap-pathogens/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mucins",
     "trap",
     "pathogens"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-microbes-make-natural-polyester",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Bacteria manufacture biogedradable polyester by stringing together soluble monomers. “Bacteria make PHB [polyhydroxybutyrate] and other polyesters the same way nature makes starch: by stringing together soluble monomers and storing the finished polymer product in water-insoluble granules.",
   "mechanism": "Bacteria manufacture biogedradable polyester by stringing together soluble monomers.\n\n“Bacteria make PHB [polyhydroxybutyrate] and other polyesters the same way nature makes starch: by stringing together soluble monomers and storing the finished polymer product in water-insoluble granules. When needed, the polymer in these granules–which, in the case of PHB, can take up to a whopping 85% of the cell’s dry weight–can be broken down quickly and the building blocks reused for energetic or synthetic purposes.” (Yarnell 2004:27)",
   "function_addressed": [
@@ -9,18 +8,21 @@
     "chemically assemble organic compounds",
     "chemically break down polymers"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::organic-compounds",
+    "chemically-assemble::polymers",
+    "chemically-break-down::polymers"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/microbes-make-natural-polyester/",
-  "source_tier": "science_journalism",
   "keywords": [
     "microbes",
     "make",
     "natural",
     "polyester"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

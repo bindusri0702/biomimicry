@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-fins-provide-stability",
   "organism_common": "Pike",
-  "organism_scientific": "",
   "strategy_summary": "Sculling fins of pike allow fish to compensate for tiny variations in current by rotating from within the body. “Not all fish have adopted a life of speed.",
   "mechanism": "Sculling fins of pike allow fish to compensate for tiny variations in current by rotating from within the body.\n\n“Not all fish have adopted a life of speed. Those living in mid-water or along the shores have different problems and requirements, but for them too, the acquisition of a swim-bladder has had a potent effect on structure, for it has freed their body fins for all kinds of purposes. Those of a pike have become elegant filmy sculls, rotating slowly back and forth from a joint within the body, so that the fish can compensate for the tiniest variation of current and hang above a rock as though it were suspended from an invisible wire. (Attenborough 1979:120)",
   "function_addressed": [
     "move in/on liquids",
     "modify position"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::position",
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/fins-provide-stability/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fins",
     "provide",
     "stability"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

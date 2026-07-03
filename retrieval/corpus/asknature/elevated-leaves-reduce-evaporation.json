@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-elevated-leaves-reduce-evaporation",
   "organism_common": "Fan aloe",
-  "organism_scientific": "",
   "strategy_summary": "The leafy rosettes of the quiver tree have less evaporative water loss because they are hoisted high in the air away from the desert floor. kokerbomen namibie (Kokerbaeume in Namibia)  Lesser Doublecollared Sun Bird in Quiver Tree, Worcester Botanical Gardens, Cape.",
   "mechanism": "The leafy rosettes of the quiver tree have less evaporative water loss because they are hoisted high in the air away from the desert floor.\n\nkokerbomen namibie (Kokerbaeume in Namibia)\n\nLesser Doublecollared Sun Bird in Quiver Tree, Worcester Botanical Gardens, Cape.\n\nfoto: Ingmar Zutphen\n\n'''Afrikaans:''' Detail van 'n kokerboom (''Aloe dichotoma'')<br> '''English:''' Detail of ''Aloe dichotoma''\n\nOLYMPUS DIGITAL CAMERA\n\n“The quiver tree that grows in the Namib is a kind of aloe. Like the rest of its family, it has thick succulent leaves growing in a rosette, but these are hoisted twenty feet in the air, each at the end of a stumpy branch. That in itself is a way of escaping the worst of the devastating heat and reducing the amount of moisture inevitably lost by evaporation from the surface of their leaves. The branches themselves are thickly covered in a fine white powder. That too helps in keeping cool for it reflects the sun’s heat instead of absorbing it…The branches and trunk are filled with a soft fibre that can hold a great quantity of water.” (Attenborough 1995:269)\n\nDavid Attenborough looks at the fan aloe (\"quiver tree\"). From the BBC.",
   "function_addressed": [
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/elevated-leaves-reduce-evaporation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "elevated",
     "leaves",
     "reduce",
     "evaporation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

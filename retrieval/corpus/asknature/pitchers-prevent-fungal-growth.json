@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-pitchers-prevent-fungal-growth",
   "organism_common": "Tropical pitcher plants",
-  "organism_scientific": "",
   "strategy_summary": "The pitchers of pitcher plants prevent fungal growth using napthoquinones. “ Nepenthes spp.",
   "mechanism": "The pitchers of pitcher plants prevent fungal growth using napthoquinones.\n\n“ Nepenthes spp. are carnivorous plants that have developed insect capturing traps, evolved by specific modification of the leaf tips, and are able to utilize insect degradation products as nutritional precursors. A chitin-induced antifungal ability, based on the production and secretion to the trap liquid of droserone and 5-O-methyldroserone, is described here. Such specific secretion uniquely occurred when chitin injection was used as the eliciting agent and probably reflects a certain kind of defence mechanism that has been evolved for protecting the carnivory-based provision of nutritional precursors. The pitcher liquid containing droserone and 5-O-methyldroserone at 3:1 or 4:1 molar ratio, as well as the purified naphthoquinones, exerted an antifungal effect on a wide range of plant and human fungal pathogens. When tested against Candida and Aspergillus spp., the concentrations required for achieving inhibitory and fungicidal effects were significantly lower than those causing cytotoxicity in cells of the human embryonic kidney cell line, 293T. These naturally secreted 1,4-naphthoquinone derivatives, that are assumed to act via semiquinone enhancement of free radical production, may offer a new lead to develop alternative antifungal drugs with reduced selectable pressure for potentially evolved resistance.” (Eilenberg et al. 2010:911)\n\nNote: According to the paper, the exact mode of function of napthoquinones is unknown.\n\nhttp://www.sciencedaily.com/releases/2010/02/100218150652.htm http://jxb.oxfordjournals.org/cgi/content/abstract/erp359",
   "function_addressed": [
     "protect from fungi"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::fungi"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/pitchers-prevent-fungal-growth/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pitchers",
     "prevent",
     "fungal",
     "growth"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

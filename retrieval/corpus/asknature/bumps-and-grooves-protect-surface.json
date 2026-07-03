@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-bumps-and-grooves-protect-surface",
   "organism_common": "Desert scorpion",
-  "organism_scientific": "",
   "strategy_summary": "The surface of the desert scorpion resists erosion by sand due to bumps and grooves that decrease flow. A) Swirling air caught in the grooves creates air cushions and slow down the velocity of the wind.",
   "mechanism": "The surface of the desert scorpion resists erosion by sand due to bumps and grooves that decrease flow.\n\nA) Swirling air caught in the grooves creates air cushions and slow down the velocity of the wind. Airborne particles then either B) bounce away without impact or C) hit the surface at a much slower velocity and less impact. D) A particle hitting a flat surface where the wind does not diminish in velocity will have a much higher impact.\n\nDesert scorpion ( Androctonus australis ) is a typical animal living in sandy deserts, and may face erosive action of blowing sand at a high speed. Based on the idea of bionics and biologic experimental techniques, the mechanisms of the sand erosion resistance of desert scorpion were investigated. Results showed that the desert scorpions used special microtextures such as bumps and grooves to construct the functional surfaces to achieve the erosion resistance…[studies showed that] the microtextured surfaces exhibited better erosion resistance than the smooth surfaces.” (Zhiwu et al. 2012:2914)\n\n“Using gas flow analysis, the researchers showed that “the flow velocities are higher around the surface of the smooth sample than those of the convex surface and the grooved surface. Especially in the groove channel, the flow velocity was significantly lower than that of the smooth surface. It is shown that the flow path lines on the smooth surface were smooth. On the convex surface they were changed to a certain degree; it is indicated that the air flow was disturbed by the convex hull. But in the groove channel, the grooved surface has a great influence on the airflow. The air was rotating in the groove channel, forming a stable low-speed reverse flow zone.\n\n“The special flow pattern in the groove has significant influence on the erosion resistance of the grooved sample. The rotating flow in the groove has an ‘air cushion’ effect. On one hand, the grooves can enhance fluid turbulence, which lead to change of the flow field around the groove surface, and the particle motion pattern was subsequently changed. Some of the particles will leave the surface along with air flow without impact, and these particles would impact the surface if the surface was smooth. Therefore, the number of particles impacting the surface was decreased. On the other hand, as a result of the decrease the [sic] flow velocity, the velocities of the particles in the two-phase flow were decreased as well. The rotating flow in the groove can absorb particle energy which was used for impacting, and the energy used in impact was correspondingly reduced. These features all help to reduce the particle impact damage on the sample surface and reduce erosion wear.” (Zhiwu et al. 2012:2917-2918)",
   "function_addressed": [
     "protect from dirt/solids",
     "manage mechanical wear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::mechanical-wear",
+    "protect-from-non-living-threats::dirt-solids"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/bumps-and-grooves-protect-surface/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bumps",
     "grooves",
     "protect",
     "surface"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

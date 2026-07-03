@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-toe-pads-adhere-and-clean-themselves",
   "organism_common": "Australian green treefrog",
-  "organism_scientific": "",
   "strategy_summary": "The feet of the Australian green tree frog stick to surfaces and stay clean due to mucus secreted between the toe pads  Australian tree frogs are able to climb a variety of surfaces with the help of their sticky toes. The toes have four digits with pads on the ends, and each pad is made up of layers of hexagonal cells…",
   "mechanism": "The feet of the Australian green tree frog stick to surfaces and stay clean due to mucus secreted between the toe pads\n\nAustralian tree frogs are able to climb a variety of surfaces with the help of their sticky toes. The toes have four digits with pads on the ends, and each pad is made up of layers of hexagonal cells separated by grooves that allow fluid to pass through. These grooves secrete mucus that forms a thin layer of fluid between the pad and the surface, allowing the pads to stick to the surface by wet adhesion.\n\nThe mucus also allows the frog to maintain clean and functional toe pads by passively self-cleaning whilst climbing. Contaminants, such as soil and plant particles that stick to the pads, are removed through continual movement and repositioning of the pads during travel. A ‘flushing’ action is also used via the secretion of mucus on the pads; contaminants become trapped in the mucus and are pushed to the tips of the pads. They are then removed entirely and are left on the mucus footprint.\n\nAdhesive surface of the frog toe pad. (a) Immature White’s tree frog (Litoria caerulea) (b) Low resolution scanning electron microscopy (SEM) image of the whole pad of a juvenile frog; (c) Medium resolution SEM image showing the mucous pore and (mainly) hexagonal epithelial cells separated by channels at their distal ends; (d) High resolution SEM image showing the presence of nanostructures on the surface of the epithelial cells.\n\nSEM of tree frog toe pads displaying hexagonal pattern separated by grooves.\n\nAustralian green tree frog climbs a tree",
   "function_addressed": [
     "attach temporarily",
     "protect from dirt/solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "protect-from-non-living-threats::dirt-solids"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/toe-pads-adhere-and-clean-themselves/",
-  "source_tier": "science_journalism",
   "keywords": [
     "toe",
     "pads",
@@ -20,7 +23,5 @@
     "clean",
     "themselves"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

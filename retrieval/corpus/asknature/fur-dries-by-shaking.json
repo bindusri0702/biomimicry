@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-fur-dries-by-shaking",
   "organism_common": "Mammals",
-  "organism_scientific": "",
   "strategy_summary": "Fur of mammals is optimally dried by changing shaking frequency. Getting wet is a fact of life for furry mammals, but it can be very dangerous to stay that way.",
   "mechanism": "Fur of mammals is optimally dried by changing shaking frequency.\n\nGetting wet is a fact of life for furry mammals, but it can be very dangerous to stay that way. Wet fur conducts heat, increasing the risk of hypothermia and the problem exists for animals of all sizes. Mice are small and have a relatively high surface area to volume ratio, meaning they lose heat very quickly, while for larger animals like polar bears their hunting habits and regional climate make getting dry quickly very important. A medium-sized dog, like a labrador, would use 1/5th of its daily calorie intake to offset the energy lost through air drying. To get around this problem, furry mammals shake.\n\nShaking is a surprisingly finely tuned process. Because shaking costs energy, mammals shake at exactly the frequency that achieves the maximum return on their energy investment. Small water droplets stick to fur and are very difficult to dislodge, while large droplets fall off easily. Animals shake at a speed calibrated to remove the larger droplets, getting rid of more than 70% of the water on their fur in seconds. In this way, they do not waste energy attempting to dislodge tiny water droplets that will evaporate quickly anyway.\n\nShaking is a rotation around the central axis of the body that works like a centrifuge to fling water away from the fur. Because the fur travels in an arc, the distance travelled and the amount of force generated during one shake depends on the size of the animal. Larger animals move their fur further and generate more force than smaller animals. To compensate, small animals shake at a higher frequency.\n\nFurry mammals tend to have loose skin. At the end of one shake, when the animal stops and begins to twist in the opposite direction, the skin continues moving. Once it reaches its full extent, the skin is snapped back by the body that is already moving very quickly back the other way. This snap generates very high forces on the water droplets that make shaking as much as three times more energy efficient than with tight skin.\n\nAdapted from Dickerson AK; Mills ZG; Hu DL. 2012. Wet mammals shake at tuned frequencies to dry. J. R. Soc. Interface. 9, 3208, by permission of the Royal Society.",
   "function_addressed": [
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/fur-dries-by-shaking/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fur",
     "dries",
     "shaking"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

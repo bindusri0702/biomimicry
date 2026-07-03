@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-self-assembling-surfaces-enable-growth",
   "organism_common": "Common porecrust",
-  "organism_scientific": "",
   "strategy_summary": "Hydrophobins produced by the split gill fungus protect surfaces by self-assembling into a highly water-repellent layer when exposed to an air-water interface. The split gill fungus synthesizes a class of small protein s called hydrophobins that self-assemble into barrier layers.",
-  "mechanism": "Hydrophobins produced by the split gill fungus protect surfaces by self-assembling into a highly water-repellent layer when exposed to an air-water interface.\n\nThe split gill fungus synthesizes a class of small protein s called hydrophobins that self-assemble into barrier layers. This serves the fungus in two ways: first, the surfactant properties of the hydrophobins allow hyphae, the stringy filaments of the fungus, to breach the surface tension of water to form aerial protrusions used for reproduction; second, the hydrophobins spontaneously generate a robust water-proof barrier over the surface of the exposed hyphae to prevent water-logging of spores before they are released into the air. Hydrophobins self-assemble into barrier layers at the water-air interface by virtue of their specially adapted amino acid composition. They all contain 8 cysteine amino acids, which cross-link together via disulfide bridges when it is dissolved in water. This allows the protein to maintain a globular, water-soluble structure. When exposed to air, the disulfide bridges break and the proteins aggregate into amyloid rods. Amyloid rods are usually considered to be misfolded proteins and are the cause of numerous diseases, including Alzheimers. In fact, the amyloid nature of the hydrophobins in fungi is considered the first documented instance of amyloid proteins being useful in that state. The disulfide bridges keep the hydrophobins from prematurely self-assembling into a barrier layer.\n\nHydrophobins in formation of aerial structures. Artist: Han Wösten\n\nImage: Lijealso / toggle icon right arrow right arrow",
+  "mechanism": "Hydrophobins produced by the split gill fungus protect surfaces by self-assembling into a highly water-repellent layer when exposed to an air-water interface.\n\nThe split gill fungus synthesizes a class of small protein s called hydrophobins that self-assemble into barrier layers. This serves the fungus in two ways: first, the surfactant properties of the hydrophobins allow hyphae, the stringy filaments of the fungus, to breach the surface tension of water to form aerial protrusions used for reproduction; second, the hydrophobins spontaneously generate a robust water-proof barrier over the surface of the exposed hyphae to prevent water-logging of spores before they are released into the air. Hydrophobins self-assemble into barrier layers at the water-air interface by virtue of their specially adapted amino acid composition. They all contain 8 cysteine amino acids, which cross-link together via disulfide bridges when it is dissolved in water. This allows the protein to maintain a globular, water-soluble structure. When exposed to air, the disulfide bridges break and the proteins aggregate into amyloid rods. Amyloid rods are usually considered to be misfolded proteins and are the cause of numerous diseases, including Alzheimers. In fact, the amyloid nature of the hydrophobins in fungi is considered the first documented instance of amyloid proteins being useful in that state. The disulfide bridges keep the hydrophobins from prematurely self-assembling into a barrier layer.\n\nHydrophobins in formation of aerial structures. Artist: Han Wösten",
   "function_addressed": [
     "chemically assemble polymers",
     "attach a functional group",
@@ -11,18 +10,23 @@
     "modify surface tension",
     "modify solubility (dissolving, emulsifying, precipitating, crystallizing)"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::attach-a-functional-group",
+    "chemically-assemble::organic-compounds",
+    "chemically-assemble::polymers",
+    "modify-chemical-electrical-state::solubility",
+    "modify-chemical-electrical-state::surface-tension"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "modify-chemical-electrical-state"
+  ],
   "source_url": "https://asknature.org/strategy/self-assembling-surfaces-enable-growth/",
-  "source_tier": "science_journalism",
   "keywords": [
     "self-assembling",
     "surfaces",
     "enable",
     "growth"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

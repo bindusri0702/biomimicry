@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-sugars-assist-desiccation-tolerance",
   "organism_common": "Flat-stemmed clubmoss",
-  "organism_scientific": "",
   "strategy_summary": "The tissues of spikemoss survive extremely dry conditions due in part to production of trehalose or sucrose, which behave as water-replacement molecules. “Desiccation tolerance has been observed in several biological settings other than plant seed maturation.",
   "mechanism": "The tissues of spikemoss survive extremely dry conditions due in part to production of trehalose or sucrose, which behave as water-replacement molecules.\n\n“Desiccation tolerance has been observed in several biological settings other than plant seed maturation. So called ‘resurrection plants’ ( Selaginella and Myrothamnus ), Tardigrade ( Echiniscoides sigimunde ), and brine shrimps ( Anemia ) are all capable of withstanding extended periods of anhydrobiosis. Although in these cases it has been suggested that the sugar trehalose, behaving as a water replacement molecule, is responsible for desiccation tolerance (Clegg 1986; Crowe et al 1987, 1992), it is sucrose which forms the most abundant sugar in higher order plant seeds and which has been postulated to perform the same function in this setting.” (Drew 2006)",
   "function_addressed": [
     "protect from loss of liquids",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-liquids",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/sugars-assist-desiccation-tolerance/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sugars",
     "assist",
     "desiccation",
     "tolerance"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

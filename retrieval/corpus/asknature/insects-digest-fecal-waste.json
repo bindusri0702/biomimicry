@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-insects-digest-fecal-waste",
   "organism_common": "Cycle Nutrients",
-  "organism_scientific": "",
   "strategy_summary": "Dung beetles play an important role in nutrient cycling and soil generation because they feed on and bury feces. “During parts of the year in India, dung beetles bury an estimated forty to fifty thousand tons of human excrement each day.” (Crump 2005:73)  Watch video  Crump, M.",
   "mechanism": "Dung beetles play an important role in nutrient cycling and soil generation because they feed on and bury feces.\n\n“During parts of the year in India, dung beetles bury an estimated forty to fifty thousand tons of human excrement each day.” (Crump 2005:73)\n\nWatch video\n\nCrump, M. 2005. Headless Males Make Great Lovers & Other Unusual Natural Histories. University of Chicago Press, Chicago, IL. 199 pp.",
   "function_addressed": [
@@ -9,18 +8,20 @@
     "generate soil/renew fertility",
     "detoxification/purification of air/water/waste"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::cycle-nutrients",
+    "provide-ecosystem-services::detoxification-purification-of-air-water-waste",
+    "provide-ecosystem-services::generate-soil-renew-fertility"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/insects-digest-fecal-waste/",
-  "source_tier": "science_journalism",
   "keywords": [
     "insects",
     "digest",
     "fecal",
     "waste"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-flexibility-encourages-twisting-not-bending",
   "organism_common": "Protect From Wind",
-  "organism_scientific": "",
   "strategy_summary": "The stems of banana leaves twist rather than bend when pushed sideways because of their torsional flexibility. DIGITAL CAMERA  DIGITAL CAMERA  DIGITAL CAMERA  “A banana leaf, pushed sideways, twists rather than bends, again using a structure, its petiole (or leaf stem) of very torsional stiffness (Ennos, Spatz, and…",
   "mechanism": "The stems of banana leaves twist rather than bend when pushed sideways because of their torsional flexibility.\n\nDIGITAL CAMERA\n\nDIGITAL CAMERA\n\nDIGITAL CAMERA\n\n“A banana leaf, pushed sideways, twists rather than bends, again using a structure, its petiole (or leaf stem) of very torsional stiffness (Ennos, Spatz, and Speck 2000).” (Vogel 2003:382)\n\n“Bananas are among the largest herbs in the world and their lightweight petioles hold up huge leaves. This study examined how the petioles manage to achieve adequate rigidity to do this, while allowing extensive and reversible reconfiguration in high winds. Morphological and anatomical examination of the petioles and leaves of Musa textilis suggested how these two apparently incompatible abilities are achieved. The hollow U-shaped section of the petiole and the longitudinal strengthening elements in its outer skin give it adequate rigidity, while its ventral curvature help support the leaf without the need for thick lateral veins. These features, however, also allow the petiole to reconfigure by twisting away from the wind, while the leaf can fold away. In addition, two sets of internal structures, longitudinal partitions and transverse stellate parenchyma plates, help prevent dorsoventral flattening, allowing the petiole to flex further away from the wind without buckling. These ideas were tested and verified by a range of mechanical tests. Simple four-point-bending and torsion tests showed that the petioles are indeed far more compliant in torsion than in bending. Axial bending tests and crushing tests showed that petioles could be flexed twice as far and were four times as resistant to dorsoventral flattening when intact than when the internal tissue is removed. The banana petiole, therefore, seems to be an excellent example of natural integrated mechanical design.” (Ennos et al. 2000:2085)",
   "function_addressed": [
     "protect from wind"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::wind"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/flexibility-encourages-twisting-not-bending/",
-  "source_tier": "science_journalism",
   "keywords": [
     "flexibility",
     "encourages",
@@ -19,7 +20,5 @@
     "not",
     "bending"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-fins-used-to-communicate",
   "organism_common": "Siamese fighting fish",
-  "organism_scientific": "",
   "strategy_summary": "Fins of some fish send a warning signal to fellow fish or synchronize movements by vibrating. “Some fishes use their sense of distant touch not just to navigate but also to communicate, vibrating their fins in specific ways to warn others of their species of danger.",
   "mechanism": "Fins of some fish send a warning signal to fellow fish or synchronize movements by vibrating.\n\n“Some fishes use their sense of distant touch not just to navigate but also to communicate, vibrating their fins in specific ways to warn others of their species of danger. The male of the Siamese fighting fish ( Betta splendens ), which cares for the young, alerts its offspring to danger by vibrating its long, flowing fins. Other fishes use their powers of distant touch to synchronize their movements when swimming together in schools.” (Shuker 2001:35-36)",
   "function_addressed": [
     "sense sound and other vibrations from the environment",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals",
+    "sense-signals-environmental-cues::sound-and-other-vibrations"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/fins-used-to-communicate/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fins",
     "used",
     "communicate"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

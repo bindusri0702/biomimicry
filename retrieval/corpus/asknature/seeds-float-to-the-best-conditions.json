@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-seeds-float-to-the-best-conditions",
   "organism_common": "Red mangrove",
-  "organism_scientific": "",
   "strategy_summary": "Seeds of mangroves find optimal conditions by reacting to time passage and light conditions. “All mangroves disperse their offspring by water.",
   "mechanism": "Seeds of mangroves find optimal conditions by reacting to time passage and light conditions.\n\n“All mangroves disperse their offspring by water. A distinctive feature of the majority of mangrove species is that they produce unusually large propagating structures or propagules…The long, pointed appearance of Rhizophora propagules hanging on the parent tree has led to the belief that they plummet like darts into the mud below and so immediately establish themselves…The reality is more complex. Rhizophora propagules generally float for some time before rooting themselves. Initially, floating is horizontal. Over a period of a a month or so they shift to a vertical position. This makes it more likely that the tip will drag in the mud surface and result in the propagule stranding when the tide recedes. Roots first appear after 10 days or so, and many of the propagules lose bouyancy [sic] and sink. Presumably before this has happened the propagule is not ready to establish itself as a seedling. By 40 days, virtually all propagules show root growth (Banus and Kolehmainen 1975). Most will strand in a horizontal position and erect themselves after rooting in the mud…Propagules which do not successfully root after 30 days or so may regain buoyancy and float off again in a horizontal position. They may remain viable for a year or more (Rabinowitz 1978b). Occasionally, propagules are still viable after being transported tens of kilometers inland by hurricanes…The timing of these events is affected by circumstances. In sunny conditions, virtually all floating Rhizophora propagules pivot to the vertical by 30 days and root within a further 10 days or so; about half of shaded propagules are still floating horizontally after several months. This behaviour will facilitate settling in forest clearings rather than directly under adult trees (Banus and Kolehmainen 1975).” (Hogarth 1999:24, 27-30)",
   "function_addressed": [
@@ -10,18 +9,23 @@
     "modify buoyancy",
     "regulate reproduction or growth"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::buoyancy",
+    "modify-physical-state::position",
+    "provide-ecosystem-services::disperse-seeds",
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "provide-ecosystem-services",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/seeds-float-to-the-best-conditions/",
-  "source_tier": "science_journalism",
   "keywords": [
     "seeds",
     "float",
     "best",
     "conditions"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

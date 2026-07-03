@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-stance-and-skin-channels-harvest-rainwater",
   "organism_common": "Texas horned lizard",
-  "organism_scientific": "",
   "strategy_summary": "The body of Texas horned lizards captures rainwater via splayed stance and interscalar channels on the skin. “During rainstorms, Texas horned lizards in enclosures were observed to exhibit a stereotyped behavior termed ‘rain-harvesting.’ The behavior involves: (1) raising the abdomen in an arch; (2) splaying and…",
-  "mechanism": "The body of Texas horned lizards captures rainwater via splayed stance and interscalar channels on the skin.\n\n“During rainstorms, Texas horned lizards in enclosures were observed to exhibit a stereotyped behavior termed ‘rain-harvesting.’ The behavior involves: (1) raising the abdomen in an arch; (2) splaying and extending the legs; (3) dorso-ventral flattening and lateral spreading of the body; (4) lowering the head and tail; (5) opening and closing the jaws; and (6) drinking water collected on the dorsal body surface. Ingestion of integumentally-derived water was verified by recovery of dyed water from the gut. SEM stereophotographs illustrate the interscalar channels through which water is carried, apparently by capillary action , over body surfaces to the jaws. During light rainfall water flow to the jaws occurs within interscalar channels, but during heavy rainfall gravitational sheet flow may increase the amount of water arriving at the jaws. This integumental rain-harvesting system is similar to reported interscalar water transport in two agamid lizards, Moloch horridus and Phrynocephalus helioscopus . Apparently, Phrynosoma and P. helioscopus have similar behaviors for rain-harvesting. This is the first report to provide observations of a lizard obtaining water from natural precipitation for drinking by integumental interception and transport.” (Sherbrooke 1990:302)",
+  "mechanism": "The body of Texas horned lizards captures rainwater via splayed stance and interscalar channels on the skin.\n\n“During rainstorms, Texas horned lizards in enclosures were observed to exhibit a stereotyped behavior termed ‘rain-harvesting.’ The behavior involves: (1) raising the abdomen in an arch; (2) splaying and extending the legs; (3) dorso-ventral flattening and lateral spreading of the body; (4) lowering the head and tail; (5) opening and closing the jaws; and (6) drinking water collected on the dorsal body surface. Ingestion of integumentally-derived water was verified by recovery of dyed water from the gut. SEM stereophotographs illustrate the interscalar channels through which water is carried, apparently by capillary action, over body surfaces to the jaws. During light rainfall water flow to the jaws occurs within interscalar channels, but during heavy rainfall gravitational sheet flow may increase the amount of water arriving at the jaws. This integumental rain-harvesting system is similar to reported interscalar water transport in two agamid lizards, Moloch horridus and Phrynocephalus helioscopus. Apparently, Phrynosoma and P. helioscopus have similar behaviors for rain-harvesting. This is the first report to provide observations of a lizard obtaining water from natural precipitation for drinking by integumental interception and transport.” (Sherbrooke 1990:302)",
   "function_addressed": [
     "capture, absorb, or filter liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/stance-and-skin-channels-harvest-rainwater/",
-  "source_tier": "science_journalism",
   "keywords": [
     "stance",
     "skin",
@@ -19,7 +20,5 @@
     "harvest",
     "rainwater"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

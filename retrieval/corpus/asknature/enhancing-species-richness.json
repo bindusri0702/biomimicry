@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-enhancing-species-richness",
   "organism_common": "American beaver",
-  "organism_scientific": "",
   "strategy_summary": "Beavers enhance species richness in their environments by increasing habitat heterogeneity. A beaver pond creates new habitat types by changing the hydrologic regime.",
   "mechanism": "Beavers enhance species richness in their environments by increasing habitat heterogeneity.\n\nA beaver pond creates new habitat types by changing the hydrologic regime. Beaver populations come and go, making for a dynamic habitat.\n\nBeaver ponds from above, showing habitat heterogeneity.\n\nBeaver lodge north of Saguenay, Quebec\n\nOLYMPUS DIGITAL CAMERA\n\n“Many organisms modulate the availability of resources to other species by causing state changes in biotic or abiotic materials (ecosystem engineering), in the process frequently changing the selection to which the ecosystem engineers and other organisms are exposed (niche construction)…Jones and colleagues (1997) hypothesized that at a scale encompassing unmodified or ‘virgin’ habitats, engineered habitats, and degraded areas abandoned by engineers, the net effect of ecosystem engineering should be to enhance species richness via a net increase in habitat diversity. Recent studies provide support for this hypothesis. For example, natural sites with and without beavers ( Castor canadensis ) exhibit low overlap in species composition. By increasing habitat heterogeneity, beavers increased herbaceous plant species numbers by more than 33% (Wright et al. 2002).” (Boogert 2006:570, 574)",
   "function_addressed": [
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::maintain-biodiversity"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/enhancing-species-richness/",
-  "source_tier": "science_journalism",
   "keywords": [
     "enhancing",
     "species",
     "richness"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-tibial-spurs-dig-nests",
   "organism_common": "Bees",
-  "organism_scientific": "",
   "strategy_summary": "Bees use small spikes on their legs to dig and create nests. One way to help classify a bee taxonomically is to investigate the tibial spurs.",
-  "mechanism": "Bees use small spikes on their legs to dig and create nests.\n\nOne way to help classify a bee taxonomically is to investigate the tibial spurs. The tibial spurs stick out from where the tibia meets the basitarsus and can be found on any of the legs, though are most commonly on the hind and midlegs. They’re movable and multiple spurs can be found on the same leg. Small, immovable spikes called tibial spines eject from the spurs.\n\nTibial spurs are used mainly to dig nests into substrate and they vary according to what material the bees use for nesting substrate. European honeybees ( Apis mellifera ) don’t have tibial spurs because they build wax combs and have no need to dig.\n\nThis information is also available from the University of Calgary Invertebrate collection , where it was curated as part of a study on design inspired by bees.\n\nThe tibial spurs of a mining bee, for digging in sandy soils.\n\nThe tibial spurs of a bumblebee, for digging in colder climates.",
+  "mechanism": "Bees use small spikes on their legs to dig and create nests.\n\nOne way to help classify a bee taxonomically is to investigate the tibial spurs. The tibial spurs stick out from where the tibia meets the basitarsus and can be found on any of the legs, though are most commonly on the hind and midlegs. They’re movable and multiple spurs can be found on the same leg. Small, immovable spikes called tibial spines eject from the spurs.\n\nTibial spurs are used mainly to dig nests into substrate and they vary according to what material the bees use for nesting substrate. European honeybees ( Apis mellifera ) don’t have tibial spurs because they build wax combs and have no need to dig.\n\nThis information is also available from the University of Calgary Invertebrate collection, where it was curated as part of a study on design inspired by bees.\n\nThe tibial spurs of a mining bee, for digging in sandy soils.\n\nThe tibial spurs of a bumblebee, for digging in colder climates.",
   "function_addressed": [
     "move in/on solids",
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-solids",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "move",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/tibial-spurs-dig-nests/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tibial",
     "spurs",
     "dig",
     "nests"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

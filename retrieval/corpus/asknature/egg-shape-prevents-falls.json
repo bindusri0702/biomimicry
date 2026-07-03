@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-egg-shape-prevents-falls",
   "organism_common": "Arctic guillemot",
-  "organism_scientific": "",
   "strategy_summary": "“Some marine birds, such as the guillemot, which lives in northern seas, lay their pear-shaped eggs without the shelter of a nest directly onto the bare windy rock ledge of the rookery. The center of gravity is far from the center of the egg.",
   "mechanism": "“Some marine birds, such as the guillemot, which lives in northern seas, lay their pear-shaped eggs without the shelter of a nest directly onto the bare windy rock ledge of the rookery. The center of gravity is far from the center of the egg. When the egg starts to roll on the sloping rock, it goes into a curved course and returns all by itself to a position of equilibrium. By its own dynamics, the egg protects itself from falling off. Presumably, all those guillemot eggs that did not have this property were destroyed.” (Tributsch 1984:22)",
   "function_addressed": [
     "modify position"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::position"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/egg-shape-prevents-falls/",
-  "source_tier": "science_journalism",
   "keywords": [
     "egg",
     "shape",
     "prevents",
     "falls"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

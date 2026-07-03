@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-flowers-follow-sun",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "Plants may not seem to lead lives as complex as those of animals, especially since they can’t move much from the spot where they’ve sprouted. They have, however, found many ways around their immobile lifestyle to reproduce, compete with other plants for resources, adapt to their environment, and avoid or defend…",
   "mechanism": "Tropism of all kinds works because environmental cues trigger a hormonal response that causes the plant’s cells to grow or expand – some faster than others. The plant redirects itself over time as its tissues respond to these environmental cues.\n\nAuxins are a class of hormones known to be involved in a plant’s response to light. An increase in auxin levels occurs in the part of the plant that receives less light, which results in the elongation of cells in those areas through a weakening of the rigid cell wall and an increase in the cell’s water intake. This response reaches the tissue level when many cells have expanded on the shaded side of the plant. The plant may continue to orient itself in the direction it is growing, change its orientation to align with sunlight, or orient itself at an angle to sunlight if there are other aspects of its environment preventing it from aligning perfectly with the sun.\n\nOur knowledge of heliotropism, along with other ways plants move and orient themselves, can serve as a foundation for the development of crop management strategies and biomechanical technologies.\n\nTaking inspiration from plant heliotropism can help us to develop more sustainable technologies for harnessing solar energy, through the ingenious strategy of following the sun without uprooting. It has already inspired the creation of self-directing solar panels that use soft robots made of materials that bend and move with changes in water pressure to face the sun and absorb and store as much light as possible.\n\nWhile a plant’s responses to myriad environmental cues are difficult to tease apart, what tropism comes down to is adapting relatively quickly to the environment according to the plant’s needs. At large and small scales, that opens countless pathways for human inspiration.",
   "function_addressed": [
@@ -10,11 +9,19 @@
     "sense light (visible spectrum) from the environment",
     "respond to signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "modify-physical-state::size-shape-mass-volume",
+    "process-signals::respond-to-signals",
+    "sense-signals-environmental-cues::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "modify-physical-state",
+    "process-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/flowers-follow-sun/",
-  "source_tier": "science_journalism",
   "keywords": [
     "water",
     "pressure",
@@ -22,7 +29,5 @@
     "follow",
     "sun"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

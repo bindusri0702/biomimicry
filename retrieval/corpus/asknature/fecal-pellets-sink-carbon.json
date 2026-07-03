@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-fecal-pellets-sink-carbon",
   "organism_common": "Salps",
-  "organism_scientific": "",
   "strategy_summary": "Salpa aspera transport carbon to the ocean floor via their fecal pellets. “Biologists Laurence Madin of Woods Hole Oceanographic Institution (WHOI) and Patricia Kremer of the University of Connecticut and colleagues have conducted four summer expeditions to the Mid-Atlantic Bight region, between Cape Hatteras and…",
-  "mechanism": "Salpa aspera transport carbon to the ocean floor via their fecal pellets.\n\n“Biologists Laurence Madin of Woods Hole Oceanographic Institution (WHOI) and Patricia Kremer of the University of Connecticut and colleagues have conducted four summer expeditions to the Mid-Atlantic Bight region, between Cape Hatteras and Georges Bank in the North Atlantic, since 1975. Each time the researchers found that one particular salp species, Salpa aspera , multiplied into dense swarms that lasted for months.”\n\n“One swarm covered 100,000 square kilometers (38,600 square miles) of the sea surface. The scientists estimated that the swarm consumed up to 74 percent of microscopic carbon-containing plants from the surface water per day, and their sinking fecal pellets transported up to 4,000 tons of carbon a day to deep water.” (Woods Hole Oceanographic Institution 2006)",
+  "mechanism": "Salpa aspera transport carbon to the ocean floor via their fecal pellets.\n\n“Biologists Laurence Madin of Woods Hole Oceanographic Institution (WHOI) and Patricia Kremer of the University of Connecticut and colleagues have conducted four summer expeditions to the Mid-Atlantic Bight region, between Cape Hatteras and Georges Bank in the North Atlantic, since 1975. Each time the researchers found that one particular salp species, Salpa aspera, multiplied into dense swarms that lasted for months.”\n\n“One swarm covered 100,000 square kilometers (38,600 square miles) of the sea surface. The scientists estimated that the swarm consumed up to 74 percent of microscopic carbon-containing plants from the surface water per day, and their sinking fecal pellets transported up to 4,000 tons of carbon a day to deep water.” (Woods Hole Oceanographic Institution 2006)",
   "function_addressed": [
     "store chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "store::chemical-entities"
+  ],
+  "subgroup_keys": [
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/fecal-pellets-sink-carbon/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fecal",
     "pellets",
     "sink",
     "carbon"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

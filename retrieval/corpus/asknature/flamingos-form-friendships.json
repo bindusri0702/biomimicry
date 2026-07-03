@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-flamingos-form-friendships",
   "organism_common": "Flamingos",
-  "organism_scientific": "",
   "strategy_summary": "Scientists have rarely studied friendships among animals other than humans and apes. For hundreds of years, scientists refused to think that animals could have emotions or other human traits.",
   "mechanism": "In an English wildlife reserve, scientists studied flocks of four species of flamingos. These long-lived wading birds feed and breed in large flocks sometimes numbering in the thousands in Africa, Asia, Europe, and the Americas. The scientists found that flamingos preferred hanging out with the same small groups of other flamingos. These included groups of two, three, or four, and these social bonds lasted for years. But it’s not all friendly; there are also birds that avoid each other.\n\nFlamingos live in habitats where survival is difficult. For example, the Andean flamingo lives in the high elevation Andes Mountains of South America. They spend the summer feeding in salty lakes and migrate to lower elevation wetlands for the winter. Having stable relationships with other flamingos may help them find food, improve access to mates, and cope with sources of stress such as food shortages or human disturbance.\n\nIn a zoo, it may be useful to keep track of friendships among marked flamingos. That way, if there’s suddenly a change in the amount of time a flamingo spends with others, it could be a warning that something is wrong.",
   "function_addressed": [
     "coordinate by self-organization"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "coordinate::by-self-organization"
+  ],
+  "subgroup_keys": [
+    "coordinate"
+  ],
   "source_url": "https://asknature.org/strategy/flamingos-form-friendships/",
-  "source_tier": "science_journalism",
   "keywords": [
     "flamingos",
     "form",
     "friendships"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

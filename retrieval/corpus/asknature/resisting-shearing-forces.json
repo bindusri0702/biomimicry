@@ -1,25 +1,27 @@
 {
   "doc_id": "asn-resisting-shearing-forces",
   "organism_common": "Limpets",
-  "organism_scientific": "",
-  "strategy_summary": "Many organisms, including limpets, resist shearing loads temporarily in part thanks to Stefan adhesion, which occurs when a thin layer of viscous liquid separates two surfaces. Image: Ken-ichi Ueda / toggle icon Image: Ken-ichi Ueda / toggle icon Image: Richard Tanswell / toggle icon right arrow right arrow  “Stefan…",
-  "mechanism": "Many organisms, including limpets, resist shearing loads temporarily in part thanks to Stefan adhesion, which occurs when a thin layer of viscous liquid separates two surfaces.\n\nImage: Ken-ichi Ueda / toggle icon Image: Ken-ichi Ueda / toggle icon Image: Richard Tanswell / toggle icon right arrow right arrow\n\n“Stefan adhesion. This particular form of adhesion works best against shearing loads…I know of no demonstrated case in which Stefan adhesion is the exclusive mode of attachment, but one suspects its involvement when, as Crisp (1960) showed, a steady force will slowly slide barnacles (some at least) across smooth surfaces. Wigglesworth’s (1987) observations of flies clinging beneath glass sheets raises a similar suspicion. He noticed that the legs slowly slide centripetally across the glass, periodically detaching and swinging outward again. But shear of two surfaces isn’t the only way to load the liquid in shear–a tensile stress between two objects with fluid between will force inward flow between the surfaces, and the no-slip conditions at the liquid-solid interfaces will ensure the occurrence of shear. Thus, Stefan adhesion can play a role in resisting the initial tensile separation of two smooth and well-mated surfaces. It’s of course a player in the mucus locomotion of slugs, snails, and such … ” (Vogel 2003:427)",
+  "strategy_summary": "Many organisms, including limpets, resist shearing loads temporarily in part thanks to Stefan adhesion, which occurs when a thin layer of viscous liquid separates two surfaces. “Stefan adhesion.",
+  "mechanism": "Many organisms, including limpets, resist shearing loads temporarily in part thanks to Stefan adhesion, which occurs when a thin layer of viscous liquid separates two surfaces.\n\n“Stefan adhesion. This particular form of adhesion works best against shearing loads…I know of no demonstrated case in which Stefan adhesion is the exclusive mode of attachment, but one suspects its involvement when, as Crisp (1960) showed, a steady force will slowly slide barnacles (some at least) across smooth surfaces. Wigglesworth’s (1987) observations of flies clinging beneath glass sheets raises a similar suspicion. He noticed that the legs slowly slide centripetally across the glass, periodically detaching and swinging outward again. But shear of two surfaces isn’t the only way to load the liquid in shear–a tensile stress between two objects with fluid between will force inward flow between the surfaces, and the no-slip conditions at the liquid-solid interfaces will ensure the occurrence of shear. Thus, Stefan adhesion can play a role in resisting the initial tensile separation of two smooth and well-mated surfaces. It’s of course a player in the mucus locomotion of slugs, snails, and such … ” (Vogel 2003:427)",
   "function_addressed": [
     "attach temporarily",
     "manage tension",
     "manage shear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "manage-structural-forces::shear",
+    "manage-structural-forces::tension"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/resisting-shearing-forces/",
-  "source_tier": "science_journalism",
   "keywords": [
     "resisting",
     "shearing",
     "forces"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-the-migratory-whale-herd-concept",
   "organism_common": "Whales and dolphins",
-  "organism_scientific": "",
   "strategy_summary": "Whales, as some of the largest and most migratory animals on Earth, play a vital role in maintaining healthy ocean ecosystems. They travel vast distances between feeding and breeding grounds, connecting marine habitats across entire ocean basins.",
-  "mechanism": "Whales are central to the health of marine ecosystems, functioning as “ecosystem engineers.” Through their migrations, they transport nutrients across oceans, fertilizing plankton—the foundation of marine food webs—and facilitating biodiversity. This process, known as the “whale pump,” vertically redistributes nutrients as whales feed at depth and surface to excrete. Migratory routes, shared by groups of whales, act as ecological highways, supporting the flow of energy and matter between distant habitats.\n\nSocial cohesion within whale herds is also vital. Whales use complex vocalizations to navigate, communicate, and pass on knowledge about migratory routes and habitats. These learned behaviors enhance the survival of individuals and ensure the continued functioning of their ecological networks. Protecting these migratory herds ensures not only the survival of whales but also the stability of the ecosystems they sustain.\n\nThe migratory herd concept offers a practical framework for marine conservation, emphasizing the protection of migratory routes and critical habitats. By safeguarding these ecological networks, we can enhance biodiversity, strengthen ecosystem resilience, and support the ocean’s capacity for carbon sequestration. This concept also inspires systems thinking in human design, such as creating sustainable transportation networks that mimic the efficiency of migratory pathways.",
+  "mechanism": "Whales are central to the health of marine ecosystems, functioning as “ecosystem engineers.” Through their migrations, they transport nutrients across oceans, fertilizing plankton—the foundation of marine food webs—and facilitating biodiversity. This process, known as the “whale pump,” vertically redistributes nutrients as whales feed at depth and surface to excrete. Migratory routes, shared by groups of whales, act as ecological highways, supporting the flow of energy and matter between distant habitats.\n\nSocial cohesion within whale herds is also vital. Whales use complex vocalizations to navigate, communicate, and pass on knowledge about migratory routes and habitats. These learned behaviors enhance the survival of individuals and ensure the continued functioning of their ecological networks. Protecting these migratory herds ensures not only the survival of whales but also the stability of the ecosystems they sustain.\n\nThe migratory herd concept offers a practical framework for marine conservation, emphasizing the protection of migratory routes and critical habitats. By safeguarding these ecological networks, we can enhance biodiversity, strengthen ecosystem resilience, and support the ocean’s capacity for carbon sequestration. This concept also inspires systems thinking in human design, such as creating sustainable transportation networks that mimic the efficiency of migratory pathways.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "coordinate systems",
     "cooperate within the same species"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-the-same-species",
+    "coordinate::systems"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "coordinate"
+  ],
   "source_url": "https://asknature.org/strategy/the-migratory-whale-herd-concept/",
-  "source_tier": "science_journalism",
   "keywords": [
     "whale",
     "herds",
@@ -21,7 +24,5 @@
     "throughout",
     "ocean"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

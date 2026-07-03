@@ -1,24 +1,21 @@
 {
   "doc_id": "asn-radiating-filaments-filter-water",
   "organism_common": "Featherduster worms",
-  "organism_scientific": "",
   "strategy_summary": "The radiating filaments of fanworms filter water for food particles efficiently due to increased surface area. “Increased surface area is extremely useful to many creatures…The radiating filaments of the fanworm filter the water for food particles: the more water is covered, the more food is found.” (Foy and Oxford…",
   "mechanism": "The radiating filaments of fanworms filter water for food particles efficiently due to increased surface area.\n\n“Increased surface area is extremely useful to many creatures…The radiating filaments of the fanworm filter the water for food particles: the more water is covered, the more food is found.” (Foy and Oxford Scientific Films 1982:24)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
   "function_addressed": [
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/radiating-filaments-filter-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "radiating",
     "filaments",
     "filter",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

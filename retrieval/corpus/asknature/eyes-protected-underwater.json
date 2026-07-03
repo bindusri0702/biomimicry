@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-eyes-protected-underwater",
   "organism_common": "Manage Impact",
-  "organism_scientific": "",
   "strategy_summary": "The eyes of crocodiles are protected while still enabling vision underwater thanks to deployable transparent membranes. “The tough, transparent nictitans allows submerged vision.” (Fowler and Miller 2003:60)",
   "mechanism": "The eyes of crocodiles are protected while still enabling vision underwater thanks to deployable transparent membranes.\n\n“The tough, transparent nictitans allows submerged vision.” (Fowler and Miller 2003:60)",
   "function_addressed": [
     "manage impact"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::impact"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/eyes-protected-underwater/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eyes",
     "protected",
     "underwater"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

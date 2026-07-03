@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-semi-permeable-skin-selectively-absorbs-organic-nutrients",
   "organism_common": "Pacific hagfish",
-  "organism_scientific": "",
   "strategy_summary": "Absorbing nutrients from the environment is essential for all heterotrophic organisms. All but a few vertebrates accomplish this task orally by consuming food and absorbing freed nutrients through the gut epithelium.",
-  "mechanism": "However, Pacific hagfish have adapted to suit their feeding habitat by evolving the ability to absorb certain organic nutrients directly through their skin. Hagfish feed by burrowing through the decaying corpses of large animals, a rich stew of organic nutrients that have sunk to the ocean floor. In this environment, absorption of some nutrients through direct skin contact is a valuable adaptation . But skin must also be a strong physical barrier and capable of denying passage of non-vital compounds.\n\nIn the case of hagfish, their skin functions as a highly selective semi-permeable membrane. Learning how its protein s facilitate passage of some compounds while inhibiting others could aid in developing innovative filtration technologies. These technologies could help clean our water, improve medical treatments like kidney dialysis, and help deliver targeted medical therapies to specific tissues in the body.",
+  "mechanism": "However, Pacific hagfish have adapted to suit their feeding habitat by evolving the ability to absorb certain organic nutrients directly through their skin. Hagfish feed by burrowing through the decaying corpses of large animals, a rich stew of organic nutrients that have sunk to the ocean floor. In this environment, absorption of some nutrients through direct skin contact is a valuable adaptation . But skin must also be a strong physical barrier and capable of denying passage of non-vital compounds.\n\nHagfish feed by burrowing through the decaying corpses of large animals, a rich stew of organic nutrients that have sunk to the ocean floor.\n\nThe hagfish solves this conflict by embedding active transport proteins in its skin epithelium cells. The transport channels are highly selective for specific nutrient substrates like amino acids. They derive the energy required for transport from a sodium ion gradient that exists between the outside of the skin cells and the inside. Like almost all cells, hagfish cells actively pump sodium ions out of their cytoplasm. This creates a concentration gradient across the cell membrane. Allowing sodium ions to flow back into the cell through the transport channels fuels the energy-intensive uptake of useful nutrients, which is called symport.\n\nOther factors like allosteric regulation can manipulate how compounds are absorbed through the skin. In this way, the hagfish permit the transport of select nutrients through an otherwise impermeable skin barrier.\n\nIn the case of hagfish, their skin functions as a highly selective semi-permeable membrane. Learning how its protein s facilitate passage of some compounds while inhibiting others could aid in developing innovative filtration technologies. These technologies could help clean our water, improve medical treatments like kidney dialysis, and help deliver targeted medical therapies to specific tissues in the body.",
   "function_addressed": [
     "capture, absorb, or filter chemical entities",
     "distribute solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::solids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/semi-permeable-skin-selectively-absorbs-organic-nutrients/",
-  "source_tier": "science_journalism",
   "keywords": [
     "semi-permeable",
     "skin",
@@ -21,7 +23,5 @@
     "organic",
     "nutrients"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

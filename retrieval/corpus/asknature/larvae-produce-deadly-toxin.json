@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-larvae-produce-deadly-toxin",
   "organism_common": "Leaf beetles",
-  "organism_scientific": "",
   "strategy_summary": "Beetle larvae protect themselves from predators by producing a deadly toxin after feeding on Commiphora tree. “In Namibia the Commiphora tree is the host plant of the leaf beetle.",
   "mechanism": "Beetle larvae protect themselves from predators by producing a deadly toxin after feeding on Commiphora tree.\n\n“In Namibia the Commiphora tree is the host plant of the leaf beetle. When its larvae feed on the leaves, they produce a toxin not found in adults, which a Kalahari Desert bushman squeezes onto an arrow tip. The poison on a single arrow can fell an adult antelope.” (Chadwick 1998:114)",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/larvae-produce-deadly-toxin/",
-  "source_tier": "science_journalism",
   "keywords": [
     "larvae",
     "produce",
     "deadly",
     "toxin"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

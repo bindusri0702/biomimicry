@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-plant-uses-scent-mimic-to-attract-dung-beetles",
   "organism_common": "Orchids",
-  "organism_scientific": "",
   "strategy_summary": "Millions of years of coevolution among plants and animals have resulted in a fascinating and complicated array of relationships between species of the two kingdoms. These relationships range from mutually beneficial to parasitic.",
-  "mechanism": "Beetles of the Onthophagus genus dig tunnels below dung or carrion to transport the goods to a burrow where it is stored for use as food for the adult beetles and as a nursery for the larvae.\n\nThe trick to attracting these beetles then is to stink. The scent emitted by O. inouei seems to be more of a general dung-like odor, as it doesn’t smell distinctly enough like dung or carrion to attract dung or carrion flies. Luckily for the plant, the dung beetles aren’t discerning enough to tell the difference.\n\nLike orchids, O. inouei has a labellum—a petal at the bottom of a flower that can be larger and shaped differently from the rest—that serves as a platform for pollinators to enter the flower. As a dung beetle crawls into the flower, it gets pollen on its back from the stamen that’s hidden among the petals. The stigma, which is the part of the flower that receives pollen from other flowers and is located in the same area of the flower as the stamen, secretes a mucus-like substance that could possibly work like a glue to hold the pollen onto the beetle’s back until it finds the flower of another O. inouei plant. The strategy used by O. inouei is appropriately called “deceit pollination”.\n\nSee Related Strategy\n\nSoil ecosystem\n\nA diverse community of organisms interacts to break down and recycle chemicals to maintain soil fertility.\n\nDirect utilization of this dung-like scent might have limited applications for humans, but the chemistry behind it could inspire other scent-based attractants or repellents.\n\nThere is also a model we can learn from in the unbalanced benefits of the system. The flower may be taking advantage of the beetle, but not to a degree that is greatly harming the benefactor. The flower may not be offering the beetle any benefit yet identified, but it is not taking so much advantage as to hinder the beetle’s fitness for survival and reproduction. Even this unbalanced system has limits.",
+  "mechanism": "Beetles of the Onthophagus genus dig tunnels below dung or carrion to transport the goods to a burrow where it is stored for use as food for the adult beetles and as a nursery for the larvae.\n\nThe trick to attracting these beetles then is to stink. The scent emitted by O. inouei seems to be more of a general dung-like odor, as it doesn’t smell distinctly enough like dung or carrion to attract dung or carrion flies. Luckily for the plant, the dung beetles aren’t discerning enough to tell the difference.\n\nLike orchids, O. inouei has a labellum—a petal at the bottom of a flower that can be larger and shaped differently from the rest—that serves as a platform for pollinators to enter the flower. As a dung beetle crawls into the flower, it gets pollen on its back from the stamen that’s hidden among the petals. The stigma, which is the part of the flower that receives pollen from other flowers and is located in the same area of the flower as the stamen, secretes a mucus-like substance that could possibly work like a glue to hold the pollen onto the beetle’s back until it finds the flower of another O. inouei plant. The strategy used by O. inouei is appropriately called “deceit pollination”.\n\nSoil ecosystem\n\nA diverse community of organisms interacts to break down and recycle chemicals to maintain soil fertility.\n\nDirect utilization of this dung-like scent might have limited applications for humans, but the chemistry behind it could inspire other scent-based attractants or repellents.\n\nThere is also a model we can learn from in the unbalanced benefits of the system. The flower may be taking advantage of the beetle, but not to a degree that is greatly harming the benefactor. The flower may not be offering the beetle any benefit yet identified, but it is not taking so much advantage as to hinder the beetle’s fitness for survival and reproduction. Even this unbalanced system has limits.",
   "function_addressed": [
     "send chemical signals (odor, taste, etc.)",
     "pollinate"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::pollinate",
+    "send-signals::chemical-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/plant-uses-scent-mimic-to-attract-dung-beetles/",
-  "source_tier": "science_journalism",
   "keywords": [
     "dung",
     "beetles",
@@ -20,7 +23,5 @@
     "plant",
     "scent"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

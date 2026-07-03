@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-sporangium-launches-spores",
   "organism_common": "Hat-thrower fungus",
-  "organism_scientific": "",
   "strategy_summary": "The sporangium at the tip of the hypha of the Pilobolus fungus launches spores using a hydraulic system. Hypha with dark sporangium at the tip  The sporangium (black) and sub-sporangial vesicle of Pilobolus (transparent).",
-  "mechanism": "The sporangium at the tip of the hypha of the Pilobolus fungus launches spores using a hydraulic system.\n\nHypha with dark sporangium at the tip\n\nThe sporangium (black) and sub-sporangial vesicle of Pilobolus (transparent).\n\nDiagram of fluid pressure catapult mechanism in Pilobolus kleinii\n\nInky cap\n\nBallistospores of fungi are catapulted away by coalescence of water droplets.\n\n“In the common species Pilobolus kleinii , a package filled with spores (sporangium; containing between 30,000–90,000 spores) is formed at the tip of the vesicle. Due to (osmotic) absorption of water, the balloon-like vesicle swells, and the hydrostatic pressure in it increases. When a critical pressure of about 0.55 MPa relative to ambient (about 5.5 atm) is reached, the spore package breaks free from the vesicle (in 0.01–0.03 ms) and is propelled by a jet of cell sap with a peak acceleration up to 21,407 g and a peak launch velocity of 16 m/s (mean: 9 m/s), resulting in a launch distance of 2.5 m for launch angles of 70–90° to the horizontal. Again, the spore and fluid projection is powered by the release of elastic energy from the contracting wall of the vesicle, which is converted into kinetic energy of the ejected spores and some deformation of the stalk of the sporangiophore. The launch distance is larger than in the Ascomycota because the spore package remains intact, resulting in an overall larger mass of the projectile and thus a lower influence of viscous drag.” (Sakes et al. 2016:10)\n\nWatch Video",
+  "mechanism": "The sporangium at the tip of the hypha of the Pilobolus fungus launches spores using a hydraulic system.\n\nHypha with dark sporangium at the tip\n\nThe sporangium (black) and sub-sporangial vesicle of Pilobolus (transparent).\n\nDiagram of fluid pressure catapult mechanism in Pilobolus kleinii\n\nInky cap\n\nBallistospores of fungi are catapulted away by coalescence of water droplets.\n\n“In the common species Pilobolus kleinii, a package filled with spores (sporangium; containing between 30,000–90,000 spores) is formed at the tip of the vesicle. Due to (osmotic) absorption of water, the balloon-like vesicle swells, and the hydrostatic pressure in it increases. When a critical pressure of about 0.55 MPa relative to ambient (about 5.5 atm) is reached, the spore package breaks free from the vesicle (in 0.01–0.03 ms) and is propelled by a jet of cell sap with a peak acceleration up to 21,407 g and a peak launch velocity of 16 m/s (mean: 9 m/s), resulting in a launch distance of 2.5 m for launch angles of 70–90° to the horizontal. Again, the spore and fluid projection is powered by the release of elastic energy from the contracting wall of the vesicle, which is converted into kinetic energy of the ejected spores and some deformation of the stalk of the sporangiophore. The launch distance is larger than in the Ascomycota because the spore package remains intact, resulting in an overall larger mass of the projectile and thus a lower influence of viscous drag.” (Sakes et al. 2016:10)\n\nWatch Video",
   "function_addressed": [
     "transform mechanical energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "transform-convert-energy::mechanical-energy"
+  ],
+  "subgroup_keys": [
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/sporangium-launches-spores/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sporangium",
     "launches",
     "spores"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

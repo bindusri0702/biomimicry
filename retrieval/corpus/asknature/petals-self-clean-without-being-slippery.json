@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-petals-self-clean-without-being-slippery",
   "organism_common": "Wild pansy",
-  "organism_scientific": "",
   "strategy_summary": "Petals of pansy flowers maintain self-cleaning without sacrificing grip because of cone-shaped cells. Self-cleaning is a very useful surface property for plants as they are unable to clean themselves mechanically.",
-  "mechanism": "Petals of pansy flowers maintain self-cleaning without sacrificing grip because of cone-shaped cells.\n\nSelf-cleaning is a very useful surface property for plants as they are unable to clean themselves mechanically. The most famous example of plant self-cleaning is the sacred lotus, which uses micro-scale bumps coated in tiny wax needles to form very stable air bubbles between droplets of water and the leaf surface. When the droplets roll off the surface, they pick up dirt and contaminating microbes and wash them away.\n\nFlowers are also often water-repellent (hydrophobic), however, their main function is to attract pollinators, and waxy surfaces like those on lotus leaves are slippery, making it more difficult for visiting insects to grip them. As flowers are short-lived organs and consequently contamination doesn’t matter as much, many flowers may have sacrificed self-cleaning for grip. Petals on flowers like roses have bumps similar to those found on lotus leaves, but they are covered with a smooth layer of wax instead of needles. This makes them less slippery, but also less repellent. Rose petals are still hydrophobic, enabling the flower to avoid becoming waterlogged, but water droplets stick to the petal surface instead of rolling off. As a result, contaminating particles are not washed away.\n\nted from Schulte et al. 2011\n\nPansy petals, on the other hand, do show self-cleaning properties comparable to those of lotus leaves, but they do so with a smooth wax coating like that of rose petals, ensuring that visiting pollinating insects are still able to grip them.\n\nPansy petals have unusually tall and pointed bumps on their surfaces that are 45 microns in height: nearly three times the height of similar bumps on rose petals. The bumps of both rose and pansy petals have a wrinkled surface. In roses, the wrinkles are wide enough that water can enter by capillary action , holding droplets in place and preventing them from rolling. But on pansy petals, the wrinkles are too narrow for water to enter. In addition, the tips of the bumps are smaller and closer together on pansy petals than they are for rose petals or lotus leaves. This keeps the total contact area between the petal and the water droplet small and prevents the air bubble from collapsing. The result is enhanced hydrophobicity and a self-cleaning surface that insects can still get a grip on.\n\nImage: Tatiana Jimenez / Copyright © - All rights reserved toggle icon\n\nAdapted from Schulte et al. 2011\n\nSacred lotus\n\nLeaves of the sacred lotus are self-cleaning thanks to hydrophobic microscale bumps.",
+  "mechanism": "Petals of pansy flowers maintain self-cleaning without sacrificing grip because of cone-shaped cells.\n\nSelf-cleaning is a very useful surface property for plants as they are unable to clean themselves mechanically. The most famous example of plant self-cleaning is the sacred lotus, which uses micro-scale bumps coated in tiny wax needles to form very stable air bubbles between droplets of water and the leaf surface. When the droplets roll off the surface, they pick up dirt and contaminating microbes and wash them away.\n\nFlowers are also often water-repellent (hydrophobic), however, their main function is to attract pollinators, and waxy surfaces like those on lotus leaves are slippery, making it more difficult for visiting insects to grip them. As flowers are short-lived organs and consequently contamination doesn’t matter as much, many flowers may have sacrificed self-cleaning for grip. Petals on flowers like roses have bumps similar to those found on lotus leaves, but they are covered with a smooth layer of wax instead of needles. This makes them less slippery, but also less repellent. Rose petals are still hydrophobic, enabling the flower to avoid becoming waterlogged, but water droplets stick to the petal surface instead of rolling off. As a result, contaminating particles are not washed away.\n\nted from Schulte et al. 2011\n\nPansy petals, on the other hand, do show self-cleaning properties comparable to those of lotus leaves, but they do so with a smooth wax coating like that of rose petals, ensuring that visiting pollinating insects are still able to grip them.\n\nPansy petals have unusually tall and pointed bumps on their surfaces that are 45 microns in height: nearly three times the height of similar bumps on rose petals. The bumps of both rose and pansy petals have a wrinkled surface. In roses, the wrinkles are wide enough that water can enter by capillary action, holding droplets in place and preventing them from rolling. But on pansy petals, the wrinkles are too narrow for water to enter. In addition, the tips of the bumps are smaller and closer together on pansy petals than they are for rose petals or lotus leaves. This keeps the total contact area between the petal and the water droplet small and prevents the air bubble from collapsing. The result is enhanced hydrophobicity and a self-cleaning surface that insects can still get a grip on.\n\nAdapted from Schulte et al. 2011\n\nSacred lotus\n\nLeaves of the sacred lotus are self-cleaning thanks to hydrophobic microscale bumps.",
   "function_addressed": [
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/petals-self-clean-without-being-slippery/",
-  "source_tier": "science_journalism",
   "keywords": [
     "petals",
     "self-clean",
@@ -19,7 +20,5 @@
     "being",
     "slippery"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

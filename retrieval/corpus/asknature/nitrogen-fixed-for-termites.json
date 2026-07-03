@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-nitrogen-fixed-for-termites",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Spirochete bacteria found in the hindgut of termites fix atmospheric nitrogen for termite nutrition via nitrogenase enzymes. “Our results reveal a new dimension to the metabolic diversity within the Spirochaetes and now extend to 6 (of 18) the number of phyla within the domain Bacteria that contain N2-fixing…",
   "mechanism": "Spirochete bacteria found in the hindgut of termites fix atmospheric nitrogen for termite nutrition via nitrogenase enzymes.\n\n“Our results reveal a new dimension to the metabolic diversity within the Spirochaetes and now extend to 6 (of 18) the number of phyla within the domain Bacteria that contain N2-fixing representatives (11, 25). They also reveal a role for spirochetes in termite nitrogen nutrition. Two observations suggest that N2 fixation by spirochetes is important to termite nitrogen economy. First, spirochetes are unusually abundant in termite guts, accounting for as much as 50% of all prokaryotes (26). Second, many of the spirochete NifHs characterized in this study were identical or nearly identical to NifH clones obtained from a variety of termites, including NiMs known to be expressed in termite guts (Fig. 2), suggesting a spirochete origin for the latter…Our results also reveal a heretofore unrecognized role for free-living spirochetes in global N cycling.” (Lilburn et al. 2001:2497)",
   "function_addressed": [
     "capture, absorb, or filter chemical entities",
     "capture, absorb, or filter gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::gases"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/nitrogen-fixed-for-termites/",
-  "source_tier": "science_journalism",
   "keywords": [
     "nitrogen",
     "fixed",
     "termites"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

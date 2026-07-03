@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-feet-stay-put",
   "organism_common": "Perching birds",
-  "organism_scientific": "",
   "strategy_summary": "The feet of perching birds can perch even on weak, slippery surfaces due to the rough bumpy skin on their soles. Two rooks, an adult on left and a juvenile perched.",
   "mechanism": "The feet of perching birds can perch even on weak, slippery surfaces due to the rough bumpy skin on their soles.\n\nTwo rooks, an adult on left and a juvenile perched. Shows the three front toes and bumpiness.\n\nBirds on the wire\n\n“The Passeriformes or ‘perching birds’ have the typical bird foot: three toes forward and one behind, with which a bird can perch crosswise on a branch. A bird’s sole is covered with rough bumpy skin, so that it can obtain purchase even on a small, weak, mobile twig which may be wet and slippery after rain.” (Foy and Oxford Scientific Films 1982:183)",
   "function_addressed": [
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/feet-stay-put/",
-  "source_tier": "science_journalism",
   "keywords": [
     "feet",
     "stay",
     "put"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

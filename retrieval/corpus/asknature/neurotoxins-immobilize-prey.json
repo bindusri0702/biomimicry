@@ -1,24 +1,24 @@
 {
   "doc_id": "asn-neurotoxins-immobilize-prey",
   "organism_common": "Scorpion",
-  "organism_scientific": "",
   "strategy_summary": "Neurotoxins in scorpion venom incapacitate prey by interfering with the transmission of impulses in neurons. Stinging Scorpion vs.",
-  "mechanism": "Neurotoxins in scorpion venom incapacitate prey by interfering with the transmission of impulses in neurons.\n\nStinging Scorpion vs. Pain-Defying Mouse\n\n“ Peptide toxins found in scorpion venom interact with sodium channels in nervous and muscular systems — and some of these sodium channels communicate pain, says Prof. Gurevitz. ‘The mammalian body has nine different sodium channels of which only a certain subtype delivers pain to our brain. We are trying to understand how toxins in the venom interact with sodium channels at the molecular level and particularly how some of the toxins differentiate among channel subtypes.\n\n“‘If we figure this out, we may be able to slightly modify such toxins, making them more potent and specific for certain pain mediating sodium channels,’ Prof. Gurevitz continues. With this information, engineering of chemical derivatives that mimic the scorpion toxins would provide novel pain killers of high specificity that have no side effects … some toxins have evolved with the capability to directly affect mammalian sodium channel subtypes whereas others recognize and affect sodium channels of invertebrates such as insects …\n\n“Using an approach called ‘rational design’ or ‘ biomimicry ,’ Prof. Gurevitz is trying to develop painkillers that mimic the venom’s bioactive components. The idea is to use nature as the model, and to modify elements of the venom so that a future painkiller designed according to these toxins could be as effective as possible, while eliminating or reducing side effects.” (Science Daily 2010)",
+  "mechanism": "Neurotoxins in scorpion venom incapacitate prey by interfering with the transmission of impulses in neurons.\n\nStinging Scorpion vs. Pain-Defying Mouse\n\n“ Peptide toxins found in scorpion venom interact with sodium channels in nervous and muscular systems — and some of these sodium channels communicate pain, says Prof. Gurevitz. ‘The mammalian body has nine different sodium channels of which only a certain subtype delivers pain to our brain. We are trying to understand how toxins in the venom interact with sodium channels at the molecular level and particularly how some of the toxins differentiate among channel subtypes.\n\n“‘If we figure this out, we may be able to slightly modify such toxins, making them more potent and specific for certain pain mediating sodium channels,’ Prof. Gurevitz continues. With this information, engineering of chemical derivatives that mimic the scorpion toxins would provide novel pain killers of high specificity that have no side effects … some toxins have evolved with the capability to directly affect mammalian sodium channel subtypes whereas others recognize and affect sodium channels of invertebrates such as insects …\n\n“Using an approach called ‘rational design’ or ‘ biomimicry,’ Prof. Gurevitz is trying to develop painkillers that mimic the venom’s bioactive components. The idea is to use nature as the model, and to modify elements of the venom so that a future painkiller designed according to these toxins could be as effective as possible, while eliminating or reducing side effects.” (Science Daily 2010)",
   "function_addressed": [
     "regulate cellular processes",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/neurotoxins-immobilize-prey/",
-  "source_tier": "science_journalism",
   "keywords": [
     "neurotoxins",
     "immobilize",
     "prey"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-shapes-cover-curved-surfaces-efficiently",
   "organism_common": "Tortoises",
-  "organism_scientific": "",
   "strategy_summary": "Tortoises are a group of turtles that can be distinguished in part by their round, dome-like shells. This shape provides protection from the teeth and claws of predators and helps a tortoise to right itself if it happens to roll (or be flipped) onto its back.",
   "mechanism": "The scutes are made of keratin, the same protein that is the building block for hair, nails, feathers, and claws. Beneath them is a bone plate. This rigid outer layer prevents the teeth and claws of predators from puncturing the shell, but there’s more to a shell than what is visible on the outside.\n\nThe shell’s durability is largely due to its internal layers. Filling the space below the outer layer is a more sponge-like material that gives the shell some flexibility by absorbing pressure if the shell is pushed down. This inner layer is made of its own sections, separate from the scutes, that interlock with each other through ridges at their edges. These joints give the shell additional room to bend––a critical adaptation since a curved shell is more likely to crack under pressure.\n\nThe tortoise shell offers an example of how a combination of shapes and materials can be used to build structures that would normally be vulnerable to breakage. In human applications, such structures could last longer, requiring less frequent replacement. The tortoise’s domed shell has helped it survive the predators and conditions of a wide range of habitats over hundreds of millions of years, proving that stability is not only found in straight lines.",
   "function_addressed": [
@@ -11,11 +10,18 @@
     "manage tension",
     "manage impact"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::impact",
+    "manage-structural-forces::shear",
+    "manage-structural-forces::tension",
+    "prevent-structural-failure::fracture-rupture"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/shapes-cover-curved-surfaces-efficiently/",
-  "source_tier": "science_journalism",
   "keywords": [
     "shell",
     "geometry",
@@ -23,7 +29,5 @@
     "resist",
     "cracking"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

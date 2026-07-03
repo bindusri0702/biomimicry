@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-tube-feet-attach-in-marine-environment",
   "organism_common": "Echinoderms (Sea Stars, Sea Urchins)",
-  "organism_scientific": "",
   "strategy_summary": "The tube feet of echinoderms attach to surfaces via suction adhesion. “Besides mollusks, echinoderm tube feet make use of suction adhesion, as do a wide variety of other aquatic systems–either as the only attachment mechanism or in combination with others.",
   "mechanism": "The tube feet of echinoderms attach to surfaces via suction adhesion.\n\n“Besides mollusks, echinoderm tube feet make use of suction adhesion, as do a wide variety of other aquatic systems–either as the only attachment mechanism or in combination with others. Among terrestrial systems one thinks first of wet ones–frogs for instance. But the mechanism finds use even in arboreal mammals.” (Vogel 2003:427)",
   "function_addressed": [
     "attach permanently",
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently",
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/tube-feet-attach-in-marine-environment/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tube",
     "feet",
@@ -20,7 +22,5 @@
     "marine",
     "environment"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

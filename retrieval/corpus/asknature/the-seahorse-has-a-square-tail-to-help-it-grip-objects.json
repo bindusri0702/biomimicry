@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-the-seahorse-has-a-square-tail-to-help-it-grip-objects",
   "organism_common": "Seahorse",
-  "organism_scientific": "",
   "strategy_summary": "While most fish use their tails for swimming, seahorses, a type of fish found in shallow, tropical waters, use their tails in another way. Their long tails are excellent for grabbing and holding onto things.",
   "mechanism": "The shape of a seahorse’s tail helps the seahorse grip onto these objects, allowing the seahorse to stay in one place without tiring itself out. Even though a seahorse’s tail looks curly and round from the side, when viewed up close its bone structure is square-shaped, which helps create extra grip.\n\nEach section of a seahorse’s tail is made up of four small L-shaped plates that are arranged to form a square. These squares are stacked on top of each other, creating the long tail. Because the square shape has flat, long sides the seahorse can use more of its tail to grip around an object and hold it more firmly. One way to imagine this is a car tire. A car tire is a circular shape from the side, but is flat where it contacts the road, so that more of it can touch the road and help control the car. If a car tire were more rounded where it touched the road, only a small point of the tire would touch the ground, and the tires would not help control the car as well. This is also true of the seahorse: if its tail were made up of circular bones, there would be less contact area with whatever it was trying to grip.\n\nWhen the seahorse grips onto an object, the four plates contract and slide past each other. This flexibility also makes it easier for the seahorse to adjust or tighten its grip. As it releases its grip, the bones slide back into their original position. The ability to have a tighter grip allows the seahorse to hold on more securely when the ocean currents are strong, allowing it to hunt for prey more effectively.\n\nWhen designing robots to perform tasks, it might seem like mimicking human hands would be the best choice to achieve a wide range of finite and precise movements. But nature has evolved many techniques for gripping objects, each suited for particular tasks. For example, the seahorse’s tail-gripping mechanism might be ideal for machines doing work underwater or in applications where material may be slippery. Because seahorse tails are flexible, they can bend and resist damage. Similar flexibility may help search and rescue robots navigate precarious environments to save humans.",
   "function_addressed": [
@@ -9,17 +8,20 @@
     "prevent deformation",
     "manage impact"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::impact",
+    "prevent-structural-failure::deformation",
+    "prevent-structural-failure::fracture-rupture"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/the-seahorse-has-a-square-tail-to-help-it-grip-objects/",
-  "source_tier": "science_journalism",
   "keywords": [
     "square",
     "tail",
     "grip"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

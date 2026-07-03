@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-grooves-shed-water",
   "organism_common": "Protect From Excess Liquids",
-  "organism_scientific": "",
-  "strategy_summary": "The feathers of doves and other birds shed water due to nanoscale grooves on their surfaces. Image: Andrea Cummins / toggle icon Image: Jim Allebach / toggle icon right arrow right arrow  “According to Prof.",
-  "mechanism": "The feathers of doves and other birds shed water due to nanoscale grooves on their surfaces.\n\nImage: Andrea Cummins / toggle icon Image: Jim Allebach / toggle icon right arrow right arrow\n\n“According to Prof. Edward Bormashenko from the Department of Physics at the Ariel University Center of Samaria, the surface of a dove’s wing – and that of most birds – is the perfect raincoat, keeping water and dirt from sticking to their bodies. Bormashenko’s current research into non-stick materials is based on this understanding, and could lead to self-cleaning textiles, and have important implications in the shipping, recreational sports and building industries. Applying techniques from the fields of physics and nanotechnology, Bormashenko has succeeded in duplicating the material found on bird’s wings. He calls it a superhydrophobic polymer . ‘It’s all because of the ‘roughness’ on the feathers of the bird,’ Bormashenko tells ISRAEL21c, explaining that the surface of a bird’s feathers are covered in miniscule nano-sized grooves, 100 nm to 10 microns in width. The unique grooves (at angles of 180 degrees), trap a blanket of air around the feather, and prevent liquids from attaching to the wing surface.” (Kloosterman 2008)",
+  "strategy_summary": "The feathers of doves and other birds shed water due to nanoscale grooves on their surfaces. “According to Prof.",
+  "mechanism": "The feathers of doves and other birds shed water due to nanoscale grooves on their surfaces.\n\n“According to Prof. Edward Bormashenko from the Department of Physics at the Ariel University Center of Samaria, the surface of a dove’s wing – and that of most birds – is the perfect raincoat, keeping water and dirt from sticking to their bodies. Bormashenko’s current research into non-stick materials is based on this understanding, and could lead to self-cleaning textiles, and have important implications in the shipping, recreational sports and building industries. Applying techniques from the fields of physics and nanotechnology, Bormashenko has succeeded in duplicating the material found on bird’s wings. He calls it a superhydrophobic polymer. ‘It’s all because of the ‘roughness’ on the feathers of the bird,’ Bormashenko tells ISRAEL21c, explaining that the surface of a bird’s feathers are covered in miniscule nano-sized grooves, 100 nm to 10 microns in width. The unique grooves (at angles of 180 degrees), trap a blanket of air around the feather, and prevent liquids from attaching to the wing surface.” (Kloosterman 2008)",
   "function_addressed": [
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/grooves-shed-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "grooves",
     "shed",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

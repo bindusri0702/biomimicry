@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-setae-draw-water-from-mud",
   "organism_common": "Marsh crabs",
-  "organism_scientific": "",
-  "strategy_summary": "Tufts on marsh crab legs draw water from mud by using hydrophilic setae (stiff hair-like structures). “Some species, including Sesarma , have an additional means of gaining water from the soil by what are, in effect, roots.",
-  "mechanism": "Tufts on marsh crab legs draw water from mud by using hydrophilic setae (stiff hair-like structures).\n\n“Some species, including Sesarma , have an additional means of gaining water from the soil by what are, in effect, roots. Tufts of hydrophilic setae at the bases of the legs are brought into contact with the moist surface of the mud and can actually draw water into the crab’s body (Burggren and McMahon 1988).” (Hogarth 1999:102)",
+  "strategy_summary": "Tufts on marsh crab legs draw water from mud by using hydrophilic setae (stiff hair-like structures). “Some species, including Sesarma, have an additional means of gaining water from the soil by what are, in effect, roots.",
+  "mechanism": "Tufts on marsh crab legs draw water from mud by using hydrophilic setae (stiff hair-like structures).\n\n“Some species, including Sesarma, have an additional means of gaining water from the soil by what are, in effect, roots. Tufts of hydrophilic setae at the bases of the legs are brought into contact with the moist surface of the mud and can actually draw water into the crab’s body (Burggren and McMahon 1988).” (Hogarth 1999:102)",
   "function_addressed": [
     "capture, absorb, or filter liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/setae-draw-water-from-mud/",
-  "source_tier": "science_journalism",
   "keywords": [
     "setae",
     "draw",
     "water",
     "mud"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

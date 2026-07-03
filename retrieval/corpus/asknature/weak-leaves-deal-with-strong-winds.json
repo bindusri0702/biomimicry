@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-weak-leaves-deal-with-strong-winds",
   "organism_common": "Tulip poplar",
-  "organism_scientific": "",
   "strategy_summary": "The leaves of trees deal with strong winds by adjusting their configurations in order to reduce exposure and limit flutter. Leaves of the tulip poplar (Liriodendron tulipifera)  “Leaves–trees, really–have a problem, the same one as our solar panels.",
   "mechanism": "The leaves of trees deal with strong winds by adjusting their configurations in order to reduce exposure and limit flutter.\n\nLeaves of the tulip poplar (Liriodendron tulipifera)\n\n“Leaves–trees, really–have a problem, the same one as our solar panels. Their function, trapping solar energy photosynthetically, demands exposure of lots of area skyward…[Nature] arranges leaves and their attachments so they adjust their configurations and thus reduce their exposure and flutter as the wind increases. Motive force presents no problem, even for these nonmuscular structures, because the wind itself provides more than enough. Photosynthesis? Intermittently strong winds come mostly with reduced sunlight, so temporary reduction in exposure to sky can’t entail a great long-term cost…Figure 1.5a shows what one kind of leaf, that of a tulip poplar, does at a series of increasing wind speeds. This curling into a tightening cone characterizes quite a few kinds of leaves–including maples, sweet gums, sycamores (plane trees), and redbuds…All are characterized by relatively long petioles (leaf stems) and lobes on their blades that protrude back toward their parent branches from the point of attachment of their petioles. What appears to happen (based on observation and crude models) is that the lobes, upwind because leaves always extend downwind like kites on strings, bend upward (abaxially, technically) and get the curling started…This curling into cones dramatically reduces drag–at least if we pick the right item for a comparative baseline…Another wind-dependent reconfiguration, one in which the leaflets of a pinnately compound leaf such as black walnut or black locust roll up around their axial rachis, does a bit better…The very stiff leaves on a branch of a holly (Ilex americana) swing inward toward the branch and lie, one against another, in a common sandwichlike pile. Pine needles cluster instead of being splayed outward…The solution…involves two aspects as common in nature’s technology as they are rare in our own. First, shape isn’t held constant, but rather shape and the forces of flow interact complexly, each dependent on the other. The local wind forces on a leaf depend (in part) on its shape; its shape, in turn, depends (in part) on the local wind forces. Second, variable circumstances are dealt with by altering functional priorities. Photosynthesis, overall, matters far more than drag minimization; in storms, though, such priorities must reverse.” (Vogel 2003: 8-10)",
   "function_addressed": [
     "protect from wind"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::wind"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/weak-leaves-deal-with-strong-winds/",
-  "source_tier": "science_journalism",
   "keywords": [
     "weak",
     "leaves",
@@ -19,7 +20,5 @@
     "strong",
     "winds"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

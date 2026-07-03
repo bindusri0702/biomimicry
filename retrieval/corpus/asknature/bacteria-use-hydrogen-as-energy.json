@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-bacteria-use-hydrogen-as-energy",
   "organism_common": "Hydrogenobacter thermophilus",
-  "organism_scientific": "",
   "strategy_summary": "Hydrogen-oxidizing bacteria metabolize hydrogen from their environment to use as energy  Photosynthesis provides energy for most life on Earth, but has an upper limit of ~70°C. Hydrogen-oxidizing bacteria live in geothermal hot springs where temperatures far exceed 70°C, and thus must use alternative methods to…",
-  "mechanism": "Hydrogen-oxidizing bacteria metabolize hydrogen from their environment to use as energy\n\nPhotosynthesis provides energy for most life on Earth, but has an upper limit of ~70°C. Hydrogen-oxidizing bacteria live in geothermal hot springs where temperatures far exceed 70°C, and thus must use alternative methods to produce energy. By oxidizing readily available hydrogen, these organisms are able to produce energy without the need for photosynthesis.\n\nThese bacteria metabolize hydrogen using the enzyme hydrogenase and the electron-transport chain (ETC). The ETC uses a proton gradient to pump hydrogen through a complex known as ATP synthase, which generates ATP to use as energy. Oxygen is used as a “terminal electron acceptor”, which accepts the final electron at the end of the ETC and combines with hydrogen protons to form water. The difference between different types of hydrogen-oxidizing bacteria is which terminal electron acceptor they use. Many use oxygen, but other inorganic compounds, such as nitrate, sulfur, and sulfite, are also used.\n\nThis strategy was contributed by Richard Fisher and Laura Cuccaro.",
+  "mechanism": "Hydrogen-oxidizing bacteria metabolize hydrogen from their environment to use as energy\n\nPhotosynthesis provides energy for most life on Earth, but has an upper limit of ~70°C. Hydrogen-oxidizing bacteria live in geothermal hot springs where temperatures far exceed 70°C, and thus must use alternative methods to produce energy. By oxidizing readily available hydrogen, these organisms are able to produce energy without the need for photosynthesis.\n\nThese bacteria metabolize hydrogen using the enzyme hydrogenase and the electron-transport chain (ETC). The ETC uses a proton gradient to pump hydrogen through a complex known as ATP synthase, which generates ATP to use as energy. Oxygen is used as a “terminal electron acceptor”, which accepts the final electron at the end of the ETC and combines with hydrogen protons to form water. The difference between different types of hydrogen-oxidizing bacteria is which terminal electron acceptor they use. Many use oxygen, but other inorganic compounds, such as nitrate, sulfur, and sulfite, are also used.",
   "function_addressed": [
     "regulate reproduction or growth",
     "transform chemical energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::reproduction-or-growth",
+    "transform-convert-energy::chemical-energy"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/bacteria-use-hydrogen-as-energy/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bacteria",
     "hydrogen",
     "energy"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

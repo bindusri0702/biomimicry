@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-legs-detect-small-vibrations-for-communication",
   "organism_common": "Water strider",
-  "organism_scientific": "",
   "strategy_summary": "Insects of all kinds can use their six legs to walk on solid surfaces—but water striders have a special twist. The hairs on the feet of these long-legged bugs contain grooves that hold air bubbles, making it possible for them to walk on the surface of water without breaking through.",
   "mechanism": "Like other insects, water striders have movement-sensing hairs called trichobothria on various parts of their bodies. But water striders have a special variation on the theme: They have several extra-long trichobothria sticking out of the ventral side of the end of their legs. These trichobothria just touch, but don’t pierce, the surface of the water – like a cat’s whiskers tickling the water in its bowl as it takes a drink.\n\nInsects also have a sensory organ called a chordotonal organ near their joints that lets them know when their joints move and can also sense other forces. Each is made up of structures called scolopidia. The scolopidia in turn are made up of three parts: a nerve cell that’s attached to the central nervous system and that includes a long, thin pressure-sensing extension called a dendrite; a scolopale cell, which serves as a sheath around the dendrite; and an attachment cell, which connects the rest of the scolopidium to the insect’s skin. Water striders have more scolopidia than other bugs, presumably making them super-sensitive to motion.\n\nWhen a neighbor rapidly moves its leg up and down, it makes tiny waves that travel across the surface. When these waves reach the legs of another strider, they cause them to activate these two sets of extra-sensitive sensory organs and alert the insect’s nervous system of the motion.\n\nTogether, the activated nerve cells translate the movement into information about the vibrations’ frequency and location of origin and so about the source that sent them. Humans are not water striders, so we’ll likely never be completely sure of what the messages are—but scientists have evidence that they include information about the sex of the sender and also provide warning signals if one strider is venturing too far into another’s personal space.\n\nWater striders’ ability to sense minute vibrations with distinct meanings offers abundant inspiration for devices humans can use to detect movement and convey information. For instance, it might inspire the invention of devices that provide advanced warning of impending earthquakes or mudslides by catching small waves of movement traveling through the ground or air. It might serve as a model for enhancing structural engineers’ ability to test the resilience of buildings to vibrations caused by traffic or forces of nature. Or it might lead to the development of ways to communicate between humans, robotic devices, or both, that don’t rely on sight or the audible vibrations we call sound.",
   "function_addressed": [
@@ -11,17 +10,22 @@
     "sense sound and other vibrations from the environment",
     "sense touch and mechanical forces in a living system"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "process-signals::respond-to-signals",
+    "process-signals::transduce-convert-signals",
+    "sense-signals-environmental-cues::motion",
+    "sense-signals-environmental-cues::sound-and-other-vibrations",
+    "sense-signals-environmental-cues::touch-and-mechanical-forces"
+  ],
+  "subgroup_keys": [
+    "process-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/legs-detect-small-vibrations-for-communication/",
-  "source_tier": "science_journalism",
   "keywords": [
     "insect",
     "waves",
     "communicate"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

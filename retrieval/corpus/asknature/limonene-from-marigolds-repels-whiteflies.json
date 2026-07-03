@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-limonene-from-marigolds-repels-whiteflies",
   "organism_common": "Maintain Biodiversity",
-  "organism_scientific": "",
   "strategy_summary": "Marigold flowers emit limonene, which protects tomatoes by repelling whiteflies. Monoculture, the practice of planting only one crop, is commonly used in the agriculture industry.",
-  "mechanism": "Marigold flowers emit limonene, which protects tomatoes by repelling whiteflies.\n\nMonoculture, the practice of planting only one crop, is commonly used in the agriculture industry. In monocultures, there is no biodiversity . This is an issue because a monoculture crop provides an abundant supply of food to a pest that favors it, and the pest can easily reproduce and travel between plants. In order to suppress pests, agriculturalists often use pesticides that damage the environment. Man-made pesticides are typically chemicals that kill other plants or pests along with beneficial organisms, such as bees and soil microbes.\n\nHealthy ecosystems usually have a large variety of species. An area that consists of many plant, animal, and microbe species is an area with high biodiversity. Species living in that area can provide important services to each other. Pest control is an example of a service a plant can provide to another plant. In agriculture, companion planting, or planting at least two crops in the same field, can be used as a way to help control pests.\n\nAn example of companion planting is planting tomatoes with marigolds. In a field where only tomatoes are grown, whiteflies are a common pest that can destroy the crop. Long ago farmers solved this problem by planting marigolds next to tomato plants. They believed that doing so protected the tomato plants from whiteflies. Recently, scientists confirmed that whitefly populations were smaller when tomatoes were planted with marigold flowers. They’ve identified that limonene , a chemical substance found in marigolds, is the substance that repels whiteflies. Limonene belongs to a group of chemical substances called volatile plant compounds (VPCs). VPCs are emitted by plants to send signals to other plants or to attract or repel insects. An insect’s antennae or other sensory organs detect the VPCs, just as a human nose detects many chemical compounds. VPCs can be isolated from a plant. The isolated substances can then be sprayed or emitted to repel pests. However, in the case of tomatoes, planting marigolds directly can provide more benefits than using the isolated limonene VPC. It also increases biodiversity and provides nectar for bees.\n\nIn nature, distinct VPCs are emitted by different plants. Together, these plants can repel different insect species and provide a safe method for pest control. This suggests that a careful mix of plantings could repel all sorts of pests. Scientists have much more to learn from natural systems regarding methods of pest control. Those lessons should guide scientists towards effective and safe pest control and could reduce or eliminate the need for man-made pesticides.\n\nImage: Robin St / CC BY - Creative Commons Attribution alone toggle icon Image: Davor Denkovski / CC BY - Creative Commons Attribution alone toggle icon right arrow right arrow",
+  "mechanism": "Marigold flowers emit limonene, which protects tomatoes by repelling whiteflies.\n\nMonoculture, the practice of planting only one crop, is commonly used in the agriculture industry. In monocultures, there is no biodiversity. This is an issue because a monoculture crop provides an abundant supply of food to a pest that favors it, and the pest can easily reproduce and travel between plants. In order to suppress pests, agriculturalists often use pesticides that damage the environment. Man-made pesticides are typically chemicals that kill other plants or pests along with beneficial organisms, such as bees and soil microbes.\n\nHealthy ecosystems usually have a large variety of species. An area that consists of many plant, animal, and microbe species is an area with high biodiversity. Species living in that area can provide important services to each other. Pest control is an example of a service a plant can provide to another plant. In agriculture, companion planting, or planting at least two crops in the same field, can be used as a way to help control pests.\n\nAn example of companion planting is planting tomatoes with marigolds. In a field where only tomatoes are grown, whiteflies are a common pest that can destroy the crop. Long ago farmers solved this problem by planting marigolds next to tomato plants. They believed that doing so protected the tomato plants from whiteflies. Recently, scientists confirmed that whitefly populations were smaller when tomatoes were planted with marigold flowers. They’ve identified that limonene, a chemical substance found in marigolds, is the substance that repels whiteflies. Limonene belongs to a group of chemical substances called volatile plant compounds (VPCs). VPCs are emitted by plants to send signals to other plants or to attract or repel insects. An insect’s antennae or other sensory organs detect the VPCs, just as a human nose detects many chemical compounds. VPCs can be isolated from a plant. The isolated substances can then be sprayed or emitted to repel pests. However, in the case of tomatoes, planting marigolds directly can provide more benefits than using the isolated limonene VPC. It also increases biodiversity and provides nectar for bees.\n\nIn nature, distinct VPCs are emitted by different plants. Together, these plants can repel different insect species and provide a safe method for pest control. This suggests that a careful mix of plantings could repel all sorts of pests. Scientists have much more to learn from natural systems regarding methods of pest control. Those lessons should guide scientists towards effective and safe pest control and could reduce or eliminate the need for man-made pesticides.",
   "function_addressed": [
     "maintain biodiversity",
     "biological control of populations, pests, diseases",
@@ -11,18 +10,24 @@
     "cooperate/compete between different species",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::between-different-species",
+    "cooperate-compete::within-a-eco-system",
+    "protect-from-living-threats::animals",
+    "provide-ecosystem-services::biological-control-of-populations-pests-diseases",
+    "provide-ecosystem-services::maintain-biodiversity"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "protect-from-living-threats",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/limonene-from-marigolds-repels-whiteflies/",
-  "source_tier": "science_journalism",
   "keywords": [
     "limonene",
     "marigolds",
     "repels",
     "whiteflies"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

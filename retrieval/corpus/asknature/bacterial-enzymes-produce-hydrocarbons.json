@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-bacterial-enzymes-produce-hydrocarbons",
   "organism_common": "Synechococcus elongatus",
-  "organism_scientific": "",
   "strategy_summary": "Certain strains of the cyanobacteria Synechococcus elongatus produce enzymes that catalyze the synthesis of hydrocarbons from fatty acids. Alkane chain hydrocarbons comprise the bulk of useful petroleum constituents.",
-  "mechanism": "Certain strains of the cyanobacteria Synechococcus elongatus produce enzymes that catalyze the synthesis of hydrocarbons from fatty acids.\n\nAlkane chain hydrocarbons comprise the bulk of useful petroleum constituents. They include propane, gasoline, diesel oil, jet fuel, and many other fuels, lubricants, and reaction precursors. Industrial scale techniques for producing these compounds (rather than refining them from pre-existing petroleum) depend on large energy input and capital investment and the use of toxic compounds. In contrast, certain strains of cyanobacteria , like Synechococcus elongatus , can produce long-chain alkanes and related alkenes from simple fatty acid precursors using a pair of enzymes. Remarkably, more than 80% of the hydrocarbon product leaves the cell after synthesis, which suggests a possible carbon-sink role for the process.",
+  "mechanism": "Certain strains of the cyanobacteria Synechococcus elongatus produce enzymes that catalyze the synthesis of hydrocarbons from fatty acids.\n\nAlkane chain hydrocarbons comprise the bulk of useful petroleum constituents. They include propane, gasoline, diesel oil, jet fuel, and many other fuels, lubricants, and reaction precursors. Industrial scale techniques for producing these compounds (rather than refining them from pre-existing petroleum) depend on large energy input and capital investment and the use of toxic compounds. In contrast, certain strains of cyanobacteria, like Synechococcus elongatus, can produce long-chain alkanes and related alkenes from simple fatty acid precursors using a pair of enzymes. Remarkably, more than 80% of the hydrocarbon product leaves the cell after synthesis, which suggests a possible carbon-sink role for the process.",
   "function_addressed": [
     "chemically assemble organic compounds",
     "transform chemical energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::organic-compounds",
+    "transform-convert-energy::chemical-energy"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/bacterial-enzymes-produce-hydrocarbons/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bacterial",
     "enzymes",
     "produce",
     "hydrocarbons"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

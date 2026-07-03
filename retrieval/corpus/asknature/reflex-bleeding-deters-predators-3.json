@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-reflex-bleeding-deters-predators-3",
   "organism_common": "Protect From Animals",
-  "organism_scientific": "",
   "strategy_summary": "Some female fireflies defend themselves by releasing noxious, steroid-containing blood from their thoraxes. “When defending themselves, female fireflies of the genus Photuris release droplets of blood from their thorax that contain distasteful substances known as lucibufagins (LBG).",
-  "mechanism": "Some female fireflies defend themselves by releasing noxious, steroid-containing blood from their thoraxes.\n\n“When defending themselves, female fireflies of the genus Photuris release droplets of blood from their thorax that contain distasteful substances known as lucibufagins (LBG).\n\n“Intriguingly, in 1998, Cornell University biologist Dr. Thomas Eisner revealed that these fireflies do not produce the chemicals themselves but obtain them from the bodies of their prey, males of a related genus, Photinus . These are lured to their doom when the female Photuris fireflies cunningly mimic the bioluminescent signals of the Photinus females.” (Shuker 2001:130)",
+  "mechanism": "Some female fireflies defend themselves by releasing noxious, steroid-containing blood from their thoraxes.\n\n“When defending themselves, female fireflies of the genus Photuris release droplets of blood from their thorax that contain distasteful substances known as lucibufagins (LBG).\n\n“Intriguingly, in 1998, Cornell University biologist Dr. Thomas Eisner revealed that these fireflies do not produce the chemicals themselves but obtain them from the bodies of their prey, males of a related genus, Photinus. These are lured to their doom when the female Photuris fireflies cunningly mimic the bioluminescent signals of the Photinus females.” (Shuker 2001:130)",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/reflex-bleeding-deters-predators-3/",
-  "source_tier": "science_journalism",
   "keywords": [
     "reflex",
     "bleeding",
     "deters",
     "predators"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

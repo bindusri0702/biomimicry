@@ -1,25 +1,27 @@
 {
   "doc_id": "asn-siphuncle-controls-buoyancy",
   "organism_common": "Nautiluses",
-  "organism_scientific": "",
   "strategy_summary": "The nautilus is a free-swimming mollusk related to the squid or octopus, but with a hard, multi-chambered spiraling shell. Reaching through the interior of the shell is a tubular structure called the siphuncle.",
-  "mechanism": "The movement of water into and out of the chambers is driven by osmosis, resulting from changes in the concentration of ions within the chamber fluid. Ions are actively pumped back and forth between chambers to control the movement of the fluids in the chamber. Pumping ions, usually sodium and chloride, out of a chamber makes the fluid within the chamber more dilute (more watery). This causes water to diffuse out of the chamber through the siphuncle in order to equalize the gradient.\n\nMuch like the Nautilus, submarines use ballast tanks to control their buoyancy by filling them with either air (to surface) or water (to submerge). The Nautilus’s unique strategy of using osmosis gradients to move water and modulate buoyancy could have applications for new types of underwater vehicles for transportation, surveillance, and research. Smart buoys could also sense incoming traffic and submerge until boats cleared them.",
+  "mechanism": "The movement of water into and out of the chambers is driven by osmosis, resulting from changes in the concentration of ions within the chamber fluid. Ions are actively pumped back and forth between chambers to control the movement of the fluids in the chamber. Pumping ions, usually sodium and chloride, out of a chamber makes the fluid within the chamber more dilute (more watery). This causes water to diffuse out of the chamber through the siphuncle in order to equalize the gradient.\n\nThe movement of water out of the sealed chamber lowers the gas pressure inside the chamber. At this point, gases–typically nitrogen, oxygen and carbon dioxide–dissolved in the body fluids diffuse into a chamber through the wall of the siphuncle. Initially, the gases are dissolved, but once inside the low-pressure chamber, they start to bubble out. This is much like carbon dioxide bubbling out of a freshly opened soda bottle because the trapped gases escape, reducing the pressure inside the formerly sealed bottle. With more gas in the chamber, the overall density of the Nautilus decreases while its buoyancy increases, enabling it to float upward in the water column.\n\nTo sink, the process runs in reverse: ions are pumped into the fluid of the chamber, water flows in under osmosis, pressure increases, gases move out, and density increases. As a result, buoyancy is reduced.\n\nMuch like the Nautilus, submarines use ballast tanks to control their buoyancy by filling them with either air (to surface) or water (to submerge). The Nautilus’s unique strategy of using osmosis gradients to move water and modulate buoyancy could have applications for new types of underwater vehicles for transportation, surveillance, and research. Smart buoys could also sense incoming traffic and submerge until boats cleared them.",
   "function_addressed": [
     "move in/on liquids",
     "move in/through gases",
     "modify buoyancy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::buoyancy",
+    "move::in-on-liquids",
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/siphuncle-controls-buoyancy/",
-  "source_tier": "science_journalism",
   "keywords": [
     "siphuncle",
     "controls",
     "buoyancy"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

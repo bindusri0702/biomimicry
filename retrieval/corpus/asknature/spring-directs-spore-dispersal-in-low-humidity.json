@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-spring-directs-spore-dispersal-in-low-humidity",
   "organism_common": "Horsetail family",
-  "organism_scientific": "",
   "strategy_summary": "The elaters of horsetail plants aid spore dispersal by coiling and uncoiling in response to humidity. “Besides their distinctive stems and leaves, horsetails and calamites bear spores in cones produced at the tips of the stems or branches.",
   "mechanism": "The elaters of horsetail plants aid spore dispersal by coiling and uncoiling in response to humidity.\n\n“Besides their distinctive stems and leaves, horsetails and calamites bear spores in cones produced at the tips of the stems or branches. Each cone is composed of many tightly fitting, polygonal scales attached to a central axis (Figure 66). On the inner surface of the scale are several oblong yellowish sporangia filled with green, photosynthetic spores. When the spores are ripe, the central axis of the cone elongates, separating the scales and exposing the sporangia to the air. Upon drying, the sporangia split lengthwise and release the spores, allowing them to be carried away by air currents. The spores are helped on their journey by four strap-like structures called elaters that catch the wind. The elaters coil and uncoil in response to changes in humidity. When the air is dry they extend outward and create wind resistance so that the spores float (Figure 67). When the air is humid the elaters coil around the spore so that buoyancy decreases and the spore drops–with luck onto moist soil where it can germinate. Elaters occur only in horsetails and calamites and are evidence of the close relationship between these plants.” (Moran 2004:115)\n\nWatch Video",
   "function_addressed": [
     "sense atmospheric conditions",
     "disperse seeds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::disperse-seeds",
+    "sense-signals-environmental-cues::atmospheric-conditions"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/spring-directs-spore-dispersal-in-low-humidity/",
-  "source_tier": "science_journalism",
   "keywords": [
     "spring",
     "directs",
@@ -21,7 +24,5 @@
     "low",
     "humidity"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

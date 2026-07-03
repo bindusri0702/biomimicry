@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-central-holdfast-attaches-to-rock",
   "organism_common": "Rock tripe",
-  "organism_scientific": "",
   "strategy_summary": "Lichen attach to rocks via a central holdfast (umbilicus). “The umbilicus is of vital importance for the Umbilicaria species, since it fastens the thallus to the rock.” (Gauslaa 1984:20)",
   "mechanism": "Lichen attach to rocks via a central holdfast (umbilicus).\n\n“The umbilicus is of vital importance for the Umbilicaria species, since it fastens the thallus to the rock.” (Gauslaa 1984:20)",
   "function_addressed": [
     "attach permanently"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/central-holdfast-attaches-to-rock/",
-  "source_tier": "science_journalism",
   "keywords": [
     "central",
     "holdfast",
     "attaches",
     "rock"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

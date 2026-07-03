@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-ears-convert-energy",
   "organism_common": "Mammals",
-  "organism_scientific": "",
   "strategy_summary": "The hairs in mammalian ears convert motion into electrical energy and back in order to amplify sound via the prestin protein. “A new Cambridge-based venture called IntAct Labs is investigating how to harness the power generating capabilities of life for space applications.",
   "mechanism": "The hairs in mammalian ears convert motion into electrical energy and back in order to amplify sound via the prestin protein.\n\n“A new Cambridge-based venture called IntAct Labs is investigating how to harness the power generating capabilities of life for space applications. It would involve the use of a protein called prestin found in human ear-hair as a means of powering space suits. The protein converts motion into electrical energy — and if it’s augmented with an electricity-conducting microbe, it could form self-healing, semi-living ‘skins’ that convert Martian wind and even the jogging and walking of astronauts into electricity. Prestin is found in the outer hair cells of the human ear. In the cell membranes of these cells, prestin also converts electrical voltage into motion, elongating and contracting the cell. This movement amplifies sound in the ear.” (Courtesy of the Biomimicry Guild)",
   "function_addressed": [
@@ -9,17 +8,20 @@
     "transform mechanical energy",
     "transduce/convert signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "process-signals::transduce-convert-signals",
+    "transform-convert-energy::electrical-energy",
+    "transform-convert-energy::mechanical-energy"
+  ],
+  "subgroup_keys": [
+    "process-signals",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/ears-convert-energy/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ears",
     "convert",
     "energy"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

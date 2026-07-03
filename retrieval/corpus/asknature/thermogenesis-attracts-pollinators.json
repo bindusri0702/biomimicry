@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-thermogenesis-attracts-pollinators",
   "organism_common": "Cycads",
-  "organism_scientific": "",
   "strategy_summary": "The cones of some cycads attract pollinators by elevating their temperature when pollen is ready for dispersal. “When its pollen is ready for distribution, this cycad raises the temperature of its central cone by a good two degrees.",
   "mechanism": "The cones of some cycads attract pollinators by elevating their temperature when pollen is ready for dispersal.\n\n“When its pollen is ready for distribution, this cycad raises the temperature of its central cone by a good two degrees. That attracts the attention of weevils. They alight on the cone and feast on the spilling pollen, getting themselves covered with it in the process.” (Attenborough 1995: 99)",
   "function_addressed": [
     "transform thermal energy",
     "send light signals in the non-visible spectrum"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::light-non-visible-spectrum",
+    "transform-convert-energy::thermal-energy"
+  ],
+  "subgroup_keys": [
+    "send-signals",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/thermogenesis-attracts-pollinators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "thermogenesis",
     "attracts",
     "pollinators"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

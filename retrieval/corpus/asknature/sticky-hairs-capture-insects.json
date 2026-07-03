@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-sticky-hairs-capture-insects",
   "organism_common": "Flypaper plant",
-  "organism_scientific": "",
   "strategy_summary": "Sticky secretions from leaf hairs of Roridula plants help capture insect prey via a multi-step adhesive capture process. “Curious to find out exactly how R.",
-  "mechanism": "Sticky secretions from leaf hairs of Roridula plants help capture insect prey via a multi-step adhesive capture process.\n\n“Curious to find out exactly how R. gorgonias leaves ensnare their prey, Dagmar Voigt and Elena and Stanislav Gorb from the Max Planck Institute for Metals Research and Kiel University, Germany, decided to take a closer look at the hierarchy of hairs on R. gorgonias leaves…Voigt and her colleagues suspect that hapless insects fall foul of the plant’s sticky leaves in a cascade of events. First, the insect brushes against, and sticks to, a long hair. As it begins to thrash around, it contacts more of the long hairs, becoming entangled in their sticky secretions. Next, it contacts the stiffer medium length hairs with intermediate strength adhesive and is finally trapped by the rigid short hairs with the strongest glue. Eventually the struggling insect runs out of energy and is immobilised.” (Knight 2009:ii)\n\nImage: Denis Barthel / toggle icon",
+  "mechanism": "Sticky secretions from leaf hairs of Roridula plants help capture insect prey via a multi-step adhesive capture process.\n\n“Curious to find out exactly how R. gorgonias leaves ensnare their prey, Dagmar Voigt and Elena and Stanislav Gorb from the Max Planck Institute for Metals Research and Kiel University, Germany, decided to take a closer look at the hierarchy of hairs on R. gorgonias leaves…Voigt and her colleagues suspect that hapless insects fall foul of the plant’s sticky leaves in a cascade of events. First, the insect brushes against, and sticks to, a long hair. As it begins to thrash around, it contacts more of the long hairs, becoming entangled in their sticky secretions. Next, it contacts the stiffer medium length hairs with intermediate strength adhesive and is finally trapped by the rigid short hairs with the strongest glue. Eventually the struggling insect runs out of energy and is immobilised.” (Knight 2009:ii)",
   "function_addressed": [
     "attach permanently",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/sticky-hairs-capture-insects/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sticky",
     "hairs",
     "capture",
     "insects"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

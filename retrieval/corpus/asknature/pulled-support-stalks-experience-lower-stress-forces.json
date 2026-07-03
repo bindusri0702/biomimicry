@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-pulled-support-stalks-experience-lower-stress-forces",
   "organism_common": "Bull kelp",
-  "organism_scientific": "",
   "strategy_summary": "Long and skinny support stalks (stipe) of seaweed experience lower stress forces when pulled rather than bent. Staying in place is not as easy as one might think, at least not among crashing waves!",
   "mechanism": "Long and skinny support stalks (stipe) of seaweed experience lower stress forces when pulled rather than bent.\n\nStaying in place is not as easy as one might think, at least not among crashing waves! To remain attached to their substrate, marine macroalgae must manage strong hydrodynamic forces exerted by waves and tidal currents. Large seaweeds use different strategies to withstand these forces. For those species whose survival depends on staying put, their shape and material properties influence whether fluid forces will overcome the structural integrity of the algae’s stipe (stem-like structure) or holdfast (anchor-like structure).\n\nCochayuyo ( Durvillea antarctica ) is a seaweed that manages strong fluid forces by being flexible and stretchy. Its stipe has a flexible joint at its base that enables it to fold over and be pulled by flowing water, instead of bent. In general, if a structure is long and skinny, it will experience less stress under tension (pulling) than in bending, especially if the structure is solid. For example, the stiffer stipe on the grey weed ( Lessonia nigrescens ) bends in response to fluid forces, and as a result experiences roughly 800 times more stress (force per cross-sectional area) than the flexible stipe on cochayuyo algae. The amount of energy required to break either species of algae is roughly the same, however. The cochayuyo stipe absorbs energy by stretching, while the grey weed stipe resists deformation through its strength.\n\nTo explain why some algae have evolved to bend rather than be pulled by flowing water despite the increased stress, the influence of other life history factors beyond drag must be considered.\n\nDurvillaea antarctica stipes on Second Bay, Otago, New Zealand\n\nBPS (BioPower Systems)\n\nbioWAVE from BPS is a wave energy system with floating blades and a flexible stem that allows it to harness energy from ocean waves.\n\nBull kelp\n\nHighly stretchable stipe of bull kelp resists breaking because of restraining cellulose fibers\n\nBull kelp\n\nBlades of bull kelp balance drag reduction and sunlight exposure in different flow environments via changes in width and flatness.\n\nBull kelp\n\nBlades of bull kelp take on 3D ruffled shape because of different growth rates along the edge and midline\n\nSeaweed\n\nFronds of seaweed change shape and orientation to allow them to move with instead of resisting strong water currents.",
   "function_addressed": [
     "manage tension"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::tension"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/pulled-support-stalks-experience-lower-stress-forces/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pulled",
     "support",
@@ -20,7 +21,5 @@
     "lower",
     "stress"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

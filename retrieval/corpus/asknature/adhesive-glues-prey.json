@@ -1,24 +1,24 @@
 {
   "doc_id": "asn-adhesive-glues-prey",
   "organism_common": "Velvet worm",
-  "organism_scientific": "",
   "strategy_summary": "Two nozzles next to the mouth of velvet worms help ensnare prey via an ejectable adhesive liquid that dries in seconds. “They shoot at prey with an adhesive liquid ejected by two nozzles next to the mouth.",
   "mechanism": "Two nozzles next to the mouth of velvet worms help ensnare prey via an ejectable adhesive liquid that dries in seconds.\n\n“They shoot at prey with an adhesive liquid ejected by two nozzles next to the mouth. The nozzles move from side to side as they fire, causing the stream of glue to crisscross in a lasso-like motion. The glue travels nearly 3 feet (1 m) and dries in seconds, ensnaring the prey in multiple strands.” (Downer 2002:78)",
   "function_addressed": [
     "attach permanently",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/adhesive-glues-prey/",
-  "source_tier": "science_journalism",
   "keywords": [
     "adhesive",
     "glues",
     "prey"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

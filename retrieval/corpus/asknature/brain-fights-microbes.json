@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-brain-fights-microbes",
   "organism_common": "Large-webbed bell toad",
-  "organism_scientific": "",
   "strategy_summary": "Fire-bellied toads ( Bombina species), found in Asia and Europe, get their name from their brightly-colored undersides. Two of the species, the large-webbed bell toad ( B.",
   "mechanism": "AMPs are not in themselves rare or unusual molecules. Made of various combinations of short-chain amino acids, the building blocks of proteins, they are found in most living things. These amino acids have different segments that can penetrate the different layers of a cell membrane. This gives them the ability to poke holes in the membranes surrounding bacteria and microscopic fungi in a variety of different ways, causing the cells’ contents to leak out and the microbes to die. AMPs usually target the cell membrane itself, rather than interacting with receptors on the membrane surface. As a result, it is much more difficult for microbes to evolve resistance to AMPs compared with conventional antibiotics.\n\nAmphibians in particular are known for their abundant AMPs. Lacking hair or scales, these animals rely directly on their skin surface to protect them from germs. And AMPs help the skin deliver: In many species, external glands secrete AMPs onto the skin, where they can attach to and destroy infection-causing microorganisms. Scientists have identified some 300 or more kinds of AMPs on frogs alone. But it turns out that could be just the tip of the iceberg. When scientists decided to look for AMPs elsewhere, they found signs of 52 kinds of AMPs in the large-webbed bell toad’s brain and 27 in the brain of its small-webbed relative. Of these, 59 are AMPs that have never been seen elsewhere. Some were only effective against a very limited set of microorganisms. Others were able to knock off multiple kinds of bacteria as well as fungi.\n\nScientists suspect that the AMPs found in the toads’ brains are helping protect them from infections that could harm their nervous systems. They also think that the difference in the kinds of AMPs found in the brains of the two species tested may be related to the different types of microbes found in the toads’ respective habitats, with B. maxima more likely to encounter germs found in ponds and B. microdeladigitora needing defense against those found in trees.\n\nThe newly discovered AMPs in these toads’ brains open the door to a better understanding of how these small molecules can so effectively kill microbes. Because they can exist in the brain without harming brain tissue, they also offer an opportunity for gaining insights into how to make effective antimicrobial therapies that destroy germs without harming our own bodies. And they offer insights into how humans might develop new strategies for overcoming bacteria that have developed resistance to conventional antibiotics, with particular attention to those that attack human brains, causing life-threatening infections such as meningitis and encephalitis.",
   "function_addressed": [
     "protect from microbes",
     "protect from fungi"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::fungi",
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/brain-fights-microbes/",
-  "source_tier": "science_journalism",
   "keywords": [
     "toad",
     "brains",
@@ -20,7 +22,5 @@
     "deadly",
     "microbes"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

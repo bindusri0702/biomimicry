@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-leg-paddles-and-spurs-speed-aquatic-jumps",
   "organism_common": "Pygmy mole cricket",
-  "organism_scientific": "",
   "strategy_summary": "Paddles and spurs on the legs of the pygmy mole cricket create faster aquatic jumps by increasing the cricket's surface area. The pygmy mole cricket is adept at jumping quickly from water.",
-  "mechanism": "Paddles and spurs on the legs of the pygmy mole cricket create faster aquatic jumps by increasing the cricket's surface area.\n\nThe pygmy mole cricket is adept at jumping quickly from water. When the cricket prepares to jump from rest on the water surface, it extends its hind legs so rapidly that they break the water surface. During this movement, a varying number of paddles and spurs flare out from each leg, increasing the cricket’s surface area in contact with the water. When the leg is fully extended, the spurs and paddles are retracted to reduce drag. This pattern creates a laminar flow beneath the cricket, pushing down the water directly beneath it in streamline, parallel layers that launch the cricket upward.\n\nThe leg pads and spurs contain resilin, an incredibly elastic protein , suggesting that these structures are spring-loaded. The cricket’s jumping mechanism emphasizes speed over control.\n\nThis strategy was contributed by Rachel Major",
+  "mechanism": "Paddles and spurs on the legs of the pygmy mole cricket create faster aquatic jumps by increasing the cricket's surface area.\n\nThe pygmy mole cricket is adept at jumping quickly from water. When the cricket prepares to jump from rest on the water surface, it extends its hind legs so rapidly that they break the water surface. During this movement, a varying number of paddles and spurs flare out from each leg, increasing the cricket’s surface area in contact with the water. When the leg is fully extended, the spurs and paddles are retracted to reduce drag. This pattern creates a laminar flow beneath the cricket, pushing down the water directly beneath it in streamline, parallel layers that launch the cricket upward.\n\nThe leg pads and spurs contain resilin, an incredibly elastic protein, suggesting that these structures are spring-loaded. The cricket’s jumping mechanism emphasizes speed over control.",
   "function_addressed": [
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/leg-paddles-and-spurs-speed-aquatic-jumps/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leg",
     "paddles",
@@ -20,7 +21,5 @@
     "aquatic",
     "jumps"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

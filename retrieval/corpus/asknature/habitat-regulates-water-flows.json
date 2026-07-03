@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-habitat-regulates-water-flows",
   "organism_common": "Regulate Hydrological Flows",
-  "organism_scientific": "",
   "strategy_summary": "Peatlands regulate water flows because they lack topographic relief and well-defined channels, and have shallow water tables. “Peatlands are of particular interest to water resource managers because they occur extensively in the headwater areas of many streams and rivers.",
   "mechanism": "Peatlands regulate water flows because they lack topographic relief and well-defined channels, and have shallow water tables.\n\n“Peatlands are of particular interest to water resource managers because they occur extensively in the headwater areas of many streams and rivers. Peatlands can have large impacts on the quantity and quality of the receiving waters (e.g. Brooks 1992; Verry 1997). The response of peatlands to large rainstorms is different from that of mineral soil uplands. The lack of topographic relief, the absence of well-defined channels, and the shallow water tables all combine to make peatlands behave hydrologically like unregulated, shallow reservoirs. Some peatlands act to regulate the flow of water in the landscape. Flow regulation would attenuate flow in wet conditions and release it in dry conditions. Some wetlands are good flood attenuators (mid-basin stream or riparian wetlands). Others, for example many bogs, are not.” (Rydin and Jeglum 2006:152)",
   "function_addressed": [
     "regulate hydrological flows"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::regulate-hydrological-flows"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/habitat-regulates-water-flows/",
-  "source_tier": "science_journalism",
   "keywords": [
     "habitat",
     "regulates",
     "water",
     "flows"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

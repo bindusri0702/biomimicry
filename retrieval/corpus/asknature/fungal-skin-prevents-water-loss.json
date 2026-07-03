@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-fungal-skin-prevents-water-loss",
   "organism_common": "Lichens",
-  "organism_scientific": "",
   "strategy_summary": "The fungal skin of lichens prevents water loss to the algae below via its dense compacted thread structure. “Others [lichens] develop minuscule branches and grow into dense curling thickets a few inches high.",
   "mechanism": "The fungal skin of lichens prevents water loss to the algae below via its dense compacted thread structure.\n\n“Others [lichens] develop minuscule branches and grow into dense curling thickets a few inches high. Their outer skin is formed by the compacted threads of the fungi and is sufficiently impermeable to prevent the loss of water from the partnership; beneath are the algal cells, kept moist and protected from harmful ultra-violet radiation by the fungal skin; and below them, in the centre of the structure, there is looser tissue, also provided by the fungus, where food and water is stored.” (Attenborough 1995:216)",
   "function_addressed": [
     "protect from loss of liquids",
     "protect from light"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::light",
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/fungal-skin-prevents-water-loss/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fungal",
     "skin",
@@ -20,7 +22,5 @@
     "water",
     "loss"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

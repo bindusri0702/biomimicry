@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-pigments-photosynthesize-without-co2",
   "organism_common": "Halobacteria",
-  "organism_scientific": "",
-  "strategy_summary": "Halobacteria produce chemical energy by capturing light energy with rhodopsin pigments and using it to pump protons out of the cell, setting up a proton gradient used to generate ATP. “Pumps and selective uptake devices need fuel – biological energy – and halobacteria, unlike Dunaliella , are not able to…",
-  "mechanism": "Halobacteria produce chemical energy by capturing light energy with rhodopsin pigments and using it to pump protons out of the cell, setting up a proton gradient used to generate ATP.\n\n“Pumps and selective uptake devices need fuel – biological energy – and halobacteria, unlike Dunaliella , are not able to photosynthesise energy-yielding organic matter from carbon dioxide. They need pre-formed organic matter as food, and supplies of this are likely to be intermittent. However, their membranes do possess a unique way of obtaining energy from light. In their membranes are patches of purple pigment s called rhodopsins. These are light-sensitive. Actually, they are chemically related to pigments in the retinas of our eyes, the light receptors which enable us to see. Not that halobacteria can see; in their case the pigments capture light energy and use it to generate a substance called ATP , which is the universal source of biological energy in cells … In the process of generating ATP, ions are swapped between the interior and exterior of the cell such that most of the sodium ends up outside and potassium is retained: light helps the ion pump work. This is a special kind of energy-generating photosynthesis , unaccompanied by carbon dioxide fixation, and halobacteria are the only organisms in which it is known.” (Postgate 1994:49)\n\nHalobacteria thrive in high salt environments such as Kenya's Lake Magadi. Their chlorophyll-alternative chemical, rhodopsin, gives them (and the areas they inhabit) their pinkish-purple color.",
+  "strategy_summary": "Halobacteria produce chemical energy by capturing light energy with rhodopsin pigments and using it to pump protons out of the cell, setting up a proton gradient used to generate ATP. “Pumps and selective uptake devices need fuel – biological energy – and halobacteria, unlike Dunaliella, are not able to…",
+  "mechanism": "Halobacteria produce chemical energy by capturing light energy with rhodopsin pigments and using it to pump protons out of the cell, setting up a proton gradient used to generate ATP.\n\n“Pumps and selective uptake devices need fuel – biological energy – and halobacteria, unlike Dunaliella, are not able to photosynthesise energy-yielding organic matter from carbon dioxide. They need pre-formed organic matter as food, and supplies of this are likely to be intermittent. However, their membranes do possess a unique way of obtaining energy from light. In their membranes are patches of purple pigment s called rhodopsins. These are light-sensitive. Actually, they are chemically related to pigments in the retinas of our eyes, the light receptors which enable us to see. Not that halobacteria can see; in their case the pigments capture light energy and use it to generate a substance called ATP, which is the universal source of biological energy in cells … In the process of generating ATP, ions are swapped between the interior and exterior of the cell such that most of the sodium ends up outside and potassium is retained: light helps the ion pump work. This is a special kind of energy-generating photosynthesis, unaccompanied by carbon dioxide fixation, and halobacteria are the only organisms in which it is known.” (Postgate 1994:49)\n\nHalobacteria thrive in high salt environments such as Kenya's Lake Magadi. Their chlorophyll-alternative chemical, rhodopsin, gives them (and the areas they inhabit) their pinkish-purple color.",
   "function_addressed": [
     "transform chemical energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "transform-convert-energy::chemical-energy"
+  ],
+  "subgroup_keys": [
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/pigments-photosynthesize-without-co2/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bacteria",
     "photosynthesize",
     "without",
     "chlorophyll"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

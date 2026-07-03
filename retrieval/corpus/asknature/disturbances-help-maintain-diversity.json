@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-disturbances-help-maintain-diversity",
   "organism_common": "Sitka spruce",
-  "organism_scientific": "",
   "strategy_summary": "Western hemlock-Sitka spruce forests maintain diversity partly thanks to wind disturbance patterns. “The dynamics of British planted forests are compared with disturbance dynamics of analogous natural forests with particular reference to disturbance by strong winds.",
   "mechanism": "Western hemlock-Sitka spruce forests maintain diversity partly thanks to wind disturbance patterns.\n\n“The dynamics of British planted forests are compared with disturbance dynamics of analogous natural forests with particular reference to disturbance by strong winds. Western hemlock-Sitka spruce ( Tsuga heterophylla-Picea sitchensis ) forests in the Pacific North-west of North America and particularly South-east Alaska provide the most promising comparison. There are few reports on disturbance in these forests, but the regime includes both gap-phase and stand replacement dynamics due to wind. However, the landscape proportion and pattern of resulting structural types are not well defined…Two stand types have been identified in the hemlock-spruce forest types in the Pacific North-west: (1) even-aged stands following catastrophic blowdown; and (2) multi-aged stands resulting from gradual but non-catastrophic attrition (Deal et al., 1991). Sitka spruce can maintain a presence in forest communities in both situations (Taylor, 1990). It is not known what the proportion of the two stand types (fine grain and even-aged) is for any one region.” (Quine et al. 1999:337, 347)",
   "function_addressed": [
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::maintain-biodiversity"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/disturbances-help-maintain-diversity/",
-  "source_tier": "science_journalism",
   "keywords": [
     "disturbances",
     "maintain",
     "diversity"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -3,7 +3,7 @@
 Reads ``asknature_scraper/strategies/*.json`` (the original records, unchanged), embeds a
 per-strategy passage with local e5-large-v2, and stores each as one object with a
 bring-your-own vector (vectorizer=none, cosine). The Discover stage then retrieves over it
-via ``RETRIEVAL_BACKEND=weaviate``.
+via the `WeaviateRetriever` (the sole retrieval backend).
 
     python -m biomimicry.retrieval.build_weaviate --recreate
     python -m biomimicry.retrieval.build_weaviate --limit 50 --recreate
@@ -18,9 +18,14 @@ import json
 from pathlib import Path
 
 from .. import config
+from .build_asknature_corpus import strip_boilerplate
 from .e5_embedder import build_passage, embed_documents
 from .function_keys import keys_for_labels
 from .weaviate_store import connect
+
+# Editorial fields cleaned of boilerplate/leaked chrome before embedding + storage,
+# so the vector index matches the cleaned corpus (the scraper output keeps the raw text).
+_CLEAN_FIELDS = ("introduction", "strategy", "potential")
 
 _HERE = Path(__file__).resolve().parent
 DEFAULT_SRC = _HERE.parents[1] / "asknature_scraper" / "strategies"
@@ -98,6 +103,9 @@ def main(argv: list[str] | None = None) -> int:
                 records, slugs, passages = [], [], []
                 for path in chunk:
                     rec = json.loads(path.read_text(encoding="utf-8"))
+                    for f in _CLEAN_FIELDS:
+                        if isinstance(rec.get(f), str):
+                            rec[f] = strip_boilerplate(rec[f])
                     slug = _slug(rec, path.stem)
                     records.append(rec)
                     slugs.append(slug)

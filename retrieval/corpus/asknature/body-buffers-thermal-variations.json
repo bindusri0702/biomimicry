@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-body-buffers-thermal-variations",
   "organism_common": "Ochre sea star",
-  "organism_scientific": "",
   "strategy_summary": "The body of sea stars helps buffer thermal variations experienced in low tide by taking up and storing cold sea water during high tide. “One starfish has a remarkable strategy to avoid overheating in the sun, scientists have discovered.",
   "mechanism": "The body of sea stars helps buffer thermal variations experienced in low tide by taking up and storing cold sea water during high tide.\n\n“One starfish has a remarkable strategy to avoid overheating in the sun, scientists have discovered.\n\n“The starfish pumps itself up with cold seawater to lower its body temperature when exposed to the sun at low tide.\n\n“It is equivalent to a person drinking seven litres of water before heading into the midday sun, scientists say” (Bourton 2009)",
   "function_addressed": [
     "maintain homeostasis",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/body-buffers-thermal-variations/",
-  "source_tier": "science_journalism",
   "keywords": [
     "body",
     "buffers",
     "thermal",
     "variations"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

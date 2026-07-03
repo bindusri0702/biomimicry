@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-eyes-detect-polarized-light",
   "organism_common": "Flesh flies",
-  "organism_scientific": "",
   "strategy_summary": "Eyes of the flesh fly detect polarized light via dorsal ommatidia and dorsal ocelli. The flesh fly uses both dorsal ommatidia and dorsal ocelli to sense polarized light.",
   "mechanism": "Eyes of the flesh fly detect polarized light via dorsal ommatidia and dorsal ocelli.\n\nThe flesh fly uses both dorsal ommatidia and dorsal ocelli to sense polarized light. (Shuker 2001:48)",
   "function_addressed": [
     "sense light (visible spectrum) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/eyes-detect-polarized-light/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eyes",
     "detect",
     "polarized",
     "light"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

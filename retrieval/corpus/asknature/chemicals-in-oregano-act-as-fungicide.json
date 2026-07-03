@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-chemicals-in-oregano-act-as-fungicide",
   "organism_common": "Oregano",
-  "organism_scientific": "",
   "strategy_summary": "If you’ve ever opened your refrigerator to find that your fresh produce has turned into a mushy, moldy mess, then you’re familiar with the destructive power of fungi. Without some sort of protection against such microorganisms, thousands of tons of fruits and vegetables would spoil and go to waste before they even…",
-  "mechanism": "As it turns out, oregano and a number of other plants (eucalyptus, rosemary, thyme) have built-in defense mechanisms to fight off fungal attacks. These are usually in the form of messenger molecules present in the plant’s fluids that easily evaporate into the surrounding air. If one plant is attacked by a fungus, it will release these “volatile organic compounds” to alert surrounding plants; the reception of the VOCs will then initiate the surrounding plants’ natural defense responses.\n\nThere is keen interest in using VOCs from oregano commercially for food preservation. In previous decades, synthetic fungicides have been used to prevent food spoilage. However, these synthetic compounds do not degrade easily in soil and groundwater, and can be toxic to a broad range of organisms. Furthermore, fungi can develop resistance to synthetic fungicides, requiring even more of the chemicals to be applied to be effective, which in turn worsens environmental impacts. Essential oils extracted from plants, on the other hand, are much less harmful, since they do not remain in soil or water for long, and very low amounts are needed to be effective.\n\nSeveral companies are now working on integrating plant-derived VOCs into food packaging, as an alternative to artificial preservatives. Such innovation could radically transform our food system, making it less wasteful and less harmful for both humans and the environment.",
+  "mechanism": "As it turns out, oregano and a number of other plants (eucalyptus, rosemary, thyme) have built-in defense mechanisms to fight off fungal attacks. These are usually in the form of messenger molecules present in the plant’s fluids that easily evaporate into the surrounding air. If one plant is attacked by a fungus, it will release these “volatile organic compounds” to alert surrounding plants; the reception of the VOCs will then initiate the surrounding plants’ natural defense responses.\n\nVOCs steal electrons from the lipid molecules forming the fungal cell membrane, causing the membranes to break apart.\n\nThe mechanism of defense has to do with how these VOCs interact with fungal cell membranes. It has been shown that thymol and carvacrol, both found in oregano, steal electrons from the lipid molecules forming the cell membrane, causing the membranes to break apart. When applied to grapevines, oregano essential oils decreased fungal development by 95%. Oregano has also proven effective in protecting corn, papaya, cucumber, squash, mango, and tomato plants.\n\nThere is keen interest in using VOCs from oregano commercially for food preservation. In previous decades, synthetic fungicides have been used to prevent food spoilage. However, these synthetic compounds do not degrade easily in soil and groundwater, and can be toxic to a broad range of organisms. Furthermore, fungi can develop resistance to synthetic fungicides, requiring even more of the chemicals to be applied to be effective, which in turn worsens environmental impacts. Essential oils extracted from plants, on the other hand, are much less harmful, since they do not remain in soil or water for long, and very low amounts are needed to be effective.\n\nSeveral companies are now working on integrating plant-derived VOCs into food packaging, as an alternative to artificial preservatives. Such innovation could radically transform our food system, making it less wasteful and less harmful for both humans and the environment.",
   "function_addressed": [
     "modify oxidation state",
     "biological control of populations, pests, diseases",
@@ -11,18 +10,25 @@
     "send chemical signals (odor, taste, etc.)",
     "modify electron transport"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-chemical-electrical-state::electron-transport",
+    "modify-chemical-electrical-state::oxidation-state",
+    "provide-ecosystem-services::biological-control-of-populations-pests-diseases",
+    "send-signals::chemical-odor-taste-etc",
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "modify-chemical-electrical-state",
+    "provide-ecosystem-services",
+    "send-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/chemicals-in-oregano-act-as-fungicide/",
-  "source_tier": "science_journalism",
   "keywords": [
     "chemicals",
     "oregano",
     "act",
     "fungicide"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

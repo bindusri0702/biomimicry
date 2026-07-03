@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-plant-tendrils-act-as-spring",
   "organism_common": "Garden cucumber",
-  "organism_scientific": "",
   "strategy_summary": "Instead of spending the energy to build massive trunks as trees do, vining plants—like ivy climbing an old house—“borrow” height from neighbors, grappling onto them and hauling themselves towards the sky. Cucumber plants, for example, grow tendrils that whip around in circles until they snare something they can scale.",
-  "mechanism": "Once attached an object, a cucumber tendril coils to create a transition point in the middle, with oppositely handed spirals, or helices , above and below. This coiling helps to shorten the tendril and lift the plant up towards the attachment point.\n\nScientists at Harvard University decided to unravel the mystery by pulling apart a tendril. When they stretched the two ends apart, they expected it to unwind and flatten. The plot twist was that pulling the two ends apart actually added twists—the first known example of an “overwinding” spring.\n\nTo understand why the tendrils would curl more under tension, the scientists analyzed their structures and found relatively flat ribbons of fiber within. These fiber ribbons are made of two layers of cells that contain lignin, a rigid organic polymer . Furthermore, the inside layer has more lignin than the outside, making it stiffer.\n\nThe scientists called cucumber tendrils “auto-adaptive” springs because of their two-fold response to tension. Given that springs are like batteries for mechanical energy, smart springs and overwinding springs could help us store energy in new ways.\n\nApplications of this strategy could lead to efficient climbing robots or dampers for stability of damaged structures. They could be used to alter surface area for selective collection of oils, dyes, pollutants, or even harmful micro-organisms.",
+  "mechanism": "Once attached an object, a cucumber tendril coils to create a transition point in the middle, with oppositely handed spirals, or helices , above and below. This coiling helps to shorten the tendril and lift the plant up towards the attachment point.\n\nScientists at Harvard University decided to unravel the mystery by pulling apart a tendril. When they stretched the two ends apart, they expected it to unwind and flatten. The plot twist was that pulling the two ends apart actually added twists—the first known example of an “overwinding” spring.\n\nTo understand why the tendrils would curl more under tension, the scientists analyzed their structures and found relatively flat ribbons of fiber within. These fiber ribbons are made of two layers of cells that contain lignin, a rigid organic polymer . Furthermore, the inside layer has more lignin than the outside, making it stiffer.\n\nThese results showed that as a ribbon grows, it contracts asymmetrically. In other words, the stiffer inside band shortens relative to the outside, pulling the ribbon (and thus the tendril that surrounds it) into a pigtail helix or spiral.\n\nThe exact mechanism of this asymmetric contraction isn’t known, but they hypothesized that water plays a role. Lignin is hydrophobic (meaning it repels water). As tendrils grow, lignin accumulates at higher amounts within the inside layer of cells. The scientists think that hydrophobic lignin expels more water from the inside cells, deflating and shortening them relative to the outside cells.\n\nThey also believe that the differential stiffness of the cell layers enables the helix to twist while resisting bending. To model the two layers of cells within fiber ribbons, they added materials with different rigidities to the inside and out of a silicone spring. When they pulled the two ends of the model spring, it behaved exactly as the actual cucumber tendrils did, overwinding and adding more coils. As a result, they concluded that the higher bending stiffness of cucumber tendrils relative to their twisting stiffness makes them resist flattening while adding turns to compensate for the tension.\n\nHowever, when enough force is applied, a cucumber tendril will eventually unwind. This second-stage unwinding is actually a stronger response to higher tension as compared to overwinding.\n\nThe scientists called cucumber tendrils “auto-adaptive” springs because of their two-fold response to tension. Given that springs are like batteries for mechanical energy, smart springs and overwinding springs could help us store energy in new ways.\n\nApplications of this strategy could lead to efficient climbing robots or dampers for stability of damaged structures. They could be used to alter surface area for selective collection of oils, dyes, pollutants, or even harmful micro-organisms.\n\n[mwai_chatbot_v2]",
   "function_addressed": [
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/plant-tendrils-act-as-spring/",
-  "source_tier": "science_journalism",
   "keywords": [
     "plant",
     "tendril",
     "acts",
     "spring"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

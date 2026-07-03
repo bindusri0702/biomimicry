@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-thinner-fur-keeps-numbats-warmer",
   "organism_common": "Numbat",
-  "organism_scientific": "",
   "strategy_summary": "In the animal kingdom, marsupials have several characteristics that set them apart. But even among marsupials, the numbat stands alone.",
   "mechanism": "Since numbats don’t get enough fuel from termites to maintain body heat, they rely on absorbing heat from the sun. Their pelts have shorter hairs and fewer hairs per square inch, compared with other marsupials and diurnal mammals. So their sparse coats are not made to insulate against the cold, but rather to expose more skin area to the sun, maximizing the amount of solar radiation they absorb.\n\nThey also make their pelt hairs stand up straight. The scientific term for this is piloerection. It happens to people when they get goosebumps.\n\nPiloerection traps layers of motionless body-heated air close to the skin surface. These layers block heat loss from the body, creating a blanket that helps insulate numbats from cold. As temperatures drop or cold winds pick up, numbats effectively reduce heat loss by erecting their pelts. Altogether, numbat pelts strike a balance between regulating how much heat gets in and how much is allowed out.\n\nThe insulating properties of piloerection offer ideas for designing movable hairlike systems, from microscopic to architectural, that can regulate heat in response to changing environmental conditions such as temperature, sunlight, winds, and humidity. These systems could be applied to fabrics, materials, and structures that efficiently capture heat and prevent heat loss and could lead to innovative fabrics or buildings that keep people safe and comfortable.",
   "function_addressed": [
@@ -9,11 +8,17 @@
     "maintain homeostasis",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/thinner-fur-keeps-numbats-warmer/",
-  "source_tier": "science_journalism",
   "keywords": [
     "thinner",
     "fur",
@@ -21,7 +26,5 @@
     "numbats",
     "warmer"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

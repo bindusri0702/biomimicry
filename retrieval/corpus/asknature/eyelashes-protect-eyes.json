@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-eyelashes-protect-eyes",
   "organism_common": "Mammals",
-  "organism_scientific": "",
   "strategy_summary": "Eyes have sensitive surfaces that need to be protected from potentially irritating airborne particles like pollen, dust, and pathogens. For mammals, wet tears are one strategy that helps to protect the eye from foreign particles, but they also have another strategy: eyelashes.",
   "mechanism": "Simulations of airflows around eyes with no lashes, long lashes, and intermediate length lashes show that eye surfaces with lashes of an intermediate length should experience weaker flows.\n\nWithout lashes, there is nothing to shield the eye from incoming airflows that can deposit foreign particles onto the eye.\n\nAs lashes are added, they redirect the incoming airflow to create a region of stagnant air just above the eye’s surface. This layer of stagnant air has weaker flows, which leads to fewer airborne particles landing on the eye’s surface.\n\nVery long lashes, however, project so far into incoming airflow that they begin to direct high-speed flows toward the eye’s surface. The result of these opposing effects is that eyelashes with a length that is approximately one-third the eye width appear to produce the weakest airflows. This ratio of lash length to width seems to match with eyelash measurements in many different species of mammals.\n\nEyelashes redirecting airflows around eyes constitute a passive mechanism to help keep the eye surface clean. This mechanism may also function in insects, where ocular hairs that project from between eye facets appear to reduce airflow at the eye surface. In mammals, one other possible way that eyelashes protect eyes is to function as a trigger, causing the eye to blink when they’re touched.\n\nSensitive and delicate surfaces or objects are all around us in human-constructed environments. Using an array of fibers to create a protective air-flow barrier around them could provide a more efficient or sustainable alternative to current forms of protection. It could also make it possible to protect objects or surfaces that are not generally protected at all, increasing their functional life, and decreasing the amount of resources needed to repair or replace them.",
   "function_addressed": [
@@ -9,17 +8,20 @@
     "protect from dirt/solids",
     "protect from wind"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes",
+    "protect-from-non-living-threats::dirt-solids",
+    "protect-from-non-living-threats::wind"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/eyelashes-protect-eyes/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eyelashes",
     "protect",
     "eyes"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

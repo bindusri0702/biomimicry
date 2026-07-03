@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-periodic-emergence-synchronized",
   "organism_common": "Insects",
-  "organism_scientific": "",
   "strategy_summary": "The emergence of cicadas may be triggered by their sensing of cyclical cues from nearby tree roots. “Three species of cicada (genus Magicicada ) with remarkable rhythms live in the United States.",
   "mechanism": "The emergence of cicadas may be triggered by their sensing of cyclical cues from nearby tree roots.\n\n“Three species of cicada (genus Magicicada ) with remarkable rhythms live in the United States. In the south, nymphs spend 13 years underground before emerging within a few days of each other and transforming into adults. In the north, the nymph stage lasts 17 years … However, recent studies suggest that the cicadas may use cues from nearby tree roots (such as sap quality, which varies cyclically) to time their emergence.” (Shuker 2001:97)",
   "function_addressed": [
     "sense time and day length",
     "regulate reproduction or growth"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::reproduction-or-growth",
+    "sense-signals-environmental-cues::time-and-day-length"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/periodic-emergence-synchronized/",
-  "source_tier": "science_journalism",
   "keywords": [
     "periodic",
     "emergence",
     "synchronized"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-sensilla-detect-fire",
   "organism_common": "Metallic wood-boring beetle",
-  "organism_scientific": "",
   "strategy_summary": "Sensilla in the infrared sensory organ of the Melanophila acuminata beetle detect fire by a structure of lipids channeling photons to a protein region highly sensitive to hydrogen resonance. Many animals have highly developed sensory organs.",
   "mechanism": "Sensilla in the infrared sensory organ of the Melanophila acuminata beetle detect fire by a structure of lipids channeling photons to a protein region highly sensitive to hydrogen resonance.\n\nMany animals have highly developed sensory organs. While much research has gone into understanding the sensory systems developed my mammals, Dr. H. Beckmann suggests researchers and innovative developers take a closer look at smaller organisms such as the fire beetle (Merimna) and snakes. These organisms use microbolometer systems to detect infrared radiation. Microbolometer systems are essentially thermosensors that measure the “temperature of an absorbing surface that is heated by IR radiation” (Beckmann 2004: 972). These microbolometer systems are complex systems compact enough to fit side-by-side on the ventrolateral sides of the second and third abdominal sternite of the beetle. These beetles (and snakes) have organs that are penetrated by a single neuron with its mass of dendrites attached closely; though the structural arrangement differs among species. When tested, the Melanophila beetles’ (another beetle that senses forest fires) sensors did not respond to light nor moderate air movements or changes in temperature near the organs. However, they did respond to IR stimuli, suggesting that these organs are highly developed for specific use. Understanding the function of these sensory organs can lead to development of more accurate and precise sensors.\n\nThis Landsat 5 satellite image of the Horseshoe 2 Fire in southeastern Arizona was taken on June 15, 2011 at 19:54:23 Zulu (3:54 p.m. EDT). This false-colored image uses a 7, 4, 2 band combination and shows the burn scar in red the fire ongoing in really bright red, vegetation is green, smoke is blue and bare ground is tan.",
   "function_addressed": [
     "sense light (non-visible spectrum) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::light-non-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/sensilla-detect-fire/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sensilla",
     "detect",
     "fire"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

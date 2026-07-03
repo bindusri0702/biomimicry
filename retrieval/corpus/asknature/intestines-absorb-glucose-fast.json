@@ -1,24 +1,21 @@
 {
   "doc_id": "asn-intestines-absorb-glucose-fast",
   "organism_common": "Hummingbirds",
-  "organism_scientific": "",
   "strategy_summary": "Intestines of hummingbirds rapidly take up glucose by using glucose transporters in intestinal mucosa. “Intestinal transit time is about 15 minutes, during which time, using a high density of glucose transporters in the intestinal mucosa, some 99% of ingested glucose is absorbed.” (Fowler and Miller 2003: 235)",
   "mechanism": "Intestines of hummingbirds rapidly take up glucose by using glucose transporters in intestinal mucosa.\n\n“Intestinal transit time is about 15 minutes, during which time, using a high density of glucose transporters in the intestinal mucosa, some 99% of ingested glucose is absorbed.” (Fowler and Miller 2003: 235)",
   "function_addressed": [
     "capture, absorb, or filter chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/intestines-absorb-glucose-fast/",
-  "source_tier": "science_journalism",
   "keywords": [
     "intestines",
     "absorb",
     "glucose",
     "fast"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

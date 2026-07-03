@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-body-parts-used-to-glide-and-steer",
   "organism_common": "Ants",
-  "organism_scientific": "",
   "strategy_summary": "The bodies of some Cephalotini ants enable them to glide and steer through the air when falling thanks to long, flattened legs and flanged heads that may act as a rudder. “Researchers from the Univ.",
-  "mechanism": "The bodies of some Cephalotini ants enable them to glide and steer through the air when falling thanks to long, flattened legs and flanged heads that may act as a rudder.\n\n“Researchers from the Univ. of California at Berkeley, Univ. of Texas Medical Branch, and Univ. of Oklahoma Norman have discovered that some ants can glide through the air, even though they lack wings. So far, they’ve found some form of gliding in 25 species representing five separate genera. It is the norm in only two groups, however: the Cephalotini tribe, which includes Cephalotes atratus , and the arboreal Pseudomyrmecinae ants. The ants drop at a relatively fast velocity, turn 180 degrees in mid-air, and glide back to the tree trunk rear-end first, where they grab on. If they miss, they can do it again. What allows the ants to change direction so quickly is still a mystery. They have long, slightly flattened hind legs which, when combined with abdominal movements, might allow the ants to reorient in midair. They also have an unusual flattened head with flanges that could act as a rudder, Dudley said. ‘My guess is that, by gliding backwards and using their legs and also their flat head with flanges, they could steer,’ according to Stephen P. Yanoviak of UTMB who discovered them while conducting research in Peru, though more studies are needed before the question can be answered.” (Courtesy of the Biomimicry Guild)\n\nWatch video",
+  "mechanism": "The bodies of some Cephalotini ants enable them to glide and steer through the air when falling thanks to long, flattened legs and flanged heads that may act as a rudder.\n\n“Researchers from the Univ. of California at Berkeley, Univ. of Texas Medical Branch, and Univ. of Oklahoma Norman have discovered that some ants can glide through the air, even though they lack wings. So far, they’ve found some form of gliding in 25 species representing five separate genera. It is the norm in only two groups, however: the Cephalotini tribe, which includes Cephalotes atratus, and the arboreal Pseudomyrmecinae ants. The ants drop at a relatively fast velocity, turn 180 degrees in mid-air, and glide back to the tree trunk rear-end first, where they grab on. If they miss, they can do it again. What allows the ants to change direction so quickly is still a mystery. They have long, slightly flattened hind legs which, when combined with abdominal movements, might allow the ants to reorient in midair. They also have an unusual flattened head with flanges that could act as a rudder, Dudley said. ‘My guess is that, by gliding backwards and using their legs and also their flat head with flanges, they could steer,’ according to Stephen P. Yanoviak of UTMB who discovered them while conducting research in Peru, though more studies are needed before the question can be answered.” (Courtesy of the Biomimicry Guild)\n\nWatch video",
   "function_addressed": [
     "move in/through gases",
     "navigate through air"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-through-gases",
+    "navigate::through-air"
+  ],
+  "subgroup_keys": [
+    "move",
+    "navigate"
+  ],
   "source_url": "https://asknature.org/strategy/body-parts-used-to-glide-and-steer/",
-  "source_tier": "science_journalism",
   "keywords": [
     "body",
     "parts",
@@ -20,7 +23,5 @@
     "glide",
     "steer"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

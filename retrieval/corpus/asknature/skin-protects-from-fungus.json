@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-skin-protects-from-fungus",
   "organism_common": "Red-backed salamander",
-  "organism_scientific": "",
   "strategy_summary": "Skin of red-backed salamanders protects from pathogenic fungus thanks to resident antifungal microbes. Oregano  Volatile compounds found in oregano destroy fungi by breaking down their cell membranes.",
-  "mechanism": "Skin of red-backed salamanders protects from pathogenic fungus thanks to resident antifungal microbes.\n\nOregano\n\nVolatile compounds found in oregano destroy fungi by breaking down their cell membranes.\n\n“The disease chytridiomycosis, which is caused by the chytrid fungus Batrachochytrium dendrobatidis , is associated with recent declines in amphibian populations. Susceptibility to this disease varies among amphibian populations and species, and resistance appears to be attributable in part to the presence of antifungal microbial species associated with the skin of amphibians. The betaproteobacterium Janthinobacterium lividum has been isolated from the skins of several amphibian species and produces the antifungal metabolite violacein, which inhibits B. dendrobatidis . In this study, we added J. lividum to red-backed salamanders ( Plethodon cinereus ) to obtain an increased range of violacein concentrations on the skin. Adding J. lividum to the skin of the salamander increased the concentration of violacein on the skin, which was strongly associated with survival after experimental exposure to B. dendrobatidis . As expected from previous work, some individuals that did not receive J. lividum and were exposed to B. dendrobatidis survived. These individuals had concentrations of bacterially produced violacein on their skins that were predicted to kill B. dendrobatidis . Our study suggests that a threshold violacein concentration of about 18 µM on a salamander’s skin prevents mortality and morbidity caused by B. dendrobatidis . In addition, we show that over one-half of individuals in nature support antifungal bacteria that produce violacein, which suggests that there is a mutualism between violacein-producing bacteria and P. cinereus and that adding J. lividum is effective for protecting individuals that lack violacein-producing skin bacteria.” (Becker et al. 2009:6635)\n\nhttp://aem.highwire.org/cgi/content/abstract/75/21/6635 http://www.sciencedaily.com/releases/2009/11/091119212100.htm",
+  "mechanism": "Skin of red-backed salamanders protects from pathogenic fungus thanks to resident antifungal microbes.\n\nOregano\n\nVolatile compounds found in oregano destroy fungi by breaking down their cell membranes.\n\n“The disease chytridiomycosis, which is caused by the chytrid fungus Batrachochytrium dendrobatidis, is associated with recent declines in amphibian populations. Susceptibility to this disease varies among amphibian populations and species, and resistance appears to be attributable in part to the presence of antifungal microbial species associated with the skin of amphibians. The betaproteobacterium Janthinobacterium lividum has been isolated from the skins of several amphibian species and produces the antifungal metabolite violacein, which inhibits B. dendrobatidis. In this study, we added J. lividum to red-backed salamanders ( Plethodon cinereus ) to obtain an increased range of violacein concentrations on the skin. Adding J. lividum to the skin of the salamander increased the concentration of violacein on the skin, which was strongly associated with survival after experimental exposure to B. dendrobatidis. As expected from previous work, some individuals that did not receive J. lividum and were exposed to B. dendrobatidis survived. These individuals had concentrations of bacterially produced violacein on their skins that were predicted to kill B. dendrobatidis. Our study suggests that a threshold violacein concentration of about 18 µM on a salamander’s skin prevents mortality and morbidity caused by B. dendrobatidis. In addition, we show that over one-half of individuals in nature support antifungal bacteria that produce violacein, which suggests that there is a mutualism between violacein-producing bacteria and P. cinereus and that adding J. lividum is effective for protecting individuals that lack violacein-producing skin bacteria.” (Becker et al. 2009:6635)\n\nhttp://aem.highwire.org/cgi/content/abstract/75/21/6635 http://www.sciencedaily.com/releases/2009/11/091119212100.htm",
   "function_addressed": [
     "protect from fungi"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::fungi"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/skin-protects-from-fungus/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skin",
     "protects",
     "fungus"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

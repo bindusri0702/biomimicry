@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-mucin-strands-enable-rapid-slime-formation",
   "organism_common": "Atlantic hagfish",
-  "organism_scientific": "",
   "strategy_summary": "Mucin strands in hagfish slime enable rapid slime formation by transmitting forces from flowing water. Hagfishes are marine fishes that are infamous for their slime.",
-  "mechanism": "Mucin strands in hagfish slime enable rapid slime formation by transmitting forces from flowing water.\n\nHagfishes are marine fishes that are infamous for their slime. When threatened by a biting predator, a hagfish responds by releasing small amounts of thick slime concentrate out of gland s lining its body (see the related strategy here ). This slime concentrate then explodes into a ~1L volume of dilute slime in a fraction of a second. What enables this rapid slime formation?\n\nMucins are protein and carbohydrate molecules that partly make up mucus. Hagfish slime contains thin protein threads interspersed in a dilute mucus. In the slime concentrate, those protein threads are initially wound up into 150 μm-long bundles (skeins). Part of the rapid slime expansion in seawater involves those skeins unraveling into threads 100 times longer. For the Atlantic hagfish, Myxine glutinosa , these threads won’t deploy on their own: active mixing and mucins are needed to enable thread unraveling. Hagfish slime mucins are contained within membrane-bound vesicles that are ~7 μm long, and these vesicles are released along with the thread skeins in the slime concentrate.\n\nAs hagfish slime is stretched, the unraveled threads become visible.\n\nOne leading model for how whole slime forms in the Atlantic hagfish proposes that mucins swell and elongate into sticky strands when they come into contact with seawater. Ions and water rushing into the mucin vesicles cause them to swell, while fluid flow forces cause them to stretch. The mucin strands then attach to the thread skeins at multiple points, creating interconnected networks. The mucins are malleable enough to stretch and strong enough to withstand and transfer pulling forces between the flowing water and thread skeins. The threads, which are still wound up when mucin attaches, are unravelled by disruptive forces transmitted from the actively mixing water by the mucin strands.\n\nBiologists are still uncovering how slime forms in other species of hagfish. In the Atlantic hagfish’s Pacific relative, Eptatretus stoutii , thread skeins can spontaneously unravel on their own. As vigorous thrashing often accompanies sliming during a predator attack, however, most hagfish naturally provide the mixing needed to form a large mass of slime.",
+  "mechanism": "Mucin strands in hagfish slime enable rapid slime formation by transmitting forces from flowing water.\n\nHagfishes are marine fishes that are infamous for their slime. When threatened by a biting predator, a hagfish responds by releasing small amounts of thick slime concentrate out of gland s lining its body (see the related strategy here ). This slime concentrate then explodes into a ~1L volume of dilute slime in a fraction of a second. What enables this rapid slime formation?\n\nMucins are protein and carbohydrate molecules that partly make up mucus. Hagfish slime contains thin protein threads interspersed in a dilute mucus. In the slime concentrate, those protein threads are initially wound up into 150 μm-long bundles (skeins). Part of the rapid slime expansion in seawater involves those skeins unraveling into threads 100 times longer. For the Atlantic hagfish, Myxine glutinosa, these threads won’t deploy on their own: active mixing and mucins are needed to enable thread unraveling. Hagfish slime mucins are contained within membrane-bound vesicles that are ~7 μm long, and these vesicles are released along with the thread skeins in the slime concentrate.\n\nAs hagfish slime is stretched, the unraveled threads become visible.\n\nOne leading model for how whole slime forms in the Atlantic hagfish proposes that mucins swell and elongate into sticky strands when they come into contact with seawater. Ions and water rushing into the mucin vesicles cause them to swell, while fluid flow forces cause them to stretch. The mucin strands then attach to the thread skeins at multiple points, creating interconnected networks. The mucins are malleable enough to stretch and strong enough to withstand and transfer pulling forces between the flowing water and thread skeins. The threads, which are still wound up when mucin attaches, are unravelled by disruptive forces transmitted from the actively mixing water by the mucin strands.\n\nBiologists are still uncovering how slime forms in other species of hagfish. In the Atlantic hagfish’s Pacific relative, Eptatretus stoutii, thread skeins can spontaneously unravel on their own. As vigorous thrashing often accompanies sliming during a predator attack, however, most hagfish naturally provide the mixing needed to form a large mass of slime.",
   "function_addressed": [
     "distribute solids",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::solids",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/mucin-strands-enable-rapid-slime-formation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mucin",
     "strands",
@@ -21,7 +24,5 @@
     "slime",
     "formation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-apoplasts-detoxify-ozone-o3-inside-leaves",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "Ascorbate located within the apoplasts of plant leaves helps detoxify ozone by reacting directly with the pollutant. The chemical processes that take place within plants are among the most complex and efficient chemical processes known.",
-  "mechanism": "Ascorbate located within the apoplasts of plant leaves helps detoxify ozone by reacting directly with the pollutant.\n\nThe chemical processes that take place within plants are among the most complex and efficient chemical processes known. A plant’s ability to transform toxic substances into benign products or useful nutrients can give great insight into helping pollution problems encountered in today’s world. Ozone (O3) is a substance that collects in the troposphere (the lowest part of the earth’s atmosphere) when nitrogen oxide and volatile organic compounds in polluted air interact with photons and break down in a process called photolysis. The presence of excess ozone remains a great threat to various plants and other organisms, as it can cause oxidative damage when it reacts with molecules in living tissues.\n\nCurrent research evidence shows, however, that many plants have a way to combat ozone’s toxicity using an antioxidant compound known as ascorbate (ASC), or vitamin C. ASC molecules are found within plant apoplasts, the internal aqueous space of the cell wall. Research suggests that when ozone passes into the cell wall on the leaf, some of it oxidizes ASC. This reaction produces non-toxic products that can then be managed by the plant cell. This way, ASC in the cell wall is part of a first line of defense against ozone, before the ozone can oxidize and damage sensitive molecules in the plant cell’s underlying plasma membrane. Experimental studies have found that higher concentrations of ASC are associated with higher resistance to oxidative stress.\n\nImage: ?? Shihchuan / toggle icon",
+  "mechanism": "Ascorbate located within the apoplasts of plant leaves helps detoxify ozone by reacting directly with the pollutant.\n\nThe chemical processes that take place within plants are among the most complex and efficient chemical processes known. A plant’s ability to transform toxic substances into benign products or useful nutrients can give great insight into helping pollution problems encountered in today’s world. Ozone (O3) is a substance that collects in the troposphere (the lowest part of the earth’s atmosphere) when nitrogen oxide and volatile organic compounds in polluted air interact with photons and break down in a process called photolysis. The presence of excess ozone remains a great threat to various plants and other organisms, as it can cause oxidative damage when it reacts with molecules in living tissues.\n\nCurrent research evidence shows, however, that many plants have a way to combat ozone’s toxicity using an antioxidant compound known as ascorbate (ASC), or vitamin C. ASC molecules are found within plant apoplasts, the internal aqueous space of the cell wall. Research suggests that when ozone passes into the cell wall on the leaf, some of it oxidizes ASC. This reaction produces non-toxic products that can then be managed by the plant cell. This way, ASC in the cell wall is part of a first line of defense against ozone, before the ozone can oxidize and damage sensitive molecules in the plant cell’s underlying plasma membrane. Experimental studies have found that higher concentrations of ASC are associated with higher resistance to oxidative stress.",
   "function_addressed": [
     "capture, absorb, or filter chemical entities",
     "expel gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "expel::gases"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "expel"
+  ],
   "source_url": "https://asknature.org/strategy/apoplasts-detoxify-ozone-o3-inside-leaves/",
-  "source_tier": "science_journalism",
   "keywords": [
     "apoplasts",
     "detoxify",
@@ -20,7 +22,5 @@
     "inside",
     "leaves"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

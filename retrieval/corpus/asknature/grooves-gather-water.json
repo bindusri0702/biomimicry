@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-grooves-gather-water",
   "organism_common": "Thorny devil",
-  "organism_scientific": "",
   "strategy_summary": "Grooves on spikes of thorny devil lizard provide drinking water by drawing condensed dew to mouth by capillary action. The Thorny Devil ( Moloch horridus ) can gather all the water it needs directly from rain, standing water, or from soil moisture, against gravity without using energy or a pumping device.",
-  "mechanism": "Grooves on spikes of thorny devil lizard provide drinking water by drawing condensed dew to mouth by capillary action.\n\nThe Thorny Devil ( Moloch horridus ) can gather all the water it needs directly from rain, standing water, or from soil moisture, against gravity without using energy or a pumping device. Water is conveyed to this desert lizard’s mouth by capillary action through a circulatory system on the surface of its skin, comprised of semi-enclosed channels 5-150 µm wide running between cutaneous scales. Channel surfaces are heavily convoluted, greatly increasing the effective surface area to which water can hydrogen-bond and hence capillary action force. Passive collection and distribution systems of naturally distilled water could help provide clean water supplies to the 1 billion people estimated to lack this vital resource, reduce the energy consumption required in collecting and transporting water by pump action (e.g., to the tops of buildings), and provide a variety of other inexpensive technological solutions such as managing heat through evaporative cooling systems, protecting structures from fire through on-demand water barriers, etc.\n\nImage: BurningWell / toggle icon Image: Nokes / toggle icon Image: Paul Duncan / toggle icon right arrow right arrow",
+  "mechanism": "Grooves on spikes of thorny devil lizard provide drinking water by drawing condensed dew to mouth by capillary action.\n\nThe Thorny Devil ( Moloch horridus ) can gather all the water it needs directly from rain, standing water, or from soil moisture, against gravity without using energy or a pumping device. Water is conveyed to this desert lizard’s mouth by capillary action through a circulatory system on the surface of its skin, comprised of semi-enclosed channels 5-150 µm wide running between cutaneous scales. Channel surfaces are heavily convoluted, greatly increasing the effective surface area to which water can hydrogen-bond and hence capillary action force. Passive collection and distribution systems of naturally distilled water could help provide clean water supplies to the 1 billion people estimated to lack this vital resource, reduce the energy consumption required in collecting and transporting water by pump action (e.g., to the tops of buildings), and provide a variety of other inexpensive technological solutions such as managing heat through evaporative cooling systems, protecting structures from fire through on-demand water barriers, etc.",
   "function_addressed": [
     "capture, absorb, or filter liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/grooves-gather-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "grooves",
     "gather",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

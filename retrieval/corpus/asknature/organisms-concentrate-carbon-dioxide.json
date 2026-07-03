@@ -1,24 +1,21 @@
 {
   "doc_id": "asn-organisms-concentrate-carbon-dioxide",
   "organism_common": "Green algae",
-  "organism_scientific": "",
   "strategy_summary": "Algae concentrate carbon dioxide to fix CO2 more efficiently, possibly using one or more HCO3- transporter proteins. “The CO 2 concentrating mechanism (CCM) is a biological adaptation to low carbon dioxide concentrations in the environment.",
-  "mechanism": "Algae concentrate carbon dioxide to fix CO2 more efficiently, possibly using one or more HCO3- transporter proteins.\n\n“The CO 2 concentrating mechanism (CCM) is a biological adaptation to low carbon dioxide concentrations in the environment. It is a mechanism which augments photosynthetic productivity in algal cells by increasing levels of inorganic carbon many times over the environmental concentration of carbon dioxide. The role of the CCM is to increase the concentration of CO 2 for Rubisco, the enzyme responsible for the initial fixation of CO 2 .” (Moroney and Ynalvez 2007:1251)\n\n[Note: This paper is a review of current state of the knowledge. See James Moroney’s website for more information: http://www.biology.lsu.edu/faculty_listings/fac_pages/jmoroney.html]",
+  "mechanism": "Algae concentrate carbon dioxide to fix CO2 more efficiently, possibly using one or more HCO3- transporter proteins.\n\n“The CO 2 concentrating mechanism (CCM) is a biological adaptation to low carbon dioxide concentrations in the environment. It is a mechanism which augments photosynthetic productivity in algal cells by increasing levels of inorganic carbon many times over the environmental concentration of carbon dioxide. The role of the CCM is to increase the concentration of CO 2 for Rubisco, the enzyme responsible for the initial fixation of CO 2.” (Moroney and Ynalvez 2007:1251)\n\n[Note: This paper is a review of current state of the knowledge. See James Moroney’s website for more information: http://www.biology.lsu.edu/faculty_listings/fac_pages/jmoroney.html]",
   "function_addressed": [
     "capture, absorb, or filter chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/organisms-concentrate-carbon-dioxide/",
-  "source_tier": "science_journalism",
   "keywords": [
     "organisms",
     "concentrate",
     "carbon",
     "dioxide"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

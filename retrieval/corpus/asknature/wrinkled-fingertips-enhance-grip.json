@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-wrinkled-fingertips-enhance-grip",
   "organism_common": "Humans",
-  "organism_scientific": "",
   "strategy_summary": "Fingertips of primates enhance grip in wet conditions by wrinkling  We all know that our fingertips and toes wrinkle if they stay wet for around five minutes or more. Less well known is that this is an active response triggered by our nerves and that if those nerves are damaged, it stops.",
   "mechanism": "Fingertips of primates enhance grip in wet conditions by wrinkling\n\nWe all know that our fingertips and toes wrinkle if they stay wet for around five minutes or more. Less well known is that this is an active response triggered by our nerves and that if those nerves are damaged, it stops. The wrinkles that appear in our fingers and toes have a very distinctive pattern that corresponds with the most efficient topography for moving water out of the way.\n\nThe grooves and ridges that form when our fingers, and the fingers of other primates, become wet mean that, first, a small area of skin makes contact with the surface the fingers are gripping. Like the treads of a tire, the grooves channel the water out the way. Unlike the treads of a tire, our finger pads are soft and so we are able to continue to increase the area of contact, reducing the size of the grooves as pressure increases and the water is cleared.\n\nThis active increase in grip in response to moisture makes sense in species that regularly climb on damp and rainy surfaces like trees and rocks.\n\nA child's wrinkled right hand.",
   "function_addressed": [
     "attach temporarily",
     "capture, absorb, or filter solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "capture-absorb-or-filter::solids"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/wrinkled-fingertips-enhance-grip/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wrinkled",
     "fingertips",
     "enhance",
     "grip"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

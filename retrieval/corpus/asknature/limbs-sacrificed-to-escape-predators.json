@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-limbs-sacrificed-to-escape-predators",
   "organism_common": "Crustaceans",
-  "organism_scientific": "",
   "strategy_summary": "The claw and other limbs of a crab assist escape because they can be shed and regenerated. “In some invertebrates, autotomy can involve the loss of one or more legs.",
   "mechanism": "The claw and other limbs of a crab assist escape because they can be shed and regenerated.\n\n“In some invertebrates, autotomy can involve the loss of one or more legs. Crabs, for instance, are famous for sacrificing a claw if attacked by a predator, which they will then regrow. Indeed, they are willing to lose several of their limbs if necessary to avoid capture, though this willingness decreases markedly with each successive limb loss, for obvious reasons.” (Shuker 2001:132)",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/limbs-sacrificed-to-escape-predators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "limbs",
     "sacrificed",
     "escape",
     "predators"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

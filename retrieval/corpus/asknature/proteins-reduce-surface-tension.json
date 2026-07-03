@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-proteins-reduce-surface-tension",
   "organism_common": "Dikarya (Common Mushrooms, etc.)",
-  "organism_scientific": "",
   "strategy_summary": "Hydrophobin proteins from fungi reduce surface tension to enable growth by having both hydrophilic and hydrophobic parts. For fungi, which grow at the micro- and nano-scale, the forces that influence them the most are different to the forces humans are used to managing.",
   "mechanism": "Hydrophobin proteins from fungi reduce surface tension to enable growth by having both hydrophilic and hydrophobic parts.\n\nFor fungi, which grow at the micro- and nano-scale, the forces that influence them the most are different to the forces humans are used to managing. For example, gravity barely impacts fungi at these small scales, but the surface tension of water can over-power their attempts to grow.\n\nFungi grow in moist surroundings, and when they put forward new hyphae–tubular filaments through which they grow, feed and reproduce–they must break through films of water. Because, for hyphae, these forces are so large, all fungi from the subkingdom Dikarya produce special proteins called hydrophobins that reduce the surface tension of water. Dikarya includes many familiar fungi, such as edible mushrooms and yeasts.\n\nHydrophobins are small proteins that can dissolve in water but that have one highly water-repellent face consisting of hydrophobic amino acids. Because hydrophobins have both hydrophilic and hydrophobic parts, they are called amphipathic. The hydrophobic face repels water and this means hydrophobins tend to line up in a way that keeps that face dry. Hydrophobins naturally form films on surfaces, rod-shaped assemblies, or arrange themselves at the air-water interface. By doing this, they can keep their hydrophobic side away from water. When they arrange themselves at the air-water interface, hydrophobins disrupt the attractive forces between water molecules that give water such a high surface tension. Compounds that reduce surface tension in this way are called surfactants.\n\nFungi produce fruiting bodies that project up into the air. By releasing hydrophobins into the surrounding water layer, fruiting bodies are better able to break through the water surface and grow.\n\nSchor M, Reid JL, MacPhee CE, Stanley-Wall NR. 2016. The Diverse Structures and Functions of Surfactant Proteins. Trends Biochem Sci. 41(7): 610–620.\n\nSchor M, Reid JL, MacPhee CE, Stanley-Wall NR. 2016. The Diverse Structures and Functions of Surfactant Proteins. Trends Biochem Sci. 41(7): 610–620.\n\nWageningen University\n\nProbabilistic fastener from Wageningen University uses soft material and interlocking forces to create a strong yet gentle connection.",
   "function_addressed": [
     "move in/on liquids",
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "move",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/proteins-reduce-surface-tension/",
-  "source_tier": "science_journalism",
   "keywords": [
     "proteins",
     "reduce",
     "surface",
     "tension"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

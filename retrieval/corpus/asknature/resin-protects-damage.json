@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-resin-protects-damage",
   "organism_common": "Pines",
-  "organism_scientific": "",
   "strategy_summary": "Resin produced by conifer trees protects from mechanical or insect damage because it flows, then hardens to seal the wound site. “Conifers protect their trunks from mechanical damage and insect attack with a special gummy substance, resin.",
   "mechanism": "Resin produced by conifer trees protects from mechanical or insect damage because it flows, then hardens to seal the wound site.\n\n“Conifers protect their trunks from mechanical damage and insect attack with a special gummy substance, resin. When it first flows from a wound it is runny but the more liquid part of it, turpentine, quickly evaporates leaving a sticky lump which seals the wound very effectively.” (Attenborough 1979:76)",
   "function_addressed": [
@@ -9,17 +8,20 @@
     "manage mechanical wear",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::fracture-rupture",
+    "prevent-structural-failure::mechanical-wear",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/resin-protects-damage/",
-  "source_tier": "science_journalism",
   "keywords": [
     "resin",
     "protects",
     "damage"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

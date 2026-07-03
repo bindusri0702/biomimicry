@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-glucose-prevents-formation-of-ice-crystals",
   "organism_common": "Spring peeper",
-  "organism_scientific": "",
   "strategy_summary": "Glucose produced by spring peepers in cold weather reduces ice crystal formation by concentrating the frogs' body fluids. “In 1997, biologists from Pennsylvania’s Slippery Rock University revealed that the spring peeper ( Pseudacris crucifer ), a tiny species of North American frog, produces glucose during frosty…",
   "mechanism": "Glucose produced by spring peepers in cold weather reduces ice crystal formation by concentrating the frogs' body fluids.\n\n“In 1997, biologists from Pennsylvania’s Slippery Rock University revealed that the spring peeper ( Pseudacris crucifer ), a tiny species of North American frog, produces glucose during frosty weather to concentrate its body fluids and so reduce ice crystal formation, enabling it to survive for up to three days with almost half of its total body fluid frozen. It returns to a fully active state in only a day after thawing out.” (Shuker 2001:110)\n\n“To prevent lethal freeze injury, these [North American] frogs initiate intensive hepatic glycogenolysis immediately after the onset of tissue freezing and concomitantly distribute the glucose throughout their bodies, raising levels of tissue glucose by as much as 10- 100 X above normal (Storey and Storey, 1984). The treefrog Hyla versicolor is exceptional because it converts most of the glucose into glycerol, which is then distributed to body tissues (Storey and Storey, 1985). Because so much of their body water is sequestered into ice (to 70%), frozen frogs cannot sustain systemic functions, including breathing, heartbeat, and blood flow (Layne et al., 1989). Upon thawing, freeze-tolerant frogs resume cardiovascular functions first, whereas, other functions resume during the ensuing hours (Layne and First, 1991)… Pseudacris crucifer mobilizes glucose to levels that are comparable to most other freeze-tolerant frogs.” (Layne and Kefauver 1997:260)",
   "function_addressed": [
     "protect from ice",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::ice",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/glucose-prevents-formation-of-ice-crystals/",
-  "source_tier": "science_journalism",
   "keywords": [
     "glucose",
     "prevents",
@@ -20,7 +22,5 @@
     "ice",
     "crystals"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

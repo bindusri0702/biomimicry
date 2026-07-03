@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-moving-efficiently-across-sand-without-slipping",
   "organism_common": "Sidewinder",
-  "organism_scientific": "",
   "strategy_summary": "The sidewinder rattlesnake moves efficiently across sand without slipping by pushing on the ground with parts of its body and lifting the rest sideways. The sidewinder rattlesnake is a venomous snake that lives in deserts of the southwestern United States and northwestern Mexico.",
-  "mechanism": "The sidewinder rattlesnake moves efficiently across sand without slipping by pushing on the ground with parts of its body and lifting the rest sideways.\n\nThe sidewinder rattlesnake is a venomous snake that lives in deserts of the southwestern United States and northwestern Mexico. The snake gets its name from its unusual and efficient way of getting up sandy slopes without slipping. Like most snakes, the sidewinder moves across a surface by bending its body into a curvy S-shape and passing those curves down its body. But instead of sliding straight ahead along the ground, the sidewinder sets only parts of its body on the loose sand while the rest of its body lifts up and moves sideways. This process continues all along the sidewinder’s body, so that each part touches the sand for only a brief time. This appears to help the snake get a firm hold on the sand and travel quickly while limiting total contact time with the hot and unstable sand.\n\nTo see sidewinding in action, check out this video of a sidewinding adder on the Smithsonian Channel.\n\nThis summary was co-contributed by EcoRise Youth Innovations .\n\nImage: HCA / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon Image: Tigerhawkvok / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon right arrow right arrow",
+  "mechanism": "The sidewinder rattlesnake moves efficiently across sand without slipping by pushing on the ground with parts of its body and lifting the rest sideways.\n\nThe sidewinder rattlesnake is a venomous snake that lives in deserts of the southwestern United States and northwestern Mexico. The snake gets its name from its unusual and efficient way of getting up sandy slopes without slipping. Like most snakes, the sidewinder moves across a surface by bending its body into a curvy S-shape and passing those curves down its body. But instead of sliding straight ahead along the ground, the sidewinder sets only parts of its body on the loose sand while the rest of its body lifts up and moves sideways. This process continues all along the sidewinder’s body, so that each part touches the sand for only a brief time. This appears to help the snake get a firm hold on the sand and travel quickly while limiting total contact time with the hot and unstable sand.\n\nTo see sidewinding in action, check out this video of a sidewinding adder on the Smithsonian Channel.",
   "function_addressed": [
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/moving-efficiently-across-sand-without-slipping/",
-  "source_tier": "science_journalism",
   "keywords": [
     "moving",
     "efficiently",
@@ -20,7 +21,5 @@
     "without",
     "slipping"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

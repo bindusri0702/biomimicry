@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-minerals-conserved-during-moult",
   "organism_common": "Arthropods (Insects, Spiders, Crustaceans)",
-  "organism_scientific": "",
   "strategy_summary": "Crustaceans conserve minerals when moulting by absorbing calcium carbonate from their shell before it is shed. “The external shell gives the crustaceans the problem it gave the trilobites.",
   "mechanism": "Crustaceans conserve minerals when moulting by absorbing calcium carbonate from their shell before it is shed.\n\n“The external shell gives the crustaceans the problem it gave the trilobites. It will not expand and since it completely encloses their bodies, the only way they can grow is to shed it periodically. As the time for the moult approaches, the animal absorbs much of the calcium carbonate from its shell into its blood. It secretes a new, soft wrinkled skin beneath the shell. The outgrown armour splits and the animal pulls itself out, leaving it more or less complete, like a translucent ghost of its former self. Now its skin is soft and it must hide, but it grows fast and swells its body by absorbing water and stretching out the wrinkles of its new carapace. Gradually this hardens and the animal can again venture into a hostile world.” (Attenborough 1979:58)",
   "function_addressed": [
@@ -9,18 +8,22 @@
     "regulate reproduction or growth",
     "store chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::cycle-nutrients",
+    "regulate-physiological-processes::reproduction-or-growth",
+    "store::chemical-entities"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services",
+    "regulate-physiological-processes",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/minerals-conserved-during-moult/",
-  "source_tier": "science_journalism",
   "keywords": [
     "minerals",
     "conserved",
     "during",
     "moult"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,23 +1,23 @@
 {
   "doc_id": "asn-teeth-are-resilient",
   "organism_common": "Sea otter",
-  "organism_scientific": "",
   "strategy_summary": "Teeth of sea otters resist damage by employing stress shielding from neighbors, prism interweaving (decussation), and self-healing. “Tooth enamel is inherently weak, with fracture toughness comparable with glass, yet it is remarkably resilient, surviving millions of functional contacts over a lifetime.",
   "mechanism": "Teeth of sea otters resist damage by employing stress shielding from neighbors, prism interweaving (decussation), and self-healing.\n\n“Tooth enamel is inherently weak, with fracture toughness comparable with glass, yet it is remarkably resilient, surviving millions of functional contacts over a lifetime. We propose a microstructural mechanism of damage resistance, based on observations from ex situ loading of human and sea otter molars (teeth with strikingly similar structural features). Section views of the enamel implicate tufts, hypomineralized crack-like defects at the enamel–dentin junction, as primary fracture sources. We report a stabilization in the evolution of these defects, by ‘stress shielding’ from neighbors, by inhibition of ensuing crack extension from prism interweaving (decussation), and by self-healing. These factors, coupled with the capacity of the tooth configuration to limit the generation of tensile stresses in largely compressive biting, explain how teeth may absorb considerable damage over time without catastrophic failure, an outcome with strong implications concerning the adaptation of animal species to diet.” (Chai et al. 2009:7289)\n\n“Teeth are made from an extremely sophisticated composite material which reacts in an extraordinary way under pressure,” says Prof. Chai. “Teeth exhibit graded mechanical properties and a cathedral-like geometry, and over time they develop a network of micro-cracks which help diffuse stress. This, and the tooth’s built-in ability to heal the micro-cracks over time, prevents it from fracturing into large pieces when we eat hard food, like nuts.” (Dr. Herzl Chai, Tel Aviv University’s School of Mechanical Engineering)",
   "function_addressed": [
     "manage tension",
     "manage compression"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::tension"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/teeth-are-resilient/",
-  "source_tier": "science_journalism",
   "keywords": [
     "teeth",
     "resilient"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

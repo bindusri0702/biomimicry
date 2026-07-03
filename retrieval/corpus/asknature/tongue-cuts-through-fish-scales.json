@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-tongue-cuts-through-fish-scales",
   "organism_common": "Lampreys",
-  "organism_scientific": "",
   "strategy_summary": "The tongue of a lamprey can cut through fish scales and skin due to its abrasiveness. “The lamprey uses a sucker-like jawless mouth to cling to the trout, and has a vicious abrasive tongue with which to gorge a hole in its host’s body.",
   "mechanism": "The tongue of a lamprey can cut through fish scales and skin due to its abrasiveness.\n\n“The lamprey uses a sucker-like jawless mouth to cling to the trout, and has a vicious abrasive tongue with which to gorge a hole in its host’s body. There it laps up the body fluids oozing from the wound.” (Foy and Oxford Scientific Films 1982:50)\n\n“In some respects, the mechanics of feeding have not been adequately explained, although the part played by the tongue is better understood. This structure is supported by a lingual cartilage, which can be moved slightly in a forward direction by paired basilariglossus muscles, originating in the basilaris and inserted on to the cartilage. The cutting lobes of the tongue are supported by an apical cartilage to which they are attached by tendons. Both Dawson (1905) and Lanzing (1959) agree that a rasping effect is largely responsible for the initial destruction of host tissue, through a rocking motion of the apical part of the tongue, produced by the protractor and retractor systems. In addition to this rasping effect, Lanzing considered that the retraction of the tongue brings together the longitudinal laminae in a scissors-like action which would be effective in cutting the host tissues.” (Hardisty and Potter 1971:158)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p. Hardisty MW; Potter IC. 1971. The biology of lampreys. Vol. 1 London: Academic Press. 423p.",
   "function_addressed": [
     "physically break down living materials"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "physically-break-down::living-materials"
+  ],
+  "subgroup_keys": [
+    "physically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/tongue-cuts-through-fish-scales/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tongue",
     "cuts",
@@ -19,7 +20,5 @@
     "fish",
     "scales"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

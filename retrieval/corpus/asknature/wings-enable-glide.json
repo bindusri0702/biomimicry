@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-wings-enable-glide",
   "organism_common": "Common flying dragon",
-  "organism_scientific": "",
   "strategy_summary": "Special elongated ribs of the flying dragon lizard enable it to glide via adjustable membranes that act as 'wings'. “The ‘wings’ of this spectacular lizard are made from membranes stretched between a series of specially elongated ribs that act as struts.",
   "mechanism": "Special elongated ribs of the flying dragon lizard enable it to glide via adjustable membranes that act as 'wings'.\n\n“The ‘wings’ of this spectacular lizard are made from membranes stretched between a series of specially elongated ribs that act as struts. The end result bears uncanny resemblance to early designs for aircraft wings, but the lizard’s version is far more sophisticated since its wings can be opened and closed at will. The lizard’s flattened body improves its aerodynamics, and its slender tail acts as a counterbalance. On average, each flight carries it roughly 25 feet (8m)” (Downer 2002:30)\n\nWatch video",
   "function_addressed": [
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/wings-enable-glide/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wings",
     "enable",
     "glide"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

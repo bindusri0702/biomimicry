@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-enzyme-harnesses-energy-from-carbon-dioxide",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "“Acetogens are obligately anaerobic bacteria that use the reductive acetyl-CoA or Wood–Ljungdahl pathway as their main mechanism for energy conservation and for synthesis of acetyl-CoA and cell carbon from CO2 [2,3]. An acetogen is sometimes called a ‘homoacetogen’ (meaning that it produces only acetate as its…",
   "mechanism": "“Acetogens are obligately anaerobic bacteria that use the reductive acetyl-CoA or Wood–Ljungdahl pathway as their main mechanism for energy conservation and for synthesis of acetyl-CoA and cell carbon from CO2 [2,3]. An acetogen is sometimes called a ‘homoacetogen’ (meaning that it produces only acetate as its fermentation product) or a ‘CO2-reducing acetogen’…organisms that house acetogens in their digestive systems [include] humans, termites, and ruminants. Since the build-up of H2 inhibits biodegradation by creating an unfavorable thermodynamic equilibrium, acetogens enhance biodegradative capacity by coupling the oxidation of hydrogen gas to the reduction of CO2 to acetate.” (Ragsdale 2008)The Wood–Ljungdahl pathway (or reductive acetyl–CoA pathway) is a series of biochemical reactions used by these anaerobic bacteria to synthesize acetyl-CoA. This pathway allows the organism to use hydrogen as an electron donor and carbon dioxide as an electron acceptor. Unlike other energy production pathways (e.g., the Calvin cycle) this process is not cyclic. For details on how this process works, please see the image gallery.\n\nDepiction of how the Wood–Ljungdahl pathway produces acetyl-CoA.",
   "function_addressed": [
     "transform chemical energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "transform-convert-energy::chemical-energy"
+  ],
+  "subgroup_keys": [
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/enzyme-harnesses-energy-from-carbon-dioxide/",
-  "source_tier": "science_journalism",
   "keywords": [
     "enzyme",
     "harnesses",
@@ -19,7 +20,5 @@
     "carbon",
     "dioxide"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

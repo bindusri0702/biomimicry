@@ -1,22 +1,21 @@
 {
   "doc_id": "asn-nests-are-dynamic",
   "organism_common": "Rock ant",
-  "organism_scientific": "",
   "strategy_summary": "Ants are masters of many trades. They can lift phenomenal relative weights, build structures that rival the engineering feats of humans, and even farm other insects.",
-  "mechanism": "As a colony of Temnothorax albipennis ants grows, the ants must periodically shed their old nest walls and rebuild new ones to accommodate the increased number of workers. Interestingly, they will also close up unneeded space when the population decreases.\n\nThe ability of ants to shed and rebuild their nests provides inspiration for designing structures that can be adapted to changing needs. For example, the walls of a building could be made from modular blocks that can be added or removed as the occupancy of the building changes. Alternatively, the shedding and rebuilding process could be used to repair damage to a structure.",
+  "mechanism": "As a colony of Temnothorax albipennis ants grows, the ants must periodically shed their old nest walls and rebuild new ones to accommodate the increased number of workers. Interestingly, they will also close up unneeded space when the population decreases.\n\nThe ability of ants to shed and rebuild their nests provides inspiration for designing structures that can be adapted to changing needs. For example, the walls of a building could be made from modular blocks that can be added or removed as the occupancy of the building changes. Alternatively, the shedding and rebuilding process could be used to repair damage to a structure.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "adapt behaviors"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-behaviors"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize"
+  ],
   "source_url": "https://asknature.org/strategy/nests-are-dynamic/",
-  "source_tier": "science_journalism",
   "keywords": [
     "nests",
     "dynamic"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

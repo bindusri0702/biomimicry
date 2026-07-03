@@ -1,27 +1,30 @@
 {
   "doc_id": "asn-electric-signals-detect-prey",
   "organism_common": "Elephantnose fish",
-  "organism_scientific": "",
   "strategy_summary": "The elongated chin on the elephantnose fish helps it hunt in murky water by sensing electric signals. The elephantnose fish Gnathonemus petersii is a freshwater fish that lives in slow-moving and muddy rivers in Africa.",
-  "mechanism": "The elongated chin on the elephantnose fish helps it hunt in murky water by sensing electric signals.\n\nThe elephantnose fish Gnathonemus petersii is a freshwater fish that lives in slow-moving and muddy rivers in Africa. In these murky, dark waters, using vision to sense its surroundings is virtually impossible. This presents a challenge for avoiding predators and finding prey.\n\nElephantnose fish solve this problem by navigating their environment with an electric sense. Modified muscle cells near the fish’s tail act as an electric organ that emits electric signals and generates a weak electric field around the fish. When objects nearby modify that electric field, special receptor cells all over the fish’s body can sense these changes in the electric signals. By actively generating and sensing an electric field, the fish can map out its surroundings through a process called electrolocation (similar to the way a bat uses sound to detect objects and prey).\n\nThe elephantnose fish’s special elongated chin, which gives the fish its name, is especially loaded with electroreceptors. The fish uses its chin or ‘Schnauzenorgan’ much like a human might use a handheld metal detector at the beach. While foraging, the fish swims forward and sweeps its chin back and forth until it finds an object of interest, which may be a tasty worm or insect buried in the mud. It then approaches that object and uses its chin to explore more closely. If it’s a prey item, the fish may use its chin to dig into the mud. If the object is larger or unknown, the fish can swim all around the object and “scan” it with its chin and the other electroreceptors on its body.\n\nThe vast number of electroreceptors enables the fish to determine not only the shape of an object, but its volume, size, material, and maybe even which direction it’s facing. The elephantnose fish can use the images formed through electrolocation to navigate its environment, avoiding hitting objects as it swims while hunting smaller prey. These images aren’t perfectly clear, but are like someone near-sighted seeing a blurry world when they don’t have their glasses on. This doesn’t affect the fish too much, as basic shapes and patterns are all that are needed to survive and thrive.\n\nThis summary was contributed by Thomas McAuley-Biasi.\n\nImage: opencage / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon\n\nElephant fishes\n\nReceptor organs in the skin of weakly electric fishes filter out background noise and enable communication using cells as capacitors.",
+  "mechanism": "The elongated chin on the elephantnose fish helps it hunt in murky water by sensing electric signals.\n\nThe elephantnose fish Gnathonemus petersii is a freshwater fish that lives in slow-moving and muddy rivers in Africa. In these murky, dark waters, using vision to sense its surroundings is virtually impossible. This presents a challenge for avoiding predators and finding prey.\n\nElephantnose fish solve this problem by navigating their environment with an electric sense. Modified muscle cells near the fish’s tail act as an electric organ that emits electric signals and generates a weak electric field around the fish. When objects nearby modify that electric field, special receptor cells all over the fish’s body can sense these changes in the electric signals. By actively generating and sensing an electric field, the fish can map out its surroundings through a process called electrolocation (similar to the way a bat uses sound to detect objects and prey).\n\nThe elephantnose fish’s special elongated chin, which gives the fish its name, is especially loaded with electroreceptors. The fish uses its chin or ‘Schnauzenorgan’ much like a human might use a handheld metal detector at the beach. While foraging, the fish swims forward and sweeps its chin back and forth until it finds an object of interest, which may be a tasty worm or insect buried in the mud. It then approaches that object and uses its chin to explore more closely. If it’s a prey item, the fish may use its chin to dig into the mud. If the object is larger or unknown, the fish can swim all around the object and “scan” it with its chin and the other electroreceptors on its body.\n\nThe vast number of electroreceptors enables the fish to determine not only the shape of an object, but its volume, size, material, and maybe even which direction it’s facing. The elephantnose fish can use the images formed through electrolocation to navigate its environment, avoiding hitting objects as it swims while hunting smaller prey. These images aren’t perfectly clear, but are like someone near-sighted seeing a blurry world when they don’t have their glasses on. This doesn’t affect the fish too much, as basic shapes and patterns are all that are needed to survive and thrive.\n\nElephant fishes\n\nReceptor organs in the skin of weakly electric fishes filter out background noise and enable communication using cells as capacitors.",
   "function_addressed": [
     "navigate through liquid",
     "sense shape and pattern in a living system",
     "sense electricity/magnetism from the environment",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "navigate::through-liquid",
+    "sense-signals-environmental-cues::electricity-magnetism",
+    "sense-signals-environmental-cues::shape-and-pattern"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "navigate",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/electric-signals-detect-prey/",
-  "source_tier": "science_journalism",
   "keywords": [
     "electric",
     "signals",
     "detect",
     "prey"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

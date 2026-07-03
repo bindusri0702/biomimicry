@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-trunk-emits-infrasonic-calls",
   "organism_common": "Elephants",
-  "organism_scientific": "",
   "strategy_summary": "Nasal passages of elephants communicate by emitting vibrations that cause infrasonic sounds. “The elephant was the first land animal shown to communicate infrasonically–a landmark discovery that came from two independent observations.",
   "mechanism": "Nasal passages of elephants communicate by emitting vibrations that cause infrasonic sounds.\n\n“The elephant was the first land animal shown to communicate infrasonically–a landmark discovery that came from two independent observations. In 1981, Kansas University scientists Dr. Rickye Heffner and Dr. Henry Heffner were surprised to discover that elephants could detect sound frequencies as low as 17 Hz, which were within the infrasonic range. But why should they be able to do this? What purpose does it serve?”\n\nThis sound was described by Dr. Katherine Payne from Cornell’s Laboratory of Ornithology as, “I repeatedly noticed a palpable throbbing in the air like distant thunder, yet all around me was silent.” (National Geographic article, August 1989). The sound reminded her of standing next to the largest organ pipe in her church when the organ blasted out the bass line in a Bach chorale.\n\nDr. Payne and others recorded elephants and found that “[W]ithin one month 400 separate calls had been recorded–three times the number of calls heard by the researchers in the sonic range. Analyses showed that the elephants emitted short calls at a frequence range of 14-24 Hz, which lasted for 5-10 minutes, over a period of 10 minutes.\n\n“The tam also uncovered an important visual clue to the production of these secret sounds by elephants. When an elephant is volcalizing infrasonically, the skin on its brown flutters, vibrating gently as air passes through to its nasal passages…Since infrasound travels over long distances, it is useful in this regard. Subsequent studies have shown that elephants in Africa can hear calls from as far away as 2.5 miles (4 km) during the day, whereas in the evening this range can extend to up to 6 miles (10 km) as a result of temperature inversions in the atmosphere that make sound travel farther.” (Shuker 2001:25-27)\n\nOther infrasound communicators: okapis, giraffes, African and Asian elephants, rhinoceroses, hippopotamuses, alligators, crocodiles, capercaillies, and baleen whales.",
   "function_addressed": [
@@ -10,18 +9,23 @@
     "send sound signals",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals",
+    "send-signals::sound",
+    "send-signals::vibratory",
+    "sense-signals-environmental-cues::sound-and-other-vibrations"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "send-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/trunk-emits-infrasonic-calls/",
-  "source_tier": "science_journalism",
   "keywords": [
     "trunk",
     "emits",
     "infrasonic",
     "calls"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

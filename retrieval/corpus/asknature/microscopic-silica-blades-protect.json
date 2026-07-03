@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-microscopic-silica-blades-protect",
   "organism_common": "Red fescue",
-  "organism_scientific": "",
   "strategy_summary": "The blades of some meadow grasses protect themselves via sharp microscopic silica blades along their edges. “The defences developed by grasses become only too clear if you carelessly run your finger along the blade of one of the coarser meadow grasses.",
   "mechanism": "The blades of some meadow grasses protect themselves via sharp microscopic silica blades along their edges.\n\n“The defences developed by grasses become only too clear if you carelessly run your finger along the blade of one of the coarser meadow grasses. You may well cut yourself. The damage is done by a line of microscopic silica blades.” (Attenborough 1995:63)",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/microscopic-silica-blades-protect/",
-  "source_tier": "science_journalism",
   "keywords": [
     "microscopic",
     "silica",
     "blades",
     "protect"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

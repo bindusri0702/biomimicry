@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-wingbeat-vibrations-cause-pollen-release",
   "organism_common": "Carpenter bees",
-  "organism_scientific": "",
   "strategy_summary": "The wings of carpenter bees cause pink gentian flowers to release their pollen by beating at a frequency that causes the anthers to vibrate. Mining bees  Hairy hind legs on bees can carry a variety of pollen sizes by mixing pollen grains with liquid.",
   "mechanism": "The wings of carpenter bees cause pink gentian flowers to release their pollen by beating at a frequency that causes the anthers to vibrate.\n\nMining bees\n\nHairy hind legs on bees can carry a variety of pollen sizes by mixing pollen grains with liquid.\n\n“A pink gentian grows in southern Africa, which is pollinated by handsome furry carpenter bees. The flowers of the gentian spread their petals wide, revealing to all a curving white style and three large stamens. Each stamen ends in a long thick anther that seems to be covered in yellow pollen, an obvious temptation to any passing pollen-feeding insect. But that is something of an illusion. The yellow anther is hollow and the pollen is held inside. The only way it can escape is through a tiny hole right at the top of the anther and there is only one way of extracting it. The bee knows how.\n\n“It arrives at the flower making a high-pitched buzzing noise with its wings as most bees do. As it alights on an anther, it continues beating its wings but lowers the frequency so that the note of its buzz suddenly falls to approximately middle C. This causes the anther to vibrate at just the right frequency needed to release the pollen and the grains spout out of the hole at the top in a yellow fountain.” (Attenborough 1995:100)",
   "function_addressed": [
     "send vibratory signals",
     "capture, absorb, or filter solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::solids",
+    "send-signals::vibratory"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/wingbeat-vibrations-cause-pollen-release/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wingbeat",
     "vibrations",
@@ -20,7 +23,5 @@
     "pollen",
     "release"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

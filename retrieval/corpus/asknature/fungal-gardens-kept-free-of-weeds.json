@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-fungal-gardens-kept-free-of-weeds",
   "organism_common": "Leafcutter ants",
-  "organism_scientific": "",
   "strategy_summary": "The fungus gardens grown by leaf-cutter ants are kept free of unwanted fungi and bacteria using multiple antimicrobial compounds concurrently. Where Are Ants Carrying All Those Leaves?",
-  "mechanism": "The fungus gardens grown by leaf-cutter ants are kept free of unwanted fungi and bacteria using multiple antimicrobial compounds concurrently.\n\nWhere Are Ants Carrying All Those Leaves?\n\n“Scientists at the University of East Anglia, have shown that fungus-farming ants are using multiple antibiotics as weed killers to maintain their fungus gardens … ants use the antibiotics to inhibit the growth of unwanted fungi and bacteria in their fungus cultures which they use to feed their larvae and queen\n\n“These antibiotics are produced by actinomycete bacteria that live on the ants in a mutual symbiosis .\n\n“Although these ants have been studied for more than 100 years this is the first demonstration that a single ant colony uses multiple antibiotics and is reminiscent of the use of multidrug therapy to treat infections in humans.\n\n“… Dr Hutchings’ research investigates the Acromyrmex octospinosus leaf cutter ant, endemic in South and Central America and the southern US.” (EurekAlert! 2010)\n\nWatch Video\n\nhttp://www.biomedcentral.com/1741-7007/8/109 http://www.eurekalert.org/pub_releases/2010-08/uoea-aft082610.php",
+  "mechanism": "The fungus gardens grown by leaf-cutter ants are kept free of unwanted fungi and bacteria using multiple antimicrobial compounds concurrently.\n\nWhere Are Ants Carrying All Those Leaves?\n\n“Scientists at the University of East Anglia, have shown that fungus-farming ants are using multiple antibiotics as weed killers to maintain their fungus gardens … ants use the antibiotics to inhibit the growth of unwanted fungi and bacteria in their fungus cultures which they use to feed their larvae and queen\n\n“These antibiotics are produced by actinomycete bacteria that live on the ants in a mutual symbiosis.\n\n“Although these ants have been studied for more than 100 years this is the first demonstration that a single ant colony uses multiple antibiotics and is reminiscent of the use of multidrug therapy to treat infections in humans.\n\n“… Dr Hutchings’ research investigates the Acromyrmex octospinosus leaf cutter ant, endemic in South and Central America and the southern US.” (EurekAlert! 2010)\n\nWatch Video\n\nhttp://www.biomedcentral.com/1741-7007/8/109 http://www.eurekalert.org/pub_releases/2010-08/uoea-aft082610.php",
   "function_addressed": [
     "protect from fungi",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::fungi",
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/fungal-gardens-kept-free-of-weeds/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fungal",
     "gardens",
@@ -20,7 +22,5 @@
     "free",
     "weeds"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

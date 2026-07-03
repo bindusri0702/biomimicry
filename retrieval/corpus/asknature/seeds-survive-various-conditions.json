@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-seeds-survive-various-conditions",
   "organism_common": "Mangroves",
-  "organism_scientific": "",
   "strategy_summary": "Some species of mangrove seedlings enhance their chances of survival due to several characteristics: sharp spikes stick in the ground, photosynthesizing stem, and adaptations for both salty and fresh water. “The aerial prop roots give adult trees considerable stability.",
   "mechanism": "Some species of mangrove seedlings enhance their chances of survival due to several characteristics: sharp spikes stick in the ground, photosynthesizing stem, and adaptations for both salty and fresh water.\n\n“The aerial prop roots give adult trees considerable stability. But seedlings have more difficulty in getting a hold on the capriciously moving surface of the mud. Some species of mangrove, however, manage to plant their offspring with as much firmness as a gardener armed with a dibble. The seeds germinate while they are still attached to their parent. A long green spike develops that hangs vertically downwards. In some species it may measure as much as two feet. Eventually, it falls. If the tide is out, it may stab straight into the soft mud. Tiny rootlets then grow out from its flanks with great speed and within hours the young seedling may have established itself firmly enough to resist the swill of the returning tide…If the tide happens to be in when the seedling falls, then instead of rooting immediately, it travels. That may be riskier, for it may be swept out to sea and lost altogether. But potentially it is more beneficial for the species as a whole, for the youngster is taken away from its natal swamp where it would be competing with its parent and ferried to territory that may not yet have been colonised by mangroves. At first, it hangs vertically in the brackish water. But if it is carried beyond the estuary then the water becomes saltier and more buoyant so that the seedling begins to float horizontally. That may save its life. If the tender terminal bud, from which leaves will spring in due course, were exposed, unshaded in the tropical sun, it could easily over-heat, even scorch. Floating horizontally, however, it is continually lapped by water and kept cool. The flank of the long root benefits from being exposed along its length for it is green with chlorophyll and is able to photosynthesize. The food it manufactures keeps the whole root alive and growing and it can survive floating at sea for months. If eventually the capricious tides do carry it to another brackish estuary, then the buoyancy of the water is reduced and the young mangrove once again hangs vertically, ready to catch on the bottom of shallows which might be a suitable place to grow.” (Attenborough 1995:298-301)",
   "function_addressed": [
@@ -9,18 +8,21 @@
     "protect from temperature",
     "disperse seeds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-liquids",
+    "protect-from-non-living-threats::temperature",
+    "provide-ecosystem-services::disperse-seeds"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/seeds-survive-various-conditions/",
-  "source_tier": "science_journalism",
   "keywords": [
     "seeds",
     "survive",
     "various",
     "conditions"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

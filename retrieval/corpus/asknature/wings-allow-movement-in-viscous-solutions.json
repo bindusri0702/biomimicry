@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-wings-allow-movement-in-viscous-solutions",
   "organism_common": "Fairy flies",
-  "organism_scientific": "",
   "strategy_summary": "Wings of fairy flies allow them to move in relatively viscous solutions by being feathery rather than solid structures. “It’s a whole solar-powered flotilla, majestic in the soaring hot air currents…And there are breast-stroke straining fairy flies–creatures so small that ordinary garden air is as thick as water to…",
   "mechanism": "Wings of fairy flies allow them to move in relatively viscous solutions by being feathery rather than solid structures.\n\n“It’s a whole solar-powered flotilla, majestic in the soaring hot air currents…And there are breast-stroke straining fairy flies–creatures so small that ordinary garden air is as thick as water to them, and they maneuver in the up-blast not with wings, but with sticking-out feathery oars.” (Bodanis 1992: 119)\n\nBodanis, D. 1992. The secret garden. New York (NY): Simon & Schuster. 187 p.",
   "function_addressed": [
     "move in/on liquids",
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids",
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/wings-allow-movement-in-viscous-solutions/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wings",
     "allow",
@@ -20,7 +22,5 @@
     "viscous",
     "solutions"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

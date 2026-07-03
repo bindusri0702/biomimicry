@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-filaments-adopt-geometric-symmetry",
   "organism_common": "Mammals",
-  "organism_scientific": "",
   "strategy_summary": "The formation and dynamics of the keratin intermediate filaments in mammalian stratum corneum may be the result of membrane templating. “Keratin is tough, adaptable, flexible, resistant to water, and provides a good protective covering for the rest of the body.",
-  "mechanism": "The formation and dynamics of the keratin intermediate filaments in mammalian stratum corneum may be the result of membrane templating.\n\n“Keratin is tough, adaptable, flexible, resistant to water, and provides a good protective covering for the rest of the body. These qualities also make it an ideal material for the moulding of claws, nails and hooves…” (Foy and Oxford Scientific Films 1982)\n\n“A new model for stratum corneum keratin structure, function, and formation is presented. The structural and functional part of the model, which hereafter is referred to as ‘the cubic rod-packing model’, postulates that stratum corneum keratin intermediate filaments are arranged according to a cubic-like rod-packing symmetry with or without the presence of an intracellular lipid membrane with cubic-like symmetry enveloping each individual filament. The new model could account for (i) the cryo-electron density pattern of the native corneocyte keratin matrix, (ii) the X-ray diffraction patterns, (iii) the swelling behavior, and (iv) the mechanical properties of mammalian stratum corneum. The morphogenetic part of the model, which hereafter is referred to as ‘the membrane templating model’, postulates the presence in cellular space of a highly dynamic small lattice parameter (<30 nm) membrane structure with cubic-like symmetry, to which keratin is associated. It further proposes that membrane templating, rather than spontaneous self-assembly, is responsible for keratin intermediate filament formation and dynamics. The new model could account for (i) the cryo-electron density patterns of the native keratinocyte cytoplasmic space, (ii) the characteristic features of the keratin network formation process, (iii) the dynamic properties of keratin intermediate filaments, (iv) the close lipid association of keratin, (v) the insolubility in non-denaturating buffers and pronounced polymorphism of keratin assembled in vitro , and (vi) the measured reduction in cell volume and hydration level between the stratum granulosum and stratum corneum. Further, using cryo-transmission electron microscopy on native, fully hydrated, vitreous epidermis we show that the subfilametous [sic] keratin electron density pattern consists, both in corneocytes and in viable keratinocytes, of one axial subfilament surrounded by an undetermined number of peripheral subfilaments forming filaments with a diameter of ~8 nm.” (Norlén and Al-Amoudi 2004:715)",
+  "mechanism": "The formation and dynamics of the keratin intermediate filaments in mammalian stratum corneum may be the result of membrane templating.\n\n“Keratin is tough, adaptable, flexible, resistant to water, and provides a good protective covering for the rest of the body. These qualities also make it an ideal material for the moulding of claws, nails and hooves…” (Foy and Oxford Scientific Films 1982)\n\n“A new model for stratum corneum keratin structure, function, and formation is presented. The structural and functional part of the model, which hereafter is referred to as ‘the cubic rod-packing model’, postulates that stratum corneum keratin intermediate filaments are arranged according to a cubic-like rod-packing symmetry with or without the presence of an intracellular lipid membrane with cubic-like symmetry enveloping each individual filament. The new model could account for (i) the cryo-electron density pattern of the native corneocyte keratin matrix, (ii) the X-ray diffraction patterns, (iii) the swelling behavior, and (iv) the mechanical properties of mammalian stratum corneum. The morphogenetic part of the model, which hereafter is referred to as ‘the membrane templating model’, postulates the presence in cellular space of a highly dynamic small lattice parameter (<30 nm) membrane structure with cubic-like symmetry, to which keratin is associated. It further proposes that membrane templating, rather than spontaneous self-assembly, is responsible for keratin intermediate filament formation and dynamics. The new model could account for (i) the cryo-electron density patterns of the native keratinocyte cytoplasmic space, (ii) the characteristic features of the keratin network formation process, (iii) the dynamic properties of keratin intermediate filaments, (iv) the close lipid association of keratin, (v) the insolubility in non-denaturating buffers and pronounced polymorphism of keratin assembled in vitro, and (vi) the measured reduction in cell volume and hydration level between the stratum granulosum and stratum corneum. Further, using cryo-transmission electron microscopy on native, fully hydrated, vitreous epidermis we show that the subfilametous [sic] keratin electron density pattern consists, both in corneocytes and in viable keratinocytes, of one axial subfilament surrounded by an undetermined number of peripheral subfilaments forming filaments with a diameter of ~8 nm.” (Norlén and Al-Amoudi 2004:715)",
   "function_addressed": [
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/filaments-adopt-geometric-symmetry/",
-  "source_tier": "science_journalism",
   "keywords": [
     "filaments",
     "adopt",
     "geometric",
     "symmetry"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-bark-resists-fire",
   "organism_common": "Protect From Fire",
-  "organism_scientific": "",
   "strategy_summary": "In many parts of the world, fire is a regular and necessary part of the landscape. In these areas, plants have evolved a variety of strategies to survive the flames.",
-  "mechanism": "One such strategy is exhibited by the bark of the ordeal tree. This tree’s bark is resistant to fire due to its thickness, as well as its ability to quickly rebuild itself after a fire. The thick bark of the ordeal tree helps to protect the tree’s inner layers from the heat of the fire. In addition, the tree’s rapid growth rate allows it to quickly replace any parts of the bark that are lost in a fire.\n\nThe ability of the bark of the ordeal tree to resist fire could be useful in a variety of applications. For example, this strategy could be used to develop fire-resistant materials for use in construction or firefighting. In addition, the ability of the tree to quickly rebuild itself after a fire could be used to develop methods for quickly and efficiently repairing damage caused by fires.",
+  "mechanism": "One such strategy is exhibited by the bark of the ordeal tree. This tree’s bark is resistant to fire due to its thickness, as well as its ability to quickly rebuild itself after a fire. The thick bark of the ordeal tree helps to protect the tree’s inner layers from the heat of the fire. In addition, the tree’s rapid growth rate allows it to quickly replace any parts of the bark that are lost in a fire.\n\nThe ability of the bark of the ordeal tree to resist fire could be useful in a variety of applications. For example, this strategy could be used to develop fire-resistant materials for use in construction or firefighting. In addition, the ability of the tree to quickly rebuild itself after a fire could be used to develop methods for quickly and efficiently repairing damage caused by fires.\n\n“Bark properties (mainly thickness) are usually presented as the main explanation for tree survival in intense fires. Savanna fires are mild, frequent, and supposed to affect tree recruitment rather than adult survival: trunk profile and growth rate of young trees between two successive fires can also affect survival. These factors and fire severity were measured on a sample of 20 trees near the recruitment stage of two savanna species chosen for their contrasted fire resistance strategies ( Crossopteryx febrifuga and Piliostigma thonningii ). Crossopteryx has a higher intrinsic resistance to fire (bark properties) than Piliostigma : a 20-mm-diameter stem of Crossopteryx survives exposure to 650°C, while Piliostigma needs a diameter of at least 40 mm to survive. Crossopteryx has a thicker trunk than Piliostigma : for two trees of the same height, the basal diameter of Crossopteryx will be 1.6 times greater. Piliostigma grows 2.26 times faster than Crossopteryx between two successive fires. The two species have different fire resistance strategies: one relies on resistance of aboveground structures to fire [ Crossopteryx ], while the other [ Piliostigma ] relies on its ability to quickly re-build aboveground structures.” (Gignoux et al. 1997:576)",
   "function_addressed": [
     "protect from fire"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::fire"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/bark-resists-fire/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bark",
     "resists",
     "fire"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

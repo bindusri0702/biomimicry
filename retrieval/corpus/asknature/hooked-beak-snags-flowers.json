@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-hooked-beak-snags-flowers",
   "organism_common": "Chestnut-bellied flowerpiercer",
-  "organism_scientific": "",
   "strategy_summary": "The beak of the flowerpiercer bird is used to snag and steady nectar-filled flowers with a hook on the top half of the beak. “It is called, accurately enough, a flower-piercer.",
   "mechanism": "The beak of the flowerpiercer bird is used to snag and steady nectar-filled flowers with a hook on the top half of the beak.\n\n“It is called, accurately enough, a flower-piercer. The upper half of its beak is notched along its edge and hooked at the end. The lower half is rather shorter and very sharply pointed. The bird lands on or beside a tubular flower and snags it with its hook. Holding the flower steady in this way, it then stabs it with the lower part of its beak and flicks its tongue inside to steal the honey.” (Attenborough 1995:119)",
   "function_addressed": [
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/hooked-beak-snags-flowers/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hooked",
     "beak",
     "snags",
     "flowers"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

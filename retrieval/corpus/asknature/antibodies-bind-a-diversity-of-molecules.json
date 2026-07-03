@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-antibodies-bind-a-diversity-of-molecules",
   "organism_common": "Vertebrates (Mammals, Fish, Birds, Reptiles)",
-  "organism_scientific": "",
   "strategy_summary": "The vertebrate immune system is a highly coordinated system of interacting molecules, tissues, and processes that defend an organism against disease and infection. When a foreign pathogen invades the body, one of the immune system’s responses is to produce antibodies.",
-  "mechanism": "The surface molecules that antibodies bind to on pathogens are called antigens, and binding between antibody and antigen is highly specific. A given antibody can fit with and bind only one or a few different antigens. Each antibody is a Y-shaped molecule with two binding sites, one on each tip of the Y’s upper arms. While the majority of the molecule is similar among different antibodies, the binding sites at the tips are highly variable. Different numbers and combinations of protein building blocks (amino acids) result in different protein folding patterns at the binding site. How the proteins are folded determines the specific 3D shape and chemical characteristics at the antibody’s binding site. This binding site attaches to antigens like a lock fits a key. Many weak bonds between the binding site and the antigen enable the antibody to attach tightly.",
+  "mechanism": "The surface molecules that antibodies bind to on pathogens are called antigens, and binding between antibody and antigen is highly specific. A given antibody can fit with and bind only one or a few different antigens. Each antibody is a Y-shaped molecule with two binding sites, one on each tip of the Y’s upper arms. While the majority of the molecule is similar among different antibodies, the binding sites at the tips are highly variable. Different numbers and combinations of protein building blocks (amino acids) result in different protein folding patterns at the binding site. How the proteins are folded determines the specific 3D shape and chemical characteristics at the antibody’s binding site. This binding site attaches to antigens like a lock fits a key. Many weak bonds between the binding site and the antigen enable the antibody to attach tightly.\n\nBy keeping the basic structure of the antibody consistent and only altering the binding site in response to different antigens, the immune system can produce a myriad of antibodies to combat diverse pathogens. Furthermore, antibodies can form complexes, where their multiple binding sites attach to and bring together many antigen-bearing pathogens. This helps to localize an infection and makes it easier for other parts of the immune system to respond.",
   "function_addressed": [
     "attach temporarily",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/antibodies-bind-a-diversity-of-molecules/",
-  "source_tier": "science_journalism",
   "keywords": [
     "antibodies",
     "bind",
     "diversity",
     "molecules"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

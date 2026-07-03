@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-glass-skeleton-is-tough-yet-flexible",
   "organism_common": "Venus's flower-basket",
-  "organism_scientific": "",
   "strategy_summary": "Venus’s flower-basket ( Euplectella aspergillum ) is a marine animal that lives anchored to the deep ocean floor near the Philippines. Looking more like delicate sculptures than animals, these tube-shaped sea sponges typically stand 10 to 30 cm tall and filter tiny food particles from the seawater as it flows through…",
-  "mechanism": "The sponge’s glass skeleton is made up of spicules, tubule structures of concentric layers of amorphous hydrated silica separated by thin organic layers, like a Parisian pastry with just a tease of sweet cream between flaky crusts. But these thin organic layers go a long way to impart the spicules with considerable toughness. Even the pair of symbiotic shrimp that live their lives trapped within each Venus’s woven glass basket can’t break out. Unlike biomineralization in other organisms such as the abalone, the mineral portion does not appear to have a regular crystalline pattern. Experiments suggests that the silica layers are made up of colloidal spheres of silica about 50 to 200 nm in diameter, which are in turn made up of smaller spheres about 2.8 nanometer s in diameter. By comparison, the smallest sand grains on a beach (also usually silica) are about 60 nm in diameter.\n\nEach spicule consists of alternating layers of inorganic silica and organic compounds, all around a central protein filament. The inorganic layers are made from hydrated silica nanoparticles and are relatively stiff. The organic layers, however, appear to be weaker and able to absorb energy. This laminated organization of alternating stiff and weak layers can prevent cracks at the surface of a spicule from spreading deep into the core.\n\nWhen we think of engineered supports, we often think of giant columns that bolster skyscrapers or huge cables that suspend bridges. By looking at the glass sponge, we can imagine materials manufactured with layered internal structures that make them inherently robust but flexible. Such materials could become light-weight implants to replace joints or bones. If applied to transportation, similar materials could provide safety and strength while minimizing weight and therefore fuel consumption.",
+  "mechanism": "The sponge’s glass skeleton is made up of spicules, tubule structures of concentric layers of amorphous hydrated silica separated by thin organic layers, like a Parisian pastry with just a tease of sweet cream between flaky crusts. But these thin organic layers go a long way to impart the spicules with considerable toughness. Even the pair of symbiotic shrimp that live their lives trapped within each Venus’s woven glass basket can’t break out. Unlike biomineralization in other organisms such as the abalone, the mineral portion does not appear to have a regular crystalline pattern. Experiments suggests that the silica layers are made up of colloidal spheres of silica about 50 to 200 nm in diameter, which are in turn made up of smaller spheres about 2.8 nanometer s in diameter. By comparison, the smallest sand grains on a beach (also usually silica) are about 60 nm in diameter.\n\nEach spicule consists of alternating layers of inorganic silica and organic compounds, all around a central protein filament. The inorganic layers are made from hydrated silica nanoparticles and are relatively stiff. The organic layers, however, appear to be weaker and able to absorb energy. This laminated organization of alternating stiff and weak layers can prevent cracks at the surface of a spicule from spreading deep into the core.\n\nAt a higher level of organization, spicules are arranged into a square lattice rolled up into a tube. This is the main shape of the glass sponge. Two separate but overlapping lattices make up the main frame, and because these lattices can still move relative to one another, the skeleton can be flexible while it’s growing. The squares of the lattice are reinforced by struts that run vertically, horizontally, and diagonally. These struts are made of bundles of spicules and further support the lattices against bending, sliding, and twisting forces. Helical ridges made of spicules form on the surface of the tube-shaped structure and spiral around in opposite directions. These ridges also help the skeleton resist crushing or twisting forces.\n\nA cap at the top of the cylinder keeps it from collapsing, while a flexible bundle of anchor spicules keep the whole skeleton attached to the ocean floor and able to withstand forces coming from the side. Finally, a silica matrix with small spicules embedded throughout cements the whole structure together and further increases strength.\n\nEach hierarchical level of organization in the Venus’s flower-basket’s skeleton contributes to its overall mechanical performance. The result is a complex structure that’s tough and stable even though its main ingredient is a naturally fragile material.\n\nWhen we think of engineered supports, we often think of giant columns that bolster skyscrapers or huge cables that suspend bridges. By looking at the glass sponge, we can imagine materials manufactured with layered internal structures that make them inherently robust but flexible. Such materials could become light-weight implants to replace joints or bones. If applied to transportation, similar materials could provide safety and strength while minimizing weight and therefore fuel consumption.",
   "function_addressed": [
     "prevent fracture/rupture",
     "prevent buckling",
@@ -11,11 +10,18 @@
     "manage compression",
     "manage tension"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::shear",
+    "manage-structural-forces::tension",
+    "prevent-structural-failure::buckling",
+    "prevent-structural-failure::fracture-rupture"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/glass-skeleton-is-tough-yet-flexible/",
-  "source_tier": "science_journalism",
   "keywords": [
     "glass",
     "skeleton",
@@ -23,7 +29,5 @@
     "yet",
     "flexible"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

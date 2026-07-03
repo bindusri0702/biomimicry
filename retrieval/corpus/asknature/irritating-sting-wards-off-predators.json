@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-irritating-sting-wards-off-predators",
   "organism_common": "Slender wild nettle",
-  "organism_scientific": "",
   "strategy_summary": "Nettles ward off predators via stinging hairs. Normal and stinging hairs of a Urtica dioica  Netlle leaves  “Other plants defend themselves even more aggressively.",
   "mechanism": "Nettles ward off predators via stinging hairs.\n\nNormal and stinging hairs of a Urtica dioica\n\nNetlle leaves\n\n“Other plants defend themselves even more aggressively. They sting. The nettle’s sting is a modified hair. Its tip is a minute glassy needle which if given even the slightest touch, breaks off. The broken edges are so sharp that they can cut skin. At the same time a poison held in a small chamber at the bottom of the hair squirts into the wound. The poison [formic acid] causes us considerable pain.” (Attenborough 1995:64-65)",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/irritating-sting-wards-off-predators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "irritating",
     "sting",
@@ -19,7 +20,5 @@
     "off",
     "predators"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

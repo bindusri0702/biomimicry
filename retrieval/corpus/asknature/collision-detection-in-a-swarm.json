@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-collision-detection-in-a-swarm",
   "organism_common": "Migratory locust",
-  "organism_scientific": "",
   "strategy_summary": "The neuron lobula giant movement detector (LGMD) of the locust protects the locust from collison by filtering out excess stimuli. Locusts migrate in swarms containing thousands of individuals.",
-  "mechanism": "The neuron lobula giant movement detector (LGMD) of the locust protects the locust from collison by filtering out excess stimuli.\n\nLocusts migrate in swarms containing thousands of individuals. Despite swarm size, collision rates between locusts are generally low. The process of detecting movement is ubiquitous amongst most animals. Movements are converted into electrical signals by the eye, sent through a chain of neurons, and read by the brain. If a locust, however, detected each of the thousands of its cohorts, its brain would be over-stimulated. To remedy this, the locust has evolved to only recognize movements that will interfere with its flight path. Therefore, it only recognizes objects moving directly toward it, rather than things moving around it.\n\nHow do locusts do this? Locusts convert the movement of each object into a corresponding electrical voltage. An object coming straight toward a locust’s head has a higher voltage than an object moving parallel to it. As the locust flies, moving stimuli are converted into a voltage, and travel up the optic nerve until they hit a neuron called the lobula giant movement detector (LGMD).\n\nAt the end of the LGMD, stimuli must cross a neural synapse, connecting the LGMD to a neuron called the descending contralateral movement detector (DCMD). A synapse is like a river between two neurons, or “land-masses,” that the electrical signals need to jump across. Only certain signals are strong enough to jump across the river and make it to the brain. The LGMD-DCMD synapse is particularly wide (think Mississippi River) and stimuli must have exceptionally large voltages to jump across. In locusts, only stimuli caused by objects moving directly toward it have that voltage. All other stimuli are dismissed or sent to other areas of the brain.\n\nThis mechanism essentially eliminates visual “white noise,” allowing the locust to focus only on those objects that will interfere directly with its flight path.\n\nThis summary was contributed by Allie Miller.\n\nImage: Morgane Rae / Copyright © - All rights reserved toggle icon",
+  "mechanism": "The neuron lobula giant movement detector (LGMD) of the locust protects the locust from collison by filtering out excess stimuli.\n\nLocusts migrate in swarms containing thousands of individuals. Despite swarm size, collision rates between locusts are generally low. The process of detecting movement is ubiquitous amongst most animals. Movements are converted into electrical signals by the eye, sent through a chain of neurons, and read by the brain. If a locust, however, detected each of the thousands of its cohorts, its brain would be over-stimulated. To remedy this, the locust has evolved to only recognize movements that will interfere with its flight path. Therefore, it only recognizes objects moving directly toward it, rather than things moving around it.\n\nHow do locusts do this? Locusts convert the movement of each object into a corresponding electrical voltage. An object coming straight toward a locust’s head has a higher voltage than an object moving parallel to it. As the locust flies, moving stimuli are converted into a voltage, and travel up the optic nerve until they hit a neuron called the lobula giant movement detector (LGMD).\n\nAt the end of the LGMD, stimuli must cross a neural synapse, connecting the LGMD to a neuron called the descending contralateral movement detector (DCMD). A synapse is like a river between two neurons, or “land-masses,” that the electrical signals need to jump across. Only certain signals are strong enough to jump across the river and make it to the brain. The LGMD-DCMD synapse is particularly wide (think Mississippi River) and stimuli must have exceptionally large voltages to jump across. In locusts, only stimuli caused by objects moving directly toward it have that voltage. All other stimuli are dismissed or sent to other areas of the brain.\n\nThis mechanism essentially eliminates visual “white noise,” allowing the locust to focus only on those objects that will interfere directly with its flight path.",
   "function_addressed": [
     "navigate through air",
     "sense body awareness",
@@ -11,17 +10,24 @@
     "send electrical/magnetic signals",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "navigate::through-air",
+    "protect-from-living-threats::animals",
+    "send-signals::electrical-magnetic",
+    "sense-signals-environmental-cues::body-awareness",
+    "sense-signals-environmental-cues::motion"
+  ],
+  "subgroup_keys": [
+    "navigate",
+    "protect-from-living-threats",
+    "send-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/collision-detection-in-a-swarm/",
-  "source_tier": "science_journalism",
   "keywords": [
     "collision",
     "detection",
     "swarm"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-interwoven-trees-gain-structural-support",
   "organism_common": "Tropical trees",
-  "organism_scientific": "",
   "strategy_summary": "Trees gain support by growing together in an upward spiral. “In tropical jungles, with their great variety of species, we encounter a multitude of mechanical ideas for construction…We also find thin trunks joining into bundles, supporting each other and forming an upward winding spiral.",
   "mechanism": "Trees gain support by growing together in an upward spiral.\n\n“In tropical jungles, with their great variety of species, we encounter a multitude of mechanical ideas for construction…We also find thin trunks joining into bundles, supporting each other and forming an upward winding spiral. Obviously, the plants compete for the light at the top by sophisticated technical means.” (Tributsch 1984:29)",
   "function_addressed": [
     "manage compression",
     "cooperate/compete between different species"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::between-different-species",
+    "manage-structural-forces::compression"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/interwoven-trees-gain-structural-support/",
-  "source_tier": "science_journalism",
   "keywords": [
     "interwoven",
     "trees",
@@ -20,7 +23,5 @@
     "structural",
     "support"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-ribbon-like-roots-absorb-moisture",
   "organism_common": "Taeniophyllum orchid",
-  "organism_scientific": "",
-  "strategy_summary": "The roots of Taeniophyllum orchids absorb moisture efficiently via flat, ribbon-like shape. “One orchid, taeniophyllum , has roots that are even more versatile.",
-  "mechanism": "The roots of Taeniophyllum orchids absorb moisture efficiently via flat, ribbon-like shape.\n\n“One orchid, taeniophyllum , has roots that are even more versatile. Its scientific name means, rather unattractively, ‘tapeworm leaf.’ Its roots have not only developed into flat, tapeworm-like shapes several yards long that writhe statically all over the branch on which the plant sits, but they have also become green and manufacture the orchid’s food. The true leaves, no longer needed, have been reduced to tiny scales on the minute stem that carries the flowers.” (Attenborough 1995:166-168)",
+  "strategy_summary": "The roots of Taeniophyllum orchids absorb moisture efficiently via flat, ribbon-like shape. “One orchid, taeniophyllum, has roots that are even more versatile.",
+  "mechanism": "The roots of Taeniophyllum orchids absorb moisture efficiently via flat, ribbon-like shape.\n\n“One orchid, taeniophyllum, has roots that are even more versatile. Its scientific name means, rather unattractively, ‘tapeworm leaf.’ Its roots have not only developed into flat, tapeworm-like shapes several yards long that writhe statically all over the branch on which the plant sits, but they have also become green and manufacture the orchid’s food. The true leaves, no longer needed, have been reduced to tiny scales on the minute stem that carries the flowers.” (Attenborough 1995:166-168)",
   "function_addressed": [
     "capture, absorb, or filter liquids",
     "capture, absorb, or filter energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "capture-absorb-or-filter::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/ribbon-like-roots-absorb-moisture/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ribbon-like",
     "roots",
     "absorb",
     "moisture"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

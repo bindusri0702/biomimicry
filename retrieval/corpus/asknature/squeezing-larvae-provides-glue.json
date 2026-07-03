@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-squeezing-larvae-provides-glue",
   "organism_common": "Weaver ant",
-  "organism_scientific": "",
   "strategy_summary": "Weaver ants glue their nests together using silk squeezed from their larvae. “Another insect tool user is the weaver ant ( Oecophylla smaragdina ), which makes nests by rolling up leaves and then gluing the sides together with silk.",
   "mechanism": "Weaver ants glue their nests together using silk squeezed from their larvae.\n\n“Another insect tool user is the weaver ant ( Oecophylla smaragdina ), which makes nests by rolling up leaves and then gluing the sides together with silk. Although it is the adult ants that do this, only the larvae produce silk, so how is the process of leaf gluing achieved? In fact, the adults carry larvae in their jaws and squeeze them gently so that the larvae secrete a drop of silk on one end of the leaf edges. The ants then carry the larvae along the entire length of the leaf edges, squeezing as they go, using the larvae like living bottles of glue, until the edges of the leaves are stuck together from end to end.” (Shuker 2001:191)",
   "function_addressed": [
     "attach permanently"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/squeezing-larvae-provides-glue/",
-  "source_tier": "science_journalism",
   "keywords": [
     "squeezing",
     "larvae",
     "provides",
     "glue"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

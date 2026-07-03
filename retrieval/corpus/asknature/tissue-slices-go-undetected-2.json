@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-tissue-slices-go-undetected-2",
   "organism_common": "White-winged vampire bat",
-  "organism_scientific": "",
   "strategy_summary": "The teeth of vampire bats cut into flesh painlessly because they are razor-sharp. “It sinks its razor-sharp teeth into the skin, scoops out a sliver of flesh, and inserts its tongue into the wound…The bite causes little pain, and the animal rarely awakens.” (Crump 2005:68)",
   "mechanism": "The teeth of vampire bats cut into flesh painlessly because they are razor-sharp.\n\n“It sinks its razor-sharp teeth into the skin, scoops out a sliver of flesh, and inserts its tongue into the wound…The bite causes little pain, and the animal rarely awakens.” (Crump 2005:68)",
   "function_addressed": [
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/tissue-slices-go-undetected-2/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tissue",
     "slices",
     "undetected"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-proteins-transmit-force",
   "organism_common": "Vertebrates (Mammals, Fish, Birds, Reptiles)",
-  "organism_scientific": "",
   "strategy_summary": "Muscle proteins in vertebrates ensure efficient force transmission because they occur along the length of muscle fibers  Muscles are how we, and almost all animals, move. As animals cannot get energy from the sun, movement is crucial for finding food, as well as for reproducing: without muscles, we cannot survive.",
   "mechanism": "Muscle proteins in vertebrates ensure efficient force transmission because they occur along the length of muscle fibers\n\nMuscles are how we, and almost all animals, move. As animals cannot get energy from the sun, movement is crucial for finding food, as well as for reproducing: without muscles, we cannot survive.\n\nMuscles are complex tissues. Muscle cells are packed full of tiny cylinders of specialized contractile proteins. These cylinders, called sarcomeres, are arranged end to end into myofibrils. Muscle cells, or myofibers, contain many myofibrils. Inside a single muscle, there are multiple hierarchical levels of bundling: myofibrils are bundled into myofibers, then multiple myofibers are bundled into fascicles and then several fascicles are bundled together to form whole muscles. At each hierarchical level, each bundle is covered with a layer of connective tissue that supports the fibers inside it by supplying energy and oxygen via blood vessels and control via nerves.\n\nMuscle contraction occurs at the level of the individual sarcomeres. Although each tiny cylinder only contracts by a minuscule amount, once that contraction is repeated down the entire length of the myofibril and across every fibril, myofiber and fascicle all at once, muscles are able to contract by large amounts and generate relatively huge movements.\n\nIn order to transmit large movements to the skeleton, muscles must be attached to bones. In vertebrates, this attachment is via tendons. Muscles are capable of generating very large forces. For example, in humans, the masseter, or jaw muscle, is capable of generating a force of over 170 lbs at the molars. Remarkably, this force is transmitted entirely via vast numbers of weak non-covalent bonds between proteins that connect the sarcomeres inside muscle cells to the connective tissue outside.\n\nThere are a large number of proteins that are crucial for force transmission in muscles. Two of the most important are laminins, which are found in the connective tissue that coats each hierarchical bundle, and integrins, which are membrane-spanning proteins that connect indirectly to the sarcomeres themselves and transmit the force through the cell membrane to the laminins outside. These proteins are found along the length of all the muscle fibers as well as at the junction between the muscle and the tendon (the myotendinous junction). The spread of these force-transmitting proteins along the length of the myofibers ensures that, when sarcomeres contract, the force is spread evenly. In this way, the force at the myotendinous junction is transferred extremely efficiently.\n\n© Blausen.com staff (2014). \"Medical gallery of Blausen Medical 2014\". WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436. All rights reserved.",
   "function_addressed": [
@@ -11,17 +10,24 @@
     "attach permanently",
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently",
+    "manage-structural-forces::shear",
+    "manage-structural-forces::tension",
+    "move::in-through-gases",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "manage-structural-forces",
+    "move",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/proteins-transmit-force/",
-  "source_tier": "science_journalism",
   "keywords": [
     "proteins",
     "transmit",
     "force"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

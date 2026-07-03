@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-wood-reacts-to-bending",
   "organism_common": "Balsam poplar",
-  "organism_scientific": "",
   "strategy_summary": "Tension wood of poplars reacts to bending stresses via a specialized gelatinous wall layer. “Conifers and angiosperms evolved different strategies to achieve the bending of the stem with secondary growth.",
   "mechanism": "Tension wood of poplars reacts to bending stresses via a specialized gelatinous wall layer.\n\n“Conifers and angiosperms evolved different strategies to achieve the bending of the stem with secondary growth. Both these strategies involve the formation of the reaction wood asymmetrically on one side of the stem. Conifers produce the compression wood (CW) on the side of the stem that needs to elongate more compared with the opposite side, while angiosperms produce the tension wood (TW) on the side of the stem that needs to shrink relative to the other side. In a typical TW, a specialized gelatinous (G) wall layer is formed during the final stage of fiber differentiation, partially replacing S3-, S2- and, in some species, also S1-layers. Many properties of TW and CW differ from normal wood (NW) in opposite ways. While the typical TW is less lignified, and has more longitudinally oriented cellulose microfibrils, higher cellulose crystallinity and higher cellulose content, the CW contains more lignin and has a flatter microfibril angle, less crystalline cellulose and lower cellulose content than NW (reviewed in Timmel 1986, Pilate et al. 2004). It is thought that the structural differences between the reaction wood and the wood on the opposite side (so-called opposite wood, OW) induce different residual growth stresses of both sides of the stem, resulting in a bending moment (Fournier et al. 1994, Bamber 2001, Almeras et al. 2005, Clair et al. 2006a).” (Nishikubo et al. 2007:843)\n\nNishikubo N, Awano T, Banasiak A, Bourquin V, Ibatullin F, Funada R, Brumer H, Teeri TT, Hayashi T, Sundberg B and others. Xyloglucan endo-transglycosylase (XET) functions in gelatinous layers of tension wood fibers in poplar – A glimpse into the mechanis",
   "function_addressed": [
     "modify position"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::position"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/wood-reacts-to-bending/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wood",
     "reacts",
     "bending"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

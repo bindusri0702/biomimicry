@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-saucer-like-structure-aids-spore-dispersal",
   "organism_common": "Bird's nest fungus",
-  "organism_scientific": "",
   "strategy_summary": "In an enchanting forest landscape, amidst the leaf litter and moss, bird’s nest fungus flourishes. Members of this unique fungus family, true to their name, form structures resembling miniature bird’s nests filled with small, spored-filled capsules, or peridioles, that resemble eggs.",
-  "mechanism": "Within each cup, the peridioles are tethered to the nest by a thin filament called a funiculus. As the peridiole is launched into the air, the funiculus unravels, trailing behind until it breaks and the peridiole is free to land amongst the surrounding vegetation or upon the forest floor. An adhesive surface on the trailing filament often catches a surrounding obstacle like a leaf or a stem, ideally positioning the peridiole for consumption and further dispersal by herbivores.\n\nHigh-speed video analysis reveals that the peridioles are most effectively ejected when raindrops strike the rim of the saucer-shaped fruiting body of the fungus, or the “basidiome”. When a raindrop hits the rim, it courses down into the cup and then splashes back up. The firm sides of the cup, angled around 60-70 degrees, direct the splash upward and outward with surprising force, snapping the peridioles from their tethers and ejecting them up to six feet away. Impressively, this process was shown to use less than 2% of the kinetic energy of the raindrop, making it a highly efficient transfer mechanism.\n\nThis strategy illustrates a masterful use of natural energy (in this case, the kinetic energy of raindrops) to achieve a necessary biological function. The bird’s nest fungus can passively disperse its spores while saving its limited energy for growth, defense, and other reproductive needs.\n\nRelying on a natural, renewable resource for passive seed dispersal, the bird’s nest fungus offers fascinating lessons for human innovation. For example, engineers could emulate the splash-cup mechanism to design seed dispersal systems for reforestation projects. By using the kinetic energy of falling raindrops, engineered systems could more efficiently disperse seeds over large areas, making them sustainable and cost-effective.\n\nOn a broader scale, this strategy reminds us of the potential of leveraging naturally renewable energy sources more efficiently in our technologies. Whether it’s using wind energy for turbines or designing coastal structures that utilize wave energy, the bird’s nest fungus inspires us to think creatively about minimizing our non-renewable energy consumption and pursuing more sustainable solutions.",
+  "mechanism": "Within each cup, the peridioles are tethered to the nest by a thin filament called a funiculus. As the peridiole is launched into the air, the funiculus unravels, trailing behind until it breaks and the peridiole is free to land amongst the surrounding vegetation or upon the forest floor. An adhesive surface on the trailing filament often catches a surrounding obstacle like a leaf or a stem, ideally positioning the peridiole for consumption and further dispersal by herbivores.\n\nHigh-speed video analysis reveals that the peridioles are most effectively ejected when raindrops strike the rim of the saucer-shaped fruiting body of the fungus, or the “basidiome”. When a raindrop hits the rim, it courses down into the cup and then splashes back up. The firm sides of the cup, angled around 60-70 degrees, direct the splash upward and outward with surprising force, snapping the peridioles from their tethers and ejecting them up to six feet away. Impressively, this process was shown to use less than 2% of the kinetic energy of the raindrop, making it a highly efficient transfer mechanism.\n\nThis strategy illustrates a masterful use of natural energy (in this case, the kinetic energy of raindrops) to achieve a necessary biological function. The bird’s nest fungus can passively disperse its spores while saving its limited energy for growth, defense, and other reproductive needs.\n\nLearn more in this feature from Deep Look.\n\nRelying on a natural, renewable resource for passive seed dispersal, the bird’s nest fungus offers fascinating lessons for human innovation. For example, engineers could emulate the splash-cup mechanism to design seed dispersal systems for reforestation projects. By using the kinetic energy of falling raindrops, engineered systems could more efficiently disperse seeds over large areas, making them sustainable and cost-effective.\n\nOn a broader scale, this strategy reminds us of the potential of leveraging naturally renewable energy sources more efficiently in our technologies. Whether it’s using wind energy for turbines or designing coastal structures that utilize wave energy, the bird’s nest fungus inspires us to think creatively about minimizing our non-renewable energy consumption and pursuing more sustainable solutions.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "distribute solids",
     "disperse seeds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::solids",
+    "provide-ecosystem-services::disperse-seeds"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/saucer-like-structure-aids-spore-dispersal/",
-  "source_tier": "science_journalism",
   "keywords": [
     "saucer-like",
     "structure",
@@ -20,7 +23,5 @@
     "spore",
     "dispersal"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

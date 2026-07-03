@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-digesting-wood-to-transform-it-into-energy-in-the-sea",
   "organism_common": "Shipworms",
-  "organism_scientific": "",
   "strategy_summary": "Despite their name, shipworms (family Teredinidae) are not worms at all; they are saltwater clams with very long, soft bodies. For centuries, they were the “termites of the sea,” notorious for riddling the wooden hulls of ships with holes.",
-  "mechanism": "The shipworm uses two tiny, specialized shells at the front of its body as grinding tools. These shells are covered in microscopic ridges that act like a file, rasping away at the wood to create a fine sawdust. This mechanical breakdown is the first step, preparing the wood for the complex chemistry that follows in the digestive tract.\n\nBecause the shipworm’s own gut doesn’t produce all the tools needed to break down cellulose, it relies on a partnership. It houses endosymbiotic bacteria—helpful microbes—in specialized cells within its gills. These bacteria produce cellulase enzymes, which travel from the gills to the gut to dissolve the wood fibers. This allows the shipworm to extract sugars from the wood while the bacteria provide the nitrogen the animal needs to build protein, creating a self-sufficient recycling system.\n\nThe shipworm’s gill-to-gut enzyme delivery system could inspire more efficient ways to produce biofuels. By mimicking how these bacteria break down woody biomass at ambient temperatures and in saltwater, we could develop industrial processes that turn agricultural waste into energy more sustainably, reducing our reliance on high-energy chemical treatments.",
+  "mechanism": "The shipworm uses two tiny, specialized shells at the front of its body as grinding tools. These shells are covered in microscopic ridges that act like a file, rasping away at the wood to create a fine sawdust. This mechanical breakdown is the first step, preparing the wood for the complex chemistry that follows in the digestive tract.\n\nBecause the shipworm’s own gut doesn’t produce all the tools needed to break down cellulose, it relies on a partnership. It houses endosymbiotic bacteria—helpful microbes—in specialized cells within its gills. These bacteria produce cellulase enzymes, which travel from the gills to the gut to dissolve the wood fibers. This allows the shipworm to extract sugars from the wood while the bacteria provide the nitrogen the animal needs to build protein, creating a self-sufficient recycling system.\n\nThe shipworm’s gill-to-gut enzyme delivery system could inspire more efficient ways to produce biofuels. By mimicking how these bacteria break down woody biomass at ambient temperatures and in saltwater, we could develop industrial processes that turn agricultural waste into energy more sustainably, reducing our reliance on high-energy chemical treatments.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "physically break down living materials",
     "chemically break down organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::organic-compounds",
+    "physically-break-down::living-materials"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down",
+    "physically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/digesting-wood-to-transform-it-into-energy-in-the-sea/",
-  "source_tier": "science_journalism",
   "keywords": [
     "digesting",
     "wood",
@@ -20,7 +23,5 @@
     "energy",
     "sea"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

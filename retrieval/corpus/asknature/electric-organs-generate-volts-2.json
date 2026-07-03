@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-electric-organs-generate-volts-2",
   "organism_common": "Pacific electric eel",
-  "organism_scientific": "",
   "strategy_summary": "The pectoral fin of rays can kill prey by generating a jolt of 200 volts from electric organs composed of parallel stacked columns of electroplaques. “A fish’s electric organs are composed of electroplaques–flattened cells stacked in vertical columns like piles of coins.",
   "mechanism": "The pectoral fin of rays can kill prey by generating a jolt of 200 volts from electric organs composed of parallel stacked columns of electroplaques.\n\n“A fish’s electric organs are composed of electroplaques–flattened cells stacked in vertical columns like piles of coins. Each electroplaque normally produces little more than 0.1 volt, but, since the individual cells are linked in series per column and the columns themselves are linked in parallel, the overall charge is greatly increased…The most potent marine species of electric fish is the torpedo, also known as the electric ray, the majority of which live in the Mediterranean and the subtropical Atlantic. Its power to generate electricity has been known since ancient Greek and Roman times and stems from a pair of large electric organs located in its big round pectoral fin, which is just behind each eye. Large torpedoes can generate a fish-killing jolt of up to 200 volts.” (Shuker 2001: 52-53)",
   "function_addressed": [
     "transform electrical energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "transform-convert-energy::electrical-energy"
+  ],
+  "subgroup_keys": [
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/electric-organs-generate-volts-2/",
-  "source_tier": "science_journalism",
   "keywords": [
     "electric",
     "organs",
     "generate",
     "volts"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

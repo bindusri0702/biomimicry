@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-threads-transfer-movement",
   "organism_common": "Jumping bean moth",
-  "organism_scientific": "",
   "strategy_summary": "The jumping bean moth caterpillar pulls on threads attached to the inside of its seed to 'jump' and move to shade when it gets too hot. Jumping beans showing \"trap door\" and two jumping bean moths (Cydia deshaisiana), with pupal casings  Jumping beans, each about 7 to 10 mm  Jumping bean showing \"trap door\" and pupal…",
   "mechanism": "The jumping bean moth caterpillar pulls on threads attached to the inside of its seed to 'jump' and move to shade when it gets too hot.\n\nJumping beans showing \"trap door\" and two jumping bean moths (Cydia deshaisiana), with pupal casings\n\nJumping beans, each about 7 to 10 mm\n\nJumping bean showing \"trap door\" and pupal casing\n\n“To perform its trick, the caterpillar first weaves a silken web against the seed wall. Then, by grasping this web with its forelegs and jerking violently, the caterpillar transfers the full force of its movement to the capsule. The sudden jolt startles any animal that tries to eat the seed. By jerking repeatedly, the caterpillar can even roll the seed into the shade to find shelter from the sun’s heat.” (Downer 2002:25)",
   "function_addressed": [
@@ -10,17 +9,23 @@
     "distribute energy",
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::energy",
+    "move::in-on-solids",
+    "protect-from-living-threats::animals",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "move",
+    "protect-from-living-threats",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/threads-transfer-movement/",
-  "source_tier": "science_journalism",
   "keywords": [
     "threads",
     "transfer",
     "movement"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

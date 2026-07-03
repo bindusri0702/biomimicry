@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-defense-mechanism-deters-predators",
   "organism_common": "Battersby's dwarf boa",
-  "organism_scientific": "",
   "strategy_summary": "Wood snakes deter predators by faking death and decomposition, secreting a noxious fluid and expelling blood from the eyes and mouth. “There are certain snakes in the world that autohemorrhage and none of them is more effective than the West Indian wood snakes ( Tropidophis spp.).",
   "mechanism": "Wood snakes deter predators by faking death and decomposition, secreting a noxious fluid and expelling blood from the eyes and mouth.\n\n“There are certain snakes in the world that autohemorrhage and none of them is more effective than the West Indian wood snakes ( Tropidophis spp.). Related to the great boa constrictors of Central and South America, these snakes perform a series of dramatic acts designed to ward off enemies and hungry predators.\n\n“First, they coil themselves up into a tight ball and secrete a truly foul-smelling fluid, which has an odor not dissimilar to that of rotting flesh. At the same time, they turn their eyes bright red by releasing blood into them, although they do not squirt it out in the way that the horned toad lizards do.\n\n“Instead, the wood snakes have devised an equally macabre finale to their performance. They increase the blood pressure within small capillaries just inside their mouth. The increasing pressure causes the capillaries to grow ever larger until they burst, sending bright scarlet rivulets of blood trickling down from the snake’s mouth. The alarming effect of this, coupled with the awful stench of the secreted fluid, suggests not only that the creature is dead and in the process of decomposing, but also that it is damaged in some way, or even diseased. As might well be expected, this highly unpleasant sight is normally enough to turn away even the most desperate of predators.” (Shuker 2001:130)",
   "function_addressed": [
@@ -10,18 +9,23 @@
     "send light signals in the visible spectrum",
     "send chemical signals (odor, taste, etc.)"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "expel::liquids",
+    "protect-from-living-threats::animals",
+    "send-signals::chemical-odor-taste-etc",
+    "send-signals::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "expel",
+    "protect-from-living-threats",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/defense-mechanism-deters-predators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "defense",
     "mechanism",
     "deters",
     "predators"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

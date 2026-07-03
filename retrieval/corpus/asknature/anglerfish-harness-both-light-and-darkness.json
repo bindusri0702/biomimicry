@@ -1,19 +1,23 @@
 {
   "doc_id": "asn-anglerfish-harness-both-light-and-darkness",
   "organism_common": "Anglerfish",
-  "organism_scientific": "",
   "strategy_summary": "Anglerfish are the Harry Potters of the deep sea: They have both a luminous wand and an invisibility cloak. They wield these weapons to eat and not be eaten in the dark depths.",
-  "mechanism": "In the vast, dark, open spaces of the ocean, bacteria, tiny zooplankton, shrimp and other crustaceans, jellies and other gelatinous animals, and many fish produce and emit their own light. They use this bioluminescence to attract mates, communicate with kin, or blend in with light flowing down from the surface. But every time a creature lights up, it risks being seen by predators.\n\nA female anglerfish works both ends of this paradox, using two remarkable adaptation s. Instead of expending energy to search for food, she coaxes food to unwittingly come to her.\n\nThe first adaptation is a long, movable spine sticking out of the top of her head. At the tip of the spine hangs a fleshy sac called an esca. Inside the esca, bioluminescent bacteria settle in to live. They emit light in blue wavelengths that aren’t absorbed by water. The bacteria gain a protected place to live. The anglerfish gets a glowing orb to attract prey. The spine is her fishing rod; the glowing esca is her bait.\n\nAn anglerfish dangles her spine just above her cavernous mouth to mimic the movements of smaller, glowing organisms. She keeps the rest of her body still and hovering. That’s when she makes use of the second key adaptation: her skin.\n\nScientists have taken a lesson from anglerfish, exploring ways to harness bioluminescent light. Applications range from glowing biochemical “tags” used in medicine and scientific research to new bioinspired lamps and the development of bioluminescent trees that could replace streetlights.\n\nResearchers are also investigating the properties of ultra-black skins to explore new ways to make light-absorbing materials for solar panels, telescopes, and camouflaging textiles.",
+  "mechanism": "In the vast, dark, open spaces of the ocean, bacteria, tiny zooplankton, shrimp and other crustaceans, jellies and other gelatinous animals, and many fish produce and emit their own light. They use this bioluminescence to attract mates, communicate with kin, or blend in with light flowing down from the surface. But every time a creature lights up, it risks being seen by predators.\n\nA female anglerfish works both ends of this paradox, using two remarkable adaptation s. Instead of expending energy to search for food, she coaxes food to unwittingly come to her.\n\nThe first adaptation is a long, movable spine sticking out of the top of her head. At the tip of the spine hangs a fleshy sac called an esca. Inside the esca, bioluminescent bacteria settle in to live. They emit light in blue wavelengths that aren’t absorbed by water. The bacteria gain a protected place to live. The anglerfish gets a glowing orb to attract prey. The spine is her fishing rod; the glowing esca is her bait.\n\nAn anglerfish dangles her spine just above her cavernous mouth to mimic the movements of smaller, glowing organisms. She keeps the rest of her body still and hovering. That’s when she makes use of the second key adaptation: her skin.\n\nMany anglerfish have ultra-black skin that absorbs nearly 100% of the light that hits it. They blend completely into the blackness surrounding them, rendering everything invisible but their luminous escas.\n\nThis capacity comes from structures within cells called melanosomes, which contain the same light-absorbing pigment as human skin: melanin. The outermost part of an anglerfish’s skin is lined with a continuous thin layer of large melanosomes that are densely packed in a way that leaves no unpigmented gaps. The melanosomes are also ideally shaped and positioned so that they scatter light sideways within the layer, increasing its time within the pathway of light-absorbing melanosomes. One species of anglerfish has skin that reflects a mere 0.04% of the light shined on it.\n\nTogether, the skin-and-esca system makes the anglerfish simultaneously seen and unseen. The esca glows like a solitary beacon, attracting prey. When victims draw near enough, the anglerfish engulfs them. The maw, encircled with inward-pointing stiletto teeth, is an inescapable cage.\n\nScientists have taken a lesson from anglerfish, exploring ways to harness bioluminescent light. Applications range from glowing biochemical “tags” used in medicine and scientific research to new bioinspired lamps and the development of bioluminescent trees that could replace streetlights.\n\nResearchers are also investigating the properties of ultra-black skins to explore new ways to make light-absorbing materials for solar panels, telescopes, and camouflaging textiles.",
   "function_addressed": [
     "modify light/color",
     "protect from animals",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "modify-physical-state",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/anglerfish-harness-both-light-and-darkness/",
-  "source_tier": "science_journalism",
   "keywords": [
     "anglerfish",
     "harness",
@@ -21,7 +25,5 @@
     "light",
     "darkness"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

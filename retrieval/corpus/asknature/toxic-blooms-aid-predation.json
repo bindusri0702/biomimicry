@@ -1,24 +1,21 @@
 {
   "doc_id": "asn-toxic-blooms-aid-predation",
   "organism_common": "Dinoflagellates",
-  "organism_scientific": "",
   "strategy_summary": "Toxic blooms produced by some dinoflagellates may aid predation by immobilizing their algal prey. “The toxins produced by some algal blooms may have evolved to give predatory algae an advantage when it comes to capturing their prey, researchers say …  “Single-celled algae called dinoflagellates are one of the…",
   "mechanism": "Toxic blooms produced by some dinoflagellates may aid predation by immobilizing their algal prey.\n\n“The toxins produced by some algal blooms may have evolved to give predatory algae an advantage when it comes to capturing their prey, researchers say …\n\n“Single-celled algae called dinoflagellates are one of the organisms responsible for harmful algal blooms that poison shellfish and leave fish floating belly-up. Because the toxins are energetically costly to make, biologists have long wondered whether they are more than just a way to defend algae from getting eaten or preventing competitors from moving in on their space. Although many dinoflagellates can survive through photosynthesis alone, some species are able to grow twice as fast by preying on other algae — and it is this feeding mechanism that is now thought to be aided by the production of toxins …\n\n“Toxic strains of K. veneficum immediately caused the prey to slow down by more than 50%, and nearly doubled the proportion of immobile algae in the water relative to non-toxic strains. After 5 hours, more than 90% of the prey were immobile … Notably, K. veneficum also slows down in the presence of prey, which may be a means of staying within the toxic cloud to aid predation.” (Borrell 2010)\n\nhttp://www.pnas.org/content/107/5/2082.abstract http://www.nature.com/news/2010/100111/full/news.2010.5.html?s=news_rss#B2",
   "function_addressed": [
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/toxic-blooms-aid-predation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "toxic",
     "blooms",
     "aid",
     "predation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

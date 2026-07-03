@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-eating-bark-to-induce-labor",
   "organism_common": "Elephants",
-  "organism_scientific": "",
   "strategy_summary": "Elephants may induce labor by eating the bark of the red seringa tree. “One of the most extraordinary recent case histories featuring what would seem to be a bona fide example of an animal herbalist concerned a pregnant female elephant in Kenya’s Tsavo Park.",
   "mechanism": "Elephants may induce labor by eating the bark of the red seringa tree.\n\n“One of the most extraordinary recent case histories featuring what would seem to be a bona fide example of an animal herbalist concerned a pregnant female elephant in Kenya’s Tsavo Park. After spending almost a year observing the unchanging daily feeding ritual of this particular animal, ecologist H. [Holly] T. Dublin was puzzled one day when the elephant wandered much farther afield than usual, not feeding until she came upon a small tree belonging to a species related to borage that she had never been seen by Dublin to include in her diet before. Watched by Dublin, the elephant almost entirely devoured the tree, until only its stump remained…Four days later, she gave birth to a healthy calf, and investigations by Dublin revealed that tea made from the leaves and bark of this particular species of tree seemed to induce uterine contractions, since it was often drunk by Kenyan women specifically to induce labor or abortion.” (Shuker 2001:218)",
   "function_addressed": [
     "regulate reproduction or growth"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/eating-bark-to-induce-labor/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eating",
     "bark",
     "induce",
     "labor"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

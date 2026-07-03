@@ -88,8 +88,15 @@ def define_metrics(defined_questions: list[dict], context: dict) -> dict:
 def biologize_metrics(hdn_questions: list[dict], mapped_functions: list[dict] | None = None) -> dict:
     """Biologize-stage metrics over the taxonomy-anchored HDN fan-out (3-axis verdicts)."""
     accepted = [h for h in hdn_questions if h.get("accepted")]
-    define_qids = {h.get("define_question_id") for h in hdn_questions}
-    covered = {h.get("define_question_id") for h in accepted}
+
+    # HDNs are deduped by taxonomy triple, so one HDN can serve several defined
+    # questions — flatten over define_question_ids (fall back to the singular id) so
+    # coverage counts every question a kept HDN serves, not just the primary.
+    def _dq_ids(h: dict) -> list:
+        return h.get("define_question_ids") or [h.get("define_question_id")]
+
+    define_qids = {qid for h in hdn_questions for qid in _dq_ids(h)}
+    covered = {qid for h in accepted for qid in _dq_ids(h)}
     approaches = [h.get("approach") for h in hdn_questions]
 
     return {
@@ -123,11 +130,16 @@ def discover_metrics(models: list[dict], hdn_questions: list[dict]) -> dict:
         rels = [m.get("relevance_score") or 0 for m in kept if hid in (m.get("hdn_ids") or [])]
         per_hdn[hid] = round(max(rels), 3) if rels else 0.0
 
+    rels = [m.get("functional_relevance") for m in models]
+    adeqs = [m.get("mechanistic_adequacy") for m in models]
     return {
         "kept_count": len(kept),
         "retrieved_count": len(models),
-        "function_fit_ratio": _proportion(kept, lambda m: m.get("function_fit")),
-        "environment_fit_ratio": _proportion(kept, lambda m: m.get("environment_fit")),
+        "keep_rate": _proportion(models, lambda m: m.get("keep")),
+        "functional_relevance_distribution": {
+            v: rels.count(v) for v in ("yes", "partial", "no")},
+        "mechanistic_adequacy_distribution": {
+            v: adeqs.count(v) for v in ("sufficient", "thin", "unusable")},
         "hdn_relevance": {
             "overall": _avg([m.get("relevance_score") for m in kept]),
             "per_hdn": per_hdn,
@@ -138,12 +150,20 @@ def discover_metrics(models: list[dict], hdn_questions: list[dict]) -> dict:
 
 # --- Abstract -----------------------------------------------------------------
 def abstract_metrics(abstractions: list[dict]) -> dict:
-    """Abstract-stage metrics over the fidelity-evaluator verdicts."""
+    """Abstract-stage metrics over the two-axis grader verdicts (completeness + faithfulness)."""
     sel = [a for a in abstractions if a.get("accepted")] or abstractions
+    comp = [a.get("completeness") for a in sel]
+    faith = [a.get("faithfulness") for a in sel]
     return {
-        "true_to_biology_ratio": _proportion(sel, lambda a: a.get("true_to_biology")),
-        "no_design_conclusion_ratio": _proportion(sel, lambda a: not a.get("concludes_design")),
-        "jargon_free_ratio": _proportion(sel, lambda a: not a.get("jargon_terms")),
+        "complete_ratio": _proportion(sel, lambda a: a.get("completeness") == "complete"),
+        "faithful_ratio": _proportion(sel, lambda a: a.get("faithfulness") == "faithful"),
+        "completeness_distribution": {
+            v: comp.count(v) for v in ("complete", "partial", "incomplete")},
+        "faithfulness_distribution": {
+            v: faith.count(v) for v in ("faithful", "minor_additions", "unfaithful")},
+        "biology_free_ratio": _proportion(sel, lambda a: not a.get("biology_residue_flag")),
+        "residue_escalation_count": sum(1 for a in sel if a.get("biology_escalate")),
+        "abstain_rate": _proportion(abstractions, lambda a: a.get("abstainable")),
         "accepted_count": len([a for a in abstractions if a.get("accepted")]),
         "total_count": len(abstractions),
     }

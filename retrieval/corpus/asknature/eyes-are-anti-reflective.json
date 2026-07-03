@@ -1,23 +1,24 @@
 {
   "doc_id": "asn-eyes-are-anti-reflective",
   "organism_common": "Moths",
-  "organism_scientific": "",
   "strategy_summary": "Eyes of nocturnal moths are anti-reflective due to nanoscale protrusions. Moths have unique sub-wavelength structures coating their eyes which dramatically minimize light reflection over a much broader range of wavelengths than conventional anti-reflective coatings.",
-  "mechanism": "Eyes of nocturnal moths are anti-reflective due to nanoscale protrusions.\n\nMoths have unique sub-wavelength structures coating their eyes which dramatically minimize light reflection over a much broader range of wavelengths than conventional anti-reflective coatings. The outer surfaces of moth corneal lenses are covered with a regular pattern of conical protuberances, generally 200-300 nm in height and spacing. These protuberances reduce light reflection by creating a refractive index gradient between the air-lens interface, more gradually transitioning the change in light speed between the air and eye. These unique structures maximize light capture for seeing in the dark. Moth-eye inspired antireflective coatings that demonstrate high-performance over large band widths at low fabrication cost have recently been developed for solar panels, with many other potential products applications.\n\nImage: Alan Jaras / toggle icon Image: Alan Jaras / toggle icon Image: Alan Jaras / toggle icon Image: Massel tow / toggle icon Image: Nigel Jones / toggle icon right arrow right arrow\n\nTokyo University of Science\n\nNano-film from Tokyo University of Science uses a thin layer of glassy carbon to reduce reflection and adhesion.\n\nFusion Bionic\n\nFusion Bionic uses laser interference patterns to efficiently produce micro and nano textures on a wide variety of materials.\n\nUniversity of Geneva\n\nNano-coating from the University of Geneva creates nanoscale surface bumps that help to reduce reflection and adhesion.\n\nNASA\n\nHAWC+ from NASA is a telescope camera with small protuberances on the surface that increase light capture.",
+  "mechanism": "Eyes of nocturnal moths are anti-reflective due to nanoscale protrusions.\n\nMoths have unique sub-wavelength structures coating their eyes which dramatically minimize light reflection over a much broader range of wavelengths than conventional anti-reflective coatings. The outer surfaces of moth corneal lenses are covered with a regular pattern of conical protuberances, generally 200-300 nm in height and spacing. These protuberances reduce light reflection by creating a refractive index gradient between the air-lens interface, more gradually transitioning the change in light speed between the air and eye. These unique structures maximize light capture for seeing in the dark. Moth-eye inspired antireflective coatings that demonstrate high-performance over large band widths at low fabrication cost have recently been developed for solar panels, with many other potential products applications.\n\nTokyo University of Science\n\nNano-film from Tokyo University of Science uses a thin layer of glassy carbon to reduce reflection and adhesion.\n\nFusion Bionic\n\nFusion Bionic uses laser interference patterns to efficiently produce micro and nano textures on a wide variety of materials.\n\nUniversity of Geneva\n\nNano-coating from the University of Geneva creates nanoscale surface bumps that help to reduce reflection and adhesion.\n\nNASA\n\nHAWC+ from NASA is a telescope camera with small protuberances on the surface that increase light capture.",
   "function_addressed": [
     "modify light/color",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/eyes-are-anti-reflective/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eyes",
     "anti-reflective"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

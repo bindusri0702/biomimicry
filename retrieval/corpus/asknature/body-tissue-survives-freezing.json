@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-body-tissue-survives-freezing",
   "organism_common": "Protect From Temperature",
-  "organism_scientific": "",
   "strategy_summary": "The body tissue of the red bat can tolerate being frozen. “The American red bat ( Lasiurus borealis ) can survive even if its body tissues freeze when the outside temperature falls as low as 23°F (-5°C).” (Shuker 2001:101)",
   "mechanism": "The body tissue of the red bat can tolerate being frozen.\n\n“The American red bat ( Lasiurus borealis ) can survive even if its body tissues freeze when the outside temperature falls as low as 23°F (-5°C).” (Shuker 2001:101)",
   "function_addressed": [
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/body-tissue-survives-freezing/",
-  "source_tier": "science_journalism",
   "keywords": [
     "body",
     "tissue",
     "survives",
     "freezing"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

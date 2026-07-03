@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-suction-used-to-attach-to-prey",
   "organism_common": "Lampreys",
-  "organism_scientific": "",
   "strategy_summary": "The jawless mouth of a lamprey attaches to prey using suction. “The lamprey uses a sucker-like jawless mouth to cling to the trout, and has a vicious abrasive tongue with which to gorge a hole in its host’s body.",
   "mechanism": "The jawless mouth of a lamprey attaches to prey using suction.\n\n“The lamprey uses a sucker-like jawless mouth to cling to the trout, and has a vicious abrasive tongue with which to gorge a hole in its host’s body. There it laps up the body fluids oozing from the wound.” (Foy and Oxford Scientific Films 1982:50)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
   "function_addressed": [
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/suction-used-to-attach-to-prey/",
-  "source_tier": "science_journalism",
   "keywords": [
     "suction",
     "used",
     "attach",
     "prey"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

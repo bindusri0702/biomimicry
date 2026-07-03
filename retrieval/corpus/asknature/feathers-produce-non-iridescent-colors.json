@@ -1,19 +1,24 @@
 {
   "doc_id": "asn-feathers-produce-non-iridescent-colors",
   "organism_common": "Eastern bluebird",
-  "organism_scientific": "",
   "strategy_summary": "Few colors in the animal world are so uniform and breathtaking as the vivid blue of the eastern bluebird ( Sialia sialius ). It’s hard to imagine that such a standout hue could be due not to the normal absorption of light that produces color, but to the shape of ultra-tiny, disordered structures within the barbs of…",
-  "mechanism": "Barbs are the individual comblike fronds that extend out from the stiff center of a feather and then stick together to form the vane. Looking extremely closely at the blue parts of bluebird feathers, scientists have discovered that the barbs are made of long strands of a protein called β-keratin tangled together, with air in between. The tangles scatter different wavelengths of incoming light evenly, creating a single color that looks the same from whichever angle it’s being viewed. This is different from iridescent light, which is produced when light is reflected unevenly in different directions. Iridescence causes the color to change depending on what direction an observer is looking at it from (think of feathers on a peacock or grackle).\n\nThis so-called “structural” approach to creating color through the configuration of molecules rather than through the use of pigments provides inspiration for the development of vivid, and more sustainable, fade-resistant paints. Lessons learned about how to direct the flow of light waves might also be used to improve solar photovoltaic cells and light technologies such as laser.\n\nBeyond that, a broader lesson comes in the form of how to think about solving problems. It just might be worth pondering broad chemical and physical principles—gravity, entropy, magnetic attraction, etc.—and consider how they might be helpful in achieving an end. Designs based on, and taking advantage of, universal laws can be far more efficient and compatible with living things than those that ignore the basic laws of nature.",
+  "mechanism": "Barbs are the individual comblike fronds that extend out from the stiff center of a feather and then stick together to form the vane. Looking extremely closely at the blue parts of bluebird feathers, scientists have discovered that the barbs are made of long strands of a protein called β-keratin tangled together, with air in between. The tangles scatter different wavelengths of incoming light evenly, creating a single color that looks the same from whichever angle it’s being viewed. This is different from iridescent light, which is produced when light is reflected unevenly in different directions. Iridescence causes the color to change depending on what direction an observer is looking at it from (think of feathers on a peacock or grackle).\n\nThe nanostructures that help create the blue for bluebird feathers are very similar to the shape that large molecules take when they are separating out of a solvent—a process not unlike how oil forms spheres when mixed with water and is then allowed to settle out. In fact, scientists think that the configuration arises during the feather’s development in exactly this way.\n\nFirst the cells produce β-keratin. Next, the β-keratin forms a long chain, which causes it to begin to separate in a way that mirrors the way molecules separate out of a solvent. Then, at a certain genetically determined point, the molecules start linking to each other in a way that causes the separation to stop. Exactly when the process stops determines the color produced.\n\nThe configuration that the molecules end up adopting is easy to achieve because it’s the shape that chemistry and physics dictate for the situation. In the case of the eastern bluebird, it also causes light waves to bend and scatter in a way that causes the amazing “bluebird blue” to be reflected back to an observer’s eyes. If the observer is a bluebird of the opposite sex and the configuration is just right to that bird’s eye, the two may mate and pass on the genes that regulate this process, ensuring it endures for another generation.\n\nThe nanostructures that help create the blue for bluebird feathers are very similar to the shape that large molecules take when they are separating out of a solvent—a process not unlike how oil forms spheres when mixed with water and is then allowed to settle out.\n\nThis so-called “structural” approach to creating color through the configuration of molecules rather than through the use of pigments provides inspiration for the development of vivid, and more sustainable, fade-resistant paints. Lessons learned about how to direct the flow of light waves might also be used to improve solar photovoltaic cells and light technologies such as laser.\n\nBeyond that, a broader lesson comes in the form of how to think about solving problems. It just might be worth pondering broad chemical and physical principles—gravity, entropy, magnetic attraction, etc.—and consider how they might be helpful in achieving an end. Designs based on, and taking advantage of, universal laws can be far more efficient and compatible with living things than those that ignore the basic laws of nature.",
   "function_addressed": [
     "send light signals in the visible spectrum",
     "modify light/color",
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "physically-assemble::structure",
+    "send-signals::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "physically-assemble",
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/feathers-produce-non-iridescent-colors/",
-  "source_tier": "science_journalism",
   "keywords": [
     "birds",
     "create",
@@ -21,7 +26,5 @@
     "never",
     "fades"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

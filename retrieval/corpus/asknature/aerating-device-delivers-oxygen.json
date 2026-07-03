@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-aerating-device-delivers-oxygen",
   "organism_common": "Red mangrove",
-  "organism_scientific": "",
   "strategy_summary": "Aerial roots of mangroves take in air through pores (lenticels) and pass it to hypoxic roots via aerating tissue (aerenchyma). Rhizophora mangle (tongolei) in Tonga; bud, flower, fruit, propagule  KONICA MINOLTA DIGITAL CAMERA  KONICA MINOLTA DIGITAL CAMERA  KONICA MINOLTA DIGITAL CAMERA  MINOLTA DIGITAL CAMERA  “In…",
-  "mechanism": "Aerial roots of mangroves take in air through pores (lenticels) and pass it to hypoxic roots via aerating tissue (aerenchyma).\n\nRhizophora mangle (tongolei) in Tonga; bud, flower, fruit, propagule\n\nKONICA MINOLTA DIGITAL CAMERA\n\nKONICA MINOLTA DIGITAL CAMERA\n\nKONICA MINOLTA DIGITAL CAMERA\n\nMINOLTA DIGITAL CAMERA\n\n“In well oxygenated soil, there is little difficulty in obtaining the oxygen needed for respiration. This is not so in waterlogged soils, and special aerating devices are required. In growing Rhizophora , roots diverge from the tree as much as 2 m above ground, elongate at up to 9 mm d-1, and penetrate the soil some distance away from the main stem (Figs I.3, 1.4 and 5.1 [sic]). As much as 24 per cent of the above-ground biomass of a tree may consist of aerial roots: the main trunk, as it reaches the ground, tapers into relative insignificance […] On reaching the soil surface, absorptive roots grow vertically downwards, and a secondary aerial root may loop off and penetrate the soil still further away from the main trunk […] The method of aerating the underground roots is understood best in the red mangrove Rhizophora mangle of Florida. Functionally, the aerial components can be divided structurally into more or less horizontal arches and vertical columns. These have no problems in achieving adequate gas exchange, at least at low tide. In contrast, the underground roots are in a permanently hypoxic, or even anoxic, environment. The columns have the role of supplying oxygen to the underground roots. Air passes into the column roots through numerous tiny pores, or lenticels, which are particularly abundant close to the point at which the column root enters the soil surface. It can then pass along roots through air spaces. Roots entering the soil are largely composed of aerenchyma tissue; honeycombed with air spaces which run longitudinally down the root axis (Fig. 1.5) […] The importance of lenticels for gas exchange has been demonstrated by measuring O2 and CO2 concentrations in the aerenchyma of Rhizophora roots. When the lenticels are occluded by smearing grease over the aerial potion of the root, O2 declines continuously and CO2 rises (Fig. 1.6). Control roots showed fluctuations related to tidal level (Scholander et al. 1955).” (Hogarth 1999:5-8)",
+  "mechanism": "Aerial roots of mangroves take in air through pores (lenticels) and pass it to hypoxic roots via aerating tissue (aerenchyma).\n\nRhizophora mangle (tongolei) in Tonga; bud, flower, fruit, propagule\n\nKONICA MINOLTA DIGITAL CAMERA\n\nKONICA MINOLTA DIGITAL CAMERA\n\nKONICA MINOLTA DIGITAL CAMERA\n\nMINOLTA DIGITAL CAMERA\n\n“In well oxygenated soil, there is little difficulty in obtaining the oxygen needed for respiration. This is not so in waterlogged soils, and special aerating devices are required. In growing Rhizophora, roots diverge from the tree as much as 2 m above ground, elongate at up to 9 mm d-1, and penetrate the soil some distance away from the main stem (Figs I.3, 1.4 and 5.1 [sic]). As much as 24 per cent of the above-ground biomass of a tree may consist of aerial roots: the main trunk, as it reaches the ground, tapers into relative insignificance […] On reaching the soil surface, absorptive roots grow vertically downwards, and a secondary aerial root may loop off and penetrate the soil still further away from the main trunk […] The method of aerating the underground roots is understood best in the red mangrove Rhizophora mangle of Florida. Functionally, the aerial components can be divided structurally into more or less horizontal arches and vertical columns. These have no problems in achieving adequate gas exchange, at least at low tide. In contrast, the underground roots are in a permanently hypoxic, or even anoxic, environment. The columns have the role of supplying oxygen to the underground roots. Air passes into the column roots through numerous tiny pores, or lenticels, which are particularly abundant close to the point at which the column root enters the soil surface. It can then pass along roots through air spaces. Roots entering the soil are largely composed of aerenchyma tissue; honeycombed with air spaces which run longitudinally down the root axis (Fig. 1.5) […] The importance of lenticels for gas exchange has been demonstrated by measuring O2 and CO2 concentrations in the aerenchyma of Rhizophora roots. When the lenticels are occluded by smearing grease over the aerial potion of the root, O2 declines continuously and CO2 rises (Fig. 1.6). Control roots showed fluctuations related to tidal level (Scholander et al. 1955).” (Hogarth 1999:5-8)",
   "function_addressed": [
     "capture, absorb, or filter gases",
     "distribute gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::gases",
+    "distribute::gases"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/aerating-device-delivers-oxygen/",
-  "source_tier": "science_journalism",
   "keywords": [
     "aerating",
     "device",
     "delivers",
     "oxygen"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

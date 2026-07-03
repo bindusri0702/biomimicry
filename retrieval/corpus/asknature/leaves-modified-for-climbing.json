@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-leaves-modified-for-climbing",
   "organism_common": "Flame lily",
-  "organism_scientific": "",
   "strategy_summary": "Long, curling points at the ends of leaves give flame lilies a leg up as they reach for the sun. “Almost every element of plant anatomy, it seems, can be turned into some kind of climbing device.",
   "mechanism": "Long, curling points at the ends of leaves give flame lilies a leg up as they reach for the sun.\n\n“Almost every element of plant anatomy, it seems, can be turned into some kind of climbing device. The cheese plant climbs with its roots, sending them out from its nodes, the places on its stem from which leaves normally spring, and wrapping them around the trunk of its host. European ivy sprouts roots all along the underside of its stems. They are so thin that they can cling to any tiny rugosity. Honeysuckle uses its own stem, winding it around the thicker stem of others. The glory lilies of tropical Africa and Asia have elongated the tips of their leaves into little mobile wires with which they hook themselves on to any support they can find.” (Attenborough 1995:161)",
   "function_addressed": [
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/leaves-modified-for-climbing/",
-  "source_tier": "science_journalism",
   "keywords": [
     "curly",
     "leaf",
@@ -19,7 +20,5 @@
     "lilies",
     "climb"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

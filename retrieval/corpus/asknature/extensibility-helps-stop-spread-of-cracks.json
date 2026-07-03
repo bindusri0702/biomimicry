@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-extensibility-helps-stop-spread-of-cracks",
   "organism_common": "Kelp",
-  "organism_scientific": "",
   "strategy_summary": "The blades of macroalgae stop cracks from spreading by using their elasticity to round the tips of new cracks. “Use materials that don’t develop sharp tips on any cracks they might suffer.",
   "mechanism": "The blades of macroalgae stop cracks from spreading by using their elasticity to round the tips of new cracks.\n\n“Use materials that don’t develop sharp tips on any cracks they might suffer. Some highly extensible materials use this device to minimize their fracture risk. Macroalgal blades are broad enough for tearing to be a real risk, and they have a low work of fracture. But their extensibility is high, and they use that extensibility to engage in spontaneous crack-tip rounding (Denny et al. 1989)” (Vogel 2003:338)\n\n“Although a certain number of cycles at high stress may cause blade fracture (Figs 9 and 10), if these highstress cycles are separated by low-stress cycles that do not cause crack propagation, algae may have time to repair fractured tissues or round crack tips in a way that mitigates subsequent crack growth. In addition, the energy release rate below which crack growth does not occur may be effectively increased through tissue repair.” (Mach et al. 2007:2241)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
   "function_addressed": [
     "prevent fracture/rupture"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::fracture-rupture"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/extensibility-helps-stop-spread-of-cracks/",
-  "source_tier": "science_journalism",
   "keywords": [
     "extensibility",
     "stop",
     "spread",
     "cracks"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

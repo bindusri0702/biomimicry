@@ -1,22 +1,21 @@
 {
   "doc_id": "asn-nests-are-antimicrobial",
   "organism_common": "Tungara frog",
-  "organism_scientific": "",
   "strategy_summary": "Nests of foam-nesting frogs protect eggs and sperm from microbes using unique antimicrobial proteins called ranaspumins. “The foam nests of the túngara frog ( Engystomops pustulosus ) [formerly Physalaemus pustulosus ] form a biocompatible incubation medium for eggs and sperm while resisting considerable environmental…",
   "mechanism": "Nests of foam-nesting frogs protect eggs and sperm from microbes using unique antimicrobial proteins called ranaspumins.\n\n“The foam nests of the túngara frog ( Engystomops pustulosus ) [formerly Physalaemus pustulosus ] form a biocompatible incubation medium for eggs and sperm while resisting considerable environmental and microbiological assault. We have shown that much of this behaviour can be attributed to a cocktail of six protein s, designated ranaspumins (Rsn-1 to Rsn-6), which predominate in the foam. These fall into two discernable classes based on sequence analysis and biophysical properties. Rsn-2, with an amphiphilic amino acid sequence unlike any hitherto reported, exhibits substantial detergent-like surfactant activity necessary for production of foam, yet is harmless to the membranes of eggs and spermatozoa. A further four (Rsn-3 to Rsn-6) are lectins, three of which are similar to fucolectins found in teleosts but not previously identified in a land vertebrate, though with a carbohydrate binding specificity different from previously described fucolectins. The sixth, Rsn-1, is structurally similar to proteinase inhibitors of the cystatin class, but does not itself appear to exhibit any such activity. The nest foam itself, however, does exhibit potent cystatin activity. Rsn-encoding genes are transcribed in many tissues of the adult frogs, but the full cocktail is present only in oviduct gland s. Combinations of lectins and cystatins have known roles in plants and animals for defence against microbial colonization and insect attack. Túngara nest foam displays a novel synergy of selected elements of innate defence plus a specialized surfactant protein, comprising a previously unreported strategy for protection of unattended reproductive stages of animals.” (Fleming et al. 2009:1787)",
   "function_addressed": [
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/nests-are-antimicrobial/",
-  "source_tier": "science_journalism",
   "keywords": [
     "nests",
     "antimicrobial"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

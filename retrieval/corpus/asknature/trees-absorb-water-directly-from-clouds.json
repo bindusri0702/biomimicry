@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-trees-absorb-water-directly-from-clouds",
   "organism_common": "Tropical montane cloud forest",
-  "organism_scientific": "",
   "strategy_summary": "Trees in cloud forests cope with the dry season by absorbing water from clouds directly through their leaves. Plants need water to survive.",
-  "mechanism": "Trees in cloud forests cope with the dry season by absorbing water from clouds directly through their leaves.\n\nPlants need water to survive. They often absorb rain water through their roots and use this water to transport nutrients into their stem, branches, and leaves.\n\nPlants also use water as a building block to grow the trunk/stem, leaves, and other parts of their structure. Water molecules (H2O) are made up of two hydrogen molecules and one oxygen molecule. When it rains, plants take up the water from the soil in through their roots and separate the hydrogen atoms from each oxygen atom. They then combine the hydrogen atoms with carbon to create a variety of different structures, including wood for their trunks. About 7% of a piece of dry wood is actually made of hydrogen atoms that trees obtained from the rain.\n\nBut what happens when there isn’t any rain? Even in the wettest forests, there are times of the year when there may be no rainfall. In mountainous forests in tropical regions, for example, months may go by with little to no rainfall. Many of the trees in these forests however, have a trick: they are very good at getting water out of low-moving clouds. But instead of using their roots, they use their leaves to capture and absorb water.\n\nThese forests, known as “cloud forests”, are often covered throughout much of the year in low-hanging clouds. These clouds are much closer to the ground than other clouds, and as breezes move these clouds through the forest, they touch the leaves of the trees. The water from the clouds condenses onto the leaves, where it is absorbed into the branches, stem, and roots of the tree.\n\nMany trees are able to do this, not only the trees living in cloud forests. But the trees in cloud forests are especially good at it — they are able to absorb up to 20% more water directly through their leaves than forests just a few hundred feet lower down on the mountain.\n\nImage: Cristóbal Alvarado Minic / CC BY - Creative Commons Attribution alone toggle icon Image: NepGrower~commonswiki / CC BY SA - Creative Commons Attribution + ShareAlike toggle icon right arrow right arrow",
+  "mechanism": "Trees in cloud forests cope with the dry season by absorbing water from clouds directly through their leaves.\n\nPlants need water to survive. They often absorb rain water through their roots and use this water to transport nutrients into their stem, branches, and leaves.\n\nPlants also use water as a building block to grow the trunk/stem, leaves, and other parts of their structure. Water molecules (H2O) are made up of two hydrogen molecules and one oxygen molecule. When it rains, plants take up the water from the soil in through their roots and separate the hydrogen atoms from each oxygen atom. They then combine the hydrogen atoms with carbon to create a variety of different structures, including wood for their trunks. About 7% of a piece of dry wood is actually made of hydrogen atoms that trees obtained from the rain.\n\nBut what happens when there isn’t any rain? Even in the wettest forests, there are times of the year when there may be no rainfall. In mountainous forests in tropical regions, for example, months may go by with little to no rainfall. Many of the trees in these forests however, have a trick: they are very good at getting water out of low-moving clouds. But instead of using their roots, they use their leaves to capture and absorb water.\n\nThese forests, known as “cloud forests”, are often covered throughout much of the year in low-hanging clouds. These clouds are much closer to the ground than other clouds, and as breezes move these clouds through the forest, they touch the leaves of the trees. The water from the clouds condenses onto the leaves, where it is absorbed into the branches, stem, and roots of the tree.\n\nMany trees are able to do this, not only the trees living in cloud forests. But the trees in cloud forests are especially good at it — they are able to absorb up to 20% more water directly through their leaves than forests just a few hundred feet lower down on the mountain.",
   "function_addressed": [
     "capture, absorb, or filter liquids",
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids",
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/trees-absorb-water-directly-from-clouds/",
-  "source_tier": "science_journalism",
   "keywords": [
     "trees",
     "absorb",
@@ -20,7 +23,5 @@
     "directly",
     "clouds"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

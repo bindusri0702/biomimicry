@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-relationship-provides-thermal-protection",
   "organism_common": "Hot springs panic grass",
-  "organism_scientific": "",
   "strategy_summary": "Hot springs panic grass and Curvularia fungus are protected from extreme heat thanks to their mutualistic relationship. Hot springs panic grass ( Dichanthelium lanuginosum ) appears to tolerate the high temperatures of Yellowstone’s geyser basin because of a fungus that attaches to the plant and lives between its…",
-  "mechanism": "Hot springs panic grass and Curvularia fungus are protected from extreme heat thanks to their mutualistic relationship.\n\nHot springs panic grass ( Dichanthelium lanuginosum ) appears to tolerate the high temperatures of Yellowstone’s geyser basin because of a fungus that attaches to the plant and lives between its cells. Researchers cultivated specimens with and without the fungus, called Curvuluria , then heated the soil. They found that, while plants with the fungus survived to 149 degrees F, plants lacking the fungus shriveled at 122 degrees. More experiments showed that the plant provided thermal protection for the fungus, as well. (Courtesy of the Biomimicry Guild)\n\n“All plants studied in natural ecosystems are symbiotic with fungi, which obtain nutrients while either positively, negatively, or neutrally affecting host fitness. Plant adaptation to selective pressures is considered to be regulated by the plant genome. To test whether mutualistic fungi contribute to plant adaptation, we collected 200 Dichanthelium lanuginosum plants from geothermal soils at 10 sites in Lassen Volcanic (LVNP) and Yellowstone (YNP) National Parks. These soils have annual temperature fluctuations ranging from about 20° to 50°C…In the absence of thermal stress, endophyte-colonized (symbiotic) and endophyte-free (nonsymbiotic) plants showed no measurable growth or developmental differences. When root zones were heated with thermal tape (Fig. S1), nonsymbiotic plants (45/45) became shriveled and chlorotic at 50°C (Fig. 1A). In contrast, symbiotic plants (45/45) tolerated constant 50°C soil temperature for 3 days and intermittent soil temperatures as high as 65°C for 10 days. All nonsymbiotic plants (45/45) died during the 65°C heat regime, whereas symbiotic plants (45/45) survived. The endophyte was reisolated from surface sterilized roots and leaves of all surviving plants, indicating that both the fungus and the host were protected from thermal stress. [Note: similar results were found when testing seedlings returned to the hot springs area.]…In addition to thermotolerance, the basis of mutualism in this system may involve other benefits (e.g., nutrient acquisition by the fungus). Several possible symbiotic mechanisms could confer thermotolerance. In planta, the fungal endophyte produces cell wall melanin (Fig. S3) that may dissipate heat along the hyphae and/or complex with oxygen radicals generated during heat stress. Alternatively, the endophyte may act as a “biological trigger” allowing symbiotic plants to activate stress-response systems more rapidly and strongly than nonsymbiotic plants.” (Redman et al. 2002:1581)",
+  "mechanism": "Hot springs panic grass and Curvularia fungus are protected from extreme heat thanks to their mutualistic relationship.\n\nHot springs panic grass ( Dichanthelium lanuginosum ) appears to tolerate the high temperatures of Yellowstone’s geyser basin because of a fungus that attaches to the plant and lives between its cells. Researchers cultivated specimens with and without the fungus, called Curvuluria, then heated the soil. They found that, while plants with the fungus survived to 149 degrees F, plants lacking the fungus shriveled at 122 degrees. More experiments showed that the plant provided thermal protection for the fungus, as well. (Courtesy of the Biomimicry Guild)\n\n“All plants studied in natural ecosystems are symbiotic with fungi, which obtain nutrients while either positively, negatively, or neutrally affecting host fitness. Plant adaptation to selective pressures is considered to be regulated by the plant genome. To test whether mutualistic fungi contribute to plant adaptation, we collected 200 Dichanthelium lanuginosum plants from geothermal soils at 10 sites in Lassen Volcanic (LVNP) and Yellowstone (YNP) National Parks. These soils have annual temperature fluctuations ranging from about 20° to 50°C…In the absence of thermal stress, endophyte-colonized (symbiotic) and endophyte-free (nonsymbiotic) plants showed no measurable growth or developmental differences. When root zones were heated with thermal tape (Fig. S1), nonsymbiotic plants (45/45) became shriveled and chlorotic at 50°C (Fig. 1A). In contrast, symbiotic plants (45/45) tolerated constant 50°C soil temperature for 3 days and intermittent soil temperatures as high as 65°C for 10 days. All nonsymbiotic plants (45/45) died during the 65°C heat regime, whereas symbiotic plants (45/45) survived. The endophyte was reisolated from surface sterilized roots and leaves of all surviving plants, indicating that both the fungus and the host were protected from thermal stress. [Note: similar results were found when testing seedlings returned to the hot springs area.]…In addition to thermotolerance, the basis of mutualism in this system may involve other benefits (e.g., nutrient acquisition by the fungus). Several possible symbiotic mechanisms could confer thermotolerance. In planta, the fungal endophyte produces cell wall melanin (Fig. S3) that may dissipate heat along the hyphae and/or complex with oxygen radicals generated during heat stress. Alternatively, the endophyte may act as a “biological trigger” allowing symbiotic plants to activate stress-response systems more rapidly and strongly than nonsymbiotic plants.” (Redman et al. 2002:1581)",
   "function_addressed": [
     "protect from temperature",
     "cooperate/compete between different species"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::between-different-species",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/relationship-provides-thermal-protection/",
-  "source_tier": "science_journalism",
   "keywords": [
     "relationship",
     "provides",
     "thermal",
     "protection"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

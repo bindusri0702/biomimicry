@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-skeleton-components-arranged-efficiently",
   "organism_common": "Sea stars",
-  "organism_scientific": "",
   "strategy_summary": "The skeletons of some echinoderms arrange their calcium carbonate plates efficiently using pentaradial symmetry. “Starfish have five arms; sand dollars have five radial food grooves on their undersides–this arrangement of five elements radiating from a center point (‘pentaradial symmetry’) is widespread among the…",
   "mechanism": "The skeletons of some echinoderms arrange their calcium carbonate plates efficiently using pentaradial symmetry.\n\n“Starfish have five arms; sand dollars have five radial food grooves on their undersides–this arrangement of five elements radiating from a center point (‘pentaradial symmetry’) is widespread among the echinoderms but unknown elsewhere in nature…Early echinoderms were covered with a skeleton made up of discrete plates of calcium carbonate. Now one can pave a floor with triangles, squares, or hexagons, but using pentagons alone inevitably leaves gaps. One can’t make an array of squares close on itself to form a hollow solid unless at eight special locations the apices of three rather than four squares touch, a distinct complication. And one can’t make any array solely of hexagons close on itself at all. Conversely one can get a closed, space-enclosing structure from triangles (tetrahedrons are the simplest, but others such as twenty-sided icosahedrons are possible) and pentagons (the simplest being the twelve-sided dodecahedron). Among the pentagons (fig. 4.13) hexagons can be intercalated practically without limit, but twelve basic pentagons must remain. In the most symmetrical arrangement, these pentagons are in six pairs with members of a pair at the opposite extremities of the solid. If we run an axis between members of one pair, the ten other pentagons then arrange themselves in two nearly equatorial rings. If enough hexagons are intercalated, these can form the key elements of five arms. And a look at any book treating the paleontology of echinoderms reveals a host of hexagonal plates. Perhaps a pentaradial symmetry is, in fact, a ‘natural’ or easy way to organize a radially symmetrical creature built of a shell of little solid elements!” (Vogel 2003:87-88)",
   "function_addressed": [
     "physically assemble structure",
     "optimize shape/materials"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/skeleton-components-arranged-efficiently/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skeleton",
     "components",
     "arranged",
     "efficiently"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-vessels-resist-bubble-formation",
   "organism_common": "Distribute Liquids",
-  "organism_scientific": "",
   "strategy_summary": "Xylem vessels running up tree trunks prevent gas bubble formation because all surfaces are hydrophilic. “The water columns in the xylem vessels running up the trunk of a tree provide a dramatic example of what’s possible when all surfaces are hydrophilic.",
   "mechanism": "Xylem vessels running up tree trunks prevent gas bubble formation because all surfaces are hydrophilic.\n\n“The water columns in the xylem vessels running up the trunk of a tree provide a dramatic example of what’s possible when all surfaces are hydrophilic. With megapascals of negative pressures virtually any dissolved gas ensures supersaturation, yet bubbles rarely form. It’s a good thing, too- a tiny bubble would rupture a water column since any bubble is itself an appropriate surface for gas formation; and, once formed, bubbles grow almost explosively in a supersaturated liquid.” (Vogel 2003:111)",
   "function_addressed": [
     "distribute liquids",
     "protect from gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::liquids",
+    "protect-from-non-living-threats::gases"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/vessels-resist-bubble-formation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "vessels",
     "resist",
     "bubble",
     "formation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-turrets-ventilate-nest",
   "organism_common": "Leafcutter ants",
-  "organism_scientific": "",
   "strategy_summary": "Feeding young is a big job for many animals, but leaf-cutter ants take it to another level. They spend their days harvesting bits of leaves, which they haul into chambers deep within massive nests made of soil.",
-  "mechanism": "Underground farming brings some challenges though: the damp soil that makes up and surrounds the nest is too compact to allow air to flow naturally into the chambers, removing carbon dioxide and refreshing the oxygen supply. For some species, the solution turns out to be blowing in the wind––which ventilates the nest with the guidance of turretlike structures constructed at the surface. This approach to indoor agriculture allows the ants to carefully control the temperature, humidity, oxygen, and carbon dioxide levels their crops need to thrive.\n\nLeaf-cutter ants offer inspiration to humans in many ways. Their practice of tending a crop with fine-tuned inputs of nutrients and pesticides offers insights for optimizing inputs and outputs in human agriculture. Beyond that, their nest structures suggest ways to enhance the energy efficiency and sustainability of greenhouses, indoor farms, and gardens, and to improve the function of systems used to dry agricultural crops, paint, or other materials. Humans already have taken advantage of the principles demonstrated by leaf-cutter ants to enhance ventilation of homes and other buildings. This can save on costs of cooling buildings and reduce the threat of climate change by decreasing demand for fossil fuels. Organic farming. Wind-powered-HVAC engineering. Leaf-cutting is really just the start of the story of these impressive creatures.",
+  "mechanism": "Underground farming brings some challenges though: the damp soil that makes up and surrounds the nest is too compact to allow air to flow naturally into the chambers, removing carbon dioxide and refreshing the oxygen supply. For some species, the solution turns out to be blowing in the wind––which ventilates the nest with the guidance of turretlike structures constructed at the surface. This approach to indoor agriculture allows the ants to carefully control the temperature, humidity, oxygen, and carbon dioxide levels their crops need to thrive.\n\nAtta vollenweideri is one such species. Found on flat savanna habitats in Argentina and Paraguay, these leaf-cutters build massive mazes of tunnels and chambers that extend nearly 20 feet below ground as well as into a 3-foot-high (1-meter) mound they construct from the diggings. Atop the mound, the workers piece together bits of clay dug out from below, combined with bits of leaves and twigs, to create cone-shaped protuberances with one or more openings. When summer breezes blow, the air currents pass over these turrets, creating a low-pressure zone that causes air to flow outward from tunnels that open into the part of the nest swept by the wind. As it does, it sucks air in through other holes around the lower, peripheral part of the nest, increasing airflow through the nest three to 10 times compared to when the air is calm.\n\nScientists think two principles of physics brought into play by the shape of the structures are involved. One, Bernoulli’s law, describes the relationship between speed of flow and pressure of a liquid or gas; the rounded shape of the mound causes air to move faster across the top than across the base, creating a low-pressure zone at the top that draws air into the nest. The other, viscous entrainment, is related to the fact that air is calm inside the nest relative to the breeze outside. As the moving air contacts the still air, it pulls it along with it, much as flowing water in a brook carries silt from the bottom downstream.\n\nThis wind-driven circulation system, which is similar to that used by black-tailed prairie dogs (Cynomys luduvicianus) to keep fresh air moving through their burrows, rebalances the oxygen and humidity levels within. Experiments show that the ants use the concentration of carbon dioxide in the air exiting the tunnel system as a guide for shaping the turrets. If the carbon dioxide concentrations are high, they build shorter turrets with a greater total diameter of openings, apparently enhancing the ventilation. As a result, the conditions within the nest remain suitable for growing fungi, and the ants can maintain a stable crop to nourish the next generation throughout the warm summer season. (In the fall when the air cools the ants close up the nests, likely relying on the tendency of warm air to rise to provide the needed ventilation instead.)\n\nLeaf-cutter ants offer inspiration to humans in many ways. Their practice of tending a crop with fine-tuned inputs of nutrients and pesticides offers insights for optimizing inputs and outputs in human agriculture. Beyond that, their nest structures suggest ways to enhance the energy efficiency and sustainability of greenhouses, indoor farms, and gardens, and to improve the function of systems used to dry agricultural crops, paint, or other materials. Humans already have taken advantage of the principles demonstrated by leaf-cutter ants to enhance ventilation of homes and other buildings. This can save on costs of cooling buildings and reduce the threat of climate change by decreasing demand for fossil fuels. Organic farming. Wind-powered-HVAC engineering. Leaf-cutting is really just the start of the story of these impressive creatures.",
   "function_addressed": [
     "optimize shape/materials",
     "modify material characteristics",
@@ -11,17 +10,23 @@
     "protect from temperature",
     "protect from gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "modify-physical-state::material-characteristics",
+    "modify-physical-state::pressure",
+    "protect-from-non-living-threats::gases",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "modify-physical-state",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/turrets-ventilate-nest/",
-  "source_tier": "science_journalism",
   "keywords": [
     "turrets",
     "ventilate",
     "nest"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-spider-silks-antibacterial-power",
   "organism_common": "Spiders",
-  "organism_scientific": "",
   "strategy_summary": "Delicate as a whisper, a spider’s silken web seems too fragile to last very long. Yet, once they’re spun, some webs can survive with minimal repairs for days or even weeks without being destroyed by decomposing organisms like fungi and bacteria.",
   "mechanism": "The outer layer of spider silk is made up of various protein s and fat molecules. As in other biological materials, the proteins play a big role in how the material is structured. They are composed of hundreds of individual building blocks, called amino acid s, strung together like beads on a string. Different amino acids have different traits, as well as positive or negative charges. Opposite charges attract, while similar charges repel each other. These interactions mean that, depending on the kinds and order of amino acids in the chain, different parts of a protein end up organized into different shapes. One of these shapes is known as a helix that contains parts known as beta sheets.This is where spider silk’s microbe-repelling skills appear to come from. Scientists have discovered that some spider silk protein conglomerations called fibroins have beta-sheet sections with similar charges that cause them to repel each other, creating a regular arrangement of hydrophobic (water-repelling) patches across the surface of the silk. These patches effectively prevent microorganisms from finding a place to land and stick—much as a team of skilled volleyball players scattered over a court can keep the ball from hitting the ground anywhere.\n\nThe ability of bacteria and fungi to adhere to a surface can cause big problems for humans. In medical settings, microbes can attach to implants and prosthetic devices, giving themselves a chance to multiply and create a colony bigenough to protect itself from antibiotics. In drinking water systems and food preparation settings, such “biofilms” can increase the risk of spreading contamination by giving microbes a place to grow and multiply. By emulating spider silk proteins and their bacteria-repelling arrangement of uncharged beta-sheet sections, humans could create coatings for medical devices and other surfaces that will make it harder for bacteria to stick around and cause trouble.",
   "function_addressed": [
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/spider-silks-antibacterial-power/",
-  "source_tier": "science_journalism",
   "keywords": [
     "spider",
     "silk",
     "antibacterial",
     "power"
   ],
-  "is_usual_suspect": true,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

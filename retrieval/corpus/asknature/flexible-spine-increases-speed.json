@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-flexible-spine-increases-speed",
   "organism_common": "Cheetah",
-  "organism_scientific": "",
   "strategy_summary": "The spine of the cheetah increases its running speed because its flexiblity allows longer stride lengths. “They [plains predators] have effectively lengthened their limbs by making their spine extremely flexible.",
   "mechanism": "The spine of the cheetah increases its running speed because its flexiblity allows longer stride lengths.\n\n“They [plains predators] have effectively lengthened their limbs by making their spine extremely flexible. At full stretch, travelling at high speed, their hind and front legs overlap one another beneath the body just like those of a galloping antelope. The cheetah has a thin elongated body and is said to be the fastest runner on earth, capable of reaching speeds, in bursts, of over 110 kph. But this method is very energy-consuming. Great muscular effort is needed to keep the spine springing back and forth and the cheetah cannot maintain such speeds for more than a minute or so.” (Attenborough 1979:264)\n\nNorth Carolina State University\n\nSoft Robot from North Carolina State University has a 'bistable' spine that enables it to gallop on land.",
   "function_addressed": [
     "modify speed",
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::speed",
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/flexible-spine-increases-speed/",
-  "source_tier": "science_journalism",
   "keywords": [
     "flexible",
     "spine",
     "increases",
     "speed"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

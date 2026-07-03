@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-variable-postures-aid-intertidal-zone-survival",
   "organism_common": "Sea palm",
-  "organism_scientific": "",
   "strategy_summary": "Sea palms survive changing intertidal conditions by adopting various postures, thanks to a unique set of mechanical properties. “ Postelsia palmaeformis –the scientific name makes the same allusion as the common name, ‘sea palm’–lives in the lower intertidal zones of rocky, wave-swept shore on the west coast of North…",
   "mechanism": "Sea palms survive changing intertidal conditions by adopting various postures, thanks to a unique set of mechanical properties.\n\n“ Postelsia palmaeformis –the scientific name makes the same allusion as the common name, ‘sea palm’–lives in the lower intertidal zones of rocky, wave-swept shore on the west coast of North America. The plant, shown in figure 21.4, never reaches a meter in height, so it’s not exactly a big tree. But, like trees, it has three parts, an attachment (holdfast), a column (stipe), and photosynthetic laminae (fronds). It stands against gravity, getting higher in dense stands, and it bends in response to lateral force, for it, waves. Unlike any tree, though, it responds to lateral force by bending until almost prostrate and then springing back upright. Concomitant with that untreelike behavior are a set of most untreelike material properties, set out in a lovely paper by Holbrook, Denny, and Koehl (1991). Table 21.1 lists these, along with typical values for wood.\n\n“Postelsia ‘s ‘trunk’ certainly looks wimpy next to wood. It gives rather than standing tall in the face of fierce force, getting from a high second moment of area just enough flexural stiffness to stand erect at all. Only in work of extension does it play in the same league as wood, although it gets its high value by quite a different tactic–high stretchiness instead of high strength. Regaining its erect posture depends on reinvesting that work of extension, which requires a high resilience, which it has. But, as Holbrook, Denny, and Koehl emphasized, the energy storage underlying that resilience undermines its toughness. Postelsia is notably brittle and sensitive to scratches–its stipe may be soft, but cracks propagate all too readily. Before dismissing this alga as just a lowly tree wannabe, bear in mind that it has extraordinarily high photosynthetic productivity and that it invests far more, proportionately, in photosynthetic organs than any ordinary tree. Its fronds represent no less than 38 percent of its energy content or 35 percent of its weight (Lawrence and McClintock 1988)–compare this with the trivial weight and burning yield of the annual leaf-fall of a tree that yields a cord or so (perhaps 2 metric tons) of dry firewood.” (Vogel 2003:434-435)\n\n“Sea-palms Postelsia palmaeformis Ruprecht are annual brown algae that grow on wave-swept rocky shores, often forming dense stands. Unlike most macroalgae, Postelsia stands upright in air–like trees. The stipe flexibility that permits Postelsia to withstand waves is provided by the low elastic modulus (5-10 MPa) of stipe tissue; in spite of the weakness (low breaking stress, ~ 1 MPa) of this tissue, a large amount of energy ( ~ 100 kJ/m 3) is required to break a stipe because they can be extended by 20-25 % before breaking. Although made of such easily deformed tissue, Postelsia can stand upright in air due to the width (high second moment of area) and resilience of their stipes, but the brittleness (low work of fracture, 400-900 J/m 2) that accompanies this resilience renders them susceptible to breakage if they sustain deep scratches. Although wave-induced stresses experienced by individuals in aggregations are not lower than those experienced by isolated sea-palms, photon flux densities of photosynthetically active radiation within these dense groves are less than 10% of those above Postelsia canopies. A number of morphological features differ between canopy, understory, and isolated individuals. Canopy plants in dense aggregations are taller than isolated individuals and may exceed limiting proportions for elastic stability. Postelsia shows photosynthetic characteristics of “shade-adapted” plants, understory individuals being especially effective at using low light. Despite this, blade growth rates of understory plants are lower than those of either canopy or isolated individuals.” (Holbrook et al. 1991:39)\n\nWatch Video (closer view at end)",
   "function_addressed": [
@@ -10,11 +9,16 @@
     "manage shear",
     "manage turbulence"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::shear",
+    "manage-structural-forces::tension",
+    "manage-structural-forces::turbulence"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/variable-postures-aid-intertidal-zone-survival/",
-  "source_tier": "science_journalism",
   "keywords": [
     "variable",
     "postures",
@@ -23,7 +27,5 @@
     "zone",
     "survival"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

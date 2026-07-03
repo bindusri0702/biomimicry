@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-salt-balance-is-maintained",
   "organism_common": "Spotted green pufferfish",
-  "organism_scientific": "",
   "strategy_summary": "The gills of spotted green pufferfish maintain a constant level of cellular salinity in both freshwater and marine environments due to specialized cells equipped with two ion channels that secrete or absorb ions depending on need. All living things depend on the presence and movement of water within and between cells…",
   "mechanism": "The gills of spotted green pufferfish maintain a constant level of cellular salinity in both freshwater and marine environments due to specialized cells equipped with two ion channels that secrete or absorb ions depending on need.\n\nAll living things depend on the presence and movement of water within and between cells to sustain life-giving functions. Respiration, digestion, cognition, circulation, and other continuous processes depend on the steady movement and exchange of molecules across membranes; water is the medium that allows this movement to happen. Left to its own devices, water seeks to find a balance between both sides of a membrane to achieve equal concentrations of dissolved minerals and organic compounds. But the inner workings of living things often rely on differences across membranes to fuel various functions.\n\nOne way of achieving this is to leverage water’s innate balance-seeking driving force. This dance relies on compounds attached to or imbedded in cell membranes that pull or push water or dissolved constituents across the membrane so that the concentration is greater on one side than the other. At the opportune moment, the cell then uses water’s balance-seeking force to do work.\n\nIn other situations, living things need to counter water’s innate balancing act in order to keep a steady concentration of dissolved constituents inside the cell, regardless of outside conditions. Such is the challenge for spotted green pufferfish that encounter varying degrees of salinity in their environment. To maintain a steady level of chloride ions inside their cells, pufferfish have two membrane bound protein s (CFTR and NKCC) in specialized epithelial cells of their gills that form ion channels across the membrane. The channels function to secrete chloride ions from inside the cell in saltier environments and absorb chloride ions in freshwater environments.\n\nClick to view a diagram of a NKCC1 cotransporter in a new window.\n\nClick to view a diagram of a CFTR transporter in a new window ( source ).",
   "function_addressed": [
     "maintain homeostasis",
     "modify concentration (of ions, solutes, etc.)"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-chemical-electrical-state::concentration",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "modify-chemical-electrical-state",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/salt-balance-is-maintained/",
-  "source_tier": "science_journalism",
   "keywords": [
     "salt",
     "balance",
     "maintained"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

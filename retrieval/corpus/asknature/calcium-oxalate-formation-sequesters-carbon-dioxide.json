@@ -1,19 +1,23 @@
 {
   "doc_id": "asn-calcium-oxalate-formation-sequesters-carbon-dioxide",
   "organism_common": "Saguaro",
-  "organism_scientific": "",
   "strategy_summary": "Few images of the American Southwest are as iconic as a towering saguaro cactus silhouetted against a desert sunset. Rising up to twelve meters tall and living more than a century, saguaros are keystone species of the Sonoran Desert, offering food and shelter to birds, bats, reptiles, and insects.",
-  "mechanism": "Saguaros use specialized cells, called idioblasts, to store carbon in the form of calcium oxalate crystals. This begins when sugars produced during photosynthesis are converted into oxalic acid, which then binds with calcium absorbed from the soil to form solid crystals. These are locked away in the idioblasts and can account for as much as 17% of the cactus’s dry weight, making saguaros unusual among plants for how much of their carbon they commit to minerals.\n\nFor the living cactus, these crystals help regulate calcium levels and strengthen tissues, making them less appealing to herbivores. Unlike sugars or starches, this carbon is not meant to be easily reclaimed; most of it stays in crystal form for the cactus’s entire lifetime.\n\nWhen a saguaro dies, its softer tissues quickly decompose, releasing most of its carbon back into the air. But the calcium oxalate crystals remain. Over the following decade or two, aided by soil microbes, these crystals slowly change into calcite, a stable mineral that can persist in desert soils for centuries. In areas with many saguaros, this process deposits measurable amounts of calcite each year, locking away carbon that originally came from the atmosphere.\n\nThese crystal deposits do more than store carbon. As they break down, they feed specialized microbes and release calcium that can influence soil chemistry, improving fertility and stabilizing soil surfaces in a landscape shaped by wind and water.\n\nThe saguaro’s approach demonstrates how living systems can capture and lock carbon in minerals using only ambient conditions and biological processes. This suggests new strategies for managing atmospheric carbon at large scales.\n\nOne idea is to utilize deserts and other marginal lands––places where food production is limited––to cultivate carbon-mineralizing plants. Unlike storing carbon in organic matter, which often decomposes within years, this approach would create long-lived, mineral-based carbon sinks that could persist for centuries or longer.\n\nIndustrial systems could also adopt biomimetic pathways inspired by the cactus. For example, engineered reactors could use biological or chemical oxalate processes, combined with readily available calcium sources, to produce calcite at scale under ambient conditions, avoiding the energy costs of conventional carbon capture and storage technologies.\n\nBy working with natural mineralization processes and leveraging regions already rich in sunlight, space, and calcium-bearing soils, humans could create durable carbon stores while minimizing impacts on food systems and biodiversity .",
+  "mechanism": "Saguaros use specialized cells, called idioblasts, to store carbon in the form of calcium oxalate crystals. This begins when sugars produced during photosynthesis are converted into oxalic acid, which then binds with calcium absorbed from the soil to form solid crystals. These are locked away in the idioblasts and can account for as much as 17% of the cactus’s dry weight, making saguaros unusual among plants for how much of their carbon they commit to minerals.\n\nFor the living cactus, these crystals help regulate calcium levels and strengthen tissues, making them less appealing to herbivores. Unlike sugars or starches, this carbon is not meant to be easily reclaimed; most of it stays in crystal form for the cactus’s entire lifetime.\n\nWhen a saguaro dies, its softer tissues quickly decompose, releasing most of its carbon back into the air. But the calcium oxalate crystals remain. Over the following decade or two, aided by soil microbes, these crystals slowly change into calcite, a stable mineral that can persist in desert soils for centuries. In areas with many saguaros, this process deposits measurable amounts of calcite each year, locking away carbon that originally came from the atmosphere.\n\nThese crystal deposits do more than store carbon. As they break down, they feed specialized microbes and release calcium that can influence soil chemistry, improving fertility and stabilizing soil surfaces in a landscape shaped by wind and water.\n\nThe saguaro’s approach demonstrates how living systems can capture and lock carbon in minerals using only ambient conditions and biological processes. This suggests new strategies for managing atmospheric carbon at large scales.\n\nOne idea is to utilize deserts and other marginal lands––places where food production is limited––to cultivate carbon-mineralizing plants. Unlike storing carbon in organic matter, which often decomposes within years, this approach would create long-lived, mineral-based carbon sinks that could persist for centuries or longer.\n\nIndustrial systems could also adopt biomimetic pathways inspired by the cactus. For example, engineered reactors could use biological or chemical oxalate processes, combined with readily available calcium sources, to produce calcite at scale under ambient conditions, avoiding the energy costs of conventional carbon capture and storage technologies.\n\nBy working with natural mineralization processes and leveraging regions already rich in sunlight, space, and calcium-bearing soils, humans could create durable carbon stores while minimizing impacts on food systems and biodiversity .\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "capture, absorb, or filter chemical entities",
     "distribute gases",
     "chemically assemble mineral crystals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::mineral-crystals",
+    "distribute::gases"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "chemically-assemble",
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/calcium-oxalate-formation-sequesters-carbon-dioxide/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cactus",
     "crystals",
@@ -22,7 +26,5 @@
     "carbon",
     "decades"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-mats-uniformly-distribute-resources",
   "organism_common": "Black grama",
-  "organism_scientific": "",
   "strategy_summary": "Grasses in deserts uniformly distribute rainfall and nutrients by forming a mat of roots that limits shrub establishment. “A century ago, lush expanses of black grama grass carpeted much of West Texas and eastern New Mexico along the northern rim of the Chihuahuan Desert.",
   "mechanism": "Grasses in deserts uniformly distribute rainfall and nutrients by forming a mat of roots that limits shrub establishment.\n\n“A century ago, lush expanses of black grama grass carpeted much of West Texas and eastern New Mexico along the northern rim of the Chihuahuan Desert. Since the end of the Pleistocene, no large grazers, not even the native bison, had nibbled the grasses.” Once cattlemen bored holes for water, tens of thousands of cattle were grazing the plains. “Within just a few decades, range managers noticed worrisome changes. Mesquite and creosote bushes were invading the grama grass. Each year the land looked more like the neighboring desert that stretches south into central Mexico. The shrubs had always been around, but their numbers were kept in check by the full carpet of grass, which presented ‘a very formidable arena for shrub seedlings to get started,’ notes William Schlesinger of Duke University. The seedlings are no match for the mat of grass roots that captures most of the water and nutrients in the top few centimeters of the soil. Shrub seedlings that do get a toehold seldom survive the periodic wildfires that sweep across unbroken grasslands.” (Baskin 1997:79-80)",
   "function_addressed": [
     "distribute liquids",
     "cycle nutrients"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::liquids",
+    "provide-ecosystem-services::cycle-nutrients"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/mats-uniformly-distribute-resources/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mats",
     "uniformly",
     "distribute",
     "resources"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

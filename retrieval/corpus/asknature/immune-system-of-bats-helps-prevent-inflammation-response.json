@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-immune-system-of-bats-helps-prevent-inflammation-response",
   "organism_common": "Bats",
-  "organism_scientific": "",
   "strategy_summary": "Bats can safely harbor many viruses that kill other animals without getting sick. Their superpower?",
   "mechanism": "An animal’s immune system recognizes potentially harmful foreign matter like viruses and bacteria when they enter the body. It also clears the remnants of cells that die and break down in the normal course of living. Proteins called inflammasomes that sense alien invaders are critical components of the immune system. These trigger the production of other immune cells that seek and destroy intruders.\n\nBut the immune response is not without risk to its owner. When immune cells flood in to fight infection, they naturally cause inflammation—swelling, heat, redness and pain. Normally, the cells get rid of the harmful matter quickly and the inflammation subsides. But sometimes, viruses can rev up an animal’s immune system too much. The inflammation becomes too intense or lasts too long. Then it can damage surrounding tissue and cause disease.\n\nBut scientists don’t see viruses triggering the same response in bats. Recent studies have shown that these mammals have a slight variation in their inflammasomes. As a result, they do not readily trigger floods of immune cells to fight viruses. And so bats can tolerate large amounts of many different kinds of viruses without suffering inflammatory diseases like rabies, Ebola, severe acute respiratory syndrome (SARS) and COVID-19. That’s important because they eat loads of virus-carrying insects like mosquitoes. But it also makes bats a reservoir for diseases that can be lethal to people.\n\nSome scientists think bats may have developed this trait because, unlike other mammals, they fly. It’s a behavior that takes a lot of energy and increases wear and tear on cells that release more broken-down cellular bits. The immune system must clean this mess up. If bats had not evolved the ability to dampen their immune response, flying would cause constant inflammation in their bodies.\n\nThe altered inflammasome may also contribute to bats living so long—up to 40 years. As animals age, cells in their bodies break down more often, triggering inflammation and diseases. Any process that reduces inflammation gives those that have it better chances of living longer.\n\nBy understanding how bats tolerate viruses, scientists can find ways to prevent them from transmitting deadly diseases like COVID-19 to people. And by learning how bats’ immune systems dampen inflammation responses, they can explore therapies and drugs that could do the same in people to reduce the impacts of other diseases caused by inflammation and aging. These include heart and circulatory system diseases, arthritis, allergies and asthma.",
   "function_addressed": [
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/immune-system-of-bats-helps-prevent-inflammation-response/",
-  "source_tier": "science_journalism",
   "keywords": [
     "immune",
     "system",
@@ -20,7 +21,5 @@
     "inflammation",
     "response"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

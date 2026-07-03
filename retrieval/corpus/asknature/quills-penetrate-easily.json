@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-quills-penetrate-easily",
   "organism_common": "North American porcupine",
-  "organism_scientific": "",
   "strategy_summary": "Quills of the North American porcupine penetrate tissue easily due to stress concentration at the barbs that likely stretches or tears tissue fibers locally at the interface of the quill. Watch this video to learn more about porcupine quills.",
-  "mechanism": "Quills of the North American porcupine penetrate tissue easily due to stress concentration at the barbs that likely stretches or tears tissue fibers locally at the interface of the quill.\n\nWatch this video to learn more about porcupine quills.\n\n“North American porcupines are well known for their specialized hairs, or quills that feature microscopic backward-facing deployable barbs that are used in self-defense. Herein we show that the natural quill’s geometry enables easy penetration and high tissue adhesion where the barbs specifically contribute to adhesion and unexpectedly, dramatically reduce the force required to penetrate tissue. Reduced penetration force is achieved by topography that appears to create stress concentrations along regions of the quill where the cross sectional diameter grows rapidly, facilitating cutting of the tissue. Barbs located near the first geometrical transition zone exhibit the most substantial impact on minimizing the force required for penetration. Barbs at the tip of the quill independently exhibit the greatest impact on tissue adhesion force and the cooperation between barbs in the 0–2 mm and 2–4 mm regions appears critical to enhance tissue adhesion force. The dual functions of barbs were reproduced with replica molded synthetic polyurethane quills.” (Cho et al.:21289)\n\n“[T]he quill with barbs required 54% less penetration force compared with the barbless quill…the barbed quill requires significantly less force and work to penetrate into tissue, compared with an 18 gauge hypodermic needle, which has a diameter of 1.161 ± 0.114 mm, similar to the diameter of a porcupine quill (1.262 ± 0.003 mm).” (Cho et al.:21289)\n\n“The analysis revealed that tissue is primarily stretched and deformed by high stress concentrations near the barbs. The local stress concentrations likely reduce the need to deform the entire circumference of tissue surrounding the quill, consequently reducing the penetration force.” (Cho et al.:21290)\n\nLearn more about the porcupine’s strategy in Tom McKeag’s case study, “Sticky Wicket,” on pages 27-30 of Zygote Quarterly 12 :",
+  "mechanism": "Quills of the North American porcupine penetrate tissue easily due to stress concentration at the barbs that likely stretches or tears tissue fibers locally at the interface of the quill.\n\nWatch this video to learn more about porcupine quills.\n\n“North American porcupines are well known for their specialized hairs, or quills that feature microscopic backward-facing deployable barbs that are used in self-defense. Herein we show that the natural quill’s geometry enables easy penetration and high tissue adhesion where the barbs specifically contribute to adhesion and unexpectedly, dramatically reduce the force required to penetrate tissue. Reduced penetration force is achieved by topography that appears to create stress concentrations along regions of the quill where the cross sectional diameter grows rapidly, facilitating cutting of the tissue. Barbs located near the first geometrical transition zone exhibit the most substantial impact on minimizing the force required for penetration. Barbs at the tip of the quill independently exhibit the greatest impact on tissue adhesion force and the cooperation between barbs in the 0–2 mm and 2–4 mm regions appears critical to enhance tissue adhesion force. The dual functions of barbs were reproduced with replica molded synthetic polyurethane quills.” (Cho et al.:21289)\n\n“[T]he quill with barbs required 54% less penetration force compared with the barbless quill…the barbed quill requires significantly less force and work to penetrate into tissue, compared with an 18 gauge hypodermic needle, which has a diameter of 1.161 ± 0.114 mm, similar to the diameter of a porcupine quill (1.262 ± 0.003 mm).” (Cho et al.:21289)\n\n“The analysis revealed that tissue is primarily stretched and deformed by high stress concentrations near the barbs. The local stress concentrations likely reduce the need to deform the entire circumference of tissue surrounding the quill, consequently reducing the penetration force.” (Cho et al.:21290)\n\nLearn more about the porcupine’s strategy in Tom McKeag’s case study, “Sticky Wicket,” on pages 27-30 of Zygote Quarterly 12:",
   "function_addressed": [
     "manage shear",
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::shear",
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/quills-penetrate-easily/",
-  "source_tier": "science_journalism",
   "keywords": [
     "quills",
     "penetrate",
     "easily"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

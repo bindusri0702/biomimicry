@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-social-system-protects-from-disease",
   "organism_common": "Pacific dampwood termite",
-  "organism_scientific": "",
   "strategy_summary": "Members of termite colonies transfer immunity among colony members via a sort of social vaccination. “Termites have devised an ingenious public health programme.",
   "mechanism": "Members of termite colonies transfer immunity among colony members via a sort of social vaccination.\n\n“Termites have devised an ingenious public health programme. By vaccinating their nest mates against infection, they prevent potentially devastating diseases destroying the colony, entomologists have discovered. This group immunity could be one reason why social insects are so successful…Now James Traniello and his team at Boston University in Massachusetts have found that living in a group boosts an individual termite’s immunity to disease. He had shown previously that termites that survive an infection are better able to fight off the same disease in future, suggesting that their immune system develops a ‘memory’ for the parasite, just as ours does. Traniello now wanted to find out whether this memory could be transferred between nest mates.\n\n“The researchers exposed dampwood termites ( Zootermopsis angusticollis ) to a fungal infection to immunise them. Next, they placed the immunised insects with termites that had never encountered the fungus. When they infected different groups of termites with the fungus, they found that unimmunised termites did better in these mixed groups than in a group on their own. The immunised insects are carrying out a sort of ‘social vaccination’, says Traniello.\n\n“As yet, the team doesn’t know how immunity is transferred. But Traniello has a few ideas. Termites regularly transfer gut bacteria to each other, which allows them to break down cellulose in wood. So they may be sharing fungicides produced by bacteria in their guts in the same way. Alternatively, the immunised termites might transfer inactivated fungal spores to their nest mates, which allows them to experience the pathogen safely.” (Randerson 2002:6)",
   "function_addressed": [
     "protect from fungi",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::fungi",
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/social-system-protects-from-disease/",
-  "source_tier": "science_journalism",
   "keywords": [
     "social",
     "system",
     "protects",
     "disease"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

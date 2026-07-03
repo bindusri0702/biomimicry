@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-birds-feign-injury-to-draw-away-predators",
   "organism_common": "Plovers",
-  "organism_scientific": "",
   "strategy_summary": "The natural world is full of organisms with tricks up their sleeves—insects that fool predators with their camouflage, wildcats that imitate the calls of baby monkeys to attract prey, and many others. Shorebirds could possibly top the list of cleverest creatures, due in part to a very peculiar distraction behavior…",
-  "mechanism": "Plovers, such as the piping plover and the Wilson’s plover, are small, sparrow-sized birds that live along coasts and make their nests on sandy beaches. These are not nests like you’d find woven in a tree, but merely small depressions in the sand, sometimes hidden among light grasses but other times completely out in the open—in either case, extremely vulnerable to predators.\n\nHumans already make extensive use of false signaling to protect each other or our assets. As we investigate the nuances of plover distraction performances, we could discover and apply adaptive techniques to make such displays more effective or versatile.\n\nOn a basic level, this could involve the development of more elaborate mechanical “scarecrows” to protect crops and airplanes from detrimental bird activity.\n\nThinking more expansively, applications could be found to improve digital defense strategies working against malicious software.",
+  "mechanism": "Plovers, such as the piping plover and the Wilson’s plover, are small, sparrow-sized birds that live along coasts and make their nests on sandy beaches. These are not nests like you’d find woven in a tree, but merely small depressions in the sand, sometimes hidden among light grasses but other times completely out in the open—in either case, extremely vulnerable to predators.\n\nThe eggs’ main protection is camouflage: they are speckled gray-brown in color and look like rocks on the beach. In order to prevent intruders from getting too close though, plover parents exhibit a range of conspicuous distraction behaviors, the most notable of which is called the “broken-wing display.”\n\nIn this scenario, when a potential predator approaches, the plover will fan its tail, squawk loudly, and flutter and drag its wings while walking forward along the ground. Painting the picture of an injured bird, the plover will hobble along for tens or hundreds of meters as the observer/predator follows. Once far from the nest, the bird will suddenly take off and fly away, clearly unwounded.\n\nThe effect is so convincing that it begs the question of whether this is an uncontrollable, automatic response (like opossums feigning death), or a masterful and intentional performance.\n\nResearchers tested the plovers’ broken-wing display to see if it had the consistency and effectiveness of a purposeful behavior. Forty-five trials were performed, in which a person approached a plover’s nest from various directions. In 44 out of these 45 trials, the direction of the plover’s display was such that the intruder was led away from the nest. Furthermore, the plovers consistently positioned themselves nearer to the intruders and more centered in their field of view before beginning their displays. Photographs and videos show that as the birds perform the broken-wing display and move away from the intruder, they repeatedly turn their heads sharply back over their shoulders, presumably to see if the distraction is working.\n\nThe researchers also performed trials in which the researchers posing as intruders either did not follow the displaying bird, or stopped following after a short distance. In 55% of these cases, the plovers stopped their displays and either flew or walked closer to the intruders; in 29% of the cases, the birds continued their displays, sometimes increasing their intensity with louder squawks and more vigorous flapping.\n\nHumans already make extensive use of false signaling to protect each other or our assets. As we investigate the nuances of plover distraction performances, we could discover and apply adaptive techniques to make such displays more effective or versatile.\n\nOn a basic level, this could involve the development of more elaborate mechanical “scarecrows” to protect crops and airplanes from detrimental bird activity.\n\nThinking more expansively, applications could be found to improve digital defense strategies working against malicious software.",
   "function_addressed": [
     "protect from animals",
     "adapt behaviors"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-behaviors",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/birds-feign-injury-to-draw-away-predators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "birds",
     "feign",
@@ -21,7 +24,5 @@
     "away",
     "predators"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

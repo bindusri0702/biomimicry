@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-lysosomes-recycle-protein-building-blocks",
   "organism_common": "Humans",
-  "organism_scientific": "",
   "strategy_summary": "Lysosomes in human cells recycle amino acid building blocks by capturing and breaking down malfunctioning proteins. Lysosomes are organelles within the cell that prevent the accumulation of malfunctioning proteins by continuously breaking them down into their constituent amino acids which are, in turn, used to build…",
   "mechanism": "Lysosomes in human cells recycle amino acid building blocks by capturing and breaking down malfunctioning proteins.\n\nLysosomes are organelles within the cell that prevent the accumulation of malfunctioning proteins by continuously breaking them down into their constituent amino acids which are, in turn, used to build new proteins. This process involves enzymes and increases the efficiency of cells in two ways: (1) by eliminating the need for complex waste management systems and (2) by providing the cells with new building blocks that don’t need to be “purchased” externally.\n\nLysosomes: In the cell, a waste protein (A) is taken up by a lysosome (B). In a process called proteolysis, the waste protein is broken down into the useful building block amino acids (C). Artist: Emily Harrington. Copyright: All rights reserved.",
   "function_addressed": [
     "catalyze chemical breakdown",
     "chemically break down polymers"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::catalyze-breaking-of-bonds",
+    "chemically-break-down::polymers"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/lysosomes-recycle-protein-building-blocks/",
-  "source_tier": "science_journalism",
   "keywords": [
     "lysosomes",
     "recycle",
@@ -20,7 +22,5 @@
     "building",
     "blocks"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

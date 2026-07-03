@@ -1,23 +1,24 @@
 {
   "doc_id": "asn-spores-are-self-propelled",
   "organism_common": "Wood ear",
-  "organism_scientific": "",
   "strategy_summary": "Spores of basidomycete fungi disperse using a surface tension catapult. “Surface tension is almost imperceptible at length scales at which humans operate.",
   "mechanism": "Spores of basidomycete fungi disperse using a surface tension catapult.\n\n“Surface tension is almost imperceptible at length scales at which humans operate. However at microscopic length scales, surface tension forces dominate over the force of gravity [e.g. when the length of an object gets smaller than 1mm]…This simple phenomenon has profound consequences on the release of spores. The dispersal of most fungal spores by wind requires that they be small thus making the force of gravity inconsequential compared with adhesion forces. As a result spores tend to cling to each other and to the gills of mushroom caps. Active spore ejection provides a solution to this problem…However, unlike other active dispersal systems which involve mass release of spores from specialized launching structures, ballistospores are self propelled by water.” (Noblin 2009:2835)\n\nBallistospore ejection in Auricularia auricula (Noblin 2009:2835)",
   "function_addressed": [
     "capture, absorb, or filter liquids",
     "distribute solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids",
+    "distribute::solids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/spores-are-self-propelled/",
-  "source_tier": "science_journalism",
   "keywords": [
     "spores",
     "self-propelled"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

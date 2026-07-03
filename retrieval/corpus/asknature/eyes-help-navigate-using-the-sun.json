@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-eyes-help-navigate-using-the-sun",
   "organism_common": "Apoid wasps",
-  "organism_scientific": "",
   "strategy_summary": "The eyes of bees help them navigate by detecting polarized light. “Bees have an amazing ability to discern and employ polarized light.",
   "mechanism": "The eyes of bees help them navigate by detecting polarized light.\n\n“Bees have an amazing ability to discern and employ polarized light. They use the position of the sun to navigate their way to and from the hive.” (Shuker 2001:8)",
   "function_addressed": [
     "sense light (non-visible spectrum) from the environment",
     "navigate through air"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "navigate::through-air",
+    "sense-signals-environmental-cues::light-non-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "navigate",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/eyes-help-navigate-using-the-sun/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eyes",
     "navigate",
     "sun"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

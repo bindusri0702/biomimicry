@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-mucus-glues-sand-and-rock",
   "organism_common": "Sabellaria worms",
-  "organism_scientific": "",
   "strategy_summary": "Introduction In the deep blue sea, there are creatures that build their homes from the grains of sand that line the seafloor. These houses not only provide them with shelter from predators, but also act as a perch from which they can extend their tentacles to feed on passing plankton.",
-  "mechanism": "Sabellaria worms are marine creatures that build tubes out of sand and mucus in order to protect themselves from predators. The tubes provide the worms with a safe place to hide when they are not covered by water, and extend their tentacles out to feed when they are. The tubes are built by the worms cementing together particles of sand and rock. The worms secrete mucus from their bodies, which acts as a glue to hold the sand grains together. The tubes can be up to 30 mm long, and the worms can build them into extensive reefs made up of millions of tubes.\n\nThe ability of Sabellaria worms to build their homes out of sand and mucus could be emulated by humans in a number of ways. For example, the worms could be used to create environmentally friendly building materials that are biodegradable and non-toxic. The worms could also be used to create artificial reefs that could provide homes for other marine creatures.",
+  "mechanism": "Sabellaria worms are marine creatures that build tubes out of sand and mucus in order to protect themselves from predators. The tubes provide the worms with a safe place to hide when they are not covered by water, and extend their tentacles out to feed when they are. The tubes are built by the worms cementing together particles of sand and rock. The worms secrete mucus from their bodies, which acts as a glue to hold the sand grains together. The tubes can be up to 30 mm long, and the worms can build them into extensive reefs made up of millions of tubes.\n\nThe ability of Sabellaria worms to build their homes out of sand and mucus could be emulated by humans in a number of ways. For example, the worms could be used to create environmentally friendly building materials that are biodegradable and non-toxic. The worms could also be used to create artificial reefs that could provide homes for other marine creatures.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "attach permanently"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/mucus-glues-sand-and-rock/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mucus",
     "glues",
     "sand",
     "rock"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

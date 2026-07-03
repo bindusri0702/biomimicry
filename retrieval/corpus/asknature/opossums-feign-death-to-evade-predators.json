@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-opossums-feign-death-to-evade-predators",
   "organism_common": "Opossum",
-  "organism_scientific": "",
   "strategy_summary": "Opossums perform this behavior so spectacularly, people named it after them: “playing possum.” When predators attack opossums and block any chance at escape, opossums lie on their sides, their muscles rigid, their bodies flexed and unresponsive to touch—right down to their toes. Their breathing and heartbeats slow…",
   "mechanism": "Playing possum is known more scientifically as death-feigning or thanatosis. But it’s not acting. It’s not voluntary at all. It’s a built-in physiological defense system that is automatically triggered as a last-resort response to an otherwise inescapable death. The body’s nervous system sets off a cascade of neurochemicals and hormones that dramatically affect the function of the many parts of the brain, as well as organs throughout the body.\n\nIt’s distinct from “freezing” when a predator approaches. Organisms do that to keep quiet and hide, but they are ready and able to move fast if they are detected. In thanatosis, the body cannot move, so many scientists refer to the phenomenon as “tonic immobility.” (“Tonic,” in this context, relating to muscle “tone” and referring to a prolonged contraction of muscles.)\n\nNot only possums play possum. Cold-blooded reptiles such as hognose snakes flip belly-up and remain rigid, with mouth open and tongue hanging out. They often spew blood from their mouth and emit a vile-smelling secretion from anal glands. Birds do it. Bees do it. Even other types of bugs do it.\n\nPygmy grasshoppers show that tonic immobility can work in various ways. Cornered by frogs, the grasshoppers assume a rigid pose that makes them larger and exposes their spines—making them much harder for the frogs to swallow. Male praying mantises do it to avoid being eaten by larger females they have just mated with. In a curious twist on that, male nursery web spiders offer females a dead insect wrapped in silk and then play possum to avoid being eaten themselves. They are dragged along with the gift, and when the females start eating, the males come out of their thanatosis and mate with the distracted females.\n\nThe fact that so many different species experience tonic immobility shows that it can be an effective defense mechanism. Only recently, scientists have recognized that humans also experience it.\n\nConfronted by violent life-threatening situations, many people report feeling suddenly and uncontrollably paralyzed—unable to move or speak. While other animals seem generally able to revert to normal functioning when the danger is past, people often cannot. Their systems continue to respond to feelings of danger. Those who experience traumas are often guilt-ridden and/or stigmatized for a reaction that they cannot control. More research to understand the physiological mechanisms that trigger tonic immobility hold great potential to develop therapies and medical treatments to alleviate symptoms of people suffering post-traumatic stress.",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/opossums-feign-death-to-evade-predators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "opossums",
     "feign",
@@ -19,7 +20,5 @@
     "evade",
     "predators"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-appendage-causes-high-jumps",
   "organism_common": "Springtails",
-  "organism_scientific": "",
   "strategy_summary": "The abdominal, tail-like appendage of springtails (furcula) is a pronged fork device causing high jumps when stored tension is released. Springtails “possess a pronged fork device which is doubled beneath the body and held in place by terminal catches when not in use; when released under tension, the fork strikes the…",
   "mechanism": "The abdominal, tail-like appendage of springtails (furcula) is a pronged fork device causing high jumps when stored tension is released.\n\nSpringtails “possess a pronged fork device which is doubled beneath the body and held in place by terminal catches when not in use; when released under tension, the fork strikes the substrate with considerable force, sending the springtail spinning high into the air.” (Wootton 1984:146)",
   "function_addressed": [
@@ -9,18 +8,22 @@
     "transform mechanical energy",
     "modify position"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::position",
+    "move::in-through-gases",
+    "transform-convert-energy::mechanical-energy"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "move",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/appendage-causes-high-jumps/",
-  "source_tier": "science_journalism",
   "keywords": [
     "appendage",
     "causes",
     "high",
     "jumps"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

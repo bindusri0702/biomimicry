@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-microstructures-protect-from-damage",
   "organism_common": "Attach Temporarily",
-  "organism_scientific": "",
   "strategy_summary": "Microhairs on the head and neck of the dragonfly create friction to temporarily arrest the head and protect it from damage. Most insects have multiple points of attachment between their head and neck.",
   "mechanism": "Microhairs on the head and neck of the dragonfly create friction to temporarily arrest the head and protect it from damage.\n\nMost insects have multiple points of attachment between their head and neck. This keeps the head stable and protects it from damage, but it limits the range of motion, reducing visibility. In species that need a wider visible area—such as hunters like dragonflies and damselflies—the head and neck are attached only at a single point. Although this allows for a wider range of motion, this arrangement also makes the head more vulnerable to damage when the insect moves suddenly. To help keep its head more stable, the dragonfly has a “head-arresting system,” which allows the head and neck to join temporarily, keeping the head in place.\n\nThe head-arresting system is comprised of thousands of fixed hairs, known as microtrichia, located on the back of the head and upper part of the neck. The hairs have complementary shapes that allow them to fit together, and each pair of interlocking hairs creates a small amount of friction as they slide past one another. The cumulative effect of thousands of hairs rubbing against each other adds up to a significant amount of friction, allowing the dragonfly to hold its head stably in place. The attachment is easily reversible if the dragonfly uses enough force to pull its head away from the neck, allowing the insect to repeatedly and stably attach the head and neck.\n\nDragonfly\n\nDiagram of microtrichia on head and neck (SPC) with complementary shapes\n\nElectron microscope images of microtrichia on head and neck of dragonfly, that function as a head-arresting system",
   "function_addressed": [
     "attach temporarily",
     "modify position"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "modify-physical-state::position"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/microstructures-protect-from-damage/",
-  "source_tier": "science_journalism",
   "keywords": [
     "microstructures",
     "protect",
     "damage"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

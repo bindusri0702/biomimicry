@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-mucus-filters-trap-particles-smaller-than-mesh-size",
   "organism_common": "Salps",
-  "organism_scientific": "",
   "strategy_summary": "The food filters of Pegea confoederata salps capture food smaller than its mesh size by optimizing the water flow through their continuously secreted sticky mucus net. While it may not seem intuitive that filters can trap particles smaller than the size of their mesh, the fingernail-size marine salp ( Pegea…",
   "mechanism": "The food filters of Pegea confoederata salps capture food smaller than its mesh size by optimizing the water flow through their continuously secreted sticky mucus net.\n\nWhile it may not seem intuitive that filters can trap particles smaller than the size of their mesh, the fingernail-size marine salp ( Pegea confoederata ) depends on it for its survival. As the salp pulls the surrounding sea water into its body, it uses muscles to ensure the flow is as calm and orderly as a river on a windless day. By eliminating the effects of turbulence, particles smaller than the mesh, such as bacteria, viruses, and colloidal masses, pass extremely close to the net material. At a certain distance from the net, they adhere to the sticky netting material continuously secreted by the salp. Particles even smaller than bacteria, viruses, and colloidal masses diffuse right into the filter material. The specific fluid mechanical conditions which P. confoederata creates in its filtration systems enable it to trap particles with diameters as small as 0.01 micron (viruses, colloids, etc.) even though the filter mesh measures ~ 1.5 x 6 microns. This adaptation allows the macroscopic salps to survive on a diet of some of the tiniest biological life-forms known.",
   "function_addressed": [
@@ -10,11 +9,16 @@
     "expel solids",
     "expel liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::solids",
+    "expel::liquids",
+    "expel::solids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "expel"
+  ],
   "source_url": "https://asknature.org/strategy/mucus-filters-trap-particles-smaller-than-mesh-size/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mucus",
     "filters",
@@ -23,7 +27,5 @@
     "smaller",
     "than"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

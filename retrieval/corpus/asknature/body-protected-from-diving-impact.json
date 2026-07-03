@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-body-protected-from-diving-impact",
   "organism_common": "Brown pelican",
-  "organism_scientific": "",
-  "strategy_summary": "The body of the brown pelican is protected from impact during plunge-diving thanks to subcutaneous air-sacs. To learn more about pelican plunge-diving and how they manage impact, check out this video from KQED Deep Look .",
-  "mechanism": "The body of the brown pelican is protected from impact during plunge-diving thanks to subcutaneous air-sacs.\n\nTo learn more about pelican plunge-diving and how they manage impact, check out this video from KQED Deep Look .\n\nThis content marked as “Google Youtube” uses cookies that you chose to keep disabled. Click here to open your preferences and accept cookies. .\n\nVideo content © 2017 KQED INC. All Rights Reserved.\n\nPacific Brown Pelican , Bolsa Chica Ecological Reserve, Huntington Beach, California\n\nPacific Brown Pelican , Cove Cliffs, San Diego La Jolla Underwater Park (Ecological Reserve), La Jolla, California",
+  "strategy_summary": "The body of the brown pelican is protected from impact during plunge-diving thanks to subcutaneous air-sacs. To learn more about pelican plunge-diving and how they manage impact, check out this video from KQED Deep Look.",
+  "mechanism": "The body of the brown pelican is protected from impact during plunge-diving thanks to subcutaneous air-sacs.\n\nTo learn more about pelican plunge-diving and how they manage impact, check out this video from KQED Deep Look.\n\nThis content marked as “Google Youtube” uses cookies that you chose to keep disabled. Click here to open your preferences and accept cookies..\n\nVideo content © 2017 KQED INC. All Rights Reserved.\n\nPacific Brown Pelican, Bolsa Chica Ecological Reserve, Huntington Beach, California\n\nPacific Brown Pelican, Cove Cliffs, San Diego La Jolla Underwater Park (Ecological Reserve), La Jolla, California",
   "function_addressed": [
     "manage impact"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::impact"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/body-protected-from-diving-impact/",
-  "source_tier": "science_journalism",
   "keywords": [
     "body",
     "protected",
     "diving",
     "impact"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

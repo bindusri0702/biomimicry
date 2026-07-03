@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-eggs-attached-securely-to-hairs",
   "organism_common": "Lice",
-  "organism_scientific": "",
   "strategy_summary": "The eggs of body lice are attached to the hairs of their host with a cement-like substance. How Lice Turn Your Hair Into Their Jungle Gym  “Eggs of body lice, commonly called ‘nits’, are attached to the body hairs of the host by a cement-like substance.” (Wootton 1984:87)",
   "mechanism": "The eggs of body lice are attached to the hairs of their host with a cement-like substance.\n\nHow Lice Turn Your Hair Into Their Jungle Gym\n\n“Eggs of body lice, commonly called ‘nits’, are attached to the body hairs of the host by a cement-like substance.” (Wootton 1984:87)",
   "function_addressed": [
     "attach permanently"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/eggs-attached-securely-to-hairs/",
-  "source_tier": "science_journalism",
   "keywords": [
     "eggs",
     "attached",
     "securely",
     "hairs"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

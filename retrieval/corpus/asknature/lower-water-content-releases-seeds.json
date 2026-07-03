@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-lower-water-content-releases-seeds",
   "organism_common": "Mexican petunia",
-  "organism_scientific": "",
   "strategy_summary": "The seed capsules of some wild petunias spring open explosively when they reach a certain degree of dryness. “Some seed capsules have a particularly neat way of achieving motility by varying water content.",
   "mechanism": "The seed capsules of some wild petunias spring open explosively when they reach a certain degree of dryness.\n\n“Some seed capsules have a particularly neat way of achieving motility by varying water content. Witztum and Schulgasser (1995) showed that the two halves of the capsule (as in fig. 22.1) store energy as they dry; at a certain dryness (or, in some, when the top of the capsule is wetted) the seam joining them gives way suddenly. The capsule halves spring outward, which not only releases the seeds within, but expels them explosively at speeds up to 12 meters per second (27 miles per hour); they travel up to about 3 meters. The springing mechanism, as they point out, matches that of the bimetallic strips we use for thermometers and thermostats–differential expansion of longitudinally joined layers produces the stress that springing relieves.” (Vogel 2003:444)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
   "function_addressed": [
     "distribute solids",
     "disperse seeds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::solids",
+    "provide-ecosystem-services::disperse-seeds"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/lower-water-content-releases-seeds/",
-  "source_tier": "science_journalism",
   "keywords": [
     "lower",
     "water",
@@ -20,7 +23,5 @@
     "releases",
     "seeds"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

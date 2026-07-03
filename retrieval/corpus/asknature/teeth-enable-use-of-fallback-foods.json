@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-teeth-enable-use-of-fallback-foods",
   "organism_common": "Great Apes",
-  "organism_scientific": "",
   "strategy_summary": "The teeth of great apes help them survive times of food scarcity because they are diverse in type and material characteristics, allowing consumption of fallback foods. “The teeth of some apes are formed primarily to handle the most stressful times when food is scarce, according to new research performed at the…",
   "mechanism": "The teeth of great apes help them survive times of food scarcity because they are diverse in type and material characteristics, allowing consumption of fallback foods.\n\n“The teeth of some apes are formed primarily to handle the most stressful times when food is scarce, according to new research performed at the National Institute of Standards and Technology (NIST). The findings imply that if humanity is serious about protecting its close evolutionary cousins, the food apes eat during these tough periods—and where they find it—must be included in conservation efforts…\n\n“…[N]atural selection in three ape species has favored individuals whose teeth can most easily handle the ‘fallback foods’ they choose when their preferred fare is less available. All of these apes—gorillas, orangutans and chimpanzees—favor a diet of fruit whenever possible. But when fruit disappears from their usual foraging grounds, each species responds in a different way—and has developed teeth formed to reflect the differences.” (EurekAlert! 2009)",
   "function_addressed": [
@@ -11,18 +10,25 @@
     "physically break down living materials",
     "manage mechanical wear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-genotype",
+    "adapt-optimize::adapt-phenotype",
+    "modify-physical-state::material-characteristics",
+    "physically-break-down::living-materials",
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "modify-physical-state",
+    "physically-break-down",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/teeth-enable-use-of-fallback-foods/",
-  "source_tier": "science_journalism",
   "keywords": [
     "teeth",
     "enable",
     "fallback",
     "foods"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-color-in-feathers-resists-bacterial-degradation",
   "organism_common": "Parrots",
-  "organism_scientific": "",
   "strategy_summary": "Parrots are among the most colorful birds in the world, boasting a vivid array of greens, blues, reds, and yellows. These vibrant colors are not only stunning but also play a crucial role in their social interactions and mating displays.",
-  "mechanism": "Unlike many other birds, which acquire their red and yellow appearance from carotenoid pigment s in the foods they eat, parrots create their own color-producing compounds. The resilience of parrot feathers against bacterial attacks is largely attributed to these “psittacofulvins” (from the Greek word for parrot, and a Latin term for “reddish yellow”).\n\nResearch involving exposure of various colored parrot feathers to the feather-degrading bacteria, Bacillus licheniformis, revealed that feathers imbued with psittacofulvins—especially those that are red—showed a slower degradation rate compared to white feathers, which lack pigments. This protective feature is similar to the function of melanin, another pigment which is known to enhance the resistance of feathers to bacterial damage.\n\nSo, how do they do it? Psittacofulvins seem to bind tightly to the β-keratin molecules in feathers, creating a robust pleated sheet structure that hinders enzymes produced by bacteria from accessing and breaking down the keratin. Some feathers still combine structural color with these protective pigments, and research has shown that their protective properties are still just as effective. For instance green feathers, which combine structural blue coloration and yellow psittacofulvins, resist degradation just as effectively as those with only red or black pigments.\n\nThe dual role of psittacofulvins in parrot feathers—as color providers and as protectors against microbial damage—offers intriguing insights for biomimetic applications. Materials science can draw inspiration from this natural strategy to develop new synthetic fibers and coatings that mimic the protective properties of psittacofulvins. Such materials could then be inherently colored and resistant to microbial degradation, ideal for use in humid or microbe-rich environments.\n\nAdditionally, parrot feathers could inspire innovations in sustainable dyeing techniques that integrate microbial resistance into the dye molecules themselves. This approach could reduce the need for additional finishing processes that often involve toxic chemicals, thereby promoting a more eco-friendly textile industry.",
+  "mechanism": "Unlike many other birds, which acquire their red and yellow appearance from carotenoid pigment s in the foods they eat, parrots create their own color-producing compounds. The resilience of parrot feathers against bacterial attacks is largely attributed to these “psittacofulvins” (from the Greek word for parrot, and a Latin term for “reddish yellow”).\n\nResearch involving exposure of various colored parrot feathers to the feather-degrading bacteria, Bacillus licheniformis, revealed that feathers imbued with psittacofulvins—especially those that are red—showed a slower degradation rate compared to white feathers, which lack pigments. This protective feature is similar to the function of melanin, another pigment which is known to enhance the resistance of feathers to bacterial damage.\n\nSo, how do they do it? Psittacofulvins seem to bind tightly to the β-keratin molecules in feathers, creating a robust pleated sheet structure that hinders enzymes produced by bacteria from accessing and breaking down the keratin. Some feathers still combine structural color with these protective pigments, and research has shown that their protective properties are still just as effective. For instance green feathers, which combine structural blue coloration and yellow psittacofulvins, resist degradation just as effectively as those with only red or black pigments.\n\nThe dual role of psittacofulvins in parrot feathers—as color providers and as protectors against microbial damage—offers intriguing insights for biomimetic applications. Materials science can draw inspiration from this natural strategy to develop new synthetic fibers and coatings that mimic the protective properties of psittacofulvins. Such materials could then be inherently colored and resistant to microbial degradation, ideal for use in humid or microbe-rich environments.\n\nAdditionally, parrot feathers could inspire innovations in sustainable dyeing techniques that integrate microbial resistance into the dye molecules themselves. This approach could reduce the need for additional finishing processes that often involve toxic chemicals, thereby promoting a more eco-friendly textile industry.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "protect from microbes",
     "manage mechanical wear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::mechanical-wear",
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/color-in-feathers-resists-bacterial-degradation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "color",
     "feathers",
@@ -20,7 +23,5 @@
     "bacterial",
     "degradation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

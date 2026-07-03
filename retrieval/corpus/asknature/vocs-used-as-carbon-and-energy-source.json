@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-vocs-used-as-carbon-and-energy-source",
   "organism_common": "Fungi",
-  "organism_scientific": "",
   "strategy_summary": "The metabolism of fungal species can gain energy and carbon from two different volatile organic compounds. “Five fungal species, Cladosporium resinae [ Hormoconis resinae ] (ATCC 34066), Cladosporium sphaerospermum (ATCC 200384), Exophiala lecanii-corni (CBS 102400), Mucor rouxii (ATCC 44260), and Phanerochaete…",
   "mechanism": "The metabolism of fungal species can gain energy and carbon from two different volatile organic compounds.\n\n“Five fungal species, Cladosporium resinae [ Hormoconis resinae ] (ATCC 34066), Cladosporium sphaerospermum (ATCC 200384), Exophiala lecanii-corni (CBS 102400), Mucor rouxii (ATCC 44260), and Phanerochaete chrysosporium (ATCC 24725), were tested for their ability to degrade nine compounds commonly found in industrial off-gas emissions. Fungal cultures inoculated on ceramic support media were provided with volatile organic compounds (VOCs) via the vapor phase as their sole carbon and energy sources. Compounds tested included aromatic hydrocarbons (benzene, ethylbenzene, toluene, and styrene), ketones (methyl ethyl ketone, methyl isobutyl ketone, and methyl propyl ketone), and organic acids (n-butyl acetate, ethyl 3-ethoxypropionate). Experiments were conducted using three pH values ranging from 3.5 to 6.5. Fungal ability to degrade each VOC was determined by observing the presence or absence of visible growth on the ceramic support medium during a 30-day test period. Results indicate that E. lecanii-corni and C. sphaerospermum can readily utilize each of the nine VOCs as a sole carbon and energy source. P. chrysosporium was able to degrade all VOCs tested except for styrene under the conditions imposed. C. resinae was able to degrade both organic acids, all of the ketones, and some of the aromatic compounds (ethylbenzene and toluene); however, it was not able to grow utilizing benzene or styrene under the conditions tested. With the VOCs tested, M. rouxii produced visible growth only when supplied with n-butyl acetate or ethyl 3-ethoxypropionate. Maximum growth for most fungi was observed at a pH of approximately 5.0. The experimental protocol utilized in these studies is a useful tool for assessing the ability of different fungal species to degrade gas-phase VOCs under conditions expected in a biofilter application.” (Qi et al. 2002:684)",
   "function_addressed": [
     "chemically break down organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/vocs-used-as-carbon-and-energy-source/",
-  "source_tier": "science_journalism",
   "keywords": [
     "vocs",
     "used",
@@ -19,7 +20,5 @@
     "energy",
     "source"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

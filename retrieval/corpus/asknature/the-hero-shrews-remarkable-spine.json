@@ -1,26 +1,28 @@
 {
   "doc_id": "asn-the-hero-shrews-remarkable-spine",
   "organism_common": "Hero shrew",
-  "organism_scientific": "",
   "strategy_summary": "In the vast forests of the Congo Basin in west and central Africa, there lives a small, unassuming creature with a very big secret. The hero shrew is a mouse-sized mammal with a spine that is three times as thick as that of a normal shrew.",
-  "mechanism": "The hero shrew’s spine consists of more vertebrae than other shrews, and those vertebrae are shorter front-to-back, but much taller bottom-to-top.\n\nThe extended side wings of the vertebrae also feature countless horizontal tubercles that allow the separate bones to fit snugly together, allowing the flexed back to take on the properties of a single massive column.\n\nThere are also strong attachment points for the muscles that pull the back together, and in particular arch it upwards.\n\nThe hero shrew’s unique spine is an adaptation that could be emulated by humans in a variety of ways. The interlocking bones could be used as a model for designing stronger, more flexible joints for prosthetic limbs. They could also inspire joining elements for pre-manufactured buildings in earthquake zones or hitching elements in transportation environments that require flexibility as well as strength.",
+  "mechanism": "The hero shrew’s spine consists of more vertebrae than other shrews, and those vertebrae are shorter front-to-back, but much taller bottom-to-top.\n\nThe extended side wings of the vertebrae also feature countless horizontal tubercles that allow the separate bones to fit snugly together, allowing the flexed back to take on the properties of a single massive column.\n\nThere are also strong attachment points for the muscles that pull the back together, and in particular arch it upwards.\n\nScutisorex somereni skeleton (FMNH 227556) by scutisorex on Sketchfab\n\nComplementing these features is the makeup of the bone matter itself. Bone is a “cellular solid”, made of a network of matter and spaces that cause it to be both lightweight and strong. Hero shrew vertebrae though have incredibly dense bone––an indicator that the bones experience intense compression front-to-back.\n\nThese features have led researchers to hypothesize that the hero shrew’s striking spine has developed in relationship to a foraging strategy that leads the species to scrunch up and push against plant parts, rocks, and logs in order to access hidden worms and insect larvae. While never documented in the wild, this scenario fits with the observation that people in the region often see the shrews while harvesting similar food sources by prying dead palm fronds off trunks.\n\nThe hero shrew’s unique spine is an adaptation that could be emulated by humans in a variety of ways. The interlocking bones could be used as a model for designing stronger, more flexible joints for prosthetic limbs. They could also inspire joining elements for pre-manufactured buildings in earthquake zones or hitching elements in transportation environments that require flexibility as well as strength.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "move in/on solids",
     "manage impact",
     "manage compression"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::impact",
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/the-hero-shrews-remarkable-spine/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hero",
     "shrew",
     "remarkable",
     "spine"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

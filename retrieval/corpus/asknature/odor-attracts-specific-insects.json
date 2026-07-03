@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-odor-attracts-specific-insects",
   "organism_common": "Send Chemical Signals (Odor, Taste, Etc.)",
-  "organism_scientific": "",
   "strategy_summary": "The inflorescence of the titan arum plant attracts specific pollinators by emitting an intense, carrion-like odor. A titan arum (Amorphophallus titanum) with 3 flowers at Botanischer Garten Bonn  Amorphophallus titanum  This Giant Plant Looks Like Raw Meat and Smells Like Dead Rat  “The titan’s inflorescence is said…",
   "mechanism": "The inflorescence of the titan arum plant attracts specific pollinators by emitting an intense, carrion-like odor.\n\nA titan arum (Amorphophallus titanum) with 3 flowers at Botanischer Garten Bonn\n\nAmorphophallus titanum\n\nThis Giant Plant Looks Like Raw Meat and Smells Like Dead Rat\n\n“The titan’s inflorescence is said to give off a revolting stench…As we sat beside it, the smell seemed to come in waves. Sometimes it was strong; sometimes it faded. There was no wind in the forest, so we had to conclude that the flower was sending out its perfume in pulses.” (Attenborough 1995:139)\n\n“A pronounced odor, different from species to species but usually carrion-like. A truly classical demonstration of its biological significance was given in 1926 by Knoll (1)…the odor serves the purpose of attracting large numbers of small insects-mostly Psychodid flies, but also some Staphylinid beetles-which are thereupon trapped in the floral chamber where they are held prisoner for about a day.” (Bastiaan 1960:70)\n\nWatch video",
   "function_addressed": [
     "send chemical signals (odor, taste, etc.)"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::chemical-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/odor-attracts-specific-insects/",
-  "source_tier": "science_journalism",
   "keywords": [
     "odor",
     "attracts",
     "specific",
     "insects"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

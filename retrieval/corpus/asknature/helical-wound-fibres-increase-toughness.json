@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-helical-wound-fibres-increase-toughness",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "Cellulose fibers in plant stems increase toughness by winding around tubes at an angle  Materials that are strong and stiff while not being brittle are very useful. However, resistance to fracture is linked to flexibility, meaning these two properties are in conflict with each other: stiff and hard materials are prone…",
   "mechanism": "Cellulose fibers in plant stems increase toughness by winding around tubes at an angle\n\nMaterials that are strong and stiff while not being brittle are very useful. However, resistance to fracture is linked to flexibility, meaning these two properties are in conflict with each other: stiff and hard materials are prone to cracking, while those that don’t crack tend to be weaker and prone to bending. Composite materials achieve improved performance, usually by embedding a strong and stiff material in a matrix of a softer and more flexible one to combine the best properties of both.\n\nWood is a trusted composite that humans have used for building for millennia. Wood is a composite of cellulose fibers embedded in a matrix, but its performance is better than models suggest it should be based on its composition alone: the arrangement of the fibers matters. In trees, hollow tubes (which double as transport vessels) are reinforced with spiral-wrapped bundles of cellulose fibers. Wood is hierarchical and bundles of vessels form concentric layers that contribute to strength and stiffness. Because the fibers are helically wound, they do not easily snap or pull out of the matrix—the two main ways in which fiber composites commonly fail. Instead, fibers must unwind as they are pulled out and broken, increasing the energy required to fracture wood.\n\nBamboo is a woody grass with material properties comparable with steel, which it is often used in place of. Like wood, bamboo is a cellulose composite with helically-wound fibers wrapped around hollow vessel bundles. However, the structure of vessels in bamboo is more complex. In bamboo, vessels are wrapped in a series of concentric layers of cellulose fibers that alternate between thick layers of fibers wound in one direction (at an angle of about 45° to the vertical) and thin layers wound in the opposite direction (at an angle of around 5° to the vertical). When a plant bends, one side of the stem, and of each vascular bundle, is compressed, while the opposite side stretches. When the cellulose fibers are compressed they can bulge and buckle, leading to failure of the material. The inclusion of thin, oppositely-coiled cellulose layers restrain the main load-bearing thick layers, preventing them from bulging and giving bamboo its impressive performance.\n\nWhen they do break, both wood and bamboo absorb a lot of the energy and broken stems often remain attached, meaning failure is safer than in other materials.\n\nBamboo has such good structural properties that it is often used as scaffolding\n\nSequoias are the world’s tallest trees\n\nin bamboo, thick layers of helically wound fibres are strengthened by thin layers of oppositely wound fibres.\n\nTrees can withstand huge stresses for their size, however they can still be broken\n\nPlants\n\nParenchyma cells in plants provide mechanical support when they become lignified and thick-walled.\n\nScots pine\n\nTrunks and branches of trees withstand external stresses through load-adaptive growth.\n\nPines\n\nThe trunks of pine trees withstands wind and snow via spiral growth.",
   "function_addressed": [
@@ -11,11 +10,18 @@
     "manage tension",
     "manage impact"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "manage-structural-forces::impact",
+    "manage-structural-forces::shear",
+    "manage-structural-forces::tension",
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/helical-wound-fibres-increase-toughness/",
-  "source_tier": "science_journalism",
   "keywords": [
     "helical",
     "wound",
@@ -23,7 +29,5 @@
     "increase",
     "toughness"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

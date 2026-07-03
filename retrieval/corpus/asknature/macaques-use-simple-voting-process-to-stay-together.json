@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-macaques-use-simple-voting-process-to-stay-together",
   "organism_common": "Tonkean macaque",
-  "organism_scientific": "",
   "strategy_summary": "Macaques use simple, clear, inclusive voting process to stay together as a group  Tonkean macaques live in the forests of the Indonesian island of Sulawesi. They move between food patches seamlessly, without conflict, even while traveling in large bands of up to 30 monkeys.",
   "mechanism": "Macaques use simple, clear, inclusive voting process to stay together as a group\n\nTonkean macaques live in the forests of the Indonesian island of Sulawesi. They move between food patches seamlessly, without conflict, even while traveling in large bands of up to 30 monkeys. You might think a dominant male makes the decisions about which fruit tree to visit next, but you’d be wrong. Instead, any of the macaques, male or female, young or old, can help make this decision. And the troop arrives at each decision through a consensus by voting.\n\nWhen a macaque would like to move on to another fruit patch, it signals this to the rest of the troop by stepping towards the direction it would like to go, stopping, and then turning to look back at the rest of the troop. This begins the voting process. At this point, another macaque may move in a different direction, effectively proposing the troop travel towards a different fruit patch. Additional monkeys then join one or the other initiators, casting their vote for one direction or another based on preference and their relationships with the other monkeys in each group. Once a voting monkey stops looking back at the rest of the troop, the voting process is effectively over. The remaining monkeys simply join whichever group is largest. The monkeys that voted for the unchosen route then join the rest of the troop, in order to all stay together.\n\nSimple, clear processes of decision-making, in which all members of a group have the opportunity to voice an opinion, and in which an ultimate consensus can always be formed, can be highly effective in keeping a group together.",
   "function_addressed": [
     "coordinate by self-organization"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "coordinate::by-self-organization"
+  ],
+  "subgroup_keys": [
+    "coordinate"
+  ],
   "source_url": "https://asknature.org/strategy/macaques-use-simple-voting-process-to-stay-together/",
-  "source_tier": "science_journalism",
   "keywords": [
     "macaques",
     "simple",
@@ -20,7 +21,5 @@
     "stay",
     "together"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

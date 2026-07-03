@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-skin-and-feathers-deter-ectoparasites",
   "organism_common": "Black pitohui",
-  "organism_scientific": "",
   "strategy_summary": "The Pitohui birds of New Guinea are remarkable not only for their vibrant plumage but also for their toxic nature. These birds, once thought to belong to a single evolutionary lineage, are now known to be polyphyletic, meaning they originate from multiple ancestral lines.",
-  "mechanism": "The adaptation of toxicity in Pitohui birds is a fascinating example of nature’s defense mechanisms. The primary toxin, batrachotoxin, is a potent neurotoxin that these birds (and some poison dart frogs) acquire through their diet, particularly from toxic melyrid beetles. Once ingested, the toxin is excreted through the birds’ uropygial gland —a small gland at the base of the tail that secretes oil used for preening feathers. While previously believed to deter predators, research has shown that spreading these toxic secretions onto the feathers and skin primarily provides a chemical barrier against these harmful parasites and bacteria.\n\nThe toxin itself works by binding to voltage-gated sodium channels, disrupting an organism’s ability to send electrical signals throughout the body, resulting in a tingling sensation at small doses, and even death at higher ones.\n\nResearch has shown that not all Pitohui species possess the same level of toxicity. Species like Pitohui dichrous and P. kirhocephalus are highly toxic, while others like P. ferrugineus are less so, and P. incertus shows no detectable toxins. This variation suggests that diet plays a crucial role in the extent of toxicity. Birds feeding extensively on toxic beetles become more poisonous, which indicates that the potential to develop toxicity is an ancestral trait in these birds, but its expression varies with dietary habits.\n\nThe use of non-toxic methods for pest control, inspired by the birds’ use of biocidal secretions, could revolutionize agricultural practices by reducing reliance on harmful chemicals. The development of natural, toxin-based repellents could also be beneficial in medical and veterinary fields to protect against parasites and bacterial infections.\n\nFurthermore, the principle of acquiring and repurposing toxins through diet could inspire sustainable methods of managing pests in ecosystems. Instead of introducing new chemicals, leveraging existing natural relationships can maintain ecological balance. This approach emphasizes sustainability and the harmonious integration of human activities with natural systems, reflecting the ethos of biomimicry .",
+  "mechanism": "The adaptation of toxicity in Pitohui birds is a fascinating example of nature’s defense mechanisms. The primary toxin, batrachotoxin, is a potent neurotoxin that these birds (and some poison dart frogs) acquire through their diet, particularly from toxic melyrid beetles. Once ingested, the toxin is excreted through the birds’ uropygial gland —a small gland at the base of the tail that secretes oil used for preening feathers. While previously believed to deter predators, research has shown that spreading these toxic secretions onto the feathers and skin primarily provides a chemical barrier against these harmful parasites and bacteria.\n\nThe toxin itself works by binding to voltage-gated sodium channels, disrupting an organism’s ability to send electrical signals throughout the body, resulting in a tingling sensation at small doses, and even death at higher ones.\n\nResearch has shown that not all Pitohui species possess the same level of toxicity. Species like Pitohui dichrous and P. kirhocephalus are highly toxic, while others like P. ferrugineus are less so, and P. incertus shows no detectable toxins. This variation suggests that diet plays a crucial role in the extent of toxicity. Birds feeding extensively on toxic beetles become more poisonous, which indicates that the potential to develop toxicity is an ancestral trait in these birds, but its expression varies with dietary habits.\n\nThe use of non-toxic methods for pest control, inspired by the birds’ use of biocidal secretions, could revolutionize agricultural practices by reducing reliance on harmful chemicals. The development of natural, toxin-based repellents could also be beneficial in medical and veterinary fields to protect against parasites and bacterial infections.\n\nFurthermore, the principle of acquiring and repurposing toxins through diet could inspire sustainable methods of managing pests in ecosystems. Instead of introducing new chemicals, leveraging existing natural relationships can maintain ecological balance. This approach emphasizes sustainability and the harmonious integration of human activities with natural systems, reflecting the ethos of biomimicry .\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/skin-and-feathers-deter-ectoparasites/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skin",
     "feathers",
     "deter",
     "ectoparasites"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

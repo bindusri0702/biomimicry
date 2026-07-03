@@ -6,7 +6,7 @@ e5-large-v2 vectors (vectorizer=none, cosine). At query time the original proper
 mapped into a StrategyDoc-shaped dict (reusing `build_asknature_corpus.convert_one`) so the
 Discover stage nodes consume Weaviate hits exactly like local-corpus hits.
 
-Selected via RETRIEVAL_BACKEND=weaviate; needs WEAVIATE_URL + WEAVIATE_API_KEY.
+The sole retrieval backend; needs WEAVIATE_URL + WEAVIATE_API_KEY.
 """
 from __future__ import annotations
 
@@ -33,7 +33,7 @@ def connect():
     if not config.WEAVIATE_URL or not config.WEAVIATE_API_KEY:
         raise RuntimeError(
             "Weaviate backend needs WEAVIATE_URL and WEAVIATE_API_KEY (set them in "
-            "biomimicry/.env). For offline use set BIOMIMICRY_RETRIEVAL=lexical."
+            "biomimicry/.env)."
         )
     import weaviate
     from weaviate.classes.init import AdditionalConfig, Auth, Timeout

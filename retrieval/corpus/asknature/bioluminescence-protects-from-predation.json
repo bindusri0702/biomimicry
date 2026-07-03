@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-bioluminescence-protects-from-predation",
   "organism_common": "Dinoflagellates",
-  "organism_scientific": "",
   "strategy_summary": "Bioluminescence produced by some dinoflagellates helps protect them from predation by silently alerting higher order predators to the location of their enemies. “When plankton called dinoflagellates grow too numerous near shore, the single-celled algae can stain the water a reddish-brown, causing so-called red tides…",
   "mechanism": "Bioluminescence produced by some dinoflagellates helps protect them from predation by silently alerting higher order predators to the location of their enemies.\n\n“When plankton called dinoflagellates grow too numerous near shore, the single-celled algae can stain the water a reddish-brown, causing so-called red tides that are often toxic to people and fish alike. Certain dinoflagellates species also produce bioluminescence, and when night falls at the beach, the teeming algae can make the shallows glow an electric blue …\n\nOut at sea, dinoflagellates use bioluminescence as a sort of ‘burglar alarm’: when disturbed, the plankton flash or light up, essentially creating a glowing trail that leads right to their assailant. This silent signal alerts predators higher up in the food chain about the dinoflagellates’ nemesis. ‘[The burglar alarm] is a scream for help,’ Widder says. ‘The best chance you have when you’re getting attacked is to attract something bigger than what is eating you.'” (Hadhazy 2009)\n\nhttp://www.scientificamerican.com/slideshow.cfm?id=bioluminescent-avatar&photo_id=A2922C2F-CBB3-5CE2-9FF63034ED8A2BF6 http://www.mbari.org/staff/conn/botany/dinos/alimon/biolumin.htm",
   "function_addressed": [
@@ -10,17 +9,23 @@
     "transform radiant energy (light)",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "protect-from-living-threats::animals",
+    "send-signals::light-visible-spectrum",
+    "transform-convert-energy::radiant-energy-light"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "protect-from-living-threats",
+    "send-signals",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/bioluminescence-protects-from-predation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "bioluminescence",
     "protects",
     "predation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

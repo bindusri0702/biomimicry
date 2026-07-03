@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-mounds-accumulate-calcium-carbonate",
   "organism_common": "Macrotermes termites",
-  "organism_scientific": "",
   "strategy_summary": "Mounds of Macrotermes termites accumulate calcium carbonate. “The presence of appreciable quantities of calcium carbonate in termite mounds on non-calcareous soil has intrigued pedologists for many years.",
   "mechanism": "Mounds of Macrotermes termites accumulate calcium carbonate.\n\n“The presence of appreciable quantities of calcium carbonate in termite mounds on non-calcareous soil has intrigued pedologists for many years. Milne, for example, found a termite mound with 7% calcium carbonate and estimated that it contained about 2 t of calcium carbonate excluding the hard limestone (53% CaC03) base of the mound. The soil below the base of a termite mound may also be calcareous The soil underneath one termite mound in an area of non-calcareous soil was found to have mean of 1.7% calcium carbonate to a depth of 6 m, or about 20 t of calcium carbonate.” (Watson 1974:74)\n\n“A group of islands of varying size on the floodplain of the Okavango alluvial fan, were studied to establish the processes which lead to the initiation and growth of islands. It was found that islands are initiated by the mound-building activities of the termite Macrotermes michaelseni. These termites import fine grained materials to use as a mortar for the construction of epigeal mounds. Their activities create a topographic feature, raised above the level of seasonal flooding, and also change the physical properties and nutrient status of the mound soil. Shrubs and trees are able to colonize these mounds, which results in increased transpiration. As a result, precipitation of calcite and silica from the shallow ground water occurs preferentially beneath the mounds, resulting in vertical and especially lateral growth, causing island expansion.” (McCarthy et al. 1998:291)",
   "function_addressed": [
     "capture, absorb, or filter chemical entities",
     "store chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "store::chemical-entities"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/mounds-accumulate-calcium-carbonate/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mounds",
     "accumulate",
     "calcium",
     "carbonate"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

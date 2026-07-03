@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-scales-allow-floating",
   "organism_common": "Mosquitoes",
-  "organism_scientific": "",
   "strategy_summary": "Legs of mosquitoes allow it to float due to scales that structurally maximize trapping of air. “We found that the mosquito’s legs are covered by numerous scales consisting of the uniform microscale longitudinal ridges (nanoscale thickness and microscale spacing between) and nanoscale cross ribs (nanoscale thickness…",
   "mechanism": "Legs of mosquitoes allow it to float due to scales that structurally maximize trapping of air.\n\n“We found that the mosquito’s legs are covered by numerous scales consisting of the uniform microscale longitudinal ridges (nanoscale thickness and microscale spacing between) and nanoscale cross ribs (nanoscale thickness and spacing between). Such special delicate microstructure and/or nanostructure on the leg surface give a water contact angle of ~153° and give a surprising high water-supporting ability. It was found that the water-supporting force of a single leg of the mosquito is about 23 times the body weight of the mosquito, compared with a water strider’s leg giving a water-supporting force of about 15 times the body weight of the insect.” (Wu et al. 2007:1)\n\nThe hierarchical microstructures and nanostructures of the scales on a mosquito’s leg. Above: The numerous scales on the leg surface oriented along the leg; Below: the elaborate arrangement of the longitudinal ridges and the cross ribs of each scale.",
   "function_addressed": [
     "move in/on liquids",
     "modify buoyancy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::buoyancy",
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/scales-allow-floating/",
-  "source_tier": "science_journalism",
   "keywords": [
     "scales",
     "allow",
     "floating"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

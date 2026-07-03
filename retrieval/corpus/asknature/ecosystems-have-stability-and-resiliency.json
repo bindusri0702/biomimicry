@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-ecosystems-have-stability-and-resiliency",
   "organism_common": "Savanna ecosystem",
-  "organism_scientific": "",
   "strategy_summary": "Savannahs have functional stability and resiliency due to unique properties of species and their interaction at system level. “Knoop and Walker (1985) attributed the remarkable functional stability and resilience (ability to recover from change) of savannahs to unique properties of species and their interaction at…",
   "mechanism": "Savannahs have functional stability and resiliency due to unique properties of species and their interaction at system level.\n\n“Knoop and Walker (1985) attributed the remarkable functional stability and resilience (ability to recover from change) of savannahs to unique properties of species and their interaction at system level. Special attributes include seed dormancy through seed bank recovery, vegetative reproduction, the presence of underground reserves and related coppicing ability, phenology of different species in relation to rainfall distribution and adaptations to drought and grazing. Parallel attributes of systems include the slow release of inorganic nitrogen, conservation of nutrients by vegetation, reduction of anaerobic conditions by trees and the trophic complementarity between species in system concerned.” (Van Noordwijk and Ong 1999:148)\n\n“Recent insights into the effects of savannah trees on understorey vegetation and soils should provide valuable clues on how to reduce the negative effects of below-ground competition in agroforestry while retaining the positive effects of trees seen in natural ecosystems. It is this opportunity for agroforests to mimic the interactions between trees and other plants in natural ecosystems that led to the recent redefinition of agroforestry (Leakey, 1996), in which different agroforestry practices are viewed as stages in the development of an agroecological succession akin to the dynamics of natural ecosystems. Over time, the increasing integration of trees into land use systems through agroforestry can be seen as the passage towards a mature agroforest of increasing integrity. Similarly, with increasing scale, the integration of various agroforestry practices into the landscape is like the formation of a complex mosaic of patches in an ecosystem, each of which is composed of many niches. These niches are occupied by different organisms, making the system ecologically stable and biologically diverse (Leakey, 1996). In systems like this, the physiological interactions between the tree and crop components of the agroecosystem are more likely to mimic those of natural ecosystems.” (Ong and Leakey 1999:112)\n\nStanford\n\n'Black swan' event prediction model from Stanford University uses data from a variety of ecosystems to mitigate disasters.\n\n7vortex\n\n7vortex is an interactive graph database that helps create knowledge ecosystems.",
   "function_addressed": [
     "manage disturbance in a community",
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::maintain-biodiversity",
+    "provide-ecosystem-services::manage-disturbance-in-a-community"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/ecosystems-have-stability-and-resiliency/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ecosystems",
     "have",
     "stability",
     "resiliency"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

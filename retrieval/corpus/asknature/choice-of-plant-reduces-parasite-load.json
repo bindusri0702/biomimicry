@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-choice-of-plant-reduces-parasite-load",
   "organism_common": "Tropical milkweed",
-  "organism_scientific": "",
   "strategy_summary": "Monarch butterflies infected with parasites capable of infecting their offspring avoid transmission by selectively laying their eggs on plants containing therapeutic remedies. The parasitic protozoan, Ophryocystis elektroscirrha, is known to infect monarch butterflies and produce extremely deleterious symptoms.",
   "mechanism": "Monarch butterflies infected with parasites capable of infecting their offspring avoid transmission by selectively laying their eggs on plants containing therapeutic remedies.\n\nThe parasitic protozoan, Ophryocystis elektroscirrha, is known to infect monarch butterflies and produce extremely deleterious symptoms. Caterpillars ingest parasitic spores inadvertently scattered on leaves by their mothers during egg laying. After the parasite enters the body of the caterpillar, it reproduces rapidly and consumes a significant portion of the host’s nutrient intake. During pupation, the parasites produce millions of spores that cover the nascent wing scales of the developing adult butterfly. These spores are shaken off onto leaves during egg laying, thereby starting the cycle over again. Infected adults have not been observed self-medicating their own parasitic infection, but they preferentially lay their eggs on a specific species of milkweed (Asclepias curassavica) that contains compounds capable of fighting infection when consumed by their caterpillars. The anti-parasitic properties of A. curassavica are thought to be due to their special suite of cardenolides including several non-polar varieties that interfere with parasite ATPase enzymes.",
   "function_addressed": [
@@ -9,11 +8,17 @@
     "sense disease in a living system",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "process-signals::respond-to-signals",
+    "protect-from-living-threats::microbes",
+    "sense-signals-environmental-cues::disease"
+  ],
+  "subgroup_keys": [
+    "process-signals",
+    "protect-from-living-threats",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/choice-of-plant-reduces-parasite-load/",
-  "source_tier": "science_journalism",
   "keywords": [
     "choice",
     "plant",
@@ -21,7 +26,5 @@
     "parasite",
     "load"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

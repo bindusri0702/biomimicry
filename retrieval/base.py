@@ -1,8 +1,8 @@
-"""Retriever interface + factory — the offline/online seam, mirroring `LLM`.
+"""Retriever interface + factory, mirroring `LLM`.
 
 Node code depends only on `Retriever.search()` and never names a concrete class,
-so a future `LiveRetriever` (httpx + AskNature/OpenAlex/RSS, writing into the same
-corpus cache) drops in by extending `get_retriever()` with zero changes upstream.
+so the backend (currently the sole `WeaviateRetriever`) stays swappable behind
+`get_retriever()` with zero changes upstream.
 
 `search()` accepts an optional `filters` dict ({function, environment, scale, taxon})
 so the Discover stage can drive metadata-aware retrieval. Translating those filters
@@ -23,6 +23,19 @@ _TOKEN = re.compile(r"[a-z][a-z\-]+")
 def tokenize(text: str) -> list[str]:
     """Shared tokenizer (same pattern as metrics.py)."""
     return _TOKEN.findall(text.lower())
+
+
+# Invisible/format chars scraped from web HTML that corrupt text and break search:
+# soft hyphen, zero-width space/non-joiner/joiner, word-joiner, BOM.
+_DELETE = dict.fromkeys([0x00AD, 0x200B, 0x200C, 0x200D, 0x2060, 0xFEFF], None)
+# Non-breaking spaces -> a normal space so tokenization and Ctrl+F behave.
+_SPACES = {0x00A0: " ", 0x202F: " "}
+_CLEAN_MAP = {**_DELETE, **_SPACES}
+
+
+def clean_text(text: str) -> str:
+    """Strip invisible web-scraping artifacts and normalize non-breaking spaces."""
+    return text.translate(_CLEAN_MAP) if text else text
 
 
 @dataclass(frozen=True)
@@ -48,18 +61,7 @@ class Retriever(ABC):
 
 
 def get_retriever() -> Retriever:
-    """Factory mirroring `LLM()`. Keyed off RETRIEVAL_BACKEND; lexical BM25 is the
-    keyless default so the app always works without a vector store."""
-    backend = config.RETRIEVAL_BACKEND
-
-    if backend == "weaviate":
-        # Local e5 vectors over a Weaviate Cloud collection (only the store is remote).
-        from .weaviate_store import WeaviateRetriever
-        return WeaviateRetriever()
-
-    if backend == "embedding" and config.HAS_LLM_KEY:
-        from .embedding import EmbeddingRetriever
-        return EmbeddingRetriever()
-
-    from .lexical import OfflineRetriever
-    return OfflineRetriever()
+    """Factory mirroring `LLM()`. Weaviate is the only retrieval backend: local
+    BGE-M3 vectors + hybrid search over a Weaviate Cloud collection."""
+    from .weaviate_store import WeaviateRetriever
+    return WeaviateRetriever()

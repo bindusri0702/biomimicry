@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-whistles-compensate-for-underwater-sound-distortion",
   "organism_common": "Dolphins",
-  "organism_scientific": "",
   "strategy_summary": "From early childhood most of us have been taught that dolphins use sound waves both to “see” underwater and to communicate with each other. If this doesn’t impress you, then you have not yet fully considered the challenges presented by trying to hear and be heard underwater.",
   "mechanism": "While humans produce sound by pushing air past vibrating tissues in our throat, dolphins have vibrating tissues in their nasal passages, called “phonic lips.” The sounds they produce typically fall into three categories: whistles, clicks, and burst pulses (rapid series of clicks). Clicks are used mainly for echolocation and hunting, and span a narrow range of frequencies. Whistles and burst pulses are used more for communication between dolphins, and span a wide range of frequencies, low to high, even outside the range of human hearing. The “broadband” nature of these whistles and burst pulses can actually help ensure a dolphin’s message is not distorted as it travels to its intended recipient.\n\nSuppose you’re a dolphin swimming through shallow, pristine waters, trying to get a signal to a fellow dolphin about the location of food. You emit a sound, a wave that propagates through the water and can be picked up by your peer. However, the sound wave you emitted propagates in all directions: it also travels to the surface of the water and the ocean floor, bouncing off of both and eventually colliding with the other parts of the wave. This is called interference , and it is just one of many problems posed for any organism trying to make sense of a sound signal underwater. Researchers have confirmed, however, that broadband signals compensate for this interference. If a portion of a signal gets interfered with at one frequency, it may still get through at another, and a whole message can be transmitted without distortion of meaning.\n\nA company called EvoLogics has employed this solution to design a highly effective “acoustic modem,” which encodes information as sound waves, transmits them, and decodes them on the other end. The device is currently being used for tsunami monitoring systems, underwater exploration vehicles, and even an underwater telescope built to detect neutrinos—subatomic particles emitted by stars and supernovae. In this way, dolphins are helping us save lives, see parts of the ocean we’ve never seen before, and learn more about the fundamental laws of the universe.",
   "function_addressed": [
@@ -9,11 +8,17 @@
     "sense sound and other vibrations from the environment",
     "cooperate within the same species"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-the-same-species",
+    "send-signals::sound",
+    "sense-signals-environmental-cues::sound-and-other-vibrations"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "send-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/whistles-compensate-for-underwater-sound-distortion/",
-  "source_tier": "science_journalism",
   "keywords": [
     "whistles",
     "compensate",
@@ -21,7 +26,5 @@
     "sound",
     "distortion"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

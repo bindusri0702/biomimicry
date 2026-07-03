@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-immune-system-protects-from-toxin",
   "organism_common": "Atlantic horse mackerel",
-  "organism_scientific": "",
   "strategy_summary": "The immune system of the horse mackerel allows it to hide among the tentacles of the man-of-war via toxin immunity. “A small species of blue-and-white fish called the horse mackerel ( Trachurus trachurus ) spends a lot of time swimming among the man-of-war’s tentacles, without suffering any ill effects, because it can…",
   "mechanism": "The immune system of the horse mackerel allows it to hide among the tentacles of the man-of-war via toxin immunity.\n\n“A small species of blue-and-white fish called the horse mackerel ( Trachurus trachurus ) spends a lot of time swimming among the man-of-war’s tentacles, without suffering any ill effects, because it can withstand ten times the dose of venom that would kill other fishes of the same size. Therefore it is effectively protected from the attention of any would-be predators.” (Shuker 2001:164)",
   "function_addressed": [
     "protect from chemicals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::chemicals"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/immune-system-protects-from-toxin/",
-  "source_tier": "science_journalism",
   "keywords": [
     "immune",
     "system",
     "protects",
     "toxin"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

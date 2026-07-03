@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-pine-cones-open-and-close-in-response-to-weather",
   "organism_common": "Pines",
-  "organism_scientific": "",
   "strategy_summary": "Savvy naturalists have long known the old trick of using pine cones to predict the weather. If it’s dry, pine cones on the ground will let down their slender scales and open up like the fingers of an unfurling fist.",
-  "mechanism": "The secret lies in the structure of their scales. Pine cone scales have multiple layers with different qualities. The outermost side of the scale (which faces downward when the scales are open) is made of a layer of loosely packed, stretchable cells. The inner layer (facing upward when the scales are open) is made of stiff fibers tightly packed like cables.\n\nPine cones’ effective, sensitive, water-driven scheme is inspiring engineers to design mechanisms that can move and/or change shape without needing energy input. Such innovations could lead to novel systems to transport water, or on a smaller scale, to serve as activation switches for robotics.\n\nScientists are also exploring new materials that quickly respond to environmental changes. “Smart” fabrics could react automatically to changing temperatures or humidity. When the fabric gets wet from sweat or humidity, layers in the fabric could open up and make it more breathable. When conditions dry out, the material could revert to its original tight knit weave.\n\nSimilarly inspired building materials might also respond to changing humidity. In dry, warm midday air, self-adjusting blinds, for example, might bend to create shade and keep houses cool. At night through humid early mornings, they would relax and open up again.",
+  "mechanism": "The secret lies in the structure of their scales. Pine cone scales have multiple layers with different qualities. The outermost side of the scale (which faces downward when the scales are open) is made of a layer of loosely packed, stretchable cells. The inner layer (facing upward when the scales are open) is made of stiff fibers tightly packed like cables.\n\nWhen the scales are open and the air becomes humid, water drops will begin to fall or bead on the upper layer. The water slides down toward the cone’s central stalk and is channeled into the scale’s interior. There, the water fills up the cells and the empty spaces between them. This layer expands and stretches, while the less flexible upper layer stays more taut. The scales bend upward in the middle until they curl completely shut.\n\nWhen humidity levels reach around 20 percent, it takes just a one-percent change in humidity to trigger the scales to close. Then, when the air becomes drier, water in the scales evaporates, the outer layer shrinks back in size, and the scales reopen.\n\nPine cones’ effective, sensitive, water-driven scheme is inspiring engineers to design mechanisms that can move and/or change shape without needing energy input. Such innovations could lead to novel systems to transport water, or on a smaller scale, to serve as activation switches for robotics.\n\nScientists are also exploring new materials that quickly respond to environmental changes. “Smart” fabrics could react automatically to changing temperatures or humidity. When the fabric gets wet from sweat or humidity, layers in the fabric could open up and make it more breathable. When conditions dry out, the material could revert to its original tight knit weave.\n\nSimilarly inspired building materials might also respond to changing humidity. In dry, warm midday air, self-adjusting blinds, for example, might bend to create shade and keep houses cool. At night through humid early mornings, they would relax and open up again.",
   "function_addressed": [
     "modify size/shape/mass/volume",
     "disperse seeds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::size-shape-mass-volume",
+    "provide-ecosystem-services::disperse-seeds"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/pine-cones-open-and-close-in-response-to-weather/",
-  "source_tier": "science_journalism",
   "keywords": [
     "pine",
     "cones",
@@ -21,7 +24,5 @@
     "response",
     "weather"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

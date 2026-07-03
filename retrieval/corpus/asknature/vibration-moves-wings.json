@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-vibration-moves-wings",
   "organism_common": "Flies",
-  "organism_scientific": "",
   "strategy_summary": "Quick upper-body motions move insect wings an astounding 1,000 beats per second. “Flies are capable of beating their wings at speeds up to an astonishing 1000 beats a second.",
   "mechanism": "Quick upper-body motions move insect wings an astounding 1,000 beats per second.\n\n“Flies are capable of beating their wings at speeds up to an astonishing 1000 beats a second. Some flies no longer use muscles directly attached to the bases of the wings. Instead they vibrate the whole thorax, a cylinder constructed of strong pliable chitin, making it click in and out like a bulging metal tin. The thorax is coupled to the wings by an ingenious structure at the wing base, and its contractions causes them to beat up and down.” (Attenborough 1979: 80)",
   "function_addressed": [
     "transform mechanical energy",
     "modify position"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::position",
+    "transform-convert-energy::mechanical-energy"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/vibration-moves-wings/",
-  "source_tier": "science_journalism",
   "keywords": [
     "vibrating",
     "thorax",
@@ -21,7 +24,5 @@
     "wings",
     "a-flutter"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-hind-legs-keep-bees-coupled-in-midair",
   "organism_common": "Bees",
-  "organism_scientific": "",
   "strategy_summary": "Bees use their hind legs to hold onto their mates, the legs often being perfectly contoured to fit onto the female. Differences in the hind legs of bees are often a secondary sexual characteristic, affecting male bees and increasing their chances of finding a mate.",
-  "mechanism": "Bees use their hind legs to hold onto their mates, the legs often being perfectly contoured to fit onto the female.\n\nDifferences in the hind legs of bees are often a secondary sexual characteristic, affecting male bees and increasing their chances of finding a mate.\n\nThe legs are often used to hold onto the female during mating. Many species mate in midair, so the ability to stay coupled is important. Hind legs are often expanded, widened or modified with spines. The inner surface of the hind legs may also be contoured to fit perfectly against the female, varying from species to species.\n\nThis information is also available from the University of Calgary Invertebrate collection , where it was curated as part of a study on design inspired by bees.",
+  "mechanism": "Bees use their hind legs to hold onto their mates, the legs often being perfectly contoured to fit onto the female.\n\nDifferences in the hind legs of bees are often a secondary sexual characteristic, affecting male bees and increasing their chances of finding a mate.\n\nThe legs are often used to hold onto the female during mating. Many species mate in midair, so the ability to stay coupled is important. Hind legs are often expanded, widened or modified with spines. The inner surface of the hind legs may also be contoured to fit perfectly against the female, varying from species to species.\n\nThis information is also available from the University of Calgary Invertebrate collection, where it was curated as part of a study on design inspired by bees.",
   "function_addressed": [
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/hind-legs-keep-bees-coupled-in-midair/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hind",
     "legs",
@@ -20,7 +21,5 @@
     "coupled",
     "midair"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

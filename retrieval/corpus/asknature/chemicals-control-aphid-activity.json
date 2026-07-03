@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-chemicals-control-aphid-activity",
   "organism_common": "Ants",
-  "organism_scientific": "",
   "strategy_summary": "Species often find innovative ways to make use of others beyond a simple predator-prey relationship, intertwining their existence in a way that can bring benefits to one or both species. Ants are a great example of this, having developed ways of manipulating other insects for their own gain, including the aphids that…",
-  "mechanism": "As social insects, ants live in large, structured colonies with designated roles for each individual. The queen ant lives her entire life under the protection of the rest of the colony, growing and producing eggs as the sole reproductive individual. Other female ants act as foragers and scouts, searching out sources of food to return to the colony.\n\nBut foraging for food takes a lot of energy, so some ants have found ways to make other species produce food for them. The black garden ant ( Lasius niger , found in kitchens and backyards around the world) has developed a clever way of using aphids to produce food. The black bean aphid, Aphis fabae , feeds on the phloem sap of plants and produces a sweet, sugary fluid called honeydew as a byproduct. This honeydew is more nutritious and attractive to ants than the aphids themselves, so rather than prey upon the aphids, the ants “milk” them by using touch to stimulate the release of honeydew. They’ll even corral the aphids in order to collect the honeydew efficiently, similar to the way humans manage dairy cows.\n\nFor humans, aphids don’t yield sweet nectar, they colonize and feed on many important crops, resulting in significant losses in yield. They also spread plant diseases as they exhaust the resources on one plant and move on to the next. Our knowledge of the complex relationships between ants and aphids can help us to think beyond broadscale use of pesticides, and to protect crops in more natural and sustainable ways. How sweet would that be?",
+  "mechanism": "As social insects, ants live in large, structured colonies with designated roles for each individual. The queen ant lives her entire life under the protection of the rest of the colony, growing and producing eggs as the sole reproductive individual. Other female ants act as foragers and scouts, searching out sources of food to return to the colony.\n\nBut foraging for food takes a lot of energy, so some ants have found ways to make other species produce food for them. The black garden ant ( Lasius niger , found in kitchens and backyards around the world) has developed a clever way of using aphids to produce food. The black bean aphid, Aphis fabae , feeds on the phloem sap of plants and produces a sweet, sugary fluid called honeydew as a byproduct. This honeydew is more nutritious and attractive to ants than the aphids themselves, so rather than prey upon the aphids, the ants “milk” them by using touch to stimulate the release of honeydew. They’ll even corral the aphids in order to collect the honeydew efficiently, similar to the way humans manage dairy cows.\n\nHoneydew is more nutritious and attractive to ants than the aphids themselves, so rather than prey upon the aphids, the ants “milk” them by using touch to stimulate the release of honeydew.\n\nThe ants control the movement of the aphids in a number of ways. In addition to physically removing their wings to prevent them from flying to new host plants, the ants produce a chemical that has a tranquilizing effect on the aphids, preventing them from dispersing without reducing their honeydew production.\n\nChemicals that convey signals for other organisms are known as semiochemicals, and they can be used to communicate with individuals of the same species or that of other species. In fact, it’s not just animals that can produce these chemicals––many studies have shown that when under attack by aphids or other insect pests, plants often respond by emitting semiochemicals, which attract aphid predators such as ladybugs. The chemicals also work as airborne signals that can trigger surrounding plants to produce their own defenses in preparation of aphid infestation.\n\nOne of the chemicals produced by plants as a response to aphid presence is dendrolasin , which is the same chemical used by the ants to tranquilize aphids and prevent them from dispersing. Like good shepherds, the ants are quick to defend the aphids when predators show up to attack. In fact, the ants tend their colonies so effectively that they enable the aphids to continue to thrive under conditions that would normally cause them to disperse to other plants. And when a plant’s resources are exhausted, ants will carry their aphid colony to optimal plants nearby.\n\nFor humans, aphids don’t yield sweet nectar, they colonize and feed on many important crops, resulting in significant losses in yield. They also spread plant diseases as they exhaust the resources on one plant and move on to the next. Our knowledge of the complex relationships between ants and aphids can help us to think beyond broadscale use of pesticides, and to protect crops in more natural and sustainable ways. How sweet would that be?",
   "function_addressed": [
     "biological control of populations, pests, diseases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::biological-control-of-populations-pests-diseases"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/chemicals-control-aphid-activity/",
-  "source_tier": "science_journalism",
   "keywords": [
     "chemicals",
     "control",
     "aphid",
     "activity"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

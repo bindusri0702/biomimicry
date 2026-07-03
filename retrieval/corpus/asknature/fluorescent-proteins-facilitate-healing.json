@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-fluorescent-proteins-facilitate-healing",
   "organism_common": "Staghorn coral",
-  "organism_scientific": "",
   "strategy_summary": "Fluorescent proteins in some corals may play a role in the host stress response by acting as antioxidants. Blue pigmentation responses of coral A.",
   "mechanism": "Fluorescent proteins in some corals may play a role in the host stress response by acting as antioxidants.\n\nBlue pigmentation responses of coral A. millepora in response to breakage\n\nPink pigmentation response of Porites massive sp. coral in response to fish bites.\n\nMushroom anemone\n\nProteins made by Discosoma mushroom anemones produce color by using the sun’s energy to generate specific wavelengths of light.\n\n“When a coral is broken or wounded, it releases highly reactive atoms of oxygen known as free radicals to close up the gashes..But [free radicals] can also inadvertently kill off some of the coral’s healthy cells. Hydrogen peroxide, for instance … can damage every part of the cell, from DNA to proteins…[It was observed that] corals with a brighter glow are best able to keep free radicals from damaging healthy cells… The glow is a result of so-called fluorescent proteins, which in corals act as antioxidants to keep free radicals at bay.” (Dell’Amore 2009)\n\nhttp://web.archive.org/web/20091108092122/http://news.nationalgeographic.com/news/2009/11/091104-glowing-corals-antioxidants-picture.html\n\nhttp://www.plosone.org/article/info:doi%2F10.1371%2Fjournal.pone.0007298",
   "function_addressed": [
     "regulate cellular processes",
     "protect from chemicals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::chemicals",
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/fluorescent-proteins-facilitate-healing/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fluorescent",
     "proteins",
     "facilitate",
     "healing"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-mineralized-jaws-resist-abrasion",
   "organism_common": "Manage Mechanical Wear",
-  "organism_scientific": "",
   "strategy_summary": "Jaws of blood worms are hard and wear resistant due to stratified composites containing precise configurations of proteins and two forms of copper. Nature uses chemistry to build strong, resilient, tough materials tailor made for the job at hand.",
-  "mechanism": "Jaws of blood worms are hard and wear resistant due to stratified composites containing precise configurations of proteins and two forms of copper.\n\nNature uses chemistry to build strong, resilient, tough materials tailor made for the job at hand. The carnivorous bloodworm, for instance, needs a hard, wear-resistant, flexible jaw to knaw through carapaces and burrow through sediment. It’s recipe includes four substances: protein s, melanin pigment , copper ions, and atacamite (a mineralized form of copper) arranged in four layers in precise patterns and thicknesses. Copper ions facilitate a tight network between proteins and pigment in the thin outermost layer as well as in the third layer confering hardness and wear resistance. Sandwiched between these two is a layer reinforced with atacamite fibers thought to confer flexibility to the entire jaw. The innermost layer contains ony trace amounts of copper.",
+  "mechanism": "Jaws of blood worms are hard and wear resistant due to stratified composites containing precise configurations of proteins and two forms of copper.\n\nNature uses chemistry to build strong, resilient, tough materials tailor made for the job at hand. The carnivorous bloodworm, for instance, needs a hard, wear-resistant, flexible jaw to knaw through carapaces and burrow through sediment. It’s recipe includes four substances: protein s, melanin pigment, copper ions, and atacamite (a mineralized form of copper) arranged in four layers in precise patterns and thicknesses. Copper ions facilitate a tight network between proteins and pigment in the thin outermost layer as well as in the third layer confering hardness and wear resistance. Sandwiched between these two is a layer reinforced with atacamite fibers thought to confer flexibility to the entire jaw. The innermost layer contains ony trace amounts of copper.",
   "function_addressed": [
     "manage mechanical wear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/mineralized-jaws-resist-abrasion/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mineralized",
     "jaws",
     "resist",
     "abrasion"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-organisms-capture-radiation",
   "organism_common": "Capture, Absorb, or Filter Energy",
-  "organism_scientific": "",
   "strategy_summary": "Melanin pigments in black fungi harness energy for metabolism by scattering/trapping photons and electrons from ionizing radiation. “Melanins are unique biopolymers that protect living organisms against UV and ionizing radiation and extreme temperatures…For example, the melanotic fungus C.",
   "mechanism": "Melanin pigments in black fungi harness energy for metabolism by scattering/trapping photons and electrons from ionizing radiation.\n\n“Melanins are unique biopolymers that protect living organisms against UV and ionizing radiation and extreme temperatures…For example, the melanotic fungus C. [Cladosporium] cladosporioides manifests radiotropism by growing in the direction of radioactive particles and this organism has become widely distributed in the areas surrounding Chernobyl since the nuclear accident in 1986 [7]. Both in the laboratory and in the field several other species of melanized fungi grew towards soil particles contaminated with different radionuclides, gradually engulfing and destroying those particles [35,36]…On the basis of these precedents and the results of this study we cautiously suggest that the ability of melanin to capture electromagnetic radiation combined with its remarkable oxidation-reduction properties may confer upon melanotic organisms the ability to harness radiation for metabolic energy.” (Dadachova et al. 2007:10-11)\n\n“Fungi are well-known for breaking down organic material, not creating it from scratch, as plants do. But a fungus that might break that mold has been discovered thriving at one of the most toxic sites in the world: the defunct Chernobyl nuclear reactor.\n\nThe black fungus Cladosporium sphaerospermum was collected from the reactor walls by a robot touring the radioactive site, and it caught the attention of Arturo Casadevall of the Albert Einstein College of Medicine. Intrigued by the phenomenon, Casadevall, Ekaterina Dadachova, also of Einstein, and their colleagues exposed colonies of C. sphaerospermum and two other species of fungus to extravagantly high levels of radiation in the laboratory. Radiation, they discovered, increases the growth of species that have melanin, the dark pigment that also occurs in human skin. Furthermore, when the investigators irradiated melanin in isolation, they noted dramatic changes in its electronic properties. Melanin seems to capture energy from radiation and convert it to chemical energy, much the way chlorophyll in plants captures the energy of sunlight.\n\nIf C. sphaerospermum and the numerous other fungi that make melanin are indeed able to ‘radiosynthesize,’ fundamental equations describing the Earth’s energy balance might need to be recalculated. (PLoS ONE)” (Flores 2007)",
   "function_addressed": [
     "capture, absorb, or filter energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/organisms-capture-radiation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "organisms",
     "capture",
     "radiation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

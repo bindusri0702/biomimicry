@@ -1,25 +1,24 @@
 {
   "doc_id": "asn-mechanism-concentrates-inorganic-carbon",
   "organism_common": "Diatoms",
-  "organism_scientific": "",
   "strategy_summary": "Diatoms assimilate inorganic carbon via a carbon concentration mechanism. “Diatoms growing in their natural aquatic habitats operate inorganic C concentrating mechanisms (CCMs), which provide a steady-state CO2 concentration around Rubisco higher than that in the medium.",
   "mechanism": "Diatoms assimilate inorganic carbon via a carbon concentration mechanism.\n\n“Diatoms growing in their natural aquatic habitats operate inorganic C concentrating mechanisms (CCMs), which provide a steady-state CO2 concentration around Rubisco higher than that in the medium. How these CCMs work is still a matter of debate. However, it is known that both CO2 and HCO3– are taken up, and an obvious but as yet unproven possibility is that active transport of these species across the plasmalemma and/or the four-membrane plastid envelope is the basis of the CCM. In one marine diatom there is evidence of C4-like biochemistry which could act as, or be part of, a CCM. Alternative mechanisms which have not been eliminated include the production of CO2 from HCO3– at low pH maintained by a H+ pump, in a compartment close to that containing Rubisco.” (Roberts et al. 2007:79)",
   "function_addressed": [
     "capture, absorb, or filter chemical entities",
     "capture, absorb, or filter gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::gases"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/mechanism-concentrates-inorganic-carbon/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mechanism",
     "concentrates",
     "inorganic",
     "carbon"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

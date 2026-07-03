@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-cells-survive-extreme-water-loss",
   "organism_common": "Resurrection fern",
-  "organism_scientific": "",
   "strategy_summary": "The cells of resurrection ferns may survive extreme water loss thanks to dehydrin proteins. “[S]ome plants, like the aptly named ‘resurrection fern’ ( Polypodium polypodioides ), can survive extreme measures of water loss, even as much as 95% of their water content.",
   "mechanism": "The cells of resurrection ferns may survive extreme water loss thanks to dehydrin proteins.\n\n“[S]ome plants, like the aptly named ‘resurrection fern’ ( Polypodium polypodioides ), can survive extreme measures of water loss, even as much as 95% of their water content. How do the cells in these desiccation-tolerant plants remain viable?\n\n“… Ronald Balsamo, Associate Professor of Biology at Villanova University and Bradley Layton, Associate Professor of Mechanical Engineering and Mechanics at Drexel University … found that not only is a particular class of proteins, called dehydrins, more prevalent during dry conditions, but, for the first time, they found that it was also prevalent near the cell walls. Dehydrins earned their name for their ability to attract, sequester, and localize water. They behave this way because of their negative charge.\n\n“The finding led the researchers to the conclusion that these water-surrounded dehydrins may actually allow water to act as a lubricant between either the plant cell membrane and the plant cell wall or even between individual cell wall layers.” (ScienceDaily 2010)\n\nWatch Video\n\nhttp://www.sciencedaily.com/releases/2010/04/100401101053.htm http://www.amjbot.org/cgi/content/full/97/4/535",
   "function_addressed": [
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/cells-survive-extreme-water-loss/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cells",
     "survive",
@@ -19,7 +20,5 @@
     "water",
     "loss"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

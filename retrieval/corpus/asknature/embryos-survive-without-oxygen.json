@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-embryos-survive-without-oxygen",
   "organism_common": "Annual killifish",
-  "organism_scientific": "",
-  "strategy_summary": "The embryos of killifish survive seasonal droughts buried in mud under anoxic conditions because they can slow their metabolic rate to an extreme degree. “Annual killifish, Austrofundulus limnaeus , live in temporary ponds in arid regions of Venezuela.",
-  "mechanism": "The embryos of killifish survive seasonal droughts buried in mud under anoxic conditions because they can slow their metabolic rate to an extreme degree.\n\n“Annual killifish, Austrofundulus limnaeus , live in temporary ponds in arid regions of Venezuela. Their embryos ride out seasonal droughts buried in mud, where microbial action often uses up all the oxygen. Jason Podrabsky, a comparative physiologist at Portland State University in Oregon, and his colleagues tested killifish embryos by sealing them in oxygen-free vials. After 62 days, half the embryos recovered when given oxygen (The Journal of Experimental Biology, vol 210, p 2253). The next best vertebrates – turtles and a species of goldfish – can survive for only a few days. Podrabsky found that longer-lived killifish embryos accumulated lactate – the end product of anaerobic metabolism – very slowly, suggesting that their anaerobic ability comes from being able to cut their metabolic rate to extremely low levels. Podrabsky is now studying which genes are responsible for the metabolic slowing. Learning how the fish do this may help explain how human tissues respond to anoxia during, say, a heart attack, Podrabsky says.” (New Scientist 2007:15)",
+  "strategy_summary": "The embryos of killifish survive seasonal droughts buried in mud under anoxic conditions because they can slow their metabolic rate to an extreme degree. “Annual killifish, Austrofundulus limnaeus, live in temporary ponds in arid regions of Venezuela.",
+  "mechanism": "The embryos of killifish survive seasonal droughts buried in mud under anoxic conditions because they can slow their metabolic rate to an extreme degree.\n\n“Annual killifish, Austrofundulus limnaeus, live in temporary ponds in arid regions of Venezuela. Their embryos ride out seasonal droughts buried in mud, where microbial action often uses up all the oxygen. Jason Podrabsky, a comparative physiologist at Portland State University in Oregon, and his colleagues tested killifish embryos by sealing them in oxygen-free vials. After 62 days, half the embryos recovered when given oxygen (The Journal of Experimental Biology, vol 210, p 2253). The next best vertebrates – turtles and a species of goldfish – can survive for only a few days. Podrabsky found that longer-lived killifish embryos accumulated lactate – the end product of anaerobic metabolism – very slowly, suggesting that their anaerobic ability comes from being able to cut their metabolic rate to extremely low levels. Podrabsky is now studying which genes are responsible for the metabolic slowing. Learning how the fish do this may help explain how human tissues respond to anoxia during, say, a heart attack, Podrabsky says.” (New Scientist 2007:15)",
   "function_addressed": [
     "maintain homeostasis",
     "protect from loss of gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-gases",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/embryos-survive-without-oxygen/",
-  "source_tier": "science_journalism",
   "keywords": [
     "embryos",
     "survive",
     "without",
     "oxygen"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-taller-bumps-increase-grip",
   "organism_common": "Polar bear",
-  "organism_scientific": "",
   "strategy_summary": "While they are the biggest bears alive, polar bears have relatively smaller paw pads than their ursine cousins. Presumably, that’s to decrease the amount of their skin that comes in contact with the frozen ground while they walk or stand.",
   "mechanism": "Polar bears avoid these dangers with a relatively simple solution: the microscopic bumps (papillae) on their paw pads are 1.5 times taller than those on other bear species. That gives them about 1.3 times more true surface area, when you factor in all those undulations. That increase in surface area increases friction to 1.3–1.5 times the amount for other species.\n\nThe research that revealed these details about polar bear paws was driven by the search for a natural model to follow to increase the grip of tires in icy and snowy conditions. The details of the papillae may help there, or in the design of all kinds of better-gripping surfaces, such as in roadways and pedestrian walkway design, flooring (especially for healthcare facilities and homes for seniors), or recreational uses like rock-climbing gear. They show as well how physical design could reduce the need for toxic chemicals used as adhesives.",
   "function_addressed": [
     "move in/on solids",
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/taller-bumps-increase-grip/",
-  "source_tier": "science_journalism",
   "keywords": [
     "taller",
     "bumps",
     "increase",
     "grip"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-adhesive-works-under-water",
   "organism_common": "Caulobacter crescentus",
-  "organism_scientific": "",
   "strategy_summary": "Getting two objects to permanently stick together is never an easy thing. It’s even harder under water, where water molecules can sneak in between them, changing the properties of the adhesive or physically blocking the bonding process.",
-  "mechanism": "This microscopic bacterium lives in watery worlds such as fast-flowing streams, ocean water, and people’s plumbing. It starts out as a free-floating cell with a tail it uses to swim around. When it bumps into pretty much any kind of a hard surface, it sheds the tail and grows a stalk instead. The stalk secretes a microscopic dot of goo that slightly hardens into an elastic gel and attaches it firmly and permanently to the surface. As it hangs out, it lengthens and eventually pinches off a new, free-floating version of itself that swims off to start the cycle once again.\n\nIn the world of stickiness, the use of the word “firmly” for C. crescentus’s attachment is an understatement. Measurements of the strength of the connection have come up with a sticking power of at least 68 newtons per square millimeter––more than eight times the power of a typical human-manufactured super glue. Scientists have estimated that the equivalent of a pea-sized dot of glue could hold a large cow in place.\n\n​​What is this amazing substance made of? It’s something you likely have in your home, if not right in your hand at this moment: sugar. ​​​​​​​​\n\n​​The big challenge for adhesives in an aquatic environment is that water molecules, which get along with lots of other kinds of molecules well due to the distribution of their electrons, tend to wiggle their way in between the molecules of adhesives and disrupt their integrity. In C. crescentus’s case,​​​ the substance that the stalk secretes, is made up of at least four kinds of sugar molecules connected end-to-end to form​​ long chain​s​ with branches outstretched. ​Strong negative charges​​ allow them to stick tightly to the surface. And links between chains––picture those branches growing together––form ​a chain-link-fence-like barrier that keeps water molecules from infiltrating and dissolving the adhesive.​​\n\nScientists suspect, that other molecules such as proteins and nucleic acids might also be involved in giving the holdfast its super-sticking ability.\n\nHumans could adopt or adapt C. crescentus ’s amazing ability to stick to underwater surfaces in a variety of ways. An adhesive inspired by this bacterium might be used to repair ships, close surgical wounds, seal water pipes, plug leaks in tanks, or help surfaces adhere to each other in underwater construction.\n\nThe principles and molecular forces involved might also be adapted for use in less watery environments where easy-to-form strong attachments are critical, such as in construction projects in extreme environments, like in space or on other planets.",
+  "mechanism": "This microscopic bacterium lives in watery worlds such as fast-flowing streams, ocean water, and people’s plumbing. It starts out as a free-floating cell with a tail it uses to swim around. When it bumps into pretty much any kind of a hard surface, it sheds the tail and grows a stalk instead. The stalk secretes a microscopic dot of goo that slightly hardens into an elastic gel and attaches it firmly and permanently to the surface. As it hangs out, it lengthens and eventually pinches off a new, free-floating version of itself that swims off to start the cycle once again.\n\nIn the world of stickiness, the use of the word “firmly” for C. crescentus’s attachment is an understatement. Measurements of the strength of the connection have come up with a sticking power of at least 68 newtons per square millimeter––more than eight times the power of a typical human-manufactured super glue. Scientists have estimated that the equivalent of a pea-sized dot of glue could hold a large cow in place.\n\nWhat is this amazing substance made of? It’s something you likely have in your home, if not right in your hand at this moment: sugar.\n\nThe big challenge for adhesives in an aquatic environment is that water molecules, which get along with lots of other kinds of molecules well due to the distribution of their electrons, tend to wiggle their way in between the molecules of adhesives and disrupt their integrity. In C. crescentus’s case, the substance that the stalk secretes, is made up of at least four kinds of sugar molecules connected end-to-end to form long chains with branches outstretched. Strong negative charges allow them to stick tightly to the surface. And links between chains––picture those branches growing together––form a chain-link-fence-like barrier that keeps water molecules from infiltrating and dissolving the adhesive.\n\nScientists suspect, that other molecules such as proteins and nucleic acids might also be involved in giving the holdfast its super-sticking ability.\n\nHumans could adopt or adapt C. crescentus ’s amazing ability to stick to underwater surfaces in a variety of ways. An adhesive inspired by this bacterium might be used to repair ships, close surgical wounds, seal water pipes, plug leaks in tanks, or help surfaces adhere to each other in underwater construction.\n\nThe principles and molecular forces involved might also be adapted for use in less watery environments where easy-to-form strong attachments are critical, such as in construction projects in extreme environments, like in space or on other planets.",
   "function_addressed": [
     "attach permanently"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/adhesive-works-under-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "adhesive",
     "sticks",
     "under",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-hardened-bubbles-provide-protection",
   "organism_common": "Guayaquil dwarf frog",
-  "organism_scientific": "",
   "strategy_summary": "Bubble nest of foam-nesting frogs protects eggs and young by hardening into a protective casing. “Several tropical frogs, known as foam-nesters, also build a nest of bubbles.",
   "mechanism": "Bubble nest of foam-nesting frogs protects eggs and young by hardening into a protective casing.\n\n“Several tropical frogs, known as foam-nesters, also build a nest of bubbles. The mother exudes a fluid and beats it into microscopic bubbles with her hind legs. She then lays her eggs inside, and her mate, who has clung to her back throughout, fertilizes them. As the parents leave, the outer bubbles harden to form a protective case that encloses a foamy core of several thousand eggs. This foam nursery provides shelter from predators, bacteria, and sunlight, as well as preventing dehydration. Because the foam is mostly air it supplies all the embryos’ oxygen needs until well after hatching. The nest then disintegrates, and the young emerge from the crowded apartment and, all being well, drop into the water below.” (Downer 2002:54)",
   "function_addressed": [
@@ -11,18 +10,24 @@
     "protect from light",
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::impact",
+    "modify-physical-state::material-characteristics",
+    "protect-from-non-living-threats::light",
+    "protect-from-non-living-threats::loss-of-liquids",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "modify-physical-state",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/hardened-bubbles-provide-protection/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hardened",
     "bubbles",
     "provide",
     "protection"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

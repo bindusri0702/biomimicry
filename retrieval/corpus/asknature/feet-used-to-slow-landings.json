@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-feet-used-to-slow-landings",
   "organism_common": "Modify Speed",
-  "organism_scientific": "",
   "strategy_summary": "The back feet of some frogs provide a slower landing following a leap due to webbing that may give the frog some gliding ability. “Caught in mid-air by the camera, this leaping frog has webbed feet which it uses for swimming.",
   "mechanism": "The back feet of some frogs provide a slower landing following a leap due to webbing that may give the frog some gliding ability.\n\n“Caught in mid-air by the camera, this leaping frog has webbed feet which it uses for swimming. Like the duck, the frog is pushed forward from behind: compare the powerful back legs and their webbed feet with the slender front legs and webless front feet. When landing after a leap through the air, the webbing may also serve as a parachute to slow the descent.” (Foy and Oxford Scientific Films 1982:181)",
   "function_addressed": [
@@ -9,18 +8,22 @@
     "manage impact",
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::impact",
+    "modify-physical-state::speed",
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "modify-physical-state",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/feet-used-to-slow-landings/",
-  "source_tier": "science_journalism",
   "keywords": [
     "feet",
     "used",
     "slow",
     "landings"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

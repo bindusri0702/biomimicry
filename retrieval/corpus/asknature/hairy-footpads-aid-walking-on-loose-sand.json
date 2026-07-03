@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-hairy-footpads-aid-walking-on-loose-sand",
   "organism_common": "Fennec fox",
-  "organism_scientific": "",
   "strategy_summary": "Hairy pads or bristles on the feet of desert creatures help them move on loose sand by providing a braking mechanism as the feet push backwards. “Soles equipped with bristles or hairy pads are also suitable for locomotion over loose sand.",
   "mechanism": "Hairy pads or bristles on the feet of desert creatures help them move on loose sand by providing a braking mechanism as the feet push backwards.\n\n“Soles equipped with bristles or hairy pads are also suitable for locomotion over loose sand. Many desert and steppe dwellers walk on such soft and comfortable soles; notable examples are the tarsiers, Tenebrionidae (darkling beetles) and Asilidae, the Eligmodontia mouse, the sand cat, and the fennec fox.” (Tributsch 1984:73)",
   "function_addressed": [
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/hairy-footpads-aid-walking-on-loose-sand/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hairy",
     "footpads",
@@ -20,7 +21,5 @@
     "loose",
     "sand"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

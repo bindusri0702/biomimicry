@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-silk-used-for-various-functions",
   "organism_common": "Modify Material Characteristics",
-  "organism_scientific": "",
   "strategy_summary": "Individual spiders are able to use silk for a variety of tasks by varying the properties of the silks they produce. “Certainly the most extraordinary material among those tabulated here is spider silk (that of silkworm moths is substantially less extreme)–it has the greatest tensile strength, astonishing…",
   "mechanism": "Individual spiders are able to use silk for a variety of tasks by varying the properties of the silks they produce.\n\n“Certainly the most extraordinary material among those tabulated here is spider silk (that of silkworm moths is substantially less extreme)–it has the greatest tensile strength, astonishing extensibility, and by far the greatest strain energy storage…silks vary considerably in their properties, quite clearly tuned by natural selection to their particular tasks…A single araneid spider makes frame silk for the main members of its orb, viscid silk for the spiral threads that catch prey, cocoon silk, prey-wrapping silk, and so forth. Other kinds of spiders make other kinds of silks for other tasks…Spider silks do have an unusual combination of properties. But I know of no evidence that these can be achieved (if one wants them) only by a sequence-specific heteropolymer of amino acids, something unlikely to lend itself to cheap manufacture.” (Vogel 2003:344-345)\n\nWatch Video",
   "function_addressed": [
@@ -10,18 +9,23 @@
     "store energy",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::tension",
+    "modify-physical-state::material-characteristics",
+    "store::energy"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "manage-structural-forces",
+    "modify-physical-state",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/silk-used-for-various-functions/",
-  "source_tier": "science_journalism",
   "keywords": [
     "silk",
     "used",
     "various",
     "functions"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

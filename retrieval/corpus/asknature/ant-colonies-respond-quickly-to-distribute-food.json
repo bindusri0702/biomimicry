@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-ant-colonies-respond-quickly-to-distribute-food",
   "organism_common": "Rock ant",
-  "organism_scientific": "",
   "strategy_summary": "A society consists of individuals, each with its own role, in a structured community. A society can be centralized or decentralized.",
-  "mechanism": "Ant colonies are an example of a decentralized society. An ant can have interactions with nearby individuals, or take cues from the local environment to help make its decisions. For example, ants who have found food can quickly direct other ants to it without needing to check with the ‘control center’ first. They signal to other ants about where food is by emitting chemical signals from their bodies known as pheromones . Other ants will follow this signal, which will lead them to the food source. This decentralized response enables ants to act quickly and allows for resiliency , which is the ability to endure and recover from distress. An ant’s response to food shortages or famine is an example of resiliency.",
+  "mechanism": "Ant colonies are an example of a decentralized society. An ant can have interactions with nearby individuals, or take cues from the local environment to help make its decisions. For example, ants who have found food can quickly direct other ants to it without needing to check with the ‘control center’ first. They signal to other ants about where food is by emitting chemical signals from their bodies known as pheromones . Other ants will follow this signal, which will lead them to the food source. This decentralized response enables ants to act quickly and allows for resiliency , which is the ability to endure and recover from distress. An ant’s response to food shortages or famine is an example of resiliency.\n\nAn ant can have interactions with nearby individuals, or take cues from the local environment to help make its decisions . . . without needing to check with the ‘control center’ first.\n\nAnts can experience food shortages for a variety of reasons. For example, bad weather can disrupt a food source or other ant colonies can compete for the same food source. When ants in a famine find food, they quickly spread it to other ants living in the same nest. Normally, ants each have their own roles in the colony. These roles are completed within the limited areas of the nest. However, when a famine occurs, the ants can move anywhere in the nest to help spread food. In order to feed everyone quickly, foragers (the ants who collect food) move deeper into the nest to pass food to more individuals. Ants that take care of the young usually live deep in the nest. In times of famine, they move to the edges of the nest to receive food from foragers more quickly.\n\nBecause ants need to find and spread food quickly during a famine, they often settle for a lower quality of food, which sometimes may contain harmful chemicals. Ants normally wouldn’t eat these foods, but one way to reduce the chances of eating harmful food is to have multiple food sources. Multiple foragers will travel out in different directions from the nest to find different food sources during a famine. Having multiple food sources dilutes harmful chemicals coming from one particular source. Another solution is to use living “silos” where an individual ant stores and tests a food source for harmful chemicals. The ant may die, but the colony would be saved from a food source that was harmful. All of these are quick and coordinated decentralized responses by individual ants. Together, these actions help a colony survive famine.",
   "function_addressed": [
     "manage disturbance in a community",
     "cooperate within the same species",
@@ -11,11 +10,20 @@
     "distribute liquids",
     "distribute solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::within-the-same-species",
+    "coordinate::by-self-organization",
+    "distribute::liquids",
+    "distribute::solids",
+    "provide-ecosystem-services::manage-disturbance-in-a-community"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "coordinate",
+    "distribute",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/ant-colonies-respond-quickly-to-distribute-food/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ant",
     "colonies",
@@ -24,7 +32,5 @@
     "distribute",
     "food"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

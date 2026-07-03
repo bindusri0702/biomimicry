@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-ligament-used-to-reopen-shells",
   "organism_common": "Mussels and clams",
-  "organism_scientific": "",
-  "strategy_summary": "A ligament in bivalve mollusks can reopen closed shells due to the presence of abductin, an elastic protein. Image: Student of Marjan Eggermont at University of Calgary Schulich School of Engineering / toggle icon Image: derrekkeats / toggle icon right arrow right arrow  “Another protein rubber is abductin found in…",
-  "mechanism": "A ligament in bivalve mollusks can reopen closed shells due to the presence of abductin, an elastic protein.\n\nImage: Student of Marjan Eggermont at University of Calgary Schulich School of Engineering / toggle icon Image: derrekkeats / toggle icon right arrow right arrow\n\n“Another protein rubber is abductin found in the shell-opening ligaments of bivalve mollusks. One or two adductor muscles hold the two halfshells or valves of a bivalve closed (the edible part of a scallop is one of these muscles). Closing compresses the ligament, so its elastic resiliency can reopen the shell if the muscles relax. Interestingly, scallops, which swim by repeatedly clapping their valves together, recover a greater fraction of the work done on their abductin than do clams and other more sedentary forms.” (Vogel 2003:304)",
+  "strategy_summary": "A ligament in bivalve mollusks can reopen closed shells due to the presence of abductin, an elastic protein. “Another protein rubber is abductin found in the shell-opening ligaments of bivalve mollusks.",
+  "mechanism": "A ligament in bivalve mollusks can reopen closed shells due to the presence of abductin, an elastic protein.\n\n“Another protein rubber is abductin found in the shell-opening ligaments of bivalve mollusks. One or two adductor muscles hold the two halfshells or valves of a bivalve closed (the edible part of a scallop is one of these muscles). Closing compresses the ligament, so its elastic resiliency can reopen the shell if the muscles relax. Interestingly, scallops, which swim by repeatedly clapping their valves together, recover a greater fraction of the work done on their abductin than do clams and other more sedentary forms.” (Vogel 2003:304)",
   "function_addressed": [
     "modify size/shape/mass/volume",
     "modify position"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::position",
+    "modify-physical-state::size-shape-mass-volume"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/ligament-used-to-reopen-shells/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ligament",
     "used",
     "reopen",
     "shells"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-high-resolution-polarisation-improves-vision",
   "organism_common": "Striking cuttlefish",
-  "organism_scientific": "",
   "strategy_summary": "Eyes of the mourning cuttlefish provide high definition polarization vision due to the orthogonal arrangement of microvilli in photosensitive rhabdoms. “For animals that can see it, the polarisation of light adds another dimension to vision, analogous to adding colour to a black and white image [1,2].",
   "mechanism": "Eyes of the mourning cuttlefish provide high definition polarization vision due to the orthogonal arrangement of microvilli in photosensitive rhabdoms.\n\n“For animals that can see it, the polarisation of light adds another dimension to vision, analogous to adding colour to a black and white image [1,2]. Whilst some animals use the orientation of the electric field vector (e-vector) for navigation and orientation [3], the ability to discriminate angular differences in e-vector has been implicated in object recognition for predator/prey detection [4,5] as well as signalling and communication [6]. In all animals previously tested, however, the resolution of e-vector angle discrimination has been found to be in the range 10–20° [5,7,8], which is inadequate for the typical e-vector differences measured in relevant natural visual scenes [9]. In this study, we found that mourning cuttlefish ( Sepia plangon ) are able to detect differences between e-vector orientations as small as 1°. Not only is this the most acute e-vector angle discrimination measured behaviourally in any animal, but it provides a high enough resolution to be relevant to real world visual tasks. We analysed natural underwater scenes using computer based polarisation imaging. When we increased the resolution of our system, we discovered information not detected using normal-resolution imaging polarimetry and invisible to animals lacking fine e-vector angle discrimination. For example, we found that high-resolution e-vector discrimination provides a new way of breaking typical intensity-based background matching. S. plangon lacks colour vision, like most other cephalopods, and high-resolution polarisation vision may provide an alternative source of contrast information that is just as fine-scale.” (Temple et al. 2012:R121)",
   "function_addressed": [
     "sense light (visible spectrum) from the environment",
     "sense light (non-visible spectrum) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::light-non-visible-spectrum",
+    "sense-signals-environmental-cues::light-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/high-resolution-polarisation-improves-vision/",
-  "source_tier": "science_journalism",
   "keywords": [
     "high-resolution",
     "polarisation",
     "improves",
     "vision"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

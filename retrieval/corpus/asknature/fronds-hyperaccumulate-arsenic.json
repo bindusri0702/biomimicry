@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-fronds-hyperaccumulate-arsenic",
   "organism_common": "Ladder brake fern",
-  "organism_scientific": "",
   "strategy_summary": "Fronds of ladder brake ferns hyperaccumulate toxic arsenic using a special transporter protein that spatially isolates the chemical in vacuoles. “The fern Pteris vittata can tolerate 100 to 1,000 times more arsenic than other plants.",
   "mechanism": "Fronds of ladder brake ferns hyperaccumulate toxic arsenic using a special transporter protein that spatially isolates the chemical in vacuoles.\n\n“The fern Pteris vittata can tolerate 100 to 1,000 times more arsenic than other plants. Jody Banks, a professor of botany and plant pathology, and David Salt, a professor of horticulture, uncovered what may have been an evolutionary genetic event that creates an arsenic pump of sorts in the fern.\n\n“‘It actually sucks the arsenic out of the soil and puts it in the fronds,’ Banks said. ‘It’s the only multi-cellular organism that can do this.’…\n\n“Banks and Salt found that the protein encoded by [an isolated] gene ends up in the membrane of the plant cell’s vacuole. Salt said the protein acts as a pump, moving arsenic into the cell’s equivalent of a trashcan.\n\n“‘It stores it away from the cytoplasm so that it can’t have an effect on the plant,’ Salt said.\n\n“Banks said understanding how the Pteris vittata functions with arsenic could lead to ways to clean up arsenic-contaminated land…\n\n“The plant might have evolved to accumulate arsenic, Banks and Salt theorized, as a defense against animals or insects eating them.” (ScienceDaily 2010)",
   "function_addressed": [
@@ -9,17 +8,21 @@
     "protect from chemicals",
     "store chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::chemicals",
+    "provide-ecosystem-services::detoxification-purification-of-air-water-waste",
+    "store::chemical-entities"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "provide-ecosystem-services",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/fronds-hyperaccumulate-arsenic/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fronds",
     "hyperaccumulate",
     "arsenic"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

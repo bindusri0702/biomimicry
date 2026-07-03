@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-fin-movements-aid-in-swimming-backward-and-forward",
   "organism_common": "African knifefish",
-  "organism_scientific": "",
   "strategy_summary": "The undulating fin of the knifefish enables it to swim forward and backward, as well as keep it afloat, by creating propulsive water jets. With its slick, streamlined body and long belly fin, moving around underwater may seem simple for an African knifefish (Gymnarchus niloticus ).",
-  "mechanism": "The undulating fin of the knifefish enables it to swim forward and backward, as well as keep it afloat, by creating propulsive water jets.\n\nWith its slick, streamlined body and long belly fin, moving around underwater may seem simple for an African knifefish (Gymnarchus niloticus ). It is, however, a lot more complicated than how it appears at first glance. The knifefish must heavily rely on its long stomach fin to keep it both moving and afloat, as its undersized side fins don’t provide the lift needed in the water. Fortunately, this fin is a marvel in the animal world when it comes to movement, allowing the fish to quickly move in all directions–including backward.\n\nThese movements are all achieved with different types of undulations (wave-like movements) that the fin is able to undergo, as in this video . Similar to a human arm or leg, the fins of a fish are controlled by muscles, and it is thanks to these muscles that the stomach fin of the knifefish is able to move in such a way. By sending undulations (picture sports fans doing the wave during a sports game) along the fin from the front to the back of the fish, the water is churned up, creating a backward directed jet that pushes the fish forward. In reverse, undulating the fin from the back to the front churns up the water toward the front of the fish, creating a forward-directed jet, which pushes the fish backward.\n\nStaying in place, however, is a bit more complicated, as two equal waveforms must be initiated. These two waves must be created along the fin, starting from the opposite sides of the fish, and meeting in the middle. Once the two waves meet, both the forward and backward jets cancel out, and water is pushed downward, creating a new downward jet that keeps the fish from sinking by pushing it upward. Using these different undulation patterns in combination, the knifefish is able to move quickly and smoothly forward or backward.\n\nThis summary was contributed by Thomas McAuley-Biasi.",
+  "mechanism": "The undulating fin of the knifefish enables it to swim forward and backward, as well as keep it afloat, by creating propulsive water jets.\n\nWith its slick, streamlined body and long belly fin, moving around underwater may seem simple for an African knifefish (Gymnarchus niloticus ). It is, however, a lot more complicated than how it appears at first glance. The knifefish must heavily rely on its long stomach fin to keep it both moving and afloat, as its undersized side fins don’t provide the lift needed in the water. Fortunately, this fin is a marvel in the animal world when it comes to movement, allowing the fish to quickly move in all directions–including backward.\n\nThese movements are all achieved with different types of undulations (wave-like movements) that the fin is able to undergo, as in this video. Similar to a human arm or leg, the fins of a fish are controlled by muscles, and it is thanks to these muscles that the stomach fin of the knifefish is able to move in such a way. By sending undulations (picture sports fans doing the wave during a sports game) along the fin from the front to the back of the fish, the water is churned up, creating a backward directed jet that pushes the fish forward. In reverse, undulating the fin from the back to the front churns up the water toward the front of the fish, creating a forward-directed jet, which pushes the fish backward.\n\nStaying in place, however, is a bit more complicated, as two equal waveforms must be initiated. These two waves must be created along the fin, starting from the opposite sides of the fish, and meeting in the middle. Once the two waves meet, both the forward and backward jets cancel out, and water is pushed downward, creating a new downward jet that keeps the fish from sinking by pushing it upward. Using these different undulation patterns in combination, the knifefish is able to move quickly and smoothly forward or backward.",
   "function_addressed": [
     "move in/on liquids",
     "navigate through liquid"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids",
+    "navigate::through-liquid"
+  ],
+  "subgroup_keys": [
+    "move",
+    "navigate"
+  ],
   "source_url": "https://asknature.org/strategy/fin-movements-aid-in-swimming-backward-and-forward/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fin",
     "movements",
@@ -21,7 +24,5 @@
     "backward",
     "forward"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

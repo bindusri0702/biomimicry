@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-timed-mating-optimizes-reproduction",
   "organism_common": "Mayfly",
-  "organism_scientific": "",
   "strategy_summary": "Swarms of mayflies maximize reproductive chances by timing emergence with the full moon. Mayfly swarming on Tisza  Mayfly (Ephemera danica), Belgium (natural reserve Furfooz)  “In the mayfly ( Povilla adusta ), a distinct lunar-based pattern of adult emergence and swarming has been documented…swarms appeared within…",
   "mechanism": "Swarms of mayflies maximize reproductive chances by timing emergence with the full moon.\n\nMayfly swarming on Tisza\n\nMayfly (Ephemera danica), Belgium (natural reserve Furfooz)\n\n“In the mayfly ( Povilla adusta ), a distinct lunar-based pattern of adult emergence and swarming has been documented…swarms appeared within five days of the full moon, with most of them occurring on the second night after full moon. On three separate occasions, swarms were recorded simultaneously at locations roughly 120 miles (75 km) apart. Adult mayflies live only for a few hours, so the purpose of this swarming synchronicity is presumably to bring the two sexes together in order to maximize mating prospects before they die.” (Shuker 2001:95)",
   "function_addressed": [
     "regulate reproduction or growth",
     "sense time and day length"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::reproduction-or-growth",
+    "sense-signals-environmental-cues::time-and-day-length"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/timed-mating-optimizes-reproduction/",
-  "source_tier": "science_journalism",
   "keywords": [
     "timed",
     "mating",
     "optimizes",
     "reproduction"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

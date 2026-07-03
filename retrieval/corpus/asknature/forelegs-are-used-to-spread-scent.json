@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-forelegs-are-used-to-spread-scent",
   "organism_common": "Bees",
-  "organism_scientific": "",
   "strategy_summary": "Male bees use their forelegs to send mating signals and spread their scent. Differences in the forelegs of bees are often a secondary sexual characteristic that affects male bees and plays a role in their chances of finding a mate.",
-  "mechanism": "Male bees use their forelegs to send mating signals and spread their scent.\n\nDifferences in the forelegs of bees are often a secondary sexual characteristic that affects male bees and plays a role in their chances of finding a mate.\n\nForelegs can be used to cover the females eyes as they mate. The different shapes and sizes of the forelegs between species cause different shadows and patterns of light to shine through as he covers her eyes. These patterns signal to the female bee that she is mating with her own species.\n\nForelegs are also used to collect scent, whether the scent is excreted as a pheromone (such as can happen in Leaf-cutter bees) or collected from a series of flowers (such as in Orchid bees). This scent is then used as a signal to attract a mate and to assure her that they are the same species. When secreting pheromones, the scent can also be used to distinguish the relationship between the female and her mate, to assure that they are not closely related. The forelegs can also come equipped with dense, soft hair to massage the sent into her antennae.\n\nThe forelegs can also be modified to collect oil from flowers in addition to pollen, though this is not a male-specific trait. The oils are collected using a dense brush of hairs on the front of the leg.\n\nThis information is also available from the University of Calgary Invertebrate collection , where it was curated as part of a study on design inspired by bees.\n\nMegachile rotundata, with small forelegs\n\nAnother genus of bees whose range is restricted to Australia; five species are known, but three of them are only known from male specimens, the females remain unknown. Overall, a good example of a set of bees that have lived on the planet for hundreds of thousands of years, but yet we hardly even know what they look like, let alone how they fit into the pollination system of Australian plants. Even such first-world countries as Australia have a very long way to go to finish the fundamental tasks of documenting the bee species and their distributions. We are a hundred years behind the ornithologists and their study of birds.",
+  "mechanism": "Male bees use their forelegs to send mating signals and spread their scent.\n\nDifferences in the forelegs of bees are often a secondary sexual characteristic that affects male bees and plays a role in their chances of finding a mate.\n\nForelegs can be used to cover the females eyes as they mate. The different shapes and sizes of the forelegs between species cause different shadows and patterns of light to shine through as he covers her eyes. These patterns signal to the female bee that she is mating with her own species.\n\nForelegs are also used to collect scent, whether the scent is excreted as a pheromone (such as can happen in Leaf-cutter bees) or collected from a series of flowers (such as in Orchid bees). This scent is then used as a signal to attract a mate and to assure her that they are the same species. When secreting pheromones, the scent can also be used to distinguish the relationship between the female and her mate, to assure that they are not closely related. The forelegs can also come equipped with dense, soft hair to massage the sent into her antennae.\n\nThe forelegs can also be modified to collect oil from flowers in addition to pollen, though this is not a male-specific trait. The oils are collected using a dense brush of hairs on the front of the leg.\n\nThis information is also available from the University of Calgary Invertebrate collection, where it was curated as part of a study on design inspired by bees.\n\nMegachile rotundata, with small forelegs\n\nAnother genus of bees whose range is restricted to Australia; five species are known, but three of them are only known from male specimens, the females remain unknown. Overall, a good example of a set of bees that have lived on the planet for hundreds of thousands of years, but yet we hardly even know what they look like, let alone how they fit into the pollination system of Australian plants. Even such first-world countries as Australia have a very long way to go to finish the fundamental tasks of documenting the bee species and their distributions. We are a hundred years behind the ornithologists and their study of birds.",
   "function_addressed": [
     "attach temporarily",
     "cooperate within the same species"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "cooperate-compete::within-the-same-species"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "cooperate-compete"
+  ],
   "source_url": "https://asknature.org/strategy/forelegs-are-used-to-spread-scent/",
-  "source_tier": "science_journalism",
   "keywords": [
     "forelegs",
     "used",
     "spread",
     "scent"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

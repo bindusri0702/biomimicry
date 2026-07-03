@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-skin-glands-accumulate-protective-toxins-from-prey",
   "organism_common": "Oriental robber frog",
-  "organism_scientific": "",
   "strategy_summary": "The tiny Cuban frog, Eleutherodactylus orientalis, protects itself from predators by consuming toxin-laden oribatid mites and sequestering the toxins in its skin. Though many frogs accumulate chemicals in their skin for defense against pathogens and predators, the majority of those species synthesize the substances in…",
   "mechanism": "The tiny Cuban frog, Eleutherodactylus orientalis, protects itself from predators by consuming toxin-laden oribatid mites and sequestering the toxins in its skin.\n\nThough many frogs accumulate chemicals in their skin for defense against pathogens and predators, the majority of those species synthesize the substances in their own bodies. In contrast, the tiny Cuban frog species Eleutherodactylus orientalis is among the few frogs that consume toxic alkaloid laden foods and sequester the compounds in the skin. Since the compounds are commandeered from prey, they are sometimes referred to as “cleptotoxins”. These fat-soluble substances are very similiar to those secreted by the better- known poison-dart frogs. The frogs maintain immunity to the toxins due to a hypothesized difference in calcium channels in their muscle cells. An interesting aspect of E. orientalis is that it is potentially capable of selectively consuming species of mites that contain toxic alkaloids previously unknown to science. In fact, several prey species of mites that were once thought to not produce alkaloids were found to be consumed by the frogs for their alkaloid content. Whether the frogs actively seek out these alkaloid-bearing species or do so by random chance is still unknown.",
   "function_addressed": [
     "capture, absorb, or filter chemical entities",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/skin-glands-accumulate-protective-toxins-from-prey/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skin",
     "glands",
@@ -21,7 +23,5 @@
     "toxins",
     "prey"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

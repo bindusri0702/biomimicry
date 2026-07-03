@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-tree-and-grass-savanna-maintains-equilibrium",
   "organism_common": "Regulate Water Storage",
-  "organism_scientific": "",
   "strategy_summary": "Grasses and trees in the Transvaal savanna coexist by tapping different parts of the soil for water. “In the Transvaal of Africa, the tree and grass savanna maintains itself in equilibrium.",
   "mechanism": "Grasses and trees in the Transvaal savanna coexist by tapping different parts of the soil for water.\n\n“In the Transvaal of Africa, the tree and grass savanna maintains itself in equilibrium. “Why is such coexistence possible here but not in the Jornada? [see entry about black grama grass in Chihuahan Desert ]. Researchers think that because rainfall on the savannas varies greatly from year to year, changing the relative proportions of water in each soil level, neither trees nor grasses have a constant advantage that would allow one to completely eliminate the other. Only when both are in the system does the full water resource get used effectively for plant growth, since grasses cannot reach much of the water freed up by removal of shrubs and vice versa.” (Baskin 1997:82)",
   "function_addressed": [
     "regulate water storage",
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::maintain-biodiversity",
+    "provide-ecosystem-services::regulate-water-storage"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/tree-and-grass-savanna-maintains-equilibrium/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tree",
     "grass",
@@ -20,7 +22,5 @@
     "maintains",
     "equilibrium"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

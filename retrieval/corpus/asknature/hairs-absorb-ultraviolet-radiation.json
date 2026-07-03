@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-hairs-absorb-ultraviolet-radiation",
   "organism_common": "Edelweiss",
-  "organism_scientific": "",
   "strategy_summary": "It’s a sun-sparkled day high in the French Alps. Hiking along a goat trail at 3,000 meters’ elevation, you come across a field filled with white flowers—the famous edelweiss ( Leontopodium nivale subsp.",
   "mechanism": "The hollow hairs composing the fuzz are each about 10 micrometers in diameter—though that varies quite a bit—and are criss-crossed across the surface of the plant in a disheveled manner.\n\nEach one is made up of parallel fibers, each around 0.18 micrometers in diameter, which is close to the wavelength of UV light. When sunlight strikes its surface, the plant reflects most of the wavelengths that it doesn’t need for photosynthesis or other biological functions—except for UV. The fibers comprising the hairs neither reflect UV nor let it travel through to the plant uninhibited. Rather, the similarity between their size and the wavelength of the UV radiation causes the rays to bend in ways that trap them inside the fibers until their energy dissipates, preventing them from reaching and harming the cells below.\n\nThe fibers offer a bonus, too: they also help the plant retain moisture in the face of drying alpine winds and keep radiant heat close to the plant cells, reducing the risk of freezing.\n\nEdelweiss’s approach to protecting its living tissues from UV radiation is different from those used by other organisms, which often reflect the rays using scales, fur, or other coatings. As a result, it offers unique inspiration for sheltering ourselves and other things we care about from UV light as well.\n\nIf the principle of trapping and weakening UV rays can be applied in a liquid or cream instead of fuzzy coating, one potential application is to develop non-toxic sunscreen to lather on our own skin. Because UV light alters paints and dyes and degrades plastics, edelweiss’s UV-absorption strategy could also be of value providing built-in, permanent protection for cars, house paints, textiles, and other manufactured surfaces that risk deterioration from the shorter-than-visible wavelength end of the electromagnetic spectrum.",
   "function_addressed": [
     "capture, absorb, or filter energy",
     "protect from light"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "protect-from-non-living-threats::light"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/hairs-absorb-ultraviolet-radiation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hairs",
     "absorb",
     "ultraviolet",
     "radiation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-mating-calls-follow-algorithm",
   "organism_common": "Japanese tree frog",
-  "organism_scientific": "",
   "strategy_summary": "Male Japanese tree frogs apply a mathematical algorithm to take turns calling, enhancing the chance a female can find a specific mate. Male Japanese tree frogs use their calls to attract mates, who are able to locate the male frog from the vocal expression.",
   "mechanism": "Male Japanese tree frogs apply a mathematical algorithm to take turns calling, enhancing the chance a female can find a specific mate.\n\nMale Japanese tree frogs use their calls to attract mates, who are able to locate the male frog from the vocal expression. Potential for confusion arises for females locating their male callers when the males are in close proximity to each other; but the tree frogs have adapted to such confusion by desynchronizing their calls. Desynchronizing simply means that these frogs have the capacity to time their vocal expression at altered intervals so the females are able to differentiate the vibrations and then choose which male they will locate. The process of the desynchronization follows a mathematical algorithm that has been calculated by researchers from Polytechnic University of Catalonia.\n\nThis algorithm has practical application for color graphing in which colors are associated with certain nodes on the graph. When nodes are connected to each other, there is opportunity for overlap among colors; the new algorithm eliminates this overlap and allows for distinct node-to-node connection. The networking between nodes is similar to wireless connections wanting to avoid frequency overlap.",
   "function_addressed": [
     "navigate through air",
     "differentiate signal from noise"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "navigate::through-air",
+    "process-signals::differentiate-signal-from-noise"
+  ],
+  "subgroup_keys": [
+    "navigate",
+    "process-signals"
+  ],
   "source_url": "https://asknature.org/strategy/mating-calls-follow-algorithm/",
-  "source_tier": "science_journalism",
   "keywords": [
     "frogs",
     "math",
@@ -20,7 +23,5 @@
     "themselves",
     "heard"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

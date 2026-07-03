@@ -1,26 +1,28 @@
 {
   "doc_id": "asn-larvae-ditch-threatened-hosts",
   "organism_common": "Aphid parasitoid fly",
-  "organism_scientific": "",
-  "strategy_summary": "Larvae of a parasitic fly evade predation by abandoning their hosts when they are in peril. “A recently discovered fly, Endaphis fugitiva , may be the first known parasitic insect that is able to escape a host that is under attack from predators.",
-  "mechanism": "Larvae of a parasitic fly evade predation by abandoning their hosts when they are in peril.\n\n“A recently discovered fly, Endaphis fugitiva , may be the first known parasitic insect that is able to escape a host that is under attack from predators. When researchers injured the fly’s host — called the banana aphid — or let brown lacewings attack the aphids, the fly larvae broke out of the aphid’s body …\n\n“The ability of E. fugitiva larvae to shift niches adaptively may help them to avoid being killed along with their host, but it comes at the cost of having to devote resources to detecting and avoiding threats, write Muratori and his co-authors. The researchers speculate that the larvae detect their host’s imminent demise either by sensing chemical cues, such as stress factors in the aphid’s blood-like ‘haemolymph’, or by perceiving the mechanical pressure of a predator’s attack on the aphid.” ( Laursen 2010 )\n\nhttp://www.nature.com/news/2010/100113/full/news.2010.8.html http://rspb.royalsocietypublishing.org/content/277/1687/1475.abstract",
+  "strategy_summary": "Larvae of a parasitic fly evade predation by abandoning their hosts when they are in peril. “A recently discovered fly, Endaphis fugitiva, may be the first known parasitic insect that is able to escape a host that is under attack from predators.",
+  "mechanism": "Larvae of a parasitic fly evade predation by abandoning their hosts when they are in peril.\n\n“A recently discovered fly, Endaphis fugitiva, may be the first known parasitic insect that is able to escape a host that is under attack from predators. When researchers injured the fly’s host — called the banana aphid — or let brown lacewings attack the aphids, the fly larvae broke out of the aphid’s body …\n\n“The ability of E. fugitiva larvae to shift niches adaptively may help them to avoid being killed along with their host, but it comes at the cost of having to devote resources to detecting and avoiding threats, write Muratori and his co-authors. The researchers speculate that the larvae detect their host’s imminent demise either by sensing chemical cues, such as stress factors in the aphid’s blood-like ‘haemolymph’, or by perceiving the mechanical pressure of a predator’s attack on the aphid.” ( Laursen 2010 )\n\nhttp://www.nature.com/news/2010/100113/full/news.2010.8.html http://rspb.royalsocietypublishing.org/content/277/1687/1475.abstract",
   "function_addressed": [
     "protect from animals",
     "sense touch and mechanical forces in a living system",
     "sense chemicals (odor, taste, etc.) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals",
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc",
+    "sense-signals-environmental-cues::touch-and-mechanical-forces"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/larvae-ditch-threatened-hosts/",
-  "source_tier": "science_journalism",
   "keywords": [
     "larvae",
     "ditch",
     "threatened",
     "hosts"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

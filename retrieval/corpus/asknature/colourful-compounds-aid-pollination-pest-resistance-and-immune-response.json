@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-colourful-compounds-aid-pollination-pest-resistance-and-immune-response",
   "organism_common": "Feijoa",
-  "organism_scientific": "",
   "strategy_summary": "The flavonoids in the feijoa plant’s edible flowers provide color, protection for the plant, and nutrition for the organisms that enjoy them. Feijoa ( Acca sellowiana ) flowers are rich in powerful compounds called flavonoids, which give color, defend against pests, are crucial to the plant’s immune response, and may…",
   "mechanism": "The flavonoids in the feijoa plant’s edible flowers provide color, protection for the plant, and nutrition for the organisms that enjoy them.\n\nFeijoa ( Acca sellowiana ) flowers are rich in powerful compounds called flavonoids, which give color, defend against pests, are crucial to the plant’s immune response, and may even help the plant resist environmental stress.\n\nFlavonoids are important for both the plant and the other beings who enjoy it. In plants, they are friends to pollinators on a visual and chemical level, contributing to vivid color and attractive smells. In humans, they’re valued for their antioxidant, anti-inflammatory, and antimicrobial effects. But until recently, we didn’t understand how feijoa controlled the production of these colorful compounds.\n\nIn the flowers of feijoa, flavonoids are not produced all at once, but rather carefully timed to the flower’s stage of development. During blooming, specific genes turn on and off, coordinating the production of the enzymes – biological catalysts that enable chemical processes in living organisms – needed to build flavonoid molecules.\n\nIn feijoa flowers at different stages of growth and found that 71 gene transcripts (small bits of RNA that indicate which genes are active) changed significantly depending on flower maturity. These genes coded for 14 key enzymes involved in flavonoid production. At early flower stages, the genes were quiet, not yet expressing themselves. As the flower opened, their expression increased. Then, at later stages, the gene activity tapered off. This change in expression is regulated by “conductor” proteins called transcription factors. These proteins help switch flavonoid genes on and off at just the right time..\n\nFeijoa flowers regulate flavonoid production by changing the expression of specific genes, helping attract pollinators and protect against stress.\n\nFeijoa’s way of producing flavonoids can inspire innovations in both agriculture and manufacturing. For instance, understanding how feijoa controls pigment production could help farmers breed fruits and flowers with brighter colors or better disease resistance.\n\nMore broadly, this strategy showcases the value of what could be called on-demand production in nature. Instead of stockpiling, feijoa uses elegant timing and regulation to produce what it needs, when it needs it—an efficient and sustainable model for human systems.",
   "function_addressed": [
@@ -9,11 +8,16 @@
     "modify light/color",
     "chemically assemble molecular devices"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::molecular-devices",
+    "modify-physical-state::light-color",
+    "modify-physical-state::material-characteristics"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/colourful-compounds-aid-pollination-pest-resistance-and-immune-response/",
-  "source_tier": "science_journalism",
   "keywords": [
     "colourful",
     "compounds",
@@ -22,7 +26,5 @@
     "pest",
     "resistance"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

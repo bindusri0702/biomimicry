@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-receptors-detect-ruminant-hosts",
   "organism_common": "Tropical bont tick",
-  "organism_scientific": "",
   "strategy_summary": "Some hard tick species detect ruminant hosts via olfactory receptor cells for the carboxylic acid, phenol and indole endproducts they expel. “Hard ticks spend most of their life isolated from passing vertebrates but require a blood meal to proceed to the next life stage (larva, nymph or adult).",
   "mechanism": "Some hard tick species detect ruminant hosts via olfactory receptor cells for the carboxylic acid, phenol and indole endproducts they expel.\n\n“Hard ticks spend most of their life isolated from passing vertebrates but require a blood meal to proceed to the next life stage (larva, nymph or adult). These opportunist ectoparasites must be capable of anticipating signals that render suitable hosts apparent. Large ungulates that tolerate a high ectoparasite burden are the favoured hosts of adult hard ticks. Ruminants, comprising the majority of ungulate species, must regularly eruct gases from the foregut to relieve excess pressure and maintain a chemical equilibrium. Through eructations from individuals, and particularly herds, ruminants inadvertently signal their presence to hard ticks. Here, we report that all adult hard tick species we tested are attracted to cud and demonstrate that these acarines possess olfactory receptor cells for the carboxylic acid, phenol and indole endproducts of the rumen bioreactor. Compounds from each of these classes of volatiles attract ticks on their own, and mixtures of these volatiles based on rumen composition also attract. Appetence for rumen metabolites represents a fundamental resource-tracking adaptation by hard ticks for large roaming mammals.” (Donze et al. 2004:4283)",
   "function_addressed": [
     "sense chemicals (odor, taste, etc.) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/receptors-detect-ruminant-hosts/",
-  "source_tier": "science_journalism",
   "keywords": [
     "receptors",
     "detect",
     "ruminant",
     "hosts"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

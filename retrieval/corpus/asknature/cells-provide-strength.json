@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-cells-provide-strength",
   "organism_common": "Manage Tension",
-  "organism_scientific": "",
   "strategy_summary": "Cells and cellulose microfibers of woody plants provide tensile strength due to their position of long axes parallel to the direction of the tensile force. “Because plant structures are formed by the assembly of cellular units, tensile materials made from cellulose do not contain the long, continuous fibers…",
   "mechanism": "Cells and cellulose microfibers of woody plants provide tensile strength due to their position of long axes parallel to the direction of the tensile force.\n\n“Because plant structures are formed by the assembly of cellular units, tensile materials made from cellulose do not contain the long, continuous fibers characteristic of such tensile materials as tendon. Rather, tensile plant materials consist of linear aggregates of cellular units which form fibrous structures. The cells found in these fibrous structures are normally elongated with their long axes parallel to the direction of the tensile force, and the cellulose microfibrils within the walls of these fibre cells have a high degree of preferred orientation parallel or nearly parallel to the long axis of the cell.” (Wainwright 1976)",
   "function_addressed": [
     "manage tension"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::tension"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/cells-provide-strength/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cells",
     "provide",
     "strength"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-lingual-rete-precools-blood",
   "organism_common": "Gray whale",
-  "organism_scientific": "",
   "strategy_summary": "Baleen whales such as the gray whale move huge quantities of cold ocean water through their very large mouths and across the filtering surface of the baleen. The tongue of a whale can represent as much as 5% of its total body surface area.",
   "mechanism": "This blood vessel network inside each side of the tongue is called the lingual rete. It’s comprised of more than 50 sets of very long and small-diameter arteries, each surrounded by many small veins. This structure ensures a slowed blood flow and a large surface area for exchange of heat between the cool blood in the veins leaving the tongue and the warm blood in the arteries coming into the tongue. This way blood is pre-cooled very effectively before approaching the surface of the tongue and thus does not lose much heat to the cold water in the mouth. The surface temperature of the tongue of a young gray whale has been measured to be only 0.5° C higher than the water.\n\nThe presence of very long, small-diameter arterial and venous vessels in close proximity with low flow is key to the efficient recapture of heat and maintenance of a cool tongue surface.\n\nGray whale tongues are a great example of counter-current heat exhangers. This type of exchanger is commonly used in manufacturing and power plants to minimize energy consumption. Looking at the specific configuration of blood vessels in the gray whale’s tongue could reveal ways to further improve thermal efficiency in heat exchangers.",
   "function_addressed": [
     "maintain homeostasis",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/lingual-rete-precools-blood/",
-  "source_tier": "science_journalism",
   "keywords": [
     "blood",
     "vessel",
@@ -21,7 +24,5 @@
     "heat",
     "loss"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

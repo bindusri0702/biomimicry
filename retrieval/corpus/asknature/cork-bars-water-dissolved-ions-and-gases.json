@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-cork-bars-water-dissolved-ions-and-gases",
   "organism_common": "Cork oak",
-  "organism_scientific": "",
   "strategy_summary": "Cork of cork oak provides a barrier to water, dissolved ions and gases due to tissues containing long-chain aliphate molecules. “The unique properties of cork combine low permeability, low temperature conductivity, and high chemical resistance with high elasticity and low weight.",
   "mechanism": "Cork of cork oak provides a barrier to water, dissolved ions and gases due to tissues containing long-chain aliphate molecules.\n\n“The unique properties of cork combine low permeability, low temperature conductivity, and high chemical resistance with high elasticity and low weight. These properties and cork’s chemical composition, which is dominated by long-chain aliphates with terminal functional groups, have drawn attention to the use of suberin biosynthetic products in industrial applications.” (Franke and Schreiber 2007:257)\n\nFranke R, Schreiber L. Suberin – a biopolyester forming apoplastic plant interfaces. Current Opinion in Plant Biology 2007;10(3):252-259.",
   "function_addressed": [
     "protect from excess liquids",
     "chemically assemble polymers"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::polymers",
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/cork-bars-water-dissolved-ions-and-gases/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cork",
     "bars",
@@ -21,7 +24,5 @@
     "ions",
     "gases"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

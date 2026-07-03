@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-buttressing-resists-uprooting",
   "organism_common": "Common oak",
-  "organism_scientific": "",
   "strategy_summary": "Roots of broad-based trees with stiff trunks resist uprooting through compressive buttressing. “While no systematic study has yet been done, at least four distinct schemes seem to be used to keep roots and soil in decent contiguity.",
-  "mechanism": "Roots of broad-based trees with stiff trunks resist uprooting through compressive buttressing.\n\n“While no systematic study has yet been done, at least four distinct schemes seem to be used to keep roots and soil in decent contiguity. Combinations of more than a single scheme certainly occur, and a given tree may use different schemes or a varying mix of several as it grows from a sapling. (Mattheck [1991] considers some aspects of the tree’s problem; Ennos and Fitter [1992] provide information on anchorage in small plants or very young trees; Ennos [2000] gives a good general view of the situation.)”\n\n“Consider, first, what we might refer to as ‘compressive buttressing,’ uprooting most often involves elevation of a large weight of roots and associated soil. Increasing the work necessary to achieve that elevation decreases the chance that a tree will blow over. That can be done by developing a stiff, wide base, and thus moving the pivot point or axis of turning well to one side of the center of the trunk and root mass (fig. 21.3a). The key components, then, are a stiff and massive trunk and a broad, upwardly tapered base that acts primarily as a set of buttresses on the downwind (compression loaded) side, pushing the pivot point laterally and thus increasing the work needed for turning. On the upwind side the broad base will contribute to the weight that the turning tree must lift…Partly burying the broad base improves matters by using the substratum to increase the weight that must be lifted. Soil and stone are conveniently dense material, so for a root-soil plate even a small volume goes a long way. The substratum beneath the tree feels compression, which under most circumstances it will resist well. A stiff trunk will improve the effectiveness of the arrangement by minimizing downwind drift of the center of gravity in the wind, as will minimization of the weight of branches that can shift around. The paradigmatic example of such compressive buttressing might be a large specimen of an oak such as Quercus alba or Q. robur . This scheme may be the most important one for the large angiosperms of temperate North America, and it is certainly not uncommon among gymnosperms that lack vertical tap or striker roots, at least judging from work on Sitka spruce (Coutts 1983; Blackwell, Rennalls, and Coutts 1990).” (Vogel 2003:431-432)",
+  "mechanism": "Roots of broad-based trees with stiff trunks resist uprooting through compressive buttressing.\n\n“While no systematic study has yet been done, at least four distinct schemes seem to be used to keep roots and soil in decent contiguity. Combinations of more than a single scheme certainly occur, and a given tree may use different schemes or a varying mix of several as it grows from a sapling. (Mattheck [1991] considers some aspects of the tree’s problem; Ennos and Fitter [1992] provide information on anchorage in small plants or very young trees; Ennos [2000] gives a good general view of the situation.)”\n\n“Consider, first, what we might refer to as ‘compressive buttressing,’ uprooting most often involves elevation of a large weight of roots and associated soil. Increasing the work necessary to achieve that elevation decreases the chance that a tree will blow over. That can be done by developing a stiff, wide base, and thus moving the pivot point or axis of turning well to one side of the center of the trunk and root mass (fig. 21.3a). The key components, then, are a stiff and massive trunk and a broad, upwardly tapered base that acts primarily as a set of buttresses on the downwind (compression loaded) side, pushing the pivot point laterally and thus increasing the work needed for turning. On the upwind side the broad base will contribute to the weight that the turning tree must lift…Partly burying the broad base improves matters by using the substratum to increase the weight that must be lifted. Soil and stone are conveniently dense material, so for a root-soil plate even a small volume goes a long way. The substratum beneath the tree feels compression, which under most circumstances it will resist well. A stiff trunk will improve the effectiveness of the arrangement by minimizing downwind drift of the center of gravity in the wind, as will minimization of the weight of branches that can shift around. The paradigmatic example of such compressive buttressing might be a large specimen of an oak such as Quercus alba or Q. robur. This scheme may be the most important one for the large angiosperms of temperate North America, and it is certainly not uncommon among gymnosperms that lack vertical tap or striker roots, at least judging from work on Sitka spruce (Coutts 1983; Blackwell, Rennalls, and Coutts 1990).” (Vogel 2003:431-432)",
   "function_addressed": [
     "protect from wind",
     "manage compression"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "protect-from-non-living-threats::wind"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/buttressing-resists-uprooting/",
-  "source_tier": "science_journalism",
   "keywords": [
     "buttressing",
     "resists",
     "uprooting"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

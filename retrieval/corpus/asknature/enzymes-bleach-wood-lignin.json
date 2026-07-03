@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-enzymes-bleach-wood-lignin",
   "organism_common": "Aspergillus niger",
-  "organism_scientific": "",
   "strategy_summary": "Enzymes produced by a marine fungus found on mangroves can \"bleach\" wood pulp by catalyzing the break down of lignin. A fungus that calls mangrove forests home produces enzymes that can degrade lignin, a complex compound that helps give plants their structural strength and resiliency.",
-  "mechanism": "Enzymes produced by a marine fungus found on mangroves can \"bleach\" wood pulp by catalyzing the break down of lignin.\n\nA fungus that calls mangrove forests home produces enzymes that can degrade lignin, a complex compound that helps give plants their structural strength and resiliency. This tough chemical compound is also difficult to degrade which poses a problem for the paper industry since lignin is a major contributor to the brown color of unbleached pulp. Strong oxidizing agents, particularly chlorine bleach, have traditionally been used to break down lignin to produce white paper, but this process generates toxic chlorinated compounds as waste products. Fungal enzymes not only break down lignin without generating toxic byproducts, they do not attack cellulose fibers needed to produce strong paper products.\n\nImage: Gilles Chapelain / Flickr / toggle icon",
+  "mechanism": "Enzymes produced by a marine fungus found on mangroves can \"bleach\" wood pulp by catalyzing the break down of lignin.\n\nA fungus that calls mangrove forests home produces enzymes that can degrade lignin, a complex compound that helps give plants their structural strength and resiliency. This tough chemical compound is also difficult to degrade which poses a problem for the paper industry since lignin is a major contributor to the brown color of unbleached pulp. Strong oxidizing agents, particularly chlorine bleach, have traditionally been used to break down lignin to produce white paper, but this process generates toxic chlorinated compounds as waste products. Fungal enzymes not only break down lignin without generating toxic byproducts, they do not attack cellulose fibers needed to produce strong paper products.",
   "function_addressed": [
     "chemically break down polymers"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::polymers"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/enzymes-bleach-wood-lignin/",
-  "source_tier": "science_journalism",
   "keywords": [
     "enzymes",
     "bleach",
     "wood",
     "lignin"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

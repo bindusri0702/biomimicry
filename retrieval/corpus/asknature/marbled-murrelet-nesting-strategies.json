@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-marbled-murrelet-nesting-strategies",
   "organism_common": "Marbled Murrelet",
-  "organism_scientific": "",
   "strategy_summary": "The marbled murrelet ( Brachyramphus marmoratus ), a small seabird in the auk family, is unique among its relatives for nesting in coastal old-growth forests rather than on cliffs or in burrows. This elusive bird primarily inhabits the Pacific Northwest, where its nesting habits are closely tied to the characteristics…",
-  "mechanism": "Marbled murrelets depend on specific tree and forest stand features for nesting, which are critical for the survival of their young. Their nests are typically found high in the canopies of large, old-growth conifers like Douglas fir, Sitka spruce, and western hemlock. These trees provide broad, moss-covered branches capable of supporting their well-camouflaged nests, as well as the stability needed to endure high winds and heavy rain common in coastal environments.\n\nMurrelets prefer nesting stands located near water sources, such as rivers or ocean bays, which enable efficient access to foraging grounds. The surrounding landscape, particularly the presence of contiguous old-growth stands, enhances habitat suitability by providing consistent cover and reducing fragmentation that can expose nests to predators.\n\nProtecting the nesting habitat of marbled murrelets can inform forest conservation strategies, emphasizing the preservation of old-growth stands and mature trees. Their preference for moss-covered branches could inspire bio-inspired designs for stable, weather-resistant platforms or structures. The murrelet’s ability to nest in high, concealed locations highlights the importance of integrating height, camouflage, and insulation into designs for secure and energy-efficient shelters. Understanding the habitat requirements of murrelets and other nesting birds can guide sustainable forestry practices and conservation planning to balance human activity with biodiversity preservation.",
+  "mechanism": "Marbled murrelets depend on specific tree and forest stand features for nesting, which are critical for the survival of their young. Their nests are typically found high in the canopies of large, old-growth conifers like Douglas fir, Sitka spruce, and western hemlock. These trees provide broad, moss-covered branches capable of supporting their well-camouflaged nests, as well as the stability needed to endure high winds and heavy rain common in coastal environments.\n\nMurrelets prefer nesting stands located near water sources, such as rivers or ocean bays, which enable efficient access to foraging grounds. The surrounding landscape, particularly the presence of contiguous old-growth stands, enhances habitat suitability by providing consistent cover and reducing fragmentation that can expose nests to predators.\n\nProtecting the nesting habitat of marbled murrelets can inform forest conservation strategies, emphasizing the preservation of old-growth stands and mature trees. Their preference for moss-covered branches could inspire bio-inspired designs for stable, weather-resistant platforms or structures. The murrelet’s ability to nest in high, concealed locations highlights the importance of integrating height, camouflage, and insulation into designs for secure and energy-efficient shelters. Understanding the habitat requirements of murrelets and other nesting birds can guide sustainable forestry practices and conservation planning to balance human activity with biodiversity preservation.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/marbled-murrelet-nesting-strategies/",
-  "source_tier": "science_journalism",
   "keywords": [
     "old",
     "growth",
@@ -20,7 +21,5 @@
     "protection",
     "marbled"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

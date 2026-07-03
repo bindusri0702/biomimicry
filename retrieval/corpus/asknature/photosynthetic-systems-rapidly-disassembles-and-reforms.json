@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-photosynthetic-systems-rapidly-disassembles-and-reforms",
   "organism_common": "Rhodobacter sphaeroides",
-  "organism_scientific": "",
   "strategy_summary": "Damaged sections of photosynthetic protein complexes in plants and bacteria are repaired via an internal cellular system of recognition, removal, and repair. The molecular components of nature’s photosynthetic machinery take a beating from high-energy photons, ultraviolet light, and highly oxidizing (i.e., degrading)…",
   "mechanism": "Damaged sections of photosynthetic protein complexes in plants and bacteria are repaired via an internal cellular system of recognition, removal, and repair.\n\nThe molecular components of nature’s photosynthetic machinery take a beating from high-energy photons, ultraviolet light, and highly oxidizing (i.e., degrading) byproducts. When damage occurs, cellular processes recognize and cut off the damaged part of photosynthetic protein complex, remove the intact section to the outer regions of the cell where it can be fully repaired, and then return to its original site and function.",
   "function_addressed": [
@@ -9,11 +8,17 @@
     "chemically break down polymers",
     "sense chemicals (odor, taste, etc.) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::polymers",
+    "chemically-break-down::polymers",
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "chemically-break-down",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/photosynthetic-systems-rapidly-disassembles-and-reforms/",
-  "source_tier": "science_journalism",
   "keywords": [
     "photosynthetic",
     "systems",
@@ -21,7 +26,5 @@
     "disassembles",
     "reforms"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

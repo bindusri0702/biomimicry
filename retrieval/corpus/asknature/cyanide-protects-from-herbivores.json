@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-cyanide-protects-from-herbivores",
   "organism_common": "Eagle fern",
-  "organism_scientific": "",
   "strategy_summary": "Bracken protects its leaves from being eaten by filling them with cyanide. “Bracken, that most widespread of ferns in Britain, fills its young tender leaves with cyanide.",
   "mechanism": "Bracken protects its leaves from being eaten by filling them with cyanide.\n\n“Bracken, that most widespread of ferns in Britain, fills its young tender leaves with cyanide. That deters most insects…By the time the leaves are mature and so tough that they seem likely to be of interest only to larger grazers such as rabbits and deer, they have manufactured a cocktail of toxins so powerful that they can cause blindness and cancer in mammals.” (Attenborough 1995:70)",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/cyanide-protects-from-herbivores/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cyanide",
     "protects",
     "herbivores"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

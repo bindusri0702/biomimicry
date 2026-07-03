@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-body-removes-foreign-objects",
   "organism_common": "Australian green treefrog",
-  "organism_scientific": "",
   "strategy_summary": "Foreign objects in the body cavity of some tree frogs can be absorbed into the urinary bladder and excreted. “Plant thorns, spiny insects and even radio transmitters don’t stick around for long inside tree frogs.",
   "mechanism": "Foreign objects in the body cavity of some tree frogs can be absorbed into the urinary bladder and excreted.\n\n“Plant thorns, spiny insects and even radio transmitters don’t stick around for long inside tree frogs. Researchers have discovered that these amphibians can absorb foreign objects from their body cavities into their bladders and excrete them through urination …\n\n“‘It strikes me as being a pretty incredible mechanism for getting stuff out from the body cavity,’ says lead researcher Christopher Tracy of Charles Darwin University in Darwin, Australia. By contrast, humans and other mammals typically develop peritonitis, a potentially deadly infection of the body-cavity membrane, if the membrane is punctured or damaged by sharp objects …\n\n“Tracy and his colleagues decided to look into the phenomenon. They kept tree frogs and cane toads in the lab and surgically implanted beads in their body cavities. Within 2–3 weeks, the beads appeared on the floor of the frog cage. Only one cane toad out of five excreted a bead, but Tracy opened some other toads after the surgery and caught them in the act of enveloping the beads into their bladders. In just two days, the bead was surrounded by a transparent tissue devoid of blood vessels, which subsequently became vascularized and muscular …\n\n“Although the study is the first to show an animal using its bladder to expel foreign objects, researchers have observed similar phenomena in other vertebrates. Several species of fish and snake absorb objects into their intestines from the body cavity and expel them by defecation, for instance.” (Borrell 2010)\n\nhttp://www.nature.com/news/2010/100105/full/news.2009.1170.html?s=news_rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+news%2Frss%2Fmost_recent+%28NatureNews+-+Most+recent+articles%29&utm_content=Google+Reader",
   "function_addressed": [
     "expel solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "expel::solids"
+  ],
+  "subgroup_keys": [
+    "expel"
+  ],
   "source_url": "https://asknature.org/strategy/body-removes-foreign-objects/",
-  "source_tier": "science_journalism",
   "keywords": [
     "body",
     "removes",
     "foreign",
     "objects"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-relationship-provides-nutrients-stability",
   "organism_common": "Giant polypore",
-  "organism_scientific": "",
   "strategy_summary": "Bracket fungi and mature trees gain nutrients for both and structural stability for the trees thanks to their mutualistic relationship. “Because this first visible sign of the [bracket] fungus only appears when the tree is elderly or already stricken, it is usually assumed that it is the fungus that has infected the…",
   "mechanism": "Bracket fungi and mature trees gain nutrients for both and structural stability for the trees thanks to their mutualistic relationship.\n\n“Because this first visible sign of the [bracket] fungus only appears when the tree is elderly or already stricken, it is usually assumed that it is the fungus that has infected the tree like a disease and is bringing about its death. But that is hardly just. The fungus has not attacked the living tissues of the tree, only the dead timber. And now, far from harming the tree, it brings it considerable advantages.\n\n“To start with, the remains of the wood, after the fungus has digested it, are in a form that the tree can absorb. So as this rotted pulp accumulates on the ground within the hollowed trunk, the oak puts out small roots into what was once its centre to reclaim some part of its lifetime savings. And there is new valuable nutriment there too. The hollow trunk has become an attractive home for animals. Bats roost in it, hanging from its walls. Owls nest there. And droppings from these creatures fall on to the ground within and provide further rich sustenance for the tree.\n\n“The removal of the tree’s dead heart brings yet another advantage. The change of form from solid pillar to hollow cylinder alters the way in which the trunk reacts to mechanical stress. It is much more resilient and stable. The removal of many tons of timber also reduces the strain on the tree’s elderly and doubtless somewhat decayed root system. The result is that an old hollow tree is often able to withstand a gale better than a younger undecayed one. In the ancient hunting parks of England such as Windsor, where trees stand out in the open, unprotected by others from the wind, it is by no means rare after a storm to discover that hollow oaks, four or five hundred years old, remain upright when younger ones, a quarter their age, have been blown over. Tree and fungus, each pursuing its own best interests, have come together to the benefit of both.” (Attenborough 1995:213-214)",
   "function_addressed": [
@@ -9,18 +8,22 @@
     "cooperate/compete between different species",
     "cycle nutrients"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::between-different-species",
+    "protect-from-non-living-threats::wind",
+    "provide-ecosystem-services::cycle-nutrients"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "protect-from-non-living-threats",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/relationship-provides-nutrients-stability/",
-  "source_tier": "science_journalism",
   "keywords": [
     "relationship",
     "provides",
     "nutrients",
     "stability"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

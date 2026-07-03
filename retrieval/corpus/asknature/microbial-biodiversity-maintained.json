@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-microbial-biodiversity-maintained",
   "organism_common": "Heather moorland",
-  "organism_scientific": "",
   "strategy_summary": "The soil microbial community of heather moorlands is kept in balance by above-ground ecosystem engineers. “Ecosystem engineering by a single species can have a cascading effect on many ecosystem processes.",
-  "mechanism": "The soil microbial community of heather moorlands is kept in balance by above-ground ecosystem engineers.\n\n“Ecosystem engineering by a single species can have a cascading effect on many ecosystem processes. While the impact of above-ground ecological engineers on soil chemical properties has been studied, few studies have assessed their impact on the soil microbial community, which is largely responsible for many ecosystem functions.” (Mitchell et al. 2010:50)\n\n“Utilizing a long-term experiment where birch was planted on heather moorland 20 years ago, the engineering impact of a single tree species ( Betula pubescens ) on the soil microbial community was assessed … Changes in the soil microbial community were then related to soil chemical and physical variables and tree performance variables.” (Mitchell et al. 2010:50)\n\n“Under birch, total microbial biomass (total PLFA–[phospholipid fatty acid profiling]) declined, species richness increased and the ratio of fungal : bacterial PLFA declined. The fungal PLFA marker increased with increasing organic matter and depth of the LFH and O soil horizons, characteristics associated with moorland soils. Bacterial PLFAs increased with increasing birch canopy cover. The fungal community of the birch plots was different from that in the heather plots and changes in the fungal community composition were related to the size of the birch trees in the plots.” (Mitchell et al. 2010:50)\n\n“Changes in the soil microbial community were also related to changes in mineralizable N [nitrogen]. Mineralizable N was correlated with both decreasing total soil microbial biomass and decreasing fungal : bacterial ratio.” (Mitchell et al. 2010:50)\n\n“The durability of the engineering effects of birch was studied in a second experiment. Plots were established in first-generation birch woodland that had developed on Calluna -dominated moorland. The plots were cleared of birch and planted with heather. After 20 years, there was no difference in the community composition of the PLFAs. In contrast, there were significant differences in the fungal community composition as judged by DGGE [denaturing gradient gel electrophoresis] analysis, with the fungal community in the felled birch plots being similar to the heather moorland.” (Mitchell et al. 2010:50)\n\n“This work demonstrates that addition of a single tree species to heather moorland results in changes in below-ground soil microbial communities and in nutrient cycling.” (Mitchell et al. 2010:50)",
+  "mechanism": "The soil microbial community of heather moorlands is kept in balance by above-ground ecosystem engineers.\n\n“Ecosystem engineering by a single species can have a cascading effect on many ecosystem processes. While the impact of above-ground ecological engineers on soil chemical properties has been studied, few studies have assessed their impact on the soil microbial community, which is largely responsible for many ecosystem functions.” (Mitchell et al. 2010:50)\n\n“Utilizing a long-term experiment where birch was planted on heather moorland 20 years ago, the engineering impact of a single tree species ( Betula pubescens ) on the soil microbial community was assessed … Changes in the soil microbial community were then related to soil chemical and physical variables and tree performance variables.” (Mitchell et al. 2010:50)\n\n“Under birch, total microbial biomass (total PLFA–[phospholipid fatty acid profiling]) declined, species richness increased and the ratio of fungal: bacterial PLFA declined. The fungal PLFA marker increased with increasing organic matter and depth of the LFH and O soil horizons, characteristics associated with moorland soils. Bacterial PLFAs increased with increasing birch canopy cover. The fungal community of the birch plots was different from that in the heather plots and changes in the fungal community composition were related to the size of the birch trees in the plots.” (Mitchell et al. 2010:50)\n\n“Changes in the soil microbial community were also related to changes in mineralizable N [nitrogen]. Mineralizable N was correlated with both decreasing total soil microbial biomass and decreasing fungal: bacterial ratio.” (Mitchell et al. 2010:50)\n\n“The durability of the engineering effects of birch was studied in a second experiment. Plots were established in first-generation birch woodland that had developed on Calluna -dominated moorland. The plots were cleared of birch and planted with heather. After 20 years, there was no difference in the community composition of the PLFAs. In contrast, there were significant differences in the fungal community composition as judged by DGGE [denaturing gradient gel electrophoresis] analysis, with the fungal community in the felled birch plots being similar to the heather moorland.” (Mitchell et al. 2010:50)\n\n“This work demonstrates that addition of a single tree species to heather moorland results in changes in below-ground soil microbial communities and in nutrient cycling.” (Mitchell et al. 2010:50)",
   "function_addressed": [
     "cycle nutrients",
     "generate soil/renew fertility",
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::cycle-nutrients",
+    "provide-ecosystem-services::generate-soil-renew-fertility",
+    "provide-ecosystem-services::maintain-biodiversity"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/microbial-biodiversity-maintained/",
-  "source_tier": "science_journalism",
   "keywords": [
     "microbial",
     "biodiversity",
     "maintained"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-flight-path-maintained",
   "organism_common": "Navigate Through Air",
-  "organism_scientific": "",
   "strategy_summary": "Fruit flies recover their flight path after wind gusts and other disturbances with an automatic stabilizer reflex. “Observing the aerial maneuvers of fruit flies, Cornell University researchers have uncovered how the insects — when disturbed by sharp gusts of wind — right themselves and stay on course.",
   "mechanism": "Fruit flies recover their flight path after wind gusts and other disturbances with an automatic stabilizer reflex.\n\n“Observing the aerial maneuvers of fruit flies, Cornell University researchers have uncovered how the insects — when disturbed by sharp gusts of wind — right themselves and stay on course. Fruit flies use an automatic stabilizer reflex that helps them recover with precision from midflight stumbles … ” (Science Daily 2010)\n\nWatch video\n\nhttp://www.sciencedaily.com/releases/2010/03/100301151933.htm http://www.pnas.org/content/107/11/4820.short",
   "function_addressed": [
@@ -10,17 +9,23 @@
     "protect from wind",
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::position",
+    "move::in-through-gases",
+    "navigate::through-air",
+    "protect-from-non-living-threats::wind"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "move",
+    "navigate",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/flight-path-maintained/",
-  "source_tier": "science_journalism",
   "keywords": [
     "flight",
     "path",
     "maintained"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

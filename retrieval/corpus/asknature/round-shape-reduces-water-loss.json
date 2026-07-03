@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-round-shape-reduces-water-loss",
   "organism_common": "Pebble plants",
-  "organism_scientific": "",
   "strategy_summary": "The rounded shape of the leaves of pebble plants minimizes evaporation due to its low surface area relative to volume. “Pebble plants grow in the stonier patches of the same [Namib] [D]esert.",
   "mechanism": "The rounded shape of the leaves of pebble plants minimizes evaporation due to its low surface area relative to volume.\n\n“Pebble plants grow in the stonier patches of the same [Namib] [D]esert. They survive by living partly underground. Their leaves have been reduced to a single pair, fat, round and succulent, with just a groove between them from which, in the right season, will sprout a surprisingly large flower. Such a rounded shape, with a very low surface area for a given volume, reduces evaporation to a minimum and is therefore a great help to the plant in conserving its water in the intense heat. But as has been noted earlier it may bring an additional benefit. Outside the flowering season, the plant is very difficult to find among the gravel and pebbles, so its shape could also serve as a defence against detection by grazing animals — ostriches and tortoises, porcupines and perhaps a few gerbils.” (Attenborough 1995:265)",
   "function_addressed": [
     "protect from loss of liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::loss-of-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/round-shape-reduces-water-loss/",
-  "source_tier": "science_journalism",
   "keywords": [
     "round",
     "shape",
@@ -19,7 +20,5 @@
     "water",
     "loss"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

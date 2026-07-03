@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-microbe-survives-extreme-heat",
   "organism_common": "Hyperthermophilic archaea",
-  "organism_scientific": "",
-  "strategy_summary": "The ability of Pyrolobus fumarii archaea to survive extreme heat may be related to the accumulation of charged organic solutes. “The archaeon Pyrolobus fumarii , one of the most extreme members of hyperthermophiles known thus far, is able to grow at temperatures up to 113°C.",
-  "mechanism": "The ability of Pyrolobus fumarii archaea to survive extreme heat may be related to the accumulation of charged organic solutes.\n\n“The archaeon Pyrolobus fumarii , one of the most extreme members of hyperthermophiles known thus far, is able to grow at temperatures up to 113°C. Over a decade after the description of this organism our knowledge about the structures and strategies underlying its remarkable thermal resistance remains incipient. The accumulation of a restricted number of charged organic solutes is a common response to heat stress in hyperthermophilic organisms and accordingly their role in thermoprotection has been often postulated.” (Gonçalves et al. 2008:383)",
+  "strategy_summary": "The ability of Pyrolobus fumarii archaea to survive extreme heat may be related to the accumulation of charged organic solutes. “The archaeon Pyrolobus fumarii, one of the most extreme members of hyperthermophiles known thus far, is able to grow at temperatures up to 113°C.",
+  "mechanism": "The ability of Pyrolobus fumarii archaea to survive extreme heat may be related to the accumulation of charged organic solutes.\n\n“The archaeon Pyrolobus fumarii, one of the most extreme members of hyperthermophiles known thus far, is able to grow at temperatures up to 113°C. Over a decade after the description of this organism our knowledge about the structures and strategies underlying its remarkable thermal resistance remains incipient. The accumulation of a restricted number of charged organic solutes is a common response to heat stress in hyperthermophilic organisms and accordingly their role in thermoprotection has been often postulated.” (Gonçalves et al. 2008:383)",
   "function_addressed": [
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/microbe-survives-extreme-heat/",
-  "source_tier": "science_journalism",
   "keywords": [
     "microbe",
     "survives",
     "extreme",
     "heat"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-fins-taste-by-touch",
   "organism_common": "Capture, Absorb, or Filter Organisms",
-  "organism_scientific": "",
   "strategy_summary": "The fins of many fish, including gurnards and sea-robins, taste potential food using taste buds located on their tips. “The long, slender fins of many species [of fish] bear taste buds at their tips, enabling them to taste a potential food just by touching it.",
   "mechanism": "The fins of many fish, including gurnards and sea-robins, taste potential food using taste buds located on their tips.\n\n“The long, slender fins of many species [of fish] bear taste buds at their tips, enabling them to taste a potential food just by touching it. The pectoral fins of gurnards ( Trigla spp.) and sea-robins ( Prionotus spp.), for example, include several separate, fingerlike sections, which the fish uses not just for ‘walking’ along the sea bottom, but also for tasting — by touch — any potential food. Only if satisfied with the taste signals will the fish eat the object.” (Shuker 2001:32-33)",
   "function_addressed": [
@@ -9,17 +8,19 @@
     "capture, absorb, or filter solids",
     "sense chemicals (odor, taste, etc.) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::solids",
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/fins-taste-by-touch/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fins",
     "taste",
     "touch"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

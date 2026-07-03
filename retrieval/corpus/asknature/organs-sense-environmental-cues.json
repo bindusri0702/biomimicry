@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-organs-sense-environmental-cues",
   "organism_common": "Insects",
-  "organism_scientific": "",
   "strategy_summary": "Insects interpret sensory input from antennae using Johnston's organs. “Some insects’ antennae do in fact act as sound-wave receivers.",
   "mechanism": "Insects interpret sensory input from antennae using Johnston's organs.\n\n“Some insects’ antennae do in fact act as sound-wave receivers. Those of male midges and mosquitoes are quite as feather-like as moths’ but are geared to respond to the sound of the females’ wing beats, the whine of other males’ flight, as well as that of other species, being ignored. While the antennae receive the sounds, interpretation of the latter is made by special structures at their base called Johnston’s organs. These organs are found on most adult winged insects, as well as in aquatic insects and larvae, although they may have varying sensory roles, such as assessing air velocity, water current and, notably in subterranean insects, the effects of gravity.” (Wootton 1984:46-47)",
   "function_addressed": [
@@ -9,18 +8,20 @@
     "sense motion",
     "sense balance/orientation"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::balance-orientation",
+    "sense-signals-environmental-cues::motion",
+    "sense-signals-environmental-cues::sound-and-other-vibrations"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/organs-sense-environmental-cues/",
-  "source_tier": "science_journalism",
   "keywords": [
     "organs",
     "sense",
     "environmental",
     "cues"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-communication-molecules-coordinate-behavior",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Pathogenic bacteria in chronic wounds communicate using signaling molecules. “‘Bacteria, often viewed as simplistic creatures, are in fact very sociable units of life,’ said Alex Rickard, assistant professor of biological sciences [at Binghamton University].",
   "mechanism": "Pathogenic bacteria in chronic wounds communicate using signaling molecules.\n\n“‘Bacteria, often viewed as simplistic creatures, are in fact very sociable units of life,’ said Alex Rickard, assistant professor of biological sciences [at Binghamton University]. ‘They can physically and chemically interact with one another and are quite selective about who they hang out with. How bacteria might communicate in chronic wounds, however, was somewhat of a mystery.’\n\n“Working with researchers and physicians at the Center for Biofilm Engineering at Montana State University and the Southwest Regional Wound Care Center in Lubbock, Texas, Rickard and a team of undergraduates were able to identify specific types of chronic wound bacteria and to test their ability to produce cell-cell signaling molecules.\n\n“ … close to 70 percent of … chronic wound strains produce a specific type of communication molecule – autoinducer-2 (AI-2). A smaller percentage – around 20 percent – produce a different type of communication molecule, called acyl-homoserine-lactones (AHLs). Scientists already know that structurally different bacterial cell-cell signaling molecules are able to mediate cell-cell communication, including AI-2 and AHLs.\n\n“‘Based on our findings, we think that most resident species – the ‘good’ bacteria that live on us and don’t cause disease – produce AI-2, while the pathogenic species typically produce AHLs,’ said Katelynn Manton, who was part of the undergraduate team and is now pursuing her doctorate. ‘And it didn’t seem to matter what kind of chronic wound we looked at – diabetic ulcers, vascular ulcers or environmentally induced chronic wounds. They all indicated a presence of possible AHLs or AI-2s.’ …\n\n“According to Rickard and his team, the typically pathogenic bacteria communicate in one language; the ‘good’ bacteria in another. The big question now is whether any of them are bilingual and can listen in on one another’s ‘conversations.’ Being able to interpret – or perhaps even guide – these cell-cell signals could influence wound development.” (Glover 2010)\n\nBacterial ‘eavesdropping’ offers hope for chronic wounds\n\nBacterial ‘eavesdropping’ offers hope for chronic wounds",
   "function_addressed": [
     "send chemical signals (odor, taste, etc.)",
     "sense chemicals (odor, taste, etc.) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::chemical-odor-taste-etc",
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "send-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/communication-molecules-coordinate-behavior/",
-  "source_tier": "science_journalism",
   "keywords": [
     "communication",
     "molecules",
     "coordinate",
     "behavior"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

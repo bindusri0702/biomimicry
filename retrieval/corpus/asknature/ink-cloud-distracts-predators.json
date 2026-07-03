@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-ink-cloud-distracts-predators",
   "organism_common": "Octopods",
-  "organism_scientific": "",
   "strategy_summary": "The ink cloud emitted by an octopus when threatened aids escape because it resembles the shape of the octopus. “When their speed alone is not enough for safety, [cuttlefish] squirt a cloud of dense, dark coloured ink that is synthesised in their bodies.",
   "mechanism": "The ink cloud emitted by an octopus when threatened aids escape because it resembles the shape of the octopus.\n\n“When their speed alone is not enough for safety, [cuttlefish] squirt a cloud of dense, dark coloured ink that is synthesised in their bodies. This ink surprises their predators for a few seconds, which is usually enough for them to escape.” (Yahya 2002:104)\n\n“Sometimes the ink cloud itself resembles the blobby shape of an octopus and acts as a decoy, allowing the octopus to escape while the predator eyes the blob.” (Crump 2005:109)\n\nCrump, M. 2005. Headless Males Make Great Lovers & Other Unusual Natural Histories. University of Chicago Press, Chicago, IL. 199 pp. Yahya, H. 2002. Design in Nature. London: Ta-Ha Publishers Ltd. 180 p.",
   "function_addressed": [
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/ink-cloud-distracts-predators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ink",
     "cloud",
     "distracts",
     "predators"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-nests-made-of-paper",
   "organism_common": "Paper wasps",
-  "organism_scientific": "",
   "strategy_summary": "Nests of paper wasps are made of paper-like material, created from wood and hardening saliva. Paper wasp building nest  Nest of the paper wasp (polistes biglumis).",
   "mechanism": "Nests of paper wasps are made of paper-like material, created from wood and hardening saliva.\n\nPaper wasp building nest\n\nNest of the paper wasp (polistes biglumis).\n\nPaper wasp (Polistes biglumis) on nest",
   "function_addressed": [
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "physically-assemble::structure"
+  ],
+  "subgroup_keys": [
+    "physically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/nests-made-of-paper/",
-  "source_tier": "science_journalism",
   "keywords": [
     "nests",
     "made",
     "paper"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

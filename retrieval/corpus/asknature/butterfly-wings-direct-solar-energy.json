@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-butterfly-wings-direct-solar-energy",
   "organism_common": "Cabbage white butterfly",
-  "organism_scientific": "",
   "strategy_summary": "You wake up, your six legs grasping the edge of the flower you slept on top of all night. Slowly, the yellow sunlight creeps over the prairie towards you, until finally, after an hour or so of its unhurried approach, the light finally settles onto your back.",
   "mechanism": "The brilliantly flitting cabbage white butterfly isn’t only a delight to see, but for another reason altogether: its wings are excellent light reflectors.\n\nIn the morning, Pieris butterflies like Cabbage Whites position their backs to face the climbing sun and tilt their wings in a V shape with an angle between 10֯ and 60֯, in order to bounce sunlight onto their bodies. Experimental studies have found this behavior raises the butterfly’s body temperature by 7.3֯ C (13֯F).\n\nThe high-reflectance of their wings is largely due to their wing scales containing dense arrays of small (e.g., 300-nm-long) pigment granules, which are highly reflective of longer light wavelengths.\n\nSolar energy output is partly constrained by the area available for panels and the cost of the panels themselves. Solar concentrators use mirrors and lenses to direct sunlight onto electricity-producing material, increasing energy output while decreasing the amount of photovoltaic surface needed. Current solar concentrator technology is expensive and heavy, however.\n\nSolar concentrator prototypes lined instead with wing scales from Pieris butterflies were found to increase solar panel energy output by over 42%. In other words, the use of such concentrators would enable solar panel area to be reduced by a similar degree while keeping energy output equivalent. Moreover, for the same energy output, the additional weight of these prototypes was 17 times less than that of conventional solar concentrators, suggesting such an approach could greatly boost energy output while using less space and material.",
   "function_addressed": [
     "distribute energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::energy"
+  ],
+  "subgroup_keys": [
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/butterfly-wings-direct-solar-energy/",
-  "source_tier": "science_journalism",
   "keywords": [
     "butterfly",
     "wings",
@@ -19,7 +20,5 @@
     "solar",
     "energy"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-hibernation-induces-dramatic-physiological-changes",
   "organism_common": "European hedgehog",
-  "organism_scientific": "",
   "strategy_summary": "When the going gets tough, hedgehogs ( Erinaceidae ) stop going. These unassuming garden dwellers enter an astoundingly deep state of torpor in which all their bodily functions slow nearly to a standstill.",
   "mechanism": "In extreme hibernation hedgehogs’ heart rates decrease from between 190 and 280 beats per minute to just under 14 beats per minute. Their breathing diminishes from 50 breaths per minute when active and 25 when resting all the way down to 13 or fewer. Their body temperature, normally about 95°F (35°C), drops to around 45-50°F (7-10°C).\n\nAll the biochemical reactions in their body slow down, and their organs, from heart to liver to brain, all but cease operating. Their metabolism plummets by 95%, and they expend about 216 times less energy per day. Fat reserves that active hedgehogs would use up in 16 hours last for about 120 days.\n\nMany people mistakenly consider hibernation to be a really deep sleep. But it is distinctly different. Sleep is actually a time of active restoration for the body. During sleep, organs and metabolism don’t shut down as they do in hibernation. They continue to work, though at a resting pace. The process is so distinct and important that every few days or so, hedgehogs briefly come out of hibernation—to sleep.\n\nAll hibernating animals have these short bursts of “arousals” when they burn some fat to raise their body temperatures and turn on their organs for a few hours, before returning to a state of torpor. Scientists speculate that these brief arousals allow hibernating animals to do some minimal maintenance on their vital organs. They catch up on sleep to restore brain function. They may clear gradually accumulating metabolic wastes, rebalance electrolyte levels, prevent muscles from atrophying, or wake up the immune system to combat bacteria that can slip in.\n\nScientists are keenly investigating the physiological mechanisms that allow hibernating animals to shut down vital systems for such long periods without causing damage. Insights could lead to new medical therapies. Among these are ways to prevent tissue damage after strokes, or muscle and bone degeneration in people who haven’t been able to move for long periods because of surgery, injury, or disease.\n\nDoctors could also find better techniques to cool down bodies during cardiac surgeries to reduce the risk of heart and blood vessel damage, and to preserve transplant organs for longer periods to transport them to far-flung patients before the organs deteriorate.\n\nScientists are also exploring how hibernating animals seem to readily remove “tau proteins” that build up in their brains—the same proteins found to accumulate in the brains of people with Alzheimer’s disease. And they are investigating whether humans can be coaxed into hibernation, enabling years-long space journeys to seem to pass in the very long blink of an eye.",
   "function_addressed": [
     "maintain homeostasis",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/hibernation-induces-dramatic-physiological-changes/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hibernation",
     "induces",
@@ -20,7 +23,5 @@
     "physiological",
     "changes"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

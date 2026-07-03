@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-digestive-system-protects-against-toxins",
   "organism_common": "Monarch butterfly",
-  "organism_scientific": "",
   "strategy_summary": "The digestive system of Monarch butterflies protects them from poisonous milkweed latex eaten to make themselves poisonous to predators. Photograph of a Monarch butterfly (Danaus plexippus en ) caterpillar feeding on a leaf of the Swamp Milkweeden (Asclepias incarnata en ).",
   "mechanism": "The digestive system of Monarch butterflies protects them from poisonous milkweed latex eaten to make themselves poisonous to predators.\n\nPhotograph of a Monarch butterfly (Danaus plexippus en ) caterpillar feeding on a leaf of the Swamp Milkweeden (Asclepias incarnata en ). The photo was taken in a private garden in Lancaster, Pennsylvania, USA.\n\nPhotograph of a male Monarch butterfly (Danaus plexippus en ). This butterfly was stationary on a leaf with his wings outstretched in an attempt to show off and attract a mate. The picture was taken in the butterfly house at the Tyler Arboretum.\n\n“Milkweed gets its name from a poisonous latex that exudes from its broken stem. This is so toxic that it can give a small animal a heart attack. The monarch butterfly, however, has developed an immunity to it. Its caterpillars nibble away at the leaves with impunity. But they do not digest the poison. Instead, they appropriate it and use it for their own purposes. In some way they are able to separate the toxin in the latex and store it unaltered in their bodies. This not only prevents them from succumbing to it, but makes them poisonous to any predator that might swallow them.” (Attenborough 1995:70-71)",
   "function_addressed": [
     "protect from chemicals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::chemicals"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/digestive-system-protects-against-toxins/",
-  "source_tier": "science_journalism",
   "keywords": [
     "digestive",
     "system",
@@ -19,7 +20,5 @@
     "against",
     "toxins"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

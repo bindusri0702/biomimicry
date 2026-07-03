@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-wing-feathers-enable-near-silent-flight",
   "organism_common": "Owl",
-  "organism_scientific": "",
   "strategy_summary": "Owls are known as silent predators of the night, capable of flying just inches from their prey without being detected. The quietness of their flight is owed to their specialized feathers.",
-  "mechanism": "First, the leading edge of the owl’s wing has feathers covered in small structures that project out from the wing. One hypothesis is that these serrations break up the flowing air into smaller flows that are more stable along the wing. Furthermore, this change in airflow patterns also appears to reduce the noise of the flowing air. The wing’s serrated leading edge appears to be most effective at reducing noise when the wing is at a steep angle—which would happen when the owl is close to its prey and coming in for a strike.\n\nAspects of owl feather aerodynamics have already been employed in wind turbines and the Shinkansen train aerofoil. They could similarly improve efficiency and minimize noise for the wings of airplanes and the blades of helicopters and drones. Fan blades for home and industrial use could also make use of these strategies.\n\nOwl feather strategies could also be used to create different aerodynamic effects for fabric-based wings, such as kites, parachutes, gliders, banners and more.",
+  "mechanism": "First, the leading edge of the owl’s wing has feathers covered in small structures that project out from the wing. One hypothesis is that these serrations break up the flowing air into smaller flows that are more stable along the wing. Furthermore, this change in airflow patterns also appears to reduce the noise of the flowing air. The wing’s serrated leading edge appears to be most effective at reducing noise when the wing is at a steep angle—which would happen when the owl is close to its prey and coming in for a strike.\n\nThese smaller airflows then roll along the owl’s wing toward the trailing edge, which is comprised of a fine fringe. This fringe breaks up the air further as it flows off the trailing edge, resulting in a large reduction in aerodynamic noise. Then, any remaining noise that would be detectable by the owl’s prey is absorbed by velvety down feathers on the owl’s wings and legs. These soft feathers absorb high frequency sounds that most prey, as well as humans, are sensitive to. All together, these feather features enable owls to remain unheard when they fly.\n\n“Natural World” video content © 2015 BBC. All rights reserved.\n\nThis content marked as “Google Youtube” uses cookies that you chose to keep disabled. Click here to open your preferences and accept cookies. .\n\n“Deep Look” video content © 2015 KQED INC. All rights reserved.\n\nAspects of owl feather aerodynamics have already been employed in wind turbines and the Shinkansen train aerofoil. They could similarly improve efficiency and minimize noise for the wings of airplanes and the blades of helicopters and drones. Fan blades for home and industrial use could also make use of these strategies.\n\nOwl feather strategies could also be used to create different aerodynamic effects for fabric-based wings, such as kites, parachutes, gliders, banners and more.",
   "function_addressed": [
     "manage turbulence",
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::turbulence",
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/wing-feathers-enable-near-silent-flight/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wing",
     "feathers",
@@ -20,7 +23,5 @@
     "near-silent",
     "flight"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-optimizing-size-aids-survival",
   "organism_common": "Sessile barnacles",
-  "organism_scientific": "",
   "strategy_summary": "Populations of sessile barnacles optimize space where physical habitat is limited by decreasing the average mass of an individual barnacle as population density increases. “Space optimization is a concern for a number of creatures, particularly in situations where physical habitat is limited.",
   "mechanism": "Populations of sessile barnacles optimize space where physical habitat is limited by decreasing the average mass of an individual barnacle as population density increases.\n\n“Space optimization is a concern for a number of creatures, particularly in situations where physical habitat is limited. In these situations, members of a population optimize space utilization depending on population size. The resulting pattern of space use reflects competitive and cooperative processes that are more complex than optimization patterns due to material or energy resource efficiency alone, as seen in many of our previous examples. The patterns of space utilization in colonial organisms are not as regular as those seen in the Fibonacci sequences, hexagons, or other examples presented herein, and therefore are not studied in the same contexts. Some trends, however, have been noted, particularly with regards to the relationship of individual mass to the population density—primarily, as density increases in a space limited environment the average mass of the individual decreases. Interestingly, for a wide variety of species, including barnacles, this relationship is close to the exponential constant of –3/2.” (Biomimicry Guild unpublished report)",
   "function_addressed": [
     "optimize shape/materials",
     "cooperate within the same species"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "cooperate-compete::within-the-same-species"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "cooperate-compete"
+  ],
   "source_url": "https://asknature.org/strategy/optimizing-size-aids-survival/",
-  "source_tier": "science_journalism",
   "keywords": [
     "optimizing",
     "size",
     "aids",
     "survival"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

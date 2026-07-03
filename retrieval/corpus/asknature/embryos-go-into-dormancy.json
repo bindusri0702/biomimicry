@@ -1,22 +1,21 @@
 {
   "doc_id": "asn-embryos-go-into-dormancy",
   "organism_common": "Red kangaroo",
-  "organism_scientific": "",
   "strategy_summary": "The reproductive system of female red kangaroos holds embryos in developmental dormancy via hormones. “One to three days after giving birth, a female kangaroo often mates again and another fertilized egg settles into her uterus…The fate of the egg…depends on what happens to [the first] baby.",
   "mechanism": "The reproductive system of female red kangaroos holds embryos in developmental dormancy via hormones.\n\n“One to three days after giving birth, a female kangaroo often mates again and another fertilized egg settles into her uterus…The fate of the egg…depends on what happens to [the first] baby. If the recently born baby has reached the pouch and latched onto a teat, the newly fertilized egg develops only to the blastocyst stage (about seventy to one hundred cells) and then stays in developmental dormancy until it receives the signal to continue to development. The blastocyst can remain dormant in the uterus for several months. If the newborn baby hasn’t made it to the pouch or if it dies while in the pouch, the female’s body releases a pulse of the hormone progesterone. This signals the blastocyst to continue to develop, and about thirty-three days later the ‘replacement baby’ will be born. The same happens once a mature joey is about to leave the pouch permanently and is nursing less: the mother’s hormones kick in and the fertilized egg begins to develop.” (Crump 2005:56)\n\nCrump, M. 2005. Headless Males Make Great Lovers & Other Unusual Natural Histories. University of Chicago Press, Chicago, IL. 199 pp.",
   "function_addressed": [
     "regulate reproduction or growth"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::reproduction-or-growth"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/embryos-go-into-dormancy/",
-  "source_tier": "science_journalism",
   "keywords": [
     "embryos",
     "dormancy"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

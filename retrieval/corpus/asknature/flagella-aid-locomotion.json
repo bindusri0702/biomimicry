@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-flagella-aid-locomotion",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "The flagella of bacteria propel using a wheel and axle mechanism. “In electron micrographs, bacterial flagella look suspiciously like rigid, rotating propellers, driven by rotary engines in the bacterial surface beneath, as in figure 22.6.",
   "mechanism": "The flagella of bacteria propel using a wheel and axle mechanism.\n\n“In electron micrographs, bacterial flagella look suspiciously like rigid, rotating propellers, driven by rotary engines in the bacterial surface beneath, as in figure 22.6. In a sense, they’re not engines at all, leaving that to their basal motors. The combination consists of the only true rotary engine and propulsive unit known in the living world–a proper wheel and axle mechanism (Dusenbery 1996).\n\n“They’re far more efficient, at least in terms of power relative to weight, than ordinary flagella or even muscle, but they don’t scale up, and nature hasn’t used them elsewhere. Or at least she hasn’t manufactured them elsewhere, since some higher organisms symbiotically appropriate bacteria for use as locomotory organelles.” (Vogel 2003:449)\n\n“Eukaryotic flagella and cilia have a remarkably uniform internal ‘engine’ known as the ‘9+2’ axoneme. With few exceptions, the function of cilia and flagella is to beat rhythmically and set up relative motion between themselves and the liquid that surrounds them. The molecular basis of axonemal movement is understood in considerable detail, with the exception of the mechanism that provides its rhythmical or oscillatory quality. Some kind of repetitive ‘switching’ event is assumed to occur; there are several proposals regarding the nature of the ‘switch’ and how it might operate. … “V. CONCLUSIONS\n\n“(1) There are at least sixteen distinct circumstances that result in changes in the frequency of flagellar oscillation.Most of them appear to operate by affecting inter-doublet sliding velocity or by modulating the elasticity of flagellar structures.\n\n“(2) Proposed explanations for the mechanism of the oscillation are presented under six headings. All the explanations have serious limitations.\n\n“(3) Nevertheless, a provisional synthesis can been made, drawing on key experimental results. It proposes that the direction of sliding is the primary controlling factor for flagellar oscillation.\n\n“(4) In detail, the provisional synthesis is that oscillation emerges from an effect of the direction of passive inter-doublet sliding on (a) the force-generating cycles of dynein (perhaps the ATPase rate) and (b) dyneinto- dynein synchronisation along a doublet. Dyneins actively generate force when sliding in one direction is detected, and are inhibited from doing so by the detection of sliding in the other direction. The direction of the initial, passive sliding oscillates because it is regulated hydrodynamically by the direction of the propulsive thrust. However, a supplementary mechanism seems to exist, namely a mechanically induced reversal of sliding direction due to the recoil of elastic structures deformed in response to the preceding active sliding displacement.” (Woolley 2010:453,467)",
   "function_addressed": [
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/flagella-aid-locomotion/",
-  "source_tier": "science_journalism",
   "keywords": [
     "flagella",
     "aid",
     "locomotion"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

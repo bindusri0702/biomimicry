@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-toxins-protect-from-predators",
   "organism_common": "Jellyfish",
-  "organism_scientific": "",
   "strategy_summary": "Jellyfish deliver deadly toxins to enemies and prey via special stinging cells, called nematocysts. Why Jellyfish Float Like a Butterfly-And Sting Like a Bee  “Only coelenterates, such as jellyfish, know how to make certain special stinging cells, their nematocysts.",
   "mechanism": "Jellyfish deliver deadly toxins to enemies and prey via special stinging cells, called nematocysts.\n\nWhy Jellyfish Float Like a Butterfly-And Sting Like a Bee\n\n“Only coelenterates, such as jellyfish, know how to make certain special stinging cells, their nematocysts. Contact with a big coelenterate (the Portuguese man-of-war is especially vicious) is extremely unpleasant for a person and often fatal for a fish.” (Vogel 1998:30)",
   "function_addressed": [
@@ -10,17 +9,22 @@
     "capture, absorb, or filter organisms",
     "move in/on solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "expel::liquids",
+    "move::in-on-solids",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "expel",
+    "move",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/toxins-protect-from-predators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "toxins",
     "protect",
     "predators"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

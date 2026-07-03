@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-estuaries-rely-on-ecosystem-engineers",
   "organism_common": "Featherlike diatoms",
-  "organism_scientific": "",
   "strategy_summary": "Estuarine ecosystems rely on diatoms because they act as ecosystem engineers by binding sand to stabilize the environment. “Many organisms modulate the availability of resources to other species by causing state changes in biotic or abiotic materials (ecosystem engineering), in the process frequently changing the…",
   "mechanism": "Estuarine ecosystems rely on diatoms because they act as ecosystem engineers by binding sand to stabilize the environment.\n\n“Many organisms modulate the availability of resources to other species by causing state changes in biotic or abiotic materials (ecosystem engineering), in the process frequently changing the selection to which the ecosystem engineers and other organisms are exposed (niche construction)…In the Bay of Fundy, Canada, estuarine sediments are dominated by benthic diatoms that produce carbohydrate exudates. These secretions bind the sand and stabilize its movement, which causes a physical state change in the environment that allows other species to colonize the area (figure 1;Daborn et al. 1993, Jones et al. 1997). An amphipod ( Corophium volutator ) that grazes on the diatoms affects soil stability; where these amphipods are abundant, sand stabilization by diatoms is reduced. In turn, migratory sandpipers ( Calidris pusilla ) feed on the amphipods (figure 2). With the appearance of these birds, amphipod numbers decline, promoting restabilization of the habitat by diatoms. Jones and colleagues (1997) point out that the sandpiper might be seen as the keystone species in the system, since it meets keystone definitions, and variation in its abundance has great knock-on effects on the ecosystem. However, these effects transpire only because of the engineering activities of the diatoms, which are the key ecosystem engineers. Conservation efforts to counteract sediment erosion would be misguided if directed solely at the keystone predators.” (Boogert et al. 2006:570, 572)\n\nDiatoms bind sand particles together with a carbohydrate exudate. Artist: Emily Harrington. All rights reserved.\n\nAmphipods reduce diatom numbers, thus reducing the stability of the sediments. Shorebirds prey on the amphipods, resulting in a healthy diatom population. Artist: Emily Harrington. All rights reserved.\n\nScanning Electron Micrographs of Diatoms. (A) Biddulphia reticulata. The whole shell or frustule of a centric diatom showing valves and girdle bands (size bar = 10 micrometres). (B) Diploneis sp. This picture shows two whole pennate diatom frustules in which raphes or slits, valves, and girdle bands can be seen (size bar = 10 micrometres). (C) Eupodiscus radiatus. View of a single valve of a centric diatom (size bar = 20 micrometres) (D) Melosira varians. The frustule of a centric diatom, showing both valves and some girdle bands (size bar = 10 micrometres).\n\nDiatoms: eukaryotic algae.",
   "function_addressed": [
     "control erosion and sediment",
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::control-erosion-and-sediment",
+    "provide-ecosystem-services::maintain-biodiversity"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/estuaries-rely-on-ecosystem-engineers/",
-  "source_tier": "science_journalism",
   "keywords": [
     "estuaries",
     "rely",
     "ecosystem",
     "engineers"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

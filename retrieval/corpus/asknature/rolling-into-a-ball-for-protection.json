@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-rolling-into-a-ball-for-protection",
   "organism_common": "Pill millipedes",
-  "organism_scientific": "",
   "strategy_summary": "Pill millipedes protect themselves from predators by rolling their jointed skeletons into a ball. “The pill millipede has the same strategy: its hard outer skeleton is jointed so it can roll into an impregnable ball, enclosing its head and numerous legs in armour plating.",
   "mechanism": "Pill millipedes protect themselves from predators by rolling their jointed skeletons into a ball.\n\n“The pill millipede has the same strategy: its hard outer skeleton is jointed so it can roll into an impregnable ball, enclosing its head and numerous legs in armour plating. Not only is there no easy way in for the predator, but it would also need a much larger mouth to swallow a rolled-up millipede than a long thin stretched-out one.” (Foy and Oxford Scientific Films 1982:21)",
   "function_addressed": [
@@ -9,17 +8,21 @@
     "manage impact",
     "modify size/shape/mass/volume"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::impact",
+    "modify-physical-state::size-shape-mass-volume",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "modify-physical-state",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/rolling-into-a-ball-for-protection/",
-  "source_tier": "science_journalism",
   "keywords": [
     "rolling",
     "ball",
     "protection"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

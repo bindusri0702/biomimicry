@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-fins-enable-maneuverability",
   "organism_common": "Fish",
-  "organism_scientific": "",
   "strategy_summary": "Fish use their fins to control braking, stability, and thrust to increase maneuverability. “By flexing the pectoral and caudal fins the fish can turn up, down, or sideways.",
   "mechanism": "Fish use their fins to control braking, stability, and thrust to increase maneuverability.\n\n“By flexing the pectoral and caudal fins the fish can turn up, down, or sideways. The pectoral fins are also used as brakes, being pushed forwards like the flaps on an aircraft wing. The positions of the paired fins, especially the pelvic fins, are constantly adjusted to keep the fish from pitching or rolling: the pectorals tend to produce lift, which is counteracted by the downward thrust of the pelvics.” (Foy and Oxford Scientific Films 1982:186)\n\nDiagram of labelled fish fins\n\nA Giant grouper (Epinephelus lanceolatus) taken at the Georgia Aquarium on January 23 2006",
   "function_addressed": [
@@ -10,18 +9,24 @@
     "manage turbulence",
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::turbulence",
+    "modify-physical-state::position",
+    "move::in-on-liquids",
+    "navigate::through-liquid"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "modify-physical-state",
+    "move",
+    "navigate"
+  ],
   "source_url": "https://asknature.org/strategy/fins-enable-maneuverability/",
-  "source_tier": "science_journalism",
   "keywords": [
     "each",
     "fin",
     "fish",
     "move"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

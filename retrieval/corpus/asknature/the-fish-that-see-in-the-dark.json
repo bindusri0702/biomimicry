@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-the-fish-that-see-in-the-dark",
   "organism_common": "Striped Kribensis",
-  "organism_scientific": "",
   "strategy_summary": "After a long, hot day, the sun sets over the mountaintops staining the sky a deep crimson. Sunsets are red and orange because the sun’s light passes through more atmospheric gases when it’s low on the horizon.",
-  "mechanism": "The rainbow arching across the sky is perhaps the most iconic illustration of the visible spectrum, with wavelengths of light ranging from 400 nanometers (violet) to 780 nanometers (red). Just beyond that lies a region of light called “near-infrared,” which encompasses wavelengths between 780 and 1,000 nanometers. Several types of freshwater fish are known to see near-infrared light.\n\nTo understand how fish see such long wavelengths of light, we need to understand a bit about the process that enables humans, fish, and other vertebrates to see at all—phototransduction. In this process, light passes into the pupil, focuses across the eye’s lens, and strikes the retina, which contains hundreds of millions of photoreceptor cells. Like other sensing receptor cells, these cells convert information to electric signals that the brain can interpret.\n\nImaging technology based on fish eyes could produce lower-energy, more compact, versatile, and sustainable infrared visualization devices of many kinds. It could help robots navigate in dark waters to clean oil spills, study inaccessible ecosystems, and guide smart fishing nets to avoid capturing threatened species.\n\nThe visual abilities of fish may just help humans become better at fishing around in the dark ourselves.",
+  "mechanism": "The rainbow arching across the sky is perhaps the most iconic illustration of the visible spectrum, with wavelengths of light ranging from 400 nanometers (violet) to 780 nanometers (red). Just beyond that lies a region of light called “near-infrared,” which encompasses wavelengths between 780 and 1,000 nanometers. Several types of freshwater fish are known to see near-infrared light.\n\nTo understand how fish see such long wavelengths of light, we need to understand a bit about the process that enables humans, fish, and other vertebrates to see at all—phototransduction. In this process, light passes into the pupil, focuses across the eye’s lens, and strikes the retina, which contains hundreds of millions of photoreceptor cells. Like other sensing receptor cells, these cells convert information to electric signals that the brain can interpret.\n\nPhotoreceptor cells come in two different shapes, each with a distinct role in vision. Rod-shaped photoreceptors help with light contrast and allow us to see at lower light levels. Walking through a dark room, rod receptors help you navigate even if you can’t distinguish colors. At higher light levels, three types of cone-shaped photoreceptors—red, green, and blue—help us see colors because they’re sensitive to different wavelengths of light.\n\nLooking up on a clear day, blue cone receptors activate and stimulate nerve cells that cause our brains to perceive the sky as “blue.” In a forest in the spring, green receptors fire as we scan our eyes across leafy treetops. Focusing on a northern cardinal perched on a branch, red receptors alert our brains to the brilliant bird’s beauty. The three types of cone receptors work together to paint our brains’ perceptions with all the colors of the rainbow. As we take in different views, changes in the quantity, intensity, and duration at which the various cone receptors fire combine to create a “full color” image of the scene.\n\nVitamin A, which comes in two forms, is part of the protein complexes that make up the rod and cone cells. In humans and most other vertebrates, vitamin A1, commonly called retinol, is the dominant form. According to a 2015 study, some fish can see longer wavelengths of light because they have an enzyme that converts vitamin A1 to vitamin A2 (called dehydroretinol). Vitamin A2 appears to shift the sensitivity of red cone cells to longer wavelengths, allowing fish that have this particular enzyme to see near-infrared light.\n\nImaging technology based on fish eyes could produce lower-energy, more compact, versatile, and sustainable infrared visualization devices of many kinds. It could help robots navigate in dark waters to clean oil spills, study inaccessible ecosystems, and guide smart fishing nets to avoid capturing threatened species.\n\nThe visual abilities of fish may just help humans become better at fishing around in the dark ourselves.",
   "function_addressed": [
     "sense light (non-visible spectrum) from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::light-non-visible-spectrum"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/the-fish-that-see-in-the-dark/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fish",
     "see",
     "dark"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

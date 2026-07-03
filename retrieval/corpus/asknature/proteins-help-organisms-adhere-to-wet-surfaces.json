@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-proteins-help-organisms-adhere-to-wet-surfaces",
   "organism_common": "Green mussel",
-  "organism_scientific": "",
   "strategy_summary": "Byssus threads of the green mussel attach to a wet, solid surface due to glycosylated hydroxytryptophan in one of its adhesive proteins. Some mussels adhere to rocks and other ocean substrates using a protein that contains an amino acid called Dopa (3,4-dihydroxyphenyl-L-alanine).",
-  "mechanism": "Byssus threads of the green mussel attach to a wet, solid surface due to glycosylated hydroxytryptophan in one of its adhesive proteins.\n\nSome mussels adhere to rocks and other ocean substrates using a protein that contains an amino acid called Dopa (3,4-dihydroxyphenyl-L-alanine). However, the invasive green mussel, Perna viridis, has a more complcated adhesive chemistry based on a protein with an elaborate modification of the amino acid tryptophan.\n\nThe stickiness of the green mussel’s foot, especially how it works in wet environments could be mimicked to form new adhesives, including use for teeth, bones, and for repairing ships at sea that have developed cracks.\n\n(adapted from an article at http://www.eurekalert.org/pub_releases/2009-08/uoc–tig082709.php )\n\nImage: Vishal Bhave / toggle icon",
+  "mechanism": "Byssus threads of the green mussel attach to a wet, solid surface due to glycosylated hydroxytryptophan in one of its adhesive proteins.\n\nSome mussels adhere to rocks and other ocean substrates using a protein that contains an amino acid called Dopa (3,4-dihydroxyphenyl-L-alanine). However, the invasive green mussel, Perna viridis, has a more complcated adhesive chemistry based on a protein with an elaborate modification of the amino acid tryptophan.\n\nThe stickiness of the green mussel’s foot, especially how it works in wet environments could be mimicked to form new adhesives, including use for teeth, bones, and for repairing ships at sea that have developed cracks.\n\n(adapted from an article at http://www.eurekalert.org/pub_releases/2009-08/uoc–tig082709.php )",
   "function_addressed": [
     "attach permanently",
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently",
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/proteins-help-organisms-adhere-to-wet-surfaces/",
-  "source_tier": "science_journalism",
   "keywords": [
     "proteins",
     "organisms",
@@ -20,7 +22,5 @@
     "wet",
     "surfaces"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

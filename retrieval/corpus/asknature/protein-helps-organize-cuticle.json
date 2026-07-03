@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-protein-helps-organize-cuticle",
   "organism_common": "Red grain beetle",
-  "organism_scientific": "",
   "strategy_summary": "Chitin in the cuticle of the red flour beetle is protected from degradation and organized and layered thanks to a special protein. “During each molting cycle of insect development, synthesis of new cuticle occurs concurrently with the partial degradation of the overlying old exoskeleton.",
-  "mechanism": "Chitin in the cuticle of the red flour beetle is protected from degradation and organized and layered thanks to a special protein.\n\n“During each molting cycle of insect development, synthesis of new cuticle occurs concurrently with the partial degradation of the overlying old exoskeleton. Protection of the newly synthesized cuticle from molting fluid enzymes has long been attributed to the presence of an impermeable envelope layer that was thought to serve as a physical barrier, preventing molting fluid enzymes from accessing the new cuticle and thereby ensuring selective degradation of only the old one. In this study, using the red flour beetle, Tribolium castaneum , as a model insect species, we show that an entirely different and unexpected mechanism accounts for the selective action of chitinases and possibly other molting enzymes. The molting fluid enzyme chitinase, which degrades the matrix polysaccharide chitin, is not excluded from the newly synthesized cuticle as previously assumed. Instead, the new cuticle is protected from chitinase action by the T. castaneum Knickkopf (TcKnk) protein . TcKnk colocalizes with chitin in the new cuticle and organizes it into laminae. Down-regulation of TcKnk results in chitinase-dependent loss of chitin, severe molting defects, and lethality at all developmental stages. The conservation of Knickkopf across insect, crustacean, and nematode taxa suggests that its critical roles in the laminar ordering and protection of exoskeletal chitin may be common to all chitinous invertebrates.” (Chaudhari et al. 2011)",
+  "mechanism": "Chitin in the cuticle of the red flour beetle is protected from degradation and organized and layered thanks to a special protein.\n\n“During each molting cycle of insect development, synthesis of new cuticle occurs concurrently with the partial degradation of the overlying old exoskeleton. Protection of the newly synthesized cuticle from molting fluid enzymes has long been attributed to the presence of an impermeable envelope layer that was thought to serve as a physical barrier, preventing molting fluid enzymes from accessing the new cuticle and thereby ensuring selective degradation of only the old one. In this study, using the red flour beetle, Tribolium castaneum, as a model insect species, we show that an entirely different and unexpected mechanism accounts for the selective action of chitinases and possibly other molting enzymes. The molting fluid enzyme chitinase, which degrades the matrix polysaccharide chitin, is not excluded from the newly synthesized cuticle as previously assumed. Instead, the new cuticle is protected from chitinase action by the T. castaneum Knickkopf (TcKnk) protein. TcKnk colocalizes with chitin in the new cuticle and organizes it into laminae. Down-regulation of TcKnk results in chitinase-dependent loss of chitin, severe molting defects, and lethality at all developmental stages. The conservation of Knickkopf across insect, crustacean, and nematode taxa suggests that its critical roles in the laminar ordering and protection of exoskeletal chitin may be common to all chitinous invertebrates.” (Chaudhari et al. 2011)",
   "function_addressed": [
     "protect from chemicals",
     "chemically assemble polymers"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::polymers",
+    "protect-from-non-living-threats::chemicals"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/protein-helps-organize-cuticle/",
-  "source_tier": "science_journalism",
   "keywords": [
     "protein",
     "organize",
     "cuticle"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

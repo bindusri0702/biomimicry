@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-claws-hold-on-at-high-current-velocities",
   "organism_common": "Riffle beetles",
-  "organism_scientific": "",
   "strategy_summary": "The legs of riffle beetles hold onto underwater substrates in fast currents using large, strong terminal claws. “The tarsi of aquatic insects all have terminal claws.",
   "mechanism": "The legs of riffle beetles hold onto underwater substrates in fast currents using large, strong terminal claws.\n\n“The tarsi of aquatic insects all have terminal claws. In riffle beetles, the claws are large and stout. This enables them to retain their position even at high current velocities.” (Giller and Malmqvist 1998:115)",
   "function_addressed": [
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/claws-hold-on-at-high-current-velocities/",
-  "source_tier": "science_journalism",
   "keywords": [
     "claws",
     "hold",
@@ -19,7 +20,5 @@
     "current",
     "velocities"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

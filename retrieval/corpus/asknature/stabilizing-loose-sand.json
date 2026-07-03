@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-stabilizing-loose-sand",
   "organism_common": "Dancing white lady spider",
-  "organism_scientific": "",
-  "strategy_summary": "Some spiders stabilize loose sand in their burrows using silk. “The burrowing spiders have long spinnerets with very long spigots (observed for heteropodids, Seothyra , Hermacha and Asemesthes ; Peters, 1992a; pers.",
-  "mechanism": "Some spiders stabilize loose sand in their burrows using silk.\n\n“The burrowing spiders have long spinnerets with very long spigots (observed for heteropodids, Seothyra , Hermacha and Asemesthes ; Peters, 1992a; pers. obs.) that the spiders use to bind the burrow walls. For instance, Leucorchestris stabilizes its burrow wall with a ring of silken nodules that is made by pushing the very long spigots far into the sand to interweave the sand grains (Peters, 1992a). The silken nodules project 2–3 mm into the sand beyond the burrow wall, corresponding to about 10% of the spider’s body length. A progression of nodule rings runs along the length of the burrow wall (Henschel, 1990b). This pattern appears to be similar in the burrow-walls of several other spiders (huntsmen, Seothyra , Ariadna ), judging by the succession of rings along the burrow. The burrow walls, although not rigid, stabilize the burrows to such an extent that they are functional even in the loose sand of the slipface ( Carparachne ), although the micro-mechanics are not understood. The investment in silk by individual spiders appears to be very high, but this has only been examined for Seothyra , which requires 6% of its body mass on the first night of burrow construction (Henschel & Lubin, 1992) and probably at least twice as much until the web is functional. The burrows do not deteriorate in undisturbed sand, but there is no evidence of reuse. I have found three fossilized burrows with walls that resemble those of Leucorchestris in Tsondab sandstone, which were formed between 55 and 5 Myr ago (Ward et al., 1983).” (Henschel 1997:701)",
+  "strategy_summary": "Some spiders stabilize loose sand in their burrows using silk. “The burrowing spiders have long spinnerets with very long spigots (observed for heteropodids, Seothyra, Hermacha and Asemesthes; Peters, 1992a; pers.",
+  "mechanism": "Some spiders stabilize loose sand in their burrows using silk.\n\n“The burrowing spiders have long spinnerets with very long spigots (observed for heteropodids, Seothyra, Hermacha and Asemesthes; Peters, 1992a; pers. obs.) that the spiders use to bind the burrow walls. For instance, Leucorchestris stabilizes its burrow wall with a ring of silken nodules that is made by pushing the very long spigots far into the sand to interweave the sand grains (Peters, 1992a). The silken nodules project 2–3 mm into the sand beyond the burrow wall, corresponding to about 10% of the spider’s body length. A progression of nodule rings runs along the length of the burrow wall (Henschel, 1990b). This pattern appears to be similar in the burrow-walls of several other spiders (huntsmen, Seothyra, Ariadna ), judging by the succession of rings along the burrow. The burrow walls, although not rigid, stabilize the burrows to such an extent that they are functional even in the loose sand of the slipface ( Carparachne ), although the micro-mechanics are not understood. The investment in silk by individual spiders appears to be very high, but this has only been examined for Seothyra, which requires 6% of its body mass on the first night of burrow construction (Henschel & Lubin, 1992) and probably at least twice as much until the web is functional. The burrows do not deteriorate in undisturbed sand, but there is no evidence of reuse. I have found three fossilized burrows with walls that resemble those of Leucorchestris in Tsondab sandstone, which were formed between 55 and 5 Myr ago (Ward et al., 1983).” (Henschel 1997:701)",
   "function_addressed": [
     "control erosion and sediment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::control-erosion-and-sediment"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/stabilizing-loose-sand/",
-  "source_tier": "science_journalism",
   "keywords": [
     "stabilizing",
     "loose",
     "sand"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

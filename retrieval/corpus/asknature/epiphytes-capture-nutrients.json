@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-epiphytes-capture-nutrients",
   "organism_common": "Bromeliads",
-  "organism_scientific": "",
   "strategy_summary": "Bromeliads capture water and spawn a small community whose collective roles lead to nutrient supply for the epiphytic plants. “So successful are these techniques for sending seeds up into the canopy that the massive branches of many forest trees are often densely lined with squatters.",
   "mechanism": "Bromeliads capture water and spawn a small community whose collective roles lead to nutrient supply for the epiphytic plants.\n\n“So successful are these techniques for sending seeds up into the canopy that the massive branches of many forest trees are often densely lined with squatters. These are known as epiphytes and among the commonest are bromeliads. They anchor themselves by wrapping their roots around the branch. Their long leaves grow in a tight rosette around their central bud and channel rain water down to it so that the rosette fills and forms a small pond. This becomes a world in miniature. Leaves and other bits of vegetable detritus fall into it and decay. Birds and small mammals come to sip the water, and leave behind their nitrogen-rich droppings. Microscopic organisms of one kind or another develop in it, as they will do in any pool of standing water. Mosquitos lay rafts of eggs in its depths, though in much smaller numbers. In due course, a few dragonfly larvae will feed on a multitude of mosquito larvae. Small brilliantly coloured frogs that live nowhere else but in bromeliad ponds take up residence and spawn there. Crabs, salamanders, slugs, worms, beetles, lizards, even small snakes may all join the community.\n\nThe bromeliad benefits from its hospitality. The water in its pond turns brown with the products of decay. The droppings of its lodgers accumulate as a thick ooze in the bottom. From both the plant extracts valuable nutrients that it can find in no other way, perched as it is so far away from the soil which nourishes others.” (Attenborough 1995:166)\n\nView this post on Instagram A post shared by Biomimicry Institute (@biomimicryinstitute)\n\nA post shared by Biomimicry Institute (@biomimicryinstitute)\n\nBromeliads\n\nThe leaves of some bromeliads capture water and nutrients in a storage tank via hydrophobic leaf surfaces.",
   "function_addressed": [
@@ -10,17 +9,21 @@
     "capture, absorb, or filter energy",
     "capture, absorb, or filter chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "cooperate-compete::within-a-eco-system",
+    "provide-ecosystem-services::cycle-nutrients"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "cooperate-compete",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/epiphytes-capture-nutrients/",
-  "source_tier": "science_journalism",
   "keywords": [
     "epiphytes",
     "capture",
     "nutrients"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

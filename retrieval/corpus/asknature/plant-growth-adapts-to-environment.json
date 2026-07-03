@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-plant-growth-adapts-to-environment",
   "organism_common": "Wall cress",
-  "organism_scientific": "",
   "strategy_summary": "Wall cress is a small flowering plant, often found growing as a weed on roadsides and along farm fields. Its lower leaves tend to hug the ground but the stem height can vary.",
-  "mechanism": "When forces such as wind or rain impact the plant, certain genes switch on and make a protein called calmodulin. Calmodulin causes an increase in calcium ions, signaling the plant to change its growth patterns.\n\nThis touch-response system in plants is called thigmomorpho-genesis. It allows some plants to sense challenges to their growth and to prepare for similar challenges in the future. For example, wall cress plants growing in windy locations tend to be shorter than those in protected areas.\n\nThis method of having form adapt to external physical pressure could drastically improve the efficiency or effectiveness of many machines and processes. Wind turbines could change shape or size depending on weather conditions. Weight-training equipment could respond to the exact force exerted by each user at each moment. Bridges or buildings could slowly reinforce themselves as needed.\n\nThis strategy was contributed by Heather Dove.",
+  "mechanism": "When forces such as wind or rain impact the plant, certain genes switch on and make a protein called calmodulin. Calmodulin causes an increase in calcium ions, signaling the plant to change its growth patterns.\n\nThis touch-response system in plants is called thigmomorpho-genesis. It allows some plants to sense challenges to their growth and to prepare for similar challenges in the future. For example, wall cress plants growing in windy locations tend to be shorter than those in protected areas.\n\nThis method of having form adapt to external physical pressure could drastically improve the efficiency or effectiveness of many machines and processes. Wind turbines could change shape or size depending on weather conditions. Weight-training equipment could respond to the exact force exerted by each user at each moment. Bridges or buildings could slowly reinforce themselves as needed.",
   "function_addressed": [
     "protect from wind",
     "sense touch and mechanical forces in a living system"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::wind",
+    "sense-signals-environmental-cues::touch-and-mechanical-forces"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/plant-growth-adapts-to-environment/",
-  "source_tier": "science_journalism",
   "keywords": [
     "plant",
     "growth",
     "adapts",
     "environment"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

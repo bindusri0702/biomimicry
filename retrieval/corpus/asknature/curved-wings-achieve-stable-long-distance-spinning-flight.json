@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-curved-wings-achieve-stable-long-distance-spinning-flight",
   "organism_common": "Ant Tree",
-  "organism_scientific": "",
   "strategy_summary": "The genus Triplaris includes tropical trees native to Central and South America, often found along rivers and in open forests (such as Triplaris americana , known as the Ant Tree). They grow in disturbed or open areas where successful seed dispersal can help rapidly colonize new ground.",
   "mechanism": "The samaras of Triplaris achieve flight through a balance of symmetry, shape, and self-formed structure. As they detach from the tree, they naturally orient into a vertical position. Their three arched wings are cambered and equally spaced around the central seed, forming an aerodynamic structure capable of stable autorotation. This spinning motion generates lift and slows the seed’s descent, enabling it to drift on wind currents and land far from the parent tree.\n\nEach wing’s curvature is formed passively as the sepals dry and curl, which shapes airflow in a way that maximizes lift and drag in balance. The spinning motion itself stabilizes the descent, preventing tumbling and ensuring the seed remains upright and controlled during its fall. The aerodynamic behavior of the samara resembles that of a gyroscopic rotor, using air resistance alone to create motion and stability.\n\nThe efficiency of this natural design is notable. Without using any energy or complex materials, the tree produces a fruit that can travel tens of meters through the air, improving seed dispersal and reducing competition between parent and offspring.\n\nThis natural strategy demonstrates how a carefully tuned form alone can produce stable, efficient motion through air without motors, fuel, or control systems. It is a strategy optimized not just for flight, but for resourcefulness: minimal materials arranged to perform maximum work. Inspired by this mechanism, designers could develop wind energy systems with curved, radial blades that mimic the samara’s efficient spinning descent, enabling energy capture from low-speed airflow with minimal startup energy. The same principles could inform passive aerial delivery systems, such as biodegradable seed dispersal pods or low-impact humanitarian aid packages that glide to the ground.",
   "function_addressed": [
     "move in/through gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-through-gases"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/curved-wings-achieve-stable-long-distance-spinning-flight/",
-  "source_tier": "science_journalism",
   "keywords": [
     "curved",
     "wings",
@@ -20,7 +21,5 @@
     "long-distance",
     "spinning"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

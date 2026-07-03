@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-cicada-desert-water-management",
   "organism_common": "Apache cicada",
-  "organism_scientific": "",
   "strategy_summary": "June is the hottest and driest month in the Sonoran Desert. Take a walk in Saguaro National Park as the thermometer climbs into the triple digits Fahrenheit, and the place seems as deserted as at high noon in a Hollywood western.",
   "mechanism": "To keep their body temperatures below lethal levels, Apache cicadas siphon water from their blood and channel it via large ducts to the surface of the thorax for evaporative cooling. Think of it as a kind of insect sweating. Unlike their counterparts in more humid parts of the U.S., which have far fewer or no ducts at all, these desert cicadas are riddled with evaporative pores. That’s because they must process copious amounts of water to avoid overheating in their broiling environments. Research has shown that they lose anywhere from 25 to 30 percent of their body water for every hour of evaporative cooling.\n\nAnd where do they find an abundance of water during the season with the highest temperatures and lowest levels of humidity? Apache cicadas possess long, thin feeding structures called stylets that allow them to puncture plant tissues and tap the xylem of desert trees. It’s like sipping from continuous streams of arboreal water.\n\nBut these insects have other tasks on their daily to-do lists besides staying well-nourished and hydrated. The question is: How do they keep from overheating as they turn off the spigot and focus on other things?\n\nThe answer: Apache cicadas can withstand levels of desiccation that would kill other terrestrial arthropods. They can tolerate a loss of up to 35 percent of their body water (vs. 15-25 percent for other arthropods). The desert’s hot, dry conditions serve as a kind of invisible fence that confines the insect’s predators—lizards, birds, wasps and small mammals—to their desert refugia while freeing Apache cicadas to boldly sing from the treetops.\n\nEvaporative cooling is already used extensively in human innovations. The Apache cicada’s pore system could present novel models for the design of water-release mechanisms.\n\nThe cicada’s “drinking straw” can also serve as a model for structures and processes for tapping into difficult-to-access water sources. As a complex system, the cicada and trees actually work together, with the tree’s roots bringing water up from deep underground, or absorbing and storing it from rain, and then concentrating it in the mobile bodies of the cicadas.",
   "function_addressed": [
@@ -10,11 +9,19 @@
     "maintain homeostasis",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids",
+    "expel::liquids",
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "expel",
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/cicada-desert-water-management/",
-  "source_tier": "science_journalism",
   "keywords": [
     "desert",
     "cicadas",
@@ -23,7 +30,5 @@
     "cool",
     "down"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

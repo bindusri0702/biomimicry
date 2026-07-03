@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-deployable-web-distracts-predators",
   "organism_common": "Common blanket octopus",
-  "organism_scientific": "",
   "strategy_summary": "The membrane attached to some arms of the blanket octopus serves as a defense mechanism because it expands to distract predators and can be shed if necessary. “The appearance of the female is striking due to the wide, deep web attached to arms I and II (Portmann 1952), for which the name ‘blanket’ or ‘handkerchief’…",
   "mechanism": "The membrane attached to some arms of the blanket octopus serves as a defense mechanism because it expands to distract predators and can be shed if necessary.\n\n“The appearance of the female is striking due to the wide, deep web attached to arms I and II (Portmann 1952), for which the name ‘blanket’ or ‘handkerchief’ octopus has been given (Voss and Williamson 1971). The web is most extensive between arms I and II and it can be expanded or contracted to a remarkable degree. Contractions of the web are due to transverse bands of muscle, each surrounded by elastic fibres which probably allow the web to expand after autotomy. Besides this the edge of the web, parallel with the arm, has a row of ‘pouches’ lined by glands; these may have a role in the attachment of the clusters of stalked eggs (Portmann 1952). Autotomy of the web occurs along visible fracture lines when the animal is distressed. The dorsal arms and web are held rolled back when the animal swims, but spread out if disturbed. The web undoubtedly has several functions, as it does in Argonauta …The web when fully extended was 600mm long and 300mm wide, and the animal had a mantle length of 180 mm.” (Nixon and Young 2003:324)",
   "function_addressed": [
     "protect from animals",
     "modify size/shape/mass/volume"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::size-shape-mass-volume",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/deployable-web-distracts-predators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "deployable",
     "web",
     "distracts",
     "predators"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,28 @@
 {
   "doc_id": "asn-tendons-store-energy",
   "organism_common": "Bushbabies and galagos",
-  "organism_scientific": "",
   "strategy_summary": "The legs of the bushbaby allow it to jump twelve times its body length by storing energy in tendons. These agile creatures can leap swiftly between the branches of trees in woodland and savannah regions of Africa south of the Sahara and on nearby islands.",
-  "mechanism": "The legs of the bushbaby allow it to jump twelve times its body length by storing energy in tendons.\n\nThese agile creatures can leap swiftly between the branches of trees in woodland and savannah regions of Africa south of the Sahara and on nearby islands. They are small (18 cm/7 in.) primates with thick, wooly fur and large eyes. One remarkable feature of the bushbaby is that it can jump up to 2.25 m (7 ft.), which is 12 times its body length! The bushbaby accomplishes this feat with the help of extremely strong, stretchy tendons in its back legs. When a bushbaby prepares to leap, it uses muscles to stretch those tendons and store elastic energy in them. Then when the bushbaby jumps, those tendons release their stored energy like catapults to help the animal spring forward. A long tail helps give the bushbaby control during the leap.\n\nThis strategy was co-contributed by EcoRise Youth Innovations",
+  "mechanism": "The legs of the bushbaby allow it to jump twelve times its body length by storing energy in tendons.\n\nThese agile creatures can leap swiftly between the branches of trees in woodland and savannah regions of Africa south of the Sahara and on nearby islands. They are small (18 cm/7 in.) primates with thick, wooly fur and large eyes. One remarkable feature of the bushbaby is that it can jump up to 2.25 m (7 ft.), which is 12 times its body length! The bushbaby accomplishes this feat with the help of extremely strong, stretchy tendons in its back legs. When a bushbaby prepares to leap, it uses muscles to stretch those tendons and store elastic energy in them. Then when the bushbaby jumps, those tendons release their stored energy like catapults to help the animal spring forward. A long tail helps give the bushbaby control during the leap.",
   "function_addressed": [
     "capture, absorb, or filter energy",
     "store energy",
     "distribute energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "distribute::energy",
+    "store::energy"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "distribute",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/tendons-store-energy/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tendons",
     "store",
     "energy"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

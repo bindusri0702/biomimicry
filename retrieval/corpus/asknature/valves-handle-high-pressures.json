@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-valves-handle-high-pressures",
   "organism_common": "Humans",
-  "organism_scientific": "",
   "strategy_summary": "The aortic valve in vertebrate hearts allows the tissue to expand under high pressures by having elastic properties. “THE human aortic valve consists of three cusps made of relatively inelastic, muscle-free material about 0.15 mm thick.",
-  "mechanism": "The aortic valve in vertebrate hearts allows the tissue to expand under high pressures by having elastic properties.\n\n“THE human aortic valve consists of three cusps made of relatively inelastic, muscle-free material about 0.15 mm thick. It opens and shuts about once a second, and withstands a pressure difference of 100 mm of mercury when closed. It usually functions for 70 yr without failure, and works so efficiently that very little blood is regurgitated at each pulse. In order to support this large pressure difference, the cusps must close simultaneously in all operating conditions and should not touch the wall of the aorta, for considerable reversed flow would then be required to close the valve. This action suggests a fluid dynamic control mechanism which positions the cusps away from the wall of the aorta, so that the slightest reversed flow will close the valve.” (Bellhouse and Bellhouse 1968:86)\n\nWatch Video\n\nImage: Anatomist90 / toggle icon\n\nMIT\n\nBionic heart model from MIT mimics the way a real human heart pumps blood, allowing for more realistic testing of prosthetic valves.",
+  "mechanism": "The aortic valve in vertebrate hearts allows the tissue to expand under high pressures by having elastic properties.\n\n“THE human aortic valve consists of three cusps made of relatively inelastic, muscle-free material about 0.15 mm thick. It opens and shuts about once a second, and withstands a pressure difference of 100 mm of mercury when closed. It usually functions for 70 yr without failure, and works so efficiently that very little blood is regurgitated at each pulse. In order to support this large pressure difference, the cusps must close simultaneously in all operating conditions and should not touch the wall of the aorta, for considerable reversed flow would then be required to close the valve. This action suggests a fluid dynamic control mechanism which positions the cusps away from the wall of the aorta, so that the slightest reversed flow will close the valve.” (Bellhouse and Bellhouse 1968:86)\n\nWatch Video\n\nMIT\n\nBionic heart model from MIT mimics the way a real human heart pumps blood, allowing for more realistic testing of prosthetic valves.",
   "function_addressed": [
     "distribute liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::liquids"
+  ],
+  "subgroup_keys": [
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/valves-handle-high-pressures/",
-  "source_tier": "science_journalism",
   "keywords": [
     "valves",
     "handle",
     "high",
     "pressures"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

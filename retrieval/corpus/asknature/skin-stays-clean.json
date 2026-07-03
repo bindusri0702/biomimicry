@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-skin-stays-clean",
   "organism_common": "Earthworm",
-  "organism_scientific": "",
   "strategy_summary": "Skin of earthworms stays clean while moving through moist soil because of electroosmotic flow near the body. “[S]oil does not seem to adhere to earthworm surface … An important phenomenon of earthworms moving in moist soil is that the electric potential exists on an earthworm tissue … The electroosmotic flow near an…",
   "mechanism": "Skin of earthworms stays clean while moving through moist soil because of electroosmotic flow near the body.\n\n“[S]oil does not seem to adhere to earthworm surface … An important phenomenon of earthworms moving in moist soil is that the electric potential exists on an earthworm tissue … The electroosmotic flow near an earthworm body surface is a basic electrokinetic phenomenon that takes place when the earthworm moves in moist soil. The flow in a micro thin layer of water is formed in the vicinity of the earthworm body surface as a result of the electric double layer (EDL) interaction. Such a micro scale electroosmotic flow plays the role of lubrication between the earthworm body surface and the surrounding medium of moist soil and reduces surface adhesion.” (Zu and Yan 2006:179)",
   "function_addressed": [
     "protect from dirt/solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::dirt-solids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/skin-stays-clean/",
-  "source_tier": "science_journalism",
   "keywords": [
     "skin",
     "stays",
     "clean"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

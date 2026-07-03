@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-feet-used-for-powerful-swimming",
   "organism_common": "Move in/on Liquids",
-  "organism_scientific": "",
   "strategy_summary": "The webbed back feet of true frogs are used to swim by pushing back against the water creating vortex rings. OLYMPUS DIGITAL CAMERA  OLYMPUS DIGITAL CAMERA  Rana esculenta, photographed in a garden at Stillinge Strand, Denmark.",
-  "mechanism": "The webbed back feet of true frogs are used to swim by pushing back against the water creating vortex rings.\n\nOLYMPUS DIGITAL CAMERA\n\nOLYMPUS DIGITAL CAMERA\n\nRana esculenta, photographed in a garden at Stillinge Strand, Denmark.\n\nRana esculenta, photographed in a garden at Stillinge Strand, Denmark.\n\nRana esculenta\n\nRana esculenta\n\nDCF 1.0\n\nTeichfrosch mit aufgeblasenen Backen\n\n“Frogs propel themselves by kicking water backwards using a synchronised extension of their hind limbs and webbed feet. To understand this propulsion process, we quantified the water movements and displacements resulting from swimming in the green frog Rana esculenta , applying digital particle image velocimetry (DPIV) to the frog’s wake.\n\n“The wake showed two vortex rings left behind by the two feet. The rings appeared to be elliptic in planform, urging for correction of the observed ring radii. The rings’ long and short axes (average ratio 1.75:1) were about the same size as the length and width of the propelling frog foot and the ellipsoid mass of water accelerated with it. Average thrust forces were derived from the vortex rings, assuming all propulsive energy to be compiled in the rings. The calculated average forces (Fav=0.10±0.04·N) were in close agreement with our parallel study applying a momentum–impulse approach to water displacements during the leg extension phase.\n\n“We did not find any support for previously assumed propulsion enhancement mechanisms. The feet do not clap together at the end of the power stroke and no ‘wedgeaction’ jetting is observed. Each foot accelerates its own water mantle, ending up in a separate vortex ring without interference by the other leg.” (Stamhuis and Nauwelaerts 2005:1445)",
+  "mechanism": "The webbed back feet of true frogs are used to swim by pushing back against the water creating vortex rings.\n\nOLYMPUS DIGITAL CAMERA\n\nOLYMPUS DIGITAL CAMERA\n\nRana esculenta, photographed in a garden at Stillinge Strand, Denmark.\n\nRana esculenta, photographed in a garden at Stillinge Strand, Denmark.\n\nRana esculenta\n\nRana esculenta\n\nDCF 1.0\n\nTeichfrosch mit aufgeblasenen Backen\n\n“Frogs propel themselves by kicking water backwards using a synchronised extension of their hind limbs and webbed feet. To understand this propulsion process, we quantified the water movements and displacements resulting from swimming in the green frog Rana esculenta, applying digital particle image velocimetry (DPIV) to the frog’s wake.\n\n“The wake showed two vortex rings left behind by the two feet. The rings appeared to be elliptic in planform, urging for correction of the observed ring radii. The rings’ long and short axes (average ratio 1.75:1) were about the same size as the length and width of the propelling frog foot and the ellipsoid mass of water accelerated with it. Average thrust forces were derived from the vortex rings, assuming all propulsive energy to be compiled in the rings. The calculated average forces (Fav=0.10±0.04·N) were in close agreement with our parallel study applying a momentum–impulse approach to water displacements during the leg extension phase.\n\n“We did not find any support for previously assumed propulsion enhancement mechanisms. The feet do not clap together at the end of the power stroke and no ‘wedgeaction’ jetting is observed. Each foot accelerates its own water mantle, ending up in a separate vortex ring without interference by the other leg.” (Stamhuis and Nauwelaerts 2005:1445)",
   "function_addressed": [
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/feet-used-for-powerful-swimming/",
-  "source_tier": "science_journalism",
   "keywords": [
     "feet",
     "used",
     "powerful",
     "swimming"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

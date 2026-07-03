@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-biochemical-pathways-detoxify-hexavalent-chromium",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Respiratory enzymes in Acidiphilium cryptum bacteria detoxify hexavalent chromium compounds even under highly acidic conditions by shuttling electrons from several sources. Hexavalent chromium is a known carcinogen and may also cause mutations and birth defects.",
   "mechanism": "Respiratory enzymes in Acidiphilium cryptum bacteria detoxify hexavalent chromium compounds even under highly acidic conditions by shuttling electrons from several sources.\n\nHexavalent chromium is a known carcinogen and may also cause mutations and birth defects. The less oxidized (i.e., “reduced”) trivalent form is less toxic, predominantly because it precipitates out of watery environments as a solid at normal pH levels so is more difficult to be absorbed and used by living cells. The acid-loving bacterium, Acidiphilium cryptum, can convert chromium from the hexavalent to the trivalent form in two ways using the same enzymes it uses for respiration. When oxidized iron (III) is available to the organism (the same form of iron present in rust), the organism uses respiratory enzymes to reduce iron (III) to iron (II) and then shuttles the newly added electron from iron (II) for the conversion of chromium to its less toxic form. When iron is not available, the respiratory enzymes directly reduce hexavalent chromium to the trivalent form, but it is a slower process.",
   "function_addressed": [
@@ -9,11 +8,16 @@
     "modify oxidation state",
     "modify electron transport"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-chemical-electrical-state::electron-transport",
+    "modify-chemical-electrical-state::oxidation-state",
+    "transform-convert-energy::chemically-generate-flow-of-electrons"
+  ],
+  "subgroup_keys": [
+    "modify-chemical-electrical-state",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/biochemical-pathways-detoxify-hexavalent-chromium/",
-  "source_tier": "science_journalism",
   "keywords": [
     "biochemical",
     "pathways",
@@ -21,7 +25,5 @@
     "hexavalent",
     "chromium"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

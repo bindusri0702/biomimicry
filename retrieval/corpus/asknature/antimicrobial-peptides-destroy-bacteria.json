@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-antimicrobial-peptides-destroy-bacteria",
   "organism_common": "American dog tick",
-  "organism_scientific": "",
   "strategy_summary": "Defensins in the American dog tick destroys the bacteria that cause Lyme disease by introducing voltage-dependent channels into bacterial membranes. “Defensins are a family of antimicrobial peptides possessed by both vertebrates and invertebrates, which destroy invading bacteria by introducing voltage-dependent…",
-  "mechanism": "Defensins in the American dog tick destroys the bacteria that cause Lyme disease by introducing voltage-dependent channels into bacterial membranes.\n\n“Defensins are a family of antimicrobial peptides possessed by both vertebrates and invertebrates, which destroy invading bacteria by introducing voltage-dependent channels into bacterial membranes (Cociancich et al., 1993; Saido-Sakanaka et al., 1999 )…However, more is known about B. burgdorferi , the causative agent of Lyme disease. This well characterized spirochete is transmitted to humans when an infected I. scapularis tick in the nymph or adult stage feeds on a human. Interestingly, the tick D. variabilis is not a competent vector for B. burgdorferi because it destroys the spirochetes before they can be transmitted to a host (Johns et al., 2001a, 2001b).” (Todd et al. 2007:141, 146)",
+  "mechanism": "Defensins in the American dog tick destroys the bacteria that cause Lyme disease by introducing voltage-dependent channels into bacterial membranes.\n\n“Defensins are a family of antimicrobial peptides possessed by both vertebrates and invertebrates, which destroy invading bacteria by introducing voltage-dependent channels into bacterial membranes (Cociancich et al., 1993; Saido-Sakanaka et al., 1999 )…However, more is known about B. burgdorferi, the causative agent of Lyme disease. This well characterized spirochete is transmitted to humans when an infected I. scapularis tick in the nymph or adult stage feeds on a human. Interestingly, the tick D. variabilis is not a competent vector for B. burgdorferi because it destroys the spirochetes before they can be transmitted to a host (Johns et al., 2001a, 2001b).” (Todd et al. 2007:141, 146)",
   "function_addressed": [
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/antimicrobial-peptides-destroy-bacteria/",
-  "source_tier": "science_journalism",
   "keywords": [
     "antimicrobial",
     "peptides",
     "destroy",
     "bacteria"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

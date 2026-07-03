@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-leaf-serves-as-container",
   "organism_common": "Oak leaf-roller",
-  "organism_scientific": "",
   "strategy_summary": "Female red oak roller weevils create packages to hold their eggs by cutting and rolling oak leaves into tubes. “A weevil, the red oak roller, uses a leaf as a container for its young.",
   "mechanism": "Female red oak roller weevils create packages to hold their eggs by cutting and rolling oak leaves into tubes.\n\n“A weevil, the red oak roller, uses a leaf as a container for its young. It cuts the leaf transversely across the middle to the central rib, working first from one side then the other. It folds together the two quarters nearer the tip over the midrib and then rolls them into a double thickness tube. In that it lays its eggs.” (Attenborough 1995:156)",
   "function_addressed": [
@@ -9,17 +8,21 @@
     "physically assemble structure",
     "modify size/shape/mass/volume"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::size-shape-mass-volume",
+    "physically-assemble::structure",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "physically-assemble",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/leaf-serves-as-container/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaf",
     "serves",
     "container"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

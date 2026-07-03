@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-lungs-help-detect-sound",
   "organism_common": "Oriental fire-bellied toad",
-  "organism_scientific": "",
   "strategy_summary": "The lungs of the fire-bellied toad allow the toad to hear in the absence of a tympanic middle ear, because sound waves permeate through the mouth and skin, then resonate in the lungs before passing to the inner ears. Photographer: <a href=http://en.wikipedia.org/wiki/User:Dawson class=extiw title=en:User:Dawson>LA…",
   "mechanism": "The lungs of the fire-bellied toad allow the toad to hear in the absence of a tympanic middle ear, because sound waves permeate through the mouth and skin, then resonate in the lungs before passing to the inner ears.\n\nPhotographer: <a href=http://en.wikipedia.org/wiki/User:Dawson class=extiw title=en:User:Dawson>LA Dawson</a> Oriental Fire-belly Toad, ''Bombina orientalis'' <a href=http://en.wikipedia.org/wiki/Category:Frog_images class=extiw title=en:Category:Frog images>en:Category:Frog images</a>\n\n<KENOX S630 / Samsung S630>\n\n<KENOX S630 / Samsung S630>\n\n“How is it possible for a land vertebrate to hear if it has neither external nor middle ears to transmit sounds from the outside world to its inner ears? One species that can do so is the fire-bellied toad ( Bombina orientalis ). It is responsive to a wide range of airborne noises, and is also a versatile vocalist — but how can it detect sound waves? In 1999, Ohio State University researchers Dr. Erik Lindquist and Dr. Thomas Hetherington unmasked its remarkable secret.\n\n“Sound waves travel through its mouth and skin, entering its lungs, where they resonate before passing through the soft tissue around the lungs and into the inner ears. This auditory system should function underwater, too. Indeed, since sound waves travel faster through water than air, it should be more efficient there.” (Shuker 2001:39)",
   "function_addressed": [
     "sense sound and other vibrations from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::sound-and-other-vibrations"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/lungs-help-detect-sound/",
-  "source_tier": "science_journalism",
   "keywords": [
     "lungs",
     "detect",
     "sound"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

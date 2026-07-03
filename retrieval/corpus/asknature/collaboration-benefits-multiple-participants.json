@@ -1,26 +1,28 @@
 {
   "doc_id": "asn-collaboration-benefits-multiple-participants",
   "organism_common": "Mangroves",
-  "organism_scientific": "",
   "strategy_summary": "Several species of epiphytes, ants, fungi, and butterflies in mangrove forests provide benefits to each other through mutualism. “For instance, in [sic] Australian Myrmecodia plants, which may weigh several kilograms, have a bulbous stem honeycombed with tunnels occupied by the ant Iridomyrmex (and, in addition, a…",
-  "mechanism": "Several species of epiphytes, ants, fungi, and butterflies in mangrove forests provide benefits to each other through mutualism.\n\n“For instance, in [sic] Australian Myrmecodia plants, which may weigh several kilograms, have a bulbous stem honeycombed with tunnels occupied by the ant Iridomyrmex (and, in addition, a butterfly larva). Ants living in such ‘ant-house’ plants clearly gain protection: is there any advantage to the plant? Another myrmecophyte species, Hydnophytum formicarium , has specialised absorptive chambers. Ants deposit their debris here, and it has been demonstrated experimentally that when the colony is fed radioactively labelled Drosophila larvae radioactive compounds are absorbed into the plant. The relationship is therefore mutual: ants obtain shelter, and the plants a supply of scarce nutrients, particularly nitrogen. Saprophytic fungi growing in the ant galleries probably play a role in releasing soluble nutrients from the ant debris. To make the situation even more complicated, the ants also tend larvae of the butterfly Hypochrysops which feed on the tubers and leaves of the ant plant. An epiphytic plant therefore grows on a mangrove tree, accommodates ants, which tend butterfly larvae and supply nutrients to their host, aided by fungi: two plants, one or more fungi, and two animal species interacting (Huxley 1978; Janzen 1974).” (Hogarth 1999:58)",
+  "mechanism": "Several species of epiphytes, ants, fungi, and butterflies in mangrove forests provide benefits to each other through mutualism.\n\n“For instance, in [sic] Australian Myrmecodia plants, which may weigh several kilograms, have a bulbous stem honeycombed with tunnels occupied by the ant Iridomyrmex (and, in addition, a butterfly larva). Ants living in such ‘ant-house’ plants clearly gain protection: is there any advantage to the plant? Another myrmecophyte species, Hydnophytum formicarium, has specialised absorptive chambers. Ants deposit their debris here, and it has been demonstrated experimentally that when the colony is fed radioactively labelled Drosophila larvae radioactive compounds are absorbed into the plant. The relationship is therefore mutual: ants obtain shelter, and the plants a supply of scarce nutrients, particularly nitrogen. Saprophytic fungi growing in the ant galleries probably play a role in releasing soluble nutrients from the ant debris. To make the situation even more complicated, the ants also tend larvae of the butterfly Hypochrysops which feed on the tubers and leaves of the ant plant. An epiphytic plant therefore grows on a mangrove tree, accommodates ants, which tend butterfly larvae and supply nutrients to their host, aided by fungi: two plants, one or more fungi, and two animal species interacting (Huxley 1978; Janzen 1974).” (Hogarth 1999:58)",
   "function_addressed": [
     "cooperate/compete between different species",
     "cooperate within an ecosystem",
     "cycle nutrients"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::between-different-species",
+    "cooperate-compete::within-a-eco-system",
+    "provide-ecosystem-services::cycle-nutrients"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/collaboration-benefits-multiple-participants/",
-  "source_tier": "science_journalism",
   "keywords": [
     "collaboration",
     "benefits",
     "multiple",
     "participants"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

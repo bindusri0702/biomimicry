@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-droplets-concentrate-and-accelerate-lifes-basic-reactions",
   "organism_common": "Common to all organisms",
-  "organism_scientific": "",
   "strategy_summary": "Long before there were cells with membranes, life may have begun in droplets. These droplets, known as coacervates, are simple, membraneless blobs that form when oppositely charged molecules meet in water and pull together into a dense phase, separating from the surrounding fluid.",
   "mechanism": "Coacervates form through a process called liquid–liquid phase separation, where molecules like proteins, RNA, or polymers with opposite charges attract one another and condense into dense, droplet-like structures within a liquid. These droplets are sticky on the inside, meaning they can soak up specific reactants while excluding others. This local crowding increases the chances that reactants will meet and react.\n\nThe interior of coacervates is not just crowded, it also has a unique chemical environment. It is often less watery and more charged than the surrounding solution, which can lower the energy needed for chemical reactions to occur. These droplets can stabilize useful molecules like ribozymes (catalytic RNAs), help align reactants, and even favor certain reaction pathways over others, effectively acting like primitive catalysts. In some cases, even the surfaces of these droplets support chemistry. Gradients in charge, acidity, and water content at the boundary between the coacervate and the surrounding solution can offer different reaction conditions, like miniaturized reaction zones.\n\nThe ability of coacervates to speed up reactions and protect delicate molecules makes them a powerful source of inspiration for human systems. By mimicking the way nature forms these compartments, researchers are developing sustainable ways to run chemical reactions without harsh solvents, added heat, or rigid containers. Imagine creating sustainable fuels, biodegradable plastics, or life-saving drugs in a system that mirrors the very beginnings of life: no heavy infrastructure, just self-assembled droplets doing complex work in harmony.",
   "function_addressed": [
     "catalyze chemical assembly",
     "coordinate activities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::catalyze-making-of-bonds",
+    "coordinate::activities"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "coordinate"
+  ],
   "source_url": "https://asknature.org/strategy/droplets-concentrate-and-accelerate-lifes-basic-reactions/",
-  "source_tier": "science_journalism",
   "keywords": [
     "droplets",
     "concentrate",
@@ -21,7 +24,5 @@
     "basic",
     "reactions"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

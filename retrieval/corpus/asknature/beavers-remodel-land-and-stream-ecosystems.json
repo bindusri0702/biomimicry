@@ -1,19 +1,22 @@
 {
   "doc_id": "asn-beavers-remodel-land-and-stream-ecosystems",
   "organism_common": "American beaver",
-  "organism_scientific": "",
   "strategy_summary": "Beaver dams change stream flows and create a patchwork of habitat diversity. Beavers are large rodents known for building dams.",
-  "mechanism": "Beaver dams change stream flows and create a patchwork of habitat diversity.\n\nBeavers are large rodents known for building dams. To build their dams, they chew through living trees until they fall over. Beavers choose trees that will fall across a stream when they topple over, which stops water from flowing and causes a pond to form. In that pond, a family of beavers uses twigs and mud to build a lodge emerging above the water. They will spend winter and spring there with their young, protected from predators by water and hard mud walls, with plenty of plants and bark for food close by. They return to these same lodges every year, repairing and sometimes extending the dam so it takes up an even larger area.\n\nThe beaver pond grows in size as the dam stops more and more water, until eventually it overtops the stream bank and floods the surrounding land. As water fills in low-lying areas, new streams and ponds can form. Some areas remain flooded year-round or seasonally for many years. Forests that used to line the stream bank become waterlogged and die. Eventually they are replaced by wetland plants that are better adapted to life in watery soils, and colonized by animals that live with these plants. Over years and decades, there are even more ecological changes in this landscape. For example, once the beavers abandon their lodges, debris collects behind the dams and can form islands. As water flows around the island, it can split into smaller streams. This creates new water channels and dries up others. Another long-term impact of beaver dams is on soils. Waterlogged soils in the newly formed wetland areas are anaerobic ; that is, they do not contain oxygen. This changes the community of soil bacteria and fungi, as well as the nutrients that are in the soil. As a result of these changes in soil chemistry, wetland meadows that form from beaver ponds are important places for long-term carbon sequestration. This is a process in which carbon dioxide that has been removed from the atmosphere by plants gets locked deep in the soil in a more stable, solid form. In this way, beaver-engineered landscapes can have important benefits for climate change. What began as a beaver dam has now created a complex patchwork of new habitats: ponds, streams, marshes, and meadows that are filled with soil, plant, and animal life that was not present before.\n\nThe original beaver dam starts a long chain of events that change the flow of the stream, and alter the ecosystem along the stream banks – the riparian zone. Because they can impact water flow, beavers historically were considered pests because humans wanted to control the flow of the stream. Today we recognize that they are not just dam-builders; they are “ecosystem engineers” that can shape entire landscapes. In fact, they are so important that some biologists have begun enlisting their help in restoring damaged stream and wetland habitats.\n\nImage: Sherry Ritter / toggle icon Image: Sherry Ritter / toggle icon Image: Sherry Ritter / toggle icon right arrow right arrow",
+  "mechanism": "Beaver dams change stream flows and create a patchwork of habitat diversity.\n\nBeavers are large rodents known for building dams. To build their dams, they chew through living trees until they fall over. Beavers choose trees that will fall across a stream when they topple over, which stops water from flowing and causes a pond to form. In that pond, a family of beavers uses twigs and mud to build a lodge emerging above the water. They will spend winter and spring there with their young, protected from predators by water and hard mud walls, with plenty of plants and bark for food close by. They return to these same lodges every year, repairing and sometimes extending the dam so it takes up an even larger area.\n\nThe beaver pond grows in size as the dam stops more and more water, until eventually it overtops the stream bank and floods the surrounding land. As water fills in low-lying areas, new streams and ponds can form. Some areas remain flooded year-round or seasonally for many years. Forests that used to line the stream bank become waterlogged and die. Eventually they are replaced by wetland plants that are better adapted to life in watery soils, and colonized by animals that live with these plants. Over years and decades, there are even more ecological changes in this landscape. For example, once the beavers abandon their lodges, debris collects behind the dams and can form islands. As water flows around the island, it can split into smaller streams. This creates new water channels and dries up others. Another long-term impact of beaver dams is on soils. Waterlogged soils in the newly formed wetland areas are anaerobic; that is, they do not contain oxygen. This changes the community of soil bacteria and fungi, as well as the nutrients that are in the soil. As a result of these changes in soil chemistry, wetland meadows that form from beaver ponds are important places for long-term carbon sequestration. This is a process in which carbon dioxide that has been removed from the atmosphere by plants gets locked deep in the soil in a more stable, solid form. In this way, beaver-engineered landscapes can have important benefits for climate change. What began as a beaver dam has now created a complex patchwork of new habitats: ponds, streams, marshes, and meadows that are filled with soil, plant, and animal life that was not present before.\n\nThe original beaver dam starts a long chain of events that change the flow of the stream, and alter the ecosystem along the stream banks – the riparian zone. Because they can impact water flow, beavers historically were considered pests because humans wanted to control the flow of the stream. Today we recognize that they are not just dam-builders; they are “ecosystem engineers” that can shape entire landscapes. In fact, they are so important that some biologists have begun enlisting their help in restoring damaged stream and wetland habitats.",
   "function_addressed": [
     "regulate hydrological flows",
     "control erosion and sediment",
     "maintain biodiversity"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::control-erosion-and-sediment",
+    "provide-ecosystem-services::maintain-biodiversity",
+    "provide-ecosystem-services::regulate-hydrological-flows"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/beavers-remodel-land-and-stream-ecosystems/",
-  "source_tier": "science_journalism",
   "keywords": [
     "beavers",
     "remodel",
@@ -21,7 +24,5 @@
     "stream",
     "ecosystems"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

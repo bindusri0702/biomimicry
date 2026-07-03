@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-skin-fine-tunes-internal-temperature",
   "organism_common": "African bush elephant",
-  "organism_scientific": "",
   "strategy_summary": "A quick look at the photo above tells you why elephants are called pachyderms—it’s Greek for “thick skin.” But those tough, bulky hides present a challenge: Massive elephants build up massive amounts of body heat roaming in hot African and Asian climes—and unlike most mammals, elephants don’t sweat. So how do they…",
   "mechanism": "One way that elephants lower their body temperatures is by bathing in water. That provides an immediate cool-down, but there’s more to it. The intricate pattern of wrinkles and crevices in their skin traps water, which evaporates and transfers heat into the air—much the way sweating cools us down.\n\nAnother major strategy to cool down is called vasodilation. When we get too hot, our blood vessels widen and bring more warm blood from our cores to our skin surface. That’s why our faces sometimes flush pink when we exercise. Vasodilation cools us down in two ways: First, it enables heat to radiate out of the body and into the air. That heat also speeds up evaporation of water in the form of sweat escaping through skin pores, which cools us down.\n\nBarrel-bodied elephants need a lot of water and can’t afford to lose any via sweating. But they can still use vasodilation to dissipate heat through their skin. Elephant ears (the real ones, not the pastries) are ideal for this. They provide wide platforms of relatively thin skin filled with blood vessels. When elephants get too hot, they flood their ears with blood to dissipate body heat. They also can fan their ears to increase airflow over their skin to lose heat faster.\n\nRecently, however, scientists have discovered that elephants also use vasodilation in several other areas around their bodies. “Thermal windows” are networks of tiny blood vessels that rise right near the surface of the elephants’ 1 inch (2.5 cm) thick skin. Theys can’t be seen with the naked eye, but cameras that visualize heat have revealed them to scientists. These hot spots may also help indirectly, by bringing more heat to the skin to enhance evaporation of the water trapped in their wrinkles.\n\nThe opposite of all this is also true. When elephants get too cold, their vasodilation adjusts accordingly, and the thermal windows in their skin can be “closed” to help retain heat and finely regulate overall body temperature.\n\nEngineers are already designing real windows for buildings with bio-inspired, fluid-filled circulatory systems that can regulate how much heat the windows radiate or absorb. Similar systems could be designed for other construction materials for buildings or cars, for example, or textiles for clothing, bedding, and outdoor gear such as tents. There is also potential for medical devices to help people with difficulties regulating body temperature, such as those facing thyroid problems or menopause.",
   "function_addressed": [
     "protect from temperature",
     "maintain homeostasis"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/skin-fine-tunes-internal-temperature/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hot",
     "spots",
@@ -21,7 +24,5 @@
     "elephants",
     "cool"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

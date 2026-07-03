@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-structural-composition-provides-strength-in-changing-conditions",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "The cell walls of vascular plants provide mechanical strength during different stages of growth by adjusting their structural composition. Diagram of the plant cell, with the cell wall in green.",
   "mechanism": "The cell walls of vascular plants provide mechanical strength during different stages of growth by adjusting their structural composition.\n\nDiagram of the plant cell, with the cell wall in green.\n\nCross section through a Ficus leaf, seen at approximately 40x magnification. Ficus leaves have sunken stomates, meaning that their guard cells are not on the outer surface of the leaf, but instead embedded a few cell layers inside the leaf.\n\n“Plant cells need to be fully hydrated to work properly (except in periods of dormancy, as for example in many seeds). Individual vegetative cells in plants, unlike those in animals, are encased in a cellulose cell wall. The cellulose cell wall may be very thin, in cells that are actively dividing, as for example, in growing shoot or root tips. However, once developed into their mature form, the cell walls may become thicker, and additional substances, mainly lignins, incorporated into their structure. The cells themselves, then, contribute to the mechanical strength of the plant. Thin-walled cells when fully hydrated, are like small, pressurised containers. Mature cells, especially those with thick walls, have mechanical strength of their own, even without watery contents. Indeed, many fibres lack living contents when mature.” (Cutler 2005:98)",
   "function_addressed": [
     "manage compression",
     "modify size/shape/mass/volume"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "modify-physical-state::size-shape-mass-volume"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/structural-composition-provides-strength-in-changing-conditions/",
-  "source_tier": "science_journalism",
   "keywords": [
     "structural",
     "composition",
@@ -21,7 +24,5 @@
     "changing",
     "conditions"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

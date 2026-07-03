@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-habitat-mosaics-stop-fires",
   "organism_common": "American beaver",
-  "organism_scientific": "",
   "strategy_summary": "Beavers reduce fire impacts in spruce stands by creating a mosaic of habitats that act as natural firebreaks. This photos title on Flickr was Beaver Dam on the Teton.",
   "mechanism": "Beavers reduce fire impacts in spruce stands by creating a mosaic of habitats that act as natural firebreaks.\n\nThis photos title on Flickr was Beaver Dam on the Teton. The full-size photo shows a number of beaver dams, and the vegetation mosiac that results.\n\n“Not only do the appetites of moose and beavers help determine when a northern forest will reach this flammable spruce stage, but beavers also indirectly affect the extent of the burn. The mosaic of aspen and willow stands, meadows, ponds, and wetlands they maintain amid the flammable spruce forests can serve as natural firebreaks, keeping fires smaller than they would be in homogeneous landscapes. Both the moose and beaver then benefit from the effects of fire because it clears the way for the regrowth of aspen and willows in the nutrient-laden ash.” (Baskin 1997: 168)",
   "function_addressed": [
     "manage disturbance in a community"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "provide-ecosystem-services::manage-disturbance-in-a-community"
+  ],
+  "subgroup_keys": [
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/habitat-mosaics-stop-fires/",
-  "source_tier": "science_journalism",
   "keywords": [
     "habitat",
     "mosaics",
     "stop",
     "fires"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-circular-competition-benefits-community",
   "organism_common": "Escherichia coli",
-  "organism_scientific": "",
   "strategy_summary": "In nature, competition usually means dominant species exclude others. If species are to keep from wiping each other out, they need to have something that helps to equalize them.",
-  "mechanism": "In the children’s game of rock-paper-scissors, rock smashes scissors, scissors cut paper, and paper covers rock. There can always be different winners and losers, but no one person can win outright every time. Scientists have found species in nature that also compete this way, including some lizards and plants. One example involves three strains of the bacteria E. coli that scientists have nicknamed C, S, and R (see illustration).\n\nThere are many ways in nature to cooperate rather than compete. Learning from the rock-paper-scissors strategy, we might want to try maintaining stable relationships with others who we usually think of as competitors. By using a ‘give-and-take’ strategy and not over-using resources, everyone in the relationship can prosper.",
+  "mechanism": "In the children’s game of rock-paper-scissors, rock smashes scissors, scissors cut paper, and paper covers rock. There can always be different winners and losers, but no one person can win outright every time. Scientists have found species in nature that also compete this way, including some lizards and plants. One example involves three strains of the bacteria E. coli that scientists have nicknamed C, S, and R.\n\nEach has its own strengths but also its own weaknesses. C (rock) produces a toxin (called colicin, hence the nickname C) that can kill S (scissors). However, producing that toxin slows the growth of C. R (paper) is resistant to the toxin and grows faster than C, taking over its area. S (scissors) can outgrow R but is sensitive to the toxin.\n\nThese strains can exist together as long as they live in patches where there is space to grow uninhibited by the others. If R grows into C’s patch, some of C might die out but C in turn can expand into S’s patch, while S can grow into R’s patch, etc.\n\nThere are many ways in nature to cooperate rather than compete. Learning from the rock-paper-scissors strategy, we might want to try maintaining stable relationships with others who we usually think of as competitors. By using a ‘give-and-take’ strategy and not over-using resources, everyone in the relationship can prosper.",
   "function_addressed": [
     "protect from microbes",
     "cooperate/compete between different species"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::between-different-species",
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/circular-competition-benefits-community/",
-  "source_tier": "science_journalism",
   "keywords": [
     "circular",
     "competition",
     "benefits",
     "community"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

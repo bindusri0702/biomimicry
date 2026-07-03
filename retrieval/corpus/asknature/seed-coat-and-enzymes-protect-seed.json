@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-seed-coat-and-enzymes-protect-seed",
   "organism_common": "Sacred lotus",
-  "organism_scientific": "",
   "strategy_summary": "Seeds of lotus remain viable for thousands of years via hard seed coat and repair enzymes. “In the West, lotus ( Nelumbo nucifera Gaertn.) is relatively little known.",
   "mechanism": "Seeds of lotus remain viable for thousands of years via hard seed coat and repair enzymes.\n\n“In the West, lotus ( Nelumbo nucifera Gaertn.) is relatively little known. However, for more than 3000 years, lotus plants have been cultivated as a crop in Far-East Asia, where they are used for food, medicine and play a significant role in religious and cultural activities. Holder of the world’s record for long-term seed viability (1300 years) is a lotus fruit (China Antique) from Xipaozi, Liaoning Province, China. Five offspring of this variety, from 200-500-year-old fruits (14C dates) collected at Xipaozi, have recently been germinated, and are the first such seedlings to be raised from directly dated fruits. The fruits at Xipaozi, preserved in a dry ancient lakebed, have been exposed to low-dose γ-radiation for hundreds of years (having an accumulated soil irradiation of 0.1-1.0 Gy). Offspring from these old fruits show abnormalities that resemble those in various modern seedlings irradiated at much higher doses. Although these lotus offspring are phenotypically abnormal, the viability of old seeds was evidently not affected by accumulated doses of up to 3 Gy. Growth characteristics of first- and second-year lotus offspring of these fruits, products of the longest-term radiobiological experiment on record, are summarized here (rapid early growth, phenotypic abnormalities, lack of vigour, poor rhizome development and low photosynthetic activity during second-year growth). Aspects of their chromosomal organization, phenotype and physiology (rapid recovery from stress, heat-stable protein s, protein-repair enzyme) are discussed. Important unsolved problems are suggested to elicit interest among members of the seed science community to the study of old fruits recently collected at Xipaozi, with particular emphasis on aspects of ageing and repair.” (Shen-Miller 2002:131)\n\n“‘The secret of the sacred lotus may be its seed coat,’ says Shen-Miller. ‘The coat is very hard, built to prevent water and air from entering and degrading the seed.’ The sacred lotus is also blessed with a hardy collection of repair enzymes, such as L-isoaspartyl methyltransferase and other proteins that minimize seed damage, resist attacks by fungi, and help the seed survive harsh temperatures. ‘The lotus is a scientific treasure,’ remarks Shen-Miller, adding that the flower could reveal biochemical traits that boost quality of life by repairing the molecular damage of aging.” (Brown 2001:1884-1885)",
   "function_addressed": [
@@ -11,18 +10,23 @@
     "protect from gases",
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::mechanical-wear",
+    "protect-from-non-living-threats::excess-liquids",
+    "protect-from-non-living-threats::gases",
+    "protect-from-non-living-threats::light",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure",
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/seed-coat-and-enzymes-protect-seed/",
-  "source_tier": "science_journalism",
   "keywords": [
     "seed",
     "coat",
     "enzymes",
     "protect"
   ],
-  "is_usual_suspect": true,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

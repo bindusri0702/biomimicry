@@ -3,7 +3,7 @@ langgraph>=1.0
 pydantic>=2.0
 python-dotenv>=1.0
 
-# Weaviate vector RAG (Discover stage) — local e5 embeddings + Weaviate Cloud
+# Weaviate vector RAG (Discover stage) — local BGE-M3 dense embeddings + Weaviate Cloud
 weaviate-client>=4.9
-sentence-transformers>=2.7
+sentence-transformers>=3.0
 torch

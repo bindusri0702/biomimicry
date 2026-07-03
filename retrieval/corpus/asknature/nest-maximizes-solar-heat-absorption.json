@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-nest-maximizes-solar-heat-absorption",
   "organism_common": "Optimize Shape/Materials",
-  "organism_scientific": "",
   "strategy_summary": "Wood ants maximize solar heat absorption by their nest via the optimum angle of orientation. Detail of a wood ant nest (North of France)  “The surface of the nest of wood ants ( Formica rufa ) has numerous holes which serve as entrances and ventilation holes; at night and in cold weather the ants plug the holes to…",
   "mechanism": "Wood ants maximize solar heat absorption by their nest via the optimum angle of orientation.\n\nDetail of a wood ant nest (North of France)\n\n“The surface of the nest of wood ants ( Formica rufa ) has numerous holes which serve as entrances and ventilation holes; at night and in cold weather the ants plug the holes to keep heat in. The workers also keep the slope of the nest at the right angle to obtain maximum amount of solar heat. The ants bring extra warmth into their nests as live heaters by basking in the sun in large numbers and taking the heat energy collected in their bodies into the nest.” (Pallasmaa 1995:35)",
   "function_addressed": [
     "optimize shape/materials",
     "capture, absorb, or filter energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::optimize-space-materials",
+    "capture-absorb-or-filter::energy"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/nest-maximizes-solar-heat-absorption/",
-  "source_tier": "science_journalism",
   "keywords": [
     "nest",
     "maximizes",
@@ -20,7 +23,5 @@
     "heat",
     "absorption"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

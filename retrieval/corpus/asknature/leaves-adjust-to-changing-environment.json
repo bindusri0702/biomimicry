@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-leaves-adjust-to-changing-environment",
   "organism_common": "Duck potato",
-  "organism_scientific": "",
   "strategy_summary": "Leaves of Sagittaria latifolia allow survival in fluctuating water levels by changing leaf type. “Fluctuations in water levels are a common feature of wetlands (Chapter 2).",
   "mechanism": "Leaves of Sagittaria latifolia allow survival in fluctuating water levels by changing leaf type.\n\n“Fluctuations in water levels are a common feature of wetlands (Chapter 2). Consequently, wetland plants can encounter a variety of water depths seasonally and interannually. Even submersed plants may have to endure periods without standing water and most have a terrestrial form. Not surprisingly, wetland plants show a great deal of phenotypic plasticity (Fig. 4.9), and this allows them to adjust their growth as water levels change. One type of phenotypic plasticity that is widespread among macrophytes is heterophylly (Wells and Pigliucci 2000; Minorsky 2003; Dorken and Barrett 2004). Heterophylly is the ability to produce different leaf types (Figs 4.6 and 4.9). Two kinds of leaves are commonly produced by herbaceous wetland species, submerged and aerial. Submerged leaves are thin, lack or have a greatly reduced cuticle, and lack functional stomata. Aerial leaves are thicker, have a cuticle, and have stomata (Fig. 4.6). Changes in leaf shape, size, and thickness and petiole or leaf/shoot length are common in facultatively heterophyllous species. The porosity of their roots can also change significantly as soils become anoxic after flooding in flood-responders (Fig. 4.7). These morphological responses primarily serve as a way to improve oxygen uptake by leaves, the volume of internal gas storage, and the efficiency of internal gas redistribution by diffusion.” (van der Valk 2006:67)",
   "function_addressed": [
@@ -9,18 +8,22 @@
     "store gases",
     "capture, absorb, or filter gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "adapt-optimize::adapt-phenotype",
+    "capture-absorb-or-filter::gases",
+    "store::gases"
+  ],
+  "subgroup_keys": [
+    "adapt-optimize",
+    "capture-absorb-or-filter",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/leaves-adjust-to-changing-environment/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaves",
     "adjust",
     "changing",
     "environment"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

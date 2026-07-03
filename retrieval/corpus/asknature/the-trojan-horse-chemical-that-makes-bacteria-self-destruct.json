@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-the-trojan-horse-chemical-that-makes-bacteria-self-destruct",
   "organism_common": "Regulate Cellular Processes",
-  "organism_scientific": "",
   "strategy_summary": "As ubiquitous as the visible creatures in every nook and cranny of our planet are the invisible threats they face in the form of microbes that can sicken or kill them. The defending organisms, for their part, have evolved the ability to produce a variety of chemical compounds that fight off such attacks.",
   "mechanism": "A wide variety of plants, including many of the fruits and vegetables we consume, make THβC alkaloids. They do so by combining amine s and aldehydes to form a basic “backbone” structure and adding molecular attachments that serve different functions, much as a vacuum cleaner might have a brush to clean fabric or a crevice tool to reach into tight spaces. Scientists have found that various members of this group of compounds have beneficial impacts such as fighting tumors and reducing inflammation, in addition to providing protection from disease-causing organisms.\n\nTHβC alkaloids share a common basic structure consisting of carbon, hydrogen, and nitrogen molecules arranged into three rings. Different species use different forms of THβC for different purposes, depending on their needs.\n\nIn plants, some THβC alkaloids have a particularly powerful impact on bacteria. When microbes breach a plant’s cellular barriers, the plant signals the THβC alkaloids to leave their headquarters—most likely a storage room within cells called a vacuole—and attack the invaders.\n\nAlthough the exact mechanisms are unclear, scientists have hypothesized that THβC alkaloids work in part by derailing the cells’ oxygen-defense mechanisms, increasing the concentration of reactive oxygen species (ROS) inside the microbes. ROS are molecules that include an oxygen atom that reacts readily with other molecules. ROS occur naturally in cells and are essential for proper cell functioning, but at increased levels, the highly reactive oxygen can damage DNA molecules and disrupt essential cellular processes, leading to the death of the cell.\n\nThe use of THβC alkaloids to fight certain diseases, especially in fruits and vegetables, opens the door to huge opportunities to craft novel compounds that can be applied to plants to prevent or treat disease. This could be useful in the fight against bacterial diseases in plants of economic value, including food, fiber, and fuel crops. This would be particularly useful as the bacteria-vs.-plant arms race pushes bacteria to evolve resistance to existing antifungal and antibacterial compounds.",
   "function_addressed": [
     "regulate cellular processes",
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes",
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/the-trojan-horse-chemical-that-makes-bacteria-self-destruct/",
-  "source_tier": "science_journalism",
   "keywords": [
     "trojan",
     "horse",
@@ -21,7 +24,5 @@
     "bacteria",
     "self-destruct"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

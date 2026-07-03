@@ -1,19 +1,24 @@
 {
   "doc_id": "asn-sensory-bristles-organize-with-minimum-communication",
   "organism_common": "Coordinate Systems",
-  "organism_scientific": "",
   "strategy_summary": "The sensory organ precursors (starting point of sensory bristles) of fruit flies organize themselves with minimal knowledge and communication. “Computational and mathematical methods are extensively used to analyze and model biological systems…We provide an example of the reverse of this strategy, in which a…",
-  "mechanism": "The sensory organ precursors (starting point of sensory bristles) of fruit flies organize themselves with minimal knowledge and communication.\n\n“Computational and mathematical methods are extensively used to analyze and model biological systems…We provide an example of the reverse of this strategy, in which a biological process is used to derive a solution to a long-standing computational problem…All large-scale computing efforts, from web search to airplane control systems, use distributed computing algorithms to reach agreement, overcome failures, and decrease response times. Biological processes are also distributed. Parallel pathways are used to transform environmental signals to gene expression programs, and several tasks are jointly performed by independent cells without clear control.”\n\n[A long-standing distributed computing problem is that of electing a local set of leaders, called the maximal independent set or MIS, in a network of connected processors.]\n\n“The selection of neural precursor during the development of the [fruit fly] nervous system resembles the MIS election problem. The precursors of the fly’s sensory bristles [sensory organ precursors (SOPs)] are selected during larvae and pupae development from clusters of equivalent cells…a cell that is selected as a SOP inhibits its neighbors by expressing high level of the membrane-bound protein Delta, which binds and activates the transmembrane receptor protein Notch on adjacent cells…This lateral-inhibition process is highly accurate…resulting in a regularly spaced pattern in which each cell is either selected as SOP or is inhibited by a neighboring SOP…Thus, as in the MIS problem every proneural cluster must elect a set of SOPs ( A ) so that every cell in the cluster is either in A or connected to a SOP in A , and no two SOPs in A are adjacent.”\n\n“Although similar, the biological solution differs from computational algorithms in at least two aspects. First, SOP selection is probably performed without relying on knowledge of the number of neighbors that are not yet selected. Second, mathematical analysis demonstrated that SOP selection requires nonlinear inhibition that in effect reduces communication to the simplest set of possible messages (binary).” (Yehuda et al. 2011:182-183)",
+  "mechanism": "The sensory organ precursors (starting point of sensory bristles) of fruit flies organize themselves with minimal knowledge and communication.\n\n“Computational and mathematical methods are extensively used to analyze and model biological systems…We provide an example of the reverse of this strategy, in which a biological process is used to derive a solution to a long-standing computational problem…All large-scale computing efforts, from web search to airplane control systems, use distributed computing algorithms to reach agreement, overcome failures, and decrease response times. Biological processes are also distributed. Parallel pathways are used to transform environmental signals to gene expression programs, and several tasks are jointly performed by independent cells without clear control.”\n\n[A long-standing distributed computing problem is that of electing a local set of leaders, called the maximal independent set or MIS, in a network of connected processors.]\n\n“The selection of neural precursor during the development of the [fruit fly] nervous system resembles the MIS election problem. The precursors of the fly’s sensory bristles [sensory organ precursors (SOPs)] are selected during larvae and pupae development from clusters of equivalent cells…a cell that is selected as a SOP inhibits its neighbors by expressing high level of the membrane-bound protein Delta, which binds and activates the transmembrane receptor protein Notch on adjacent cells…This lateral-inhibition process is highly accurate…resulting in a regularly spaced pattern in which each cell is either selected as SOP or is inhibited by a neighboring SOP…Thus, as in the MIS problem every proneural cluster must elect a set of SOPs ( A ) so that every cell in the cluster is either in A or connected to a SOP in A, and no two SOPs in A are adjacent.”\n\n“Although similar, the biological solution differs from computational algorithms in at least two aspects. First, SOP selection is probably performed without relying on knowledge of the number of neighbors that are not yet selected. Second, mathematical analysis demonstrated that SOP selection requires nonlinear inhibition that in effect reduces communication to the simplest set of possible messages (binary).” (Yehuda et al. 2011:182-183)",
   "function_addressed": [
     "coordinate systems",
     "respond to signals",
     "sense shape and pattern in a living system"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "coordinate::systems",
+    "process-signals::respond-to-signals",
+    "sense-signals-environmental-cues::shape-and-pattern"
+  ],
+  "subgroup_keys": [
+    "coordinate",
+    "process-signals",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/sensory-bristles-organize-with-minimum-communication/",
-  "source_tier": "science_journalism",
   "keywords": [
     "sensory",
     "bristles",
@@ -21,7 +26,5 @@
     "minimum",
     "communication"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-storage-of-organic-matter-plugs-carbon-leaks",
   "organism_common": "Riparian habitat",
-  "organism_scientific": "",
   "strategy_summary": "Trees along rivers help retain carbon in an ecosystem by adding organic debris and slowing down water. “Although humans have usurped the power that trees once wielded over major rivers, woody debris still plays a key role in the structure of headwater creeks and streams.",
   "mechanism": "Trees along rivers help retain carbon in an ecosystem by adding organic debris and slowing down water.\n\n“Although humans have usurped the power that trees once wielded over major rivers, woody debris still plays a key role in the structure of headwater creeks and streams. Just as important, trees and their litter supply much–sometimes all–of the organic matter that supports the food chain in these waters, from insects to salmon and trout. Without fallen trees and log or beaver dams to slow the current, this litter of leaves, needles, twigs, cones, branches, and bark would be of little food value. Microorganisms from fungi to insects would not have time to decompose the material were it not allowed to accumulate behind obstacles…How long the debris dams that support this food web endure depends in part on the types of trees that line the stream. Hardwood logs will rot in just a few years. Conifers, because they contain more lignins (complex polymers that make wood rigid) and other hard-to-decompose compounds, may last a century and provide great stability for the stream community.” (Baskin 1997: 97-98)\n\nAlso, this abstract from Bilby and Likens: “Removal of all organic debris dams from a 175-m stretch of second-order stream at the Hubbard Brook Experimental Forest in New Hampshire led to a dramatic increase in the export of organic carbon from this ecosystem. Output of dissolved organic carbon (<0.50 μm) increased 18%. Fine particulate organic carbon (0.50 μm-1 mm) export increased 632% and coarse particulate organic matter (>1 mm) export increased 138%. Measurement of the standing stock of coarse particulate organic matter on streambeds of the Hubbard Brook Valley revealed that organic debris dams were very important in accumulating this material. In first-order streams, debris dams contain nearly 75% of the standing stock of organic matter. The proportion of organic matter held by dams drops to 58% in second-order streams and to 20% in third-order streams. Organic debris dams, therefore, are extremely important components of the small stream ecosystem. They retain organic matter within the system, thereby allowing it to be processed into finer size fractions in headwater tributaries rather than transported downstream in a coarse particulate form.” (Bilby and Likens 1980: 1107)",
   "function_addressed": [
     "store chemical entities"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "store::chemical-entities"
+  ],
+  "subgroup_keys": [
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/storage-of-organic-matter-plugs-carbon-leaks/",
-  "source_tier": "science_journalism",
   "keywords": [
     "storage",
     "organic",
@@ -20,7 +21,5 @@
     "carbon",
     "leaks"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

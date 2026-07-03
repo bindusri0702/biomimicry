@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-brown-fat-oxidation-generates-heat",
   "organism_common": "Transform Thermal Energy",
-  "organism_scientific": "",
   "strategy_summary": "Fat cells in ground squirrels generate heat rapidly following hibernation by oxidizing brown fat. “Ground squirrels, which replenish their fat supplies regularly during hibernation, can awaken from their deep sleep in less than three hours.",
   "mechanism": "Fat cells in ground squirrels generate heat rapidly following hibernation by oxidizing brown fat.\n\n“Ground squirrels, which replenish their fat supplies regularly during hibernation, can awaken from their deep sleep in less than three hours. In this time, large amounts of fat are burned as fuel to raise the body temperature. This is accompanied by intense shivering and muscle contraction, which also generate heat. Much of the heat is derived from oxidation of brown fat, a kind of fat that contains many energy-producing cells. As much as 57 percent of the brown fat in ground squirrels is around their shoulders, with 14 percent in their neck, and most of the remainder in their thorax. This substance acts like an electric blanket, releasing heat to the heart and major blood vessels to warm them and speed the circulation of oxygen to the brain and other anterior organs, and then to the posterior body regions. During arousal, the anterior skeletal muscles receive over 16 times more blood than their counterparts in a fully awake animal, powering their shivering to produce heat for raising the body’s temperature.” (Shuker 2001:101)\n\n“…Brown adipose tissue (BAT) is a fat storage tissue especially abundant in small mammals and newborn humans. BAT is highly vascularised, full of mitochondria and burns fat to produce heat in a special way. Maybe it could provide the warmth the rodents require to survive winter in addition to its supposed role in arousal?\n\nThe team found that the BAT of cold acclimated rats took up fatty acids that were oxidised to generate heat. Amazingly, these rats were up to 12 times better at the conversion than the other rats. Additionally, while the other rats slowed their ventilation, the cold acclimated rats increased their breathing rate to better supply BAT with oxygenated blood and hence maintain their temperature while being cooled.\n\nThe authors decided that BAT is the true ‘thermogenic machinery’ for non-hibernators…Scientists think BAT fat metabolism that non-hibernators use to stay warm and remain alert during cold conditions may have been one key to the evolutionary success of early mammals.” (Rummer 2010:vi)",
   "function_addressed": [
     "transform thermal energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "transform-convert-energy::thermal-energy"
+  ],
+  "subgroup_keys": [
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/brown-fat-oxidation-generates-heat/",
-  "source_tier": "science_journalism",
   "keywords": [
     "brown",
     "fat",
@@ -19,7 +20,5 @@
     "generates",
     "heat"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

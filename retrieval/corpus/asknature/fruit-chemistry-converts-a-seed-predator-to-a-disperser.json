@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-fruit-chemistry-converts-a-seed-predator-to-a-disperser",
   "organism_common": "Mignonette family",
-  "organism_scientific": "",
   "strategy_summary": "Fruits of Ochradenus baccatus cause rodents to convert from seed predators to seed dispersers by releasing chemicals that cause the animal to spit the seed out. Glucosinolates (GLSs) are secondary metabolites (SMs) that are found in many plant species.",
   "mechanism": "Fruits of Ochradenus baccatus cause rodents to convert from seed predators to seed dispersers by releasing chemicals that cause the animal to spit the seed out.\n\nGlucosinolates (GLSs) are secondary metabolites (SMs) that are found in many plant species. GLSs are generally harmless, however, when hydrolyzed by myrosinases new, toxic compounds are formed. Usually this hydrolysis occurs when the tissue containing the GLSs becomes damaged, i.e., when a rodent chews on the seed. In the Ochradenus baccatus plant, GLSs are found only in the pulp of the fruit, which is neatly separated from the myrosinases (which are found only in the seeds). When a rodent, such as the common spiny mouse ( Acomys cahirinus ), chews on the fruit and damages the seed, the enzyme is released and reacts with the GLSs to form harmful toxins in a mechanism known as the “mustard oil bomb.” This pungent taste causes the rodent to spit the seed out in a form ready for germination. Rodents tend to take the food they gather to rock crevices, which are cooler and more humid. This type of environment is ideal for O. baccatus growth, thus the mouse is converted from a seed predator to a seed disperser. Understanding these types of chemical relationships may provide insight to developing safer pesticides as well as benefit relationships between species.\n\nGlucosinolates and myrosinases alone are not toxic and are kept separate in seeds and fruit of the Ochradenus baccatus plant. However, when the seed is damaged, the two combine to create a toxic chemical.\n\nCommon spiny mouse eating fruit from the Ochradenus baccatus plant. A shows the adapted behavior of spitting the seed out, and B illustrates what happens if the seed is ingested and broken.\n\nAcomys cahirinus at Ein Gedi",
   "function_addressed": [
     "distribute solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::solids"
+  ],
+  "subgroup_keys": [
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/fruit-chemistry-converts-a-seed-predator-to-a-disperser/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fruit",
     "chemistry",
@@ -20,7 +21,5 @@
     "predator",
     "disperser"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-storing-carbon-and-energy",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "Bacteria store carbon and energy by synthesizing a polymer known as poly(beta-hydroxybutyrate) or PHB. “Geoffrey Coates and others at Cornell University have discovered a highly efficient chemical route for synthesis of a polymer known as poly(beta-hydroxybutyrate) or PHB, a thermoplastic polyester found in nature…",
   "mechanism": "Bacteria store carbon and energy by synthesizing a polymer known as poly(beta-hydroxybutyrate) or PHB.\n\n“Geoffrey Coates and others at Cornell University have discovered a highly efficient chemical route for synthesis of a polymer known as poly(beta-hydroxybutyrate) or PHB, a thermoplastic polyester found in nature, particularly in some bacteria. Bacteria use it as a storage form of carbon and energy. According to Coates’s website…’Poly(hydroxyalkanoate)s (PHAs) are naturally-occurring biodegradable polyesters that are presently commercially made by fermentation. We are working to develop an alternate route that consists of carbonylation of epoxides to beta-lactones, followed by ring-opening polymerization to yield PHAs. A key advance in our lab regarding this strategy was the discovery of epoxide carbonylation catalyst s consisting of Lewis-acidic cations in combination with Co(CO)4 anions. These highly active and selective catalysts carbonylate a wide range of epoxides and lactones to their corresponding lactones and anhydrides. Current work focuses on the elucidation of their mechanisms of operations, and the development of more active and stereoselective variants of these catalysts.'” (Courtesy of the Biomimicry Guild)",
   "function_addressed": [
@@ -11,17 +10,22 @@
     "chemically assemble organic compounds",
     "catalyze chemical assembly"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::catalyze-making-of-bonds",
+    "chemically-assemble::organic-compounds",
+    "chemically-assemble::polymers",
+    "store::chemical-entities",
+    "store::energy"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble",
+    "store"
+  ],
   "source_url": "https://asknature.org/strategy/storing-carbon-and-energy/",
-  "source_tier": "science_journalism",
   "keywords": [
     "storing",
     "carbon",
     "energy"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

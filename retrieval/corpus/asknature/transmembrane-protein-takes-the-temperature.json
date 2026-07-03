@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-transmembrane-protein-takes-the-temperature",
   "organism_common": "Bacteria",
-  "organism_scientific": "",
   "strategy_summary": "The bacterium, Bacillus subtilis, senses temperature changes and adjusts chemical activity accordingly by placing a protein across its cell membrane that changes shape as membrane thickness changes with temperature. Just like computers need temperature control for optimum function, the complex machinery of living…",
   "mechanism": "The bacterium, Bacillus subtilis, senses temperature changes and adjusts chemical activity accordingly by placing a protein across its cell membrane that changes shape as membrane thickness changes with temperature.\n\nJust like computers need temperature control for optimum function, the complex machinery of living cells must maintain temperatures within a certain range for optimum performance. The bacterium, Bacillus subtilis, uses cell membrane thickness as an indicator of temperature swings. At low temperatures, the fatty molecules making up the membrane arrange themselves in a more orderly fashion which cause the membrane to thicken. Conversely, at warmer temperatures, the fatty molecules are less ordered, so the membrane becomes thinner. Variations in thickness are accompanied by a change in the level of hydration within the membrane, which causes a change in the shape of protein s integrated through the membrane—the so-called ‘‘sunken-buoy’’ proteins. The change in shape alters the chemical activity of the protein.",
   "function_addressed": [
     "maintain homeostasis",
     "sense temperature cues from the environment"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::maintain-homeostasis",
+    "sense-signals-environmental-cues::temperature"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/transmembrane-protein-takes-the-temperature/",
-  "source_tier": "science_journalism",
   "keywords": [
     "transmembrane",
     "protein",
     "takes",
     "temperature"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

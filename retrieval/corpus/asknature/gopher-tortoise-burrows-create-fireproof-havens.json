@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-gopher-tortoise-burrows-create-fireproof-havens",
   "organism_common": "Gopher tortoise",
-  "organism_scientific": "",
   "strategy_summary": "Across the longleaf pine savannas and sandhill scrublands of the southeastern United States, the gopher tortoise ( Gopherus polyphemus ) moves with slow purpose. But beneath its unhurried pace lies a hidden urgency: to dig.",
-  "mechanism": "The gopher tortoise is considered a “keystone species,” not for what it eats or how it travels, but for what it builds. Using its shovel-like forelimbs, it excavates burrows into sandy soil, creating subterranean tunnels that are remarkably resilient to fire, heat, and drought.\n\nThese burrows provide the tortoise with refuge, but more importantly, they offer shelter to more than 350 other species, including frogs, snakes, mice, beetles, and birds.\n\nThese underground structures maintain stable temperatures and humidity even during extreme surface conditions. When wildfires sweep through, they leave the burrows largely untouched, allowing animals to retreat and survive. This behavior initiates what researchers call a “burrowing cascade,” where a single digger reshapes the ecological fate of an entire community. In ecosystems where fire is not a disaster but a natural and necessary rhythm, the gopher tortoise has evolved to partner with flame through architecture.\n\nGopher tortoise burrows inspire us to think differently about community resilience and refuge in times of crisis. Their fire-resistant tunnels suggest ways that human infrastructure might incorporate shared, thermally buffered, and distributed shelters that can serve multiple users in emergencies––whether wildfires, heatwaves, or storms. Just as the tortoise unintentionally becomes a host for other life, we can design neighborhoods and cities that offer collective protection in the face of natural threats. By emulating this humble digger’s instinct for building safety into the land itself, we might learn how to shape places of refuge not only for ourselves, but for the many lives that move among us.",
+  "mechanism": "The gopher tortoise is considered a “keystone species,” not for what it eats or how it travels, but for what it builds. Using its shovel-like forelimbs, it excavates burrows into sandy soil, creating subterranean tunnels that are remarkably resilient to fire, heat, and drought.\n\nThese burrows provide the tortoise with refuge, but more importantly, they offer shelter to more than 350 other species, including frogs, snakes, mice, beetles, and birds.\n\nThese underground structures maintain stable temperatures and humidity even during extreme surface conditions. When wildfires sweep through, they leave the burrows largely untouched, allowing animals to retreat and survive. This behavior initiates what researchers call a “burrowing cascade,” where a single digger reshapes the ecological fate of an entire community. In ecosystems where fire is not a disaster but a natural and necessary rhythm, the gopher tortoise has evolved to partner with flame through architecture.\n\nGopher tortoise burrows inspire us to think differently about community resilience and refuge in times of crisis. Their fire-resistant tunnels suggest ways that human infrastructure might incorporate shared, thermally buffered, and distributed shelters that can serve multiple users in emergencies––whether wildfires, heatwaves, or storms. Just as the tortoise unintentionally becomes a host for other life, we can design neighborhoods and cities that offer collective protection in the face of natural threats. By emulating this humble digger’s instinct for building safety into the land itself, we might learn how to shape places of refuge not only for ourselves, but for the many lives that move among us.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "maintain biodiversity",
     "manage disturbance in a community",
@@ -11,11 +10,19 @@
     "cooperate/compete between different species",
     "physically assemble structure"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "cooperate-compete::between-different-species",
+    "cooperate-compete::within-a-eco-system",
+    "physically-assemble::structure",
+    "provide-ecosystem-services::maintain-biodiversity",
+    "provide-ecosystem-services::manage-disturbance-in-a-community"
+  ],
+  "subgroup_keys": [
+    "cooperate-compete",
+    "physically-assemble",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/gopher-tortoise-burrows-create-fireproof-havens/",
-  "source_tier": "science_journalism",
   "keywords": [
     "gopher",
     "tortoise",
@@ -24,7 +31,5 @@
     "fireproof",
     "havens"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

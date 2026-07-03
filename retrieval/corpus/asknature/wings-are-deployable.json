@@ -1,22 +1,21 @@
 {
   "doc_id": "asn-wings-are-deployable",
   "organism_common": "Beetles",
-  "organism_scientific": "",
   "strategy_summary": "The wings of beetles are folded and stored under fore-wings and deploy for flight thanks to sprung wing joints. “Beetles use their fore-wings for a different purpose altogether.",
   "mechanism": "The wings of beetles are folded and stored under fore-wings and deploy for flight thanks to sprung wing joints.\n\n“Beetles use their fore-wings for a different purpose altogether. These creatures are the heavy armoured tanks of the insect world and they spend a great deal of their time on the ground, barging their way through the vegetable litter, scrabbling in the soil or gnawing into wood. Such activities could easily damage delicate wings. The beetles protect theirs by turning the front pair into stiff thick covers which fit neatly over the top of the abdomen. The wings are stowed neatly beneath, carefully and ingeniously folded. The wing veins have sprung joints in them. When the wing covers are lifted, the joints unlock and the wings spring open. As the beetle lumbers into the air, the stiff wing covers are usually held out to the side, a posture that inevitably hampers efficient flight. Flower beetles, however, have managed to deal with this problem. They have notches at the sides of the wing covers near the hinges so that the covers can be replaced over the abdomen leaving the wings extended and beating.” (Attenborough 1979:79)\n\nSeoul National University\n\nWinged jump-gliding robot from Seoul National University utilizes a curved vein shape that allows for self-locking.",
   "function_addressed": [
     "modify size/shape/mass/volume"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::size-shape-mass-volume"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state"
+  ],
   "source_url": "https://asknature.org/strategy/wings-are-deployable/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wings",
     "deployable"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

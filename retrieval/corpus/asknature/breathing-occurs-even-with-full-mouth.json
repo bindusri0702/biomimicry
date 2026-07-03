@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-breathing-occurs-even-with-full-mouth",
   "organism_common": "Western diamondback rattlesnake",
-  "organism_scientific": "",
   "strategy_summary": "The windpipe of a western diamondback rattlesnake allows breathing with a mouthful of prey because it protrudes from the bottom of the snake's mouth. “A western diamondback rattlesnake strikes at an intruder.",
-  "mechanism": "The windpipe of a western diamondback rattlesnake allows breathing with a mouthful of prey because it protrudes from the bottom of the snake's mouth.\n\n“A western diamondback rattlesnake strikes at an intruder. The snake’s jaws are specially hinged to allow it to open them extremely wide. This is necessary because the fangs curve inwards and need to be plunged vertically into the prey. When not in use they are folded back against the roof of the mouth (see diagram). The snake’s windpipe is protruding at the bottom of its mouth — this is so that the snake can still breathe after it has a mouthful of prey.” (Foy and Oxford Scientific Films 1982:149)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
+  "mechanism": "The windpipe of a western diamondback rattlesnake allows breathing with a mouthful of prey because it protrudes from the bottom of the snake's mouth.\n\n“A western diamondback rattlesnake strikes at an intruder. The snake’s jaws are specially hinged to allow it to open them extremely wide. This is necessary because the fangs curve inwards and need to be plunged vertically into the prey. When not in use they are folded back against the roof of the mouth. The snake’s windpipe is protruding at the bottom of its mouth — this is so that the snake can still breathe after it has a mouthful of prey.” (Foy and Oxford Scientific Films 1982:149)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
   "function_addressed": [
     "distribute gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::gases"
+  ],
+  "subgroup_keys": [
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/breathing-occurs-even-with-full-mouth/",
-  "source_tier": "science_journalism",
   "keywords": [
     "breathing",
     "occurs",
@@ -19,7 +20,5 @@
     "full",
     "mouth"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

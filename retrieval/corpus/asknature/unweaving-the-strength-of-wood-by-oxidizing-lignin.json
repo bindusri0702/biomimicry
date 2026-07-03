@@ -1,18 +1,20 @@
 {
   "doc_id": "asn-unweaving-the-strength-of-wood-by-oxidizing-lignin",
   "organism_common": "White rot fungus",
-  "organism_scientific": "",
   "strategy_summary": "In the damp, shaded world of the forest floor, White rot fungi, which include several fungus species such as Phanerochaete chrysosporium, are master architects of decay. You might recognize them as the pale, bleached patches on fallen logs.",
-  "mechanism": "Wood is a fortress of cellulose protected by a shield of lignin. To get to the food, the fungus must first break the shield. It does this by secreting extracellular enzymes like laccases and peroxidases. Unlike most enzymes that work like a specific key in a lock, these act more like chemical fire. They use oxygen to create a highly reactive environment that aggressively breaks the irregular and sturdy bonds of the lignin.\n\nThis process is called oxidative degradation. The fungus pumps out these enzymes into the surrounding wood, where they tear apart the lignin molecules without the fungus ever having to “swallow” them first. As the lignin dissolves, the wood loses its brown color and becomes white and stringy, leaving the cellulose exposed. The fungus can then easily break down those sugars for energy, effectively mining the wood for its hidden nutrients.\n\nThis “biological bleaching” could revolutionize the paper and textile industries. Currently, removing lignin from wood pulp to make paper requires harsh, toxic chemicals and high heat. By using the enzymes from white rot fungi, we could “bio-pulp” wood more gently, saving energy and eliminating the need for chlorine-based bleaches, resulting in a cleaner, greener manufacturing process.",
+  "mechanism": "Wood is a fortress of cellulose protected by a shield of lignin. To get to the food, the fungus must first break the shield. It does this by secreting extracellular enzymes like laccases and peroxidases. Unlike most enzymes that work like a specific key in a lock, these act more like chemical fire. They use oxygen to create a highly reactive environment that aggressively breaks the irregular and sturdy bonds of the lignin.\n\nThis process is called oxidative degradation. The fungus pumps out these enzymes into the surrounding wood, where they tear apart the lignin molecules without the fungus ever having to “swallow” them first. As the lignin dissolves, the wood loses its brown color and becomes white and stringy, leaving the cellulose exposed. The fungus can then easily break down those sugars for energy, effectively mining the wood for its hidden nutrients.\n\nThis “biological bleaching” could revolutionize the paper and textile industries. Currently, removing lignin from wood pulp to make paper requires harsh, toxic chemicals and high heat. By using the enzymes from white rot fungi, we could “bio-pulp” wood more gently, saving energy and eliminating the need for chlorine-based bleaches, resulting in a cleaner, greener manufacturing process.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "catalyze chemical breakdown",
     "chemically break down organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::catalyze-breaking-of-bonds",
+    "chemically-break-down::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/unweaving-the-strength-of-wood-by-oxidizing-lignin/",
-  "source_tier": "science_journalism",
   "keywords": [
     "unweaving",
     "strength",
@@ -20,7 +22,5 @@
     "oxidizing",
     "lignin"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

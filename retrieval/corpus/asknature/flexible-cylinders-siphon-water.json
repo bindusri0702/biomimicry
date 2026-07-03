@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-flexible-cylinders-siphon-water",
   "organism_common": "Mussels and clams",
-  "organism_scientific": "",
   "strategy_summary": "Siphons used by clams to inhale and exhale water are effective due to their flexibility and extensibility. “Cylinders may also act as pipelines carrying one material through another, like underground pipes.",
   "mechanism": "Siphons used by clams to inhale and exhale water are effective due to their flexibility and extensibility.\n\n“Cylinders may also act as pipelines carrying one material through another, like underground pipes. Man’s oil or drainage pipelines are usually rigid, but in nature flexibility is more valuable for this purpose. Some bivalve molluscs, such as clams, can live quite deep under the sandy sea bed by virtue of their extensible cylindrical siphons, one for inhaling water and the other for exhaling it after the gills have extracted food and oxygen.” (Foy and Oxford Scientific Films 1982:23)\n\nFoy S, Oxford Scientific Films. The Grand Design: Form and Colour in Animals. Lingfield, Surrey, U.K.: BLA Publishing Limited for J. M. Dent & Sons Ltd, London; 1982. 238 p.",
   "function_addressed": [
     "distribute liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::liquids"
+  ],
+  "subgroup_keys": [
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/flexible-cylinders-siphon-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "flexible",
     "cylinders",
     "siphon",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

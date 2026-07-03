@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-fingertips-increase-sensitivity-to-touch",
   "organism_common": "Humans",
-  "organism_scientific": "",
   "strategy_summary": "Fingertips increase touch sensitivity due to mechanoreceptors underneath the surface of the skin  Human fingertips are probably the most sensitive skin areas in the animal world; they can feel the difference between a smooth surface and one with a pattern embedded just 13 nm deep. This is due to epidermal ridges on…",
-  "mechanism": "Fingertips increase touch sensitivity due to mechanoreceptors underneath the surface of the skin\n\nHuman fingertips are probably the most sensitive skin areas in the animal world; they can feel the difference between a smooth surface and one with a pattern embedded just 13 nm deep. This is due to epidermal ridges on the surface of the fingertip, which allow humans to differentiate between a wide range of textures, materials, temperatures, and pressures. While each person has a unique pattern of ridges (i.e. fingerprints), the pattern is not crucial to the function. Just underneath the ridges are mechanoreceptors, a type of sensory receptor that responds to tactile stimulus. Friction caused by movement of the fingertip along a surface or material stimulates the mechanoreceptors, which then transmit the tactile information to the brain.\n\nThere are four major types of mechanoreceptors on smooth (non-hairy) parts of mammalian skin: lamellar corpuscles, tactile corpuscles, Merkel nerve endings, and bulbous corpuscles. Lamellar corpuscles respond to changes in vibration and pressure, while tactile corpuscles are particularly sensitive to light touch. Merkel nerve endings respond to general changes in pressure and location, as well as deep static touch, such as edges and overall shape. Bulbous corpuscles are sensitive to skin stretching and slippage of an object against the skin, allowing for improved grip.\n\nThis strategy was contributed by Safi Marroun and Teresa McNulty.",
+  "mechanism": "Fingertips increase touch sensitivity due to mechanoreceptors underneath the surface of the skin\n\nHuman fingertips are probably the most sensitive skin areas in the animal world; they can feel the difference between a smooth surface and one with a pattern embedded just 13 nm deep. This is due to epidermal ridges on the surface of the fingertip, which allow humans to differentiate between a wide range of textures, materials, temperatures, and pressures. While each person has a unique pattern of ridges (i.e. fingerprints), the pattern is not crucial to the function. Just underneath the ridges are mechanoreceptors, a type of sensory receptor that responds to tactile stimulus. Friction caused by movement of the fingertip along a surface or material stimulates the mechanoreceptors, which then transmit the tactile information to the brain.\n\nThere are four major types of mechanoreceptors on smooth (non-hairy) parts of mammalian skin: lamellar corpuscles, tactile corpuscles, Merkel nerve endings, and bulbous corpuscles. Lamellar corpuscles respond to changes in vibration and pressure, while tactile corpuscles are particularly sensitive to light touch. Merkel nerve endings respond to general changes in pressure and location, as well as deep static touch, such as edges and overall shape. Bulbous corpuscles are sensitive to skin stretching and slippage of an object against the skin, allowing for improved grip.",
   "function_addressed": [
     "sense touch and mechanical forces in a living system",
     "sense shape and pattern in a living system"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "sense-signals-environmental-cues::shape-and-pattern",
+    "sense-signals-environmental-cues::touch-and-mechanical-forces"
+  ],
+  "subgroup_keys": [
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/fingertips-increase-sensitivity-to-touch/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fingertips",
     "increase",
     "sensitivity",
     "touch"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

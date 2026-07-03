@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-adhering-to-multiple-substrates",
   "organism_common": "Blackberry",
-  "organism_scientific": "",
   "strategy_summary": "Spines of blackberries adhere to multiple substrates by having a sharp, backward-pointed structure. Rubus fruticosus fruits in Belgium (Hamois)  “One of the most mobile of plants…is the blackberry.",
   "mechanism": "Spines of blackberries adhere to multiple substrates by having a sharp, backward-pointed structure.\n\nRubus fruticosus fruits in Belgium (Hamois)\n\n“One of the most mobile of plants…is the blackberry. An individual, once established, immediately starts to seek new territory for itself. It puts out exploratory stems…They begin to advance directly and purposefully…Each stem is armed with sharp backward-pointing spines which catch on the ground and snag on vegetation. They clamber over logs and up the faces of rocks. They reach up, hook onto the stems of other plants and scramble over them, overwhelming them.” (Attenborough 1995:11)",
   "function_addressed": [
     "move in/on solids",
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "move::in-on-solids"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/adhering-to-multiple-substrates/",
-  "source_tier": "science_journalism",
   "keywords": [
     "adhering",
     "multiple",
     "substrates"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

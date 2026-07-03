@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-peptide-regenerates-tooth-growth",
   "organism_common": "Humans",
-  "organism_scientific": "",
   "strategy_summary": "Teeth of humans regenerate due to a peptide, P 11-4, that forms into fibers that attract calcium and causes generation of minerals from within. “Tooth decay begins when acid produced by bacteria in plaque dissolves the mineral in the teeth, causing microscopic holes or ‘pores’ to form.",
   "mechanism": "Teeth of humans regenerate due to a peptide, P 11-4, that forms into fibers that attract calcium and causes generation of minerals from within.\n\n“Tooth decay begins when acid produced by bacteria in plaque dissolves the mineral in the teeth, causing microscopic holes or ‘pores’ to form. As the decay process progresses these micro-pores increase in size and number. Eventually the damaged tooth may have to be drilled and filled to prevent toothache, or even removed…It’s a vicious cycle, but one that can be broken, according to researchers at the University of Leeds who have developed a revolutionary new way to treat the first signs of tooth decay. Their solution is to arm dentists with a peptide-based fluid that is literally painted onto the tooth’s surface. The peptide technology is based on knowledge of how the tooth forms in the first place and stimulates regeneration of the tooth defect.’This may sound too good to be true, but we are essentially helping acid-damaged teeth to regenerate themselves…,’ said Professor Jennifer Kirkham” (University of Leeds 2011:1)\n\nWatch Video",
   "function_addressed": [
     "protect from microbes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::microbes"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/peptide-regenerates-tooth-growth/",
-  "source_tier": "science_journalism",
   "keywords": [
     "peptide",
     "regenerates",
     "tooth",
     "growth"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-ice-nucleation-captures-water",
   "organism_common": "Golden-rimmed navel lichen",
-  "organism_scientific": "",
   "strategy_summary": "Lichens capture water via ice nucleation, absorbing the moisture once the temperature rises and the ice melts. The lichen Rhizoplaca chrysoleuca (Sm.) Zopf.",
   "mechanism": "Lichens capture water via ice nucleation, absorbing the moisture once the temperature rises and the ice melts.\n\nThe lichen Rhizoplaca chrysoleuca (Sm.) Zopf. Specimen photographed in Mount Kobau, Okanogan, BC, Canada.\n\n“Ice nucleation activity at temperatures warmer than -5°C may enhance the uptake of atmospheric moisture by enhancing condensation and/or causing deposition of ice from water vapor to occur earlier as the temperature drops below 0°C. Once an ice lattice is formed, further deposition occurs more readily. When the temperature rises, the lichen thallus may then absorb moisture from the melting ice.” (Kieft 1988:1680)",
   "function_addressed": [
     "capture, absorb, or filter liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/ice-nucleation-captures-water/",
-  "source_tier": "science_journalism",
   "keywords": [
     "ice",
     "nucleation",
     "captures",
     "water"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

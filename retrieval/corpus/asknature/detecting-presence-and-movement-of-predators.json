@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-detecting-presence-and-movement-of-predators",
   "organism_common": "Owlet moth",
-  "organism_scientific": "",
   "strategy_summary": "A rigid plate below moth wings detects movements of predatory bats by acting as a microphone device. “As the bat gets that revised sonar fix and swoops in closer, the moth can hear it coming.",
   "mechanism": "A rigid plate below moth wings detects movements of predatory bats by acting as a microphone device.\n\n“As the bat gets that revised sonar fix and swoops in closer, the moth can hear it coming. The moth has a sort of sensitive microphone built out of a tiny rigid plate below its wings. This microphone device locates the swooping killer in the air, even in dim, dense underbrush or where there’s no light at all. The moth doesn’t have to be able to visually ‘see’ anything at all to get an exact fix on where its attacker is. With the new information, it just changes course in the air, and flies away.” (Bodanis 1992:169)\n\n“Some moths listen with their bodies through a pair of eardrum-like organs in their abdomens. Each organ consists of a thin membrane of cuticle, behind which is an airsac that enables the membrane to vibrate when it is hit by sound waves. Connected by nerves to the brain, these organs are sensitive to the frequency range of ultrsonic squeaks emitted by insect-eating bats.” (Shuker 2001:23)\n\nWatch video",
   "function_addressed": [
@@ -9,18 +8,21 @@
     "sense sound and other vibrations from the environment",
     "sense motion"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-living-threats::animals",
+    "sense-signals-environmental-cues::motion",
+    "sense-signals-environmental-cues::sound-and-other-vibrations"
+  ],
+  "subgroup_keys": [
+    "protect-from-living-threats",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/detecting-presence-and-movement-of-predators/",
-  "source_tier": "science_journalism",
   "keywords": [
     "detecting",
     "presence",
     "movement",
     "predators"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

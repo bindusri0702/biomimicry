@@ -1,19 +1,24 @@
 {
   "doc_id": "asn-reproductive-tissues-respond-to-favorable-conditions",
   "organism_common": "Rockweed seaweed",
-  "organism_scientific": "",
-  "strategy_summary": "Reproductive tissues of rockweed seaweed release eggs and sperm in favorable conditions by chemically sensing calm waters. The rockweed, Fucus distichus , is a branching brown seaweed that lives on rocky shores in the Northern Hemisphere.",
-  "mechanism": "Reproductive tissues of rockweed seaweed release eggs and sperm in favorable conditions by chemically sensing calm waters.\n\nThe rockweed, Fucus distichus , is a branching brown seaweed that lives on rocky shores in the Northern Hemisphere. It makes its home in pools of seawater formed among rocks high in the intertidal zone, which is the sloped shoreline exposed between high and low tides. When the tide is high and waves are crashing onto the rocks, water often flows in and out of these high tide pools. During low tide, however, these tide pools are often calm.\n\nCalm waters are important for reproduction, as the rockweed releases sperm and eggs into the surrounding water where external fertilization occurs. If a tide pool is being flushed with water, this can prevent successful fertilization by making it hard for the eggs and sperm to come into contact, or by carrying eggs and sperm away. How does the rockweed sense water motion that’s ideal for reproduction?\n\nIt appears that sperm and egg release is triggered by low amounts of carbon-containing compounds (like carbon dioxide) dissolved in the water, indicating little mixing with seawater outside the pool. The rockweed takes up and uses this carbon during photosynthesis . When high tide pools are cut off from the ocean during low tide, this carbon uptake depletes the available carbon in the pool. Furthermore, when the pool water is calm, a largely stagnant layer of water builds up around the surface of the rockweed. Carbon dissolved in the water diffuses very slowly across this stagnant layer, reducing the rate at which it’s absorbed through the rockweed’s surface. This reduction in carbon uptake is sensed by tissues that perform photosynthesis in the seaweed. Through a mechanism that has yet to be fully understood, this signal is conveyed to the reproductive tissues at the tips of the rockweed’s branched blades. Internal compartments in these tissues contain sperm and eggs that are then released through holes in the seaweed’s surface into the calm tide pool water. In this system of relayed signals, the low level of usable carbon serves as a signal that the tide pool is calm and under favorable flow conditions for external fertilization.\n\nImage: Steve Lonhart / NOAA MBNMS / Public Domain - No restrictions toggle icon Image: NOAA Office of Response and Restoration / CC BY - Creative Commons Attribution alone toggle icon Image: Gnexxnews / Public Domain - No restrictions toggle icon right arrow right arrow",
+  "strategy_summary": "Reproductive tissues of rockweed seaweed release eggs and sperm in favorable conditions by chemically sensing calm waters. The rockweed, Fucus distichus, is a branching brown seaweed that lives on rocky shores in the Northern Hemisphere.",
+  "mechanism": "Reproductive tissues of rockweed seaweed release eggs and sperm in favorable conditions by chemically sensing calm waters.\n\nThe rockweed, Fucus distichus, is a branching brown seaweed that lives on rocky shores in the Northern Hemisphere. It makes its home in pools of seawater formed among rocks high in the intertidal zone, which is the sloped shoreline exposed between high and low tides. When the tide is high and waves are crashing onto the rocks, water often flows in and out of these high tide pools. During low tide, however, these tide pools are often calm.\n\nCalm waters are important for reproduction, as the rockweed releases sperm and eggs into the surrounding water where external fertilization occurs. If a tide pool is being flushed with water, this can prevent successful fertilization by making it hard for the eggs and sperm to come into contact, or by carrying eggs and sperm away. How does the rockweed sense water motion that’s ideal for reproduction?\n\nIt appears that sperm and egg release is triggered by low amounts of carbon-containing compounds (like carbon dioxide) dissolved in the water, indicating little mixing with seawater outside the pool. The rockweed takes up and uses this carbon during photosynthesis. When high tide pools are cut off from the ocean during low tide, this carbon uptake depletes the available carbon in the pool. Furthermore, when the pool water is calm, a largely stagnant layer of water builds up around the surface of the rockweed. Carbon dissolved in the water diffuses very slowly across this stagnant layer, reducing the rate at which it’s absorbed through the rockweed’s surface. This reduction in carbon uptake is sensed by tissues that perform photosynthesis in the seaweed. Through a mechanism that has yet to be fully understood, this signal is conveyed to the reproductive tissues at the tips of the rockweed’s branched blades. Internal compartments in these tissues contain sperm and eggs that are then released through holes in the seaweed’s surface into the calm tide pool water. In this system of relayed signals, the low level of usable carbon serves as a signal that the tide pool is calm and under favorable flow conditions for external fertilization.",
   "function_addressed": [
     "regulate reproduction or growth",
     "sense chemicals (odor, taste, etc.) from the environment",
     "respond to signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "process-signals::respond-to-signals",
+    "regulate-physiological-processes::reproduction-or-growth",
+    "sense-signals-environmental-cues::chemicals-odor-taste-etc"
+  ],
+  "subgroup_keys": [
+    "process-signals",
+    "regulate-physiological-processes",
+    "sense-signals-environmental-cues"
+  ],
   "source_url": "https://asknature.org/strategy/reproductive-tissues-respond-to-favorable-conditions/",
-  "source_tier": "science_journalism",
   "keywords": [
     "reproductive",
     "tissues",
@@ -21,7 +26,5 @@
     "favorable",
     "conditions"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

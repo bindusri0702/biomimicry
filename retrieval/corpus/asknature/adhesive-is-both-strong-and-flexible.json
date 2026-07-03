@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-adhesive-is-both-strong-and-flexible",
   "organism_common": "Eastern oyster",
-  "organism_scientific": "",
   "strategy_summary": "Oysters are a delicacy to some and a staple food to others, but they are also vital to coastal ecosystems. Oysters grab on to one another, stacking themselves like stalagmites that grow from the ocean floor.",
-  "mechanism": "Calcium carbonate, otherwise known as limestone, is not at all adhesive. So how does oyster cement work? Similar to how skyscrapers must be both rigid and flexible to allow slight swaying in the wind (without toppling), oysters combine hard calcium carbonate with softer, stickier proteins, enabling them to withstand strong tidal forces while holding their colonies together.\n\nOne of Wilker’s goals of this work is to simply understand how nature makes materials. “That, in itself, is pretty exciting,” he said. But he points out that this research has a range of potential medical applications, including for bone repair and dental cements, which involve adhering inorganic materials in wet environments. In addition, this work is leading to greener concrete products that can be used to build marine-friendly human structures along shorelines—and help recover some of the 85% of oyster reefs that have disappeared globally over the past century due to human activity.",
+  "mechanism": "Calcium carbonate, otherwise known as limestone, is not at all adhesive. So how does oyster cement work? Similar to how skyscrapers must be both rigid and flexible to allow slight swaying in the wind (without toppling), oysters combine hard calcium carbonate with softer, stickier proteins, enabling them to withstand strong tidal forces while holding their colonies together.\n\nIn 2010, Wilker’s research found evidence that the protein molecules “cross-link,” meaning they form a kind of mesh or spider web that binds all the ingredients together and gives the cement its stickiness. Imagine a brick wall, where the mortar (acting like the organics) glues the bricks to one another as well as to other surfaces, while the bricks (behaving like calcium carbonate) add strength and rigidity.\n\nWhile an actual brick wall follows a regular pattern, the structure of oyster cement is far from uniform. And Wilker’s ongoing research continues to reveal complexities. For example, unlike oyster shells themselves, oyster cement uses two kinds of calcium carbonate, chemically equivalent but made from crystals having different shapes and orientations. Other results indicate that the adhesive may incorporate material from its aquatic environment and may even involve symbiosis with bacteria that add sugars to the organic portion.\n\nOne of Wilker’s goals of this work is to simply understand how nature makes materials. “That, in itself, is pretty exciting,” he said. But he points out that this research has a range of potential medical applications, including for bone repair and dental cements, which involve adhering inorganic materials in wet environments. In addition, this work is leading to greener concrete products that can be used to build marine-friendly human structures along shorelines—and help recover some of the 85% of oyster reefs that have disappeared globally over the past century due to human activity.\n\nThe Amazing Oyster Reef: Find out how this amazing adhesive helps oyster reefs protect shores from storm erosion.",
   "function_addressed": [
     "detoxification/purification of air/water/waste",
     "control erosion and sediment",
@@ -11,18 +10,25 @@
     "manage turbulence",
     "attach permanently"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently",
+    "coordinate::by-self-organization",
+    "manage-structural-forces::turbulence",
+    "provide-ecosystem-services::control-erosion-and-sediment",
+    "provide-ecosystem-services::detoxification-purification-of-air-water-waste"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "coordinate",
+    "manage-structural-forces",
+    "provide-ecosystem-services"
+  ],
   "source_url": "https://asknature.org/strategy/adhesive-is-both-strong-and-flexible/",
-  "source_tier": "science_journalism",
   "keywords": [
     "adhesive",
     "both",
     "strong",
     "flexible"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

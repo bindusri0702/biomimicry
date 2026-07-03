@@ -7,10 +7,9 @@ Fully automated, LLM-driven, no human gate. Two nodes do the work:
   goldilocks_evaluator -> judge each defined question on two independent axes (breadth +
                           solution-neutrality); revise in place via the prompt's
                           suggested_revision, capped at EVALUATOR_MAX_RETRIES, then best-effort
-  compute_metrics      -> the Define evaluation metrics
-  finalize             -> stamps Challenge Brief v1
 
-Exported as a compiled subgraph; the orchestrator wires it into the spiral.
+Exported as a compiled subgraph; the orchestrator wires it into the spiral. The Define
+metrics are derived on demand from the final state in demo.py (see metrics.define_metrics).
 """
 from __future__ import annotations
 
@@ -20,8 +19,8 @@ from langgraph.graph import END, START, StateGraph
 
 from .. import config
 from ..llm import LLM
-from ..metrics import define_metrics
-from ..state import ContextProfile, DefinedQuestion, SpiralState, SystemContext, log_entry
+from ..schemas import DefineResponse, GoldilocksResponse, GoldilocksVerdict
+from ..state import ContextProfile, DefinedQuestion, SpiralState, log_entry
 
 STAGE = "define"
 _llm = LLM()  # module-level so tests can inject a fake: `define._llm = FakeLLM()`
@@ -36,8 +35,8 @@ _DEFINE_SYSTEM = (
     "mechanism or product.\n"
     "2. Consider context - Describe some of the contextual factors (stakeholders, location "
     "conditions, resource availability, etc.)\n"
-    "3. Design question - Using the information above, frame \"How might we…?\" questions, one per "
-    "each function stated in the user challenge.\n\n"
+    f"3. Design question - Using the information above, frame {config.DEFINE_HMW} \"How might we…?\" "
+    "questions, based on the functions stated in the user challenge.\n\n"
     "Note: If the input lacks the information for a field, do not invent it. Use an empty list/null "
     "and add an item to \"assumptions\" instead.\n\n"
     "Output: respond with ONLY a valid JSON object — no markdown fences, no commentary — matching "
@@ -100,32 +99,27 @@ _GOLDILOCKS_SYSTEM = (
 def define(state: SpiralState) -> dict:
     """One LLM call: parse context + system_context + one defined question per function."""
     idea = state["raw_idea"]
-    raw = _llm.complete_json(
+    raw = _llm.complete(
         task="define",
         system=_DEFINE_SYSTEM,
         user=f'USER CHALLENGE:\n"""\n{idea}\n"""',
+        schema=DefineResponse,
         temperature=config.CRITIC_TEMPERATURE,
         ctx={"idea": idea},
     )
     context = ContextProfile(
-        stakeholders=raw.get("stakeholders") or [],
-        operating_environment=raw.get("operating_environment") or "",
-        hard_constraints=raw.get("hard_constraints") or [],
+        stakeholders=raw.stakeholders,
+        operating_environment=raw.operating_environment,
+        hard_constraints=raw.hard_constraints,
     ).model_dump()
-    sc_raw = raw.get("system_context") or {}
-    system_context = SystemContext(**{
-        k: sc_raw.get(k) for k in
-        ("interactions", "boundaries", "adjacent_systems", "leverage_points")
-        if sc_raw.get(k) is not None
-    }).model_dump()
+    system_context = raw.system_context.model_dump()
     dqs = [DefinedQuestion(id=i, text=q.strip()).model_dump()
-           for i, q in enumerate(raw.get("defined_questions") or []) if q and q.strip()]
+           for i, q in enumerate(raw.defined_questions) if q and q.strip()]
     return {
         "context": context,
         "system_context": system_context,
-        "assumptions": raw.get("assumptions") or [],
+        "assumptions": raw.assumptions,
         "defined_questions": dqs,
-        "current_stage": STAGE,
         "spiral_log": [log_entry(STAGE, "defined", f"{len(dqs)} questions")],
     }
 
@@ -138,18 +132,18 @@ def goldilocks_evaluator(state: SpiralState) -> dict:
     rnd = 0
     while pending and rnd <= config.EVALUATOR_MAX_RETRIES:
         verdict = _eval_goldilocks(context, [q["text"] for q in pending])
-        by_index = {v.get("index"): v for v in verdict.get("verdicts", [])}
+        by_index = {v.index: v for v in verdict.verdicts}
         rnd += 1
         still = []
         for idx, q in enumerate(pending):
-            v = by_index.get(idx, {})
-            q["breadth_label"] = v.get("breadth_label")
-            q["solution_neutral"] = v.get("solution_neutral")
-            q["reasoning"] = v.get("reasoning", "")
-            q["suggested_revision"] = v.get("suggested_revision")
+            v = by_index.get(idx) or GoldilocksVerdict()
+            q["breadth_label"] = v.breadth_label
+            q["solution_neutral"] = v.solution_neutral
+            q["reasoning"] = v.reasoning
+            q["suggested_revision"] = v.suggested_revision
             q["eval_attempts"] += 1
             passed = q["breadth_label"] == "just_right" and bool(q["solution_neutral"])
-            revision = (v.get("suggested_revision") or "").strip()
+            revision = (v.suggested_revision or "").strip()
             if passed:
                 q["eval_status"] = "accepted"
             elif rnd <= config.EVALUATOR_MAX_RETRIES and revision:
@@ -167,24 +161,15 @@ def goldilocks_evaluator(state: SpiralState) -> dict:
                                      f"{sum(1 for q in dqs if q['eval_status']=='accepted')} just-right")]}
 
 
-def compute_metrics(state: SpiralState) -> dict:
-    return {"define_metrics": define_metrics(state["defined_questions"], state.get("context", {})),
-            "spiral_log": [log_entry(STAGE, "metrics_computed")]}
-
-
-def finalize(state: SpiralState) -> dict:
-    return {"version": "v1", "current_stage": STAGE,
-            "spiral_log": [log_entry(STAGE, "challenge_brief_finalized", "Challenge Brief v1 ready")]}
-
-
 # --- LLM helper --------------------------------------------------------------
-def _eval_goldilocks(context: dict, questions: list[str]) -> dict:
+def _eval_goldilocks(context: dict, questions: list[str]) -> GoldilocksResponse:
     numbered = "\n".join(f"{i}: {q}" for i, q in enumerate(questions))
-    return _llm.complete_json(
+    return _llm.complete(
         task="goldilocks",
         system=_GOLDILOCKS_SYSTEM,
         user=f'CHALLENGE CONTEXT:\n"""\n{json.dumps(context, ensure_ascii=False)}\n"""\n\n'
              f'QUESTIONS:\n"""\n{numbered}\n"""',
+        schema=GoldilocksResponse,
         temperature=config.CRITIC_TEMPERATURE,
         ctx={"context": context, "questions": questions},
     )
@@ -195,12 +180,8 @@ def build_define_subgraph():
     g = StateGraph(SpiralState)
     g.add_node("define", define)
     g.add_node("goldilocks_evaluator", goldilocks_evaluator)
-    g.add_node("compute_metrics", compute_metrics)
-    g.add_node("finalize", finalize)
 
     g.add_edge(START, "define")
     g.add_edge("define", "goldilocks_evaluator")
-    g.add_edge("goldilocks_evaluator", "compute_metrics")
-    g.add_edge("compute_metrics", "finalize")
-    g.add_edge("finalize", END)
+    g.add_edge("goldilocks_evaluator", END)
     return g.compile()

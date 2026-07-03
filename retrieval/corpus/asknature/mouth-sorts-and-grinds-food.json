@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-mouth-sorts-and-grinds-food",
   "organism_common": "Platypus",
-  "organism_scientific": "",
   "strategy_summary": "The mouth of a platypus stores food in cheek pouches, and grinds and sorts insect and crustacean prey between keratinized pads that replace teeth. “Adult monotremes do not have teeth.",
   "mechanism": "The mouth of a platypus stores food in cheek pouches, and grinds and sorts insect and crustacean prey between keratinized pads that replace teeth.\n\n“Adult monotremes do not have teeth. In early life Ornithorhynchus anatinus possess one premolar and two molars in each maxilla and two or three molars in each mandible. These small teeth are resorbed and replaced by horny pads soon after the young platypuses emerge from the nesting burrow. Despite lack of true teeth, mastication is a significant component of monotreme digestion. In the platypus, insect and crustacean prey are collected into the cheek pouches and throughly ground and sifted to remove much of the exoskeletons.” (Fowler and Miller 2003:278)",
   "function_addressed": [
     "capture, absorb, or filter solids",
     "physically break down living materials"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::solids",
+    "physically-break-down::living-materials"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "physically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/mouth-sorts-and-grinds-food/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mouth",
     "sorts",
     "grinds",
     "food"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

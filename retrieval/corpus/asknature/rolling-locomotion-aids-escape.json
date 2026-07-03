@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-rolling-locomotion-aids-escape",
   "organism_common": "Mother of pearl moth",
-  "organism_scientific": "",
   "strategy_summary": "The body of the mother-of-pearl moth caterpillar escapes predators by anchoring its tail, recoiling, and rolling backwards. Boczanka br?zowianka (Pleuroptya ruralis)  Boczanka br?zowianka (Pleuroptya ruralis)  “The mother-of-pearl caterpillar, however, can step on the accelerator.",
   "mechanism": "The body of the mother-of-pearl moth caterpillar escapes predators by anchoring its tail, recoiling, and rolling backwards.\n\nBoczanka br?zowianka (Pleuroptya ruralis)\n\nBoczanka br?zowianka (Pleuroptya ruralis)\n\n“The mother-of-pearl caterpillar, however, can step on the accelerator. If it meets a predator, it anchors its rear to the ground, recoils rapidly, and then rolls away backward like a bright-green tire. Mouth to tail, it completes around half a dozen revolutions during its escape. By turning into a wheel, the caterpillar moves some 40 times faster than its normal walking pace.” (Downer 2002:22)",
   "function_addressed": [
     "move in/on solids",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-solids",
+    "protect-from-living-threats::animals"
+  ],
+  "subgroup_keys": [
+    "move",
+    "protect-from-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/rolling-locomotion-aids-escape/",
-  "source_tier": "science_journalism",
   "keywords": [
     "rolling",
     "locomotion",
     "aids",
     "escape"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

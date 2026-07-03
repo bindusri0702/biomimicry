@@ -1,25 +1,28 @@
 {
   "doc_id": "asn-fluorophores-enhance-photosynthesis",
   "organism_common": "Modify Light/Color",
-  "organism_scientific": "",
   "strategy_summary": "The dwarf mountain pine ( Pinus mugo) , native to the high elevations of the Alps, thrives in an environment exposed to high levels of UV radiation. Due to their long-lived foliage, these pines are more susceptible to UV damage, requiring an effective protective adaptation .",
-  "mechanism": "Plants normally absorb light in the visible spectrum, and scatter or filter UV light because it can be damaging to multiple plant processes. However, the leaves of the dwarf mountain pine contain a waxy cuticle loaded with fluorophores––small, organic molecules that can absorb ultraviolet light and convert it into visible blue light.\n\nWhen a fluorophore absorbs a photon of light, it gets excited from its ground state to a higher-energy excited state. After a brief period, it returns to a lower-energy state, releasing the excess energy as a photon of light with a longer wavelength.\n\nThis conversion protects the plant and even enhances photosynthesis, giving the trees an ecological advantage, particularly in low-light conditions.\n\nHumans could learn from this natural strategy to develop technological innovations for protection against harmful radiation. The UV protective cuticular layer could be mimicked to provide a UV protective coating, transforming the harmful part of radiation into usable energy. This concept could be applied to make solar cells more efficient by adding a fluorescent coating that converts an unexploited high-energy fraction into useful radiation.",
+  "mechanism": "Plants normally absorb light in the visible spectrum, and scatter or filter UV light because it can be damaging to multiple plant processes. However, the leaves of the dwarf mountain pine contain a waxy cuticle loaded with fluorophores––small, organic molecules that can absorb ultraviolet light and convert it into visible blue light.\n\nWhen a fluorophore absorbs a photon of light, it gets excited from its ground state to a higher-energy excited state. After a brief period, it returns to a lower-energy state, releasing the excess energy as a photon of light with a longer wavelength.\n\nThis conversion protects the plant and even enhances photosynthesis, giving the trees an ecological advantage, particularly in low-light conditions.\n\nHumans could learn from this natural strategy to develop technological innovations for protection against harmful radiation. The UV protective cuticular layer could be mimicked to provide a UV protective coating, transforming the harmful part of radiation into usable energy. This concept could be applied to make solar cells more efficient by adding a fluorescent coating that converts an unexploited high-energy fraction into useful radiation.\n\nThis page was produced in part with the assistance of AI, which is allowing us to greatly expand the volume of content available on AskNature. All of the content has been reviewed for accuracy and appropriateness by human editors. To provide feedback or to get involved with the project, contact us .",
   "function_addressed": [
     "modify light/color",
     "transform radiant energy (light)",
     "capture, absorb, or filter energy"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "modify-physical-state::light-color",
+    "transform-convert-energy::radiant-energy-light"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "modify-physical-state",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/fluorophores-enhance-photosynthesis/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fluorophores",
     "enhance",
     "photosynthesis"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

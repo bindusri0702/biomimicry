@@ -1,24 +1,24 @@
 {
   "doc_id": "asn-compounds-protect-from-freezing",
   "organism_common": "Wood frog",
-  "organism_scientific": "",
   "strategy_summary": "Compounds, such as sugar, in the blood of wood frogs protect them from freezing temperatures by affecting how water freezes in the body. “The North American wood frog ( Rana sylvatica ), for instance, can survive freezing temperatures for as long as seven months, relying on a natural antifreeze in its blood to protect…",
   "mechanism": "Compounds, such as sugar, in the blood of wood frogs protect them from freezing temperatures by affecting how water freezes in the body.\n\n“The North American wood frog ( Rana sylvatica ), for instance, can survive freezing temperatures for as long as seven months, relying on a natural antifreeze in its blood to protect its organs.” (Morell 2001)",
   "function_addressed": [
     "protect from ice",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::ice",
+    "protect-from-non-living-threats::temperature"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/compounds-protect-from-freezing/",
-  "source_tier": "science_journalism",
   "keywords": [
     "compounds",
     "protect",
     "freezing"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

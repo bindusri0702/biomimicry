@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-dufours-gland-creates-waterproof-nest-linings",
   "organism_common": "Cellophane bee",
-  "organism_scientific": "",
   "strategy_summary": "The Dufour’s Gland of bees secretes a multitude of organic compounds like polyesters for nest building, triglycerides for food and hormones for communication. Dufour’s Gland is a small gland near the stinger of a bee.",
-  "mechanism": "The Dufour’s Gland of bees secretes a multitude of organic compounds like polyesters for nest building, triglycerides for food and hormones for communication.\n\nDufour’s Gland is a small gland near the stinger of a bee. It’s an exocrine gland, secreting chemicals, but the purpose of the chemicals and their structure differs from family to family. The secretions can be used for anything from nest building, to reproduction, to pheromones, to the production of larval food. Dufour’s Gland is not unique to bees, being found in many different insects.\n\nDufour’s Gland can produce a variety of organic compounds, including both saturated and unsaturated hydrocarbons, with long chain hydrocarbons being the most common secretion across bee taxa. More volatile and non-volatile compounds are produced by certain bees, including alcohols, ester s, aromatics and fatty acids.\n\nThe most common Dufour’s Gland secretion among bees is used to create a waterproof lining for their brood cells, protecting the stashes of food they leave for their larvae, as well as the larvae themselves, from microbes or environmental conditions. The polyester brood cell lining has qualities much like those of cellophane. In the bee genus Colletes , the lining is made up of 18-hydroxyoctadecanoic acid and 20-hydroxy-eicosanoic acid, both stored as lactones in the gland before they are secreted and undergo a chemical reaction to become the lining.\n\nThe larvae may also ingest secretions from Dufour’s Gland with their food. In Anthophora abrupta , the secretions are made up of a mixture of liquid triglycerides, one long-chain fatty acid and two short-chain fatty acids before they’re added to the food.\n\nDufour’s Gland secretions are also often applied to the entrance of the nest, being unique enough to each individual that they serve as a marker for which nest is their own.\n\nIn the Andrena genus the compounds produced by the gland vary based on genetics, implying they may play a role in recognizing kin. In some bees, such as the stingless Meliponini bees, the secretions of a virgin female and a non-virgin female differed by the inclusion of an ester compound, implying they could be used for sexual signalling.\n\nIn bumblebees (genus Bombus ), Dufour’s Gland increases in size with age and reproductive activity of the Queen, while in workers Dufour’s Gland advertises their sterile status using esters. When an individual develops ovaries, the esters are no longer secreted.\n\nThis information is also available from the University of Calgary Invertebrate collection , where it was curated as part of a study on design inspired by bees.",
+  "mechanism": "The Dufour’s Gland of bees secretes a multitude of organic compounds like polyesters for nest building, triglycerides for food and hormones for communication.\n\nDufour’s Gland is a small gland near the stinger of a bee. It’s an exocrine gland, secreting chemicals, but the purpose of the chemicals and their structure differs from family to family. The secretions can be used for anything from nest building, to reproduction, to pheromones, to the production of larval food. Dufour’s Gland is not unique to bees, being found in many different insects.\n\nDufour’s Gland can produce a variety of organic compounds, including both saturated and unsaturated hydrocarbons, with long chain hydrocarbons being the most common secretion across bee taxa. More volatile and non-volatile compounds are produced by certain bees, including alcohols, ester s, aromatics and fatty acids.\n\nThe most common Dufour’s Gland secretion among bees is used to create a waterproof lining for their brood cells, protecting the stashes of food they leave for their larvae, as well as the larvae themselves, from microbes or environmental conditions. The polyester brood cell lining has qualities much like those of cellophane. In the bee genus Colletes, the lining is made up of 18-hydroxyoctadecanoic acid and 20-hydroxy-eicosanoic acid, both stored as lactones in the gland before they are secreted and undergo a chemical reaction to become the lining.\n\nThe larvae may also ingest secretions from Dufour’s Gland with their food. In Anthophora abrupta, the secretions are made up of a mixture of liquid triglycerides, one long-chain fatty acid and two short-chain fatty acids before they’re added to the food.\n\nDufour’s Gland secretions are also often applied to the entrance of the nest, being unique enough to each individual that they serve as a marker for which nest is their own.\n\nIn the Andrena genus the compounds produced by the gland vary based on genetics, implying they may play a role in recognizing kin. In some bees, such as the stingless Meliponini bees, the secretions of a virgin female and a non-virgin female differed by the inclusion of an ester compound, implying they could be used for sexual signalling.\n\nIn bumblebees (genus Bombus ), Dufour’s Gland increases in size with age and reproductive activity of the Queen, while in workers Dufour’s Gland advertises their sterile status using esters. When an individual develops ovaries, the esters are no longer secreted.\n\nThis information is also available from the University of Calgary Invertebrate collection, where it was curated as part of a study on design inspired by bees.",
   "function_addressed": [
     "chemically assemble organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-assemble::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-assemble"
+  ],
   "source_url": "https://asknature.org/strategy/dufours-gland-creates-waterproof-nest-linings/",
-  "source_tier": "science_journalism",
   "keywords": [
     "dufour",
     "gland",
@@ -20,7 +21,5 @@
     "nest",
     "linings"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,18 +1,19 @@
 {
   "doc_id": "asn-hair-like-structures-filter-fine-materials",
   "organism_common": "Fiddler crabs",
-  "organism_scientific": "",
   "strategy_summary": "The mouthparts of fiddler crabs filter fine materials from sediment using spoon-shaped setae (stiff hair-like structures) to hold sand grains, while brush-shaped setae brush off diatoms and bacteria for eating. Fiddler crabs ( Uca spp.), are deposit feeders, ingesting organic matter from exposed mud at low tide.",
   "mechanism": "The mouthparts of fiddler crabs filter fine materials from sediment using spoon-shaped setae (stiff hair-like structures) to hold sand grains, while brush-shaped setae brush off diatoms and bacteria for eating.\n\nFiddler crabs ( Uca spp.), are deposit feeders, ingesting organic matter from exposed mud at low tide. “Sediment is sorted within the buccal cavity. The outermost mouth parts, the third maxillipeds, play little active part other than helping to retain sediment and water during the sorting process. The inner surface of the second maxilIipedries carries quite large numbers of long setae, some with spoon tips and others feathery. Facing these on the outer surface of the first maxillipeds is a brush of stiff setae. The sediment is rolled between two maxillipeds. The spooned setae of the second maxillipeds hold sand grains against the brushlike setae of the first maxillipeds, and diatoms and bacteria adhering to the grains are brushed off and moved towards the mouth itself. While this is going on, water is pumped out of the gill chamber into the buccal chamber. This helps the sorting process which takes place essentially in suspension…The mouth parts, too, are adapted to particular sediment compositions. Species feeding predominantly on coarse sandy sediments have more of the long, spoon-tipped setae on the inside of the second maxillipeds, and the tips of the setae are more spoon-shaped, while the setal ‘brush’ on the outside of the first maxillipeds is denser. Where the preferred sediment contains more fine organic particles, extra rows of setae are present at the base of the third maxillipeds to protect the aperture into the gill chamber and prevent the gills from becoming clogged. (Macnae 1968; Miller 1961; Ono 1965).” (Hogarth 1999:94-95)",
   "function_addressed": [
     "capture, absorb, or filter organisms",
     "capture, absorb, or filter solids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::solids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/hair-like-structures-filter-fine-materials/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hair-like",
     "structures",
@@ -20,7 +21,5 @@
     "fine",
     "materials"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

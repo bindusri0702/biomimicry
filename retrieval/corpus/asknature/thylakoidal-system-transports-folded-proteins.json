@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-thylakoidal-system-transports-folded-proteins",
   "organism_common": "Plants",
-  "organism_scientific": "",
   "strategy_summary": "Thylakoids of plants and cyanobacteria are able to transport folded or malformed proteins across tightly sealed membranes via a protein translocation system. “A subset of lumen protein s is transported across the thylakoid membrane by a Sec-independent translocase that recognizes a twin-arginine motif in the targeting…",
   "mechanism": "Thylakoids of plants and cyanobacteria are able to transport folded or malformed proteins across tightly sealed membranes via a protein translocation system.\n\n“A subset of lumen protein s is transported across the thylakoid membrane by a Sec-independent translocase that recognizes a twin-arginine motif in the targeting signal. A related system operates in bacteria, apparently for the export of redox cofactor-containing proteins. In this report we describe a key feature of this system, the ability to transport folded proteins. The thylakoidal system is able to transport dihydrofolate reductase (DHFR) when an appropriate signal is attached, and the transport efficiency is almost undiminished by the binding of folate analogs such as methotrexate that cause the protein to fold very tightly. The system is moreover able to transport DHFR into the lumen with methotrexate bound in the active site, demonstrating that the ΔpH-driven transport of large, native structures is possible by this pathway. However, correct folding is not a prerequisite for transport. Truncated, malfolded DHFR can be translocated by this system, as can physiological substrates that are severely malfolded by the incorporation of amino acid analogs.” (Hynds et al. 1998:34868)",
   "function_addressed": [
     "regulate cellular processes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/thylakoidal-system-transports-folded-proteins/",
-  "source_tier": "science_journalism",
   "keywords": [
     "thylakoidal",
     "system",
@@ -19,7 +20,5 @@
     "folded",
     "proteins"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

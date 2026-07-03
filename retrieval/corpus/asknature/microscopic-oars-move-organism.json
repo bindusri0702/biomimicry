@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-microscopic-oars-move-organism",
   "organism_common": "Protozoa",
-  "organism_scientific": "",
-  "strategy_summary": "Bundles of microtubules projecting from the microscopic Sticholonche zanclea move the protozoans along through a rowing motion. “At least one odd actinopod, heliozoan protozoan, Sticholonche , rows along with oars made of bundles of microtubules that emerge from the nuclear membrane through microfibrillar oarlocks.",
-  "mechanism": "Bundles of microtubules projecting from the microscopic Sticholonche zanclea move the protozoans along through a rowing motion.\n\n“At least one odd actinopod, heliozoan protozoan, Sticholonche , rows along with oars made of bundles of microtubules that emerge from the nuclear membrane through microfibrillar oarlocks. These form the central axes of external cytoplasmic protrusions–oars of a sort (Cachon and Cachon 1978; Margulis and Schwartz 1998).” (Vogel 2003:450)",
+  "strategy_summary": "Bundles of microtubules projecting from the microscopic Sticholonche zanclea move the protozoans along through a rowing motion. “At least one odd actinopod, heliozoan protozoan, Sticholonche, rows along with oars made of bundles of microtubules that emerge from the nuclear membrane through microfibrillar oarlocks.",
+  "mechanism": "Bundles of microtubules projecting from the microscopic Sticholonche zanclea move the protozoans along through a rowing motion.\n\n“At least one odd actinopod, heliozoan protozoan, Sticholonche, rows along with oars made of bundles of microtubules that emerge from the nuclear membrane through microfibrillar oarlocks. These form the central axes of external cytoplasmic protrusions–oars of a sort (Cachon and Cachon 1978; Margulis and Schwartz 1998).” (Vogel 2003:450)",
   "function_addressed": [
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/microscopic-oars-move-organism/",
-  "source_tier": "science_journalism",
   "keywords": [
     "microscopic",
     "oars",
     "move",
     "organism"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

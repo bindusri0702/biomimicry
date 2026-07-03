@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-foreleg-licking-cools-skin-2",
   "organism_common": "Red kangaroo",
-  "organism_scientific": "",
   "strategy_summary": "Forelegs of red kangaroos facilitate evaporative heat loss by having a special anastomosing network of superficial vessels cooled by licking. “Red kangaroos have excellent thermoregulatory abilities: evaporative heat loss mechanisms such as panting, sweating, and licking (Dawson 1973, 1989; Dawson et al.",
-  "mechanism": "Forelegs of red kangaroos facilitate evaporative heat loss by having a special anastomosing network of superficial vessels cooled by licking.\n\n“Red kangaroos have excellent thermoregulatory abilities: evaporative heat loss mechanisms such as panting, sweating, and licking (Dawson 1973, 1989; Dawson et al. 1974; Needham et al. 1974) enable them to cope with high externally (Dawson 1972) and internally produced (Kram and Dawson 1998) heat loads. While the evaporative heat loss mechanisms utilised by red kangaroos have been suggested to follow an efficient pattern, we do not know the relative contribution of these mechanisms at high environmental temperatures. In regard to the grey kangaroos, little has been reported except that they pant and lick. Licking has been suggested to be the grey kangaroo’s major route of evaporative heat loss (EHL) at high temperatures (Robertson and Morrison 1957).” (Dawson et al. 2000:374)\n\n“Cutaneous evaporation includes water loss through the skin (passive diffusion and sweating) and water spread onto the skin (licking)…Kangaroos and some wallabies have a special anastomosing network of superficial vessels in their forelegs to facilitate heat loss via licking (Needham et al. 1974), and this is most developed in M . [ Macropus ] rufus (Needham 1982). Large increases in foreleg blood flow occur in M. rufus when Ta [air temperature] is raised above thermoneutral levels (Needham et al. 1974; Needham and Dawson 1984). While circumstantial, the data suggest that licking provides most of the nonrespiratory EHL [evaporative heat loss] of M. rufus at 45°C.” (Dawson et al. 2000:380)",
+  "mechanism": "Forelegs of red kangaroos facilitate evaporative heat loss by having a special anastomosing network of superficial vessels cooled by licking.\n\n“Red kangaroos have excellent thermoregulatory abilities: evaporative heat loss mechanisms such as panting, sweating, and licking (Dawson 1973, 1989; Dawson et al. 1974; Needham et al. 1974) enable them to cope with high externally (Dawson 1972) and internally produced (Kram and Dawson 1998) heat loads. While the evaporative heat loss mechanisms utilised by red kangaroos have been suggested to follow an efficient pattern, we do not know the relative contribution of these mechanisms at high environmental temperatures. In regard to the grey kangaroos, little has been reported except that they pant and lick. Licking has been suggested to be the grey kangaroo’s major route of evaporative heat loss (EHL) at high temperatures (Robertson and Morrison 1957).” (Dawson et al. 2000:374)\n\n“Cutaneous evaporation includes water loss through the skin (passive diffusion and sweating) and water spread onto the skin (licking)…Kangaroos and some wallabies have a special anastomosing network of superficial vessels in their forelegs to facilitate heat loss via licking (Needham et al. 1974), and this is most developed in M. [ Macropus ] rufus (Needham 1982). Large increases in foreleg blood flow occur in M. rufus when Ta [air temperature] is raised above thermoneutral levels (Needham et al. 1974; Needham and Dawson 1984). While circumstantial, the data suggest that licking provides most of the nonrespiratory EHL [evaporative heat loss] of M. rufus at 45°C.” (Dawson et al. 2000:380)",
   "function_addressed": [
     "maintain homeostasis",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/foreleg-licking-cools-skin-2/",
-  "source_tier": "science_journalism",
   "keywords": [
     "foreleg",
     "licking",
     "cools",
     "skin"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

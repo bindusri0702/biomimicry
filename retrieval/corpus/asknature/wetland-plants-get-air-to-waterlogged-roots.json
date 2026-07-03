@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-wetland-plants-get-air-to-waterlogged-roots",
   "organism_common": "Common reed",
-  "organism_scientific": "",
   "strategy_summary": "In a reedy marshland in spring, the wind rustles through the fronds, dragonflies buzz through the air, and the strange song of an American bittern booms across the land. It is a thriving ecosystem, hosting a wide variety of plants and animals.",
-  "mechanism": "Plants take in carbon dioxide through their leaves and use the carbon as material to build their structures. But they take in oxygen through their roots to provide energy to carry out growth and repair.\n\nEven though the roots of land plants are buried, they can extract oxygen from air pockets within the soil. Most of the oxygen enters the roots through diffusion, when molecules are driven to move from areas with higher concentrations to areas with lower ones. In very wet soil, this becomes much more difficult because oxygen diffusion in water is 10,000 times slower than in air. So reeds (such as the common reed, Phragmites australis ) have developed another way to breathe that’s very similar to using a snorkel.\n\nUnderstanding how wetlands transport gases could help develop technologies that remove water pollution or that transport gases, like natural gas, more efficiently. When natural disasters such as earthquakes trap people below felled buildings, perhaps gas exchange networks could vent carbon dioxide and pump in oxygen to help recovery efforts. Studying aerenchyma may even lead to medical therapies based on the concept of multiple networks of gas flow to deliver oxygen to (or removes toxins from) specific bodily tissues to promote healing.",
+  "mechanism": "Plants take in carbon dioxide through their leaves and use the carbon as material to build their structures. But they take in oxygen through their roots to provide energy to carry out growth and repair.\n\nEven though the roots of land plants are buried, they can extract oxygen from air pockets within the soil. Most of the oxygen enters the roots through diffusion, when molecules are driven to move from areas with higher concentrations to areas with lower ones. In very wet soil, this becomes much more difficult because oxygen diffusion in water is 10,000 times slower than in air. So reeds (such as the common reed, Phragmites australis ) have developed another way to breathe that’s very similar to using a snorkel.\n\nAir enters into common reeds from broken stems or dead plants that are all connected via underwater structures called rhizomes. Many wetland plant species have rhizomes that grow horizontally just below the surface of the soil, with many stems growing up and many roots growing down. Air taken in through one broken stem or dead plant can reach other healthy sections through this network.\n\nThe oxygen-carrying air moves through gaps in the plant’s tissues, called aerenchyma. If glass beads poured into a cylindrical vase represented the cells inside a plant stem, the space between the beads would be the aerenchyma, which form when cells separate from one another or collapse.\n\nThrough-flow draws air down into the broken stems of some reeds, sending oxygen from the stems down into the rhizomes.\n\nThe aerenchyma spaces rely on pressure gradients to drive the gasses from areas of high pressure to areas of low pressure. In some cases, air is drawn into living sections of the plant through the stomata (gas-exchange holes) of the leaf sheaths, sending oxygen from the stems down into the rhizomes (from where it can diffuse into the roots), and pushing stale air out of broken stems.\n\nIn other cases, broken stems of different heights create a passive ventilation system. This is because of the Bernoulli principle: the faster air moves, the lower its pressure becomes. Since air closer to the ground is slower due to friction and turbulence, the air around higher stems is faster, and has lower pressure. This pulls stale air out of the taller broken stems and draws oxygen-rich fresh air into the shorter broken stems.\n\nThe removal of stale air can be as important as the intake of fresh air. Gases like carbon dioxide (which roots produce via cellular respiration of oxygen) and ethylene are drawn upward from the roots, into the rhizomes, and eventually out into the air. Though plants form ethylene to act as a kind of hormone that influences growth, research shows that some plant roots thrive under low ethylene concentrations while higher concentrations can stunt their growth. Therefore, the ability of wetland plants to vent this gas can help them stay healthy and keep growing.\n\nUnderstanding how wetlands transport gases could help develop technologies that remove water pollution or that transport gases, like natural gas, more efficiently. When natural disasters such as earthquakes trap people below felled buildings, perhaps gas exchange networks could vent carbon dioxide and pump in oxygen to help recovery efforts. Studying aerenchyma may even lead to medical therapies based on the concept of multiple networks of gas flow to deliver oxygen to (or removes toxins from) specific bodily tissues to promote healing.",
   "function_addressed": [
     "distribute gases",
     "expel gases"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "distribute::gases",
+    "expel::gases"
+  ],
+  "subgroup_keys": [
+    "distribute",
+    "expel"
+  ],
   "source_url": "https://asknature.org/strategy/wetland-plants-get-air-to-waterlogged-roots/",
-  "source_tier": "science_journalism",
   "keywords": [
     "wetland",
     "plants",
@@ -21,7 +24,5 @@
     "waterlogged",
     "roots"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

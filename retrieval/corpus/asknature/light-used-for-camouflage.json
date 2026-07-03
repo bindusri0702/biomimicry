@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-light-used-for-camouflage",
   "organism_common": "Marine hatchetfish",
-  "organism_scientific": "",
   "strategy_summary": "Light emitting organs on the underside of hatchet fish help camouflage them through bioluminescent counterillumination. “Even in ocean depths where sunlight barely penetrates, the faint silhouette that a fish throws to predators beneath it in the water column can make it an easy target.",
   "mechanism": "Light emitting organs on the underside of hatchet fish help camouflage them through bioluminescent counterillumination.\n\n“Even in ocean depths where sunlight barely penetrates, the faint silhouette that a fish throws to predators beneath it in the water column can make it an easy target. Accordingly, many fish, crustaceans and squid have developed bioluminescent ‘counterillumination’ abilities. Light-emitting organs called photophores line their undersides. These creatures can adjust the light output of these organs to match the light their eyes receive from above to help eliminate their shadows. The hatchetfish … is one such species equipped with an underbody that lights up to camouflage it from hungry eyes below.” (Hadhazy 2009)",
   "function_addressed": [
@@ -10,17 +9,23 @@
     "transform radiant energy (light)",
     "protect from animals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "modify-physical-state::light-color",
+    "protect-from-living-threats::animals",
+    "send-signals::light-visible-spectrum",
+    "transform-convert-energy::radiant-energy-light"
+  ],
+  "subgroup_keys": [
+    "modify-physical-state",
+    "protect-from-living-threats",
+    "send-signals",
+    "transform-convert-energy"
+  ],
   "source_url": "https://asknature.org/strategy/light-used-for-camouflage/",
-  "source_tier": "science_journalism",
   "keywords": [
     "light",
     "used",
     "camouflage"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

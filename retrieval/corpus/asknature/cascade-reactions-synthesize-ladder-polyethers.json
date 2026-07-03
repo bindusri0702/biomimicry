@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-cascade-reactions-synthesize-ladder-polyethers",
   "organism_common": "Dinoflagellates",
-  "organism_scientific": "",
   "strategy_summary": "The red algae dinoflagellate, Karenia brevis, converts a chain of epoxide rings into compounds with a repeating ladder-like design using water as a promoter. Ladder polyethers are organic chemicals with repeating units joined together by bonds that form a ladder-like configuration.",
-  "mechanism": "The red algae dinoflagellate, Karenia brevis, converts a chain of epoxide rings into compounds with a repeating ladder-like design using water as a promoter.\n\nLadder polyethers are organic chemicals with repeating units joined together by bonds that form a ladder-like configuration. They are difficult to artificially synthesize in quantity because the epoxide opening reactions that theoretically produce them tend to favor the formation of small, five-membered rings rather than the desired six-membered rings. To overcome this problem, chemists bond “directing-groups” to each and every epoxide unit which then must be removed by later reactions in many cases. This process creates low yields of ladder polyethers, generates relatively large amounts of chemical waste, and requires toxic solvents and chemicals. The dinoflagellate Karenia brevis produce large quantities of ladder polyethers called brevetoxins which produce the notorius marine die-offs associated with red tide blooms. It does so using water-based cascade reactions. It is likely that K. brevis first synthesizes template epoxy alchohols which then direct the formation of the desired six-member ring constituents of the ladder. An epoxide opening cascade reaction results, in which more six-member rings are added to the nascent ladder; the rate of the reaction is not affected by the number of rings already bound in the ladder. Moreover, these reactions proceed most favorably in water at a near-netural pH.\n\nLadder polyether synthesis. Artist: V8rik; Wikipedia.\n\nImage: V8rik / toggle icon Image: eutrophication&hypoxia / toggle icon right arrow right arrow",
+  "mechanism": "The red algae dinoflagellate, Karenia brevis, converts a chain of epoxide rings into compounds with a repeating ladder-like design using water as a promoter.\n\nLadder polyethers are organic chemicals with repeating units joined together by bonds that form a ladder-like configuration. They are difficult to artificially synthesize in quantity because the epoxide opening reactions that theoretically produce them tend to favor the formation of small, five-membered rings rather than the desired six-membered rings. To overcome this problem, chemists bond “directing-groups” to each and every epoxide unit which then must be removed by later reactions in many cases. This process creates low yields of ladder polyethers, generates relatively large amounts of chemical waste, and requires toxic solvents and chemicals. The dinoflagellate Karenia brevis produce large quantities of ladder polyethers called brevetoxins which produce the notorius marine die-offs associated with red tide blooms. It does so using water-based cascade reactions. It is likely that K. brevis first synthesizes template epoxy alchohols which then direct the formation of the desired six-member ring constituents of the ladder. An epoxide opening cascade reaction results, in which more six-member rings are added to the nascent ladder; the rate of the reaction is not affected by the number of rings already bound in the ladder. Moreover, these reactions proceed most favorably in water at a near-netural pH.\n\nLadder polyether synthesis. Artist: V8rik; Wikipedia.",
   "function_addressed": [
     "catalyze chemical breakdown"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::catalyze-breaking-of-bonds"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/cascade-reactions-synthesize-ladder-polyethers/",
-  "source_tier": "science_journalism",
   "keywords": [
     "cascade",
     "reactions",
@@ -19,7 +20,5 @@
     "ladder",
     "polyethers"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

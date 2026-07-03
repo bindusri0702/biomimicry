@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-spinning-makes-safe-dive",
   "organism_common": "Northern gannet",
-  "organism_scientific": "",
   "strategy_summary": "The body of a diving gannet enters the water safely at high speeds by spinning. “Depending on the altitude of the attack and on the wing effort during the first phase of the nosedive, gannets hit the water with speeds of 40-120 kilometers per hour… How does the gannet avoid veering off course and tumbling over during…",
   "mechanism": "The body of a diving gannet enters the water safely at high speeds by spinning.\n\n“Depending on the altitude of the attack and on the wing effort during the first phase of the nosedive, gannets hit the water with speeds of 40-120 kilometers per hour… How does the gannet avoid veering off course and tumbling over during the dive and the dangerous moment of penetration? At 100 km/h, a slight gust, one wrong move, or rough seas could seal its fate. The secret was revealed by slow-motion photography: While diving, the gannet puts itself into a spin with a deliberate tail movement. The spin increases toward the point of impact as the bird lays back its wings like a figure skater bringing her arms close to her body. In a fast dive, this movement usually turns the body once or twice around its axis, acting like a gyroscopic stabilizer in a rocket. In the language of physics, the bird is kept on course by the conservation of angular momentum. This elegant mechanical stabilization notwithstanding, the moment of impact on the water surface is critical because of the powerful forces involved. But the gannet has been well primed by nature for this moment. Its body can stretch into an ideally streamlined spindle. Any unevenness about the head is eliminated. At the moment of immersion, the gannet draws in its neck slightly so that the pointed beak and the flat top of the head form a straight continuous line with the body, creating a cone which combines low resistance with high stability. The maze of air cells between the skin and the muscles, directly or indirectly connected with the lungs, receive and distribute whatever pressures occur.” (Tributsch 1984: 88-89)\n\nWatch gannets diving in this clip from the BBC program Nature's Great Events w/ David Attenborough",
   "function_addressed": [
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/spinning-makes-safe-dive/",
-  "source_tier": "science_journalism",
   "keywords": [
     "spinning",
     "makes",
     "safe",
     "dive"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

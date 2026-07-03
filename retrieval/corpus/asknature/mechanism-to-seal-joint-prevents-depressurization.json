@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-mechanism-to-seal-joint-prevents-depressurization",
   "organism_common": "Regulate Cellular Processes",
-  "organism_scientific": "",
   "strategy_summary": "The legs of spiders are protected from depressurization when damaged via a joint sealing mechanism. “One particular hydraulic device is worth a little more attention here, partly because its existence comes as yet another surprise and partly because it achieves antagonism for contractile muscle in an unusual way.",
   "mechanism": "The legs of spiders are protected from depressurization when damaged via a joint sealing mechanism.\n\n“One particular hydraulic device is worth a little more attention here, partly because its existence comes as yet another surprise and partly because it achieves antagonism for contractile muscle in an unusual way. The eight legs of a spider differ little from the six of an insect, but a curious special feature of spider legs has been known for almost a century. While properly equipped with flexor muscles (ones that decrease the angle between one segment and another), they lack the antagonistic extensor muscles (ones that increase that angle toward 180 degrees). Biologists casually assumed that elasticity of the interarticular membranes provided the antagonistic force, not on the face of it an unreasonable idea. But Ellis (1944) remembered that spiders die with legs severely flexed. If elasticity did the extension, they would more likely die with legs extended or at least not so flexed–as do insects. He found that cutting off the tip of a leg prevented re-extenson until the tip was resealed; and he found that mild exsanguination reduced a spider’s ability to extend any of its legs. He suggested that extension in spider legs was hydraulic, not muscular or elastic. The idea was confirmed by Parry and Brown (1959), who measured resting pressures of 6.6 kilopascals and transient pressures of up to 60 kilopascals (over half an atmosphere) in spider legs. An isolated leg could lift more weight as the pressure inside it was increased, and the spiders turned out to have a special mechanism to seal off a joint that prevented fatal depressurization when a leg was lost.” (Vogel 2003:421)\n\nVogel S. Comparative Biomechanics: Life’s Physical World. Princeton: Princeton University Press; 2003. 580 p.",
   "function_addressed": [
@@ -9,11 +8,17 @@
     "protect from loss of liquids",
     "manage tension"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::tension",
+    "protect-from-non-living-threats::loss-of-liquids",
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/mechanism-to-seal-joint-prevents-depressurization/",
-  "source_tier": "science_journalism",
   "keywords": [
     "mechanism",
     "seal",
@@ -21,7 +26,5 @@
     "prevents",
     "depressurization"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

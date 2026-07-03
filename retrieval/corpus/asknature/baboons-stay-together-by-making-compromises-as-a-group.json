@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-baboons-stay-together-by-making-compromises-as-a-group",
   "organism_common": "Baboons",
-  "organism_scientific": "",
   "strategy_summary": "Baboons stay together through distributed decision-making and compromise  Olive baboon troops travel together in large groups as they forage for food, and they tend to follow one another as they move across the land. The troops consist of dominant males and females that make many of the troop’s decisions.",
   "mechanism": "Baboons stay together through distributed decision-making and compromise\n\nOlive baboon troops travel together in large groups as they forage for food, and they tend to follow one another as they move across the land. The troops consist of dominant males and females that make many of the troop’s decisions. Sometimes one baboon will be interested in fruit in one area, while another baboon may be interested in eating some leaves in another area. Because they must always stay together, how do baboons decide as a group which baboon to follow? Interestingly, these dominant individuals don’t determine the direction the troop forages in. Instead, the troop’s direction is shaped moment to moment by a set of simple rules.\n\nIf two leading baboons are heading in different directions, a follower baboon has to make a choice. Does it follow one of the leaders, or go in its own direction? It turns out that it depends on how far apart the two leading baboons are. Imagine there is an angle created between the two leading baboons and the follower. The leading baboons are the two points at the ends of the lines that make up the angle, and the follower is the vertex, or point where the two lines intersect. If the angle created between the three baboons is greater than 90 degrees, the follower baboon follows one of the leaders. If the angle is less than 90 degrees, the follower baboon moves in between the two baboons so that it splits the difference between them.\n\nHence, the movement of baboons through their environment is a continuous compromise. The group may not go where any one individual would choose, but each individual can shape, and be shaped by, the group’s direction. Most importantly, this system of internalized decision-making rules keeps the group’s many individuals together.\n\nOlive baboon troop\n\nOlive baboon foraging",
   "function_addressed": [
     "coordinate by self-organization"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "coordinate::by-self-organization"
+  ],
+  "subgroup_keys": [
+    "coordinate"
+  ],
   "source_url": "https://asknature.org/strategy/baboons-stay-together-by-making-compromises-as-a-group/",
-  "source_tier": "science_journalism",
   "keywords": [
     "baboons",
     "stay",
@@ -20,7 +21,5 @@
     "compromises",
     "group"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

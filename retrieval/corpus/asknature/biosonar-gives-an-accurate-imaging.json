@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-biosonar-gives-an-accurate-imaging",
   "organism_common": "Send Sound Signals",
-  "organism_scientific": "",
   "strategy_summary": "High resolution biosonar of dolphins, bats and mole rats gives an accurate imaging by using real-time data processing. “Biosonar animals send ultrasonic sounds called ‘pings’ into the environment.",
   "mechanism": "High resolution biosonar of dolphins, bats and mole rats gives an accurate imaging by using real-time data processing.\n\n“Biosonar animals send ultrasonic sounds called ‘pings’ into the environment. The shape of the returning signals, or echoes, determines how these animals ‘see’ their surroundings, helping them to navigate or hunt for prey. In a matter of tens of milliseconds, the neurons in the animal’s brain are capable of a full-scale analysis of their surroundings represented in three dimensions, with little energy consumption. Even with the aid of a supercomputer, which consumes thousands of times more energy, humans cannot produce such an accurate picture, Prof. Intrator says…’Animals explore pings with multiple filters or receptive fields, and we have demonstrated that exploring each ping in multiple ways can lead to higher accuracy,’ he explains. ‘By understanding sonar animals, we can create a new family of ultrasound systems that will be able to explore our bodies with more accurate medical imaging.'” (Hunka 2011:1)",
   "function_addressed": [
     "send sound signals"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "send-signals::sound"
+  ],
+  "subgroup_keys": [
+    "send-signals"
+  ],
   "source_url": "https://asknature.org/strategy/biosonar-gives-an-accurate-imaging/",
-  "source_tier": "science_journalism",
   "keywords": [
     "biosonar",
     "gives",
     "accurate",
     "imaging"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

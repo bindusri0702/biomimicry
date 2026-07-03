@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-organism-digests-blood",
   "organism_common": "Hookworm",
-  "organism_scientific": "",
-  "strategy_summary": "Hookworms digest blood using a cascade of proteases. Image: CDC - Department of Parasitic Diseases / toggle icon right arrow right arrow  “Bloodsucking hookworms parasitize 700 million people worldwide, and are responsible for a daily blood loss equivalent to the total blood supply of more than a million people.”…",
-  "mechanism": "Hookworms digest blood using a cascade of proteases.\n\nImage: CDC - Department of Parasitic Diseases / toggle icon right arrow right arrow\n\n“Bloodsucking hookworms parasitize 700 million people worldwide, and are responsible for a daily blood loss equivalent to the total blood supply of more than a million people.” (Shuker 2001:167)\n\n“Hookworms are blood-feeding nematodes that reside in the small intestine of infected mammalian hosts (12)…To obtain an unimpeded blood meal, hookworms secrete potent anticoagulants, the actions of which have been well characterized (15, 16). Once blood is ingested by adult hookworms, they lyse erythrocytes using a pore-forming, membrane-bound hemolysin (17), releasing the red cell contents into the intestinal lumen for proteolytic degradation. The pH of the hookworm intestine is not definitively known; however, it is presumed to be acidic in nature (18). All of the proteases identified from this anatomic site have acidic pH optima (19–21); Hb digestion by hookworm secretory extracts is optimal at pH 5–7 (22). Moreover, the intestinal contents from the related blood-feeding helminth, Schistosoma mansoni , are acidic pH (11)…Here we show that the canine hookworm digests Hb in a semi-ordered cascade that consists of at least aspartic, cysteine, and metalloproteases, which act in synergy at acidic pH. The classes of proteases involved and the order of their actions are strikingly similar to those used by P. falciparum to digest Hb in the food vacuole.” (Williamson et al. 2004:35950-35951)",
+  "strategy_summary": "Hookworms digest blood using a cascade of proteases. “Bloodsucking hookworms parasitize 700 million people worldwide, and are responsible for a daily blood loss equivalent to the total blood supply of more than a million people.” (Shuker 2001:167)  “Hookworms are blood-feeding nematodes that reside in the small…",
+  "mechanism": "Hookworms digest blood using a cascade of proteases.\n\n“Bloodsucking hookworms parasitize 700 million people worldwide, and are responsible for a daily blood loss equivalent to the total blood supply of more than a million people.” (Shuker 2001:167)\n\n“Hookworms are blood-feeding nematodes that reside in the small intestine of infected mammalian hosts (12)…To obtain an unimpeded blood meal, hookworms secrete potent anticoagulants, the actions of which have been well characterized (15, 16). Once blood is ingested by adult hookworms, they lyse erythrocytes using a pore-forming, membrane-bound hemolysin (17), releasing the red cell contents into the intestinal lumen for proteolytic degradation. The pH of the hookworm intestine is not definitively known; however, it is presumed to be acidic in nature (18). All of the proteases identified from this anatomic site have acidic pH optima (19–21); Hb digestion by hookworm secretory extracts is optimal at pH 5–7 (22). Moreover, the intestinal contents from the related blood-feeding helminth, Schistosoma mansoni, are acidic pH (11)…Here we show that the canine hookworm digests Hb in a semi-ordered cascade that consists of at least aspartic, cysteine, and metalloproteases, which act in synergy at acidic pH. The classes of proteases involved and the order of their actions are strikingly similar to those used by P. falciparum to digest Hb in the food vacuole.” (Williamson et al. 2004:35950-35951)",
   "function_addressed": [
     "chemically break down organic compounds"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "chemically-break-down::organic-compounds"
+  ],
+  "subgroup_keys": [
+    "chemically-break-down"
+  ],
   "source_url": "https://asknature.org/strategy/organism-digests-blood/",
-  "source_tier": "science_journalism",
   "keywords": [
     "organism",
     "digests",
     "blood"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

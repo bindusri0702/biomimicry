@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-shell-microstructure-protects-from-compression",
   "organism_common": "Queen conch",
-  "organism_scientific": "",
   "strategy_summary": "The shell of the conch survives compression and three-point bending due to lath-like aragonite crystals that form a microlayer. The conch shell is known for its highly organized shape, but it is not the organization alone that makes these special animals.",
   "mechanism": "The shell of the conch survives compression and three-point bending due to lath-like aragonite crystals that form a microlayer.\n\nThe conch shell is known for its highly organized shape, but it is not the organization alone that makes these special animals. The shell of a conch has a microstructure made up of a cross-lamellar matrix consisting of lath-like aragonite crystals. It is this structure that creates the hard shell and provides such strong mechanical responses for a shell under compressive forces. In a sea full of predators this shell provides the animal with its only protection. Such unique design would prove useful for materials used in high impact or high compressive situations.\n\nIn this historic engraving, the shell appears left-right reversed because of the printmaking process.\n\nA queen conch peeks out from under it's periphyton encrusted shell.",
   "function_addressed": [
     "prevent buckling",
     "prevent deformation"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "prevent-structural-failure::buckling",
+    "prevent-structural-failure::deformation"
+  ],
+  "subgroup_keys": [
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/shell-microstructure-protects-from-compression/",
-  "source_tier": "science_journalism",
   "keywords": [
     "shell",
     "microstructure",
     "protects",
     "compression"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

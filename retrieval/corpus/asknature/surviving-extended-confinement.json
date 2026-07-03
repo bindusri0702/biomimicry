@@ -1,24 +1,25 @@
 {
   "doc_id": "asn-surviving-extended-confinement",
   "organism_common": "African lungfishes",
-  "organism_scientific": "",
   "strategy_summary": "Lungfish survive long periods in burrows without food by partially digesting their own muscles, called autophagy. “During estivation, the lungfish’s metabolic activity falls markedly, as in true hibernation, helping it survive longer.",
   "mechanism": "Lungfish survive long periods in burrows without food by partially digesting their own muscles, called autophagy.\n\n“During estivation, the lungfish’s metabolic activity falls markedly, as in true hibernation, helping it survive longer. The lungfish also relies on certain physiological specializations in order to survive what can be a very prolonged period of physical confinement within its cocoon. Unable to obtain food, it derives its energy instead via a process of auto-cannibalism — known as autophagy — whereby it actively digests portions of its own body tissues — in particular its muscles.” (Shuker 2001:105)",
   "function_addressed": [
     "capture, absorb, or filter energy",
     "regulate cellular processes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::energy",
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/surviving-extended-confinement/",
-  "source_tier": "science_journalism",
   "keywords": [
     "surviving",
     "extended",
     "confinement"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

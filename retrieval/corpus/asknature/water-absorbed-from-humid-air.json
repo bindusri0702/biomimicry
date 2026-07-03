@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-water-absorbed-from-humid-air",
   "organism_common": "Tropical dog tick",
-  "organism_scientific": "",
   "strategy_summary": "The mouths of ticks absorb water vapor from the atmosphere by secreting a hydrophilic solution. “The ability to absorb water vapor from the atmosphere enables ticks to survive without drinking water for many months.",
   "mechanism": "The mouths of ticks absorb water vapor from the atmosphere by secreting a hydrophilic solution.\n\n“The ability to absorb water vapor from the atmosphere enables ticks to survive without drinking water for many months. The tick rehydrates using a three-stage process. First, it uses its foremost pair of legs to detect microregions of high humidity, such as those surrounding water droplets. Once a suitable water source is detected, the tick secretes a hydrophilic solution from its mouth. Once it is saturated, the tick draws the now hydrated secretion back into its mouth. The secretion is a hygroscopic salt solution. Once ejected from the mouth, the solution dries at low ambient humidities, leaving a crystalline substance behind. When the humidity increases, the hydrophilic crystalline substance dissolves and is swallowed back into the body of the tick. The adaptation allows exophilic ticks to absorb water vapor from close to saturation down to 43% relative humidity. Mites and soil-dwelling arachnids use a similar mechanism to absorb water vapor. This strategy might inspire innovation in the development of desiccants, building envelope design, and HVAC engineering.” (Biomimicry Guild unpublished report)\n\nClose-up of the mouth parts of the brown dog tick showing secretion. When humidity rises above 41%, the hydrophilic secretion absorbs the moisture and is drawn back into the tick.\n\n“The salivary gland s are the organs of osmoregulation in ticks and, as such, are critical to the biological success of ticks both during the extended period off the host and also during the feeding period on the host. Absorption of water vapour from unsaturated air into hygroscopic fluid produced by the salivary glands permit the tick to remain hydrated and viable during the many months between blood-meals. When feeding, the tick is able to return about 70% of the fluid and ion content of the blood-meal into the host by salivation into the feeding site. This saliva also contains many bioactive protein and lipid components that aid acquisition of the blood-meal. The salivary glands are the site of pathogen development and the saliva the route of transmission. The importance of the multifunctional salivary glands to tick survival and vector competency makes the glands a potential target for intervention.” (Bowman and Sauer 2004:S67)",
   "function_addressed": [
     "capture, absorb, or filter liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/water-absorbed-from-humid-air/",
-  "source_tier": "science_journalism",
   "keywords": [
     "water",
     "absorbed",
     "humid",
     "air"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

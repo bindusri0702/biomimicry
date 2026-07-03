@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-dietary-choices-fight-oxidative-stress",
   "organism_common": "Hermit thrush",
-  "organism_scientific": "",
   "strategy_summary": "Migratory songbirds prepare for long flights by eating berries rich in antioxidants. “Bug-chomping songbirds have been discovered doing something remarkable before migrating south for the winter: They switch, awkwardly, to berries rich in antioxidants.",
   "mechanism": "Migratory songbirds prepare for long flights by eating berries rich in antioxidants.\n\n“Bug-chomping songbirds have been discovered doing something remarkable before migrating south for the winter: They switch, awkwardly, to berries rich in antioxidants.\n\n“The dietary change has less to do with fattening up and more to do with stocking up on nutrients to help their bodies deal with the stresses of migration, say researchers.” (O’Hanlon 2010)",
   "function_addressed": [
     "regulate cellular processes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/dietary-choices-fight-oxidative-stress/",
-  "source_tier": "science_journalism",
   "keywords": [
     "dietary",
     "choices",
@@ -19,7 +20,5 @@
     "oxidative",
     "stress"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

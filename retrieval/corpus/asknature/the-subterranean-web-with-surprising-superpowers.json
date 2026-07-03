@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-the-subterranean-web-with-surprising-superpowers",
   "organism_common": "Fungi",
-  "organism_scientific": "",
   "strategy_summary": "Pick up a handful of soil. At first glance, it might seem simply like a lot of brown stuff.",
   "mechanism": "Fungi grow from spores just as plants grow from seeds. When a spore sprouts, it puts out a microscopic rootlike structure called a hypha. As it grows, the hypha branches, eventually creating a network of tube-shaped threads called mycelium that can stretch for miles underground, fusing with other hyphae to create a dense web.\n\nEach thread consists of several types of chemicals. On the inside are proteins and chitin fibers held together with sugars that provide mechanical rigidity and strength. On the outside, beta-glucans form a gel-like material that give flexibility and expandability. In which direction the fibers grow and how dense the network becomes depends on the physical and chemical traits of the environment as well as the food available within it.\n\nThe combination of the materials that make up individual hyphae and the structure of the mycelium as a whole, composed of both fibers and the spaces between them, give the overall material some highly desirable traits. It is at the same time strong and flexible. It can be compressed and bounce back. It slows the spread of heat and sound. And because the shape of the space and amount of food available influence the degree and direction the hyphae grow, a mycelium mat can take a variety of shapes and density characteristics.\n\nMycelium provides inspiration for making lightweight containers, construction panels, furniture, clothing, and other objects with a wide range of beneficial traits such as padding, durability, thermal insulation, soundproofing, and the ability to wick moisture.\n\nIn addition to serving as a source of inspiration, mycelium can be produced and used as a raw material itself. Because it is organic, mycelium made by fungi offers additional benefits. It can be produced from waste materials. It is biodegradable. And when it burns it doesn’t produce harmful gases as do plastics and other manmade materials.",
   "function_addressed": [
@@ -9,18 +8,21 @@
     "manage mechanical wear",
     "prevent deformation"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "manage-structural-forces::compression",
+    "prevent-structural-failure::deformation",
+    "prevent-structural-failure::mechanical-wear"
+  ],
+  "subgroup_keys": [
+    "manage-structural-forces",
+    "prevent-structural-failure"
+  ],
   "source_url": "https://asknature.org/strategy/the-subterranean-web-with-surprising-superpowers/",
-  "source_tier": "science_journalism",
   "keywords": [
     "subterranean",
     "substance",
     "surprising",
     "superpowers"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

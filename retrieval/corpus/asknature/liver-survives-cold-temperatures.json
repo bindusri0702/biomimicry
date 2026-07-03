@@ -1,25 +1,26 @@
 {
   "doc_id": "asn-liver-survives-cold-temperatures",
   "organism_common": "Squirrels",
-  "organism_scientific": "",
   "strategy_summary": "Livers of squirrels survive cold temperatures during hibernation by maintaining microcirculation. “Close investigation of hibernating states is giving scientists new insight into animal physiology and, as a bonus, human health and disease as well…Organ transplant.",
   "mechanism": "Livers of squirrels survive cold temperatures during hibernation by maintaining microcirculation.\n\n“Close investigation of hibernating states is giving scientists new insight into animal physiology and, as a bonus, human health and disease as well…Organ transplant. Harvested human organs kept at cold temperatures can only remain viable for a few days at most. So, how do squirrels’ liver s and intestines stay perfectly healthy at less than 40 degrees Fahrenheit for weeks on end? In one study, ‘we found that [hibernating] squirrels maintain, in a much healthier state, the microcirculation of the liver,’ Carey said [Hannah Carey, a professor in the School of Veterinary Medicine at the University of Wisconsin-Madison]. Insights into just how this happens could increase the viability and number of human organs available for transplant, she said.” (Mundell 2007)",
   "function_addressed": [
     "maintain homeostasis",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/liver-survives-cold-temperatures/",
-  "source_tier": "science_journalism",
   "keywords": [
     "liver",
     "survives",
     "cold",
     "temperatures"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,22 +1,19 @@
 {
   "doc_id": "asn-probing-for-food",
   "organism_common": "Copperband butterflyfish",
-  "organism_scientific": "",
   "strategy_summary": "The snout of the copperband butterfly fish probes for food in the crevices thanks to its tubular shape and bristle-like teeth. “Mouths tend to be adapted to suit the diet of their owners.",
   "mechanism": "The snout of the copperband butterfly fish probes for food in the crevices thanks to its tubular shape and bristle-like teeth.\n\n“Mouths tend to be adapted to suit the diet of their owners. The copperband butterfly fish (right) lives in coral reefs and has a long tubular snout for probing into nooks and crannies in the reef in search of food, armed with fine bristle-like teeth for delicately extracting small animals from the bottom of crevices.” (Foy and Oxford Scientific Films 1982:139)",
   "function_addressed": [
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [],
+  "subgroup_keys": [
+    "capture-absorb-or-filter"
+  ],
   "source_url": "https://asknature.org/strategy/probing-for-food/",
-  "source_tier": "science_journalism",
   "keywords": [
     "probing",
     "food"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

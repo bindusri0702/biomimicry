@@ -1,23 +1,22 @@
 {
   "doc_id": "asn-leaf-surfaces-are-hydrophobic",
   "organism_common": "Hairy lady's mantle",
-  "organism_scientific": "",
   "strategy_summary": "The leaves of the Lady's mantle plant have a hydrophobic surface due to dense hairs. “Ulrike Mock and others from the University of Freiburg report on efforts to mimic the wetting behaviour of surfaces or leaves of certain plants, especially the lady’s mantle ( Alchemilla vulgaris L.) [ Alchemilla monticola ], which…",
-  "mechanism": "The leaves of the Lady's mantle plant have a hydrophobic surface due to dense hairs.\n\n“Ulrike Mock and others from the University of Freiburg report on efforts to mimic the wetting behaviour of surfaces or leaves of certain plants, especially the lady’s mantle ( Alchemilla vulgaris L.) [ Alchemilla monticola ], which are rendered ultrahydrophobic through a dense layer of hairs grown on top of the leaf.” (Courtesy of the Biomimicry Guild)\n\n“Recent studies showed that the most crucial criterion [for achieving the ‘Lotus Effect’] mainly relies on roughening the surface into multiple length scales of roughness so that liquid droplets can be retained in the Cassie-Baxter state, where air pockets are trapped underneath the liquid, reducing the solid-liquid interface. These hierarchically structured surfaces have been fabricated through various routes and demonstrated to have superhydrophobic properties as well. This amazing water-repellent property is also found in other biological systems comprising a plurality of flexible hairs, and some of them have been recognized for over 100 years. Fuzzy leaves, such as the Lady’s Mantle, cause water droplets to form perfect spheres and allow them to roll off easily as a result of being lifted and suspended by coming into contact with the hairs. In the animal kingdom, this piliferous exterior plays a more crucial role for numerous living creatures not only to effectively protect their bodies from getting wet but also to provide various functions for their living activity. These hairs protrude several micrometers from their cuticles, typically inclined at certain angles, with diameters in the micrometer to submicrometer range. These structures can resist the impact of raindrops, allow locomotion on the surface of water, or even trap a layer of air for respiration when submerged. Some arthropods have been shown to have contact angles above 150 o , which allows them to walk on water.” (Hsu and Sigmund 2010:1504)",
+  "mechanism": "The leaves of the Lady's mantle plant have a hydrophobic surface due to dense hairs.\n\n“Ulrike Mock and others from the University of Freiburg report on efforts to mimic the wetting behaviour of surfaces or leaves of certain plants, especially the lady’s mantle ( Alchemilla vulgaris L.) [ Alchemilla monticola ], which are rendered ultrahydrophobic through a dense layer of hairs grown on top of the leaf.” (Courtesy of the Biomimicry Guild)\n\n“Recent studies showed that the most crucial criterion [for achieving the ‘Lotus Effect’] mainly relies on roughening the surface into multiple length scales of roughness so that liquid droplets can be retained in the Cassie-Baxter state, where air pockets are trapped underneath the liquid, reducing the solid-liquid interface. These hierarchically structured surfaces have been fabricated through various routes and demonstrated to have superhydrophobic properties as well. This amazing water-repellent property is also found in other biological systems comprising a plurality of flexible hairs, and some of them have been recognized for over 100 years. Fuzzy leaves, such as the Lady’s Mantle, cause water droplets to form perfect spheres and allow them to roll off easily as a result of being lifted and suspended by coming into contact with the hairs. In the animal kingdom, this piliferous exterior plays a more crucial role for numerous living creatures not only to effectively protect their bodies from getting wet but also to provide various functions for their living activity. These hairs protrude several micrometers from their cuticles, typically inclined at certain angles, with diameters in the micrometer to submicrometer range. These structures can resist the impact of raindrops, allow locomotion on the surface of water, or even trap a layer of air for respiration when submerged. Some arthropods have been shown to have contact angles above 150 o, which allows them to walk on water.” (Hsu and Sigmund 2010:1504)",
   "function_addressed": [
     "protect from excess liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::excess-liquids"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats"
+  ],
   "source_url": "https://asknature.org/strategy/leaf-surfaces-are-hydrophobic/",
-  "source_tier": "science_journalism",
   "keywords": [
     "leaf",
     "surfaces",
     "hydrophobic"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

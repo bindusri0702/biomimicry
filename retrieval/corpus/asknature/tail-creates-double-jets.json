@@ -1,24 +1,23 @@
 {
   "doc_id": "asn-tail-creates-double-jets",
   "organism_common": "Spiny dogfish",
-  "organism_scientific": "",
   "strategy_summary": "Tail of a shark creates double jets by actively changing the tail's rigidity in mid swing. “[R]esearchers have discovered that as a shark’s tail swings from side to side, it creates twice as many jets of water as other fishes’ tails, smoothing out the thrust and likely making swimming more efficient.",
   "mechanism": "Tail of a shark creates double jets by actively changing the tail's rigidity in mid swing.\n\n“[R]esearchers have discovered that as a shark’s tail swings from side to side, it creates twice as many jets of water as other fishes’ tails, smoothing out the thrust and likely making swimming more efficient. Sharks do this by stiffening the tail midswing, a strategy that might one day be applied to underwater vehicles to improve their performance.” (Pennisi 2011)\n\nAs it moves, a sharks tail (shown) creates two connected rings of moving water (blue and red represent opposing flows) that help make this fish such a powerful swimmer",
   "function_addressed": [
     "move in/on liquids"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "move::in-on-liquids"
+  ],
+  "subgroup_keys": [
+    "move"
+  ],
   "source_url": "https://asknature.org/strategy/tail-creates-double-jets/",
-  "source_tier": "science_journalism",
   "keywords": [
     "tail",
     "creates",
     "double",
     "jets"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

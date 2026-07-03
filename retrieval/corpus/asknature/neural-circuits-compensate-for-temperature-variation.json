@@ -1,18 +1,21 @@
 {
   "doc_id": "asn-neural-circuits-compensate-for-temperature-variation",
   "organism_common": "Jonah crab",
-  "organism_scientific": "",
   "strategy_summary": "The rhythmic neural circuits in cold-blooded animals function in variable temperatures because although their frequency is temperature-dependent, phase is temperature-independent. “The neural circuits that produce behaviors such as walking, chewing, and swimming must be both robust and flexible to changing internal…",
-  "mechanism": "The rhythmic neural circuits in cold-blooded animals function in variable temperatures because although their frequency is temperature-dependent, phase is temperature-independent.\n\n“The neural circuits that produce behaviors such as walking, chewing, and swimming must be both robust and flexible to changing internal and environmental demands. How then do cold-blooded animals cope with temperature fluctuations when the underlying processes that give rise to circuit performance are themselves temperature-dependent? We exploit the crab stomatogastric ganglion to understand the extent to which circuit features are robust to temperature perturbations. We subjected these circuits to temperature ranges they normally encounter in the wild. Interestingly, while the frequency of activity in the network increased 4-fold over these temperature ranges, the relative timing between neurons in the network—termed phase relationships—remained constant. To understand how temperature compensation of phase might occur, we characterized the temperature dependence (Q 10 ‘s) of synapses and membrane currents. We used computational models to show that the experimentally measured Q 10 ‘s can promote phase maintenance. We also showed that many model bursting neurons fail to burst over the entire temperature range and that phase maintenance is promoted by closely restricting the model neurons’ Q 10 ‘s. These results imply that although ion channel numbers can vary between individuals, there may be strong evolutionary pressure that restricts the temperature dependence of the processes that contribute to temperature compensation of neuronal circuits .\n\n“… We speculate that the strong temperature dependence of frequency and temperature-independence of phase may not be unique to the pyloric circuit of the stomatogastric nervous system and may be a useful property to other animals, allowing them to cope with environmental challenges in their natural setting.” (Tang et al. 2010:e1000469)",
+  "mechanism": "The rhythmic neural circuits in cold-blooded animals function in variable temperatures because although their frequency is temperature-dependent, phase is temperature-independent.\n\n“The neural circuits that produce behaviors such as walking, chewing, and swimming must be both robust and flexible to changing internal and environmental demands. How then do cold-blooded animals cope with temperature fluctuations when the underlying processes that give rise to circuit performance are themselves temperature-dependent? We exploit the crab stomatogastric ganglion to understand the extent to which circuit features are robust to temperature perturbations. We subjected these circuits to temperature ranges they normally encounter in the wild. Interestingly, while the frequency of activity in the network increased 4-fold over these temperature ranges, the relative timing between neurons in the network—termed phase relationships—remained constant. To understand how temperature compensation of phase might occur, we characterized the temperature dependence (Q 10 ‘s) of synapses and membrane currents. We used computational models to show that the experimentally measured Q 10 ‘s can promote phase maintenance. We also showed that many model bursting neurons fail to burst over the entire temperature range and that phase maintenance is promoted by closely restricting the model neurons’ Q 10 ‘s. These results imply that although ion channel numbers can vary between individuals, there may be strong evolutionary pressure that restricts the temperature dependence of the processes that contribute to temperature compensation of neuronal circuits.\n\n“… We speculate that the strong temperature dependence of frequency and temperature-independence of phase may not be unique to the pyloric circuit of the stomatogastric nervous system and may be a useful property to other animals, allowing them to cope with environmental challenges in their natural setting.” (Tang et al. 2010:e1000469)",
   "function_addressed": [
     "maintain homeostasis",
     "protect from temperature"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "protect-from-non-living-threats::temperature",
+    "regulate-physiological-processes::maintain-homeostasis"
+  ],
+  "subgroup_keys": [
+    "protect-from-non-living-threats",
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/neural-circuits-compensate-for-temperature-variation/",
-  "source_tier": "science_journalism",
   "keywords": [
     "neural",
     "circuits",
@@ -20,7 +23,5 @@
     "temperature",
     "variation"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

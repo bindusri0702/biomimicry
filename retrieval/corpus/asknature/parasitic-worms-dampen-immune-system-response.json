@@ -1,17 +1,18 @@
 {
   "doc_id": "asn-parasitic-worms-dampen-immune-system-response",
   "organism_common": "Parasitic worms",
-  "organism_scientific": "",
   "strategy_summary": "Infestation of humans by parasitic worms (helminths) induces a dampened immunological response in human beings. “Helminths are parasitic animals [worms] that have [co-]evolved over 100,000,000 years to live in the intestinal track or other locations of their hosts.",
   "mechanism": "Infestation of humans by parasitic worms (helminths) induces a dampened immunological response in human beings.\n\n“Helminths are parasitic animals [worms] that have [co-]evolved over 100,000,000 years to live in the intestinal track or other locations of their hosts. Colonization of humans with these organisms was nearly universal until the early 20th century. More than 1,000,000,000 people in less developed countries carry helminths even today. Helminths must quell their host’s immune system to successfully colonize. It is likely that helminths sense hostile changes in the local host environment and take action to control such responses. Inflammatory bowel disease (IBD) probably results from an inappropriately vigorous immune response to contents of the intestinal lumen. Environmental factors strongly affect the risk for IBD. People living in less developed countries are protected from IBD. The ‘IBD hygiene hypothesis’ states that raising children in extremely hygienic environments negatively affects immune development, which predisposes them to immunological diseases like IBD [also allergies, asthma, etc] later in life. Modern day absence of exposure to intestinal helminths appears to be an important environmental factor contributing to development of these illnesses. Helminths interact with both host innate and adoptive immunity to stimulate immune regulatory circuitry and to dampen effector pathways that drive aberrant inflammation. The first prototype worm therapies [aka ‘helminthic therapy’] directed against immunological diseases are now under study in the United States and various countries around the world.” (Weinstock and Elliott 2009:128)",
   "function_addressed": [
     "regulate cellular processes"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "regulate-physiological-processes::cellular-processes"
+  ],
+  "subgroup_keys": [
+    "regulate-physiological-processes"
+  ],
   "source_url": "https://asknature.org/strategy/parasitic-worms-dampen-immune-system-response/",
-  "source_tier": "science_journalism",
   "keywords": [
     "parasitic",
     "worms",
@@ -20,7 +21,5 @@
     "system",
     "response"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,7 +1,6 @@
 {
   "doc_id": "asn-catch-bonds-hold-on-tighter-when-pulled-apart",
   "organism_common": "Salmonella",
-  "organism_scientific": "",
   "strategy_summary": "Salmonella bacteria grip their host more tenaciously when pulled apart because complex adhesive proteins change their structure as stronger force is applied. Pathogens must adhere to host tissue in order to survive and reproduce.",
   "mechanism": "Salmonella bacteria grip their host more tenaciously when pulled apart because complex adhesive proteins change their structure as stronger force is applied.\n\nPathogens must adhere to host tissue in order to survive and reproduce. They produce many adhesive protein s on their surface most of which exhibit slip-bond type binding with host compounds; in other words, the bonds slip and let go when pulled apart. Salmonella bacteria have evolved special binding proteins that exhibit catch-bond type adhesion to host cells—these bonds actually become stronger when pulled apart, up to a certain threshold. FimH is one of Salmonella’s multi-domain adhesive proteins. The binding domain is a lectin pocket that binds to mannose on the surface of the host cell. This domain is linked to another part of the adhesive protein (a long pilin domain) which anchors FimH to the bacteria. When the bonds between the bacteria and its host are pulled apart by weak forces, the pilin domain holds tightly to the binding domain which in turn binds mannose with low force. But when the bonds between the bacteria and its host are pulled apart by stonger forces, the pilin domain is stretched away from the binding domain causing the structure of the binding pocket to shift so that it binds mannose with 100 times more force. In short, strong mechanical forces pull a binding inhibitor away from the binding domain increasing adhesion: a catch-bond. There is an optimum range within which catch-bonding occurs; when that range is exceeded, catch-bonds revert to slip-bonds.\n\nA cartoon of a mechanically activated protein called FimH in front of an electron micrograph of a bacteria, on which FimH is expressed.\n\nA cartoon of a mechanically activated protein called FimH in front of an electron micrograph of a bacteria, on which FimH is expressed.",
   "function_addressed": [
@@ -9,11 +8,16 @@
     "manage tension",
     "manage shear"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::temporarily",
+    "manage-structural-forces::shear",
+    "manage-structural-forces::tension"
+  ],
+  "subgroup_keys": [
+    "attach",
+    "manage-structural-forces"
+  ],
   "source_url": "https://asknature.org/strategy/catch-bonds-hold-on-tighter-when-pulled-apart/",
-  "source_tier": "science_journalism",
   "keywords": [
     "catch-bonds",
     "hold",
@@ -22,7 +26,5 @@
     "pulled",
     "apart"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

@@ -1,9 +1,8 @@
 {
   "doc_id": "asn-filters-prevent-clogging",
   "organism_common": "Basking shark",
-  "organism_scientific": "",
   "strategy_summary": "A basking shark ( Cetorhinus maximus ) swims through ocean waters off the coast of Great Britain, holding its massive mouth wide open. Seawater—and millions of microscopic animals—flow into the gape, which is big enough to engulf a yoga ball.",
-  "mechanism": "When a filter-feeding fish opens its mouth, microorganism-laden water flows in. Instead of moving directly through the gills, though, most of the water flows parallel to them. The gills’ main structure is a series of hard, rib-like arches, which bear rows of smaller protruding spines called gill rakers. Together, these structures form a series of grooves with porous bottoms. The grooves are like alleys coming off the main path that water takes as it flows toward the back of the fish’s mouth. The water that interacts with the grooves gets redirected into them and exits the oral cavity through the porous gill rakers. If the main flow of the water were going directly through the gills, eventually the rakers would become clogged with particles. Since the mainstream flow is perpendicular to the gill alleys, it lifts and transports most of the filtered food particles toward the throat.\n\nEven this kind of crossflow filter can clog over time though. In some fish, like the basking shark and the paddlefish ( Polyodon spathula ), a second mechanism appears to prevent clogging further.\n\nThe basking shark’s and paddlefish’s ability to keep their food filters free of clogs could be used to design and maintain self-cleaning filtering mechanisms for countless applications, from removing dust from the air in our homes to providing clean cooling water for nuclear power plants. It might also be used to separate different types of cells from each other for biomedical research or therapeutic use, or for sorting and handling nanoparticles in industrial applications.",
+  "mechanism": "When a filter-feeding fish opens its mouth, microorganism-laden water flows in. Instead of moving directly through the gills, though, most of the water flows parallel to them. The gills’ main structure is a series of hard, rib-like arches, which bear rows of smaller protruding spines called gill rakers. Together, these structures form a series of grooves with porous bottoms. The grooves are like alleys coming off the main path that water takes as it flows toward the back of the fish’s mouth. The water that interacts with the grooves gets redirected into them and exits the oral cavity through the porous gill rakers. If the main flow of the water were going directly through the gills, eventually the rakers would become clogged with particles. Since the mainstream flow is perpendicular to the gill alleys, it lifts and transports most of the filtered food particles toward the throat.\n\nEven this kind of crossflow filter can clog over time though. In some fish, like the basking shark and the paddlefish ( Polyodon spathula ), a second mechanism appears to prevent clogging further.\n\nIn these fish, each gill arch has a long protruding fin that creates especially deep grooves between them. As water flows across the edge of the gill arch, some of it is pulled down into the groove where it swirls up and is trapped by the flow above it. This vortex stays within the groove and helps prevent clogging by continuously forcing food particles to gather at the corners of the groove or stay suspended in the swirling water. This keeps particles out of the way of the gill raker filter where water exits. Additional structures, like the gill cover and muscle bands associated with the gills, appear to enable the fish to slightly modify the path of the vortex and capture food that collects in the grooves.\n\nThe basking shark’s and paddlefish’s ability to keep their food filters free of clogs could be used to design and maintain self-cleaning filtering mechanisms for countless applications, from removing dust from the air in our homes to providing clean cooling water for nuclear power plants. It might also be used to separate different types of cells from each other for biomedical research or therapeutic use, or for sorting and handling nanoparticles in industrial applications.",
   "function_addressed": [
     "distribute liquids",
     "distribute solids",
@@ -11,11 +10,17 @@
     "capture, absorb, or filter solids",
     "capture, absorb, or filter organisms"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "capture-absorb-or-filter::liquids",
+    "capture-absorb-or-filter::solids",
+    "distribute::liquids",
+    "distribute::solids"
+  ],
+  "subgroup_keys": [
+    "capture-absorb-or-filter",
+    "distribute"
+  ],
   "source_url": "https://asknature.org/strategy/filters-prevent-clogging/",
-  "source_tier": "science_journalism",
   "keywords": [
     "fish",
     "keep",
@@ -23,7 +28,5 @@
     "filters",
     "clogging"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }

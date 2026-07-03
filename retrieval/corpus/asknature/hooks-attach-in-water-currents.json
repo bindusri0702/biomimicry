@@ -1,25 +1,25 @@
 {
   "doc_id": "asn-hooks-attach-in-water-currents",
   "organism_common": "Attach Permanently",
-  "organism_scientific": "",
-  "strategy_summary": "The larvae of caddisflies hold their place in flowing currents by use of hooks or hooklets. Image: Halvard Hatlen, from Norway.",
-  "mechanism": "The larvae of caddisflies hold their place in flowing currents by use of hooks or hooklets.\n\nImage: Halvard Hatlen, from Norway. / http://commons.wikimedia.org / toggle icon Image: Toni Fish / Flickr.com / toggle icon right arrow right arrow\n\n“The posterior prolegs of the caddis Rhyacophila, the megalopteran Corydalus, and lotic chironomid midges, in addition to blackfly larvae, have hooks or hooklets that likewise help to stop larvae from being swept away when they move over exposed surfaces.” (Giller and Malmqvist 1998:115)",
+  "strategy_summary": "The larvae of caddisflies hold their place in flowing currents by use of hooks or hooklets. “The posterior prolegs of the caddis Rhyacophila, the megalopteran Corydalus, and lotic chironomid midges, in addition to blackfly larvae, have hooks or hooklets that likewise help to stop larvae from being swept away when they…",
+  "mechanism": "The larvae of caddisflies hold their place in flowing currents by use of hooks or hooklets.\n\n“The posterior prolegs of the caddis Rhyacophila, the megalopteran Corydalus, and lotic chironomid midges, in addition to blackfly larvae, have hooks or hooklets that likewise help to stop larvae from being swept away when they move over exposed surfaces.” (Giller and Malmqvist 1998:115)",
   "function_addressed": [
     "attach permanently",
     "attach temporarily"
   ],
-  "environment": "",
-  "taxon": "",
-  "scale": "organismal",
+  "function_keys": [
+    "attach::permanently",
+    "attach::temporarily"
+  ],
+  "subgroup_keys": [
+    "attach"
+  ],
   "source_url": "https://asknature.org/strategy/hooks-attach-in-water-currents/",
-  "source_tier": "science_journalism",
   "keywords": [
     "hooks",
     "attach",
     "water",
     "currents"
   ],
-  "is_usual_suspect": false,
-  "popularity": 0.3,
   "provenance": "fetched"
 }
