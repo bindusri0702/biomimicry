@@ -1,71 +1,66 @@
 # Biomimicry Spiral Assistant — Handoff
 
-Status, remaining work, and how to validate it. Pairs with [README.md](README.md)
-(architecture) and the approved design at `~/.claude/plans/starry-stirring-sonnet.md`.
+Status, remaining work, and how to validate it. Pairs with [README.md](README.md) (architecture).
 
 ---
 
 ## 1. Current status (done)
 
-The full four-stage spiral runs end-to-end, offline-deterministic by default:
+The full four-stage spiral runs end-to-end, fully automated and LLM-driven:
 `raw idea → Challenge Brief v1 (Define) → v2 (Biologize) → v3 (Discover) → Design strategies / v4 (Abstract)`.
 
 - **All 4 stages** built as LangGraph subgraphs over one shared `SpiralState`
-  ([state.py](state.py)): `stages/define.py`, `biologize.py`, `discover.py`, `abstract.py`
-  (24 sub-components total, each a node).
-- **Spiral Controller** ([orchestrator.py](orchestrator.py)) — state-machine router,
-  human gate after every stage (`interrupt()`), `MemorySaver` checkpointer.
-- **LLM** via LiteLLM ([llm.py](llm.py)) — `gemini/gemini-2.5-flash` default; deterministic
-  offline stub auto-engages with no API key.
-- **Weaviate RAG** ([retrieval/](retrieval/)) — `Retriever` factory + `WeaviateRetriever`
+  ([state.py](state.py)): `stages/define.py` (2 nodes), `biologize.py` (3), `discover.py` (5),
+  `abstract.py` (2) — 12 nodes total.
+- **Spiral Controller** ([orchestrator.py](orchestrator.py)) — a plain linear forward chain
+  `define → biologize → discover → abstract → END`. No human gates, interrupts, or backward
+  transitions; a checkpointer is optional and none is required.
+- **LLM** via LiteLLM ([llm.py](llm.py)) — complexity-routed Mistral tiers
+  (`mistral/mistral-small-latest` by default), Gemini fallbacks; an API key is required
+  (there is no offline stub).
+- **Weaviate RAG** ([retrieval/](retrieval/)) — `get_retriever()` factory + `WeaviateRetriever`
   (BGE-M3 vectors, function-filtered hybrid search), corpus loader + ingest/build scripts.
-- **All evaluation metrics** per stage ([metrics.py](metrics.py)); bio→neutral
-  [lexicon.py](lexicon.py); citation ledger + spiral log.
-- Demo driver ([demo.py](demo.py)) resolves all gates; programmatic override runs with
-  zero interrupts.
-
-**Baseline that must keep passing** (see §3, L2): `python -m biomimicry.demo` reaches
-`CHALLENGE BRIEF v4` and is byte-identical across runs.
+- **Full AskNature corpus ingested** — the scraped strategies were converted to `StrategyDoc`
+  JSON ([retrieval/build_asknature_corpus.py](retrieval/build_asknature_corpus.py)) and embedded
+  into the Weaviate collection ([retrieval/build_weaviate.py](retrieval/build_weaviate.py)).
+- **All evaluation metrics** per stage ([metrics.py](metrics.py), pure math over evaluator
+  verdicts); deterministic Layer-0 residue check ([biology_denylist.py](biology_denylist.py));
+  citation ledger + spiral log.
+- Demo driver ([demo.py](demo.py)) runs the spiral and writes a timestamped brief JSON
+  (full state + computed metrics).
 
 ---
 
 ## 2. Remaining tasks (prioritized)
 
-### P0 — required before any real (non-stub) use
+### P0 — correctness / coverage
 
 | # | Task | Where | Acceptance criteria |
 |---|------|-------|---------------------|
-| P0-1 | **Validate against real Gemini.** Never run with a key. Verify every `complete_json` task returns parseable JSON and sane content; fix prompts as needed. Tasks: `context`, `hmw`, `goldilocks`, `system_map`, `functions`, `context_conditions`, `taxonomy_pick`, `hdn`, `flip`, `search_queries`, `mechanism_summary`, `design_strategy`. | [llm.py](llm.py), all `stages/*.py` | With `GEMINI_API_KEY` set + `BIOMIMICRY_OFFLINE=0`, full spiral completes to v4 with no JSON parse errors; spot-check output quality per stage. |
-| P0-2 | **Full corpus ingestion.** Replace the 4 seed docs with the real corpus. Build a parser that converts downloaded AskNature (and other) pages → `StrategyDoc` JSON, setting `provenance:"fetched"`. | new `retrieval/ingest.py`; `retrieval/corpus/` | ≥50 real docs load via `load_corpus()`; spread across all 4 scales, 3 tiers, many taxa; diversity/novelty/credibility metrics become differentiated (not all 1.0). |
-| P0-3 | **Durable checkpointer.** `MemorySaver` loses paused state on process exit — real human gates may span hours. Swap to `SqliteSaver`/`PostgresSaver`. | [orchestrator.py](orchestrator.py) `build_spiral()` | Start spiral → hit a gate → kill process → new process resumes the same `thread_id` from the gate. |
-| P0-4 | **Test suite.** No automated tests exist. Add `pytest` covering nodes, metrics, retriever, lexicon, determinism, gate resume, override, edge cases. | new `tests/` | `pytest` green; covers items in §3 L3. |
+| P0-1 | **Test suite.** No automated tests exist. Add `pytest` covering nodes, metrics, retriever, the residue check, and edge cases. | new `tests/` | `pytest` green; covers items in §3 L3. |
+| P0-2 | **LLM output-quality validation.** Verify every `LLM.complete` task returns parseable, sane content across providers; fix prompts as needed. | [llm.py](llm.py), all `stages/*.py` | Full spiral completes to v4 with no schema-validation errors; spot-check output quality per stage. |
 
 ### P1 — production-readiness
 
 | # | Task | Where | Acceptance criteria |
 |---|------|-------|---------------------|
-| P1-1 | **LiveRetriever.** Online retrieval behind the existing factory: httpx + AskNature fetch/parse, OpenAlex/Semantic Scholar/Crossref for scholarly (NOT Scholar scraping), EurekAlert/ScienceDaily RSS; write results into the corpus cache. Domain→tier rubric for `credibility_screener`. | new `retrieval/live.py`; `retrieval/base.py` `get_retriever()` | `BIOMIMICRY_RETRIEVAL=live` retrieves real strategies; node code unchanged; results cached and re-used. |
-| P1-2 | **Backward transitions / Revision Reasoner.** Router honors `revision_request` but **no node sets it and no stage clears it → infinite-loop risk**. Add logic to raise a revision (e.g., Discover finds nothing relevant → revise Biologize) and have the target stage clear `revision_request`. | [orchestrator.py](orchestrator.py); each `stages/*.py` finalize | A seeded `revision_request` routes backward exactly once, the target clears it, the spiral then proceeds forward; logged in `spiral_log`. |
-| P1-3 | _Resolved._ Retrieval is now served exclusively by `WeaviateRetriever` (BGE-M3 hybrid search); the BM25 lexical and LiteLLM embedding backends were removed. | [retrieval/weaviate_store.py](retrieval/weaviate_store.py) | — |
-| P1-4 | **Challenge Brief persistence.** No save/load. Persist the final brief + `citation_ledger` + `spiral_log` to JSON; support resuming/inspecting a run. | new `persistence.py` or in `demo.py` | A completed run writes a single brief JSON; reloading reproduces the delivered strategies + full provenance. |
-| P1-5 | **LLM robustness.** `complete_json` has a parse fallback but no retry on malformed JSON / rate limits / transient errors. Add bounded retry + backoff (LiteLLM supports it) and a schema re-ask. | [llm.py](llm.py) | Inject a malformed response → one retry recovers; rate-limit error backs off rather than crashing the spiral. |
+| P1-1 | **Backward transitions / Revision Reasoner.** The controller is currently a strict forward chain. If desired, add logic to raise a revision (e.g. Discover finds nothing relevant → revise Biologize), route backward once, and have the target stage clear the request. | [orchestrator.py](orchestrator.py); each `stages/*.py` | A seeded revision routes backward exactly once, the target clears it, the spiral proceeds forward; logged in `spiral_log`. |
+| P1-2 | **Live/incremental retrieval.** Extend beyond the ingested Weaviate corpus — fetch new AskNature pages and scholarly sources (OpenAlex/Semantic Scholar/Crossref), convert to `StrategyDoc`, embed, and upsert into the collection. | [retrieval/build_weaviate.py](retrieval/build_weaviate.py) + new fetcher | New sources ingest and become retrievable without node changes. |
 
 ### P2 — fidelity / polish
 
 | # | Task | Where | Notes |
 |---|------|-------|-------|
-| P2-1 | **Strategy Visualizer → real diagram.** Currently emits a text/ASCII schematic spec. Render an actual mechanical schematic (graphviz/SVG) from `schematic{}`. | [stages/abstract.py](stages/abstract.py) `strategy_visualizer` | Architecture wants a diagram an engineer can read; the spec is render-ready. |
-| P2-2 | **Full Biomimicry Taxonomy + embedding alignment.** `taxonomy.py` is a curated subset with token-overlap `align()`. Replace with the canonical AskNature export and switch `align()` to embedding cosine. | [taxonomy.py](taxonomy.py) | Improves `taxonomy_alignment_confidence` fidelity. |
-| P2-3 | **Vector DB semantic cache.** Architecture lists one to dedupe fetches; offline uses an in-memory index. Add a persistent store once live retrieval lands. | `retrieval/` | Depends on P1-1. |
-| P2-4 | **Richer Define context elicitation + LLM-judge metrics.** Make the elicitation a fuller dialogue; validate heuristic-vs-judge metrics (e.g., HDN biological sensibility) against the real LLM judge. | [stages/define.py](stages/define.py), [stages/biologize.py](stages/biologize.py) | |
-| P2-5 | **Packaging & config.** Add `pyproject.toml`, `.env` handling, logging config, pinned deps. | repo root | |
+| P2-1 | **Embedding-based taxonomy alignment.** `taxonomy.py` validates triples against `taxonomy_hierarchy.json`; alignment fidelity could improve with embedding cosine over the canonical export. | [taxonomy.py](taxonomy.py) | Improves taxonomy alignment. |
+| P2-2 | **Richer Define elicitation + LLM-judge metrics.** Make elicitation a fuller dialogue; validate metrics against a real LLM judge. | [stages/define.py](stages/define.py), [stages/biologize.py](stages/biologize.py) | |
+| P2-3 | **Packaging & config.** Add `pyproject.toml`, logging config, pinned deps. | repo root | |
 
 ---
 
 ## 3. Validation process
 
-Layered: each layer must pass before the next is meaningful. L1–L2 are the regression
-gate for **every** change; L3+ as features land.
+Layered: each layer must pass before the next is meaningful. L1 is the regression gate for
+**every** change; L2+ as features land.
 
 ### L1 — Static
 ```bash
@@ -74,90 +69,56 @@ python -c "import biomimicry; from biomimicry.orchestrator import build_spiral; 
 ```
 Pass: compiles; graph builds (all subgraphs wire, no schema/channel errors).
 
-### L2 — Offline determinism (regression baseline)
+### L2 — End-to-end smoke test (needs an LLM key + Weaviate creds)
 ```bash
-python -m biomimicry.demo > r1.txt 2>&1
-python -m biomimicry.demo > r2.txt 2>&1
-diff -q r1.txt r2.txt && echo OK         # must be identical
+export MISTRAL_API_KEY=...                    # or any supported provider key
+python -m biomimicry.demo "How might we protect people from fire accidents"
 ```
-Pass: reaches `CHALLENGE BRIEF v4`; both runs byte-identical (BM25 + offline stubs are
-deterministic). Any non-determinism is a bug (unsorted set emitted, `Date.now`-style call, etc.).
+Pass: reaches `CHALLENGE BRIEF v4` with no schema-validation errors and writes a brief JSON.
+Manually spot-check that HMWs/HDNs/strategies read sensibly and are on-topic.
 
-### L3 — Unit tests (to be written, P0-4)
+### L3 — Unit tests (to be written, P0-1)
 Target coverage:
 - **Retriever** ([retrieval/weaviate_store.py](retrieval/weaviate_store.py)): function-filtered hybrid search returns relevant strategies; filter relaxation (leaf → sub-group → unfiltered) fires when a filtered query underflows; empty query handled.
 - **Corpus** ([retrieval/corpus.py](retrieval/corpus.py)): valid docs load; a malformed doc raises with its path; bad `scale`/`source_tier`/`provenance` rejected; duplicate `doc_id` rejected.
-- **Lexicon** ([lexicon.py](lexicon.py)): `neutralize` replaces multi-word before single-word; `detect_jargon` flags organism tokens but not `GENERIC_DESCRIPTORS` ("water"/"silver").
-- **Metrics** ([metrics.py](metrics.py)): each `*_metrics` handles empty input (no divide-by-zero); `_simpson`, `mechanism_completeness`, novelty penalty correct.
+- **Residue check** ([biology_denylist.py](biology_denylist.py)): `check_biology_residue` flags HARD/AMBIGUOUS organism terms, honors the ALLOWLIST, and injects source-organism terms dynamically.
+- **Metrics** ([metrics.py](metrics.py)): each `*_metrics` handles empty input (no divide-by-zero); `_simpson`, dissimilarity, novelty penalty correct.
 - **Dedup** ([stages/discover.py](stages/discover.py) `_merge_key`): same organism+strategy merges, keeps higher tier, unions `hdn_ids`.
-- **Gate resume**: empty/falsy resume value must NOT re-fire (the documented gotcha); explicit `{"ids": [...]}` advances.
-- **Override**: setting all `auto_select_*` keys runs the spiral with `__interrupt__` absent.
 
 ### L4 — Per-stage assertions (programmatic)
 Invoke a single subgraph with fixture state and assert outputs. Example (Discover):
 ```python
 from biomimicry.stages.discover import build_discover_subgraph
 g = build_discover_subgraph()
-out = g.invoke({"hdn_questions": [{"id":0,"text":"How does nature regulate temperature?","selected":True}],
-                "functions": [{"verb":"regulate","phrase":"regulate temperature"}],
-                "auto_select_model_ids": [0], "spiral_log": [], "citation_ledger": []})
+out = g.invoke({"hdn_questions": [{"id": 0, "text": "How does nature regulate temperature?"}],
+                "mapped_functions": [{"verb": "regulate", "phrase": "regulate temperature"}],
+                "spiral_log": [], "citation_ledger": []})
 assert out["biological_models"]
 assert all(m["doc_id"] for m in out["biological_models"])     # provenance present
-assert out["discover_metrics"]["selected_count"] >= 1
 ```
 Repeat per stage with representative fixtures.
 
-### L5 — Online smoke test (needs key)
-```bash
-export GEMINI_API_KEY=...   ;   export BIOMIMICRY_OFFLINE=0
-python -m biomimicry.demo
-```
-Pass: completes to v4 with no JSON parse errors (validates P0-1). Manually spot-check that
-HMWs/HDNs/strategies read sensibly and are on-topic.
-
-### L6 — Guardrail validation (anti-hallucination, the project's core promise)
-- **Citation traceability:** every entry in `citation_ledger` has a non-empty `doc_id` that
-  exists in the corpus and a `source_url`; every selected `biological_model` traces to a
-  ledger entry. No organism appears that isn't in the corpus.
-- **Jargon purge:** in delivered `design_strategies`, `valid` strategies have empty
-  `jargon_terms` and `jargon_purge_score == 1.0`.
-- **Solution-neutrality:** no `valid` strategy statement contains a `config.ARTEFACT_TERMS` term.
-- **Function preservation:** each `valid` strategy's tokens intersect the Define-stage function vocab.
-
-Quick check:
-```python
-import json, subprocess
-# run demo, parse the printed brief, assert the four guardrails above
-```
-(Fold into L3 once tests exist.)
-
-### L7 — Human-gate validation (interactive)
-```bash
-python -m biomimicry.demo --interactive    # answer each of the 4 gates manually
-```
-Pass: each gate (`hmw_selection`, `hdn_selection`, `model_selection`, `strategy_selection`)
-pauses, accepts selection / `edit` / `merge` / explicit ids, and resumes correctly. After
-P0-3, verify resume survives a process restart.
-
-### L8 — Corpus / scale validation (after P0-2)
-Pass: `load_corpus()` validates the full set; with the real corpus, diversity/novelty/
-credibility metrics are differentiated and the ranker visibly reorders vs raw relevance
-(e.g., usual suspects penalized, scale spread enforced).
+### L5 — Guardrail validation (anti-hallucination, the project's core promise)
+- **Citation traceability:** every `citation_ledger` entry has a non-empty `doc_id` that exists
+  in the corpus and a `source_url`; every kept `biological_model` traces to a ledger entry. No
+  organism appears that isn't in the corpus.
+- **Jargon purge:** delivered design strategies pass the Layer-0 residue check
+  (`check_biology_residue` returns no HARD hits) and the evaluator's faithfulness grade.
+- **Function preservation:** each accepted strategy's tokens intersect the Define-stage function
+  vocabulary.
 
 ---
 
 ## 4. Known issues & risks
 
-- **In-memory checkpoints (`MemorySaver`)** — paused gates don't survive restart (→ P0-3).
-- **Backward-transition loop risk** — `spiral_router` honors `revision_request` but nothing
-  clears it; a set value would loop (→ P1-2). Currently unused, so safe today.
-- **Offline stub text is illustrative**, not real biology — phrasing can read awkwardly and
-  the mechanism summary may leak an organism name (the validator correctly flags it, e.g.
-  "ant"). Real Gemini output is clean. Don't judge content quality from offline runs.
-- **4-doc corpus** makes diversity/novelty metrics under-differentiated; expected until P0-2.
-- **EmbeddingRetriever untested** (no key in dev) and recomputes vectors each init (→ P1-3).
-- **Gate resume must use a truthy, non-empty value** — `Command(resume={})` is treated as
-  "no resume" and re-fires the interrupt (documented in [README.md](README.md)).
+- **No automated tests yet** (→ P0-1) — L1/L2 are the only regression gates today.
+- **Forward-only spiral** — there is no revision/backward-transition path; a stage that produces
+  weak output cannot ask an earlier stage to redo its work (→ P1-1).
+- **Retrieval quality depends on the ingested corpus** — coverage/diversity of results is bounded
+  by what was scraped and embedded into Weaviate.
+- **Provider variance** — structured output uses native response-schema where supported
+  (Gemini/OpenAI) and `json_object` otherwise (Groq/NIM); prompt/output quality can differ by
+  provider (→ P0-2).
 
 ---
 
@@ -165,10 +126,13 @@ credibility metrics are differentiated and the ranker visibly reorders vs raw re
 
 ```bash
 pip install -r biomimicry/requirements.txt
-python -m biomimicry.demo                 # offline, deterministic — see the whole spiral
-python -m biomimicry.demo --interactive    # drive the human gates yourself
+export MISTRAL_API_KEY=...                    # or any supported provider key
+python -m biomimicry.demo "How might we protect people from fire accidents"
 ```
-- Add corpus docs: drop `*.json` into `retrieval/corpus/` (schema = `StrategyDoc`), then re-run `retrieval/build_weaviate.py` to ingest + embed them into the Weaviate collection.
-- Retrieval needs `WEAVIATE_URL` + `WEAVIATE_API_KEY` (and `GEMINI_API_KEY` for the LLM) in `biomimicry/.env`.
-- Tunables (models, tiers, Weaviate search mode / hybrid alpha / filter level, ranker weights, thresholds) live in [config.py](config.py).
-- To add/extend a stage, mirror an existing `stages/*.py`: nodes → `build_<stage>_subgraph()` (compile **without** a checkpointer) → wire in [orchestrator.py](orchestrator.py).
+- Add corpus docs: drop `*.json` into `retrieval/corpus/` (schema = `StrategyDoc`), then re-run
+  `retrieval/build_weaviate.py` to ingest + embed them into the Weaviate collection.
+- Retrieval needs `WEAVIATE_URL` + `WEAVIATE_API_KEY` (and an LLM key) in `biomimicry/.env`.
+- Tunables (models, tiers, Weaviate search mode / hybrid alpha / filter level, thresholds,
+  concurrency) live in [config.py](config.py) and are all env-overridable.
+- To add/extend a stage, mirror an existing `stages/*.py`: nodes → `build_<stage>_subgraph()`
+  → wire in [orchestrator.py](orchestrator.py).

@@ -1,9 +1,9 @@
 """Central configuration for the biomimicry spiral assistant.
 
 Model selection goes through LiteLLM. By default each LLM task is routed by complexity to
-one of two NVIDIA Llama-Nemotron tiers (``MODEL_SUPER`` / ``MODEL_NANO``); set
-``BIOMIMICRY_MODEL`` to pin every task to one model instead (e.g. ``gemini/gemini-2.5-flash``
-or ``anthropic/claude-opus-4-8``). See llm.py for the routing.
+one of two Mistral tiers (``MODEL_SUPER`` / ``MODEL_NANO``, both ``mistral/mistral-small-latest``
+out of the box); set ``BIOMIMICRY_MODEL`` to pin every task to one model instead (e.g.
+``gemini/gemini-2.5-flash`` or ``anthropic/claude-opus-4-8``). See llm.py for the routing.
 
 The pipeline is fully LLM-driven: there is no offline stub and no baked-in
 heuristic knowledge. Everything below is operational tuning, not domain knowledge.

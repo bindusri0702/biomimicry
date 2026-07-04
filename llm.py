@@ -6,9 +6,9 @@ offline stub), restricts the output to a Pydantic schema, and returns the
 validated instance.
 
 Output is restricted per provider (see `complete`): native response-schema where the
-provider supports it (Gemini/OpenAI), a forced tool call otherwise (Groq — no
-json-schema but supports function calling), and a plain json_object fallback for
-providers that support neither. The reply is validated through the schema regardless.
+provider supports it (Gemini/OpenAI), and a plain `json_object` request otherwise
+(Groq/NIM — tool-call-based output was tried and abandoned as unreliable). The reply is
+validated through the schema regardless.
 
 For tests, inject a fake client exposing the same `complete` signature in place of a
 stage's module-level `_llm` rather than relying on any built-in stub.
@@ -93,16 +93,15 @@ class LLM:
     ) -> BaseModel:
         """Restrict the model's output to `schema` and return the validated instance.
 
-        The model is chosen by task complexity (see `_models_for`): the SUPER Nemotron tier
-        for reasoning-heavy tasks, the NANO tier otherwise. Each model is retried with
-        exponential backoff (litellm), then we fall back down the chain (other tier, then the
-        Gemini fallbacks) on persistent overload/503.
+        The model is chosen by task complexity (see `_models_for`): the SUPER tier
+        for reasoning-heavy tasks, the NANO tier otherwise (both default to Mistral small).
+        Each model is retried with exponential backoff (litellm), then we fall back down the
+        chain (other tier, then the Gemini fallbacks) on persistent overload/503.
 
         Output restriction is chosen per model: native response-schema when the provider
-        supports it, a forced tool call when it supports function calling (Groq's path), else
-        a plain json_object request. The reply is parsed and validated through `schema` in all
-        cases; a validation/parse failure is non-transient and raises. `ctx` is accepted for
-        call-site symmetry.
+        supports it (Gemini/OpenAI), else a plain json_object request (Groq/NIM). The reply is
+        parsed and validated through `schema` in all cases; a validation/parse failure is
+        non-transient and raises. `ctx` is accepted for call-site symmetry.
         """
         if not config.HAS_LLM_KEY:
             raise MissingAPIKeyError(

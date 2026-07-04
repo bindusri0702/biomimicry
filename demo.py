@@ -2,8 +2,9 @@
 
   python -m biomimicry.demo "How might we protect people from fire accidents"
 
-Fully automated — no human gates. Requires an LLM API key (GEMINI_API_KEY /
-GOOGLE_API_KEY / OPENAI_API_KEY / ANTHROPIC_API_KEY); there is no offline mode.
+Fully automated — no human gates. Requires an LLM API key (MISTRAL_API_KEY /
+GROQ_API_KEY / NVIDIA_NIM_API_KEY / GEMINI_API_KEY / GOOGLE_API_KEY / OPENAI_API_KEY /
+ANTHROPIC_API_KEY); there is no offline mode.
 """
 from __future__ import annotations
 

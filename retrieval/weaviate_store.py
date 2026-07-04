@@ -2,7 +2,7 @@
 
 Stores the ORIGINAL scraped AskNature records (title, organism_name, functions_performed,
 introduction, strategy, potential, related_innovation, source_url) with bring-your-own
-e5-large-v2 vectors (vectorizer=none, cosine). At query time the original properties are
+BGE-M3 vectors (`BAAI/bge-m3`, 1024-dim, vectorizer=none, cosine). At query time the original properties are
 mapped into a StrategyDoc-shaped dict (reusing `build_asknature_corpus.convert_one`) so the
 Discover stage nodes consume Weaviate hits exactly like local-corpus hits.
 

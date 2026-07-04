@@ -1,130 +1,128 @@
 # Biomimicry Spiral Assistant
 
 LangGraph implementation of the full four-stage biomimicry spiral —
-**Define → Biologize → Discover → Abstract** — orchestrated by a **Spiral Controller**
-with a human gate after every stage and backward-transition support. All four stages
-are built; the spiral runs end-to-end from a raw idea to discipline-neutral design
-strategies (`raw idea → Challenge Brief v1 → v2 → v3 → Design strategies / v4`).
+**Define → Biologize → Discover → Abstract**. The spiral is **fully automated**: a plain
+linear forward chain (`orchestrator.py`) runs end-to-end from a raw idea to discipline-neutral
+design strategies (`raw idea → Challenge Brief v1 → v2 → v3 → Design strategies / v4`).
+There are no human gates, interrupts, or backward transitions.
 
-LLM calls go through **LiteLLM** (`gemini/gemini-2.5-flash` by default, swappable).
-Discover uses **offline RAG**: retrieval reads a local corpus, no network at runtime.
+LLM calls go through **LiteLLM**. By default each task is complexity-routed to a Mistral
+tier (`mistral/mistral-small-latest`); set `BIOMIMICRY_MODEL` to pin every task to one model.
+Discover retrieves from a **Weaviate Cloud** collection (local BGE-M3 embeddings). An LLM API
+key is **required** — there is no offline mode.
 
 ## Run
 
 ```bash
 pip install -r requirements.txt
-python -m biomimicry.demo                 # auto-resumes human gates
-python -m biomimicry.demo --interactive   # answer gates at the prompt
+python -m biomimicry.demo "How might we protect people from fire accidents"
+python -m biomimicry.demo "<challenge>" --quiet          # skip the terminal summary
+python -m biomimicry.demo "<challenge>" --parallel 4     # bounded-parallel per-item LLM calls
 ```
 
-No API key → deterministic **offline stub** runs automatically. For real calls:
+The run writes a timestamped `brief-<slug>-<ts>.json` (full state + computed metrics) to the
+cwd. A key is required — set one of:
 
 ```bash
-export GEMINI_API_KEY=...           # unset BIOMIMICRY_OFFLINE if previously set
-export BIOMIMICRY_MODEL=gemini/gemini-2.5-flash   # or anthropic/claude-opus-4-8, etc.
+export MISTRAL_API_KEY=...          # default provider
+# or GROQ_API_KEY / NVIDIA_NIM_API_KEY / GEMINI_API_KEY / GOOGLE_API_KEY /
+#    OPENAI_API_KEY / ANTHROPIC_API_KEY
+export BIOMIMICRY_MODEL=gemini/gemini-2.5-flash   # optional: pin all tasks to one model
 ```
+
+Retrieval also needs `WEAVIATE_URL` + `WEAVIATE_API_KEY`. Put these in `biomimicry/.env`.
 
 ## Layout
 
 | File | Role |
 |------|------|
 | `state.py` | `SpiralState` — the shared Challenge Brief read/written by all stages; pydantic payload models; append-only log reducer |
-| `llm.py` | LiteLLM wrapper (`complete`, restricts output to a pydantic schema); raises if no API key |
 | `schemas.py` | Pydantic response schemas — one per LLM task, used to restrict + validate output |
-| `taxonomy.py` | Biomimicry Taxonomy reference + `align()` (token-overlap; swap for embeddings) |
-| `lexicon.py` | Bio-to-neutral substitution table + jargon detection (Term Neutralizer) |
-| `metrics.py` | Heuristic scorers + Define / Biologize / Discover / Abstract evaluation metrics |
-| `retrieval/` | `Retriever` factory + Weaviate backend (BGE-M3 vectors, hybrid + function-filtered search), corpus loader + ingest/build scripts |
-| `stages/define.py` | Define subgraph: 5 sub-components, metrics, human gate, finalize |
-| `stages/biologize.py` | Biologize subgraph: 6 sub-components, metrics, human gate, finalize |
-| `stages/discover.py` | Discover subgraph: 6 sub-components (RAG), metrics, human gate, finalize |
-| `stages/abstract.py` | Abstract subgraph: 7 sub-components, metrics, human gate, finalize |
-| `orchestrator.py` | Spiral Controller — state-machine router + backward-transition handler + checkpointer |
-| `demo.py` | End-to-end driver with human-gate resolution |
+| `llm.py` | LiteLLM wrapper (`LLM.complete`, restricts output to a pydantic schema); requires an API key |
+| `config.py` | Central config — model tiers/routing, temperatures, retrieval + Weaviate tunables (all env-overridable) |
+| `taxonomy.py` | Biomimicry Taxonomy loader over `taxonomy_hierarchy.json` — `valid_paths`, `is_valid_path`, `render_for_prompt` |
+| `biology_denylist.py` | Deterministic Layer-0 biological-residue check (`check_biology_residue`) used by Abstract |
+| `metrics.py` | Pure-math per-stage metrics over evaluator verdicts (no domain heuristics) |
+| `parallel.py` | `bounded_map` — thread-pool fan-out honoring `config.MAX_CONCURRENCY` |
+| `retrieval/` | `get_retriever()` factory + `WeaviateRetriever` (BGE-M3 vectors, function-filtered hybrid search), corpus loader + ingest/build scripts |
+| `stages/define.py` | Define subgraph (2 nodes): `define`, `goldilocks_evaluator` |
+| `stages/biologize.py` | Biologize subgraph (3 nodes): `function_mapper`, `hdn_framer`, `biologize_evaluator` |
+| `stages/discover.py` | Discover subgraph (5 nodes, RAG): `search_query_builder`, `fanout_retriever`, `organism_profile_builder`, `filter_with_reasoning`, `citation_ledger_writer` |
+| `stages/abstract.py` | Abstract subgraph (2 nodes): `abstract_strategy`, `fidelity_evaluator` |
+| `orchestrator.py` | Spiral Controller — wires the four subgraphs into a linear `define → … → abstract → END` chain; optional checkpointer |
+| `demo.py` | End-to-end driver; runs the spiral and writes the timestamped brief JSON. Metrics are computed here (not graph nodes). |
 
 ## Define stage → Challenge Brief v1
 
 ```
-context_elicitor → hmw_generator → goldilocks_critic → scope_scorer
-   → system_mapper → compute_metrics → human_gate → finalize
+define → goldilocks_evaluator
 ```
 
-- **Human gates** use LangGraph `interrupt()`. `context_elicitor` only pauses when a
-  required slot is missing; `human_gate` pauses for HMW select / edit / merge. Set
-  `auto_select_id` in state to bypass the HMW gate non-interactively.
-- **Metrics:** solution-neutrality, stakeholder specificity, breadth index
-  (Goldilocks zone `0.3–0.7`), candidate uniqueness, context completeness.
+- `define` makes a single LLM call producing the context profile, system context, defined
+  questions (HMWs), and assumptions.
+- `goldilocks_evaluator` grades each question on two axes (breadth + solution-neutrality) and
+  revises in place, capped by `config.EVALUATOR_MAX_RETRIES`.
+- **Metrics** (computed at the end in `demo`): solution-neutrality, stakeholder specificity,
+  breadth index (Goldilocks zone `0.3–0.7`), candidate uniqueness, context completeness.
 
 ## Stage 2 — Biologize → Challenge Brief v2
 
 ```
-function_decomposer → context_mapper → taxonomy_aligner → hdn_generator
-   → flip_engine → framing_ranker → compute_metrics → human_gate → finalize
+function_mapper → hdn_framer → biologize_evaluator
 ```
 
-- **Taxonomy Aligner** = heuristic recall (`taxonomy.align`, top-3 shortlist) + LLM
-  pick, grounded to the shortlist so it can't hallucinate a node. Confidence is the
-  overlap score (swap in embedding cosine without touching call sites).
-- **Flip Engine** adds shared-mechanism inversions; **Framing Ranker** guarantees
-  function coverage, keeps coherent flips, and greedily drops near-duplicate framings.
-- **Metrics:** function coverage ratio, taxonomy alignment confidence, HDN biological
-  sensibility, framing diversity index, flip-pair coherence.
+- `function_mapper` maps each HMW to Biomimicry-Taxonomy triples via three lenses, then
+  validates every triple against the taxonomy (`taxonomy.is_valid_path`) and dedups.
+- `hdn_framer` frames "How does nature…" (HDN) questions from the mapped functions.
+- `biologize_evaluator` batch-grades HDNs on three axes (neutrality / altitude / fidelity) and
+  regenerates the ones that fail, capped.
+- **Metrics:** function coverage, taxonomy alignment, HDN sensibility, framing diversity.
 
 ## Stage 3 — Discover → Challenge Brief v3 (Weaviate RAG)
 
 ```
-search_query_builder → multi_source_retriever → organism_profile_builder
-   → credibility_screener → diversity_ranker → citation_ledger_writer
-   → compute_metrics → human_gate → finalize
+search_query_builder → fanout_retriever → organism_profile_builder
+   → filter_with_reasoning → citation_ledger_writer
 ```
 
 - **Retrieval** goes through `retrieval.get_retriever()` (mirrors the `LLM` factory) and is
-  served by `WeaviateRetriever`: local **BGE-M3** dense vectors (1024-dim, L2-normalized) over a
-  Weaviate Cloud collection, with **function-filtered hybrid search** (pre-filter on canonical
-  function/sub-group keys, then BM25 + vector fusion). Needs `WEAVIATE_URL` + `WEAVIATE_API_KEY`.
+  served by `WeaviateRetriever`: local **BGE-M3** dense vectors (`BAAI/bge-m3`, 1024-dim,
+  L2-normalized) over a Weaviate Cloud collection, with **function-filtered hybrid search**
+  (pre-filter on canonical function/sub-group keys, then BM25 + vector fusion). Filter
+  relaxation (leaf → sub-group → unfiltered) fires when a filtered query underflows.
+- `filter_with_reasoning` batch-grades each retrieved model per HDN for relevance + adequacy;
+  `citation_ledger_writer` logs every kept model (URL, organism, `doc_id`, provenance) so
+  biological claims trace to a real source and are never hallucinated.
 - **Corpus** = JSON `StrategyDoc`s under `retrieval/corpus/` — the *source data* ingested into
-  the Weaviate collection by `retrieval/build_weaviate.py` (which embeds each doc with BGE-M3 and
-  resolves function keys). Add `*.json` docs and re-run the build to grow the index.
-- **Guardrail:** `citation_ledger_writer` logs every screened model (URL, organism,
-  `doc_id`, provenance) — biological claims trace to a real source, never hallucinated.
-- **Metrics:** HDN relevance, taxonomic diversity, scale diversity, source credibility,
-  mechanism completeness, novelty index (usual-suspects penalized unless on-target).
+  the Weaviate collection by `retrieval/build_weaviate.py` (which embeds each doc with BGE-M3
+  and resolves function keys). Add `*.json` docs and re-run the build to grow the index.
+- **Metrics:** HDN relevance, taxonomic + scale diversity, source credibility, novelty index.
 
 Search mode, hybrid alpha, filter granularity, and the embedding model live in `config.py`
-(`WEAVIATE_SEARCH_MODE`, `HYBRID_ALPHA`, `FUNCTION_FILTER_LEVEL`, `E5_MODEL`).
+(env-overridable: `BIOMIMICRY_WEAVIATE_SEARCH_MODE`, `BIOMIMICRY_HYBRID_ALPHA`,
+`BIOMIMICRY_FUNCTION_FILTER_LEVEL`, `BIOMIMICRY_E5_MODEL` — the `E5_MODEL` constant name is kept
+for back-compat but the model is BGE-M3).
 
 ## Stage 4 — Abstract → Design strategies (Challenge Brief v4)
 
 ```
-mechanism_summarizer → keyword_extractor → term_neutralizer → design_strategy_writer
-   → strategy_validator → strategy_visualizer → cross_model_pattern_finder
-   → compute_metrics → human_gate → finalize
+abstract_strategy → fidelity_evaluator
 ```
 
-- Climbs the abstraction ladder from each selected biological model to a transferable,
-  discipline-neutral **design strategy statement** (function + mechanism, no jargon, no
-  prescribed artefact).
-- **Term Neutralizer** is rule-based (`lexicon.py`): a curated bio→neutral table
-  (`fur→fibers`, `vascular network→channel network`, …), deterministic.
-- **Strategy Validator** is the guardrail critic: (a) zero biological jargon
-  (`detect_jargon`, incl. organism-name tokens minus generic descriptors), (b) original
-  Define-stage function preserved, (c) no specific artefact/technology (`config.ARTEFACT_TERMS`
-  — narrower than Define's solution-term list, so neutral mechanism nouns aren't penalized).
-- **Cross-model Pattern Finder** clusters strategies by mechanism similarity and flags
-  convergence when a cluster spans ≥2 taxa or scales.
-- **Metrics:** jargon purge, function preservation, solution-neutrality, cross-disciplinary
-  accessibility, abstraction appropriateness, cross-model convergence rate.
+- `abstract_strategy` climbs the abstraction ladder from each kept biological model to a
+  transferable, discipline-neutral **design strategy statement** — summarizing the mechanism,
+  translating biological terms to neutral ones (LLM term-translate), and writing the strategy
+  (function + mechanism, no jargon, no prescribed artefact).
+- `fidelity_evaluator` first runs the deterministic Layer-0 residue check
+  (`biology_denylist.check_biology_residue`, notify-only), then grades each abstraction for
+  completeness + faithfulness and regenerates failures, capped.
+- **Metrics:** jargon purge, function preservation, solution-neutrality, abstraction
+  appropriateness.
 
-## Spiral control & backward transitions
+## Spiral control
 
-The router (`spiral_router`) advances `define → biologize → discover → abstract → END`.
-A backward revision is any node returning
-`{"revision_request": {"target_stage": "define", "reason": "..."}}`; the target stage
-should clear it. Every stage writes to the shared `SpiralState`, and biological claims
-trace through the append-only `citation_ledger` written in Discover.
-
-### Human-gate convention (important)
-
-Gates use LangGraph `interrupt()`. **Always resume with a truthy, non-empty value** —
-`Command(resume={})` (empty/falsy) is treated as "no resume" and the gate re-fires in
-a loop. The resolvers return e.g. `{"ids": [...]}` rather than `{}`.
+`orchestrator.build_spiral()` compiles the linear forward chain
+`define → biologize → discover → abstract → END` over the shared `SpiralState`. A checkpointer
+is optional (only useful for online crash-resume); none is required because nothing interrupts.
+Every stage writes to `SpiralState`, and biological claims trace through the append-only
+`citation_ledger` written in Discover.
