@@ -4,7 +4,7 @@
 
 Fully automated — no human gates. Requires an LLM API key (MISTRAL_API_KEY /
 GROQ_API_KEY / NVIDIA_NIM_API_KEY / GEMINI_API_KEY / GOOGLE_API_KEY / OPENAI_API_KEY /
-ANTHROPIC_API_KEY); there is no offline mode.
+ANTHROPIC_API_KEY).
 """
 from __future__ import annotations
 
@@ -157,7 +157,7 @@ def main(argv=None) -> int:
     if not config.HAS_LLM_KEY:
         print("ERROR: no LLM API key found (set MISTRAL_API_KEY, or GROQ_API_KEY / "
               "NVIDIA_NIM_API_KEY / GEMINI_API_KEY / GOOGLE_API_KEY / OPENAI_API_KEY / "
-              "ANTHROPIC_API_KEY). This pipeline has no offline mode.", file=sys.stderr)
+              "ANTHROPIC_API_KEY).", file=sys.stderr)
         return 2
 
     model_desc = config.MODEL_OVERRIDE or f"super={config.MODEL_SUPER}, nano={config.MODEL_NANO}"

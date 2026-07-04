@@ -39,8 +39,7 @@ COMPLEX_TASKS: frozenset = frozenset(
     ).split(",") if t.strip()
 )
 
-# An API key is REQUIRED — there is no offline mode. We check the common provider
-# keys for a friendly startup error; litellm itself reads the key from the env.
+# The common provider keys for a friendly startup error; litellm itself reads the key from the env.
 HAS_LLM_KEY: bool = bool(
     os.getenv("GROQ_API_KEY") or os.getenv("NVIDIA_NIM_API_KEY")
     or os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY")

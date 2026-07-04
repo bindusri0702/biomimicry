@@ -1,8 +1,7 @@
 """Thin LiteLLM wrapper.
 
 `LLM.complete` is the only method the stage nodes use. It always calls the
-configured live model through LiteLLM (an API key is required — there is no
-offline stub), restricts the output to a Pydantic schema, and returns the
+configured live model through LiteLLM (an API key is required), restricts the output to a Pydantic schema, and returns the
 validated instance.
 
 Output is restricted per provider (see `complete`): native response-schema where the
@@ -68,7 +67,7 @@ def _get_capture_client():
 
 
 class MissingAPIKeyError(RuntimeError):
-    """Raised when no LLM provider key is configured (no offline fallback exists)."""
+    """Raised when no LLM provider key is configured."""
 
 
 class LLM:
@@ -107,8 +106,7 @@ class LLM:
             raise MissingAPIKeyError(
                 "No LLM API key found. Set MISTRAL_API_KEY (default provider) or one of "
                 "GROQ_API_KEY / NVIDIA_NIM_API_KEY / GEMINI_API_KEY / GOOGLE_API_KEY / "
-                "OPENAI_API_KEY / ANTHROPIC_API_KEY (e.g. in biomimicry/.env). This "
-                "pipeline has no offline mode."
+                "OPENAI_API_KEY / ANTHROPIC_API_KEY (e.g. in biomimicry/.env)."
             )
 
         import litellm

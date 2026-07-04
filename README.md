@@ -8,8 +8,7 @@ There are no human gates, interrupts, or backward transitions.
 
 LLM calls go through **LiteLLM**. By default each task is complexity-routed to a Mistral
 tier (`mistral/mistral-small-latest`); set `BIOMIMICRY_MODEL` to pin every task to one model.
-Discover retrieves from a **Weaviate Cloud** collection (local BGE-M3 embeddings). An LLM API
-key is **required** — there is no offline mode.
+Discover retrieves from a **Weaviate Cloud** collection (local BGE-M3 embeddings). An LLM API key is **required**.
 
 ## Run
 
