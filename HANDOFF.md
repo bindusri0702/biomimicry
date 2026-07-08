@@ -1,6 +1,6 @@
 # Biomimicry Spiral Assistant — Handoff
 
-Status, remaining work, and how to validate it. Pairs with [README.md](README.md) (architecture).
+Status, remaining work, and how to validate it. Pairs with [README.md](README.md) (architecture)
 
 ---
 
